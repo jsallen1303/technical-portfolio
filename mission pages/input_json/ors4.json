@@ -1,0 +1,36 @@
+{
+    "title": "Octahedral Research Satellite 4",
+    "name": "ORS 4",
+    "imageurl" : "/Images/misc_missions/ors_3_ers_17__1.jpg",
+    "imagesize" : 300,
+    "alttext" : "ORS-3 photograph",
+    "descript": "<p><b><font size=\"+2\">O</font>ctahedral Research Satellite 4 (ORS 4)</b>, also known as Environmental Research Satellite-18 (ERS-18), was launched on 28 April 1967. The elliptical orbit had an apogee of 111,553 km, a perigee of 8631 km, and an inclination of 32.9&deg;. The orbital period was 2840 minutes. The spacecraft was a spin stabilized octahedron that weighed 7.8 kg and measured 29.3 cm along each triangular edge. Each of the 8 triangular faces contained solar cells, allowing for an average power output of 4 Watts. The spin rate was initially 6 rpm. There was a large coning during the early lifetime and owing to improper dynamic balancing, the final stable spin axis was ~90&deg; from the intended one. This change of orientation caused only minor effects in the data interpretation. The satellite carried a solar aspect sensor that determined the angle between the satellite-sun line and the satellite spin axis to within 7.5&deg;. The spacecraft operated well from launch until 3 June 1968, when a preset timer turned off the transmitter.</p>\n\n<p>The primary objectives of this satellite were to measure the cosmic gamma-ray spectrum between 0.25&ndash;6 MeV, monitor the solar X-ray flux, obtain a background measurement for a prototype space nuclear detonation detector, and measure charged particles within the magnetosphere.</p>",
+    "decade": 1960,
+  "lifetime": "Apr 1967&ndash;Jun 1968",
+    "features": [
+	""
+    ],
+    "instruments": [
+	{
+	    "name" : "gamma-ray experiment",
+	    "energy" : "0.25&ndash;6 MeV",
+	    "temporal_resolution" : "4.7 s samples every 75.2 s",
+	    "descript" : "The gamma-ray experiment consisted of 2 separate detector systems. The main system was used to measure the cosmic gamma-ray spectrum. It consisted of a 7.62 cm diameter by 6.35 cm long NaI crystal surrounded on all sides but one by a 1 cm thick plastic scintillation counter. The 2 crystals were optically separate and viewed by separate photomultiplier tubes. The plastic counter served as a charged particle rejector. A five channel differential pulse height analyzer and 2 integral discriminators were used to measure the energy loss in the central detector.</p>\n\n<p>A second gamma-ray detector system was used to determine the feasibility of a simple heavily shielded NaI crystal to measure delayed gamma-rays from a nuclear detonation in space. The sole purpose was to obtain the background counting rate as a function of position in the magnetosphere."
+	}
+    ],
+    "highlights": [
+	"The spectrum determined by the ORS 4 detector above 1 MeV was considerably above the extension of the diffuse cosmic background X-ray spectrum previously detected by Ranger III and other experiments. This led to the belief that there was an additional cosmic or galactic gamma-ray component above the one accounted for by the intergalactic electrons scattering on the 3 degree Kelvin background radiation."
+    ],
+    "archive": "",
+    "credit" : "Photograph of ORS-3 courtesy of Gunther&rsquo;s Space Page",
+  "navigation": [
+    {
+      "url": "images/ors_images.html",
+      "text": "Gallery"
+    },
+    {
+      "url": "biblio/ors4_biblio.html",
+      "text": "Bibliography"
+    }
+  ]
+}

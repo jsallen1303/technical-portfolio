@@ -1,0 +1,12 @@
+2023ApJ...943...61F|Fuller, C;Kaaret, P;Bluem, J;Kuntz, K;Hodges-Kluck, E;Jahoda, K|The Orion OB Association as a Generator for the Hot Circumgalactic Medium|0
+2022ApJ...936...72B|Bluem, J;Kaaret, P;Kuntz, K;Jahoda, K;Koutroumpa, D;Hodges-Kluck, E;Fuller, C;LaRocca, D;Zajczyk, A|Widespread Detection of Two Components in the Hot Circumgalactic Medium of the Milky Way|5
+2021AJ....161...57G|Gulick, H;Kaaret, P;Zajczyk, A;LaRocca, D;Bluem, J;Ringuette, R;Jahoda, K;Kuntz, K|Total X-Ray Emission from the LMC Observed with HaloSat|1
+2021ApJ...916....2S|Silich, E;Jahoda, K;Angelini, L;Kaaret, P;Zajczyk, A;LaRocca, D;Ringuette, R;Richardson, J|A Search for the 3.5 keV Line from the Milky Way's Dark Matter Halo with HaloSat|9
+2021ApJ...918...41R|Ringuette, R;Koutroumpa, D;Kuntz, K;Kaaret, P;Jahoda, K;LaRocca, D;Kounkel, M;Richardson, J;Zajczyk, A;Bluem, J|HaloSat Observations of Heliospheric Solar Wind Charge Exchange|3
+2020AJ....160...20S|Silich, E;Kaaret, P;Zajczyk, A;LaRocca, D;Bluem, J;Ringuette, R;Jahoda, K;Kuntz, K|Global X-Ray Properties of the Vela and Puppis A Supernova Remnants|4
+2020ApJ...904...54L|LaRocca, D;Kaaret, P;Kuntz, K;Hodges-Kluck, E;Zajczyk, A;Bluem, J;Ringuette, R;Jahoda, K|An Analysis of the North Polar Spur Using HaloSat|13
+2020ApJ...905...91B|Bluem, J;Kaaret, P;Fuelberth, W;Zajczyk, A;LaRocca, D;Ringuette, R;Jahoda, K;Kuntz, K|A HaloSat Analysis of the Cygnus Superbubble|3
+2020JATIS...6a4003L|LaRocca, D;Kaaret, P;Kirchner, D;Zajczyk, A;Robison, W;Johnson, T;Jahoda, K;Fuelberth, W;Gulick, H;McCurdy, R;White, K;Miles, D|Design and construction of the x-ray instrumentation onboard the HaloSat CubeSat|8
+2020JATIS...6d4005Z|Zajczyk, A;Kaaret, P;LaRocca, D;Fuelberth, W;Gulick, H;Jahoda, K;Kirchner, D;McCurdy, R;Robison, W;Silich, E|On-ground calibration of the HaloSat science instrument|4
+2020PhDT........45L|LaRocca, D|A HaloSat X-ray analysis of the North Polar Spur|0
+2019ApJ...884..162K|Kaaret, P;Zajczyk, A;LaRocca, D;Ringuette, R;Bluem, J;Fuelberth, W;Gulick, H;Jahoda, K;Johnson, T;Kirchner, D;Koutroumpa, D;Kuntz, K;McCurdy, R;Miles, D;Robison, W;Silich, E|HaloSat: A CubeSat to Study the Hot Galactic Halo|14

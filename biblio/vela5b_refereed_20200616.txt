@@ -1,0 +1,49 @@
+2009A&A...503..889K|Kuulkers, E;in't Zand, J;Lasota, J|Restless quiescence: thermonuclear flashes between transient X-ray outbursts|28
+2008ApJ...683L..55R|Rico, J|The Variable Superorbital Modulation of Cygnus X-1|19
+2006MNRAS.368.1025L|Lachowicz, P;Zdziarski, A;Schwarzenberg-Czerny, A;Pooley, G;Kitamoto, S|Periodic long-term X-ray and radio variability of Cygnus X-1|35
+2003ApJ...595..333P|Parkinson, P;Tournear, D;Bloom, E;Focke, W;Reilly, K;Wood, K;Ray, P;Wolff, M;Scargle, J|Long-Term X-Ray Variability of Circinus X-1|31
+2003MNRAS.343.1213C|Clarkson, W;Charles, P;Coe, M;Laycock, S|Long-term properties of accretion discs in X-ray binaries - II. Stability of radiation-driven warping|49
+2002MNRAS.329..588K|Kong, A;Charles, P;Kuulkers, E;Kitamoto, S|Long-term X-ray variability and state transition of GX 339-4|22
+2001ApJ...563..934C|Chou, Y;Grindlay, J|Binary and Long-Term (Triple?) Modulations of 4U 1820-30 in NGC 6624|78
+2000ApJ...528..410P|Paul, B;Kitamoto, S;Makino, F|Changes in the Long-Term Intensity Variations in Cygnus X-2 and LMC X-3|31
+2000ApJ...531..546K|Kitamoto, S;Egoshi, W;Miyamoto, S;Tsunemi, H;Ling, J;Wheaton, W;Paul, B|GINGA All-Sky Monitor Observations of Cygnus X-1|19
+1997ApJ...489L..83C|Corbet, R;Peele, A|RXTE Observations of the Be Star X-Ray Transient X0726-260 (4U 0728-25): Orbital and Pulse Periods|19
+1997ApJ...491..312C|Chen, W;Shrader, C;Livio, M|The Properties of X-Ray and Optical Light Curves of X-Ray Novae|436
+1996ApJ...473L..45W|Wijnands, R;Kuulkers, E;Smale, A|Detection of a approximately 78 day Period in the RXTE, VELA 5B, and Ariel 5 All-Sky Monitor Data of Cygnus X-2|45
+1994ApJ...435..840L|Lochner, J;Roussel-Dupre, D|Recurrence Times and Periodicities in 4U 1608-52 as Observed by VELA 5B|33
+1994ApJ...437..841W|Whitlock, L;Lochner, J|Observations of the Small Magellanic Cloud by the VELA 5B X-Ray Monitor|11
+1993ApJ...403..315K|Kitamoto, S;Tsunemi, H;Miyamoto, S;Roussel-Dupre, D|The Unstable Long-Term Periodicity of Aquila X-1|36
+1992ApJ...395..582S|Smale, A;Lochner, J|Long-Term Variability in Low-Mass X-Ray Binaries: A Study Using Data from VELA 5B|53
+1990A&A...238..140W|Whitlock, L;Imamura, J;Priedhorsky, W|Search for X-ray eclipses in the 1969 outburst of Centaurus X-4.|1
+1989ApJ...337L..81T|Tsunemi, H;Kitamoto, S;Okamura, S;Roussel-Dupre, D|Discovery of a Bright X-Ray Nova, GS 2000+25|69
+1989ApJ...338..381W|Whitlock, L;Roussel-Dupre, D;Priedhorsky, W|Observations of the X-Ray Transient 4U 0115+63|36
+1989ApJ...344..371W|Whitlock, L|Reanalysis of the 1973 Outburst of the X-Ray Transient V0332+53|15
+1989JBIS...42..309T|Terrell, J|The Vela 5B spacecraft: long-term X-ray astronomy.|0
+1989NYASA.571..534T|Terrell, J|The 1973 X-ray outburst of 4U1145-61|0
+1989PhDT........14W|Whitlock, L|Long-Term Observations of Three Massive X-Ray Binary Transients: 4U0115+63, V0332+53, and GX301-2.|2
+1988ApJ...328..265G|Gruber, D|The Very Low Frequency Power Spectrum of Centaurus X-3|1
+1986Ap&SS.126...89P|Priedhorsky, W|Recurrent Population II X-ray transients — similarities to SU UMa cataclysmic variables|38
+1986ApJ...300..669T|Terrell, J|VELA Observations of Centaurus A X-Ray Activity, 1969--1979|20
+1986ApJ...301..886P|Priedhorsky, W;Terrell, J|Long-Term Observations of Cygnus X-3 with VELA 5B|18
+1985SSRv...40..305P|Priedhorsky, W|Long Term Observations of CYGNUS-X-3 with VELA-5B|3
+1984ApJ...280..661P|Priedhorsky, W;Terrell, J|Long-term observations of X-ray sources : the Aquila-Serpens-Scutum.|84
+1984ApJ...284L..17P|Priedhorsky, W;Terrell, J|Discovery of a 176 day period in 4U 1820-30.|74
+1984ApJ...285L..15T|Terrell, J;Priedhorsky, W|The 1973 X-ray transient V 0332+53.|49
+1983ApJ...270..233P|Priedhorsky, W;Terrell, J;Holt, S|Evidence for an approximatily 300 day period in Cygnus X-1.|118
+1983ApJ...271L..65K|Kemp, J;Barbour, M;Henson, G;Kraus, D;Nolt, I;Radostitz, J;Priedhorsky, W;Terrell, J;Walker, E|Cygnus X-1 : optical variation on the 294 day X-ray period.|42
+1983ApJ...273..709P|Priedhorsky, W;Terrell, J|Long-term X-ray observations of CEN X-3, GX 301-2 (4U 1223-62), GX 304-1 (4U 1258-61) and 4U 1145-61.|83
+1983Natur.303..681P|Priedhorsky, W;Terrell, J|111-day periodicity of X-ray transient A0535 + 26|61
+1982ApJ...254..279T|Terrell, J;Fenimore, E;Klebesadel, R;Desai, U|Observation of two gamma-ray bursts by VELA X-ray detectors.|38
+1978JGR....83...75P|Palmer, I;Allum, F;Singer, S|Bidirectional anisotropies in solar cosmic ray events: evidence for magnetic bottles|62
+1977JGR....82.2657P|Palmer, I;Higbie, P;Hones, E|The solar proton event of April 16, 1970, 1. Features in interplanetary space and in the magnetosheath|5
+1977JGR....82.2665H|Higbie, P;Palmer, I|The solar proton event of April 16, 1970, 2. Transformation of proton pitch angle distributions from the solar wind into the magnetosheath|8
+1976ApJ...206L.135B|Belian, R;Conner, J;Evans, W|The discovery of X-ray bursts from a region in the constellation Norma.|99
+1976ApJ...207L..91E|Evans, W;Belian, R;Conner, J|Observations of intense cosmic X-ray bursts.|17
+1975ApJ...197..425M|Mook, D;Messina, R;Hiltner, W;Belian, R;Conner, J;Evans, W;Strong, I;Blanco, V;Hesser, J;Kunkel, W;Lasker, B;Golson, J;Pel, J;Stokes, N;Osawa, K;Ichimura, K;Tomita, K|Results of X-ray and optical monitoring of Scorpius X-1 in 1970.|25
+1972ApJ...171L..87B|Belian, R;Conner, J;Evans, W|A Probable Precursor to the X-Ray Nova Centaurus XR-4|39
+1972JGR....77.4682M|Mende, S;Sharp, R;Shelley, E;Haerendel, G;Hones, E|Coordinated observations of the magnetosphere: The development of a substorm|43
+1972NPhS..239..125C|Conner, J;Evans, W;Mook, D|X-ray Observations of Cyg X-3 Near the Time of Radio Outbursts|5
+1971Ap&SS..12..378K|Kitamura, T;Matsuoka, M;Miyamoto, S;Nakagawa, M;Oda, M;Ogawara, Y;Takagishi, K;Rao, U;Chitnis, E;Jayanthi, U;Prakaso-Rao, A;Bhandari, S|Time Variation of the X-Ray Spectrum and Optical Luminosity of SCO X-1|20
+1971SoPh...20..400M|Milkey, R;Blocker, N;Chambers, W;Fehlau, P;Fuller, J;Kunz, W|The Time Behavior of Temperature and Emission Measure in X-Ray Flares|18
+1970ApJ...162L.115E|Evans, W;Belian, R;Conner, J;Strong, I;Hiltner, W;Kunkel, W|X-Ray and Optical Variations of Scorpius X-1|27
+1969ApJ...157L.157C|Conner, J;Evans, W;Belian, R|The Recent Appearance of a New X-Ray Source in the Southern Sky|83

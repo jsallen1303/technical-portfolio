@@ -1,0 +1,59 @@
+{
+    "title": "The Rossi X-ray Timing Explorer",
+    "name": "The Rossi X-ray Timing Explorer",
+    "gofsidebar" : "Past",
+    "decade" : 1990,
+    "alttext": "Visualization of RXTE",
+    "imagesize": 103,
+    "imageurl": "/Images/xte/xte_small.gif",
+    "descript": "<p><b><font size=\"+2\">T</font>he Rossi X-ray Timing Explorer, RXTE</b>, was launched on December 30, 1995. RXTE was designed to facilitate the study of time variability in the emission of X-ray sources with moderate spectral resolution. Time scales from microseconds to months are covered in a broad spectral range from 2 to 250 keV. It was designed for a required lifetime of two years, but operated for more than 16 years before being decommissioned.</p>",
+    "lifetime": "30 Dec 1995&ndash;5 Jan 2012",
+    "features": [
+	"Very large collecting area and all-sky monitoring of bright sources"
+    ],
+    "instruments": [
+	{
+	    "name" : "Proportional Counter Array (PCA)",
+	    "energy" : "2&ndash;60 keV",
+	    "fov" : "1&deg; collimator (FWHM)",
+	    "area" : "6500 cm<sup>2</sup> (total)",
+	    "energy_resolution" : "&lt;18% at 6 keV",
+	    "sensitivity" : "0.1 mCrab",
+	    "temporal_resolution" : "1 &micro;s",
+	    "descript" : "The PCA consisted of five proportional counters built by the Laboratory for High Energy Astrophysics. The PCA counters contained a propane layer, 3 Xenon layers split in two, and a Xenon veto layer."
+	},
+	{
+	    "name" : "High Energy X-ray Timing Experiment",
+	    "energy" : "12&ndash;250 keV",
+	    "fov" : "1&deg; (FWHM)",
+	    "area" : "800 cm<sup>2</sup> each cluster<br>1600 cm<sup>2</sup> total",
+	    "energy_resolution" : "15% at 60 keV",
+	    "temporal_resolution" : "8 &micro;s",
+	    "sensitivity" : "&sim;1 mCrab (&asymp; 3.6 &times; 10<sup>-3</sup> ct/s for 10 ks exposure)",
+	    "descript" : "HEXTE consisted of two clusters each containing four phoswich scintillation detectors. Each cluster could &ldquo;rock&rdquo; (beam switch) along mutually orthogonal directions to provide background measurements 1.5 or 3.0 degrees away from the source every 16 to 128 s. Automatic gain control was provided by using a <sup>241</sup>Am radioactive source mounted in each detector&rsquo;s field of view. "
+	},
+	{
+	    "name" : "All-Sky Monitor (ASM)",
+	    "energy" : "2&ndash;10 keV",
+	    "resolution" : "3&prime; &times; 15&prime;",
+	    "fov" : "6&deg; &times; 90&deg; each",
+	    "area" : "90 cm<sup>2</sup> total",
+	    "sensitivity" : "30 mCrab",
+	    "descript" : "The ASM consists of three wide-angle shadow cameras equipped with proportional counters."
+	}
+    ],
+    "highlights": [
+ 	"Discovery of kilohertz QPOs",
+        "Discovery of spin periods in low mass X-ray binaries",
+	"Detection of X-ray afterglows from gamma-ray bursts",
+  	"Extensive observations of the soft state transition of Cyg X-1",
+	"Observations of the Bursting Pulsar over a broad range of luminosities, providing stringent test of accretion theories"
+    ],
+    "archive": "The HEASARC hosts catalogs, spectra, lightcurves, and raw data",
+    "navigation": [
+	{
+	    "url" : "/docs/xte/xte_1st.html",
+	    "text" : "RXTE Guest Observer Facility"
+	}
+    ]
+}

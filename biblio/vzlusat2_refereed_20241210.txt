@@ -1,0 +1,8 @@
+2022Univ....8..241G|Granja, C;Hudec, R;Marsikova, V;Inneman, A;Pina, L;Doubravova, D;Matej, Z;Daniel, V;Oberta, P|Directional-Sensitive X-ray/Gamma-ray Imager on Board the VZLUSAT-2 CubeSat for Wide Field-of-View Observation of GRBs in Low Earth Orbit|6
+2019AN....340..652S|Sieger, L;Nentvich, O;Urban, M|Satellite temperature measurement in LEO and improvement method of temperature sensors calibration based on the measured data|0
+2019AN....340..674F|Filgas, R;Malich, M;Kuwahara, T;Broulim, J;Holik, M;Sakal, M;Murata, Y;Tomio, H;Gohl, S;Pineda T., J|RISEPix—A Timepix‑based radiation monitor telescope onboard the RISESAT satellite|9
+2019SSRv..215...40D|Daniel, V;Inneman, A;Vertat, I;Baca, T;Nentvich, O;Urban, M;Stehlikova, V;Sieger, L;Skala, P;Filgas, R;Zadrazil, V;Linhart, R;Masopust, J;Jamroz, T;Pina, L;Marsikova, V;Mikulickova, L;Belas, E;Pospisil, S;Vykydal, Z;Mora, Y;Pavlica, R|In-Orbit Commissioning of Czech Nanosatellite VZLUSAT-1 for the QB50 Mission with a Demonstrator of a Miniaturised Lobster-Eye X-Ray Telescope and Radiation Shielding Composite Materials|15
+2018AN....339..367U|Urban, M;Nentvich, O;Stehlikova, V;Sieger, L;Mikulickova, L|Outgassing monitor on VZLUSAT-1: Preliminary results|4
+2018AN....339..382S|Stehlikova, V;Urban, M;Nentvich, O;Sieger, L|Radiation resistance monitor on VZLUSAT-1: Preliminary results|3
+2018AN....339..397N|Nentvich, O;Urban, M;Stehlikova, V;Sieger, L;Inneman, A|VZLUSAT-1: Health monitoring system, preliminary results|4
+2017AdAst2017E...3B|Blazek, M;Pata, P;Inneman, A;Skala, P|Astronomical Tasks for Tests of X-Ray Optics in VZLUSAT-1 Nanosatellite|8

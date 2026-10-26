@@ -1,0 +1,130 @@
+2018A&A...618A.112M|Mourard, D;Broz, M;Nemravova, J;Harmanec, P;Budaj, J;Baron, F;Monnier, J;Schaefer, G;Schmitt, H;Tallon-Bosc, I;Armstrong, J;Baines, E;Bonneau, D;Bozic, H;Clausse, J;Farrington, C;Gies, D;Jurysek, J;Korcakova, D;McAlister, H;Meilland, A;Nardetto, N;Svoboda, P;Slechta, M;Wolf, M;Zasche, P|Physical properties of β Lyrae A and its opaque accretion disk|4
+2005SoSyR..39...73S|Shevchenko, V;Mohamed, R|Spacecraft exploration of asteroids|0
+1999KosNT...5d..79S|Shevchenko, V|Investigation of Asteroids with the Use of Space Vehicles|0
+1993AdSpR..13...77S|Sanders, W|X-ray investigations of the hot ISM|3
+1986MNRAS.221..961C|Corbet, R;Smale, A;Menzies, J;Branduardi-Raymont, G;Charles, P;Mason, K;Booth, L|Long-term and periodic variability of 4U 1258-61 (GX 304-1).|30
+1985ApJ...288..751S|Schmitt, J;Harnden, F;Rosner, R;Peres, G;Serio, S|The X-ray corona of Procyon.|49
+1985ApJ...291..621M|Matilsky, T;Jones, C;Forman, W|An X-ray study of the Centaurus cluster of galaxies using Einstein.|43
+1983PhDT.........3B|Bobroff, N|Sounding Rocket XUV Observations of Capella.|0
+1982ApJ...263..277W|White, N;Swank, J;Holt, S;Parmar, A|A comparison of the X-ray properties of X Per and GAM Cas.|101
+1982PASP...94..157P|Peters, G|The hard X-ray flux from GAM CAS during 1970-73.|17
+1980A&A....85..119H|Hammerschlag-Hensberge, G;van den Heuvel, E;Lamers, H;Burger, M;de Loore, C;Glencross, W;Howarth, I;Willis, A;Wilson, R;Menzies, J;Whitelock, P;van Dessel, E;Sanford, P|IUE observations of the Be stars HD 102567 (4U 1145-61), X Per and GAM Cas.|46
+1980ApJ...235L.153B|Branduardi, G;Kylafis, N;Lamb, D;Mason, K|Evidence for the degenerate dwarf nature of CYG X-2.|49
+1980ApJ...236L.131A|Armstrong, J;Johnston, M;Bradt, H;Cowley, A;Doxsey, R;Griffiths, R;Hesser, J;Schwartz, D|Precise positions and optical search for the 38 second X-ray, pulsar near OAO 1653-40 and upper limit on X-ray emission from, V861 Sco.|18
+1980ApJ...237..154C|Charles, P;Thorstensen, J;Bowyer, S;Clark, G;Li, F;van Paradijs, J;Remillard, R;Holt, S;Kaluzienski, L;Junkkarinen, V;Puetter, R;Smith, H;Pollard, G;Sanford, P;Tapia, S;Vrba, F|The 1978 X-ray and optical outburst of AQL X-1 (4U 1908+00).|41
+1980ApJ...237..596W|Willis, A;Wilson, R;vanden Bout, P;Sanner, F;Black, J;Davis, R;Dupree, A;Gursky, H;Hartmann, L;Raymond, J;Matilsky, T;Burger, M;De Loore, C;van Dessel, E;Whitelock, P;Menzies, J;Meikle, W;Joseph, R;Sanford, P;Pollard, G;Sandford, M|Ultraviolet, visible, infrared and X-ray observations of SCO X-1.|44
+1980ApJ...238..969D|Dupree, A;Gursky, H;Black, J;Davis, R;Hartmann, L;Matilsky, T;Raymond, J;Hammerschlag-Hensberge, G;van den Heuvel, E;Burger, M;Lamers, H;Vanden Bout, P;Morton, D;De Loore, C;van Dessel, E;Menzies, J;Whitelock, P;Watson, M;Sanford, P;Pollard, G|Simultaneous ultraviolet, optical and X-ray observations of the X-raysource Vel X-1 (HD 77581).|92
+1980ApJ...242.1114T|Treves, A;Chiappetti, L;Tanzi, E;Tarenghi, M;Gursky, H;Dupree, A;Hartmann, L;Raymond, J;Davis, R;Black, J;Matilsky, T;vanden Bout, P;Sanner, F;Pollard, G;Sanford, P;Joseph, R;Meikle, W|Ultraviolet, X-ray, and infrared observations of HDE 226868 = Cygnus X-1.|44
+1980MNRAS.191...81I|Ilovaisky, S;Chevalier, C;White, N;Mason, K;Sanford, P;Delvaille, J;Schnopper, H|Simultaneous X-ray and optical observations of rapid variability in SCO X-1.|27
+1980MNRAS.192..861P|Panagia, N;Vettolani, G;Boksenberg, A;Ciatti, F;Ortolani, S;Rafanelli, P;Rosino, L;Gordon, C;Reimers, D;Hempe, K;Benvenuti, P;Clavel, J;Heck, A;Penston, M;Macchetto, F;Stickland, D;Bergeron, J;Tarenghi, M;Marano, B;Palumbo, G;Parmar, A;Pollard, G;Sanford, P;Sargent, W;Sramek, R;Weiler, K;Matzik, P|Coordinated optical, ultraviolet, radio and X-ray observations of SN 1979c in M 100.|119
+1980MNRAS.193..731W|White, N;Charles, P;Thorstensen, J|The discovery of 'SCO X-1 type' behaviour from the X-ray burster 4U 1735-44.|16
+1980MNRAS.193P..49P|Parmar, A;Branduardi-Raymont, G;Pollard, G;Sanford, P;Fabian, A;Stewart, G;Schreier, E;Polidan, R;Oegerle, W;Locke, M|X-ray observations of the OAO 1653-40.field.|15
+1980PhDT.......115P|Pollard, G|X-ray background studies with Ariel 5 and Copernicus observations of the X-ray source: OAO1653-40|1
+1979A&A....75...61B|Bernacca, P;Bianchi, L|Copernicus observations of Theta-2 Ori A, a proposed optical counterpart to the X-ray source 4U 0531-05.|10
+1979ApJ...229.1079H|Hutchings, J;Cowley, A;Crampton, D;van Paradijs, J;White, N|Centaurus X-3.|68
+1979ApJ...229L.119W|Woodgate, B;Lucke, R;Socker, D|Detection of one million degree gas in the supernova remnant IC 443.|18
+1979ApJ...233L...7P|Polidan, R;Oegerle, W;Pollard, G;Sanford, P;Parmar, A|Simultaneous ultraviolet and X-ray observations of the massive binary V861 Scorpii (=OAO 1653-40?).|14
+1979ApJ...233L.121W|White, N;Pravdo, S|The discovery of 38.22 second X-ray pulsations from the vicinity of OAO 1653-40.|56
+1979MNRAS.189P...9M|Mason, K;Sanford, P|The 4.8 hour modulation of Cyg X-3.|20
+1979Natur.279..508B|Branduardi, G;Dupree, A;Sanford, P;Pollard, G|Search for short time-scale periodicity in the X-ray flux of 4U1700-37|10
+1979PASP...91..615O|Oegerle, W;Polidan, R|Observations of a highly energetic event in the ultraviolet spectrum of the massive X-ray (?) V861 Sco.|0
+1979RSPSA.366..281S|Sanford, P|Galactic X-Ray Observations Observations Of Compact X-Ray Sources|0
+1978ATsir1006....3B|Bisnovatyj-Kogan, G;Syunyaev, R;Cherepashchuk, A;Shakura, N|Phenomenon V861 Sco = OAO 1653-40 - another black hole or shock wave in a normal binary system?|0
+1978ApJ...220..600W|White, N;Mason, K;Sanford, P;Johnson, H;Catura, R|X-ray and radio observations of GX 17+2 and GX 13+1.|26
+1978ApJ...222..664J|Johnson, H;Catura, R;Lamb, P;White, N;Sanford, P;Hoffman, J;Lewin, W;Jernigan, J|Searches for correlated X-ray and radio emission from X-ray burst sources.|8
+1978MNRAS.183..813C|Charles, P;Mason, K;White, N;Culhane, J;Sanford, P;Moffat, A|X-ray and optical observations of 3U 0900-40 (Vela X-1).|46
+1978MNRAS.185..137B|Branduardi, G;Mason, K;Sanford, P|Further Copernicus X-ray observations of 3U 1700-37.|35
+1978MNRAS.185..673M|Mason, K;Culhane, J|The nature of the X-ray source associated with the Vela pulsar.|8
+1978MNRAS.185P..15C|Charles, P;Culhane, J;Zarnecki, J|The X-ray structure of supernova remnants II. Puppis-A.|3
+1978Natur.275..296P|Polidan, R;Pollard, G;Sanford, P;Locke, M|X-ray emission from the companion to V861 Sco.|48
+1978PhDT.........8R|Ride, S|The Interaction of X-Rays with the Interstellar Medium.|0
+1977A&A....61..347R|Ride, S;Walker, A|The interstellar medium in the direction of the Crab nebula: reconciling soft X-ray and radio observations.|8
+1977ApJ...211..152F|Fay, T;Mufson, S;Duncan, B;Hoover, R;Sanford, P;Charles, P;White, N;Wisniewski, W;Wamsteker, W|Optical, infrared, and X-ray observations of NGC 6624.|4
+1977ApJ...211L..23C|Charles, P;Culhane, J|Extended soft X-ray emission from the Crab nebula.|16
+1977ApJ...212...22M|Mushotzky, R;Baity, W;Peterson, L|A search for hard X-rays from five strong extragalactic radio sources.|23
+1977ApJ...212..112J|Johnson, H;Catura, R;Charles, P;Sanford, P|Radio and X-ray observations of NGC 1851 and NGC 1904.|13
+1977ApJ...216L..19K|Kestenbaum, H;Long, K;Novick, R;Weisskopf, M;Wolff, R|Evidence for X-ray iron line emission in Cygnus X-3 obtained with a crystal spectrometer.|13
+1977ApJ...218..504M|Margon, B;Thorstensen, J;Bowyer, S;Mason, K;White, N;Sanford, P;Parkes, G;Stone, R;Bailey, J|Photometry of slow X-ray pulsars. II. The 13.9 minute period of X Persei.|22
+1977ApJ...218L..49E|Epstein, A|LMC X-1: a luminous extended X-ray source.|7
+1977MNRAS.178..307C|Charles, P;Culhane, J;Fabian, A|The X-ray structure of supernova remnants - I. Cassiopeia A.|14
+1977MNRAS.178P...1D|Davison, P;Fabian, A|Copernicus and Ariel V observations of Hercules X-1.|20
+1977MNRAS.178P..53D|Davison, P;Morrison, L|A lunar occultation position for GX 9+1.|5
+1977Natur.265..606K|Kaluzienski, L;Holt, S;Boldt, E;Serlemitsos, P|Recurrent X-ray outbursts from Aquila X-1|29
+1977PhDT........18Z|Zarnecki, J|X-ray studies of the Puppis-A supernova remnant|1
+1976Ap&SS..42..123H|Holt, S|Temporal X-Ray Astronomy with a Pinhole Camera|37
+1976Ap&SS..42..249F|Fabian, A;Mitchell, R;Davison, P;Charles, P;Culhane, J|`Copernicus' observations of extragalactic X-ray sources|1
+1976ApJ...203L..29M|Mason, K;Branduardi, G;Sanford, P|The X-ray behavior of 3U 1700-37.|45
+1976ApJ...207...78M|Mason, K;Becklin, E;Blankenship, L;Brown, R;Elias, J;Hjellming, R;Matthews, K;Murdin, P;Neugebauer, G;Sanford, P;Willner, S|Further joint X-ray, infrared, and radio observations of Cygnus X-3.|59
+1976ApJ...207..359M|Margon, B;Bowyer, S;Jones, T;Davidsen, A;Mason, K;Sanford, P|An X-ray survey of BL Lacertae objects.|11
+1976ApJ...208....1W|Wolff, R;Mitchell, R;Charles, P;Culhane, J|The X-ray structure of the Perseus cluster of galaxies.|29
+1976ApJ...209L..87J|Jenkins, E;Silk, J;Wallerstein, G|Interaction of the Vela supernova remnant with the cloudy interstellar medium.|28
+1976ApJ...209L.119W|White, N;Mason, K;Huckle, H;Charles, P;Sanford, P|Periodic modulation of three galactic X-ray sources.|95
+1976EExSc...3....1S|Snow, T|A review of ultraviolet astronomical research with the Copernicus satellite|7
+1976MNRAS.174P..35S|Stark, J;Davison, P;Culhane, J|X-ray observations of NGC 5128.|16
+1976MNRAS.175P..47B|Branduardi, G;Ives, J;Sanford, P;Brinkman, A;Maraschi, L|Observations of the transient X-ray source at the galactic centre (A1742-28).|24
+1976MNRAS.176...91W|White, N;Mason, K;Sanford, P;Ilovaisky, S;Chevalier, C|X-ray and optical observations of Sco X-1.|45
+1976MNRAS.176..193M|Mason, K;White, N;Sanford, P;Hawkins, F;Drake, J;York, D|The interstellar medium in the line of sight to X Persei and 3U 0352+30.|29
+1976MNRAS.176..201W|White, N;Mason, K;Sanford, P;Murdin, P|The X-ray behaviour of 3U 0352+30 (X Per).|106
+1976MNRAS.176..217M|Margon, B;Bowyer, S;Penegor, G|Simultaneous photometry of X Persei and 3U 0352+30.|21
+1976MNRAS.177..513M|Mason, K;Charles, P;White, N;Culhane, J;Sanford, P;Strong, K|A study of four X-ray sources with properties similar to Sco X-1.|49
+1976Natur.260..690M|Mason, K;White, N;Sanford, P|X-ray emission from GAM Cas.|37
+1976Natur.263..393W|Walker, E;Brownlie, G;Mason, K;Sanford, P;Quintanilla, A|Optical behaviour of HDE 226868 during a CYG X-1 X-ray transition.|3
+1976Natur.264..342W|White, N;Mason, K;Branduardi, G;Sanford, P;Maraschi, L;Treves, A|Periodic behaviour of the X-ray flux from the region near 3U 1727-33.|5
+1976PhDT.......239M|Mason, K|Cyg X-3 and the binary X-ray sources|3
+1976PhDT.......252C|Charles, P|X-ray emission from supernova remnants|4
+1975ApJ...196L..19C|Charles, P;Culhane, J;Zarnecki, J|Copernicus: soft X-ray emission from certain features of the Cygnus Loop.|14
+1975ApJ...196L..23D|Davison, P;Culhane, J;Mitchell, R;Fabian, A|An increase in the X-ray flux from Centaurus A.|39
+1975ApJ...196L..51M|Margon, B;Mason, K;Hawkins, F;Sanford, P|Soft X-ray observations of Centaurus X-3 from Copernicus.|8
+1975ApJ...197L..61C|Charles, P;Culhane, J;Zarnecki, J;Fabian, A|Copernicus: the X-ray spectrum of Cassiopeia A.|13
+1975ApJ...198L..69T|Tuohy, I;Rapley, C|Variability of the X-ray sources in the Magellanic Clouds.|37
+1975ApJ...200L...5M|Mitchell, R;Charles, P;Culhane, J;Davison, P;Fabian, A|X-ray emission from the Centaurus cluster.|26
+1975ApJ...200L..19D|Davidsen, A;Margon, B;Liebert, J;Spinrad, H;Middleditch, J;Chanan, G;Mason, K;Sanford, P|Optical and X-ray observations of the PSR 1913+16 field.|14
+1975ApL....16...19H|Hawkins, F;Mason, K;Sanford, P|Copernicus: New Positions for Cygnus X-1 and 3U 0352+30 (X Per?)|19
+1975ApL....16..129C|Charles, P;Culhane, J;Rapley, C|Copernicus: The Spatial Distribution of the X-ray Emission from IC443|12
+1975ApL....16..145C|Charles, P;Mason, K;Davison, P|Copernicus: The Position and Nature of Scutum X-1|7
+1975MNRAS.170P..17C|Charles, P;Longair, M;Sanford, P|Copernicus: X-ray observations of 3C 390.3.|16
+1975MNRAS.170P..61C|Charles, P;Calhane, J;Fabian, A;Mitchell, R;Zarnecki, J|Copernicus: The X-ray spectrum of Puppis-A|3
+1975MNRAS.171P..33T|Tuohy, I;Cruise, A|Observation of an accretion wake and pre-eclipse dips in Centaurus X-3.|7
+1975MNRAS.171P..41B|Bahcall, J;Charles, P;Davison, P;Sanford, P;Kellogg, E;York, D|Copernicus - X-ray observations of 3U 9759-49.|3
+1975MNRAS.173...77D|Davison, P|The temporal behaviour of Taurus X-1 (the Crab nebula).|4
+1975MNRAS.173..103Z|Zarnecki, J;Stark, J;Charles, P;Culhane, J|Copernicus: X-ray observations of several radio supernova remnants.|8
+1975MNRAS.173P..33D|Davison, P;Tuohy, I|Copernicus observations of Circinus X-1.|6
+1975Natur.256..109S|Sanford, P;Ives, J;Bell Burnell, S;Mason, K;Murdin, P|Ariel V and Copernicus measurements of the X-ray variability of CYG X-1|38
+1975Natur.258..214S|Snyder, W;Henry, R;Charles, P;Culhane, J;Sanford, P;Bleach, R;Drake, J|Soft X-ray search of centre of Cygnus Loop|4
+1975OptEn..14..133W|Wissinger, A|The Orbiting Astronomical Observatory.|0
+1975SciAm.233f..38C|Charles, P;Culhane, J|X rays from supernova remnants.|2
+1974ApJ...189L..59F|Fabian, A;Zarneck, J;Culhane, J;Hawkins, F;Peacock, A;Pounds, K;Parkinson, J|Copernicus X-Ray Observations of NGC 1275 and the Core of the Perseus Cluster|57
+1974ApJ...190L...9C|Culhane, J;Cruise, A;Rapley, C;Hawkins, F|Detection of Soft X-Ray Emission from PSR 0833-45|13
+1974ApJ...191L.113R|Rapley, C;Tuohy, I|X-Ray Observations of the Large Magellanic Cloud by the Copernicus Satellite|31
+1974ApJ...192L..65M|Mason, K;Hawkins, F;Sanford, P;Murdin, P;Savage, A|X-Ray Absorption Events in Cygnus X-1 Observed with Copernicus|72
+1974ApJ...192L.119B|Becklin, E;Hawkins, F;Mason, K;Matthews, K;Neugebauer, G;Packman, D;Sanford, P;Schupler, B;Stark, A;Wynn-Williams, C|Infrared, Radio, and X-Ray Observations of Cygnus X-3|26
+1974ApJ...193L..25D|Davidsen, A;Malina, R;Smith, H;Spinrad, H;Margon, B;Mason, K;Hawkins, F;Sanford, P|Optical and X-Ray Observations of 3u 0614+09|33
+1974ApJ...194L..75M|Margon, B;Mason, K;Sanford, P|A Search for Soft X-Ray Emission from Red-Giant Coronae|16
+1974JPhE....7..183B|Bowles, J;Patrick, T;Sheather, P;Eiband, A|Design of an X-ray telescope system for an orbiting astronomical observatory|28
+1974MNRAS.168..479L|Longair, M;Willmore, A|The X-ray spectrum of Cygnus-A|26
+1974MNRAS.169....7W|Willmore, A;Mason, K;Sanford, P;Hawkins, F;Murdin, P;Penston, M;Penston, M|Measurements of the position of X-ray sources with Copernicus.|30
+1974MNRAS.169...25M|Murdin, P;Penston, M;Penston, M;Glass, I;Sanford, P;Hawkins, F;Mason, K;Willmore, A|Optical observations of stars near Copernicus X-ray positions.|28
+1974MNRAS.169P..41H|Hawkins, F;Mason, K;Sanford, P;Culhane, J|Copernicus: The X-ray structure of the Crab Nebula|6
+1974MNRAS.169P..73M|Mason, K;Charles, P|Is µ Columbae the X-ray source 3U 0545-32?|0
+1974Natur.249..746P|Parkinson, J;Mason, K;Sanford, P|New position of Cen X-3 from Copernicus|13
+1974Natur.250..471G|Griffiths, R;Peacock, A|X-ray observations of the Coma and Virgo clusters from Copernicus|16
+1974Natur.250..714G|Griffiths, R;Peacock, A|Absence of soft X rays from Eta Carinae|8
+1974RSPSA.340..397H|Hawkins, F|Introduction to the Copernicus Satellite|1
+1974RSPSA.340..411S|Sanford, P|X-ray Observations of Variable Sources|22
+1974RSPSA.340..423C|Culhane, J|Studies of the X-Ray Emission from Supernova Remnants|0
+1974RSPSA.340..439W|Willmore, A|Measurement of the Positions of X-Ray Sources|1
+1973Asnau..10..179W|Weiss, G|Das Auge des "Copernicus". Astronomie-Satellit OAO 3 - Neues Fenster zum Universum.|0
+1973MNRAS.165..355C|Charles, P;Culhane, J;Tuohy, I|Interstellar absorption of the lowenergy X-rays from the Crab Nebula|12
+1973NPhS..241..109H|Hawkins, F;Mason, K;Sanford, P|Determination of the Position of GX2 + 5 with Copernicus|9
+1973NPhS..243....4Z|Zarnecki, J;Culhane, J;Fabian, A;Rapley, C;Silk, R;Parkinson, J;Pounds, K|Low Energy X-ray Map of Puppis A Supernova Remnant|24
+1973Natur.244..212F|Fabian, A|Long-term Behaviour of Hercules X-1|19
+1972CoBAO..45...12G|Gurzadian, G;Harutyunian, E|The Orbiting Astronomical Observatory "Orion"|0
+1972NPhS..239..135S|Sandford, P;Hawkins, F|X-ray Observations of Cygnus X-3 by Copernicus|31
+1972NPhS..240..119K|Kondo, Y;McCluskey, G;Houck, T|Further Evidence for a Black Hole in Beta Lyrae?|2
+1972Sci...177..213C|Code, A;Savage, B|Orbiting Astronomical Observatory: Review of Scientific Results|32
+1970Rise...51..148G|Grun, M;Koubsky, P|Some results from Orbiting Astronomical Observatory.|0
+1970SpFl...12..230.||OAO probes "larger" universe.|0
+1965NYASA.134..183I|Imgram, D|Design and Development of the Orbiting Astronomical Observatory|0
+1964JSpRo...1..477H|Hemmerdinger, L|Thermal design of the orbiting astronomical observatory|1
+1963SSRv....2..621R|Rogerson, J|The Orbiting Astronomical Observatories|13
+1962ApOpt...1..155H|Hallock, H|Optics in the orbiting astronomical observatory|3

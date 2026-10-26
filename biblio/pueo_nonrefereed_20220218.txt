@@ -1,0 +1,80 @@
+2021APS..APRD21004P|Prechelt, R|Prowling for Ultrahigh Energy Neutrinos with PUEO|0
+2021APS..APRS10006P|Prechelt, R;Pueo Collaboration|Prowling for Ultrahigh-Energy Neutrinos with PUEO|0
+2019ICRC...36..867D|Deaconu, C|Searches for Ultra-High-Energy Neutrinos with ANITA|1
+2018AAS...23123203C|Currie, T;Ha, R;Imai-Hong, A;Silva, J;Stark, C;Naea Stevens, D|Local Community Advocacy for the Thirty Meter Telescope on the Big Island of Hawai’i|0
+2014SPIE.9148E..4VO|Olguin, R;Hartung, M;Hayward, T;Gratadour, D;Guesalaga, A|On-sky PSF reconstruction with APETy|0
+2011aoel.confP..60H|Hartung, M;Gratadour, D;Chun, M;Hayward, T|PSF reconstruction for NICI, the high-contrast coronagraphicimager of GEMINI observatory|0
+2010yCat..21850124S|Stalder, B;Chambers, K;Vacca, W|58 radio sources near BNGSs (Stalder+, 2009)|0
+2009DPS....40.3123H|Hirtzig, M;Tokano, T;Coustenis, A;Rannou, P;Lai, O;Gendron, E;Drossart, P;Combes, M;Rodriguez, S;Le Mouelic, S|Titan's Clouds Detections: Observational Constraints from Adaptive Optics and Comparison to GCM Predictions.|0
+2009yCat..35061469D|Desort, M;Lagrange, A;Galland, F;Udry, S;Montagnier, G;Beust, H;Boisse, I;Bonfils, X;Bouchy, F;Delfosse, X;Eggenberger, A;Ehrenreich, D;Forveille, T;Hebrard, G;Loeillet, B;Lovis, C;Mayor, M;Meunier, .;Moutou, C;Pepe, F;Perrier, C;Pont, F;Queloz, D;Santos, N;Segransan, D;Vidal-Madjar, A|VizieR Online Data Catalog: theta Cyg radial velocity variations (Desort+, 2009)|0
+2008SPIE.7015E..29C|Clenet, Y;Lidman, C;Gendron, E;Rousset, G;Fusco, T;Kornweibel, N;Kasper, M;Ageorges, N|Tests of the PSF reconstruction algorithm for NACO/VLT|6
+2006DPS....38.2722H|Hirtzig, M;Coustenis, A;Negrao, A;Rannou, P;Lai, O;Gendron, E;Drossart, P;Combes, M;Rodriguez, S;le Mouelic, S;Sotin, C|Titan's Atmosphere Evolution As Seen By Adaptive Optics And VIMS.|0
+2006SPIE.6272E..2IV|Veillet, C;Lai, O;Salmon, D;Pique, J|VASAO: visible all sky adaptive optics|0
+2006SPIE.6272E..3TC|Clenet, Y;Kasper, M;Gendron, E;Fusco, T;Rousset, G;Gratadour, D;Lidman, C;Marco, O;Ageorges, N;Egner, S|PSF reconstruction for NAOS-CONICA|0
+2006SPIE.6276E..1GH|Ho, K;Cuillandre, J;Lin, C;Benedict, T;Lai, O;Ward, J;Salmon, D;Luppino, G;Beletic, J;Dorn, R;Puget, P;Burke, B;Wang, S|FlyEyes: integrating CCID-35 into PUEO AO system at CFHT|0
+2005IAUS..231P.142K|Kristensen, L;Lemaire, J;Field, D;Callejo, G;Ravkilde, T;Pineau Des Forets, G|Excitation mechanisms in OMC1 deduced from H<SUB>2</SUB> ortho- and para-lines emission at high spatial resolution|0
+2005sao..conf..189G|Garcia, P;Dougados, C;Ferruit, P|Coupled Adaptive Optics and Integral Field Spectroscopy of Pre-Main-Sequence Stars|0
+2005sao..conf..223L|Lemaire, J;Field, D|NACO and PUEO-GriF Investigating Small Scale Structures and Velocity Fields in OMC1|0
+2005sao..conf..229G|Gustafsson, M;Kristensen, L;Clenet, Y;Field, D;Lemaire, J;Des Forets, G;Rouan, D;Le Coarer, E|Shocks and Star Formation in Orion: First Light with GriF|0
+2005sao..conf..323D|Davidge, T|Adaptive Optics Observations of Stars in Globular Clusters and Nearby Galaxies|0
+2005sf2a.conf..379K|Kristensen, L;Lemaire, J;Field, D;Callejo, G;Ravkilde, T;Pineau Des Forets, G|Excitation mechanisms in OMC1 deduced from H<SUB>2</SUB> ortho- and para-lines emission at high spatial resolution|0
+2004AAS...205.1124S|Sigurdsson, S;Debes, J;Woodgate, B|Searching for Extrasolar Planets in the Stellar Graveyard|0
+2004ASPC..318..166D|Delfosse, X;Beuzit, J;Marchal, L;Bonfils, X;Perrier, C;Segransan, D;Udry, S;Mayor, M;Forveille, T|M dwarfs binaries: Results from accurate radial velocities and high angular resolution observations|79
+2004ASSL..300..299C|Cuillandre, J;Beletic, J;Dorn, R;Beletic, J;Luppino, G;Isani, S;Gorceix, N;Lai, O;Craven-Bartle, T;Burke, B;Menard, F|CFHT's FlyEyes: Assessing On-sky Performance of the New MIT/LL CCID-35 CCD Curvature Wavefront Sensor|1
+2004DPS....36.2208H|Hirtzig, M;Coustenis, A;Gendron, E;Drossart, P;Combes, M;Lai, O;Rannou, P;Negrao, A;Emsellem, E;Pecontal-Rousset, A;Lebonnois, S|Titan with adaptive optics : atmospheric changes and surface maps, 2000-2004|0
+2004EAS....12..319B|Beuzit, J;Chauvin, G;Delfosse, X;Forveille, T;Lagrange, A;Marchal, L;Mayor, M;Menard, F;Mouillet, D;Perrier, C;Segransan, D;Udry, S|Low mass companions searches using high dynamic range imaging|0
+2004RMxAC..21..235C|Cuevas, S;Iriarte, A;Martinez, L;Garfias, F;Sanchez, L;Chapa, O;Ruelas, R|GUIELOA: Adaptive Optics System for the 2.1-m SPM UNAM Telescope|0
+2004SPIE.5499..395H|Ho, K;Cuillandre, J;Puget, P;Salmon, D;Lai, O;Beletic, J;Luppino, G;Dorn, R;Burke, B|Update report on FlyEyes: a dual CCD detector system upgrade for PUEO|1
+2004cosp...35..400C|Coustenis, A|Ground-based glimpses of Titan in the year of the Cassini-Huygens rendez-vous|0
+2004cosp...35.2916H|Hirtzig, M;Coustenis, A;Lai, O;Gendron, E;Rannou, P;Negrao, A|Cartography of Titan's Surface Before Cassini/Huygens.|0
+2004cosp...35.2924H|Hirtzig, M;Coustenis, A;Rannou, P;Negrao, A;Lai, O;Gendron, E;Drossart, P;Combes, M;Emsellem, E;Pecontal-Rousset, A|Study of Seasonal and Meteorological Phenomena in Titan's Atmosphere|0
+2003ASPC..290..191C|Clenet, Y;Gratadour, D;Rouan, D;Lai, O;Forveille, T|Near-infrared spectroscopy of NGC 1068 with adaptive optics at CFHT (GriF)|0
+2003DPS....35.1209H|Hirtzig, M;Coustenis, A;Lai, O;Combes, M;Gendron, E;Gratadour, D;Fusco, T;Mugnier, L;Rannou, P;Negrao, A;Lebonnois, S;Bratsolis, E|New Titan Atmospheric and Surface Features as Seen with CFHT/PUEO|0
+2003EAEJA.....3985C|Coustenis, A;Hirtzig, M;Lai, O;Combes, M;Gendron, E;Fusco, T;Mugnier, L;Rannou, P;Veran, J;Bratsolis, E|New adaptive optics images of Titan with CFHT/PUEO: disk-resolved description of atmospheric and surface features|1
+2003EAEJA.....6233H|Hirtzig, M;Coustenis, A;Lai, O;Rannou, P;Emsellem, E;Pecontal-Rousset, A;Schmitt, B|Near-infrared (0.85-1 micron) study of Titan's resolved disk in spectro-imaging with CFHT/OASIS and the adaptive optics system PUEO.|0
+2003EAS.....8..221C|Chauvin, G;Lagrange, A;Mouillet, D|High Contrast Imaging: Simulations versus Observations|0
+2003IAUS..221P.181F|Field, D;Gustafsson, M;Kristensen, L;Clenet, Y;Lemaire, J;Pineau Des Forets, G;Rouan, D;Le Coarer, E|Shocks and Star Formation in Orion: First Light with Grif|0
+2003RMxAC..16..135M|Marquez, I;Petitjean, P|Adaptive Optics imaging of Quasar Hosts|2
+2003SPIE.4838.1341W|Woillez, J;Guerin, J;Perrin, G;Lai, O;Reynaud, F;Collin, C;Cretenet, J;Marlot, C;Pau, S;Reess, J;Ziegler, D;Berthod, C;Brient, B|Injection into single mode fibers for OHANA|6
+2003SPIE.4839..272C|Cuillandre, J;Beletic, J;Dorn, R;Luppino, G;Isani, S;Gorceix, N;Lai, O;Craven-Bartle, T;Burke, B;Menard, F|FlyEyes: a dual CCD detector system for CFHT PUEO NUI's wavefront sensor|1
+2003SPIE.4839..659L|Lai, O;Menard, F;Cuillandre, J|PUEO NUI: feasible and fast upgrade of the CFHT adaptive optics system for high-dynamic range imaging|1
+2003SPIE.4839.1110M|Menard, F;Lai, O;Cuillandre, J|Science with CFHT's future high dynamic range AO system PUEO NUI|0
+2003csss...12..998S|Simon, T;Duchene, G;Bouvier, J|An Adaptive Optics Search for Visual Binaries in M 34|0
+2002ASPC..282..270W|Wernli, F;Emsellem, E;Copin, Y|The Remnant of a Merger as Revealed by OASIS/PUEO|0
+2002DPS....34.2202H|Hirtzig, M;Coustenis, A;Lai, O;Rannou, P;Schmitt, B;Emsellem, E;Pecontal-Rousset, A|0.85-1 micron Study of Titan's resolved disk : Adaptive Optics Spectro-imaging with CFHT/OASIS|0
+2002DPS....34.2211C|Coustenis, A;Hirtzig, M;Lai, O;Combes, M;Gendron, E;Fusco, T;Rannou, P;Veran, J;Schmitt, B;Bratsolis, E|New Adaptive Optics images of Titan with CFHT/PUEO: Atmospheric and Surface features|1
+2002ESOC...58..343L|Lai, O|High order curvature Adaptive Optics revisited.|0
+2002HiA....12..626C|Coustenis, A;Gendron, E;Lai, O;Veran, J;Woillez, J;Combes, M;Fusco, T;Mugnier, L|First images of Titan at 1.3 micron with the adaptive optics PUEO system at the CFHT|0
+2001DPS....33.1217B|Berthier, J;Marchis, F|A Tool for Observations of Centaurs/Kuiper Objects with Adaptive Optics systems|2
+2001IAUS..200..234M|Menard, F;Stapelfeldt, K|Optical and Near-Infrared Imaging of Young Binary Star Environments|2
+2001eso..pres...18.||Dancing around the Black Hole|0
+2001qhte.conf..101M|Marquez, I;Petitjean, P;Theodore, B;Bremer, M;Monnet, G;Beuzit, J|Adaptive-optics imaging of low and intermediate redshift quasars|0
+2001sf2a.conf...67S|Segransan, D;Delfosse, X;Forveille, T;Beuzit, J;Udry, S;Perrier, C;Mayor, M|Mass-luminosity relation of very low mass stars|0
+2001sf2a.conf..327W|Wernli, F;Emsellem, E;Copin, Y|NGC 4621 - a micro counter-rotating core|0
+2001sf2a.conf..603C|Clenet, Y;Le Coarer, E;Joncas, G;Beuzit, J;Rouan, D;Chalabaev, A;Rabou, P;Arsenault, R;Delage, C;Marlot, C;Vallee, P;Grundseth, B;Thomas, J;Forveille, T;Lai, O;Lacombe, F;Lemaire, J;Field, D|First results of the CFHT GriF 3D spectrograph|1
+2000AAS...197.5208B|Baudoz, P;Roddier, F;Roddier, C;Guyon, O;Potter, D;Brandner, W;Gay, J;Rabbia, Y;Close, L|Substellar mass companion search with adaptive optics at University of Hawaii|0
+2000ASPC..216..345V|Veran, J;Durand, D|Reduction of Adaptive Optics Images|1
+2000IAUJD..12E..10C|Coustenis, A;Gendron, E;Lai, O;Combes, M;Woillez, J;Veran, J;Fusco, T|Titan's surface from adaptive optics images at the CFHT|0
+2000IAUS..200P..74G|Garcia, P;Thiebaut, E;Bacon, R|Spatially resolved spectroscopy of Z CMa components|0
+2000SPIE.4007..787C|Close, L;Merline, W;Tholen, D;Owen, T;Roddier, F;Dumas, C|Adaptive optics imaging of Pluto-Charon and the discovery of a moon around the Asteroid 45 Eugenia: the potential of adaptive optics in planetary astronomy|1
+2000SPIE.4007..796C|Close, L;Merline, W;Dumas, C;Chapman, C;Roddier, F;Menard, F;Slater, D;Duvert, G;Shelton, J;Morgan, T|Search for asteroidal satellites using adaptive optics|2
+2000SPIE.4007..942C|Clenet, Y;Arsenault, R;Beuzit, J;Chalabaev, A;Delage, C;Joncas, G;Lacombe, F;Lai, O;Le Coarer, E;Le Mignant, D;Pau, S;Rabou, P;Rouan, D|GriF: an infrared 3D spectroscopic mode for KIR/PUEO|1
+2000SPIE.4007..980B|Baudoz, P;Rabbia, Y;Gay, J;Beuzit, J|First observation results with the compact achromatic interfero coronagraph|0
+1999AAS...194.6811M|Menard, F;Stapelfeldt, K;Krist, J;Duvert, G;Padgett, D;Burrows, C|The Circumbinary Disk of UY Aurigae: Combining Hubble Space Telescope and Adaptive Optics Images|1
+1999AAS...19510905P|Potter, D;Tokunaga, A;Close, L;Graves, J;Northcott, M;Roddier, F;Roddier, C;Kobayashi, N|An Adaptive Optics search for Low Mass Companions in the Ursa Major Stream|0
+1999DPS....31.2006M|Merline, W;Close, L;Dumas, C;Chapman, C;Roddier, F;Menard, F;Colwell, W;Slater, D;Duvert, G;Shelton, C;Morgan, T|Discovery of Asteroidal Satellite S/1998 (45) 1|0
+1999DPS....31.4103C|Coustenis, A;Gendron, E;Lai, O;Veran, J;Combes, M|Imaging Titan at 1.3 and 1.6 MU M with adaptive optics at the CFHT|0
+1999DPS....31.5910C|Close, L;Merline, W;Tholen, D;Owen, T;Roddier, F;Dumas, C|Adaptive Optics Imaging of Pluto-Charon and the Discovery of a Moon aroun d the Asteroid 45 Eugenia: The Potential of Adaptive Optics in Planetary Astrono my|0
+1999ESOC...56..691V|Veran, J;Beuzit, J;Chaytor, D|High Precision Astrometry and Photometry on Binary Stars Acquired with PUEO|2
+1998DPS....30.3903C|Coustenis, A;Lellouch, E;Schmitt, B;Rannou, P;Cabane, M;McKay, C;Maillard, J|Spectroscopy of Titan in the near-IR: modelling results for the surface|3
+1998SPIE.3353..463R|Rouan, D;Lai, O;Rigaut, F;Alloin, D|High angular observations of active galactic nuclei using PUEO, the CFHT adaptive optics system|0
+1998SPIE.3354..760D|Doyon, R;Nadeau, D;Vallee, P;Starr, B;Cuillandre, J;Beuzit, J;Beigbeder, F;Brau-Nogue, S|KIR: the high-spatial-resolution 1024x1024 near-infrared camera of the Canada-France-Hawaii Telescope|26
+1997astro.ph.12196R|Rigaut, F;Salmon, D;Arsenault, R;Thomas, J;Lai, O;Rouan, D;Veran, J;Gigan, P;Crampton, D;Fletcher, J;Stilburn, J;Boyer, C;Jagourel, P|Performance of the CFHT Adaptive Optics Bonnette|1
+1995BCFHT..32....3S|Salmon, D|PUEO Enters the Integration Phase|0
+1994BCFHT..30....7A|Arsenault, R;Bacon, R|PUEO: The CFHT Adaptive Optics Bonnette|0
+1994BCFHT..31....4A|Arsenault, R;Rigaut, F;Salmon, D;Kerr, J|PUEO progress report.|0
+1994SPIE.2201..833A|Arsenault, R;Salmon, D;Kerr, J;Rigaut, F;Crampton, D;Grundmann, W|PUEO: the Canada-France-Hawaii Telescope adaptive optics bonnette I: system description|18
+1994awca.conf....1A|Arsenault, R;Salmon, D;Kerr, J;Rigaut, F;Crampton, D;Grundman, W|PUEO, the Canada-France-Hawaii Telescope Adaptive Optics Bonnette I: System Description|1
+1994awca.conf...62R|Racine, R|Etudes D'Amas Globulaires avec PUEO au TCFH|0
+1994awca.conf...96L|Lilly, S|Observational Cosmology with the PUEO AO System on CFHT|0
+1993BCFHT..29....6A|Arsenault, R;Salmon, D;Rigaut, F;Kerr, J|PUEO Progress Report|0

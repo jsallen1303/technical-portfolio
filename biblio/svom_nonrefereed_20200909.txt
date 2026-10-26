@@ -1,0 +1,97 @@
+2020ASPC..522..299Z|Zhang, M;Huang, M;Wu, C;Cui, C|Design, Build and Test of the VOEvent Network for the SVOM Chinese Ground Segment|0
+2020ASPC..522..599M|Michel, L;Formica, A;Le Fevre, J;Meesen, C;Zurbach, C|Using JSON Schemes in a Microservice Context for the SVOM Mission|0
+2019HEAD...1710971K|Kuntz, K;Porter, F;Thomas, N|PBP: A Slumped Micropore Optic Simulator|0
+2019HEAD...1710973T|Thomas, N|Characterization of Slumped Micropore Optics|0
+2019IAUS..339..281G|Griffin, E|Poster Presentations|0
+2019IAUS..339..353Z|Zhang, M;Huang, M;Wu, C|Design, Build and Test of the VOEvent Network for the SVOM Chinese Ground Segment|0
+2019MmSAI..90..242B|Bertrand,;Cordier,;Jianyan,;Wei,;SVOM Collaboration|The SVOM mission.|1
+2019MmSAI..90..267S|Schanne, S;Dagoneau, N;Chateau, F;Le Provost, H;Daly, F;Anvar, S;Antier, S;Gros, A;Cordier, B|The SVOM ECLAIRs gamma-ray burst trigger|0
+2019arXiv191106678W|Wang, J;Li, H;Xin, L;Han, X;Meng, X;Brink, T;Cai, H;Dai, Z;Filippenko, A;Hsia, C;Huang, L;Jia, L;Li, G;Li, Y;Liang, E;Lu, X;Mao, J;Qiu, P;Qiu, Y;Ren, J;Turpin, D;Wang, H;Wang, X;Wang, X;Wu, C;Xu, Y;Yan, J;Zhang, J;Zheng, W;Wei, J|Photometric and spectroscopic Studies of Superoutbursts of Three Dwarf Novae Independently Identified by The SVOM/GWAC System in 2018|1
+2019sf2a.conf..349A|Atteia, J|Multi-messenger Astronomy with SVOM|0
+2018MmSAI..89..266C|Cordier, B;Gotz, D;Motch, C;SVOM Collaboration|The SVOM mission, a pathfinder for THESEUS.|2
+2018SPIE10699E..20G|Gonzalez, F;Yu, S|SVOM: a French/Chinese cooperation for a GRB mission|1
+2018SPIE10699E..21M|Mercier, K;Gonzalez, F;Gotz, D;Boutelier, M;Boufracha, N;Burwitz, V;Charmeau, M;Drumm, P;Feldman, C;Gomes, A;Le Duigou, J;Meidinger, N;Meuris, A;O'Brien, P;Osborne, J;Pasqier, P;Perraud, L;Pearson, J;Pinsard, F;Raynal, E;Willingale, R|MXT instrument on-board the French-Chinese SVOM mission|2
+2018SPIE10699E..3TB|Burwitz, V;Willingale, R;Pareschi, G;Hudec, R;Spiga, D;Pelliciari, C;Tichy, V;Salmaso, B|AHEAD joint research activity on x-ray optics|0
+2018SPIE10699E..5JB|Bajat, A;Godet, O;Atteia, J|Calibration of the spectral response of the SVOM/ECLAIRs detection plane|0
+2018SPIE10699E..5KA|Amoros, C;Houret, B;Lacombe, K;Waegebaert, V;Atteia, J;Bajat, A;Bautista, L;Belkacem, I;Bordon, S;Cordier, B;Galliano, M;Godet, O;Gonzalez, F;Guillemot, P;Maestre, S;Mandrou, P;Marty, W;Pons, R;Rambaud, D;Ramon, P|Status of technological development on ECLAIRs camera onboard the SVOM space mission|1
+2018SPIE10705E..1RC|Corre, D;Basa, S;Klotz, A;Watson, A;Ageron, M;Ambert, P;Angeles, F;Atteia, J;Blanc, P;Boulade, O;Boy, J;Cadena, E;Cordier, B;Cuevas Cardona, S;Dolon, F;Dornic, D;Dubreuil, D;Farah, A;Figueroa, L;Floriot, J;Fuentes-Fernandez, J;Gallais, P;Jimenez-Bailon, E;Langarica Lebre, R;Le Borgne, J;Lee, W;Le Van Suu, A;Marcos, M;Mathon, R;Meessen, C;Ochoa, J;Pallier, E;Platzer, J;Quiros, F;Ronayette, S;Turpin, D;Valentin, H;Vergani, S|End-to-end simulations for COLIBRI, ground follow-up telescope for the SVOM mission.|0
+2018SPIE10706E..0MF|Floriot, J;Marcos, M;Fuentes-Fernandez, J;Watson, A;Cuevas Cardona, S;Lee, W;Basa, S;Corre, D;Ferrari, M;Hugot, E;Dohlen, K;Uribe, F;Simon, A;Lebre, R;Jimenez-Bailon, E;Ochoa, J;Quiros, F;Cadena, E;Figueroa, L;Pallier, E;Platzer, J;Klotz, A;!!!!!!!!Atteia, J;Valentin, H;Mathon, R;Boy, J;Ambert, P;Le Borgne, J;Dornic, D;Meessen, C;Ageron, M;Boulade, O;Cordier, B;Dubreuil, D;Ronayette, S;Gallais, P;Le Van Suu, A;Blanc, P;Dolon, F|Primary and secondary mirror manufacturing for COLIBRI ground follow-up telescope of the SVOM mission|0
+2018cosp...42E.663C|Claret, A|The Svom mission.|1
+2018cosp...42E.748D|Dagoneau, N;Cordier, B;Schanne, S;Gros, A|Detection capability of ultra-long gamma-ray bursts with the ECLAIRs telescope aboard the SVOM mission under development|1
+2018cosp...42E3010S|Schanne, S;Cordier, B;Guillemot, P;Gros, A;Dagoneau, N;Atteia, J;Chateau, F;Daly, F;Le Provost, H|The gamma-ray burst trigger ECLAIRs on-board SVOM|0
+2018cosp...42E3427T|Triou, H;Sauvageon, A;Guillemot, P;Gros, A;Godet, O;Atteia, J|Scientific and system performance analysis of the ECLAIRs instrument within the SVOM mission|0
+2018sf2a.conf..213D|Dagoneau, N;Schanne, S;Gros, A;Cordier, B|Detection capability of Ultra-Long Gamma-Ray Bursts with the ECLAIRs telescope aboard the SVOM mission|0
+2017HEAD...1610326S|Schanne, S|Overview of the SVOM Gamma-Ray Burst mission under development with a focus on its Trigger system|0
+2017SPIE10399E..1QF|Feldman, C;Pearson, J;Willingale, R;Sykes, J;Drumm, P;Houghton, P;Bicknell, C;Osborne, J;Martindale, A;O'Brien, P;Fairbend, R;Schyns, E;Petit, S;Roudot, R;Mercier, K;Le Duigou, J;Gotz, D|Testing and modelling of the SVOM MXT narrow field lobster-eye telescope|2
+2017SPIE10562E..0TL|Le Duigou, J;Mercier, K;Gonzalez, F;Gotz, D;Meuris, A|Optical models of MXT using Zemax|0
+2017xru..conf...33A|Amati, L|Measuring cosmological parameters with Gamma-Ray Bursts: status and perspectives|0
+2016LPICo1962.4007A|Atteia, J;Godet, O;Guillemot, P;Lachaud, C;Schanne, S;Svom/Eclairs Team|ECLAIRs: A Hard X-Ray Coded-Mask Imaging and Trigger Telescope Onboard SVOM|0
+2016LPICo1962.4010L|Lachaud, C;SVOM Consortium,|SVOM Observing Strategy|0
+2016LPICo1962.4011S|Schanne, S;Antier, S;Breschi, I;Chateau, F;Cordier, B;Daly, F;Gotz, D;Gros, A;Le Provost, H;Lachaud, C;Daigne, F;Atteia, J;Guillemot, P;Perraud, L|The Gamma-Ray Burst Trigger System onboard SVOM/ECLAIRs, Design and Simulations|0
+2016LPICo1962.4023D|Dornic, D;SVOM Consortium,|Optimized Synergy Between Space and Ground Instruments in the SVOM Mission|0
+2016LPICo1962.4042B|Bernardini, M;Piron, F;Atteia, J;Sizun, P;Dong, Y;Xie, F;Cordier, B|Scientific Prospects for Spectroscopy of the GRB Prompt Emission with SVOM|0
+2016LPICo1962.4046G|Gotz, D|The MXT X-Ray Telescope on Board the SVOM Mission|0
+2016LPICo1962.4058P|Piron, F;SVOM Consortium,|The SVOM Gamma-Ray Burst Mission|0
+2016SPIE.9905E..0JL|Lacombe, K;Dezalay, J;Houret, B;Amoros, C;Atteia, J;Aubaret, K;Billot, M;Bordon, S;Cordier, B;Delaigue, S;Galliano, M;Gevin, O;Godet, O;Gonzalez, F;Guillemot, P;Limousin, O;Mercier, K;Nasser, G;Pons, R;Rambaud, D;Ramon, P;Waegebaert, V|Development of a 32-detector CdTe matrix for the SVOM ECLAIRs x/gamma camera: tests results of first flight models|0
+2016SPIE.9905E..1LG|Gosset, L;Gotz, D;Osborne, J;Willingale, R|Localization algorithms for micro-channel x-ray telescope on board SVOM space mission|0
+2016SPIE.9905E..4LG|Gotz, D;Meuris, A;Pinsard, F;Doumayrou, E;Tourrette, T;Osborne, J;Willingale, R;Sykes, J;Pearson, J;Le Duigou, J;Mercier, K|The microchannel x-ray telescope status|0
+2016arXiv161004390Z|Zhang, M;Huang, M;Wu, C|Prototype VOEvent Network Systems based on VTP and XMPP for the SVOM Chinese Science Center|0
+2016arXiv161006892W|Wei, J;Cordier, B;Antier, S;Antilogus, P;Atteia, J;Bajat, A;Basa, S;Beckmann, V;Bernardini, M;Boissier, S;Bouchet, L;Burwitz, V;Claret, A;Dai, Z;Daigne, F;Deng, J;Dornic, D;Feng, H;Foglizzo, T;Gao, H;Gehrels, N;Godet, O;Goldwurm, A;Gonzalez, F;Gosset, L;Gotz, D;Gouiffes, C;Grise, F;Gros, A;Guilet, J;Han, X;Huang, M;Huang, Y;Jouret, M;Klotz, A;La Marle, O;Lachaud, C;Le Floch, E;Lee, W;Leroy, N;Li, L;Li, S;Li, Z;Liang, E;Lyu, H;Mercier, K;Migliori, G;Mochkovitch, R;O'Brien, P;Osborne, J;Paul, J;Perinati, E;Petitjean, P;Piron, F;Qiu, Y;Rau, A;Rodriguez, J;Schanne, S;Tanvir, N;Vangioni, E;Vergani, S;Wang, F;Wang, J;Wang, X;Wang, X;Watson, A;Webb, N;Wei, J;Willingale, R;Wu, C;Wu, X;Xin, L;Xu, D;Yu, S;Yu, W;Yu, Y;Zhang, B;Zhang, S;Zhang, Y;Zhou, X|The Deep and Transient Universe in the SVOM Era: New Challenges and Opportunities - Scientific prospects of the SVOM mission|38
+2016cosp...41E1736S|Schanne, S|The Gamma-Ray Burst On-board Trigger ECLAIRs of SVOM|0
+2016cosp...41E2071W|Wu, B;Dong, Y;Xie, F|Background Estimation of Gamma Ray Monitor onbaord SVOM|0
+2015arXiv150403478B|Boer, M;Gendre, B;Stratta, G|Testing for a class of ULGRBs using Swift GRBs|2
+2015arXiv150700204G|Gotz, D;Adami, C;Basa, S;Beckmann, V;Burwitz, V;Chipaux, R;Cordier, B;Evans, P;Godet, O;Goosmann, R;Meidinger, N;Meuris, A;Motch, C;Nandra, K;O'Brien, P;Osborne, J;Perinati, E;Rau, A;Willingale, R;Mercier, K;Gonzalez, F|The Microchannel X-ray Telescope on Board the SVOM Satellite|1
+2015arXiv150805851S|Schanne, S;Cordier, B;Atteia, J;Godet, O;Lachaud, C;Mercier, K|The ECLAIRs GRB-trigger telescope on-board the future mission SVOM|2
+2015arXiv151203323C|Cordier, B;Wei, J;Atteia, J;Basa, S;Claret, A;Daigne, F;Deng, J;Dong, Y;Godet, O;Goldwurm, A;Gotz, D;Han, X;Klotz, A;Lachaud, C;Osborne, J;Qiu, Y;Schanne, S;Wu, B;Wang, J;Wu, C;Xin, L;Zhang, B;Zhang, S|The SVOM gamma-ray burst mission|18
+2015mgm..conf..769A|Amati, L;Della Valle, M|Measuring Cosmological Parameters with Gamma-Ray Bursts|0
+2014SPIE.9144E..22M|Mercier, K;Gonzalez, F;Jouret-Perl, M;Atteia, J;Mandrou, P;Pons, R;Basa, S;Cordier, B;Gotz, D;Pinsard, F;Schanne, S;Lachaud, C;Wei, J;Zhang, S|The French payload on-board the SVOM French-Chinese mission|1
+2014SPIE.9144E..23G|Gotz, D;Osborne, J;Cordier, B;Paul, J;Evans, P;Beardmore, A;Martindale, A;Willingale, R;O'Brien, P;Basa, S;Rossin, C;Godet, O;Webb, N;Greiner, J;Nandra, K;Meidinger, N;Perinati, E;Santangelo, A;Mercier, K;Gonzalez, F|The microchannel x-ray telescope for the gamma-ray burst mission SVOM|5
+2014SPIE.9144E..24G|Godet, O;Nasser, G;Atteia, J;Cordier, B;Mandrou, P;Barret, D;Triou, H;Pons, R;Amoros, C;Bordon, S;Gevin, O;Gonzalez, F;Gotz, D;Gros, A;Houret, B;Lachaud, C;Lacombe, K;Marty, W;Mercier, K;Rambaud, D;Ramon, P;Rouaix, G;Schanne, S;Waegebaert, V|The x-/gamma-ray camera ECLAIRs for the gamma-ray burst mission SVOM|8
+2014SPIE.9144E..3XN|Nasser, G;Godet, O;Atteia, J;Amoros, C;Barret, D;Bordon, S;Cordier, B;Gevin, O;Gonzalez, F;Houret, B;Lacombe, K;Mandrou, P;Marty, W;Mercier, K;Pons, R;Rambaud, D;Ramon, P;Rouaix, G;Waegebaert, V|The use of Schottky CdTe detectors for high-energy astronomy: application to the detection plane of the instrument SVOM/ECLAIRs|1
+2014SPIE.9144E..4ZM|Meuris, A;Pinsard, F;Doumayrou, E;Tourrette, T;Gotz, D;Carty, M;Donati, M;Dumaye, L;Goetschy, A;Nico, F;Meidinger, N;Miessner, D;Mercier, K|The camera of the Microchannel X-ray telescope onboard the SVOM mission|1
+2014SPIE.9144E..51L|Lacombe, K;Pons, R;Amoros, C;Atteia, J;Barret, D;Billot, M;Bordon, S;Cordier, B;Gevin, O;Godet, O;Gonzalez, F;Houret, B;Mercier, K;Mandrou, P;Marty, W;Nasser, G;Rambaud, D;Ramon, P;Rouaix, G;Waegebaert, V|ECLAIRs detection plane: current state of development|0
+2014arXiv1405.2254S|Siellez, K;Boer, M;Gendre, B|Simultaneous detection rates of binary neutron star systems in advanced Virgo/LIGO and GRB detectors|0
+2014arXiv1411.7810S|Schanne, S;Le Provost, H;Kestener, P;Gros, A;Cortial, M;Gotz, D;Sizun, P;Chateau, F;Cordier, B|A Scientific Trigger Unit for Space-Based Real-Time Gamma Ray Burst Detection, I - Scientific Software Model and Simulations|5
+2014arXiv1412.0481L|Le Provost, H;Schanne, S;Flouzat, C;Kestener, P;Chaminade, T;Donati, M;Chateau, F;Daly, F;Fontignie, J|A Scientific Trigger Unit for Space-Based Real-Time Gamma Ray Burst Detection, II - Data Processing Model and Benchmarks|2
+2014cosp...40E3075S|Siellez, K;Boer, M;Gendre, B;Regimbau, T;Meacher, D|Simultaneous detection of gravitational waves and electromagnetic events in the advanced and post-advanced detectors era.|0
+2014styd.confE...5C|Cordier, B;Wei, J;Claret, A;Han, X;Klotz, A;Lachaud, C;Wu, B;Wang, J;Xin, L;Atteia, J;Basa, S;Deng, J;Dong, Y;Godet, O;Goldwurm, A;Gotz, D;Osborne, J;Qiu, Y;Schanne, S;Wu, C;Zhang, B;Zhang, S|The SVOM gamma-ray burst mission|0
+2014styd.confE..59A|Antier, S;Schanne, S;Cordier, B;Gros, A;Gotz, D;Lachaud, C|Simulations of GRB detections with the ECLAIRs telescope onboard the future SVOM mission|1
+2014styd.confE..74G|Gotz, D;Adami, C;Basa, S;Beckmann, V;Burwitz, V;Chipaux, R;Cordier, B;Evans, P;Godet, O;Goosmann, R;Meidinger, N;Meuris, A;Motch, C;Nandra, K;O'Brien, P;Osborne, J;Perinati, E;Rau, A;Willingale, R;Mercier, K;Gonzalez, F|The Microchannel X-ray Telescope on board the SVOM satellite|1
+2014styd.confE.107S|Schanne, S;Cordier, B;Atteia, J;Godet, O;Lachaud, C;Mercier, K|The ECLAIRs GRB trigger telescope onboard the future SVOM mission|0
+2013MmSAI..84..825G|Gotz, D;Osborne, J;MXT Instrument Science Team|MXT: a light X-ray telescope for X-Gamma-Ray Burst afterglow observations.|1
+2013sf2a.conf..377V|Vergani, S|Gamma-ray bursts as cosmological probes|0
+2012MSAIS..21..162G|Gotz, D;SVOM Collaboration|SVOM: a new mission for Gamma-Ray Bursts studies|2
+2012SPIE.8443E..1OG|Godet, O;Paul, J;Wei, J;Zhang, S;Atteia, J;Basa, S;Barret, D;Claret, A;Cordier, B;Cuby, J;Dai, Z;Daigne, F;Deng, J;Dong, Y;Gotz, D;Hu, J;Mandrou, P;Osborne, J;Qiu, Y;Wang, J;Wu, B;Wu, C;Yuan, W|The Chinese-French SVOM Mission: studying the brightest astronomical explosions|6
+2012SPIE.8443E..4TP|Perinati, E;Tenzer, C;Santangelo, A;Cordier, B;Gotz, D;Fraser, G;Osborne, J|LEO radiation environment and the design of the micro-channel-plate x-ray telescope camera on-board the SVOM Mission|0
+2011AAS...21742504B|Basa, S;Wei, J;Paul, J;Zhang, S|The Sino-french SVOM Mission For Gamma-ray Burst Studies|0
+2011ESASP.694E..30G|Galizzi, J;Metge, J;Arberet, P;Morand, E;Vigeant, F;Crespo, A;Masmano, M;Coronel Parada, J;Ripoll, I;Brocal, V;Roubert, F;Scuri, C;Tedesco, V;Thomasson, N|Porting of LVCUGEN [TSP-Based Solution] on CPU ITAR-Free Board|0
+2011HEAD...12.1402W|Williams, D;Gilmore, R;Bouvier, A;Connaughton, V;Otte, A;Primack, J|Prospects for GRB Observations With CTA from a Phenomenological Model|0
+2011arXiv1102.4228G|Greiner, J;Rau, A|Gamma-Ray Bursts: The multiwavelength context in 2015 and beyond|0
+2011xru..conf...19B|Barret, D;Paul, J;Wei, J;Zhang, S;Basa, S;Mandrou, P;Cordier, B;Godet, O;Schanne, S|The future Sino-French SVOM gamma-ray burst mission|0
+2010SPIE.7732E..25T|Triou, H;Sauvageon, A;Cordier, B;Gotz, D;Schanne, S;Mandrou, P;Pons, R;Godet, O;Remoue, N;Barret, D;Atteia, J;Gonzalez, F;Jouret, M;Lachaud, C|The scientific and technical drivers of ECLAIRs: the x- and gamma-ray telescope onboard the GRB mission SVOM|0
+2010arXiv1003.0455N|Nadege, R;Didier, B;Olivier, G;Pierre, M|Extensive testing of Schottky CdTe detectors for the ECLAIRs X-Gamma-ray Camera on board the SVOM mission|0
+2010arXiv1005.5008S|Schanne, S;Paul, J;Wei, J;Zhang, S;Basa, S;Atteia, J;Barret, D;Claret, A;Cordier, B;Daigne, F;Evans, P;Fraser, G;Godet, O;Gotz, D;Mandrou, P;Osborne, J|The future Gamma-Ray Burst Mission SVOM|5
+2009AAS...21310901Z|Zhao, G|Large Astronomical Facilities in China - Current Status and Future Projects|0
+2009AIPC.1133...25G|Gotz, D;Paul, J;Basa, S;Wei, J;Zhang, S;Atteia, J;Barret, D;Cordier, B;Claret, A;Deng, J;Fan, X;Hu, J;Huang, M;Mandrou, P;Mereghetti, S;Qiu, Y;Wu, B|SVOM: a new mission for Gamma-Ray Burst Studies|21
+2009AIPC.1133...76R|Remoue, N;Barret, D;Godet, O;Mandrou, P;Pons, R;Fesquet, M;Gotz, D;Limousin, O;Schanne, S;Sizun, P;Lachaud, C;Gonzales, F;Jouret, M|ECLAIRs, the Trigger Telescope for the SVOM Mission|2
+2009EAS....36...25A|Amati, L|Measuring cosmological parameters with Gamma-Ray Bursts|0
+2009MmSAI..80..207A|Amati, L|Gamma-ray bursts as cosmological probes .|0
+2009SPIE.7449E..0XT|Triou, H;Cordier, B;Gotz, D;Schanne, S;Tourrette, T;Mandrou, P;Pons, R;Godet, O;Remoue, N;Barret, D;Atteia, J;Jouret, M|The ECLAIRs telescope onboard the SVOM mission for gamma-ray burst studies|2
+2009essu.confE..97S|Schanne, S;Paul, J;Wei, J;Zhang, S;Basa, S;Atteia, J;Barret, D;Claret, A;Cordier, B;Daigne, F;Evans, P;Fraser, G;Godet, O;Gotz, D;Mandrou, P;Osborne, J|SVOM, a future Mission for Gamma-Ray Burst Studies|0
+2008AIPC.1000..569C|Claret, A|Alert Distribution Network And Public Data Of The SVOM Mission|2
+2008AIPC.1000..581S|Schanne, S|The ECLAIRs telescope onboard the SVOM mission for gamma-ray burst studies|5
+2008AIPC.1000..585C|Cordier, B;Desclaux, F;Foliard, J;Schanne, S|SVOM pointing strategy: how to optimize the redshift measurements?|9
+2008AIPC.1000..589B|Basa, S|Gamma-ray Burst follow-up for the Sino-French SVOM mission|0
+2008AIPC.1065..338M|Mandrou, P;Schanne, S;Cordier, B;Pons, R;Barret, D;Amoros, C;Lacombe, K;Fesquet, M;Limousin, O;Sizun, P;Lebrun, F;Gonzalez, F;Jouret, M|The Wide-Field X and Gamma-Ray Telescope ECLAIRs aboard the Gamma-Ray Burst Multi-Wavelength Space Mission SVOM|5
+2008AIPC.1065..355N|Nagamine, K;Zhang, B;Hernquist, L|Incidence Rate of GRB-host-DLAs|0
+2008SPIE.7011E..1TM|Mereghetti, S;De Luca, A;Fiorini, M;La Palombara, N;Tiengo, A;Uslenghi, M;Vianello, G;Villa, G;Zambra, A;Moretti, A;Basso, S;Campana, S;Conconi, P;Cotroneo, V;Covino, S;Ghirlanda, G;Ghisellini, G;Pareschi, G;Tagliaferri, G;Trifoglio, M;Amati, L;Gianotti, F;Stella, L;Antonelli, A;Cordier, B;Gotz, D|XIAO: a soft x-ray telescope for the SVOM mission|1
+2008SPIE.7011E..37S|Sironi, G;Spiga, D|Surface roughness evaluation on mandrels and mirror shells for future X-ray telescopes|0
+2008SPIE.7021E..26R|Remoue, N;Barret, D;Mandrou, P;Lacombe, K;Pons, R;Amoros, C;Lande, J;Rambaud, D;Dezalay, J;Narbonne, J;Soulie, Y;Marty, W;Ramon, P;Rouaix, G;Houret, B;Limousin, O;Gevin, O;Lugiez, F;Penquer, A|DPIX, an assembly of 6400 CdTe detectors for gamma-ray bursts detection with ECLAIRs|1
+2008cosp...37.1041G|Godet, O;Barret, D;Paul, J;Sizun, P;Mandrou, P;Cordier, B|Background simulations of the wide-field coded-mask camera for X-/Gamma-ray of the French-Chinese mission SVOM|0
+2008cosp...37.2368P|Paul, J;Wei, J;Zhang, S;Basa, S|The Chinese-French SVOM mission for gamma-ray burst studies|0
+2008cosp...37.3210T|Triou, H|The ECLAIRs telescope onboard the SVOM mission for gamma-ray burst studies|0
+2008int..workE.146S|Schanne, S|The ECLAIRs telescopes onboard the SVOM gamma-ray missioin|0
+2008sf2a.conf..161B|Basa, S;Wei, J;Paul, J;Zhang, S;Svom Collaboration|The Chinese-French SVOM mission for Gamma-Ray Burst studies|5
+2006SPIE.6267E..1FY|York, D;Wang, L;Pennypacker, C;Cui, X;Cappellaro, E;Blouke, M;Lamb, D;Storey, J;Malina, R;Ashley, M;Basa, S;Zhou, X;Hu, J;Yuan, X;Harper, D;Sandford, D;Lawrence, J;Thorburn, J|A large array of telescopes in Antarctica with all-sky imaging every five seconds|3
+2003aahd.conf..323H|Hu, J;Wang, J;Zhang, S;Guo, J|SVOM - A Proposal for a Micro-Satellite Used as Space-Based Multi-Band Variable Objects Monitor|0
+2002iaf..confE.668Y|You, Z;Guo, J;Hao, J;Hu, J;Zhang, S|SVOM: Chinese First Space Based Astronomy Observatory|0

@@ -1,0 +1,38 @@
+{
+    "title": "GRBAlpha",
+    "name": "GRBAlpha",
+    "alttext": "Photograph of GRBAlpha",
+    "imagesize": 300,
+    "imageurl": "/Images/misc_missions/grbalpha__1.jpg",
+    "descript": "<p><b><font size=\"+2\">T</font>he GRBAlpha</b> mission was a 1U Cubesat proof-of-concept mission for a small gamma-ray burst detector. It was launched on March 22, 2021 on a Russian Soyuz 2-1a Fregat rocket from the Baikonur Cosmodrome. The satellite weighed roughly 1 kg and was 10 &times; 10 &times; 11 cm in overall size. Original plans called for a one year operational lifespan, but it far exceeded this with over four years of operations. The satellite re-entered the Earth&rsquo;s atmosphere in 2025. GRBAlpha was an international collaboration between various research institutions, including the Konkoly Observatory (Hungary), Technical University of Ko&#353;ice (Slovakia), Masaryk University (Czech Republic), and Hiroshima University (Japan). Primary funding was provided by the Hungarian Academy of Sciences.</p>\n\n<p>It was a proving ground for the future &ldquo;Cubesats Applied for Measuring and Localizing Transients&rdquo; (CAMELOT), a planned constellation of 3U Cubesats to provide continuous all-sky coverage and accurate localization. GRBAlpha carried a 1/8 effective area sized version of the detectors intended for CAMELOT: sufficient to demonstrate the mission concept and inter-calibrate observed light curves with existing operational GRB missions.</p>\n\n<p>Initial settings onboard used a relatively long four second binning, making the instrument undersensitive to short GRB events, but one second binning and independent triggering was used in an experimental phase. The small detector size meant that GRBAlpha did not saturate on the very brightest events, such as GRB221009A, the brightest GRB observed to date, which overwhelmed many other GRB detectors in orbit at the time.</p>\n\n<p>GRBAlpha was designed with a one year mission timeline, but operated for over four years. It reentered the Earth&rsquo;s atmosphere on 9 June 2025.</p>",
+
+    "decade": 2020,
+    "lifetime": "21 Mar 2021 &ndash; 9 Jun 2025",
+    "features": [
+	"At 10 cm &times; 10 cm &times; 10 cm (1U Cubesat), it was the smallest astronomy satellite to date"
+    ],
+  "instruments": [
+    {
+	"name": "Gamma-ray Detector",
+	"energy": "70&ndash;890 keV",
+	"energy_resolution": "&sim;30%",
+	"descript": "A single CsI(Tl) crystal measuring 75 &times; 75 &times; 5 mm. The scintillation was observed by low voltage lightweight silicon photomultipliers (SiPMs). The assembly was wrapped in Tedlar with an anodized aluminum casing and lead-alloy shielding on one edge to protect the SiPMs and crystal"
+    }
+  ],
+  "highlights": [
+    "Characterize the peak intensity and time of bright burst events",
+    "Proved operational concept of future CAMELOT satellite constellation",
+    "Co-observed with gravitational wave detectors and other observatories as part of multimessenger astronomy"
+  ],
+  "archive": "",
+  "navigation": [
+    {
+      "url": "https://grbalpha.konkoly.hu/",
+      "text": "GRBAlpha at Konkoly Observatory"
+    },
+    {
+      "url": "biblio/grbalpha_biblio.html",
+      "text": "Bibliography"
+    }
+  ]
+}

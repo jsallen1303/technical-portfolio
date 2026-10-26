@@ -1,0 +1,37 @@
+{
+  "title": "ALEXIS",
+  "name": "ALEXIS",
+  "alttext": "Photograph of ALEXIS in the clean room",
+  "imagesize": 280,
+  "imageurl": "/Images/misc_missions/alexis.jpg",
+    "descript": "<p><b><font size=\"+2\">T</font>he Array of Low Energy X-Ray Imaging Sensors</b> (ALEXIS) was a U.S. Department of Energy mission, built by the Los Alamos National Laboratory in collaboration with Sandia National Laboratories and the University of California-Space Sciences Laboratory.</p>\n<p>It was launched by a Pegasus &ldquo;winged rocket&rdquo; booster, dropped from an B-52 bomber, on April 25, 1993. During the launch, the hinge failed on one of the solar paddles, which hung loose and was left connected to the spacecraft only by a bundle of wires. Thermal effects caused the paddle to flat around, triggering spin rate and direction changes. After developing new procedures for operations to account for the loose paddle and recovering some of the spacecraft attitude control, operations commenced in late July, 1993. Operations continued until April 29, 2005, well beyond the original one year planned mission duration. However, not all instruments were usable through the entire mission: a RAM failure in late 1999 resulted in data being unavailable from one of the EUV telescope pairs.</p>",
+      "decade": 1990,
+  "lifetime": "Jul 1993&ndash;Apr 29, 2005",
+  "features": [],
+    "instruments": [
+ {
+     "name": "ALEXIS",
+     "wavelength" : "139, 172, &amp; 182 &Aring;",
+     "energy" : "66, 71, &amp; 93 eV",
+     "fov" : "33&deg;",
+     "descript": "Three pairs of EUV telescopes with overlapping fields of view, scanning the entire anti-solar hemisphere during each 45 second spin of the spacecraft. Each telescope contained a multi-coated spherical mirror, a curved profile microchannel plate detector at the prime focus, a background rejection filter, electron rejecting magnets at the telescope aperture, and associated electronics. The telescope mirror coatings and filter settings gave each telescope narrow band observations at 66, 71, or 93 eV."
+ },
+ {
+     "name" : "BLACKBEARD",
+     "descript" : "A radio frequency monitoring instrument for studying ionospheric effects on VHF radio signals, with no high-energy astrophysics science goals."
+ }
+    
+    ],
+    "highlights": [
+ "Mapped the EUV diffuse background in three distinct wavelengths and produced a narrow-band survey of point sources",
+ "Searched for transient phenomena",
+ "Monitored ultrasoft X-ray sources such as cataclysmic variables and flare stars."
+    ],
+  "archive": "",
+  "navigation": [
+    {
+      "url": "biblio/alexis_biblio.html",
+      "text": "Publications"
+    }
+  ]
+}

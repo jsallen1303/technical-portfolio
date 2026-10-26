@@ -1,0 +1,50 @@
+{
+  "title": "The International Sun-Earth/Cometary Explorer 3",
+  "name": "ISEE-3/ICE",
+  "alttext": "artist concept of ISEE-3 approaching a comet",
+  "imagesize": 261,
+  "imageurl": "/Images/misc_missions/isee-3_small.gif",
+    "descript": "<p><b><font size=\"+2\">T</font>he International Sun-Earth Explorer (ISEE)</b> program consisted of 3 satellites &mdash; ISEE-1 and ISEE-3 were the principal US contribution to the International Magnetospheric Study, and ISEE-2 which was built and managed by ESA. ISEE-1 and -2 were launched on 22 October 1977 into almost coincident orbits. The orbital period was 57 hours, and their separation in the orbit was controlled by maneuvering ISEE-2. ISEE-3 was launched on 12 August 1978. It was inserted into a &ldquo;halo&rdquo; orbit about the libration point some 240 Earth radii upstream between the Earth and Sun. ISEE-3 was renamed ICE (International Cometary Explorer) when, after completing its original mission in 1982, it was gravitationally maneuvered to intercept the comet P/Giacobini-Zinner. On September 11, 1985, the veteran NASA spacecraft flew through the tail of the comet.</p>\n\n<p>NASA formally discontinued operations in May 1997, with no more than a carrier signal left active for tracking. In 2014, ISEE&rsquo;s orbit again brought it near the Earth-Moon system and the &ldquo;ISEE-3 Reboot Project&rdquo; successfully re-established two-way communication. An initial thruster firing on July 2, 2014 was successful (after 27 years in statis), but a longer duration burn on July 8 did not succeed, likely due to depletion of the nitrogen pressurant in the fuel system. Further attempts to command the spacecraft failed, with all contact lost in September 2014.</p>",
+    "decade": 1970,
+    "lifetime": "Oct 1977&ndash;May 1997",
+    "features": [
+	"Initial orbital location at the Earth-Sun L1 Lagrange point &mdash; the first spacecraft to operate in that location",
+	"First satellite to fly by a comet (Giacobini-Zinner in 1985)",
+	"Years of stable low background measurements from deep space"
+    ],
+    "instruments": [
+	{
+	    "name" : "X-ray Spectrometer",
+	    "energy" : "5&ndash;1250 keV",
+	    "fov" : "3&pi; sr (E &gt; 130 keV)",
+	    "temporal_resolution" : "0.25 ms (1 ms absolute)",
+	    "descript" : "The X-ray spectrometer was designed to study both solar flares and cosmic gamma-ray bursts. The detector was intended to be a part of a long baseline interferometry network of widely separated spacecraft. The efforts were aimed primarily at determining the origin of the bursts through precise directional information established by such a network. The experiment consisted of 2 cylindrical X-ray detectors: a Xenon filled proportional counter covering 5&ndash;14 keV, and a NaI(Tl) scintillator covering 12&ndash;1250 keV. The proportional counter was 1.27 cm in diameter and was filled with a mixture of 97% Xenon and 3% carbon dioxide. The central part of the counter body was made of 0.51 mm thick beryllium and served as the X-ray entrance window. The scintillator consisted of a 1.0 cm thick cylindrical shell of NaI(Tl) crystal surrounded on all sides by 0.3 cm thick plastic scintillator. The central region, 4.1 cm in diameter, was filled by a quartz light pipe. The whole assembly was enclosed (except for one end) in a 0.1 cm thick beryllium container. The energy channel resolution and timing resolution could be selected by commands sent to the spacecraft. The proportional counter could have up to 9 channels with 0.5 s resolution; the NaI scintillator could have up to 16 channels and 0.00025 s resolution. The gamma-ray burst mode was triggered by two simultaneous conditions: the count rates in certain PHA channels rose above a selected level and the spectral hardness of incident photons as determined by the ratio of 2 selected PHA channels exceeded a certain value."
+	},
+	{
+	    "name" : "Goddard Gamma Ray Burst Spectrometer",
+	    "energy" : "200 keV &ndash; 3 MeV",
+	    "energy_resolution" : "10 keV at 570 keV; 4096 energy channels total",
+	    "temporal_resolution" : "8 ms",
+	    "descript" : "The germanium detector was a high purity 4.02 &times; 2.9 cm right circular cylinder. The total germanium volume was 35 cu-cm. The detector was hermetically sealed in a Mg enclosure, which also provided the radiative surface for cooling. This structure reached a temperature of 130K roughly 3 days after launch and remained stable at that value for over a year. The detector system had a resolution of 10 keV at 570 keV and had 4096 energy channels."
+	}
+    ],
+    "highlights": [
+	"Component of the Interplanetary Gamma Ray Burst Network (IPN)",
+	"Demonstrated direct links between solar flare X-rays and interplanetary effects"
+    ],
+  "archive": "",
+  "navigation": [
+    {
+      "url": "images/isee3_images.html",
+      "text": "Gallery"
+    },
+    {
+      "url": "biblio/isee3_biblio.html",
+      "text": "Publications"
+    },
+    {
+      "url": "http://nssdc.gsfc.nasa.gov/nmc/spacecraftDisplay.do?id=1978-079A",
+      "text": "NSSDC ISEE-3 archive"
+    }
+  ]
+}

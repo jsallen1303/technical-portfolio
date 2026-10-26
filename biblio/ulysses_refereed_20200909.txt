@@ -1,0 +1,38 @@
+1999A&A...342...47C|Castro-Tirado, A;Gorosabel, J;Bowyer, S;Korpela, E;Hurley, K;Lund, N|A serendipitous observation of the gamma-ray burst GRB 921013b field with EUVE|0
+1999A&A...342..575V|Vilmer, N;Trottet, G;Barat, C;Schwartz, R;Enome, S;Kuznetsov, A;Sunyaev, R;Terekhov, O|Hard X-ray and gamma-ray observations of an electron dominated event associated with an occulted solar flare|33
+1999ApJ...510L.107H|Hurley, K;Kouveliotou, C;Woods, P;Cline, T;Butterworth, P;Mazets, E;Golenetskii, S;Frederics, D|Reactivation and Precise Interplanetary Network Localization of the Soft Gamma Repeater SGR 1900+14|67
+1999ApJ...512L..13M|Marani, G;Nemiroff, R;Norris, J;Hurley, K;Bonnell, J|Gravitationally Lensed Gamma-Ray Bursts as Probes of Dark Compact Objects|58
+1999ApJS..120..399H|Hurley, K;Briggs, M;Kippen, R;Kouveliotou, C;Meegan, C;Fishman, G;Cline, T;Boer, M|The ULYSSES Supplement to the BATSE 3B Catalog of Cosmic Gamma-Ray Bursts|40
+1998ApJ...497L..85S|Simpson, J;Connell, J|Cosmic-Ray <SUP>26</SUP>Al and Its Decay in the Galaxy|39
+1998ApJ...500.1003K|Kane, S;Hurley, K;McTiernan, J;Boer, M;Niel, M;Kosugi, T;Yoshimori, M|Stereoscopic Observations of Solar Hard X-Ray Flares Made by ULYSSES and YOHKOH|21
+1998ApJ...506L..27K|Kippen, R;Briggs, M;Kommers, J;Kouveliotou, C;Hurley, K;Robinson, C;van Paradijs, J;Hartmann, D;Galama, T;Vreeswijk, P|On the Association of Gamma-Ray Bursts with Supernovae|59
+1998ApJS..118..391L|Laros, J;Hurley, K;Fenimore, E;Klebesadel, R;Briggs, M;Kouveliotou, C;McCollough, M;Fishman, G;Meegan, C;Cline, T;Boer, M;Niel, M|Gamma-Ray Burst Arrival Time Localizations: Simultaneous Observations by Pioneer Venus Orbiter, Compton Gamma-Ray Observatory, and ULYSSES|19
+1998PhDT..........M|Marani, G|Statistical and Time Analyses of Gamma-Ray Bursts|7
+1998SSRv...84..275G|Gloeckler, G;Geiss, J|Measurement of the Abundance of Helium-3 in the Sun and in the Local Interstellar Cloud with SWICS on ULYSSES|78
+1997ApJ...479..458R|Ramaty, R;Mandzhavidze, N;Barat, C;Trottet, G|The Giant 1991 June 1 Flare: Evidence for Gamma-Ray Production in the Corona and Accelerated Heavy Ion Abundance Enhancements from Gamma-Ray Spectroscopy|30
+1997ApJ...484L.165S|Share, G;Murphy, R|A Method for Determining the Photospheric <SUP>4</SUP>He Abundance|11
+1997ApJ...485L...1H|Hurley, K;Costa, E;Feroci, M;Frontera, F;Cline, T;Dal Fiume, D;Orlandini, M;Boer, M;Mazets, E;Aptekar, R;Golenetskii, S;Terekhov, M|Third Interplanetary Network Localization, Time History, Fluence, Peak Flux, and Distance Lower Limit of the 1997 February 28 Gamma-Ray Burst|25
+1997ApJ...486L...5G|Galama, T;Groot, P;Strom, R;van Paradijs, J;Hurley, K;Kouveliotou, C;Fishman, G;Meegan, C;Heise, J;Zand, J;de Bruyn, A;Hanlon, L;Bennett, K;Telting, J;Rutten, R|Radio and Optical Follow-up Observations and Improved Interplanetary Network Position of GRB 970111|18
+1997ApJ...490..823L|Li, P;Hurley, K;Vrba, F;Kouveliotou, C;Meegan, C;Fishman, G;Kulkarni, S;Frail, D|ROSAT X-Ray Observation of the Second Error Box for SGR 1900+14|2
+1997ApJ...490L..17D|Dezalay, J;Atteia, J;Barat, C;Boer, M;Darracq, F;Goupil, P;Niel, M;Talon, R;Vedrenne, G;Hurley, K;Terekhov, O;Sunyaev, R;Kuznetsov, A|The Hardness-Intensity Correlation in Bright Gamma-Ray Bursts|17
+1997ApJ...491..933F|Foley, C;Culhane, J;Acton, L|Yohkoh Soft X-Ray Determination of Plasma Parameters in a Polar Coronal Hole|15
+1997ApJS..110..157L|Laros, J;Boynton, W;Hurley, K;Kouveliotou, C;McCollough, M;Fishman, G;Meegan, C;Palmer, D;Cline, T;Starr, R;Trombka,;J. I.,;Boer, M;Niel, M;Metzger, A|Gamma-Ray Burst Arrival Time Localizations: Simultaneous Observations by Mars Observer, Compton Gamma Ray Observatory, and ULYSSES|20
+1997SSRv...81..107W|Webber, W|New Experimental Data and What It Tells Us About the Sources and Acceleration of Cosmic Rays|31
+1996AdSpR..17c..75S|Simnett, G|Coronal transport and storage of energetic particles|1
+1996PASJ...48L...9M|Murakami, T;Shibata, R;Ogasaka, Y;Yoshida, A;Hurley, K;Li, P;Kouveliotou, C;Fishman, G|ASCA Observation of a Possible X-Ray Counterpart of the 1992 May 1 Gamma-Ray Burst|6
+1995A&A...302..121G|Greiner, J;Sommer, M;Bade, N;Fishman, G;Hanlon, L;Hurley, K;Kippen, R;Kouveliotou, C;Preece, R;Ryan, J;Schoenfelder, V;Williams, O;Winkler, C;Boer, M;Niel, M|The gamma-ray burst GB 920622.|20
+1995AdSpR..15e.127H|Hurley, K;Kouveliotou, C;Fishman, J;Meegan, C;Laros, J;Klebesadel, R|The application of network synthesis to repeating classical gamma-ray bursts|3
+1995Ap&SS.231..227H|Hurley, K;Sommer, M;Cline, T;Boer, M;Niel, M|ULYSSES Observations of Cosmic Gamma-Ray Bursts|6
+1995ApJ...446..267L|Li, P;Hurley, K;Fishman, G;Kouveliotou, C;Hartmann, D|A Search for Stellar Flares in Gamma-Ray Bursts Observed by BATSE and ULYSSES|4
+1995ApJ...446L..47K|Kane, S;Hurley, K;McTiernan, J;Sommer, M;Boer, M;Niel, M|Energy Release and Dissipation during Giant Solar Flares|46
+1994A&A...288..213A|Atteia, J;Barat, C;Boer, M;Dezalay, J;Niel, M;Talon, R;Vedrenne, G;Hurley, K;Sommer, M;Sunyaev, R;Kuznetsov, A;Terekhov, O|Simultaneous observations of γ-ray bursts with Phebus/Granat and ULYSSES GRB.|8
+1994A&A...291L..17P|Pedersen, H|Optical studies of the field of GRB 940301.|1
+1994ApJ...422L..67R|Ryan, J;Bennett, K;Collmar, W;Connors, A;Fishman, G;Greiner, J;Hanlon, L;Hermsen, W;Kippen, R;Kouveliotou, C;Kuiper, L;Lichti, G;Macri, J;Mattox, J;McConnell, M;McNamara, B;Meegan, C;Schoenfelder, V;van Dijk, R;Varendorff, M;Webber, W;Winkler, C|COMPTEL Measurements of the Gamma-Ray Burst GRB 930131|28
+1994ApJ...431L..31H|Hurley, K;Sommer, M;Kouveliotou, C;Fishman, G;Meegan, C;Cline, T;Boer, M;Niel, M|Network Synthesis Localization of Two Soft Gamma Repeaters|49
+1993A&AS...97...39H|Hurley, K;Sommer, M;Boer, M;Niel, M;Laros, J;Fenimore, E;Klebesadel, R;Fishman, G;Kouveliotou, C;Meegan, C;Paciesas, W;Wilson, R;Cline, T|ULYSSES precise localizations of gamma-ray bursts.|13
+1993JGR....9821217H|Hurley, K;Sommer, M;Waite, J|Upper limits to Jovian hard X radiation from the Ulysses gamma ray burst experiment|5
+1992A&AS...92..401H|Hurley, K;Sommer, M;Atteia, J;Boer, M;Cline, T;Cotin, F;Henoux, J;Kane, S;Lowes, P;Niel, M|The solar X-ray/cosmic gamma-ray burst experiment aboard ULYSSES|69
+1990Ap&SS.171.....S|Sanchez, F;Vazquez, M|New windows to the universe|0
+1990Ap&SS.171..323B|Boer, M;Sommer, M;Hurley, K|The HUS Solar Flare and Cosmic Gamma-Ray Burst Detector Aboard the ULYSSES Spacecraft|0
+1988SoPh..118..347K|Kurfess, J|High-Energy Solar Capabilities of Approved Space Missions|3
+1981SoPh...74..485B|Bonnet, R|The Role of Space Techniques in the Understanding of Solar Variability|3

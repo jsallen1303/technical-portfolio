@@ -1,0 +1,29 @@
+1994kofu.symp..301P|Phillips, K;Pike, C;Lang, J;Watanabe, T;Zarro, D|The Photospheric-to-Coronal Iron Abundance from X-ray Lines Observed by YOHKOH and Other Satellites|1
+1993AAS...183.0904C|Cyr, O;Altrock, R|Groundbased Observations of the Sun's Corona Following the Perihelia of Sungrazing Comets|0
+1992ldef.symp...41M|Mirtich, M;Merrow, J|Characteristics of hypervelocity impact craters on LDEF experiment S1003 and implications of small particle impacts on reflective surfaces|0
+1987ucb..reptR....B|Bowyer, S|Satellite observations of extreme ultraviolet radiation|0
+1985IAUC.4129....1S|Sheeley, N;Howard, R;Koomen, M;Michels, D;Marsden, B|Probable Sungrazing Comets|0
+1985nrl..reptQ....K|Karpen, J|A search for precursor activity associated with coronal mass ejections, using white-light coronagraph observations obtained with the SOLWIND instrument on board the Air Force P78-1 satellite|0
+1983ucsd.reptQ....H|Hudson, H|Solar coronal non-thermal processes (Solar Maximum Mission)|0
+1982IAUC.3719....1M|Michels, D;Seal, R;Chaimson, R;Funk, W;Marsden, B|Another Probable Sungrazing Comet|1
+1982uxsa.coll....2D|Doschek, G|Solar Flare X-Ray Spectra from the P78-1 Spacecraft.|0
+1981IAUC.3640....1H|Howard, R;Koomen, N;Michels, D;Sheeley, N;Marsden, B|Probable Sungrazing Comet|4
+1980IAUS...91..387M|Michels, D;Howard, R;Koomen, M;Sheeley, N;Rompolt, B|The solar mass ejection of 8 May 1979|9
+1980S&T....60..102K|Koomen, M;Sheeley, N;Michels, D;Howard, R|Recent Satellite Observations of the Corona|1
+1979aero.reptQ....L|Landecker, P;Chater, W;Howey, C;McKenzie, D;Rugge, H|CRLS-229 solar X-ray spectrometer/spectroheliograph experiment|0
+1978aero.reptR....M|McKenzie, D;Howey, C;Young, R|Compact and lightweight multigrid collimators for a satellite-borne solar X-ray spectrometer experiment|0
+1976aiaa.meet.....F|Friedman, H|Recent advances and near future prospects in high energy astronomy|0
+1975IAUS...68..109J|Jordan, C|The Structure of Solar Active Regions from EUV and Soft X-Ray Observations|38
+1975esm..meet...93B|Bonnet, R|Future programs in solar physics from space|0
+1975oopg.meet..231S|Schoenfelder, V|Galactic gamma-ray astronomy|0
+1975sao..rept.....A|Avrett, E|The calculation of theoretical chromospheric models and predicted OSO 1 spectra|0
+1975sgd..reptQV...L|Leighton, H|Solar-geophysical data 367. Part 2 (comprehensive reports): Data for September 1974 - August 1974 and miscellanea. Explanation of data reports issued as number 366 (supplement) February 1975|0
+1975sgd..reptU....L|Leighton, H|Solar-geophysical data number 371. Part 2: (Comprehensive reports). Data for January 1975 - December 1974 and miscellanea. Explanation of data reports issued as number 366 (supplement) February 1975|0
+1975tsse.conf..667V|Vite, M|Thermal study of the LPSP instrument on OSO-I|0
+1974IzKry..52..113D|Dubov, E;Kartashova, L|The brightness distribution in solar active regions as compared to quiet regions.|0
+1974hco..rept.....B|Bell, B;Menzel, D|Research study on dynamics of the solar atmosphere|0
+1971IAUS...41..185F|Frost, K;Dennis, B;Lencho, R|Experiment to Measure Hard Solar and Celestial X-Rays from the Fifth Orbiting Solar Observatory|11
+1969S&T....37..287C|Culhane, J;Sanford, P;Phillips, K|Soft X-Ray Observations from OSO-4|0
+1967S&T....34..362W|Watts, R|OSO 4 Ultraviolet Solar Observations|0
+1965NASSP..57......||Orbiting Solar Observatory: OSO I. NASA SP-57|0
+1965NASSP..71..377W|Weiner, H|Optimum Solar Cell Shielding for the Advanced Orbiting Solar Observatory|0

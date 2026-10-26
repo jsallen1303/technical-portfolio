@@ -1,0 +1,4 @@
+1986ApJ...311L..57J|Jahoda, K;McCammon, D;Lockman, F|Small-Scale H i Structure and the Soft X-Ray Background|18
+1985ApJ...290..229J|Jahoda, K;McCammon, D;Dickey, J;Lockman, F|High-latutude HI structure and the soft X-ray background.|39
+1983ApJ...269..107M|McCammon, D;Burrows, D;Sanders, W;Kraushaar, W|The soft X-ray diffuse background.|305
+1971ApJ...167L...3B|Bunner, A;Coleman, P;Kraushaar, W;McCammon, D|Low-Energy Diffuse X-Rays|60

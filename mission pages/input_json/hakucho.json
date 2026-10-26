@@ -1,0 +1,60 @@
+{
+    "title": "The Hakucho [CORSA-B] Satellite",
+    "name": "The Hakucho [CORSA-B] Satellite",
+    "alttext": "Image of Hakucho",
+    "imagesize": 204,
+    "imageurl": "/Images/hakucho/hakucho_small.gif",
+    "descript": "<p><b><font size=\"+2\">C</font>orsa-B</b> was the first X-ray astronomy Japanese satellite. Launched on 21 February 1979, it was renamed <b>Hakucho</b> (Japanese for &ldquo;swan&rdquo;) symbolizing one of the most interesting X-ray objects, Cyg X-1. As many other X-ray satellite launched in that period, Hakucho was designed to study and monitor transient phenomena with particular emphasis on X-ray bursts. It was still operating when the second X-ray Japanese satellite Tenma launched in 1983.</p>",
+    "decade" : 1970,
+    "lifetime": "21 Feb 1979&ndash;16 Apr 1985",
+    "features": [""],
+    "instruments": [
+	{
+	    "name" : "Very Soft X-ray experiment (VSX)",
+	    "energy" : "0.1&ndash;0.2 keV",
+	    "area" : "&sim;78 cm<sup>2</sup> each",
+	    "fov" : "6.3&deg; &times 2.9&deg (P; parallel)<br>24.9&deg; &times; 2.9&deg; (V; offset)",
+	    "descript" : "Four identical proportional counters with a thin polypropylene window. Two of counters (P) were located in a direction almost parallel to the spin axis at 2.7&deg; offset. The other two (V) where located offset to the spin axis tilted 45&deg;."
+	},
+	{
+	    "name" : "Soft X-ray experiment (SFX)",
+	    "energy" : "1.5&ndash;30 keV",
+	    "fov": "17.6&deg; (CMC)<br>5.8&deg; (FMC)<br>50.3&deg; &times; 1.7&deg; (V)",
+	    "area" : "69 cm<sup>2</sup> (CMC)<br>40 and 83 cm<sup>2</sup> (FMC)<br>32 cm<sup>2</sup> (V)",
+	    "descript" : "SFX consisted in 6 proportional counters with a Be window. Four of the counters (P divided in two CMC and two FMC) have a viewing direction parallel to the spin axis and the other two (V) were 45&deg; tilted."
+	},
+	{
+	    "name" : "Hard X-ray experiment (HDX)",
+	    "energy" : "10&ndash;100 keV",
+	    "fov": "4.4&deg; &times; 10.0&deg; (FWHM)",
+	    "area" : "45 cm<sup>2</sup>",
+	    "descript" : "HDX was a single NaI(Tl) scintillation counter located parallel to the spin axis with a small offset of 3&deg;."
+	}
+    ],
+    "instrument_postscript" : "The instrument could be operated with different modes providing different energy and time resolution (with 5.86 ms minimum).",
+    "highlights": [
+	"Discovery of soft X-ray transient Cen X-4 and Aql X-1",
+	"Discovery of many burst sources",
+	"Long-term monitoring of X-ray pulsar (e.g. Vela X-1)",
+	"Discovery of 2 Hz variability in the Rapid Burster later named Quasi Period Oscillation"
+    ],
+    "archive": "No data is available at the HEASARC",
+    "navigation": [
+	{
+	    "url" : "/docs/hakucho/hakucho.html",
+	    "text" : "Hakucho at HEASARC"
+	},
+	{
+	    "url" : "/docs/hakucho/hakucho_about.html",
+	    "text" : "More about Hakucho"
+	},
+	{
+	    "url" : "/docs/hakucho/hakucho_images.html",
+	    "text" : "Gallery"
+	},
+	{
+	    "url" : "/docs/hakucho/bib/hakucho_biblio.html",
+	    "text" : "Publications"
+	}
+    ]
+}

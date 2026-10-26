@@ -1,0 +1,21 @@
+1987ApJ...313..231B|Brainerd, J;Lamb, D|Synchrotron Emission and Gamma-Ray Bursts|38
+1986JGR....91Q....R|Ryder, G|Lunar and Planetary Science Conference, 16th, Houston, TX, March 11-15, 1985, Proceedings. Part 2|0
+1981JGR....86.1055H|Hood, L;Russell, C;Coleman, P|Contour maps of lunar remanent magnetic fields.|42
+1981JGR....8611919D|Davis, P;Bielefeld, M|Inelastic neutron scatter iron concentrations of the moon from orbital gamma ray data.|2
+1980ApJ...236..951G|Gilman, D;Metzger, A;Parker, R;Evans, L;Trombka, J|The distance and spectrum of the Apollo gamma-ray burst|44
+1980JGR....85.3209D|Davis, P|Iron and titanium distribution on the moon from orbital gamma ray spectrometry with implications for crustal evolutionary models.|79
+1980Sci...208...49H|Hood, L;Schubert, G|Lunar Magnetic Anomalies and Surface Optical Properties|108
+1979ApJ...229..753G|Gilman, D;Metzger, A;Parker, R;Trombka, J|The galactic gamma-ray flux in the 0.06 - 5 MeV range.|4
+1979E&PSL..45..155M|Metzger, A;Parker, R|The distribution of titanium on the lunar surface|37
+1979JGR....84.3313D|Daily, W;Dyal, P|Magnetometer data errors and lunar induction studies|5
+1979PEPI...20..291H|Hood, L;Coleman, P;Russell, C;Wilhelms, D|Lunar magnetic anomalies detected by the Apollo substatellite magnetometers|23
+1978Natur.271..525S|Schmidt, W|Distance limit for a class of model γ-ray burst sources|88
+1977ApJ...212..925T|Trombka, J;Dyer, C;Evans, L;Bielefeld, M;Seltzer, S;Metzger, A|Reanalysis of the Apollo cosmic gamma-ray spectrum in the 0.3 to 10 MeV energy region.|110
+1977PEPI...15..287H|Hubbard, N;Woloszyn, D|Orbital gamma-ray data and large-scale lunar problems|4
+1977PhDT.........8G|Gilman, D|Low-Energy Gamma-Ray Astronomy from Apollo 16.|1
+1976Ap&SS..42....3K|Klebesadel, R;Strong, I|Observations of Cosmic Gamma-Ray Bursts|31
+1976Ap&SS..42..211O|Ogawara, Y;Matsuoka, M;Miyamoto, S;Muranaka, N;Nishimura, J;Oda, M|The Balloon Observations of Small Cosmic X-Ray Bursts|4
+1976PhDT.........3G|Goldberg, R|Depth-sensitive analysis of fluorine on lunar sample surfaces and in carbonaceous chondrites by a nuclear resonant reaction technique|0
+1974ApJ...194L..19M|Metzger, A;Parker, R;Gilman, D;Peterson, L;Trombka, J|Observation of a Cosmic Gamma-Ray Burst on Apollo 16. I. Temporal Variability and Energy Spectrum|67
+1974ApJ...194L..27T|Trombka, J;Eller, E;Schmadebeck, R;Adler, I;Metzger, A;Gilman, D;Gorenstein, P;Bjorkholm, P|Observation of a Cosmic Gamma-Ray Burst on Apollo 16. II. X-Ray Time Profile and Source Location|25
+1974RvGSP..12..568D|Dyal, P;Parkin, C;Daily, W|Magnetism and the interior of the moon.|117

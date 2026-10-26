@@ -1,0 +1,9 @@
+1999AAS...194.9704H|Hurley, K;Cline, T;Kouveliotou, C;Mazets, E|A Refined IPN Position for SGR1806-20|0
+1998IAUC.6929....1H|Hurley, K;Kouveliotou, C;Mazets, E;Cline, T;Woods, P;Kippen, M;Briggs, M|SGR 1900+14|14
+1998IAUC.6966....2H|Hurley, K;Cline, T;Butterworth, P;Mazets, E;Golenetskii, S|Sgr 1627-41|5
+1998IAUC.7002....1C|Cline, T;Mazets, E;Golenetskii, S|Sgr 1900+14|28
+1997IAUC.6593....1C|Cline, T;Butterworth, P;Stilwell, D;Mazets, E;Golenetskii, S;Aptekar, R;Frederiks, D;Il'Inskii, V;Terekhov, M;Hurley, K;Yoshida, A;Kawai, N;Otani, C;Tokanai, F;Inoue, H;Murakami, T;Nagase, F;Shibata, R;Ueda, Y;Holt, S;Piro, L;Costa, E;Heise, J;Hughes, J|GRB 970228|21
+1997IAUC.6743....1H|Hurley, K;Kouveliotou, C;Cline, T;Mazets, E;Fishman, G;Meegan, C;Woods, P;Smith, D;Levine, A;Morgan, E;Remillard, R;Rutledge, R|Possible New Soft gamma-Ray Repeater|10
+1997nasa.reptS....H|Hurley, K|Analysis of Data from the Transient Gamma-Ray Spectrometer Experiment on the GGS/Wind Spacecraft|0
+1996AAS...189.9303C|Cheng, L;Leventhal, M;Tueller, J;Gehrels, N;Parsons, A;Teegarden, B;Barthelmy, S;Naya, J;Bartlett, L|GRIS Detections of Positron Annihilation Radiation from Our Galaxy|0
+1991ICRC....2..499O|Owens, A;Cline, T;Cork, C;Gehrels, N;Hurley, K;Landis, D;Luke, P;Madden, N;Mallone, D;Pehl, R;Ramaty, R;Seifert, H;Teegarden B.,;Trombka, J|The Transient Gamma-Ray Spectrometer: A New Instrument for Gamma-Ray Burst Spectroscopy|0

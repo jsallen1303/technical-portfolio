@@ -1,0 +1,50 @@
+{
+    "title": "The Near Earth Asteroid Rendezvous (NEAR)",
+    "name": "NEAR Shoemaker",
+    "decade" : 1990,
+    "alttext": "artist concept of NEAR orbiting Eros",
+    "imagesize": 300,
+    "imageurl": "/Images/misc_missions/near.gif",
+    "descript": "<p><b><font size=\"+2\">T</font>he Near Earth Asteroid Rendezvous (NEAR)</b> mission was the first launch in the Discovery Program</a>, a NASA initiative for small planetary missions. It was renamed NEAR Shoemaker to honor Eugene Shoemaker. The NEAR Shoemaker mission was managed for NASA by the Johns Hopkins University Applied Physics Laboratory, Laurel, Maryland. It was launched on a Delta II rocket on February 17, 1996.</p>\n\n<p>As the first spacecraft to orbit an asteroid, the NEAR Shoemaker mission promised to answer fundamental questions about the nature and origin of near-Earth objects, such as the numerous asteroids and comets in the vicinity of Earth&rsquo;s orbit.</p>\n\n<p>The NEAR spacecraft touched down on Eros in February 2001, returning the highest resolution pictures of an asteroid&rsquo;s surface.</p>",
+    "lifetime": "Feb 1996&ndash;Feb 2001",
+    "features": [
+	"First in-situ X-ray and gamma ray spectroscopy of an asteroid",
+        "Cruise phase diffuse background in X-ray and gamma ray measurements"
+    ],
+    "instrument_preample" : "The X-ray/gamma-ray spectrometer (XGRS), one of five major facility instruments on the NEAR spacecraft, was the primary experiment for determining surface/near-surface elemental composition of the near-Earth asteroid 433 Eros. XGRS measurements would be fundamental to solving such mysteries as the source of meteorites and their relationship to asteroids.</p>\n\n<p>Although XGRS was intended primarily for these compositional studies, it has also been used to make measurements of the diffuse X-ray and gamma-ray background during the cruise phase of the mission as part of the instrument&rsquo;s background calibration studies. XGRS consisted of several subsystems, listed below.",
+    "instruments": [
+	{
+	    "name" : "X-ray Fluorescence Spectrometer",
+	    "energy" : "1&ndash;10 keV",
+	    "resolution" : "5&deg; collimators",
+	    "area" : "25 cm<sup>2</sup> active aperture area",
+	    "energy_resolution" : "&lt;1 keV at 5.95 keV (FWHM)",
+	    "descript" : "3 gas-filled proportional counters;  25-mm beryllium window, uniformity &sim;&plusmn;5% ;   Beryllium liner and window support. Rise-time discrimination to reduce background contamination. Equipped with <sup>55</sup>Fe in-flight calibration source. Full performance up to 10 kHz counting rate. The X-ray fluorescence experiment used three gas-filled proportional counters observing X-ray line emissions from the asteroid. Balanced filters on two detectors (Al on one and Mg on the other) were used to separate Mg, Al, and Si lines; Ca, Ti, and Fe lines are resolved."
+	},
+	{
+	    "name" : "X-ray Solar Monitors",
+	    "energy_resolution" : "&lt;1 keV at 5.95 keV FWHM (proportional counter)<br>&lt;600 eV at 5.95 keV FWHM (solid-state)",
+	    "descript" : "The solar monitor used a gas-filled proportional counter with a pinhole active area observing the X-ray spectrum of the Sun. A high-resolution, solid-state solar monitor could be alternatively selected."
+	},
+	{
+	    "name" : "Gamma Ray Spectrometer",
+	    "energy" : "0.3&ndash;10 MeV",
+	    "fov" : "60 &deg;",
+	    "energy_resolution" : "8.5% at 662 keV FWHM (prime)<br>15% at 662 keV FWHM (BGO shield)",
+	    "temporal_resolution" : "Full performance up to 10 kHz",
+	    "descript" : "The gamma-ray spectrometer used a body-mounted NaI scintillator with BGO shield. This unique design eliminated the need for both a long boom and active cooling. Data were collection in 10 keV wide channels. This subsystem of the XGRS detected naturally radioactive elements &mdash; K, Th, U &mdash; by their gamma rays and those of their decay chain products. In addition, it could detect other elements &mdash; Fe, Si, O, H &mdash; by gamma rays produced by cosmic ray interactions. The gamma rays of interest are typically between 0.2 and 10 MeV. The prime detector was a 2.5&times;7.5 cm NaI(Tl) scintillator; The shield detector was a 8.9&times;14 cm BGO scintillator cup shield"
+	}
+    ],
+  "highlights": [],
+  "archive": "",
+  "navigation": [
+    {
+      "url": "images/near_images.html",
+      "text": "Gallery"
+    },
+    {
+      "url": "biblio/near_biblio.html",
+      "text": "Publications"
+    }
+  ]
+}

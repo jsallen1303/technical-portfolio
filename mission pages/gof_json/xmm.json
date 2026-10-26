@@ -1,0 +1,65 @@
+{
+    "title": "The X-ray Multi-Mirror Mission",
+    "name": "The X-ray Multi-Mirror Mission (XMM-Newton)",
+    "alttext": "XMM Newton",
+    "imagesize": 300,
+    "imageurl": "/Images/misc_missions/xmm.jpg",
+    "descript": "<p><b><font size\"+2\">T</font>he X-ray Multi-Mirror Mission (XMM-Newton)</b> was launched by Ariane 504 on December 10 1999. XMM-Newton is ESA&rsuoq;s second cornerstone of the Horizon 2000 Science Programme. It carries high thoughput X-ray telescopes with an unprecedented effective area, and an optical monitor, the first flown on a X-ray observatory. The large collecting area and ability to make long uninterrupted exposures provide highly sensitive observations.</p>",
+    "decade" : 1990,
+    "gofsidebar" : "Past",
+    "lifetime": "December 1999&ndash;present (nominal 10 year mission)",
+    "features": [
+	"Very large collecting area",
+	"Simultanenous X-ray and optical observations",
+	"Three Wolter Type I grazing incidence gold-coated imaging X-ray telescopes"
+    ],
+    "instruments": [
+	{
+	    "name": "European Photon Imaging Camera Metal-Oxide-Silicon (EPIC-MOS)",
+	    "resolution" : "6&Prime; FWHM",
+	    "energy" : "0.1&ndash;15 keV",
+	    "energy_resolution" : "&sim;20&ndash;50 (E/&Delta;E)",
+	    "area" : "922 cm<sup>2</sup> at 1 keV",
+	    "fov" : "33&prime; &times; 33&prime;",
+	    "descript" : "There are two EPIC-MOS units, mounted under each of the two telescopes. Each unit consists of an array of 7 CCDs, each 600 &times; 600 pixels."
+	},
+	{
+	    "name": "European Photon Imaging Camera PN (EPIC-PN)",
+	    "energy" : "0.1&ndash;15 keV",
+	    "spectral_resolution" : "&sim;20&ndash;50 (E/&Delta;E)",
+	    "area" : "1227 cm<sup>2</sup> at 1 keV",
+	    "fov" : "27.5&prime; &times; 27.5&prime;",
+	    "descript" : "A single instrument with an array of 12 CCDs (12 &times; 200 pixels each) used for spectro-imaging"
+	},
+	{
+	    "name" : "Reflection Grating Spectrometer",
+	    "fov" : "5&prime;",
+	    "energy" : "0.35&ndash;2.5 keV",
+	    "area" : "185 cm<sup>2</sup> at 1 keV",
+	    "spectral_resolution" : "200&ndash;800 (E/&Delta;E)",
+	    "descript" : "The gratings, mounted under each of the two telescopes, deflect about 50% of the X-ray light onto an array of 9 EPIC-MOS CCD detectors. Line density is &sim;645 lines mm<sup>-1</sup> at center."
+	},
+	{
+	    "name" : "Optical Monitor (OM)",
+	    "descript" : "Co-aligned 30 cm optical/UV telescope with a &sim;17&prime; field of view and &sim;1&Prime; spatial resolution"
+	}
+    ],
+    "highlights": [],
+    "archive": "The HEASARC hosts the XMM-Newton data archive and catalogs.",
+    "navigation": [
+	{
+	    "url" : "https://www.cosmos.esa.int/web/xmm-newton",
+	    "text" : "XMM-Newton SOC at ESA"
+	    
+	},
+	{
+	    "url": "/docs/xmm/xmmgof.html",
+	    "text": "XMM at HEASARC"
+	},
+	{
+	    "url" : "https://heasarc.gsfc.nasa.gov/docs/xmm/xmmhp_gof.html#sec:publications",
+	    "text" : "Publications"
+	}
+    
+    ]
+}

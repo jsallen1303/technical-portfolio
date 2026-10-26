@@ -1,0 +1,35 @@
+{
+  "title": "The Radsat mission",
+    "name": "Radsat",
+    "decade" : 1970,
+  "alttext": "",
+  "imagesize": null,
+    "imageurl": null,
+  "descript": "<p><font size=\"+2\">T</font>he pin stabilized satellite <b>Radsat</b> was launched by the US Air Force on 2 October 1972 into a noon-midnight, Sun-synchronous orbit. The satellite is sometimes referred to as 1972-076B (its international launch number) or P72-1. The inclination was 98.4 degrees; the apogee and perigee were 761 and 736 km, respectively. The cylindrical spacecraft was 2.13 m long and 1.37 m in diameter. Antenna booms extended 2.74 m from each end, coincident with the spin axis. The orbital period was 99.5 minutes, and the spin period was 5 s. The satellite carried 5 instruments: a gamma-ray spectrometer, an extreme ultraviolet detector, 2 low-altitude particle detectors, and a thermocontrol coating test instrument. The gamma-ray instrument ceased function after ~7 months.",
+    "lifetime": "Oct 1972&ndash;May 1973 (gamma-ray instrument)",
+    "features": [
+	"First high-resolution germanium detector flown on a satellite"
+    ],
+    "instruments": [
+	{
+	    "name" : "gamma-ray detector",
+	    "area" : "15 cm<sup>2</sup>",
+	    "energy" : "40 keV &ndash; 2.8 MeV",
+	    "energy_resolution": "&sim;4 keV (FWHM) initially, 10&ndash;50 keV thereafter",
+	    "time_resolution" : "1 ms (burst)",
+	    "descript" : "The gamma-ray detector was a 50 cm<sup>3</sup> Ge(Li) spectrometer cooled by solid CO<sub>2</sub>. The detector was surrounded by a W collimator and a stainless steel tungsten rear shield, which was in turn surrounded by a 4&pi; anti-coincidence plastic scintillator. The detector covered the energy range 40 keV &ndash; 2.8 MeV, with 4096 channels. The maximum resolution was &sim;4 keV (FWHM) at all energies. However, this resolution was short-lived, and during most of the lifetime of the experiment the resolution was between 10&ndash;50 keV. Data were accumulated in 1 ms time bins during a burst.</p>\n\n<p>\n<img alt=\"Diagram of Radsat's instrument\" src=\"/Images/misc_missions/radsat_diag.gif\"></p>"
+	}
+    ],
+    "highlights": [
+	"Several gamma-ray bursts which were also seen by the Vela satellites were seen by Radsat. A &sim;60-ms microburst was seen prior to the Vela trigger time for the 18 December 1972 event. Furthermore, the spectrum was seen to soften in this event at later times."
+    ],
+    "archive": "",
+    "publications" : [
+	"<a class=\"usa-link\" href=\"https://ui.adsabs.harvard.edu/abs/1974ApJ...191L...7I/abstract\">Imhof <i>et al.</i>, 1974, Ap J Lett, 191, L7-L10</a>",
+	"<a class=\"usa-link\" href=\"https://ui.adsabs.harvard.edu/abs/1975ApJ...198..717I/abstract\">Imhof <i>et al.</i>, 1975, Ap J, 198, pp. 717-725</a>",
+	"<a class=\"usa-link\"  href=\"https://ui.adsabs.harvard.edu/abs/1976gran.book.....C/abstract\">E.L. Chupp, Gamma-Ray Astronomy, pp. 238-242</a>",
+	"<a class=\"usa-link\" href=\"https://ui.adsabs.harvard.edu/abs/1987STIA...8834825K/abstract\">The RAE Table of Earth Satellites 1957&ndash;1986</a>"
+    ],
+    "credit" : "",
+  "navigation": []
+}

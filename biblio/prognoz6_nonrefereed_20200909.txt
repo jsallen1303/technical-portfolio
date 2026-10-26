@@ -1,0 +1,19 @@
+1996AAS...188.3401F|Flynn, B;Vallerga, J;Dalaudier, F;Gladstone, G|EUVE Detection of the Local Interstellar Wind via Resonance Scattering of Solar He I 584 Angstroms|0
+1995sowi.conf...43B|Bertaux, J;Quemerais, E;Lallement, R;Summanen, T;Kyrola, E|Observations of a groove in the interplanetary Lyman alpha pattern as the signature of enhanced ionisation in the neutral sheet|4
+1992sws..coll..285S|Summanen, T;Kyrola, E;Lallement, R;Bertaux, J|The latitudinal dependence of the solar ionization rate as deduced from the Prognoz-6 Lyman-alpha measurements|0
+1989RpScT...2....6Y|Yeroshenko, Y;Ivanov, K;Verigin, M;Kotova, G;Styazhkin, V|Structure of interplanetary fluxes based on plasma and magnetic field measurements by Prognoz-6 satellite on 25-26 November 1977|0
+1985RpSpR...1...45K|Kurt, V;Mironova, Y;Berto, Z;Dalodye, F|Helium atoms in interstellar and interplanetary space. II: Determination of direction of interstellar gas motion relative to Sun|0
+1985RpSpR...5...46D|Daybog, Y;Kurt, V;Stolpovskiy, V|Dependence of length of free path of flare particles on energy|0
+1984RpSpR...2...64K|Kurt, V;Mironova, Y;Berto, Z;Dalode, F|Helium atoms in interstellar and interplanetary media, part 3: Temperature and velocity of interstellar wind|0
+1984isap.book.....S|Sagdeev, R|Investigations of solar activity and the Prognoz space system|0
+1984isap.book...91M|Mironova, E|Results of an investigation of interstellar neutral hydrogen and helium in the solar system|0
+1984isap.book..147L|Lutsenko, V;Nikolaeva, N;Fisher, S|Investigation of the isotopic and charge composition of energetic particles aboard the Prognoz 5 and Prognoz 6 stations.|0
+1984isap.book..168K|Kolchin, A;Lebedev, V;Levchenko, V;Repin, A;Skrebtsov, G;Shubin, V|Results of an investigation of low-energy cosmic rays in the AYAKS experiment aboard Prognoz 4 and Prognoz 6.|0
+1984isap.book..185E|Estulin, I|Investigation of gamma-ray bursts with the Prognoz automatic stations.|0
+1983igrt.book...29V|Vedrenne, G;Niel, M;Chambon, G|The Sneg-3 gamma-ray astronomy experiment|0
+1983igrt.book..162V|Valnichek, B;Vedrenne, G;Klimenko, V;Kuznetsov, A;Likin, O;Morozova, E;Pisarenko, N;Hurley, K;Farnik, F;Chambon, G|Features of the development and energetics of the solar flare of November 22, 1977|0
+1983igrt.book..170V|Valnichek, B;Vedrenne, G;Kuznetsov, A;Likin, O;Morozova, E;Niel, M;Pisarenko, N;Farnik, F;Hurley, K;Chambon, G|The double solar flare of October 6, 1977|0
+1981IzSSR..45..592K|Kolchin, A;Lebedev, V;Levchenko, V;Repin, A;Skrebtsov, G;Shubin, V|Investigation of iron-rich events in the AYAKS experiment (22.IX.1977 - 26.I.1978).|0
+1981IzSSR..45..609K|Kurt, V;Logachev, I;Stolpovskii, V;Pisarenko, N;Gros, M;Treger, L|Event in solar particles from January 1 - 5, 1978.|0
+1980IzKry..62...27Z|Zvereva, A|Method for determining sky background brightness on the basis of data from the Galaktika experiment|0
+1978IAUC.3261....3S|Sagdeev, R;Kurt, V;Bertaux, J|Bright Ultraviolet Source|1

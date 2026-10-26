@@ -1,0 +1,26 @@
+{
+    "title": "ARGOS (USA)",
+    "name": "ARGOS (USA)",
+    "alttext": "Artistic rendering of ARGOS",
+    "imagesize": 237,
+    "decade" : 1990,
+    "imageurl": "/Images/misc_missions/argos.jpg",
+    "descript": "<p><b><font size=\"+2\">T</font>he Advanced Research and Global Observations Satellite (ARGOS)</b> was a satellite funded out of the U.S. Department of Defense Space Test Program and operated by the U.S. Air Force. The mission was launched on 23 Feb 1999, and operations continued until 31 July 2003. Note that this is not the same mission as the Argos System, a series of NOAA satellites.</p>\n<p>ARGOS was launched from Vanguard Air Force Base on a Delta II rocket, and operated by the Air Force&rsquo;s Research, Development, Test and Evaluation Support Complex (RSC) at Kirkland Air Force Base. The satellite carried nine different instruments, each associated with different research groups with different agencies. The satellite was placed in a sun-synchronous roughly circular polar orbit at an altitude of 833 kilometers. Operations were ceased on 31 July 2003.</p>",
+    "lifetime": "1 May 1999&ndash;16 Nov 2000 (USA instrument)",
+    "features": [ "Carried nine different instruments from different research groups and institutions, though only the Unconventional Stellar Aspect (USA; also known as the NRL-801 experiment) collected high-energy astrophysics data. USA was a reflight of the SPARTAN 1 instrument flown on the Space Shuttle <i>Discovery</i> in June 1985." ],
+    "instruments": [
+ {
+     "name": "Unconventional Stellar Aspect (USA)",
+     "energy" : "1&ndash;15 keV",
+     "descript": "USA consisted of a pair of large-area gas scintillation proportional counters mounted on a two-axis pointing system. It included precise (roughly microsecond accuracy) time-tagging of events using an integrated GPS receiver."
+ }
+    ],
+  "highlights": [],
+  "archive": "",
+  "navigation": [
+    {
+      "url": "biblio/argos_biblio.html",
+      "text": "Publications"
+    }
+  ]
+}

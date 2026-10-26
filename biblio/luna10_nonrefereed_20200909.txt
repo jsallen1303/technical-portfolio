@@ -1,0 +1,6 @@
+1997LPI....28..845L|Lucey, P;Hinrichs, J;Robinson, M;Johnson, J;Peterson, C;Domergue-Schmidt, N;Taylor, G|Near-Infrared (1.0-2.0 Microns) Global Imaging of the Moon|0
+1989RpScT...1...11B|Barsukov, V;Nazarova, T|Circular dust formations around earth and moon and some structural elements of dust formation around sun|0
+1984plri.coll..211C|Cuzzi, J|Physical Properties of Saturn's Rings|0
+1975prw..book..355A|Andrianov, V|Fresnel diffraction of VHF radio waves|0
+1974impm.nasa..151G|Grigorov, N;Kurt, V;Lutsenko, V;Maduyev, V;Pisarenko, N;Savenko, I|An investigation of the cosmic radiation in the vicinity of the moon on the Luna 10, 11, and 12 artificial lunar satellites|0
+1959IAUS....9...13H|Hey, J;Hughes, V|Radar observation of the moon at 10-cm wavelength|4

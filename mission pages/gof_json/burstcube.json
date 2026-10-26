@@ -1,0 +1,39 @@
+{
+    "title": "BurstCube",
+    "name": "BurstCube",
+    "alttext": "Artist concept of BurstCube in orbit",
+    "imagesize": 300,
+    "imageurl": "/docs/burstcube/gallery/images/BurstCube_S01_620_crop_sm.png",
+    "descript": "<p><b><font size=\"+2\"> B</font>urstCube</b> was a 6U Cubesat mission (with an approximate size of 10 cm x 20 cm x 30 cm) to detect, localize, and rapidly disseminate information about gamma-ray bursts (GRBs). It was launched on March 21, 2024 on SpaceX&rsquo;s 30<sup>th</sup> commercial resupply mission to the International Space Stations, and was deployed from the ISS on April 18, co-launched with another CubeSat mission SnoOPI. \n<p>BurstCube monitored the sky for variable and unusual transient gamma-ray events. The primary science objective was to detect and characterize short GRBs (&lt;2 s) that are the counterparts of GW sources. BurstCube was also sensitive to all GRBs such as long duration hypernovae, and supernova (associated, high-redshift, and nearby sub-luminous), and transient galactic sources such as magnetars. BurstCube was developed at GSFC/NASA and was intended to have an initial operations period of one year.</p>\n<p>Science operations were terminated on September 14. The mission was much shorter than originally planned due to instrument and operations problems after deployment.</p>",
+    "decade" : 2020,
+    "gofsidebar" : "Past",
+    "lifetime": "18 Apr&ndash;14 Sep 2024",
+    "features": [
+	"Rapid detection and source localization of GRBs and transient sources"
+    ],
+    "instruments" : [
+	{
+	    "name" : "Cesium iodide Scintillators (CS)",
+	    "energy": "50 keV &ndash; 1 MeV",
+	    "fov" : "Combined FOV of &gt;6 sr",
+	    "temporal_resolution" : "&lt;1 ms",
+	    "time resolution" : "time tagged to &lt; 1 ms",
+	    "descript" : "Set of four CsI scintillator detectors read out by arrays of SiPMS. Each detector was about 90 mm in diameter by 19 mm thick and housed in an aluminum can, arranged to point perpendicularly to each other. The array of detectors and SiPMs were approximately 20 &times; 20 &times; 10 cm in size (4U). Supporting electronics and ccommunications equipment provided rapid alerts upon event detection."
+	}
+    ],
+    "goals": [
+	"Rapid approximate location of gamma-ray burst sources",
+	"Detection of binary neutron star mergers, characterized by short gamma-ray bursts and gravitational wave detection with instruments such as the existing LIGO and future LISA spacecraft programs"
+    ],
+  "archive": "The HEASARC hosts BurstCube products and catalogs.",
+  "navigation": [
+    {
+      "url": "/docs/burstcube/",
+      "text": "BurstCube at HEASARC"
+    },
+    {
+      "url": "biblio/burstcube_biblio.html",
+      "text": "Bibliography"
+    }
+  ]
+}

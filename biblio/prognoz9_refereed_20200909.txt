@@ -1,0 +1,12 @@
+1998AstL...24..572K|Kudryavtsev, M;Svertilov, S;Bogomolov, V|Characteristics of the periodic hard x-ray sources discovered during the Prognoz-9 experiment; The results of a further analysis|2
+1995AstL...21..224K|Kudryavtsev, M;Svertilov, S;Bogomolov, V|Spectral properties of hard x-ray emission (10-100 keV) from the periodic sources Cen X-4, 4U1755-33, 4U1700-37, MXB1659-29, and 4U1822-37: Results of Prognoz-9 observations|3
+1994ApJ...423..709H|Hurley, K;Atteia, J;Jourdain, E;Barat, C;Niel, M;Vedrenne, G;Sunyaev, R;Kuznetsov, A;Terekhov, O|Upper Limits to the Soft Gamma Repeater Population from the LILAS Experiment Aboard the PHOBOS Mission|17
+1992SoPh..141..127G|Garcia, H;Farnik, F|Flare plasma diagnostics based on the soft X-ray photometric data from GOES and PROGNOZ|13
+1991PAZh...17..410K|Kudrjavtsev, M;Svertilov, S|Observations of 4U 1700-37 in the X-ray experiment on a "PROGNOZ-9" mission.|1
+1989PAZh...15.1072K|Kudryavtsev, M;Mamontova, N;Svertilov, S;Tolstaya, E|Indication of 62-hour periodicity in SCO X-1 from X-ray experiment data obtained on "Prognoz-9" satellite.|2
+1988PAZh...14..216K|Kudryavtsev, M;Svertilov, S|Observations of cosmic gamma-ray bursts on the Prognoz-9 satellite|1
+1988PAZh...14..323K|Kudryavtsev, M;Svertilov, S|Parameters of the gamma-ray burst GRB 830801 measured from the "Prognoz-9" satellite.|0
+1988PAZh...14..893K|Kudryavtsev, M;Logachev, Y;Svertilov, S|Hard X-ray periodic (in day's range of periods) souces near the galactic center observed on Prognoz-9.|2
+1987PAZh...13..995K|Kuznetsov, A;Sunyaev, R;Terekhov, O;Atteia, J;Boer, M;Hurley, K;Niel, M|The source of repeated bursts in Sagittarius. Spectra and time histories.|1
+1986PAZh...12..745K|Kouznetsov, A;Syunyaev, R;Terekhov, O;Jakubtsev, L;Barat, C;Boer, B;Vedrenn, G;Niel, M;Hurley, K|Preliminary results of the SIGNE-2MP9 γ-ray bursts experiment.|4
+1984PAZh...10....3S|Strukov, I;Skulachev, D|Deep-space measurements of the microwave background anisotropy - First results of the Relikt experiment|5

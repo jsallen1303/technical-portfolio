@@ -1,0 +1,34 @@
+{
+    "title": "The First Orbiting Solar Observatory",
+    "name": "OSO 1",
+    "decade" : 1960,
+    "alttext": "Photograph of one of the OSO series satellites",
+    "imagesize": 227,
+    "imageurl": "/Images/oso/oso1_small.gif",
+    "descript": "<p><b><font size=\"+2\">T</font>he First Orbiting Solar Observatory One (OSO 1)</b> was the initial member a series of OSO missions. Launched on 7 March 1962, the 200 kg spacecraft had a 9-sided spinning wheel section 1.2 m in diameter joined onto a fan-shaped sail section. It was put into a roughly circular orbit at &sim;575 km altitude, 32.8&deg; inclination. It&rsquo;s primary mission objectives were to measure the solar electromagnetic radiation in the UV, X-ray, and gamma-ray regions. Secondarily, it was to investigate dust particle in space. Data transmission ended on 6 August 1963. The satellite reentered the Earth&rsquo;s atmosphere 8 October 1981.</p>",
+    "lifetime": "Mar 1962&ndash;Aug 1963",
+    "features": [
+	"There were a number of X-ray and gamma-ray experiments aboard OSO 1 for performing solar observations. One instrument, however, the University of Minnesota Gamma Ray Experiment, was designed to provide preliminary measurements of the intensity and directional properties of low-energy gamma-rays in space. "
+    ],
+    "instruments": [
+	{
+	    "name" : "University of Minnesota Gamma Ray Experiment",
+	    "energy" : "50 keV &ndash; 3 Mev (total)",
+	    "descript" : "For the 50&ndash;150 keV range, a NaI(Tl) scintillation crystal monitored radiation through a lead shield. The detector operating in the 0.3&ndash;1.0 MeV and 1.0&ndash;3.0 MeV energy regions used two scintillators connected as a Compton coincidence telescope."
+	}
+    ],
+    "highlights": [
+	"The gamma-ray experiment on OSO 1 produced a measurement of the extraterrestrial gamma-ray flux between 0.5&ndash;3.0 MeV, and an indication of its origin on the celestial sphere. Equally important, this experiment began to define the background problems encountered in gamma-ray astronomy."
+    ],
+  "archive": "",
+  "navigation": [
+    {
+      "url": "images/oso_images.html",
+      "text": "Gallery"
+    },
+    {
+      "url": "biblio/oso_biblio.html",
+      "text": "Publications"
+    }
+  ]
+}

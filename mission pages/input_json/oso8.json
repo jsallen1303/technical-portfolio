@@ -1,0 +1,64 @@
+{
+    "title": "The Eighth Orbiting Solar Observatory (OSO-8)",
+    "name": "The OSO-8 Satellite",
+    "alttext": "Visualization of OSO-8",
+    "imagesize": 146,
+    "imageurl": "/Images/oso/oso8_small2.gif",
+    "descript": "<p><b><font size=\"+2\">T</font>he Eighth Orbiting Solar Observatory (OSO 8)</b> was launched on 21 June 1975. Its lifetime overlapped with Ariel 5 (1974&ndash;1980), HEAO 1 (1977&ndash;1979), and SAS-3 (1975&ndash;1979). It was placed into a 550 km circular orbit with a 33 degree inclination to the Earth&rsquo;s equator and was operated in both scanning and pointing mode. The satellite spin period was 10.7 seconds. The structure of OSO-8 consisted of a rotating cylindrical base section called the &ldquo;wheel&rdquo; and a non-spinning upper section called the &ldquo;sail&rdquo;. While the objectives of the mission were solar in nature, four experiments were mounted in the rotating wheel to exclusively observe cosmic X-ray sources. The first three experiments had their fields-of-view either aligned to the spin axis of the spacecraft or at small angles to it. Hence they always viewed the portion of the sky at right angles to the earth-sun line. The fourth instrument observed cosmic X-ray sources during the satellite night. The objectives of the four X-ray experiments was to observed the X-ray background, study intensity and spectral variations of cosmic X-ray sources, and to measure the degree of polarization of the X-rays observed from these sources.</p>",
+    "decade" : 1970,
+    "lifetime": "21 Jun 1975&ndash;1 Oct 1978",
+    "features": [""],
+    "instruments": [
+	{
+	    "name" : "GSFC Cosmic X-ray Spectrometer Experiment (GCXSE)",
+	    "energy" : "2&ndash;60 kev (Detector A)<br>2&ndash;20 keV (Detector B)<br>2&ndash;60 kev (Detector C)",
+	    "fov" : "5&deg; (Detectors A)<br> 3&deg; (Detector B)<br>5&deg; (Detectors C)",
+	    "area" : "263 cm<sup>2</sup> (Detector A)<br>37 cm<sup>2</sup> (Detector B)<br>237 cm<sup>2</sup> (Detector C)",
+	    "descript" : "The instrument was a Goddard Space Flight Center effort headed by P. J. Serlemitsos. The experiment consisted of two xenon (detectors A and C) and one argon (detector B) proportional counters. Two of the counters (B and C) had their fields of view oppositely aligned to each other and coaligned to the spin axis with the B detector located at the negative spin axis. The third counter (A) was aligned with a 5 degree offset to the aft spin axis so that with each wheel revolution it scanned the region of the sky within 10 degrees of the aft axis direction. The two aft pointed counters had clear fields of view while the forward pointed counter had its field of view periodically occulted by the pointed instruments under the spacecraft sail. A 64 channel spectrum was obtained every 40.96 second for the B and C detectors and every 2.56 seconds for the scanning A detector. Integral rates were also available from all the detectors with 160 millisecond resolution."
+	},
+	{
+	    "name" : "High-Energy Celestial X-ray Experiment",
+	    "energy" : "10&ndash;1000 keV",
+	    "area" : "27.5 cm<sup>2</sup>",
+	    "fov" : "5&deg;",
+	    "descript" : "The instrument was a Goddard Space Flight Center effort headed by K. H. Frost, measured the spectrum of X-ray sources and searched for temporal variations in the intensity and spectrum of point sources. In addition, it measured the diffuse component of celestial X-rays over a scanned strip of the sky and set limits on the intensity and isotropy of the 511 keV positron annihilation radiation."
+	},
+	{
+	    "name" : "Soft X-ray Background Radiation experiment",
+	    "energy" : "0.150&ndash;45 keV",
+	    "area" : "51.8 cm<sup>2</sup> (1 (fwd), 4 (aft))<br>43.0 cm<sup>2</sup> (2 (fwd), 5 (aft))<br>41.7 cm<sup>2</sup> (3 (fwd), 6(aft))",
+	    "fov" : "2.7&deg; collimator",
+	    "descript" : "The experiment, led W. L. Kraushaar (U. Wisconsin), studied the galactic latitude dependence of the X-ray background radiation using proportional counters with as narrow a collimation as practical. Energy resolution relied largely on selective window transmission rather than pulse height measurement. Viewing was parallel (forward) and anti-parallel (aft) to the wheel spin direction, so that two single paths across the sky, galactic pole to galactic pole, were carefully surveyed with high statistical accuracy approximately every 6 months. The complement of detectors consisted of two identical sets of three proportional counters. However, counter 3 failed shortly after being turned on. Counter 4 operated from 7 September 1975 through 7 August 1976 when it was turned off due to a gas leak."
+	},
+	{
+	    "name" : "Graphite Crystal X-ray Spectrometer",
+	    "energy" : "2&ndash;8 keV",
+	    "fov" : "3&deg;",
+	    "descript" : "The spectrometer was a Columbia University experiment headed by H. L. Kestenbaum,used to measure continuum profiles with high spectral resolution. During satellite day, solar spectra were obtained. Stellar X-ray sources were observed during satellite night. The spectrometer made use of the wheel rotation to obtain a complete Bragg spectrum every 10 seconds. X-rays transmitted by the slat collimators struck the large graphite crystal panels. Those X-rays which satisfied the Bragg condition for reflection from graphite were reflected into the central bank of detectors. The detectors were double-sided proportional counters with 0.025 mm beryllium windows on each side and contained an argon-xenon gas mixture chosen for its high efficiency over the 2&ndash;8 keV range. The Graphite Crystal X-ray polarimeter experiment, also out of Columbia University, operated in a similar fashion reflecting X-rays off of a graphite crystal panel into a small proportional counter. The panels reflected preferentially those X-rays polarized perpendicular to the plane defined by the incident and reflected rays."
+	}
+    ],
+    "highlights": [
+	"Iron-line detection in the X-ray spectra of a cluster of galaxies",
+	"Detection of Black-Body spectrum from X-ray bursts",
+	"Set upper limit on the polarization of radiation from several X-ray binaries"
+    ],
+    "archive": "The HEASARC holds lightcurves and raw data from the GCXSE instrument",
+    "navigation": [
+	{
+	    "url" : "/docs/oso8/oso8.html",
+	    "text" : "OSO-8 at HEASARC"
+	},
+	{
+	    "url" : "/docs/oso8/oso8_about.html",
+	    "text" : "More about OSO-8"
+	},
+	{
+	    "url" : "/docs/oso8/oso8_images.html",
+	    "text" : "Gallery"
+	},
+	{
+	    "url" : "/docs/oso8/bib/oso8_biblio.html",
+	    "text" : "Publications"
+	}
+    ]
+}

@@ -1,0 +1,41 @@
+2020AJ....159...35W|Wang, J;Li, H;Xin, L;Han, X;Meng, X;Brink, T;Cai, H;Dai, Z;Filippenko, A;Hsia, C;Huang, L;Jia, L;Li, G;Li, Y;Liang, E;Lu, X;Mao, J;Qiu, P;Qiu, Y;Ren, J;Turpin, D;Wang, H;Wang, X;Wang, X;Wu, C;Xu, Y;Yan, J;Zhang, J;Zheng, W;Wei, J|Photometric and Spectroscopic Studies of Superoutbursts of Three Dwarf Novae Independently Identified by the SVOM/GWAC System in 2018|2
+2020ChA&A..44..269Y|Yu, S;Gonzalez, F;Wei, J;Zhang, S;Cordier, B|SVOM: a Joint Gamma-ray Burst Detection Mission|0
+2020ExA....50...91D|Dagoneau, N;Schanne, S;Atteia, J;Gotz, D;Cordier, B|Ultra-Long Gamma-Ray Bursts detection with SVOM/ECLAIRs|0
+2020JAI.....950001F|Fuentes-Fernandez, J;Watson, A;Cuevas, S;Basa, S;Floriot, J;Dolon, F;Valentin, H;Challita, Z;Vola, P|Optical Design of COLIBRÍ: A Fast Follow-up Telescope for Transient Events|0
+2020PASP..132e4502X|Xu, Y;Xin, L;Wang, J;Han, X;Qiu, Y;Huang, M;Wei, J|A Real-time Automatic Validation System for Optical Transients Detected by GWAC|2
+2020RAA....20...13T|Turpin, D;Wu, C;Han, X;Xin, L;Antier, S;Leroy, N;Cao, L;Cai, H;Cordier, B;Deng, J;Dong, W;Feng, Q;Huang, L;Jia, L;Klotz, A;Lachaud, C;Li, H;Liang, E;Liu, S;Lu, X;Meng, X;Qiu, Y;Wang, H;Wang, J;Wang, S;Wang, X;Wei, J;Wu, B;Xiao, Y;Xu, D;Xu, Y;Yang, Y;Zhang, P;Zhang, R;Zhang, S;Zheng, Y;Zou, S|The mini-GWAC optical follow-up of gravitational wave alerts ─ results from the O2 campaign and prospects for the upcoming O3 run|7
+2020RAA....20..124W|Wang, J;Qiu, Y;Wei, J|A pilot study of catching high-z GRBs and exploring circumburst environment in the forthcoming SVOM era|0
+2019ApJ...881L..40S|Song, H;Ai, S;Wang, M;Xing, N;Gao, H;Zhang, B|Viewing Angle Constraints on S190425z and S190426c and the Joint Gravitational-wave/Gamma-Ray Detection Fractions for Binary Neutron Star Mergers|7
+2019ExA....47..245L|Lacombe, K;Amoros, C;Atteia, J;Bajat, A;Bouchet, L;Dezalay, J;Guillemot, P;Houret, B;Lebrun, F;Mate, S;Pons, R;Triou, H;Waegebaert, V|Designing large pixelated CdTe detection planes for hard X-ray transients detection|0
+2019ExA....48..171M|Mate, S;Bouchet, L;Atteia, J;Claret, A;Cordier, B;Dagoneau, N;Godet, O;Gros, A;Schanne, S;Triou, H|Simulations of the SVOM/ECLAIRs dynamic background: a fast, accurate and general approach for wide-field hard X-ray instruments|1
+2019INASR...4..152S|Shugarov, A|Simulation of the joint operation of the space system SODA and the ground-based telescope GWAC to detect dangerous asteroids of decameter size|0
+2018APh...103..131L|Lacombe, K;Dezalay, J;Houret, B;Amoros, C;Atteia, J;Bouchet, L;Cordier, B;Gevin, O;Godet, O;Gonzalez, F;Guillemot, P;Limousin, O;Pons, R;Ramon, P;Waegebaert, V|Spectral performance of ECLAIRs flight detectors on SVOM mission|3
+2018ExA....46..337B|Bajat, A;Godet, O;Atteia, J;Maestre, S;Rambaud, D;Waegebaert, V;Amoros, C;Bordon, S;Delaigue, S;Galliano, M;Houret, B;Lacombe, K;Mandrou, P;Marty, W;Pons, R;Ramon, P|Characterizing the dead time of the ECLAIRs camera on board the mission SVOM|0
+2017AN....338..978M|Motch, C|The SVOM mission|1
+2017ChA&A..41..577F|Fu, X;Huang, L;Wei, J|Telescope Array Control System Based on Wireless Touch Screen Platform|0
+2017ExA....44..113B|Bernardini, M;Xie, F;Sizun, P;Piron, F;Dong, Y;Atteia, J;Antier, S;Daigne, F;Godet, O;Cordier, B;Wei, J|Scientific prospects for spectroscopy of the gamma-ray burst prompt emission with SVOM|2
+2016A&AT...29..193A|Amati, L;Sawant, D;Della Valle, M|GRB cosmology through the Ep,I-intensity correlation|2
+2016AcASn..57..495F|Fu, X;Huang, L;Wei, J|Telescope Array Control System Based on Wireless Touch Screen Platform|0
+2016JHEAp...9....1W|Wei, J;Hao, J;Wu, X;Yuan, Y|Long GRBs as a tool to investigate star formation in dark matter halos|7
+2016PASP..128k4501W|Wan, M;Wu, C;Wang, J;Qiu, Y;Xin, L;Mullender, S;Muhleisen, H;Scheers, B;Zhang, Y;Nes, N;Kersten, M;Huang, Y;Deng, J;Wei, J|Column Store for GWAC: A High-cadence, High-density, Large-scale Astronomical Light Curve Pipeline and Distributed Shared-nothing Database|4
+2016SSRv..202..235Y|Yuan, W;Amati, L;Cannizzo, J;Cordier, B;Gehrels, N;Ghirlanda, G;Gotz, D;Produit, N;Qiu, Y;Sun, J;Tanvir, N;Wei, J;Zhang, C|Perspectives on Gamma-Ray Burst Physics and Cosmology with Next Generation Facilities|13
+2015ApJ...812..122C|Cucchiara, A;Veres, P;Corsi, A;Cenko, S;Perley, D;Lien, A;Marshall, F;Pagani, C;Toy, V;Capone, J;Frail, D;Horesh, A;Modjaz, M;Butler, N;Littlejohns, O;Watson, A;Kutyrev, A;Lee, W;Richer, M;Klein, C;Fox, O;Prochaska, J;Bloom, J;Troja, E;Ramirez-Ruiz, E;de Diego, J;Georgiev, L;Gonzalez, J;Roman-Zuniga, C;Gehrels, N;Moseley, H|Happy Birthday Swift: Ultra-long GRB 141121A and Its Broadband Afterglow|11
+2015ExA....39..119C|Copperwheat, C;Steele, I;Barnsley, R;Bates, S;Bersier, D;Bode, M;Carter, D;Clay, N;Collins, C;Darnley, M;Davis, C;Gutierrez, C;Harman, D;James, P;Knapen, J;Kobayashi, S;Marchant, J;Mazzali, P;Mottram, C;Mundell, C;Newsam, A;Oscoz, A;Palle, E;Piascik, A;Rebolo, R;Smith, R|Liverpool telescope 2: a new robotic facility for rapid transient follow-up|9
+2014MNRAS.437..649S|Siellez, K;Boer, M;Gendre, B|Simultaneous event detection rates by electromagnetic and gravitational wave detectors in the advanced era of LIGO and Virgo|39
+2014RAA....14..411X|Xu, S;Li, Z|Prompt optical emission from gamma-ray bursts with multiple timescale variability of central engine activities|2
+2013AstRv...8a..90A|Amati, L|Cosmology with Gamma--Ray Bursts: status and perspectives|1
+2013IJMPD..2230028A|Amati, L;Della Valle, M|Measuring Cosmological Parameters with Gamma Ray Bursts|41
+2013RAA....13...57C|Cui, X;Li, Z;Xin, L|Delayed onset and fast rise of prompt optical-UV emission from gamma-ray bursts in molecular clouds|1
+2013RAA....13.1381Z|Zhao, D;Wu, B;Song, L;Dong, Y;Schanne, S;Cordier, B;Liu, J|Onboard GRB trigger algorithms of SVOM-GRM|1
+2012ExA....34..705Z|Zhao, D;Cordier, B;Sizun, P;Wu, B;Dong, Y;Schanne, S;Song, L;Liu, J|Influence of the Earth on the background and the sensitivity of the GRM and ECLAIRs instruments aboard the Chinese-French mission SVOM|6
+2012IAUS..279..421W|Wu, C;Qiu, Y;Cai, H|SVOM Visible Telescope: Performance and Data Process Scheme|2
+2012MNRAS.425..514K|Kakuwa, J;Murase, K;Toma, K;Inoue, S;Yamazaki, R;Ioka, K|Prospects for detecting gamma-ray bursts at very high energies with the Cherenkov Telescope Array|23
+2011CRPhy..12..206Z|Zhang, B|Open questions in GRB physics|90
+2011CRPhy..12..255A|Atteia, J;Boer, M|Observing the prompt emission of GRBs|5
+2011CRPhy..12..267P|Piron, F;Connaughton, V|The Fermi view of gamma-ray bursts|2
+2011CRPhy..12..298P|Paul, J;Wei, J;Basa, S;Zhang, S|The Chinese-French SVOM mission for gamma-ray burst studies|50
+2010SCPMA..53S..40D|Dong, Y;Wu, B;Li, Y;Zhang, Y;Zhang, S|SVOM gamma ray monitor|4
+2010SCPMA..53S..51W|Wang, T;Qiu, Y;Cai, H;Deng, J|A fast onboard star-extraction algorithm optimized for the SVOM Visible Telescope|1
+2009NIMPA.603..365G|Godet, O;Sizun, P;Barret, D;Mandrou, P;Cordier, B;Schanne, S;Remoue, N|Monte-Carlo simulations of the background of the coded-mask camera for X- and Gamma-rays on-board the Chinese-French GRB mission SVOM|7
+2008ApJ...686L..57N|Nagamine, K;Zhang, B;Hernquist, L|Incidence Rate of GRB-Host DLAs at High Redshift|18
+2008MNRAS.385..189S|Salvaterra, R;Campana, S;Chincarini, G;Covino, S;Tagliaferri, G|Gamma-ray bursts from the early Universe: predictions for present-day and future instruments|32

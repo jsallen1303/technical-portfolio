@@ -1,0 +1,491 @@
+2020AAS...23514807S|Sasaki, R;Iwakiri, W;Tsuboi, Y;Gendreau, K;Corcoran, M;Hamaguchi, K;Arzoumanian, Z;Kawai, H;Sato, T;Mihara, T;Nakahira, S;Serino, M;Negoro, H;Enoto, T;Shidatsu, M|A Large X-ray Stellar Flare from the RS CVn type Star Sigma Gem Observed with MAXI and NICER|0
+2020AAS...23515905T|Tetarenko, A;Casella, P;Miller-Jones, J;Sivakoff, G;Maccarone, T;Gandhi, P;Tetarenko, B|Multi-wavelength fast timing in X-ray binaries|0
+2020AAS...23517012D|de Beurs, Z;Islam, N;Gopalan, G;Vrtilek, S|Classifying X-ray Binaries Using Machine Learning|0
+2020AAS...23517013D|Davis, M;Stevens, A;Strader, J|Rapid spectral variability in the black hole transient MAXI J1820+070|0
+2020AAS...23536902A|Anczarski, J;Neilsen, J;Remillard, R;Uttley, P;Arzoumanian, Z;Gendreau, K;Steiner, J|X-ray Analysis of MAXI J1348-630 with NuSTAR|0
+2020AAS...23537710S|Sato, T;Tsuboi, Y;Iwakiri, W;Sasaki, R;Mihara, T;Nakahira, S;Maeda, Y;Kawai, H|Identifying stellar flares from MAXI/GSC imaging data using Deep Learning methods|0
+2020AAS...23537902R|Roh, J|NuSTAR Spectroscopy of MAXI J1820+070: Testing Black Hole Coronal Contraction|0
+2020AAS...23610806V|Vasilopoulos, G;Ray, P;Jenke, P;Wilson-Hodge, C;Jaisawal, G;Strohmayer, T;Wolff, M;Guillot, S;Malacaria, C;Stevens, A;Diego, A;Gendreau, K|The 2019 super-Eddington outburst of HMXB RX J0209.6-7427 located at the SMC|0
+2020AAS...23612202P|Phillipson, R|Complex Long-Term Variability of X-ray Binaries and Active Galaxies Revealed by Novel Methods|0
+2020AAS...23620802T|Townsend, A;Eikenberry, S;Jeram, S;Alma, S;McClellan, C;Garner, A;Dallilar, Y;Gottlieb, A;Perez Sanchez, G;Robshaw, R;Rosenbaum, D;Homan, J;Buisson, D;Remillard, R;Steiner, J;Uttley, P;Wood, K|Black Hole Observations from the Swamp: Simultaneous Optical/X-ray QPOs in MAXI J1820+070|0
+2020ASPC..522..715E|Ebisawa, K;Sugawara, S;Tomida, H;Ueno, S;Furusho, T;Nakahira, S;Sugizaki, M;Mihara, T;Shidatsu, M;Negoro, H;Nakagawa, Y;Serino, M;Yoshida, A;Sakamoto, T;Kawakubo, Y;Yamaoka, K;Torii, S;Asaoka, Y;Angelini, L|MAXI and CALET Archives at DARTS|0
+2020RNAAS...4...95D|Davis, M;Stevens, A|Spectral Variability of a Soft-intermediate State QPO from MAXI J1820+070|0
+2020arXiv200609077C|Chatterjee, D;Debnath, D;Banerjee, A;Bhattacharjee, A;Jana, A;Chatterjee, K;Bhowmick, R;Nath, S;Shang, J;Chakrabarti, S;Chang, H|AstroSat Observation of Non-Resonant Type-C QPOs in MAXI J1535-571|1
+2020arXiv200705810I|Islam, N;Vrtilek, S;Boroson, B;Kim, D;O'Sullivan, E;McCollough, M;Fabbiano, G;Anderson, C;Burke, D;D'Abrusco, R;Fruscione, A;Lauer, J;Morgan, D;Mossman, A;Paggi, A;Trinchieri, G|Comparing X-ray color selection in separating X-ray binary classes using Color-Color-Intensity diagrams|0
+2020arXiv200811216R|Russell, T;Lucchini, M;Tetarenko, A;Miller-Jones, J;Sivakoff, G;Krauss, F;Mulaudzi, W;Baglio, M;Russell, D;Altamirano, D;Ceccobello, C;Corbel, S;Degenaar, N;van den Eijnden, J;Fender, R;Heinz, S;Koljonen, K;Maitra, D;Markoff, S;Migliari, S;Parikh, A;Plotkin, R;Rupen, M;Sarazin, C;Soria, R;Wijnands, R|Rapid compact jet quenching in the Galactic black hole candidate X-ray binary MAXI J1535-571|0
+2020yCat..18710244A|Antokhin, I;Cherepashchuk, A|VizieR Online Data Catalog: Times of X-ray minima &amp; orbit numbers of Cyg X-3 (Antokhin+, 2019)|0
+2020yCat..74969096K|Kosenkov, I;Veledina, A;Berdyugin, A;Kravtsov, V;Piirola, V;Berdyugina, S;Sakanoi, T;Kagitani, M;Poutanen, J|VizieR Online Data Catalog: Polarization of LMXB MAXI J1820+070 (Kosenkov+, 2020)|0
+2019AAS...23313001N|Neilsen, J;Jones, L;Steiner, J;Coriat, M;Fender, R;Motta, S;Corbel, S;Ponti, G|Accretion States, Black Hole Spin, and the 2017 Outburst of MAXI J1535-571|0
+2019AAS...23313004K|Kara, E|Mapping the contracting corona in a new black hole transient with NICER|0
+2019AAS...23313304A|Alabarta, K;Altamirano, D;Remillard, R;Mendez, M|NICER observations of the 2018 outburst of the black hole candidate MAXI J1727-203|0
+2019AAS...23324319P|Phillipson, R;Boyd, P;Smale, A;Vogeley, M;McMillan, S|Complex Variability of AGN and XRBs Revealed by Recurrence Analysis|0
+2019AAS...23334828J|Jones, L;Neilsen, J;Uttley, P;Stevens, A|NuSTAR Analysis of a Low-Frequency QPO in the Black Hole MAXI J1535-571|0
+2019AAS...23346504S|Sasaki, R;Tsuboi, Y;Iwakiri, W;Gendreau, K;Corcoran, M;Hamaguchi, K;Drake, S;Markwardt, C;Arzoumanian, Z;Maeda, Y;Kawai, H;Sato, T;Mihara, T;Nakahira, S;Serino, M;Negoro, H;Enoto, T;Shidatsu, M|A Large X-ray Stellar Flare from the RS CVn type Star GT Mus Observed with MAXI and NICER|0
+2019ASPC..521..205E|Ebisawa, K|Web-based Quick Data Analysis Tools JUDO2 and UDON2|0
+2019HEAD...1710005N|Neilsen, J;Steiner, J;Remillard, R;Uttley, P;Homan, J;Jones, L;Motta, S;Coriat, M;Fender, R;Corbel, S;Ponti, G;Arzoumanian, Z;Gendreau, K;Ludlam, R|Accretion States and BH Spin in MAXI J1535-571 with NICER and NuSTAR|0
+2019HEAD...1710635P|Petropoulou, M;Murase, K;Brindley Fox, D;Kawai, N|Neutrinos from hadronic cascades: the case of the 2014-15 neutrino flare from TXS 0506+056|0
+2019HEAD...1710984K|Kennea, J;Cenko, B|A radical new era for transient astrophysics with Swift|0
+2019HEAD...1711101A|Alabarta, K;Altamirano, D;Mendez, M;Cuneo, V;Remillard, R;Homan, J;Uttley, P;Ludlam, R;Gendreau, K;Arzoumanian, Z|Spectral and timing evolution of the black hole transient MAXI J1727-203 with NICER|0
+2019HEAD...1711104B|Basak, A;Uttley, P|Modeling the X-ray time lags observed by NICER in MAXI J1820+070.|0
+2019HEAD...1711107C|Cuneo, V;Alabarta, K;Altamirano, D;Remillard, R;Homan, J;Combi, J;Gendreau, K;Arzoumanian, Z|NICER look at the low-luminosity state transitions seen in MAXI J1535-571|0
+2019HEAD...1711111H|Homan, J;Remillard, R;Steiner, J;Neilsen, J;Gendreau, K;Arzoumanian, Z;Fabian, A;Kara, E;Altamirano, D;Uttley, P;Stevens, A;Motta, S;Fender, R;Miller-Jones, J;Bright, J;Williams, D|Highlights from NICER's coverage of the black hole transient MAXI J1820+070|0
+2019HEAD...1711118R|Remillard, R;Pasham, D;Steiner, J;Homan, J;Altamirano, D;Uttley, P;Neilsen, J;Gendreau, K;Arzoumanian, Z|NICER Investigation of Fast Flares in Accreting Compact Objects|0
+2019HEAD...1711119S|Steiner, J;Kara, E;Remillard, R;Altamirano, D;Arzoumanian, Z;Cackett, E;Eikenberry, S;Fabian, A;Gendreau, K;Homan, J;Miller, J;Neilsen, J;Pasham, D;Stevens, A;Uttley, P;Van Den Eijnden, J|Fast X-ray Spectroscopy in MAXI J1820+070 with NICER|0
+2019HEAD...1711122U|Uttley, P;Ingram, A;Stevens, A;Van Den Eijnden, J;Gendreau, K;Arzoumanian, Z;Altamirano, D;Bult, P;Cackett, E;Fabian, A;Homan, J;Kara, E;Miller, J;Remillard, R;Steiner, J|A NICER spectral-timing study of the evolving QPO and inner region geometry in MAXI J1535-571|0
+2019HEAD...1711227B|Buisson, D;Fabian, A|NuSTAR observations of MAXI J1820+070|0
+2019HEAD...1711229R|Roberts, J;Tomsick, J;Boggs, S;Sleater, C;Zoglauer, A;Kierans, C|COSI Observations of Cyg X-1|0
+2019HEAD...1711276G|Gorgone, N;Kouveliotou, C|MAXI J1621-501: The First Source Identified by the Swift XRT Deep Galactic Plane Survey Collaboration|0
+2019HEAD...1711298M|Marcel, G;Neilsen, J;Ferreira, J;Petrucci, P;Clavel, M|A unified accretion-ejection paradigm for X-ray binaries|0
+2019HEAD...1712107V|Vrtilek, S;Syeda Islam, N;Bram, B;Kim, D|Effects of differing X-ray colors on Color-Color-Intensity diagrams of accreting binaries|0
+2019HEAD...1730401K|Kara, E|NICER follow-up of the new black hole transient MAXI J1820+070|0
+2019HEAD...1730402S|Stevens, A|Timing Properties of New Black Hole Transients|0
+2019HEAD...1740102F|Fabian, A;Buisson, D|Measuring the Spin and Inclination of the Black Hole Transient MAXI 1820+070 using NICER and NuSTAR spectra|0
+2019IAUS..339..127C|Charles, P;Buckley, D;Mata Sanchez, D;Meintjes, P;Rajoelimanana, A;Townsend, L|Transient X-ray Binaries in the Magellanic Clouds and Milky Way|0
+2019IAUS..339..144K|Kawai, N|X-Ray Transients Observed with MAXI|0
+2019IAUS..339..236C|Charles, P;Anderson, G;Coppejans, D;Motsoaledi, M|X-ray Binary Transients in the Magellanic Clouds and the Milky Way|0
+2019IAUS..346...59I|Islam, N|Orbital resolved spectroscopy of GX 301-2: wind diagnostics|0
+2019IAUS..346..131N|Nakajima, M;Negoro, H;Mihara, T;Sugizaki, M;Yatabe, F;Makishima, K|Firm detection of 7-year X-ray periodicity from X Persei|0
+2019IAUS..346..202N|Negoro, H|MAXI observations of long-term X-ray activities in SFXTs|0
+2019ICRC...36..696H|Hoang, J;Molina, E;Lopez, M;Ribo, M;Blanch, O;Cortina, J;Maier, G;Park, N;De Naurois, M;de Ona Wilhelmi, E;Ernenwein, J;Malyshev, D;Mitchell, A;Ohm, S;Zanin, R|Multiwavelength observation of MAXI J1820+070 with MAGIC, VERITAS and H.E.S.S.|0
+2019ICRC...36..796S|Sliusar, V;Arbet-Engels, A;Baack, D;Balbo, M;Biland, A;Blank, M;Bretz, T;Bruegge, K;Bulinski, M;Buss, J;Doerr, M;Dorner, D;Elsaesser, D;Hildebrand, D;Mannheim, K;Mueller, S;Neise, D;Noethe, M;Paravac, A;Rhode, W;Schleicher, B;Sedlaczek, K;Shukla, A;Walter, R;von Willert, E|FACT - Multi-wavelength analysis of more than 30 flares of Mrk 421|0
+2019MmSAI..90..103T|Thomas, J;Buckley, D;Kotze, E;Potter, S|MAXI J1820+070: a new black hole low-mass X-ray binary candidate|0
+2019cwdb.confE..55S|Shugarov, S|Photometric study of the X-ray Nova MAXI J1820 + 070 in the optical range|0
+2019hst..prop16058K|Knigge, C;Castro Segura, N;Altamirano, D;Gandhi, P;Long, K|Far-Ultraviolet Spectroscoy of the Transient Accreting Black Hole MAXI J0630|0
+2018AAS...23116004C|Chakrabarty, D|Accreting Neutron Star and Black Hole Binaries with NICER|0
+2018AAS...23134701R|Remillard, R;Steiner, J;Ranga Reddy Pasham, D;Gendreau, K;Arzoumanian, Z;Fabian, A;Uttley, P;Miller, J;Cackett, E;Neilsen, J|Investigation of Fast Variability in Cyg X-1 and MAXI J1535-571 with NICER|0
+2018AAS...23134705N|Neilsen, J;Cackett, E;Fabian, A;Gendreau, K;Miller, J;Pasham, D;Remillard, R;Steiner, J;Uttley, P|Chandra, NuSTAR and NICER Observations of MAXI J1535-571|0
+2018AAS...23135001M|Mills, B;Heinz, S;Corrales, L|Looking for Dust-Scattering Light Echoes|0
+2018AAS...23145009D|Drake, S;Hamaguchi, K;Corcoran, M;Iwakiri, W;Sasaki, R;Kawai, H;Tsuboi, Y;Enoto, T;NICER Science Team|NICER and MAXI Observations of Two Large X-ray Flares from RS CVn Binaries|0
+2018BAVSR..67..139W|Wenzel, K;Hambsch, J|MAXI J1820+070 = ASASSN-18ey - Ein stellares Schwarzes Loch|0
+2018cosp...42E.261B|Belloni, T;Rao, A;Bhattacharya, D|GRS 1915+105 and MAXI J1535-571 observed by Astrosat|0
+2018cosp...42E.298B|Beri, A;Wijnands, R;Gandhi, P;Altamirano, D;Sivakoff, G;Tetarenko, B;Bahramian, A;Degenaar, N;Middleton, M|X-ray Observations of Two Very Faint X-ray Transients (VFXTs) during their outbursts|0
+2018cosp...42E.591C|Chatterjee, D;Debnath, D;Chakrabarti, S;Mondal, S;Jana, A|Accretion flow properties of MAXI J1543-564 during its initial phase of the 2011 outburst|0
+2018cosp...42E1551I|Ingram, A|Tomographic mapping of accreting black holes using X-ray quasi-periodic oscillations|0
+2018cosp...42E1567I|Islam, N;Paul, B|Orbital resolved spectroscopy of GX 301-2: wind diagnostics|0
+2018cosp...42E1568I|Islam, N;Paul, B|A curious case of HMXB 4U 1700-37|0
+2018cosp...42E1594J|Jana, A;Debnath, D;Chakrabarti, S;Mondal, S;Chatterjee, D|Accretion - Ejection mechanism of MAXI J1836-194 with the TCAF solution|0
+2018cosp...42E1595J|Jana, A;Debnath, D;Chakrabarti, S;Chatterjee, D|Disk-Jet coupling of black hole sources with the TCAF solution|0
+2018cosp...42E1715K|Kawai, N|Observation of X-ray couterparts of GW Sources with MAXI|0
+2018cosp...42E1716K|Kawai, N;Tachibana, Y;Morita, K;Murata, K;Itoh, R|Near Infrared Observation of MAXI J1535-571|0
+2018cosp...42E1734K|Kennea, J|Finding Multi-Messenger Transients with Swift: Lessons learned from searching for MAXI, IceCube and LIGO/Virgo transients|0
+2018cosp...42E2150M|Malzac, J|The multi-wavelength emission of X-ray binary jets powered by internal shock|0
+2018cosp...42E2393N|Nagarkoti, S;Debnath, D;Chakrabarti, S|Is matter in H1743-322 supplied at a constant rate?|0
+2018cosp...42E2432N|Neilsen, J;Homan, J;Rahoui, F;Coriat, M;Fender, R;Corbel, S;Ponti, G;Motta, S;Nicer Team|Super-Eddington Disk Winds in Black Hole Outbursts|0
+2018cosp...42E2433N|Neilsen, J;Coriat, M;Fender, R;Corbel, S;Ponti, G;Motta, S;Steiner, J|Accretion States, Black Hole Spin, and the 2017 Outburst of MAXI J1535-571|0
+2018cosp...42E2916R|Russell, D;Lewis, F;Udrescu, S;Baglio, M|The faint 2016 outburst of MAXI J0556-332|0
+2018cosp...42E2918R|Russell, D;Casella, P;Gandhi, P;Vincentelli, F;Miller-Jones, J;Sivakoff, G;Lewis, F;Tetarenko, A;Russell, T;Baglio, M|Rapid mid-infrared variability in an X-ray binary|0
+2018cosp...42E2920R|Russell, T;Russell, D;Altamirano, D;Miller-Jones, J;Sivakoff, G;Tetarenko, A|The evolving jet in the new black hole X-ray binary MAXI J1535-571|0
+2018cosp...42E2965S|Sanna, A;Bozzo, E;Papitto, A;Burderi, L;Riggio, A;Di Salvo, T|Observational updates on Accreting Millisecond X-ray Pulsars|0
+2018cosp...42E3002S|Scaringi, S|Revisiting Sco X-1 with Kepler, MAXI and HERMES|0
+2018cosp...42E3069S|Shang, J;Debnath, D;Chang, H;Chakrabarti, S;Jeng-Lun Chiu, .;Yap, Y|Spectral and Timing Properties of MAXI J1535-571 during its 2017 outburst|0
+2018cosp...42E3070S|Shang, J;Debnath, D;Chang, H;Chakrabarti, S;Jeng-Lun Chiu, .;Yap, Y|New Galactic Black Hole Candidate MAXI J1535-571 : Analysis with the TCAF model|0
+2018cosp...42E3259S|Stevens, A;Uttley, P|NICER spectral-timing studies of a low-frequency QPO in the soft-intermediate state of MAXI J1535-571|0
+2018cosp...42E3287S|Sugizaki, M;Mihara, T;Nakajima, M;Makishima, K;Takagi, T;Yatabe, F|Observational tests of accretion-driven spin-up/down process in X-ray binary pulsars with 7-year MAXI and Fermi/GBM data|0
+2018cosp...42E3323T|Tachibana, Y;Sugita, S;Kawai, N;Shiraishi, K|The long-term X-ray variability of the black hole binary GRS 1915+105|0
+2018cosp...42E3499V|Van den Eijnden, J;Uttley, P;Ingram, A|Advances in phase resolving quasi-periodic oscillations with NICER|0
+2018cosp...42E3678W|Wisniewicz, M;Zdziarski, A;Janiuk, A;Rosinska, D;Slowikowska, A|Long-term quasi-periodicity of 4U 1636-536 resulting from accretion disc instability|0
+2018cosp...42E3734Y|Yamaoka, K;Tomsick, J;Nakahira, S|X-ray monitoring of the Galactic microquasar V4641 Sgr|0
+2018mgm..conf.1038J|Jana, A;Debnath, D;Chakrabarti, S;Mondal, S;Molla, A;Chatterjee, D|Evolution of spectral and temporal properties of MAXI J1836-194 during 2011 outburst|0
+2018mgm..conf.1044M|Molla, A;Debnath, D;Chakrabarti, S;Mondal, S;Jana, A;Chatterjee, D|Temporal and spectral properties of MAXI J1659-152 during its 2010 outburst|0
+2018nova.pres.3809K|Kohler, S|A Rapidly Spinning Black Hole with a Warped Disk|0
+2018yCat..22380013K|Kapanadze, B;Dorner, D;Vercellone, S;Romano, P;Hughes, P;Aller, M;Aller, H;Reynolds, M;Tabagari, L|VizieR Online Data Catalog: Spectral and timing results of 1ES 1959+650 (Kapanadze+, 2018)|0
+2018yCat..22380032K|Kawamuro, T;Ueda, Y;Shidatsu, M;Hori, T;Morii, M;Nakahira, S;Isobe, N;Kawai, N;Mihara, T;Matsuoka, M;Morita, T;Nakajima, M;Negoro, H;Oda, S;Sakamoto, T;Serino, M;Sugizaki, M;Tanimoto, A;Tomida, H;Tsuboi, Y;Tsunemi, H;Ueno, S;Yamaoka, K;Yamada, S;Yoshida, A;Iwakiri, W;Kawakubo, Y;Sugawara, Y;Sugita, S;Tachibana, Y;Yoshii, T|VizieR Online Data Catalog: 3rd MAXI/GSC cat. in the high Galactic lat. sky (Kawamuro+, 2018)|0
+2017AAS...22943107S|Sinclair, K;Miller, J|Tracking the Disk Wind Behavior of MAXI J1305-704|0
+2017ASPC..512..685E|Ebisawa, K;Saitoh, A;Imai, K;Shimada, T|Web-applications to Explore the Earth and Universe at JAXA's Space Science Data Archive DARTS|0
+2017HEAD...1640004M|McCollough, M;Koljonen, K;Gurwell, M;Trushkin, S;Pooley, G|Cygnus X-3 Returns to an Active State|0
+2017nuco.confb0301T|Takagi, T;Mihara, T;Sugizaki, M;Makishima, K;Morii, M|Application of the Ghosh &amp; Lamb Relation to the Spin-up/down Behavior in the X-ray Binary Pulsar 4U 1626-67|0
+2017nuco.confb0304S|Serino, M;Iwakiri, W;Tamagawa, T;Sakamoto, T;Nakahira, S;Matsuoka, M;Yamaoka, K;Negoro, H|Long Duration X-ray Bursts Observed by MAXI|1
+2017symm.conf.....S|Serino, M;Shidatsu, M;Iwakiri, W;Mihara, T|7 years of MAXI: monitoring X-ray transients|0
+2017symm.conf....3M|Mihara, T;MAXI Team|MAXI 7 Years Highlights|0
+2017symm.conf....9T|Tsunemi, H;Tomida, H;Nakahira, S;SSC Team|MAXI-SSC Results In 7 Years|1
+2017symm.conf...15N|Negoro, H;MAXI Team|Discovery of 17 X-ray Transients with MAXI/GSC and their Nature|1
+2017symm.conf...21E|Ebisawa, K;Nahahira, S;Sugawara, Y;Ueno, S;Tomida, H;Furusho, T;Mihara, T;Sugizaki, M;Shidatsu, M;Serino, M;Negoro, H;Nakagawa, Y;Angelini, L|MAXI Data Archive Plan|0
+2017symm.conf...27H|Hori, T;Ueda, Y;Shidatsu, M;Kawamuro, T;Tanimoto, A;Oda, S;MAXI Team|The MAXI/GSC catalog in the low Galactic-latitude sky|0
+2017symm.conf...29S|Shidatsu, M;Ueda, Y;Kawamuro, T;Hori, T;Nakahira, S;MAXI Team|MAXI/GSC 7-year all-sky map and studies of large-scale diffuse structures|2
+2017symm.conf...31S|Sugizaki, M;MAXI GSC Team|Operation and Calibration of MAXI GSC Xe Gas Counters on the ISS for over 7 years|0
+2017symm.conf...33T|Tomida, H;Tsunemi, H;Nakahira, S;MAXI/SSC Team|The Current Status of Solid-state Slit Camera aboard MAXI|0
+2017symm.conf...35F|Furusho, T;Sugawara, Y;Nakahira, S;Ebisawa, K|Energy spectra of bright clusters of galaxies obtained from the MAXI data archive|0
+2017symm.conf...39K|Kennea, J;Negoro, H;Evans, P;Beardmore, A;Krimm, H;Serino, M;Romano, P;Yamaoka, K|The Swift and MAXI Galactic Transient Collaboration|1
+2017symm.conf...45S|Shaw, A;Charles, P;Casares, J;Steeghs, D|The orbital period of MAXI J1305-704|1
+2017symm.conf...49S|Shigeyama, T;Wada, K;Ohtani, Y|Bright novae - Indications of the spectrum of MAXI J0158-744|1
+2017symm.conf...55K|Kitaoka, Y;Sakamoto, T;Yoshida, A|Optical Monitoring of the MAXI sources by the optical telescope AROMA-N|0
+2017symm.conf...77S|Sugimoto, J;Kitamoto, S;Mihara, T;MAXI Team|Observation of the long-term variability of Cygnus X-1 with MAXI|0
+2017symm.conf...81D|Debnath, D;Chakrabarti, S;Jana, A;Chatterjee, D;Molla, A;Mondal, S|Accretion Flow Properties of three MAXI Black Hole Candidates: Analysis with the TCAF Solution|0
+2017symm.conf...87J|Jana, A;Debnath, D;Chakrabarti, S;Chatterjee, D;Molla, A;Mondal, S|Inflow-Outflow Properties of Accretion Disk around MAXI J1836-194 with TCAF Solution during its 2011 Outburst|0
+2017symm.conf...89K|Kawase, T;Negoro, H|Enhanced power spectrum analysis of short-term X-ray variability using MAXI/GSC data|0
+2017symm.conf..103A|Asai, K;Mihara, T;Matsuoka, M;Sugizaki, M|Spectral states in NS-LMXBs observed with MAXI/GSC and Swift/BAT|0
+2017symm.conf..115S|Sakamoto, T;Ohtsuki, H;Serino, M;Yoshida, A;MAXI Team|The MAXI/GSC X-ray Burst Catalog|0
+2017symm.conf..129S|Serino, M;Iwakiri, W|MAXI Detections of Superbursts - Updates on Long X-ray Bursts|0
+2017symm.conf..133I|Iwakiri, W;Serino, M;in't Zand, J|MAXI/GSC observations of new superbursts from Ser X-1 and 4U 1705-44|0
+2017symm.conf..143S|Sugizaki, M|Luminosity and spin-up relation in X-ray binary pulsars with MAXI/GSC and Fermi/GBM|0
+2017symm.conf..149N|Nakajima, M;MAXI Team|MAXI/GSC observation of X-ray outbursts from Be/X-ray binary pulsars|0
+2017symm.conf..159R|Rodes, J;Mihara, T;Torrejon, J;Nakahira, S;Bernabeeu, G;Sanjurjo, G|Long-term variability of Cen X-3 with MAXI|1
+2017symm.conf..161I|Islam, N;Paul, B|Orbital resolved spectroscopy of GX 301+2 with MAXI-GSC|0
+2017symm.conf..167S|Sakamaki, A;Negoro, H|MAXI Observations of Supergiant Fast X-ray Transients|1
+2017symm.conf..175T|Tsuboi, Y;Sasaki, R;Nakamura, Y;Yabuki, K;Kawagoe, A;Kaneto, S;Sugawara, Y;Negoro, H;MAXI Team|Stellar flares detected with MAXI for the past 7 years|0
+2017symm.conf..189S|Sasaki, R;Tsuboi, Y;Katsuda, S;Yabuki, K;Nakamura, Y;Sugawara, Y;Matsuoka, M;MAXI Team|Statistical research of hyper X-ray flares detected with MAXI - a correlation between the quiescent luminosity and the largest flare energy|0
+2017symm.conf..199K|Kawamuro, T;Ueda, Y;Shidatsu, M;Hori, T;Kawai, N;Negoro, H;Mihara, T|Hard X-ray Luminosity Function of Tidal Disruption Events: First Results from MAXI Extragalactic Survey|0
+2017symm.conf..223I|Isobe, N;Kawamuro, T;Oyabu, S;Nakagawa, T;Baba, S;Yano, K;Ueda, Y;Toba, Y|MAXI and AKARI investigation of nearby active galactic nuclei|0
+2017symm.conf..261N|Nakahira, S;Calet Team|Gamma-ray bursts with MAXI and CALET|1
+2017xru..conf..160N|Nowak, M;Grinberg, V;Walton, D;Wilms, J|4U 1957+11: Low mass, maximal Kerr black hole, or neutron star?|0
+2017xru..conf..201S|Sasaki, R;Tsuboi, Y;Katsuda, S;Yabuki, K;Nakamura, Y;Sugawara, Y;Matsuoka, M;MAXI Team|A Correlation on Stellar Flares detected with MAXI ∼ Quiescent Luminosity vs. Flare Energy ∼|0
+2017xru..conf..227T|Tsuboi, Y;Sasaki, R;Nakamura, Y;Yabuki, K;Kawagoe, A;Kaneto, S;Sugawara, Y;Negoro, H;MAXI Team|Giant Stellar Flares detected with MAXI|0
+2017xru..conf..336U|Ueda, Y;Kawamuro, T;Hori, T;Shidatsu, M;Tanimoto, A;MAXI Team|MAXI/GSC 7-year Source Catalog|0
+2017yCat..18310102K|Kapanadze, B;Dorner, D;Vercellone, S;Romano, P;Aller, H;Aller, M;Hughes, P;Reynolds, M;Kapanadze, S;Tabagari, L|VizieR Online Data Catalog: Swift and NuSTAR obs. of the BL Lac Mrk 421 (Kapanadze+, 2016)|0
+2016AAS...22731704C|Coley, J|Probing the Structure and Morphology of X-ray and Gamma-ray Binaries Using a Multi-Wavelength, Multi-MIssion Approach|0
+2016AAS...22734004J|Johnson, L;Kamble, A;Margutti, R;Soderberg, A;Supernova Forensics,|Radio and X-ray observations of the Ultra-long GRB 150518A|0
+2016HEAD...1510633S|Sakamoto, T;Oda, R;Mihara, T;Yoshida, A;Arimoto, M;Barthelmy, S;Kawai, N;Krimm, H;Nakahira, S;Serino, M|Swift/BAT and MAXI/GSC broadband transient monitor|0
+2016HEAD...1512012K|Kennea, J;Coe, M;Laycock, S;Bird, T;Bartlett, E;Townsend, L;McBride, V;Corbet, R;Haberl, F;Vasilopoulos, G|The Recent Outburst of SMC X-2 as seen by Swift, MAXI and NuSTAR|1
+2016HEAD...1512029T|Torpin, T;Boyd, P;Smale, A;Valencic, L|Comparison of a third Anomalous Low State with a Normal Low State in LMC X-3 with MAXI, Swift, and XMM-Newton|0
+2016HEAD...1512030B|Boyd, P;Phillipson, R;Smale, A|The Unusual Long Term Variability of LMXB 4U 1705-440---Fingerprints of Chaotic Evolution?|0
+2016HEAD...1512032P|Phillipson, R;Boyd, P;Smale, A|Investigating the Long-term Variability of 4U1705-44; Evidence for an Underlying Nonlinear Double-Welled Oscillator|0
+2016RMxAC..48...24Y|Yatsu, Y;Kawai, N;Fujiwara, T;Tachibana, Y;Yoshii, T;Harita, S;Muraki, Y;Ohuchi, H;Kuroda, D;Yanagisawa, K;Hanayama, H|Recent progress of the Robotic Telescope System "MITSuME"|1
+2016cosp...41E.326C|Chatterjee, D;Debnath, D;Chakrabarti, S;Mondal, S;Jana, A;Molla, A|Evolution of spectral and temporal properties during early phase of 2011 outburst of MAXI J1543-564 with TCAF Solution|0
+2016cosp...41E.600F|Filothodoros, A|A Universal Definition and Categorization of Black Holes Hardness States:|0
+2016cosp...41E.858I|Ilhan, M;Guver, T|Long Term Correlations between X-rays and Gamma-rays in AGN|0
+2016cosp...41E.891J|Jana, A;Debnath, D;Chakrabarti, S;Mondal, S;Chatterjee, D;Molla, A|Spectral and timing properties of MAXI J1836-194 during its 2011 outburst and estimation of mass with TCAF solution|0
+2016cosp...41E1322M|Molla, A;Debnath, D;Chakrabarti, S;Mondal, S;Jana, A;Chatterjee, D|Evolution of spectral and temporal behaviour of MAXI J1659-152 during its 2010 outburst with TCAF Solution|0
+2016cosp...41E1323M|Molla, A;Debnath, D;Chakrabarti, S;Mondal, S;Jana, A;Chatterjee, D|Mass estimation of MAXI J1659-152 during spectral and temporal analsyis with TCAF and POS models|0
+2016cosp...41E1821S|Sivakoff, G;Russell, D;Markoff, S;Miller-Jones, J;Tetarenko, A;Curran, P|Emerging pictures on the disk-jet connection from simultaneous multiwavelength observations of black hole X-ray binaries|0
+2016cosp...41E2065W|Wisniewicz, M;Zdziarski, A;Janiuk, A;Rosinska, D;Slowikowska, A|Long-term quasi-periodicity of 4U 1636-536 resulting from accretion disc instability|1
+2016cosp...41E2124Y|Yoshii, T;Kawai, N;Yatsu, Y;Saito, Y;Tachibana, Y;Hanayama, H|Binary characteristics of a newly discovered black hole bainary MAXI J1910-057 studied by long-term multi-wavelength observations.|0
+2016cxo..prop.5061R|Riggio, A|The longest AMXP outburst: looking for pulsation in MAXI J0911-655 after 450 days|0
+2016nova.pres.1269K|Kohler, S|The Hunt for a Counterpart to GW150914|0
+2016yCat..22220006B|Bartoli, B;Bernardini, P;Bi, X;Cao, Z;Catalanotti, S;Chen, S;Chen, T;Cui, S;Dai, B;D'Amone, A;Danzengluobu,;de Mitri, I;D'Ettorre Piazzoli, B;di Girolamo, T;di Sciascio, G;Feng, C;Feng, Z;Feng, Z;Gou, Q;Guo, Y;He, H;Hu, H;Hu, H;Iacovacci, M;Iuppa, R;Jia, H;Labaciren,;Li, H;Liu, C;Liu, J;Liu, M;Lu, H;Ma, L;Ma, X;Mancarella, G;Mari, S;Marsella, G;Mastroianni, S;Montini, P;Ning, C;Perrone, L;Pistilli, P;Salvini, P;Santonico, R;Shen, P;Sheng, X;Shi, F;Surdo, A;Tan, Y;Vallania, P;Vernetto, S;Vigorito, C;Wang, H;Wu, C;Wu, H;Xue, L;Yang, Q;Yang, X;Yao, Z;Yuan, A;Zha, M;Zhang, H;Zhang, L;Zhang, X;Zhang, Y;Zhao, J;Zhaxiciren,;Zhaxisangzhu,;Zhou, X;Zhu, F;Zhu, Q|VizieR Online Data Catalog: 4.5yr obs. of Mrk421 with ARGO-YBJ &amp; Fermi (Bartoli+, 2016)|0
+2016yCat..22220015T|Tetarenko, B;Sivakoff, G;Heinke, C;Gladstone, J|VizieR Online Data Catalog: WATCHDOG: an all-sky database of Galactic BHXBs (Tetarenko+, 2016)|0
+2016yCat.100689032T|Tomida, H;Uchida, D;Tsunemi, H;Imatani, R;Kimura, M;Nakahira, S;Hanayama, T;Yoshidome, K|VizieR Online Data Catalog: MAXI/SSC catalog of X-ray sources in 0.7-7.0keV (Tomida+, 2016)|0
+2015AAS...22521401W|Wilson-Hodge, C;Cherry, M;Case, G;Baumgartner, W;Beklen, E;Bhat, N;Briggs, M;Buehler, R;Camero-Arranz, A;Connaughton, V;Diehl, R;Finger, M;Gehrels, N;Greiner, J;Harrison, F;Hays, E;Jahoda, K;Jenke, P;Kippen, R;Kouveliotou, C;Krimm, H;Kuulkers, E;Madsen, K;Markwardt, C;Meegan, C;Natalucci, L;Paciesas, W;Preece, R;Rodi, J;Shaposhnikov, N;Skinner, G;Swartz, D;von Kienlin, A;Zhang, X|When a Standard Candle Flickers: Hard X-ray Variations in the Crab Nebula|0
+2015AAS...22534529S|Scarpaci, J;Maitra, D|Two tracks in Three Dimensions: Correlations between optical, soft X-ray and hard X-ray brightness variations of the Neutron Star X-ray Binary Aquila X-1|0
+2015AAS...22534531T|Torpin, T;Boyd, P;Smale, A|Study of the Correlations and the MAXI Hardness Ratio between the Anomalous and Normal Low States of LMC X-3|0
+2015AAS...22542804B|Boyd, P;Nichols, R;Smale, A|The Longterm Variability of 4u 1705-44---A Chaotic System?|0
+2015ASInC..12...87D|Debnath, D;Mondal, S;Chakrabarti, S;Jana, A;Molla, A;Chatterjee, D|Characterization of few transient black hole candidates during their X-ray outbursts with TCAF Solution|0
+2015ASInC..12..119M|Molla, A;Chakrabarti, S;Debnath, D;Mondal, S;Jana, A;Chatterjee, D|Estimation of mass of MAXI J1659-152 during its very first outburst with TCAF fits|0
+2015ASInC..12..137J|Jana, A;Debnath, D;Mondal, S;Chakrabarti, S;Molla, A;Chatterjee, D|Spectral and Temporal Properties of MAXI J1836-194 during 2011 Outburst|0
+2015ASPC..495..499N|Nakagawa, Y;Ebisawa, K;Nakahira, S;Sugizaki, M;Tomida, H;Ueno, S;Serino, M;Negoro, H;Kimura, M;Mihara, T|Developments of the MAXI Data Archive|0
+2015IAUGA..2257355Y|Yoshii, T;Kawai, N;Hanayama, H;Saito, Y;Yatsu, Y|X-ray and optical observations of a compact black hole binary MAXI J1910-057: implication for the companion and evidence for the jet turn-on|0
+2015arXiv150202408S|Sugimoto, J;Negoro, H;Nakahira, S;Ueda, Y;Isobe, N;Sugizaki, M;Mihara, T;Matsuoka, M|MAXI monitoring of blazars and blackhole binaries|0
+2015arXiv150203610T|Tachibana, Y;Kawai, N;Pike, S|A Correlation Between Optical, X-ray, and Gamma-ray Variations in Blazar 3C 454.3|4
+2015arXiv150203675A|Arimoto, M;Kawai, N;Yatsu, Y;Tomida, H;Ueno, S;Kimura, M;Mihara, T;Serino, M;Morii, M;Tsunemi, H;Yoshida, A;Sakamoto, T;Kohmura, T;Negoro, H;Ueda, Y;Tsuboi, Y;Ebisawa, K|Wide-Field MAXI: soft X-ray transient monitor|0
+2015arXiv150204461S|Sugizaki, M;Mihara, T;Nakajima, M;Yamaoka, K|Study of luminosity and spin-up relation in X-ray binary pulsars with long-term monitoring by MAXI/GSC and Fermi/GBM|3
+2015arXiv151001796C|Chen, S;Vernetto, S|4.5-year simultaneous multi-wavelength observation of Mrk 421 in the ARGO-YBJ and Fermi overlap era|0
+2015cxo..prop.4612I|in't Zand, J|Search for absorption edges in superexpansion bursts|0
+2015cxo..prop.4818D|Degenaar, N|An exceptionally cold neutron star in HETE J1900.1-2455|0
+2015ebha.confE..54R|Rapisarda, S;Ingram, A;van der Klis, M|Testing propagating mass accretion rate fluctuations model PROPFLUC on Black Hole X-ray Binaries|0
+2015mgm..conf.2447H|Harayama, A;Terada, Y;Hayashi, T;Ishida, M|Search for Non-Thermal Emission from Isolated Magnetized White Dwarfs|0
+2015yCat..74411186D|Drake, A;Gansicke, B;Djorgovski, S;Wils, P;Mahabal, A;Graham, M;Yang, T;Williams, R;Catelan, M;Prieto, J;Donalek, C;Larson, S;Christensen, E|VizieR Online Data Catalog: Cataclysmic variables from CRTS (Drake+, 2014)|0
+2014AAS...22315531R|Russell, T|Disk-jet coupling in the Galactic black hole X-ray binary MAXI J1836-194|0
+2014AAS...22332301G|Grinberg, V|A holistic view of a black hole binary: bringing together spectral, timing, and polarization analysis of Cygnus X-1|0
+2014AAS...22332302S|Stiele, H;Yu, W|Emphasize the difference: On the energy dependance of power spectral states in Black Hole X-ray Binaries|0
+2014AAS...22340606G|Grindlay, J;Miller, G;Tang, S|Evidence for Enhanced Formation Rate of Black Hole LMXBs in the Galaxy from Historical Outbursts from DASCH|2
+2014ASPC..490..333M|McBride, V;Li, K;Kong, A;Charles, P;Lu, T;Bartlett, E;Coe, M;Rajoelimanana, A;Udalski, A;Masetti, N;Franzen, T|MAXI J0158-744: A Luminous Supersoft Source in the Magellanic Bridge|0
+2014HEAD...1410612H|Hsu, C;Connaughton, V;Cherry, M;Rodi, J;Bhat, N;Finger, M;Jenke, P;Wilson-Hodge, C|Fermi GBM observations of the hard x-ray spectrum of Mrk 421|0
+2014HEAD...1412205K|Kennea, J;Kouveliotou, C;Younes, G;Miller, J;Palmer, D;Krimm, H;Linares, M|GRO J1744-28: The Swift view of the reactivation of The Bursting Pulsar|0
+2014HEAD...1420501T|Tetarenko, B;Sivakoff, G;Heinke, C;Gladstone, J|The Modern Black Hole X-Ray Binary Database: A Comprehensive All-Sky Observational Study|0
+2014IAUS..302..200H|Higa, M;Tsuboi, Y;Negoro, H;Nakahira, S;Tomida, H;Matsuoka, M;aff002,|Hyper X-ray Flares on Active Stars Detected with MAXI|0
+2014JPSCP...1a3104S|Sugimoto, J;Mihara, T;Sugizaki, M;Serino, M;Kitamoto, S;Sato, R;Ueda, Y;Ueno, S|Power Spectrum Density of Long-Term MAXI Data|3
+2014SPIE.9144E..1OM|Mihara, T;Sugizaki, M;Matsuoka, M;Tomida, H;Ueno, S;Negoro, H;Yoshida, A;Tsunemi, H;Nakajima, M;Ueda, Y;Yamauchi, M|MAXI: all-sky observation from the International Space Station|2
+2014arXiv1401.1135R|Radhika, D;Ramadevi, M;Seetha, S|RXTE observations and state transition in MAXI J1836-194|1
+2014atp..prop...79M|Metzger, B|Accretion Disk Outflows from Compact Object Mergers|0
+2014cosp...40E1435K|Kawai, N|Wide-Field MAXI - Wide-Field Soft X-ray Transient Monitor on the ISS|0
+2014cosp...40E1953M|Makishima, K|State Transitions and Diagnostics of Accretion Flows in Neutron Star Systems|1
+2014cosp...40E2038M|Matsuoka, M;Mihara, T;Asai, K|Activities of X-ray binaries accompanied by a neutron star with weak magnetic field: Cir X-1, Aql X-1 and 4U 1608-52|0
+2014cosp...40E2091M|Mihara, T|Monitoring the Galaxy - Highlights from the MAXI mission|0
+2014cosp...40E2253N|Negoro, H|MAXI detection of new transients|0
+2014cosp...40E3400T|Trushkin, S;Nizhelskij, N;Tsybulev, P;Bursov, N|Radio Astronomical studies of microquasars with RATAN-600 radio telescope|0
+2014cosp...40E3408T|Tsunemi, H;Tomida, H;Sugizaki, M;Sasaki, M;Uchida, D;Kimura, M;Nakahira, S;Yoshidome, T|Spectral evolution of Sco X-1 observed with MAXI|0
+2014cxo..prop.4806L|Li, K|High Spatial/Temporal Resolution Chandra Follow-up of the 2015 outburst of the X-ray pulsar SMC X-2|0
+2014efxu.conf.....I|Ishida, M;Petre, R;Mitsuda, K|Suzaku-MAXI 2014: Expanding the Frontiers of the X-ray Universe|0
+2014efxu.conf...87A|Asai, K;Mihara, T;Matsuoka, M;Sugizaki, M;Serino, M;Nakahira, S;Negoro, H;Nakajima, M|Long-term Variability of LMXB and Cir X-1 with MAXI|0
+2014efxu.conf...91M|Mihara, T;Yamamoto, T;Sugizaki, M;Nakajima, M;Makishima, K;Sasano, M;Yamaoka, K;Morii, M|Cyclotron lines at high energies in GRO J1008-57 and GX 304-1 with MAXI-Suzaku collaboration|0
+2014efxu.conf..110M|Morii, M;Mihara, T;Yamaoka, H;Shimanoe, J;Tomida, H;Kawai, N;Matsuoka, M|Discovery of an X-ray flash from a nova explosion on MAXI J0158-744 and search for X-ray flashes for other novae|0
+2014efxu.conf..128N|Negoro, H;MAXI Team|MAXI observes black-hole X-ray novae from the beginning to the end|2
+2014efxu.conf..138T|Tsuboi, Y;Higa, M;Yamazaki, K;MAXI Team|Stellar Flares detected in Four Year's Monitoring with MAXI/GSC|2
+2014efxu.conf..146F|Fukushima, K;Negoro, H;Onodera, T;Suzuki, K;Tomida, H;Kimura, M;Yamada, H;Tsuboi, Y;Higa, M;Kawagoe, A;MAXI Team|MAXI Nova-Alert System for the MAXI/SSC|1
+2014efxu.conf..164K|Kawagoe, A;Tsuboi, Y;Sugawara, Y;Maehara, Y;Hashimoto, O;Honda, S;Morihana, K;Iizuka, R;Higa, M;Usui, R;Negoro, H;MAXI Team|The nature of the giant flare star HD347929 detected with MAXI/GSC|0
+2014efxu.conf..178M|Matsuoka, M;Ishikawa, A;Mihara, T;Sugizaki, M;Kotami, T;Tsuboi, M;Nakahira, S;Kitamoto, S;MAXI Team|Hyper-Soft X-ray (Quenched radio) state of Cyg X-3 observed with MAXI|0
+2014efxu.conf..200O|Ohtsuki, H;Serino, M;Sakamoto, T;Yoshida, A;MAXI Team|MAXI/GSC X-ray Burst Catalog|0
+2014efxu.conf..206O|Onodera, T;Negoro, H;Suzuki, K;Fukushima, K;Kennea, J;MAXI Team|X-ray properties of MAXI J1647-227 observed by MAXI and Swift|1
+2014efxu.conf..216S|Shidatsu, M;Ueda, Y;Nakahira, S;Done, C;Morihana, K;Mihara, T;Hori, T;Negoro, H;Kawai, N;Yamaoka, K;Ebisawa, K;MAXI Team|Accretion Disk and Peculiar Ionized Absorber of the 9.7-hour Dipping Black Hole Binary MAXI J1305-704|0
+2014efxu.conf..222S|Sugimoto, J;Mihara, T;Matsuoka, M;Sugizaki, M;Negoro, H;Kitamoto, S;Nakahira, S|Power spectrum of Cygnus X-1 in the high/soft state with MAXI data|1
+2014efxu.conf..226S|Sugizaki, M;Yamamoto, T;Mihara, T;Nakajima, M|Luminosity and Spin-up Evolution of GX 304-1 during Outbursts from 2009 to 2012 observed by MAXI/GSC, RXTE/PCA, and Fermi/GBM.|1
+2014efxu.conf..228S|Sugizaki, M;MAXI Team|MAXI GSC In-orbit Performance and Response Calibration|0
+2014efxu.conf..230S|Suzuki, K;Negoro, H;Sakakibara, H;Onodera, T;Fukushima, K;Nakagawa, Y;MAXI Team|Short-term X-ray variability study using MAXI/GSC data|0
+2014efxu.conf..234T|Takagi, T;Mihara, T;Morii, M;Sugizaki, M;MAXI Team|Application of the spin-up/down theory to the low-mass X-ray binary pulsar 4U 1626-67 observed by MAXI/GSC|0
+2014efxu.conf..252U|Uchida, D;Tsunemi, H;Sasaki, M;Tomida, H;Nakahira, S;Kimura, M;Sugizaki, M;Yoshidome, K;Yamada, H;Morooka, Y;MAXI Team|X-ray spectral evolution during the outburst of Aquila X-1 with MAXI|0
+2014efxu.conf..256Y|Yamada, H;Yamauchi, M;Yoshidome, K;Morooka, Y;Daikyuji, A;Tomida, H;Nakahira, S;Kimura, M;Tsunemi, H;Sasaki, M;Uchida, D;Sugizaki, M|Background study of MAXI/SSC|0
+2014efxu.conf..258Y|Yoshidome, K;Yamauchi, M;Hanayama, T;Yamada, H;Morooka, Y;Tsunemi, H;Sasaki, M;Uchida, D;Tomida, H;Nakahira, S;Kimura, M;Sugizaki, M;MAXI Team|MAXI/SSC catalogue|0
+2014efxu.conf..260Y|Yoshii, T;Saito, Y;Yatsu, Y;Yutaro, T;Kawai, N;Hanayama, H;Mitsume Telescope Team;Maxi Team|Optical observations of a black hole binary MAXI J1910-057 with the MITSuMe Telescope|1
+2014efxu.conf..262Y|Yoshikawa, A;Yamada, S;Nakahira, S;Matsuoka, M;Negoro, H;Mihara, T;Tamagawa, T|Discovery of Short-term Spectral Softening in the Low/Hard State of the Galactic Black Hole Swift J1753.5-0127 with MAXI|0
+2014efxu.conf..267S|Sakamoto, T;Serino, M;Kawai, N;Yoshida, A;MAXI Team|MAXI Observation of GRBs|1
+2014efxu.conf..325K|Kawakubo, Y;Sakamoto, T;Yoshida, A;Serino, M;Nakahira, S;Yamaoka, K;Inoue, R;Terazawa, S;Senuma, K;Fujioka, R;Calet Collaboration|Feasibility study of GRBs simultaneously observed by MAXI/GSC and CALET Gamma-ray Burst Monitor|0
+2014efxu.conf..329L|Li, K;Kong, A|A MAXI archival search of early X-ray emissions from a supernova explosion of a K supergiant star|0
+2014efxu.conf..337O|Ohtani, Y;Morii, M;Shigeyama, T|Origin of Ne Emission Line of Peculiar Nova MAXI J0158-744|0
+2014efxu.conf..345T|Tachibana, Y;Kawai, N;Usui, R;Yoshii, T;Kurita, S;Yatsu, Y;Saito, Y;MAXI Team|Timing analysis of AGN with MAXI data|0
+2014efxu.conf..353U|Ueno, S;Sato, R;Ueda, Y;Hiroi, K;Hayashida, M;Shidatsu, M;Kawamuro, T;Isobe, N;Mihara, T;Sugimoto, J;Kawai, N;MAXI Team|A MAXI monitoring of long-term X-ray variability in Seyfert galaxies|0
+2014noao.prop..162H|Homan, J;van den Berg, M;Jonker, P|The puzzling mass donor in the Galactic halo X-ray binary MAXI J0556-332|0
+2014pas..conf..151N|Nikolajuk, M;Walter, R|Tidal disruption event in NGC 4845|0
+2014styd.confE.160S|Sakamoto, T;Oda, Y;Yoshida, A|Broad-band Transient Monitor using the Swift/BAT and the MAXI/GSC data|0
+2014xru..confE..14O|Osborne, J|High-energy observations of novae|0
+2014xru..confE..34B|Balucinska-Church, M|Predicting Jets in Cygnus X-2|0
+2013AAS...22114230C|Coley, J;Corbet, R;Mukai, K;Pottschmidt, K|Probing the Mysteries of the X-Ray Binary 4U 1210-64 with ASM, MAXI and Suzaku|0
+2013AAS...22114234B|Boyd, P;Torpin, T;Smale, A|RXTE, MAXI and Swift Observations of a New Anomalous Low State in LMC X-3|0
+2013AAS...22142105K|Kennea, J;Romano, P;Mangano, V;Krimm, H;Curran, P;Evans, P;Beardmore, A;Yamaoka, K;Negoro, H|These Machines Find Black Holes: Update on the Swift/MAXI Transient Follow-up Program|0
+2013ASInC...8..109I|Islam, N;Mihara, T;Sugizaki, M;Paul, B;Nath, B|Average spectral properties of galactic X-ray binaries with 3 years of MAXI data|0
+2013ASInC...9..122A|Abraham, L;Agrawal, V|A study of outburst ephemeris and burst properties of blackhole candidate 4U 1630-47 with ASM, MAXI and Suzaku data|0
+2013EAS....61...59S|Serino, M;Sakamoto, T;Yoshida, A;Kawai, N;Morii, M;Sugizaki, M;Nakahira, S;Negoro, H;Mihara, T;Nishimura, Y;Ogawa, Y;Matsuoka, M|GRBs Observed by MAXI|0
+2013HEAD...1312626Y|Yu, W;Zhang, W|Evidence of Energy-dependence of Power Spectral States of Black Hole Binaries and the Origin of the X-ray Variability|0
+2013HEAD...1312640K|Kennea, J;Romano, P;Mangano, V;Krimm, H;Yamaoka, K;Negoro, H;Evans, P;Beardmore, A|Monitoring the Spectral and Flux Evolution of MAXI Discovered Galactic Black Hole Candidates with Swift|0
+2013HEAD...1312642K|Kalamkar, M;van der Klis, M;Uttley, P;Altamirano, D;Wijnands, R|Probing the Accretion-flow Dynamics using an Energy Dependent Timing Analysis in Black Hole X-ray Binaries|0
+2013HEAD...1312702W|Wilson, C;Cherry, M;Case, G;Baumgartner, W;Beklen, E;Bhat, N;Briggs, M;Camero-Arranz, A;Chaplin, V;Connaughton, V;Finger, M;Gehrels, N;Greiner, J;Jahoda, K;Jenke, P;Kippen, R;Kouveliotou, C;Krimm, H;Kuulkers, E;Lund, N;Meegan, C;Paciesas, W;Preece, R;Rodi, J;Shaposhnikov, N;Skinner, G;Swartz, D;von Kienlin, A;Diehl, R;Zhang, X;Natalucci, L|Hard X-ray Variations in the Crab Nebula|0
+2013HEAD...1312724B|Barthelmy, S|GCN/TAN -- Current and Future Functionality|0
+2013IAUS..291..141D|Degenaar, N;Wijnands, R|A peculiar thermonuclear X-ray burst from the transiently accreting neutron star SAX J1810.8-2609|3
+2013ICRC...33.2690C|CHEN, S;YAN, D;HOU, C;ARGO-YBJ Collaboration|A Multi-wavelength View of VHE Gamma Ray Flares from Mrk421 and Mrk 501 Observed by the ARGO-YBJ Experiment|0
+2013ICRC...33.2756T|Tibolla, O;Vorster, M;Kaufmann, S;Ferreira, S;Mannheim, K|Are Most of the Very High Energy Gamma-ray Unidentified Sources Relic Pulsar Wind Nebulae?|0
+2013IJMPS..23...34T|Tsunemi, H|High Energy Astrophysical Missions in Japan|0
+2013MmSAI..84..547M|Makishima, K|From Sco X-1 to magnetars . Past, present, and future of X-ray studies of neutron stars|0
+2013cxo..prop.3791I|in't Zand, J|Search for absorption edges in superexpansion bursts|0
+2013cxo..prop.4310K|Kennea, J|A rare opportunity to resolve the emission line complex in GRO J1744-28|0
+2013xmm..prop..168D|Diaz Trigo, M|Probing the disc wind-jet connection in black hole transients II|0
+2013xmm..prop..189H|Homan, J|Cooling of the super-heated neutron star in MAXI J0556-332|0
+2013yCat..22070036H|Hiroi, K;Ueda, Y;Hayashida, M;Shidatsu, M;Sato, R;Kawamuro, T;Sugizaki, M;Nakahira, S;Serino, M;Kawai, N;Matsuoka, M;Mihara, T;Morii, M;Nakajima, M;Negoro, H;Sakamoto, T;Tomida, H;Tsuboi, Y;Tsunemi, H;Ueno, S;Yamaoka, K;Yoshida, A;Asada, M;Eguchi, S;Hanayama, T;Higa, M;Ishikawa, K;Ishikawa, M;Isobe, N;Kohama, M;Kimura, M;Morihana, K;Nakagawa, Y;Nakano, Y;Nishimura, Y;Ogawa, Y;Sasaki, M;Sugimoto, J;Takagi, T;Usui, R;Yamamoto, T;Yamauchi, M;Yoshidome, K|VizieR Online Data Catalog: 2nd MAXI/GSC catalog in high galactic-latitude sky (Hiroi+, 2013)|0
+2013yCat..22070039H|Hurley, K;Pal'Shin, V;Aptekar, R;Golenetskii, S;Frederiks, D;Mazets, E;Svinkin, D;Briggs, M;Connaughton, V;Meegan, C;Goldsten, J;Boynton, W;Fellows, C;Harshman, K;Mitrofanov, I;Golovin, D;Kozyrev, A;Litvak, M;Sanin, A;Rau, A;von Kienlin, A;Zhang, X;Yamaoka, K;Fukazawa, Y;Hanabata, Y;Ohno, M;Takahashi, T;Tashiro, M;Terada, Y;Murakami, T;Makishima, K;Barthelmy, S;Cline, T;Gehrels, N;Cummings, J;Krimm, H;Smith, D;Del, M;Feroci, M;Marisaldi, M|VizieR Online Data Catalog: IPN supplement to the Fermi GBM (Hurley+, 2013)|0
+2012AAS...21914907M|Madejski, G;Giebels, B;Fegan, S;Horan, D;Chiang, J;Fermi LAT Collaboration|Discovery of Evidence for Correlated X-ray/GeV Variability in the Feb. 2010 Flare of Mrk 421|0
+2012AAS...21915321K|Kennea, J|Rapid Response Galactic X-ray Transient Follow-up with Swift|0
+2012AAS...21931804S|Szostek, A;Corbel, S;Dubus, G;Fermi LAT Collaboration;Tomsick, J|A Giant Radio Flare from Cygnus X-3 with Associated Gamma-ray Emission|0
+2012AAS...21940804R|Rodi, J;Camero-Arranz, A;Case, G;Chaplin, V;Cherry, M;Finger, M;Jenke, P;Taylor, J;Wilson-Hodge, C|Searching for Flares in Hard X-rays/Soft Gamma Rays with GBM Using the Earth Occultation Technique|0
+2012AAS...21943305K|Kaur, R;Kaper, L;Ellerbroek, L;Russell, D;Altamirano, D;Wijnands, R;GRB/X-shooter Team|VLT/X-shooter Spectroscopy Of The Candidate Black Hole X-ray Binary MAXI J1659-152|0
+2012AAS...22052320L|Li, K;Lu, T;Kong, A|New Ultraluminous Supersoft Source in the Small Magellanic Cloud: MAXI J0158-744|0
+2012AIPC.1427..129T|Torii, S;Makishima, K;Yamada, S;Nakazawa, K|The Suzaku view of Cyg X-1 over the two spectral states|0
+2012AIPC.1427..294M|Matsuoka, M;Sugizaki, M;Tsuboi, Y;Yamazaki, K;Matsumura, T;Mihara, T;Serino, M;Ueno, S;Negoro, H;MAXI Team|A contribution of stellar flares to the GRXE; based on MAXI observations|0
+2012AIPC.1427..302Y|Yamamoto, T;Mihara, T;Suguzaki, M;Nakajima, M;Yamamoka, K;Matsuoka, M;Makishima, K|Suzaku observations of X-ray binary pulsar GX 304-1 triggered by MAXI/GSC in 2010 August|0
+2012AIPC.1427..314N|Negoro, H;Kawai, N;Yamaoka, K;MAXI Team|Discoveries of new black hole transients MAXI J1659-152 and MAXI J1543-564|1
+2012AIPC.1427..328H|Hiroi, K;Ueda, Y;Isobe, N;Hayashida, M;MAXI Team|The first MAXI/GSC catalog in the high-Galactic latitude sky|0
+2012ASPC..461..797N|Negoro, H;Ozawa, H;Suwa, F;Asada, M;Serino, M;MAXI Team|Development of the MAXI Nova Alert System and the Photon Event Database|5
+2012IJMPS...8..380P|Paragi, Z;Belloni, T;van der Horst, A;Miller-Jones, J|VLBI Observations of the Shortest Orbital Period Black Hole X-Ray Binary|0
+2012arXiv1205.0418L|Lico, R;Giroletti, M;Orienti, M;Giovannini, G;Cotton, B;Edwards, P;Fuhrmann, L;Krichbaum, T;Sokolovsky, K;Jorstad, S;Marscher, A;Kino, M;Kovalev, Y;Paneque, D;Perez-Torres, M;Piner, G|VLBA monitoring of Mrk 421 at 15 and 24 GHz during 2011|0
+2012arXiv1208.2085Y|Yang, J;Xu, Y;Li, Z;Paragi, Z;Campbell, R;Gurvits, L;Shen, Z;Hong, X;Xia, B|VLBI detection of the Galactic black hole binary candidate MAXI J1836-194|0
+2012cosp...39..435D|Del Santo, M|Black Hole Binaries observed with INTEGRAL|0
+2012cosp...39..902K|Kawai, N|Multiwavelength observations of black hole binaries discovered by MAXI|0
+2012cosp...39.1149M|Maitra, D;Miller, J;Raymond, J;Reynolds, M|MAXI J0556-332: An unique laboratory for testing formation/evolution of X-ray binaries and GR in the strong-field limit|0
+2012cosp...39.1237M|Mihara, T;Sugizaki, M;Nakajima, M;MAXI Team|Be binary X-ray pulsars observed with MAXI/GSC|0
+2012cosp...39.1278M|Morii, M;Mihara, T;Negoro, H;Sugizaki, M;Kawai, N;Nakahira, S;Matsuoka, M|Discovery of the soft X-ray transient MAXI J0158-744|0
+2012cxo..prop.3936B|Bellm, E|A search for absorption features in the afterglow of the unusual GRB 130925A|0
+2012grb..confE.....||Gamma-Ray Bursts 2012 Conference|0
+2012grb..confE..52K|Kawai, N|Short X-ray Transients detected by MAXI/GSC|0
+2012hcxa.confE..16N|Negoro, H;Matsuoka, M;Ueno, S;Tomida, H;Nakahira, S;Ishikawa, M;Ebisawa, K;Mihara, T;Sugizaki, M;Serino, M;Morihana, K;Yamamoto, T;Tsunemi, H;Kimura, M;Kawai, N;Morii, M;Usui, R;Yoshida, A;Sakamoto, T;Nakajima, M;Ueda, Y;Hiroi, K;Shidatsu, M;Yamauchi, M;Tsuboi, Y;Yamaoka, K|3 years all-sky X-ray observations with MAXI|0
+2012hcxa.confE..48H|Hiroi, K;Ueda, Y;MAXI Team|MAXI Extragalactic Survey|0
+2012hcxa.confE.128N|Nakahira, S;MAXI Team|Accretion physics in the Galaxy - Long-term monitoring of black hole X-ray novae with MAXI/GSC and SSC|0
+2012xmm..prop...26S|Stiele, H|Studying the extremely soft high-soft state of black hole X-ray binaries|0
+2012xmm..prop..134C|Campana, S|Monitoring the latest stages of a transient neutron star X-ray binary|0
+2012xmm..prop..149I|Ingram, A|Uncovering the mechanism behind quasi-periodic oscillations in black holes|0
+2012xmm..prop..176H|Homan, J|Cooling of the super-heated neutron star in MAXI J0556-332|0
+2012yCat..74150292M|Munoz-Darias, T;Motta, S;Stiele, H;Belloni, T|VizieR Online Data Catalog: MAXI J1659-152 2010 outburst analysis (Munoz-Darias+, 2011)|0
+2012yCat..74220679S|Stiele, H;Munoz-Darias, T;Motta, S;Belloni, T|VizieR Online Data Catalog: Spectral parameters for MAXI J1543-564 (Stiele+, 2012)|0
+2011AIPC.1358..385H|Hurley, K;Golenetskii, S;Aptekar, R;Mazets, E;Pal'Shin, V;Frederiks, D;Mitrofanov, I;Golovin, D;Kozyrev, A;Litvak, M;Sanin, A;Boynton, W;Fellows, C;Harshman, K;Starr, R;von Kienlin, A;Rau, A;Yamaoka, K;Ohno, M;Fukazawa, Y;Takahashi, T;Tashiro, M;Terada, Y;Murakami, T;Makishima, K;Barthelmy, S;Cummings, J;Gehrels, N;Krimm, H;Cline, T;Goldsten, J;Del Monte, E;Feroci, M;Marisaldi, M;Briggs, M;Connaughton, V;Meegan, C;Smith, D;Wigger, C;Hajdas, W|The Third Interplanetary Network|1
+2011HEAD...12.0304K|Kuulkers, E;INTEGRAL Galactic bulge monitoring Team|Latest News From The Integral Galactic Bulge Monitoring Program|0
+2011HEAD...12.0816M|McCollough, M;Savolainen, P;Koljonen, K;Hannikainen, D;Cygnus X-3 Collaboration|The 2011 Cygnus X-3 Multi-Wavelength Campaign|0
+2011HEAD...12.1308Y|Yamaoka, K;Negoro, H;Nakahira, S;Yoshida, A;Ueda, Y;Kawai, N;Nakajima, M;Yamamoto, T;Mihara, T;Sugizaki, M;Nakagawa, Y;Kotani, T;Ueno, S;Tomida, H;Kohama, M;Ishikawa, M;Serino, M;Sootome, T;Matsuoka, M;Morii, M;Sugimori, K;Usui, R;Toizumi, T;Tsunemi, H;Kimura, M;Kitayama, H;Suwa, F;Asada, M;Sakakibara, H;Hiroi, K;Shidatsu, M;Tsuboi, Y;Matsumura, T;Yamazaki, K;Yamauchi, M;Nishimura, Y;Allured, R;Kaaret, P|MAXI Discoveries And RXTE Follow-up Observations Of New X-ray Sources|0
+2011HEAD...12.1309K|Kennea, J;Romano, P;Mangano, V;Curran, P;Krimm, H;Evans, P;Beardmore, A;Yamoaka, K;Negoro, H|Swift Multi-wavelength High Cadence Monitoring of MAXI J0556-332|0
+2011HEAD...12.1310C|Coley, J;Corbet, R;Mukai, K;Pottschmidt, K|Suzaku And Maxi Observations Of The X-ray Binary 4u 1210-64|0
+2011HEAD...12.1311K|Kaur, R;Kaper, L;Altamirano, D;Wijnands, R;Ellerbroek, L;X-shooter Collaboration|Vlt/x-shooter Spectroscopy Of The Black Hole X-ray Binary Maxi J1659-152|0
+2011HEAD...12.1312V|Van Der Horst, A;Kouveliotou, C;Paragi, Z;Linford, J;Taylor, G;Kuulkers, E;Curran, P;Gorosabel, J;Guziy, S;de Ugarte Postigo, A;Belloni, T;Miller-Jones, J|Detailed Broadband Study of the Shortest Orbital Period Black-hole Binary Maxi J1659-152|0
+2011HEAD...12.2105D|Drake, S;Smale, A;Staff, H|The HEASARC at 20: Highlights of the Last Two Decades and Future Prospects|0
+2011IAUS..275..186N|Naoki, I;Naoki,|Longterm X-ray observations of blazars with MAXI|0
+2011JPhCS.302a2062M|Morii, M;Kawai, N;Usui, R;Sugimori, K;Sugizaki, M;Mihara, T;Yamamoto, T;Matsuoka, M;MAXI Team|MAXI Monitoring of Crab Pulsar during the GeV Gamma-ray Flare on September 2010|1
+2011arXiv1101.6055K|Kennea, J;Romano, P;Mangano, V;Beardmore, A;Evans, P;Curran, P;Krimm, H;Yamaoka, K|Swift Follow-up Observations of MAXI Discovered Galactic Transients|3
+2011arXiv1102.2102K|Kuulkers, E;Kouveliotou, C;van der Horst, A;Belloni, T;Chenevez, J;Ibarra, A;Munoz-Darias, T;Bazzano, A;Cadolle Bel, M;De Cesare, G;Diaz Trigo, M;Jourdain, E;Lubinski, P;Natalucci, L;Ness, J;Parmar, A;Pollock, A;Rodriguez, J;Roques, J;Sanchez-Fernandez, C;Ubertini, P;Winkler, C|MAXI J1659-152: the shortest orbital period black-hole binary|6
+2011arXiv1102.3212K|Kong, A|Monitoring Variable X-ray Sources in Nearby Galaxies|4
+2011arXiv1102.3345I|in 't Zand, J|X-ray bursts and superbursts - recent developments|3
+2011arXiv1103.0531S|Shaposhnikov, N;Swank, J;Markwardt, C;Krimm, H|RXTE Observations of New Black Hole Candidates XTE J1752-223 and MAXI J1659-152|7
+2011arXiv1111.2106P|Paul, B;Raichur, H|RXTE-ASM light curves of Cen X-3|0
+2011cxo..prop.3354I|in't Zand, J|Search for absorption edges in superexpansion bursts|0
+2011cxo..prop.3363H|Homan, J|The shortest orbital period black-hole X-ray binary in quiescence|0
+2011cxo..prop.3510M|Miller, J|An HETGS Observation of the Transient MAXI J1305-704|0
+2011cxo..prop.3513N|Neilsen, J|An HETGS Observation of Extreme Activity in 4U 1630-47|0
+2011evhe.confE.....||The Extreme and Variable High Energy Sky|0
+2011fxts.confE..57K|Kalamkar, M|Aperiodic X-ray variability studies of the black hole candidate MAXI J1659-152|0
+2011xmm..prop...52R|Reis, R|Understanding Black Holes: Spin, Disk and State Transition|0
+2011xmm..prop..147I|In't Zand, J|Constraining the mass-radius relation of neutron stars through superbursts|0
+2011xru..conf..222I|Ibarra, A;Kuulkers, E;Diaz, M;Ness, J;Pollock, A;Parmar, A;Kouveliotou, C;van der Horst, A|XMM-Newton observations of the shortest orbital period black-hole candidate MAXI|0
+2010AAS...21538003W|Wood, K;Grove, J;Wolff, M;Scargle, J;Wood, D;Fermi LAT Collaboration;Kaiser, N;PS1 Consortium,|The Fermi LAT In Relation To All-sky Monitors: A New Approach To Multi-wavelength Correlations|0
+2010AIPC.1279..391M|Morii, M;Kawai, N;Sugimori, K;Suzuki, M;Negoro, H;Sugizaki, M;Nakajima, M;Mihara, T;Matsuoka, M|MAXI/GSC image fitting analysis for transient X-ray sources|1
+2010AIPC.1279..442T|Tomida, H|GRBs detected with the MAXI mission on the International Space Station|0
+2010ASPC..434..127N|Negoro, H;Miyoshi, S;Ozawa, H;Ishiwata, R;Suzuki, M;Ueno, S;Tomida, H;Matsuoka, M;Kohama, M;Mihara, T;Sugizaki, M;Kawai, N;Morii, M;Yoshida, A;Eguchi, S|Real-time X-ray Transient Monitor and Alert System of MAXI on the ISS|7
+2010ASPC..434..256E|Eguchi, S;Ueda, Y;Hiroi, K;Isobe, N;Sugizaki, M;Suzuki, M;Tomida, H;Maxi Team|Development of Image Analysis Software of MAXI|0
+2010HEAD...11.1012W|Wood, K;Grove, J;Wolff, M;Scargle, J;Wood, D;Fermi LAT Collaboration;Kaiser, N;PS1 Consortium,|The Fermi LAT in Relation to All-sky Monitors: A New Approach to Multi-wavelength Correlations|0
+2010HEAD...11.1301K|Kimura, M;Tsunemi, H;Tomida, H;MAXI Team|Flight Calibration of the MAXI/SSC|0
+2010HEAD...11.1302S|Sugizaki, M;MAXI Collaboration|Monitor Of X-ray Transients With MAXI GSC Onboard ISS|0
+2010HEAD...11.1303R|Roming, P;Immler, S;Brown, P;Holland, S;Pritchard, T|MAXI Discovery of Supernovae Shock Breakouts and Rapid Swift Follow-up|0
+2010HEAD...11.1304O|O'Brien, P|Observing a Tidal Disruption Event|0
+2010HEAD...11.2201K|Kawai, N;Gehrels, N|Opportunities for MAXI - Swift Joint Science|0
+2010HEAD...11.2202M|Mihara, T;MAXI Team|MAXI/GSC: Instrument and Early Results|0
+2010HEAD...11.2203T|Tomida, H;MAXI/SSC Team|MAXI/SSC : Instrument and Early Results|0
+2010HEAD...11.2204N|Negoro, H;MAXI Team|X-ray Nova Alerts System of MAXI|0
+2010HEAD...11.2206O|Osborne, J|Swift Observations of Cataclysmic Variables and Novae, and the Potential of MAXI|0
+2010SPIE.7732E..0YM|Matsuoka, M;Mihara, T;Sugizaki, M;Suzuki, M;Nakagawa, Y;Yamamoto, T;Sootome, T;Kawasaki, K;Ueno, S;Tomida, H;Kohama, M;Ishikawa, M;Adachi, Y;Itamoto, Y;Kobayashi, Y;Katayama, H;Kawai, N;Morii, M;Sugimori, K;Tsunemi, H;Kimura, M;Yoshida, A;Yamaoka, K;Nakahira, S;Negoro, H;Ozawa, H;Suwa, F;Nakajima, M;Ueda, Y;Isobe, N;Eguchi, S;Hiroi, K;Ebisawa, K;Daikyuji, A;Yamauchi, M;Uzawa, A;Matsumura, T;Yamazaki, K;Tsuboi, Y|Early results of MAXI (Monitor of All-sky X-ray Image) on ISS|8
+2010SPIE.7732E..3MK|Kimura, M;Tsunemi, H;Tomida, H;Katayama, H|Solid state slit camera (SSC) onboard MAXI|0
+2010cosp...38.2249K|Kawai, N;Matsuoka, .;Kawasaki, K;Ueno, S;Tomida, H;Suzuki, M;Ishikawa, M;Mihara, T;Sugizaki, M;Kohama, M;Nakagawa, Y;Yamamoto, T;Saotome, T;Kawai, N;Morii, M;Sugimori, K;Yoshida, A;Yamaoka, K;Nakahira, S;Tsunemi, H;Kimura, M;Negoro, H;Nakajima, M;Miyoshi, S;Ozawa, H;Ishiwata, R;Ueda, Y;Isobe, N;Eguchi, S;Hiroi, K;Daikyuji, A;Uzawa, A;Matsumura, T;Yamazaki, K|X-ray Monitoring of AGN with MAXI|0
+2010cosp...38.2399N|Negoro, H|MAXI Capabilities for Accreting Compact Object Studies|0
+2010cosp...38.2446M|Morii, M;Kawai, N;Sugimori, K;Sugizaki, M;Mihara, T;Matsuoka, M;Matsuoka, M;Kawasaki, K;Ueno, S;Tomida, H;Suzuki, M;Ishikawa, M;Mihara, T;Kohama, M;Nakagawa, Y;Sugizaki, M;Yamamoto, T;Saotome, T;Kawai, N;Morii, M;Sugimori, K;Yoshida, A;Yamaoka, K;Nakahira, S;Tsunemi, H;Kimura, M;Negoro, H;Nakajima, M;Miyoshi, S;Ozawa, H;Ishiwata, R;Ueda, Y;Isobe, N;Eguchi, S;Hiroi, K;Daikyuji, A;Uzawa, A;Matsumura, T;Yamazaki, K|MAXI/GSC image fitting analysis for X-ray sources in LMC and SMC|0
+2010cosp...38.2447N|Nakahira, S;Yamaoka, K;Yoshida, A;Sakauchi, Y;Negoro, H;Matsuoka, M;Sugizaki, M;Mihara, T;Matsuoka, M;Kawasaki, K;Ueno, S;Tomida, H;Suzuki, M;Ishikawa, M;Mihara, T;Kohama, M;Nakagawa, Y;Sugizaki, M;Yamamoto, T;Saotome, T;Kawai, N;Morii, M;Sugimori, K;Yoshida, A;Yamaoka, K;Nakahira, S;Tsunemi, H;Kimura, M;Negoro, H;Nakajima, M;Miyoshi, S;Ozawa, H;Ishiwata, R;Ueda, Y;Isobe, N;Eguchi, S;Hiroi, K;Daikyuji, A;Uzawa, A;Matsumura, T;Yamazaki, K|MAXI observations of the black hole candidate XTE J1752-223|0
+2010cosp...38.2560S|Sugizaki, M;Matsuoka, M;Kawasaki, K;Ueno, S;Tomida, H;Suzuki, M;Ishikawa, M;Mihara, T;Kohama, M;Nakagawa, Y;Sugizaki, M;Yamamoto, T;Kawai, T;Morii, M;Sugimori, K;Yoshida, A;Yamaoka, K;Nakahira, S;Tsunemi, H;Kimura, M;Negoro, H;Nakajima, M;Miyoshi, S;Ozawa, H;Ishiwata, R;Ueda, Y;Isobe, N;Eguchi, S;Hiroi, K;Daikyuji, A;Uzawa, A;Matsumura, T;Yamazaki, K|MAXI monitoring X-ray transients in the first year|0
+2010cosp...38.2591M|Matsuoka, M|All sky x-ray maps observed by maxi (monitor of all-sky x-ray image)|0
+2010cosp...38.2765N|Nakagawa, Y;Mihara, T;Sugizaki, M;Kohama, M;Yamamoto, T;Suzuki, M;Matsuoka, M;Kawai, N;Morii, M;Sugimori, K;Yoshida, A;Yamaoka, K;Nakahira, S;Negoro, H;Nakajima, M;Isobe, N;Maxi Team|The First Results of Monitoring Galactic Magnetar Activities with MAXI/GSC|0
+2010cxo..prop.3085I|in't Zand, J|Search for absorption edges in superexpansion bursts|0
+2010cxo..prop.3256J|Jonker, P|The peculiar BH transient MAXI J1659-152: jet-only emission in quiescence?|0
+2010cxo..prop.3292S|Sivakoff, G|Which M15 Source Is Now in Outburst?|0
+2010ecsa.conf..400U|Ueno, S;Matsuoka, M;Kawasaki, K;Tomida, H;Kohama, M;Suzuki, M;Ishikawa, M;Adachi, Y;Mihara, T;Sugizaki, M;Nakagawa, Y;Yamamoto, T;Tsunemi, H;Kimura, M;Kawai, N;Morii, M;Sugimori, K;Yoshida, A;Yamaoka, K;Nakahira, S;Negoro, H;Ishiwata, R;Miyoshi, S;Nakajima, M;Ueda, Y;Isobe, N;Eguchi, S;Hiroi, K;Katayama, H;Ebisawa, K;MAXI Team|The MAXI Experiment: Monitor of All-sky X-ray Image installed on the International Space Station|0
+2010ecsa.conf..426T|Tomida, H;Tsunemi, H;Kimura, M;Matsuoka, M;Katayama, H;MAXI-SSC Team|The Solid-state Slit Camera, SSC, onboard MAXI|0
+2010ecsa.conf..428K|Kimura, M;Tomida, H;Tsunemi, H;Matsuoka, M;Katayama, H;MAXI/SSC Team|Calibration Status of MAXI / SSC|0
+2010ecsa.conf..430H|Hiroi, K;Ueda, Y;Eguchi, S;Isobe, N;Tomida, H;Ueno, S;MAXI Team|MAXI Catalog and Extragalactic Survey|0
+2010fym..confE...1K|Kawai, N;Tokyo Tech,;Maxi Team|Highlights from MAXI observations|0
+2010fym..confE...4Y|Yamaoka, K;Maxi,;Suzaku Team|Suzaku observations of two Galactic black hole candidates XTE J1752-223 and MAXI J1659-152 triggered by MAXI|0
+2010fym..confE...6N|Negoro, H;Maxi Team|Outbursts and State Transitions in Black Hole Candidates observed by MAXI|0
+2010fym..confE...7K|Kennea, J;Yamoaka, K;Krimm, H;Curran, P;Mangano, V;Romano, P;Evans, P|A Swift Program of Follow-up Observations of MAXI Galactic Transients|0
+2010fym..confE..13K|Kong, A|Monitoring variable X-ray sources in nearby galaxies|0
+2010fym..confE..14S|Sugizaki, M|Status of Calibration and Data Analysis of MAXI GSC|0
+2010fym..confE..16T|Tsujimoto, M;Takei, D|Recent progress of hard X-ray studies of classical novae|0
+2010fym..confE..17T|Tsubo, Y;Yamazaki, K;Uzawa, A;Matsumura, T;Nakahira, S;Nakajima, M;Maxi Team|New Results on Stellar Flares Monitored with MAXI/GSC|0
+2010fym..confE..18K|Kimura, M;Tsunemi, H;Kitayama, H;Tomida, H;Matsuoka, M;Daikyuji, A|The first year result of MAXI/SSC|0
+2010fym..confE..19I|in't Zand, J|X-ray bursts and superbursts: what can MAXI do?|0
+2010fym..confE..20A|Altamirano, D|Observations of AMSP/bursters|0
+2010fym..confE..24M|Mihara, T;Yamamoto, T;Sugizaki, M;Nakajima, M;Maxi Team|Binary pulsars observed with MAXI|1
+2010fym..confE..28M|Makishima, K;Sasano, M;Nakajima, K;Nakano, T;Nishioka, H;Yuasa, T;Yamada, K;Nakazawa,;Hiraga, J;Enoto, T;Nakagawa, Y;Mihara, T;Bamba, A;Sato, T;Terada, Y;Kohzu, T;Yasuda, T|Magnetars, X-ray Pulsars, and Related Objects|0
+2010fym..confE..31S|Serino, M;Maxi Team|Gamma-ray bursts and short X-ray transients observed by MAXI : A summary of the first year|0
+2010fym..confE..35U|Ueda, Y;Hiroi, K;Isobe, N;Hayashida, M;Sugizaki, M;Maxi Team|Extragalactic Survey with MAXI and the First MAXI/GSC Catalog|0
+2010fym..confE..36I|Isobe, N;Maxi Team|MAXI observation of Blazars|0
+2010fym..confE..37M|Madejski, G;Fermi Collaboration|Fermi results on AGN|0
+2010fym..confP...1N|Nakahira, S;Yamaoka, K;Negoro, H;Ueda, Y;Maxi Team|Spectral Evolution of the Black Hole X-ray Binary XTE J1752-223 Observed with MAXI|0
+2010fym..confP...2K|Koyama, S;Tashiro, M;Terada, Y;Seta, H;Kubota, A;Yamaoka, K|Suzaku Observation of the transient black hole binary XTE J1752 223|0
+2010fym..confP...3Y|Yamaoka, K;Nakahira, S;Yoshida, A;Negoro, H;Ueda, Y;Kaaret, P;Maxi Team|RXTE follow-up observations of the new black hole candidate MAXI J1659-152|0
+2010fym..confP...4K|Kuroda, D;Hanayama, H;Miyaji, T;Yanagisawa, K;Shimizu, Y;Toda, H;Nagayama, S;Watanabe, J;Ali, G;Haroon, A;Essam, A;Ismail, M;Ismail, H;Kawabata, K;Yoshida, M;Ohta, K;Yatsu, Y;Nakajima, H;Enomoto, T;Kawakami, K;Tokoyoda, K;Kawai, N|Multi-band optical monitoring of GRB100925A/MAXI J1659-152|1
+2010fym..confP...5K|Komatsu, T;Uemura, M;Kawabata, K;Yamanaka, M;Sasada, M;Itoh, R;Okushima, T;Sato, H;Yamazaki, S;Yoshida, M|Kanata optical photometric and polarimetric observations of MAXI J1659-152|0
+2010fym..confP...6O|Ohshima, T;Kato, T;Maehara, H;Kiyota, S|Optical aspect of variability of X-ray transient MAXI J1659-152|0
+2010fym..confP...7S|Shidatsu, M;Ueda, Y;Tazaki, F;Yoshikawa, T;Nagayama, T;Nagata, T;Oi, N;Yamaoka, K;Takahashi, H;Kubota, A;Cottam, J;Remillard, R;Negoro, H;Maxi Team|X-ray and Near-Infrared Observations of the Black Hole Candidate GX 339-4|0
+2010fym..confP...8T|Torii, S;Makishima, K;Yamada, S;Nakazawa, K|Revealing the spectral/temporal evolution of Cyg X-1 under Suzaku &amp; MAXI collaboration|0
+2010fym..confP..10I|Ishikawa, M;Kawasaki, K;Ueno, S;Tomida, H;Kohama, M;Mihara, T;Nakagawa, Y;Sugizaki, M;Serino, M;Yamamoto, T;Sootome, T;Matsuoka, M;Kawai, N;Morii, M;Sugimori, K;Usui, R;Yoshida, A;Yamaoka, K;Nakahira, S;Tsunemi, H;Kimura, M;Negoro, H;Nakahira, S;Tsunemi, H;Kimura, M;Negoro, H;Nakajima, M;Ozawa, H;Suwa, F;Ueda, Y;Isobe, N;Eguchi, S;Hiroi, K;Daikyuji, U;Matsumura, T;Yamazaki, K;Maxi Team|The observation result of Galactic X-ray sources by MAXI|0
+2010fym..confP..13Y|Yamamoto, T;Mihara, T;Nakajima, M;Yamaoka, K;Sugizaki, M;Matsuoka, M|Discovery of Cyclotron line from GX 304-1 during the Brightest Outburst in August 2010, observed by MAXI/GSC, Suzaku, and RXTE.|0
+2010fym..confP..14R|Romano, P;Kennea, J;Burrows, D;Laparola, V;Cusumano, G;Vercellone, S;Esposito, P;Krimm, H;Pagani, C;Gehrels, N|Supergiant Fast X-ray Transients with Swift: catching outbursts and monitoring programs|0
+2010fym..confP..15S|Sasano, M;Makishima, K;Yuasa, T;Yamada, S;Nakazawa, K;Nakajima, K|Studies of SFXTs with MAXI and Suzaku|0
+2010fym..confP..18U|Usui, R;Morii, M;Sugimori, K;Kawai, N;Mihara, T;Yamamoto, T;Nakajima, M|Outburst of LS V +44 17 detected by MAXI, RXTE, Swift|0
+2010fym..confP..19H|Huang, K;Ohyama, Y;Tsai, P;Urata, Y;Lee, I;Nakajima, M|Optical spectroscopic follow-up of the V0332+53 outburst|0
+2010fym..confP..20N|Nakajima, M;Maxi Team|Analysis a new activity of the Be X-ray pulsar A0535+26|0
+2010fym..confP..24S|Sakurai, S;Makishima, K;Yamada, S;Nakazawa, K|LMXBs in their hard state: studies with Suzaku, MAXI, and ASTRO-H|0
+2010fym..confP..28M|Morii, M;Kawai, N;Usui, R;Sugimori, K;Sugizaki, M;Mihara, T;Yamamoto, T;Matsuoka, M;Maxi Team|MAXI observation of Crab pulsar during the gamma-ray flare in September 2010|0
+2010fym..confP..29N|Nakagawa, Y;Mihara, T;Sugizaki, M;Kohama, M;Yamamoto, T;Suzuki, M;Matsuoka, M;Kawai, N;Morii, M;Usui, R;Sugimori, K;Nakahira, S;Negoro, H;Nakajima, M;Isobe, N;Maxi Team|The First MAXI/GSC View of Galactic Magnetars|0
+2010fym..confP..30N|Nakano, T;Nishioka, H;Uchiyama, H;Hiraga, J;Nakazawa, K;Makishima, K|Attempts toward Understanding the Formation of Magnetars|0
+2010fym..confP..31Y|Yasuda, T;Iwakiri, W;Terada, Y;Tashiro, M;Enoto, T;Bamba, A;Shibata, S;Nakagawa, Y;Makishima, K;Suzaku-Wam Team|Discovery of MeV emission from a Magnetar, AXP 1E1547.0-5408, with Suzaku / Wide-band All-sky Monitor|0
+2010fym..confP..32Y|Yamazaki, R|Prior Emission Model for X-ray Plateau Phase of Gamma-Ray Burst Afterglows|0
+2010fym..confP..34U|Uzawa, A;Tsuboi, Y;Morii, M;Matsuoka, M;Nakahira, S;Matsumara, T;Yamazaki, K;Satoh, R;Kawasaki, K;Ueno, S;Tomida, H;Adachi, Y;Itamoto, Y;Kohama, M;Mihara, T;Sugizaki, M;Serino, M;Nakagawa, Y;Kimura, M;Kitayama, H;Kawai, N;Sugimori, K;Usui, R;Yoshida, A;Yamaoka, K;Kotani, K;Hirose, T;Negoro, H;Nakajima, M;Ozawa, H;Sugawara, A;Suwa, F;Ueda, Y;Isobe, N;Eguchi, S;Hiroi, K;Yamauchi, M;Daikyuji, A;Maxi Team|A giant flare from a weak-lined T Tauri Star TWA-7 detected with MAXI/GSC|0
+2010fym..confP..35S|Shimanoe, J;Yamaoka, H;Mihara, T;Sugizaki, M;Suzuki, M|Search for the prompt X-ray emissions at the ignition of the Galactic classical novae|0
+2010fym..confP..37U|Ueno, S;Maxi Team|MAXI light curves of Active Galactic Nuclei|0
+2010fym..confP..38N|Niinuma, K;Kino, M;Hada, K;Asada, K;Koyama, S;Oyama, T;Kawaguchi, N;Nagai, H;Isobe, N;Hara, T|Quick Follow-up Observation of the Largest X-ray Flare from the TeV blazar Mrk 421|0
+2010fym..confP..45U|Uemura, M;Sasada, M;Itoh, R;Yamanaka, M;Kawabata, K;Ohsugi, T;Yoshida, M;Kino, M;Sato, S|Blazar Variability in Flux, Color, and Polarization Observed with the "Kanata" Optical-Near-Infrared Telescope|0
+2010fym..confP..47H|Hiroi, K;Ueda, Y;Isobe, N;Hayashida, M;Maxi Team|The First MAXI/GSC Catalog in the Extragalactic Sky|0
+2010fym..confP..49M|Miyagi, T;Krumpe, M;Coil, A;Aceves, H;Cappelluti, N|Clustering of AGNs in All-Sky X-ray Surveys|0
+2010fym..confP..51B|Burrows, D|Swift Target of Opportunity program|0
+2010fym..confP..53O|Ohno, M;Kokubun, M;Takahashi, T;Yamaoka, K;Serino, M;Nakagawa, Y;Tamagawa, T;Fukazawa, Y;Uehara, T;Hanabata, Y;Takahashi, T;Sugita, S;Vasquez, N;Terada, Y;Tashiro, M;Iwakiri, W;Takahara, K;Yasuda, T;Ohmori, N;Daikyuji, A;Nishioka, Y;Yamauchi, M;Urata, Y;Tsai, P;Nakazawa, K;Makishima, K|All-sky Observations with Suzaku Wide-band All-sky Monitor and MAXI|0
+2010fym..confP..54T|Takahashi, I;Tsunashima, K;Tatsuhito, T;Saori, O;Kazutaka, Y;Yoshida, A|Optical wide field monitor AROMA-W using multiple digital single-lens reflex cameras|0
+2010fym..confP..55U|Urata, Y;Lin, H;Tashiro, M;Widget Team|WIDGET: Ultra Bright Optical Transients Search|1
+2010fym..confP..57M|Mihara, T;Maxi Team|Maxi/gsc|0
+2010fym..confP..58K|Kohama, M;Tomida, H;Ueno, S;Adachi, Y;Itamoto, H;Ishikawa, M;Kawasaki, K;Mihara, T;Sugizaki, M;Serino, M;Matsuoka, M;Negoro, H;Maxi Team|Operation status of MAXI and ISS|0
+2010fym..confP..59S|Sugimori, K;Kawai, N;Morii, M;Sugizaki, M;Serino, M;Maxi Team|Calibration of Alignments of the MAXI/GSC|0
+2010fym..confP..60T|Tomida, H;Matsuoka, M;Tsunemi, H;Kimura, M;Kitayama, H;Daikyuji, A|The scientific results of MAXI/SSC|0
+2010fym..confP..61D|Daikyuji, A;Yamauchi, M;Tsunemi, H;Kimura, M;Kitayama, H;Tomida, H;Matsuoka, M|In Orbit Performance of the MAXI/SSC 1|0
+2010fym..confP..62K|Kitayama, H;Tsunemi, H;Kimura, M;Tomida, H;Matsuoka, M;Daikyuji, A|In Orbit Performance of the MAXI/SSC 2|0
+2010fym..confP..63S|Suwa, F;Negoro, H;Ozawa, H;Maxi Team|MAXI Alert System and Its Improvement|0
+2010fym..confP..64O|Ozawa, H;Negoro, H;Suwa, F;Maxi Team|Optimization of the auto-detection algorithm in the MAXI nova alert system and reanalysis of archival data|0
+2010fym..confP..66M|Mizushima, T;Hara, T;Yoshida, A;Yamaoka, K;Torii, S;Tomida, H;Calet Team|Gamma-Ray Burst Monitor for the CALET Mission (CGBM) onboard ISS 1: Scientific goal and expected background|0
+2009AIPC.1133...79S|Shimokawabe, T;Kawai, N;Mori, Y;Kudo, Y;Nakajima, H;Yoshida, M;Yanagisawa, K;Nagayama, S;Toda, H;Shimizu, Y;Kuroda, D;Watanabe, J;Fukushima, H;Mori, M|MITSuME-multicolor optical/NIR telescopes for GRB afterglows-|2
+2009AIPC.1133...82S|Suzuki, M|Simulation Study of Expected Performance of MAXI for GRB observations|0
+2009MmSAI..80..435F|Finoguenov, A;Kim, J|Introduction to MAXI, the Multivariate Archive of X-ray Images|0
+2009aaxo.conf.....K|Kawai, N;Mihara, T;Kohama, M;Suzuki, M|Astrophysics with All-Sky X-Ray Observations|1
+2009aaxo.conf....2M|Matsuoka, M|Welcome to the third MAXI Workshop|0
+2009aaxo.conf....8U|Ueno, S;Matsuoka, M;Kawasaki, K;Tomida, H;Adachi, Y;Kohama, M;Suzuki, M;Ishikawa, M;Katayama, H;Mihara, T;Sugizaki, M;Isobe, N;Tsunemi, H;Miyata, E;Kawai, N;Kataoka, J;Yoshida, A;Yamaoka, K;Negoro, H;Nakajima, M;Morii, M;Ueda, Y;Eguchi, S;Maxi Team|The MAXI Mission Overview and Schedule|2
+2009aaxo.conf...14M|Mihara, T;Kohama, M;Sugizaki, M;Isobe, N;Chujo, H;Matsuoka, M;Suzuki, M;Nakajima, M;Yoshida, A;Kawai, N;Maxi Team|The Gas slit camera, GSC, onboard MAXI|2
+2009aaxo.conf...18T|Tomida, H;Matsuoka, M;Kawasaki, K;Ueno, S;Adachi, Y;Kohama, M;Suzuki, M;Ishikawa, M;Katayama, H;Mihara, T;Sugizaki, M;Isobe, N;Tsunemi, H;Miyata, E;Kawai, N;Kataoka, J;Yoshida, A;Yamaoka, K;Negoro, H;Nakajima, M;Ueda, Y;Morii, M;Maxi Team|Solid-state slit camera (SSC) onboard MAXI|2
+2009aaxo.conf...24H|Horike, N;Maeda, K;Ueno, S|The on-board Attitude Determination System for MAXI|2
+2009aaxo.conf...30I|Ishikawa, M;Takahashi, D;Matsuoka, M;Ueno, S;Tomida, H;Katayama, H;Kawasaki, K;Kohama, M;Suzuki, M;Adachi, Y;Mihara, T;Isobe, N;Tsunemi, H;Miyata, E;Yoshida, A;Yamaoka, K;Kawai, N;Kataoka, J;Nakajima, M;Negoro, H;Morii, M;Maxi Team|MAXI Data Downlink and Data Flow on the Ground|1
+2009aaxo.conf...34M|Mizobuchi, S;Iida, M;Ichibakase, A;Nagase, M;Nakamoto, H;Tomoda, M;Hotta, K;Haru, T|The development of the MAXI Monitoring System|0
+2009aaxo.conf...40K|Kohama, M;Mihara, T;Sugizaki, M;Negoro, H;Nakajima, M;Eguchi, S;Tomida, H;Ueno, S;Suzuki, M;Kawasaki, K;Matsuoka, M;Ishikawa, M;Adachi, Y;Kawai, N;Yoshida, A;Miyata, E;Tsunemi, H;Ueda, Y;Morii, M;Maxi Team|MAXI data distribution and archive system|1
+2009aaxo.conf...44E|Eguchi, S;Hiroi, K;Ueda, Y;Sugizaki, M;Tomida, H;Suzuki, M;Maxi Team|MAXI Simulator|7
+2009aaxo.conf...48S|Sugizaki, M;Maxi Software Team|Response Builders of MAXI X-ray Slit Cameras and Simulator|1
+2009aaxo.conf...54H|Hiroi, K;Ueda, Y;Eguchi, S;Maxi Team|MAXI Catalog:Source Detection and Sensitivity|2
+2009aaxo.conf...60N|Negoro, H|MAXI nova alert system and black hole transients|3
+2009aaxo.conf...76F|Fender, R|MAXI, LOFAR and Microquasars -- All-sky monitoring of X-ray binaries in X-rays and radio --|1
+2009aaxo.conf...82E|Ebisawa, K|Galactic Transient Sources with MAXI|1
+2009aaxo.conf...86W|Wijnands, R|Discovering and monitoring sub-luminous X-ray binaries using MAXI|0
+2009aaxo.conf..114M|Morii, M|Suzaku observation of AXP 1E 1841-045 and the future observation in the MAXI era|1
+2009aaxo.conf..120N|Nakagawa, Y;Yoshida, A;Yamaoka, K|New Magnetar Frontiers with MAXI Survey|2
+2009aaxo.conf..166U|Ueda, Y;Hiroi, K;Eguchi, S;Maxi Team|Extragalactic survey with MAXI|1
+2009aaxo.conf..168M|McHardy, I|MAXI and AGN X-ray Variability|0
+2009aaxo.conf..174H|Hayashida, K|Relation between Black Hole Mass and X-ray Variability -- Expectations for MAXI --|0
+2009aaxo.conf..180M|Madjeski, G;Kataoka, J;Sikora, M|MAXI and GLAST studies of Jets in Active Galaxies|1
+2009aaxo.conf..202H|Hayasaki, K;Isobe, N;Sudou, H;Seta, H;Mineshige, S|Probing a Supermassive Binary Black Holes with MAXI|0
+2009aaxo.conf..224S|Suzuki, M;Maxi Team|GRB observations with MAXI|2
+2009aaxo.conf..256M|Miyata, E;Maxi Team|Diffuse Source Mapping with MAXI|0
+2009aaxo.conf..270Y|Yamaguchi, H;Katsuda, S;Hiraga, J;Hayato, A;Tamagawa, T|Study of the Ejecta Distribution in the Vela SNR with MAXI|0
+2009aaxo.conf..288T|Thompson, D;GLAST Lat Collaboration|Science of Compact X-Ray and Gamma-ray Objects: MAXI and GLAST|1
+2009aaxo.conf..348T|Takahashi, I;Uehara, T;Yamazaki, O;Shiraki, T;Kojima, T;Yoshida, A;Nakagawa, Y|Possible coordinate observations by MAXI and the AROMA wide-field optical monitor|0
+2009aaxo.conf..362P|Paul, B;LAXPC Team|ASTROSAT-LAXPC observations of MAXI transient sources|7
+2009atnf.prop.2689F|Fender, R;Tzioumis, A;Kawai, N;Calvelo, D|Circinus X-1: the most relativistic jet source in the galaxy|0
+2009essu.confE..11U|Ueno, S;Matsuoka, M;Kawasaki, K;Tomida, H;Suzuki, M;Ishikawa, M;Adachi, Y;Itamoto, Y;Mihara, T;Kohama, M;Sugizaki, M;Nakagawa, Y;Yamamoto, T;Tsunemi, H;Kimura, M;Kawai, N;Morii, M;Sugimori, K;Yoshida, A;Yamaoka, K;Nakahira, S;Negoro, H;Ishiwata, R;Miyoshi, S;Ozawa, H;Nakajima, M;Ueda, Y;Isobe, N;Eguchi, S;Hiroi, K;Katayaymai, H;Ebisawa, K|The First Light from MAXI|0
+2009rxte.prop95319K|Kaaret, P|Addendum to Core Program 93093, "TIMING of X-Ray BURSTERS"|0
+2009rxte.prop95358Y|Yamaoka, K|RXTE too Observations of Faint X-Ray Sources Discovered by MAXI|0
+2009rxte.prop95371M|McHardy, I|Continued Monitoring of NGC 4051 and MCG-6-30-15|0
+2008AIPC.1000..592S|Suzuki, M;Matsuoka, M;Kawasaki, K;Ueno, S;Tomida, H;Kohama, M;Ishikawa, M;Katayama, H;Mihara, T;Isobe, N;Tsunemi, H;Miyata, E;Negoro, H;Nakajima, M;Kawai, N;Kataoka, J;Yoshida, A;Yamaoka, K;Morii, M|Performance and current status of Monitor of All-sky X-ray Image on the International Space Station|0
+2008AIPC.1085..830K|Kataoka, J;Kawai, N|Status and expected perfomance of the MAXI mission for the JEM/ISS|0
+2008ASPC..394..597N|Negoro, H;Saito, H;Ogasawara, N;Kohama, H;Ueno, S;Tomida, H;Suzuki, M;Ishikawa, M;Matsuoka, M;Morii, M|Performance on Ground Data Processing Systems on MAXI/ISS|3
+2008SPIE.7011E..2NU|Ueno, S;Matsuoka, M;Kawasaki, K;Tomida, H;Adachi, Y;Kohama, M;Suzuki, M;Ishikawa, M;Katayama, H;Mihara, T;Sugizaki, M;Isobe, N;Tsunemi, H;Miyata, E;Kawai, N;Kataoka, J;Yoshida, A;Yamaoka, K;Negoro, H;Nakajima, M;Morii, M;Ueda, Y;Eguchi, S|The MAXI mission operation plan|1
+2008SPIE.7011E..2RT|Tomida, H;Matsuoka, M;Kawasaki, K;Ueno, S;Adachi, Y;Kohama, M;Suzuki, M;Ishikawa, M;Katayama, H;Mihara, T;Sugizaki, M;Isobe, N;Tsunemi, H;Miyata, E;Kawai, N;Kataoka, J;Yoshida, A;Yamaoka, K;Negoro, H;Nakajima, M;Ueda, Y;Eguchi, S;Morii, M|Development status and simulation study of monitor of all-sky x-ray image (MAXI) mission|0
+2008arXiv0810.4801K|Kuiper, L;den Hartog, P;Hermsen, W|Hard X-ray/soft gamma-ray Characteristics of the Persistent Emission from Magnetars|4
+2008bves.confE..15K|Kataoka, J|Characterizing X-ray variability of blazars|1
+2008cosp...37.1473K|Kawai, N|Scientifc perspective of MAXI, an all-sky X-ray monitor on the ISS|0
+2008cosp...37.3255U|Ueno, S|The MAXI mission operation plan|0
+2008rxte.prop94341M|McHardy, I|Continued Monitoring of MCG-6-30-15|0
+2007AIPC..921..440I|Isobe, N;Mihara, T;Kohama, M;Suzuki, M;Matsuoka, M;Ueno, S;Tomida, H;Kawai, N;Kataoka, J;Yoshida, A;Yamaoka, K;Tsunemi, H;Miyata, E;Negoro, H;Nakajima, M;Morii, M|High sensitivity all sky X-ray monitor and survey with MAXI|0
+2007SPIE.6686E..11M|Matsuoka, M;Kawasaki, K;Ueno, S;Tomida, H;Kohama, M;Ishikawa, M;Katayama, H;Suzuki, M;Miyakawa, T;Mihara, T;Isobe, N;Tsunemi, H;Miyata, E;Negoro, H;Nakajima, M;Kawai, N;Kataoka, J;Yoshida, A;Yamaoka, K;Morii, M|An overview of MAXI onboard JEM-EF of the International Space Station|1
+2006AstHe..99..441U|Ueno, S|Monitor of All-sky X-ray Image (MAXI) on the International Space Station|0
+2006SPIE.6266E..3UM|Morii, M;Matsuoka, M;Ueno, S;Tomida, H;Katayama, H;Kawasaki, K;Yokota, T;Kuramata, N;Mihara, T;Kohama, M;Isobe, N;Nakajima, M;Tsunemi, H;Miyata, E;Yoshida, A;Yamaoka, K;Tsuchiya, Y;Miyakawa, T;Kawai, N;Kataoka, J;Tanaka, S;Negoro, H|Development of the collimator response of gas slit camera of MAXI|0
+2006apri.meet..270M|Matsuoka, M;Katayama, H;Kawasaki, K;Kuramata, N;Morii, M;Tomida, H;Ueno, S;Yokota, T;Mihara, T;Isobe, N;Kohama, M;Nakajima, M;Sakurai, I;Fujii, Y;Miyamoto, M;Tsunemi, H;Miyata, E;Kawai, N;Kataoka, J;Yoshida, A;Yamaoka, K;Tsuchiya, Y;Miyakawa, T;Negoro, H|Physics of X-Ray All Sky Monitor and MAXI Mission for the International Space Station|0
+2005SPIE.5898..403T|Tsuchiya, Y;Yoshida, A;Yamaoka, K;Arakuni, T;Miyakawa, T;Matsuoka, M;Ueno, S;Tomida, H;Yokota, T;Kawasaki, K;Kuramata, N;Katayama, H;Morii, M;Mihara, T;Nakajima, M;Isobe, N;Kohama, M;Tsunemi, H;Miyata, E;Kawai, N;Kataoka, J;Negoro, H|Detector response of GSC/MAXI and its expected performance in orbit|0
+2004ASPC..314..452N|Negoro, H;Kohama, M;Mihara, T;Kuramata, N;Tomida, H;Ueno, S;Katayama, H;Matsuoka, M;Serino, Y;Kawai, N;Arakuni, T;Yoshida, A|MAXI Software System: Photon Event Database|2
+2004SPIE.5165..354I|Isobe, N;Matsuoka, M;Ueno, S;Tomida, H;Kawasaki, K;Katayama, H;Mihara, T;Kohama, M;Sakurai, I;Nakajima, M;Kawai, N;Kataoka, J;Yoshida, A;Takahashi, D;Uzawa, M;Tsunemi, H;Miyata, E;Tanaka, I|Observational response of MAXI onboard ISS|2
+2004SPIE.5165..366M|Miyata, E;Kamiyama, D;Kouno, H;Nemesh, N;Tomida, H;Katayama, H;Tsunemi, H;Matsuoka, M|Flight CCD selection for the x-ray CCD camera of the Monitor of All-sky X-ray Image and mission onboard the International Space Station|3
+2004SPIE.5165..375K|Kataoka, J;Serino, Y;Kawai, N;Arakuni, T;Yoshida, A;Uzawa, M;Kohama, M;Sakurai, I;Mihara, T;Negoro, H;Isobe, N;Katayama, H;Kawasaki, K;Kuramata, N;Matsuoka, M;Tomida, H;Ueno, S;Yokota, T;Miyata, E;Nomachi, M;Tsunemi, H|Ground-support electronics for testing the preflight performance of the MAXI-GSC|0
+2004SPIE.5488..197U|Ueno, S;Tomida, H;Isobe, N;Katayama, H;Kawasaki, K;Yokota, T;Kuramata, N;Matsuoka, M;Mihara, T;Sakurai, I;Nakajima, M;Kohama, M;Tsunemi, H;Miyata, E;Kawai, N;Kataoka, J;Serino, Y;Yamamoto, Y;Yoshida, A;Negoro, H|Development status and performance estimation of MAXI|0
+2004SPIE.5501....1K|Katayama, H;Tomida, H;Matsuoka, M;Tsunemi, H;Miyata, E;Kamiyama, D;Nemes, N|Performance of the engineering model of the MAXI/SSC|0
+2003HEAD....7.4908M|Matsuoka, M|Science and Present Status of MAXI on the ISS-JEM|0
+2003ICRC....5.2771K|Kohama, M;Mihara, T;Sajurai, I;Matsuoka, M;Ueno, S;Tomida, H;Isobe, N;Kawai, N;Jataoka, J;Yoshida, A;Negoro, H;Tsunemi, H;Miyata, E|Monitor of All-Sky X-Ray Image(MAXI) Mission|0
+2003SPIE.4851..975H|Hiraga, J;Tsunemi, H;Miyata, E;Kouno, H;Miyaguchi, K;Fukuda, M;Mihara, M;Matsuta, K;Tanaka, K;Minamisono, T|Which part of the pixel is sensitive against the proton onto the CCD|0
+2003SPIE.4851..993T|Tomida, H;Matsuoka, M;Ueno, S;Miyata, E;Tsunemi, H;Tanaka, I|Cosmic-ray background simulation for the CCD camera (SSC) of the MAXI mission onboard the International Space Station|1
+2003SPIE.4851.1080M|Miyata, E;Kouno, H;Kamazuka, T;Fukuda, M;Mihara, M;Matsuta, K;Tanaka, K;Tsunemi, H;Minamisono, T;Tomida, H;Miyaguchi, K|Radiation damage test of the x-ray CCDs for MAXI onboard the International Space Station|2
+2002SPIE.4497...11M|Miyata, E;Natsukari, C;Kamazuka, T;Kouno, H;Tsunemi, H;Matsuoka, M;Tomida, H;Ueno, S;Hamaguchi, K;Tanaka, I|Developments of CCDs and relevant electronics for the x-ray CCD camera of the MAXI experiment onboard the International Space Station|2
+2002SPIE.4497..173M|Mihara, T;Kawai, N;Yoshida, A;Sakurai, I;Kamae, T;Matsuoka, M;Shirasaki, Y;Sugizaki, M;Yuan, W;Tanaka, I|Performance of the GSC engineering counter for MAXI/ISS|6
+2002STIN...0294265M|Madejski, G|Synergy Between Observations of AGN with GLAST and MAXI|0
+2002nmgm.meet.2453Y|Yoshida, A|The MAXI Experiment|0
+2001AAS...198.7406D|Donley, J;Brandt, W;Eracleous, M;Boller, T|Large-Amplitude X-ray Outbursts from Galactic Nuclei: A Systematic Study Using ROSAT Archival Data|0
+2001ASPC..251..552K|Kamazuka, T;Natsukari, C;Miyata, E;Tsunemi, H;Tomida, H;Matsuoka, M;Ueno, S;Sakano, M;Jobashi, M;Tanaka, I|Development of the Engineering Model of the X-ray CCD Camera of MAXI Experiment on the ISS/JEM|0
+2001ASPC..251..566M|Mihara, T;Kawai, N;Yoshida, A;Negoro, H;Sakurai, I;Matsuoka, M;Ueno, S;Sugizaki, M;Shirasaki, Y;Yuan, W;Tsunemi, H;Miyata, E|Gas Slit Camera of MAXI Experiment on ISS/JEM|0
+2001ASPC..251..598U|Ueno, S;Matsuoka, M;Komatsu, S;Torii, K;Sugizaki, M;Tomida, H;Shirasaki, Y;Sakano, M;Yuan, W;Kawai, N;Yoshida, A;Mihara, T;Negoro, H;Tsunemi, H;Miyata, E|The Status of the MAXI Project for ISS: Monitor of All-sky X-ray Image|0
+2001ASPC..251..604Y|Yuan, W;Matsuoka, M;Shirasaki, Y;Ueno, S;Tomida, H;Kawai, N;Yoshida, A;Mihara, T;Negora, H;Tsunemi, H;Miyata, E|Simulations of Observations of the Monitor of All-sky X-ray Image (MAXI) on the International Space Station|0
+2001astro.ph..7393M|Madejski, G;Sikora, M;Kamae, T|Synergy Between Observations of AGN with GLAST and MAXI - Detecting X-ray Precursors of Gamma-ray Flares in Blazars|0
+2001astro.ph..7445S|Sakano, M;Tomida, H;Matsuoka, M;Ueno, S;Komatsu, S;Shirasaki, Y;Sugizaki, M;Torii, K;Yuan, W;Miyata, E;Tsunemi, H;Kamazuka, T;Natsukari, C;Jobashi, M;Tanaka, I;Kawai, N;Mihara, T;Negoro, H;Yoshida, A|SSC of MAXI experiment|0
+2000AIPC..504..181M|Mihara, T;Matsuoka, M;Kawai, N;Yoshida, A;Tsunemi, H;Miyata, E;Negoro, H;Torii, K;Ueno, S;Sugizaki, M;Tomida, H;Sakurai, I;Shirasaki, Y;Yamauchi, M|Monitor of All-sky X-ray Image (MAXI)|2
+2000AIPC..526..691K|Kawai, N;Yoshida, A;Mihara, T;Negoro, H;Shirasaki, Y;Sakurai, I;Matsuoka, M;Torii, K;Ueno, S;Sugizaki, M;Tomida, H;Yuan, W;Tsunemi, H;Miyata, E;Yamauchi, M|Observations of gamma-ray bursts with MAXI on the international space station|0
+2000SPIE.4012..178T|Tomida, H;Matsuoka, M;Ueno, S;Torii, K;Sugizaki, M;Yuan, W;Komatsu, S;Shirasaki, Y;Kawai, N;Yoshida, A;Mihara, T;Sakurai, I;Negoro, H;Tsunemi, H;Miyata, E;Yamauchi, M;Tanaka, I|The MAXI mission on the International Space Station|1
+2000SPIE.4012..186M|Miyata, E;Natsukari, C;Akutsu, D;Ohtani, M;Tsunemi, H;Matsuoka, M;Kawai, N|Performance and calibration of the x-ray CCD camera of the MAXI experiment on the ISS/JEM|1
+2000SPIE.4140..304T|Tomida, H;Matsuoka, M;Torii, K;Ueno, S;Sugizaki, M;Yuan, W;Shirasaki, Y;Sakano, M;Komatsu, S;Tsunemi, H;Miyata, E;Kawai, N;Yoshida, A;Mihara, T;Tanaka, I|Solid state slit camera (SSC) of the MAXI mission for JEM (Japanese Experiment Module) on the International Space Station (ISS)|0
+2000SPIE.4140..511S|Sakurai, I;Mihara, T;Kawai, N;Yoshida, A;Shirasaki, Y;Matuoka, M;Sugizaki, M;Kamae, T|Dependence of gas gain on x-ray-absorbed position in the proportional counter|0
+2000bbxs.conf..897M|Mihara, T;Matsuoka, M;Kawai, N;Yoshida, A;Kotani, T;Negoro, H;Kubo, H;Shirasaki, Y;Rubin, B;Torii, K;Tsunemi, H;Kitamoto, S;Hayashida, K;Miyata, E;Yoshita, K;Yamauchi, M|MAXI (Monitor of All-Sky X-Ray Image) for JEM on the International Space Station|0
+1999AIPC..458..163M|Matsuoka, M;Kawai, N;Mihara, T;Yoshida, A;Tsunemi, H;Miyata, E;Torii, K;Kotani, T;Kubo, H;Matsumoto, H;Negoro, H;Rubin, B;Sakurai, I;Shirasaki, Y;Hayashida, K;Kitamoto, S;Yamauchi, M|MAXI mission for the space station|1
+1999SPIE.3765..636T|Torii, K;Matsuoka, M;Sugizaki, M;Tomida, H;Ueno, S;Yuan, W;Kawai, N;Mihara, T;Yoshida, A;Tsunemi, H;Miyata, E;Negoro, H;Sakurai, I;Shirasaki, Y;Akutsu, D;Hayashida, K|X-ray detectors and calibration system for the MAXI mission|1
+1997AAS...190.1606M|Matsuoka, M;Kawai, N;Kotani, T;Mihara, T;Rubin, B;Shimizu, H;Yoshida, A;Tsunemi, H;Hayashida, K;Kitamoto, S;Yoshita, K|MAXI (Monitor of All-sky X-ray Image) for JEM on the Space Station|0
+1997SPIE.3114..414M|Matsuoka, M;Kawai, N;Mihara, T;Yoshida, A;Kubo, H;Kotani, T;Negoro, H;Rubin, B;Shimizu, H;Tsunemi, H;Hayashida, K;Kitamoto, S;Miyata, E;Yamauchi, M|MAXI (monitor of all-sky x-ray image) for JEM on the Space Station|20
+1997asxo.proc..279K|Kawai, N;Kotani, T;Kubo, H;Matsuoka, M;Mihara, T;Negoro, H;Rubin, B;Shimizu, H;Yoshida, A;Yamauchi, M;Tsunemi, H;Hayashida, K;Kitamoto, S;Miyata, E;Torii, K;Yoshita, K|X-ray All-Sky Monitor on JEM of the Space Station - MAXI (Monitor of All-sky X-ray Image)|2
+1997yCat..41240291N|Niarchos, P;Hoffmann, M;Duerbeck, H|VizieR Online Data Catalog: Photometry of V700 Cyg and AW Vir (Niarchos+ 1997)|0
+1996SPIE.2808..555K|Kawai, N;Matsuoka, M;Yoshida, A;Tsunemi, H|X-ray transient monitor for JEM on the International Space Station|3
+1991SPIE.1549....2M|Matsuoka, M;Yamauchi, M;Nakamura, H;Kondo, M;Kawai, N;Yoshida, A;Imai, T|One-dimensional proportional counters for x-ray all-sky monitors|1
+1990ASSL..166..463M|Matsuoka, M;Kawai, N;Imai, T;Yamauchi, M;Yoshida, A;Kohno, T;Yoneda, A;Tsunemi, H|An X-Ray all Sky Monitor for a Japanese Experimental Module on the Space Station|0
+1989AGAb....2....8B|Brauninger, H;Pietsch, W;Predehl, P;Reppin, C;Struder, L;Trumper, J;Kendziorra, E;Staubert, R;Lutz, G|MAXI - a new X-ray CCD camera.|0
+1989STIN...9016234S|Strueder, L;Braeuninger, H;Meier, M;Predehl, P;Reppin, C;Sterzik, M;Truemper, J;Cattaneo, P;Hauff, D;Lutz, G|The MPI/AIT X ray Imager (MAXI): High speed PN-CCD's for x ray detection|0

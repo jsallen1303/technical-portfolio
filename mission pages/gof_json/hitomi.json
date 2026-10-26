@@ -1,0 +1,73 @@
+{
+    "title": "Hitomi",
+    "name": "Hitomi",
+    "gofsidebar" : "Past",
+    "decade" : 2010,
+    "alttext": "Visualization of the Hitomi satellite",
+    "imagesize": 288,
+    "imageurl": "/docs/hitomi/images/astrohspacecraft_sm.jpg",
+    "descript": "<p><b><font size=\"+2\">T</font>he Hitomi</b> (formerly Astro-H, known also as Next, New X-ray Telescope) satellite was a Japanese astronomy mission working in the X-ray / Gamma-ray energy range. Though led by the Japan Aerospace Exploration Agency (ISAS/JAXA), it was an international mission: major components and instruments were provided or co-developed with NASA/GSFC, the European Space Agency (ESA), the Netherlands Institute for Space Research (SRON), the Canadian Space Agency (CSA), and Japanese, U.S., and European institutions.</p>\n\n<p>Hitomi was equipped with four different instruments that together covered a wide energy range 0.3&ndash;600 keV with imaging capability up to 80 keV and a gamma ray detector for the high energy. An X-ray microcalorimeter provided a 7 eV non-dispersive resolution was used in conjunction with an imaging telescope (0.3&ndash;12 keV).</p>\n\n<p>Hitomi was launched by JAXA aboard a H-IIA rocket into low earth orbit on February 17, 2016 from the Tanegashima Space Center in Japan. The mission was in initial checkout when, on March 27, JAXA lost communications with the satellite. On April 28, 2016, efforts to reconnect with the mission were discontinued.</p>\n\n<p>The Hitomi soft X-ray detectors (SXI and SXS) are duplicated in the <a class=\"usa-link\" href=\"/docs/xrism/\">XRISM</a> (formerly XARM) mission.</p>",   
+    "lifetime": "17 Feb&ndash;27 Mar 2016",
+    "features": [
+	"Equipped with a &ldquo;hyperspectral&rdquo; X-ray microcalorimeter",
+	"Imaging spectrometer above 10 keV"
+    ],
+    "instruments": [
+	{
+	    "name" : "Soft X-ray Spectrometer (SXS)",
+	    "length" : "5.6 m",
+	    "energy" : "0.3&ndash;12 keV",
+	    "resolution" : "&lt;1.3&prime;",
+	    "fov" : "3&prime; &times; 3&prime;",
+	    "area" : "210 cm<sup>2</sup> at 6 keV<br>160 cm<sup>2</sup> at 1 keV",
+	    "energy_resolution" : "&lt;7 eV at 6 keV",
+	    "descript" : "The unit consisted of a Soft X-ray Telescope paired with a a 6 pixel &times; 6 pixel X-ray Calorimeter Spectrometer (XCS). There were 35 active pixels in the main array, with one inactive corner pixel. The XCS was enclosed in a Dewar cooling the detector at 50mK. A gate valve placed on top of the dewar protected the detector during initial operation and was removed in normal operation.</p>\n\n<p>A six filter wheel, mounted at 90 cm from the XCS, was used in normal operation mode. The six wheel positions included two empty positions (i.e. no filter), a position with radioactive <sup>55</sup>Fe calibration source, Be and neutral density (ND) filters for X-ray attenuation, and a polyimide filter.</p>\n\n<p>A Modulation X-ray Source (MXS) was mounted below the filter wheel. When turned on, it illuminated the entire detector to calibrate the energy scale. It consisted of 4 LEDs operating in pair with targets composed of Cu/Cr and Al/Mg."
+	},
+	{
+	    "name" : "Soft X-ray Imager (SXI)",
+	    "length" : "5.6 m",
+	    "energy" : "0.4&ndash;12 keV",
+	    "resolution" : "&lt;1.3&prime;",
+	    "fov" : "38&prime; &times; 38&prime;",
+	    "area" : "360 cm<sup>2</sup> at 6 keV",
+	    "energy_resolution" : "&lt;200 eV at 6 keV",
+	    "descript" : "The unit consisted of a Soft X-ray Telescope (identical to that for the SXS) paired with 4 CCDs in 2 &times; 2 configuration. Each CCD was an array of 640 &times; 640 pixels."
+	},
+	{
+	    "name" : "Hard X-ray Imagers (HXI)",
+	    "length" : "12 m",
+	    "energy" : "3&ndash;80 keV",
+	    "resolution" : "1.7&prime;",
+	    "fov" : "9&prime; &times; 9&prime;",
+	    "area" : "300 cm<sup>2</sup> at 30 keV",
+	    "energy_resolution" : "2 keV at 60 keV",
+	    "descript" : "There were two HXI units. Each consisted of a Hard X-ray telescope (HXT) paired with a Si/CsTe detector (four layers of Silicon and one layer of CsTe) placed in a extendable optical bench (EOB).</p>\n\n<p>The HXI system was supported by the Canadian ASTRO-H Metrology System (CAMS, one for each HXI unit) to provide real-time measurements of relative displacement between the HXT optical axis and the detector placed in the EOB. Each CAMS unit consisted of : (1) a laser and detector module located on the top plate of the FOB (where the SXI and SXS detector are located), and (2) a passive target module mounted on the EOB detector plate."
+	},
+	{
+	    "name" : "Soft Gamma Ray Detectors (SGD)",
+	    "energy" : "40&ndash;600 keV",
+	    "fov" : "0.65&deg; &times; 0.65&deg;",
+	    "area" : "&gt;20 cm<sup>2</sup> at 100 keV in Compton Mode",
+	    "energy_resolution" : "&lt;4 keV at 60 keV",
+	    "descript" : "There were two SGD units. Each consisted of three identical Compton Cameras (CC) surrounded by active shields. Each CC used a stack of 32 layers of Si sensors and 8 layers of CdTe sensors surrounded by 2 layers of CdTe sensors on each of the 4 sides."
+	}
+    ],
+    "highlights": [
+	"Detailed insights into hot gas structure in the Perseus Cluster, revealing an unexpected quiet environment with little turbulence at the heart of the cluster"
+    ],
+    "archive": "The HEASARC hosts calibration data, a master catalog, and observation data",
+    "navigation": [
+	{
+	    "url" : "https://heasarc.gsfc.nasa.gov/docs/hitomi/",
+	    "text" : "Hitomi at HEASARC"
+	},
+	{
+	    "url" : "https://darts.isas.jaxa.jp/en/missions/hitomi",
+	    "text" : "Hitomi at DARTS (Japan)"
+	},
+	{
+	    "url" : "https://heasarc.gsfc.nasa.gov/docs/hitomi/gallery/",
+	    "text" : "Gallery"
+	}
+    ]
+}

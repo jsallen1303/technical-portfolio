@@ -1,0 +1,17 @@
+1997IAUJD...2E..28W|Weinberger, R;Saurer, W;Gajdovsik, M|CAS 1, a New Nearby Dwarf Irregular Galaxy andits Highly Excited Emission Nebula|0
+1994AAS...18511607G|Grindlay, J;Barret, D;Bloser, P;Garcia, M;McClintock, J;Zhao, P;Zhang, S;Harmon, A;Paciesas, W;Ford, E;Kaaret, P;Tavani, M|Search for Faint Black Hole Transients: Results for EXO1846-031|0
+1991RpScT...6...10K|Kurt, V;Shafer, Y|Results from study of X ray pulsars by Astron Observatory|0
+1990IAUC.5038....2B|Blanco, C;Mammano, A;Margoni, R|V725 Tauri|0
+1987IAUC.4368....3G|Giovannelli, F;Kurt, V;Sheffer, E|A0535+26|5
+1986IAUC.4284....2G|Giovannelli, F;Kurt, V;Sheffer, E|A0535+26|5
+1986INTSA..31..198B|Boiarchuk, A|Ultraviolet telescope aboard the "Astron" station.|1
+1985AbaOB..58..239G|Gnedin, I|Simultaneous X-ray, optical and infrared observations of X-ray binaries.|1
+1984RpSpR...2...47K|Kurt, V;Sheffer, Y|Astron X-ray experiment|0
+1984VeSSR...8...20K|Kurt, V|X-ray experiment aboard the Astron station.|0
+1984heac.conf..539G|Golinskaya, I;Diachkov, A;Kurt, V;Miziakina, T;Smirnov, A;Shamolin, V;Shafer, E;Sheffer, E|The X-Ray Experiment On-Board the Astron|0
+1984turk.reptS...1B|Boyarchuk, A|The Spacecraft Astron for Ultraviolet and X-Ray Observations|0
+1983RpSpR..24...26Z|Zubkov, V|Research areas for Astron Observatory satellite|0
+1983RpSpR..24...29K|Konovalov, B|Astron station begins research program|0
+1978IAUC.3298....2C|Crampton, D;Cowley, A|V1341 Cygni|0
+1978IBVS.1395....1R|Rossiger, S|Observations of HDE 245770 during the Recent X-Ray Flare-Up of its Counterpart A0535+26|7
+1976IAUC.2959....3S|Sagdeev, R;Melioranskij, A|X-Ray Bursts|9

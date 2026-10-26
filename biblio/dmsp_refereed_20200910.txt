@@ -1,0 +1,11 @@
+1995AdSpR..16j.155A|Armstrong, R;Brodzik, M|An earth-gridded SSM/I data set for cryospheric studies and global change monitoring|91
+1992P&SS...40.1513A|Akasofu, S;Meng, C;Makita, K|Changes of the size of the open field line region during substo rms|13
+1991Ge&Ae..31..405B|Beloglazov, M;Beloglazova, G;Vasheniuk, E;Shumilov, O|Zones of intrusion of solar cosmic rays into the polar caps during the anisotropic event of February 16, 1984.|0
+1991ITNS...38.1671G|Gussenhoven, M;Mullen, E;Brautigam, D;Holeman, E|Dose variation during solar minimum|10
+1989ITNS...36.2008G|Gussenhoven, M;Mullen, E;Holeman, E|Radiation belt dynamics during solar minimum|30
+1988ITNS...35.1412G|Gussenhoven, M;Brautigam, D;Mullen, E|Characterizing solar flare high energy particles in near-earth orbits|9
+1987ITNS...34.1251M|Mullen, E;Gussenhoven, M;Lynch, K;Brautigam, D|DMSP dosimetry data: A space measurement and mapping of upset causing phenomena|2
+1984AdSpR...4..511T|Thiemann, H;Singh, N;Schunk, R|Some features of auroral electric fields as seen in 2D numerical simulations|9
+1983JGR....88.4005N|Nakai, H;Kamide, Y|Response of nightside auroral-oval boundaries to the interplanetary magnetic field|26
+1980SoPh...67..189S|Sheeley, N;Howard, R|The equatorial latitude of auroral activity during 1972 1977|3
+1978JGR....83.5573M|Mizera, P;Luhmann, J;Kolasinski, W;Blake, J|Correlated observations of auroral arcs, electrons, and x rays from a DMSP satellite|37

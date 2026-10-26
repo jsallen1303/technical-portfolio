@@ -1,0 +1,52 @@
+{
+  "title": "The Phobos 2 Mission to Mars",
+    "name": "Phobos 2",
+    "decade" : 1980,
+  "alttext": "artist concept of Phobos mission at Phobos with Mars in the background",
+  "imagesize": 300,
+  "imageurl": "/Images/phobos/phobos_1_small.gif",
+    "descript": "<p><b><font size=\"+2\">T</font>he Phobos 2</b> mission was launched on 12 July 1988 from Baykonur Cosmodrome. The primary objective of the mission, as with its sister probe Phobos 1, was to explore the larger of Mars&rsquo; two moons, Phobos. In addition to instrumentation to explore the Martian satellites, Phobos 2 also carried instruments to study the Sun, Mars, the interplanetary medium, and gamma-ray burst sources.</p>\n\n<p>The Phobos 2 spacecraft arrived at Mars on 30 January 1989, but was lost while maneuvering in Martian orbit to encounter Phobos on 27 March 1989. The loss was traced to either a failure of the on-board computer or of the radio transmitter (which was already operating on the backup power system).</p>",
+    "lifetime": "12 Jul 1988&ndash;30 Jan 1989",
+    "features": [
+	"Originally, both Phobos spacecraft were to carry identical instrument payloads. Mass limitations required some tradeoffs so that certain instruments were carried by only one spacecraft. Phobos 2 carried a total of 25 instruments. Of those, a few were high energy detectors."
+    ],
+    "instruments": [
+	{
+	    "name" : "APEX gamma-ray emission spectrometer",
+	    "energy" : "0.3&ndash;6 MeV",
+	    "descript" : "The APEX spectrometer was designed to detect and analyze gamma-ray emissions, particularly from cosmic gamma-ray bursts.  The APEX experiment was a collaboration between Soviet and French scientists to obtain spectra for high-energy burst events."
+	},
+	{
+	    "name" : "Low-energy Interplanetary and Lunar Astrophysical Spectrometer (LILAS)",
+	    "energy" : "&sim;10 keV &ndash; &sim;1 MeV",
+	    "temporal_resolution" : "milliseconds to seconds",
+	    "descript" : "LISAS (some times translated from Russian as &ldquo;Low Energy Gamma Ray Burst Detector&rdquo;) was a collaboration between Institut de Recherche en Astrophysique et Planétologie (IRAP, France) and Soviet scientists. The instrument use NaI(Tl) scintillation crystals with photomultiplier tubes to look for GRBs, examining somewhat lower energy range than most comtemporary burst detectors (including the VGS detector (below))."
+	},
+	{
+	    "name" : "RF-15 X-ray Spectrometer",
+	    "energy" : "&sim;1&ndash;20 keV",
+	    "energy_resolution" : "&sim;15&ndash;20% at 6 keV",
+	    "descript" : "The RF-15 instrument used gas-filled proportional counters to montitor solar X-ray flux and the interplanetary soft X-ray background. The field of view was defined by a collimator and usually was directed at the Sun. High time resolution allowed the instrument to capture details of rapid solar X-ray variations."
+	},
+	{
+	    "name" : "Vysokoye Energeticheskoye Glavnoe (VGS)",
+	    "temporal_resolution" : "milliseconds",
+            "energy" : "&sim;0.1&ndash;10 MeV",
+	    "descript" : "VGS translates as &ldquo;High Energy Burst Detector&rdquo;. The instrument focused on the medium to high energy range, complementing APEX (for high resolution spectra) and LILAS (low energy coverage). It was a Soviet collaboration between SNIIEM and IKI and used NaI(Tl) and CsI scintillation crystals with no collimator to obtain broad sky coverage."
+	}
+    ],
+    "highlights": [
+	"Due to the loss of the spacecraft, much of the original science objectives were not met. However, the two months of data which were obtained did yield a number of important results. These are summarized in <a class=\"usa-link\" href=\"https://ui.adsabs.harvard.edu/abs/1990S%26T....79..156G/abstract\">Goldman (1990)</a>."
+    ],
+  "archive": "",
+  "navigation": [
+    {
+      "url": "images/phobos_images.html",
+      "text": "Gallery"
+    },
+    {
+      "url": "biblio/phobos2_biblio.html",
+      "text": "Publications"
+    }
+  ]
+}

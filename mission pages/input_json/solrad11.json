@@ -1,0 +1,33 @@
+{
+    "title": "The Solrad 11A/B satellites",
+    "name": "Solrad 11A/B",
+    "alttext": "photo of Solrad 11A/B in the clean room",
+    "imagesize": 300,
+    "imageurl": "/Images/misc_missions/solrad11_small.jpg",
+    "descript": "<p> <b><font size=\"+2\">S</font>olrad 11A and 11B</b> were launched together on 15 March 1976, and positioned &sim;180 degrees apart at an altitude of &sim;20 Earth radii. The two satellites each carried an identical complement of 25 experiments to measure solar electromagnetic and charged particle emissions, Earth auroral and stellar X-ray emission, terrestrial and interplanetary extreme ultraviolet emission, X-ray and charged particle emission from the anti-solar direction, and gamma-ray bursts. The modest gamma-ray burst monitors were added to the almost completed Solrad 11A and 11B satellites. This last minute addition was accomplished through cooperation between Los Alamos National Laboratory and the Naval Research Laboratory after the Vela results became known. 11B ceased telemetry transmission in December 1976. 11A continued to operate sporadically until July 1977. </p>",
+    "decade": 1970,
+    "lifetime": "Mar 1976&ndash;Jul 1977",
+    "features": [""],
+    "instruments": [
+	{
+	    "name" : "Gamma Ray Burst Instrument",
+	    "energy" : "0.2&ndash;2.0 MeV",
+	    "temporal_resolution" : "0.3&ndash;117.2 ms",
+            "descript" : "The gamma-ray burst instrument on each satellite was roughly omnidirectional. Each consisted of a pair of 1.5 inch &times; 1.5 inch CsI scintillation detectors. A total average count rate during any 0.625 s interval greater than 7-sigma above background triggered the system. Data for the burst, including 0.6 s of pre-trigger data, could have the temporal information recorded in either of 2 ways: for count rates below 1092 ct/s, the total number of counts accumulated in 14.65 ms was recorded. For count rates greater than 1092 ct/s, the time interval required to record 16 counts was recorded with 0.3 ms resolution. There were 4 spectral channels: 0.2&ndash;0.3, 0.3&ndash;0.4, 0.4&ndash;0.6, and 0.6&ndash;2.0 MeV. The spectral channels were read every 8 time accumulations. Thus these spectral accumulation times ranged from 2.4 to 117.2 ms. No in-flight calibration was available: The spectral data could be used to search for variability, but not to obtain spectral shapes."	    
+	}
+    ],
+    "highlights": [
+	"The 2 gamma-ray burst instruments recorded a total of 9 gamma-ray bursts. Eight of these were seen by at least 1 Vela satellite, thus verifying the events. Four of the events were also seen by Helios-2."
+    ],
+  "archive": "",
+  "navigation": [
+    {
+      "url": "images/solrad_images.html",
+      "text": "Gallery"
+    },
+    {
+      "url": "biblio/solrad_biblio.html",
+      "text": "Publications"
+    }
+  ]
+}

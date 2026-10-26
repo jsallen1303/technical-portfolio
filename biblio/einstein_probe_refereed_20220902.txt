@@ -1,0 +1,27 @@
+2022APh...13702668Z|Zhang, J;Qi, L;Yang, Y;Wang, J;Liu, Y;Cui, W;Zhao, D;Jia, S;Li, T;Chen, T;Li, G;Zhao, X;Chen, Y;Liu, H;Bao, C;Guan, J;Song, L;Yuan, W|Estimate of the background and sensitivity of the follow-up X-ray telescope onboard Einstein Probe|0
+2022ApJ...927..224S|Sun, H;Liu, H;Pan, H;Liu, Z;Alp, D;Hu, J;Li, Z;Zhang, B;Yuan, W|Luminosity Function and Event Rate Density of XMM-Newton-selected Supernova Shock Breakout Candidates|1
+2022ApJ...934..104Y|Yao, Y;Ho, A;Medvedev, P;Nayana, A;Perley, D;Kulkarni, S;Chandra, P;Sazonov, S;Gilfanov, M;Khorunzhev, G;Khatami, D;Sunyaev, R|The X-Ray and Radio Loud Fast Blue Optical Transient AT2020mrf: Implications for an Emerging Class of Engine-driven Massive Star Explosions|7
+2022NIMPA103066465C|Chen, C;Wang, Y;Xu, Y;Zhao, Z;Qiu, H;Hou, D;Yang, X;Ma, J;Chen, Y;Zhao, Y;Liu, H;Zhao, X;Zhu, Y|Performance of a focal plane detector for soft X-ray imaging spectroscopy based on back-illuminated sCMOS|0
+2021ApJ...906L..11Z|Zhu, J;Zhang, B;Yu, Y;Gao, H|Neutron Star Mergers in Active Galactic Nucleus Accretion Disks: Cocoon and Ejecta Shock Breakouts|29
+2021OptEn..60b5102Z|Zhu, Y;Lu, J;Yang, Y;Cong, M;Sheng, L;Qiang, P;Cui, W;Zhang, Z;Wang, Y;Han, D;Li, W;Wang, J;Huo, J;Li, M;Zhao, X;Yu, N;Song, Z;Ma, J;Lv, Z;Zhao, Z;Wang, H;Hou, D;Chen, C;Chen, T;Yang, X;Luo, L;Lu, B;Xu, J;Chen, Y;Chen, Y|Optical design and simulation of Einstein Probe satellite follow-up x-ray telescope|0
+2021RAA....21..308L|Liu, M;Tong, H;Hu, Y;Chan, M;Liu, Z;Sun, H;Hendry, M|Following up the afterglow: strategy for X-ray observation triggered by gravitational wave events|2
+2020ApJ...894...52X|Xie, W;Zou, L;Liu, H;Wang, S;Liang, E|Magnetar as Central Engine of Gamma-Ray Bursts: Quasi-universal Jet, Event Rate, and X-Ray Luminosity Function of Dipole Radiations|2
+2019AN....340..351S|Saxton, R;Motch, C;Komossa, S;Lira, P;Read, A;Alexander, K;Descalzo, M;Koenig, O;Freyberg, M|Tidal disruption events: Past, present, and future|4
+2019ApJ...881L..40S|Song, H;Ai, S;Wang, M;Xing, N;Gao, H;Zhang, B|Viewing Angle Constraints on S190425z and S190426c and the Joint Gravitational-wave/Gamma-Ray Detection Fractions for Binary Neutron Star Mergers|15
+2019ApJ...885....1W|Wiktorowicz, G;Wyrzykowski, L;Chruslinska, M;Klencki, J;Rybicki, K;Belczynski, K|Populations of Stellar-mass Black Holes from Binary Systems|30
+2019MNRAS.487.4721Y|Yang, G;Brandt, W;Zhu, S;Bauer, F;Luo, B;Xue, Y;Zheng, X|Searching for fast extragalactic X-ray transients in Chandra surveys|8
+2018ApJ...853L..13W|Wang, X;Huang, Z|Early Soft X-Ray to UV Emission from Double Neutron Star Mergers: Implications from the Long-term Observations of GW170817|8
+2018SSPMA..48c9501Y|Yuan, W|Special Topic of Einstein Probe: Exploring the Dynamic X-ray Universe|0
+2018SSPMA..48c9502Y|Yuan, W;Zhang, C;Chen, Y;Sun, S;Zhang, Y;Cui, W;Ling, Z;Huang, M;Zhao, D;Wang, W;Qiu, Y;Liu, Z;Pan, H;Cai, H;Deng, J;Jia, Z;Jin, C;Sun, H;Hu, H;Liu, F;Zhang, M;Song, L;Lu, F;Jia, S;Li, C;Zhao, H;Ge, M;Zhang, J;Cui, W;Wang, Y;Wang, J;Sun, X;Jin, G;Li, L;Chen, F;Cai, Z;Guo, T;Liu, G;Liu, H;Feng, H;Zhang, S;Zhang, B;Dai, Z;Wu, X;Gou, L|Einstein Probe: Exploring the ever-changing X-ray Universe|14
+2018SSPMA..48c9506D|DENG, J;WANG, X|On the detection of shock breakouts of core-collapse supernovae with the Einstein Probe satellite|0
+2018SSPMA..48c9508X|Xue, Y;Shu, X;Zhou, X;Zhang, J;Wu, X;Ackwang, J;Wang, T;Yuan, F;Luo, B;Pan, H|Einstein Probe's scientific opportunities in the field of active galactic nuclei|1
+2018SSPMA..48c9510W|WANG, Z;XU, R;LI, X;XING, Y|Detecting magnetars with Einstein Probe|0
+2018SSPMA..48c9511X|XU, X|Einstein Probe: Application on the observation ofcataclysmic variables|0
+2018SSPMA..48c9512L|LI, Z|Probing dark matter signals with Einstein Probe|0
+2017ApJ...835....7S|Sun, H;Zhang, B;Gao, H|X-Ray Counterpart of Gravitational Waves Due to Binary Neutron Star Mergers: Light Curves, Luminosity Function, and Event Rate Density|44
+2017ApJ...846..142K|Kisaka, S;Ioka, K;Sakamoto, T|Bimodal Long-lasting Components in Short Gamma-Ray Bursts: Promising Electromagnetic Counterparts to Neutron Star Binary Mergers|38
+2016SSRv..202..235Y|Yuan, W;Amati, L;Cannizzo, J;Cordier, B;Gehrels, N;Ghirlanda, G;Gotz, D;Produit, N;Qiu, Y;Sun, J;Tanvir, N;Wei, J;Zhang, C|Perspectives on Gamma-Ray Burst Physics and Cosmology with Next Generation Facilities|19
+2015ApJ...803...36D|Donnarumma, I;Rossi, E|Radio-X-Ray Synergy to Discover and Study Jetted Tidal Disruption Events|12
+2015ApJ...809L...8K|Kisaka, S;Ioka, K;Nakamura, T|Isotropic Detectable X-Ray Counterparts to Gravitational Waves from Neutron Star Binary Mergers|25
+2006PhDT.........9K|Kim, J|The millimeter-wave bolometric interferometer (MBI) for observing the cosmic microwave background polarization|0
+2005NewAR..49..436G|Grindlay, J|EXIST: All-sky hard X-ray imaging and spectral-temporal survey for black holes [review article]|20

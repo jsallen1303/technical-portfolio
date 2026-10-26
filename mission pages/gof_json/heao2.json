@@ -1,0 +1,92 @@
+{
+    "title": "Einstein Observatory (HEAO-2)",
+    "name": "The Einstein Observatory (HEAO-2)",
+    "alttext": "Artistic conception of HEAO-2 in orbit",
+    "imagesize": 131,
+    "imageurl": "/Images/heao2/heao2_sat.jpg",
+    "descript": "<p><b><font size=\"+2\">T</font>he High Energy Astrophysical Observatory 2 (HEAO-2)</b>, renamed <b>Einstein</b> after launch, was the first fully imaging X-ray telescope put into space. It was the second of NASA&rsquo;s three HEAO mission. The few arcsecond angular resolution, the field-of-view of tens of arcminutes, and a sensitivity several 100 times greater than any mission before it provided, for the first time, the capability to image extended objects, diffuse emission, and to detect faint sources. It was also the first X-ray NASA mission to have a Guest Observer program.</p>\n\n<p>Overall, it was a key mission in X-ray astronomy and its scientific outcome completely changed the view of the X-ray sky.</p>",
+    "decade" : 1970,
+    "gofsidebar" : "Past",
+    "lifetime": "12 Nov 1978&ndash;Apr 1981",
+    "features": [
+	"The first imaging X-ray telescope in space."
+    ],
+    "instrument_preamble" : "A Wolter Type I grazing incidence telescope with instruments that were rotated, one at a time, into the focal plane. The four instruments served by the telescope were the IPC, HRI (with or without the OGS grating), SSS, and FPCS. A proportional counter (MPC) with no optics was co-aligned with the telescope.",
+    "instruments": [
+	{
+	    "name" : "Imaging Proportional Counter (IPC)",
+	    "energy" : "0.4&ndash;4.0 keV",
+	    "resolution" : "&sim;1&prime;",
+	    "fov" : "75&prime; &times; 75&prime;",
+	    "area" : "100 cm<sup>2</sup>",
+	    "time_resolution" : "63 ms",
+	    "descript" : "The IPC was a position sensitive proportional counter which provided good efficiency and full focal plane coverage, with moderate spatial and spectral resolution. There were 2 such assemblies on Einstein, identical except for the entrance window material. The IPC had a background count rate was &sim;10<sup>-2</sup> ct/sec."
+	},
+	{
+	    "name" : "High Resolution Imager (HRI)",
+	    "energy" : "0.15&ndash;3.0 keV",
+	    "resolution" : "&sim;2&Prime;",
+	    "fov" : "25&prime;",
+	    "area" : "5&ndash;20 cm<sup>2</sup>",
+	    "descript" : "The HRI was a digital X-ray camera which provided high spatial and temporal resolution over the central 25 arcmin of the Einstein focal plane. The instrument had no inherent spectral resolution, but spectral studies could be performed using interchangeable broad band filters and Objective Grating Spectrometers (OGS). There were 3 HRI detectors onboard, identical except for the UV opaque shade material. The background was &sim;5 &times; 10<sup>-3</sup> ct/arcmin<sup>2</sup>/sec."
+	},
+	{
+	    "name" : "Solid Sate Spectrometer (SSS)",
+	    "energy" : "0.5&ndash;4.5 keV",
+	    "fov" : "6&prime;",
+	    "area" : "200 cm<sup>2</sup>",
+	    "energy_resolution" : "3&ndash;25 E/&Delta;E",
+	    "descript" : "The SSS consisted of a cryogenically cooled lithium-drifted Si(Li) detector at the focus of an X-ray imaging telescope. It was slightly de-focused so that a point source was blurred to a radius of &sim;1&prime;. There was 128 energy channel resolution, with each channel being about 45 eV wide. A time-dependent build-up of ice (water) on the detector surface occurred because of cryopumping of ambient outgassing material onto the 100 K detector. It was periodically defrosted by heating to 220 K at the beginning of a series of three days of observations. Each defrost reduced the total amount of ice that returned, such that after 9 months the ice covering was almost gone. A model had been developed that predicted the ice parameter as a function of time, and was used to obtain the correct response matrix for any given observation. The cryogen keeping the SSS at its operational temperature of 100 K ran out, as expected, in October 1979, between Day 276 (Oct 3) and Day 286 (Oct 13)."
+	},
+	{
+	    "name" : "Focal Plane Crystal Spectrometer (FPCS)",
+	    "energy" : "0.42&ndash;2.6 keV",
+	    "fov" : "1&prime; &times; 20&prime;, 2&prime; &times; 20&prime;, 3&prime; &times; 30&prime;, 6&prime;",
+	    "area" : "0.1&ndash;1.0 cm<sup>2</sup>",
+	    "energy_resolution" : "50&ndash;100 E/&Delta;E (E &lt; 0.4 kev)<br>100&ndash;1000 E/&Delta;E (E &gt; 0.4 kev)",
+	    "descript" : "A Bragg crystal spectrometer with 6 different crystal diffractors and two redundant position-sensitive detectors which were multiwire proportional counters. The FPCS had a set of 4 apertures to select from, however the 1&prime; &times; 20&prime; aperture was never used in observations. Only the latter three were actually used in observations. In a typical FPCS observation, a small segment (20&ndash;80 eV) of spectrum would be obtained centered on a specific spectral feature by stepping the orientation of the selected crystal."
+	},
+	{
+	    "name" : "Monitor Proportional Counter (MPC)",
+	    "energy" : "1.5&ndash;20 keV",
+	    "fov" : "1.5&deg;",
+	    "area" : "667 cm<sup>2</sup>",
+	    "energy_resolution" : "&sim;20% at 6 keV",
+	    "descript" : "The MPC was a non-focal plane instrument. It was a collimated proportional counter filled with argon and carbon dioxide. It had a circular field of view co-aligned with the telescope. A 1.5 mil Be window sealed the gas in the detector and shielded the detector from ultraviolet radiation. Each photon detected by the MPC was pulse-height analyzed into one of 8 bins, the size of which increased logarithmically with energy from 0.41 keV, for the lowest energy bin, to 6.72 keV for the highest energy bin.  The MPC obtained useful data from 1978 November 19 until 1981 April 17, with the exception of a 3-month period from 27 Aug 1980 to 8 Dec 1980 when operation was intermittent, due to Einstein Observatory attitude control problems"
+	},
+	{
+	    "name" : "Objective Grating Spectrometer (OGS)",
+	    "energy_resolution" : "&sim;50 E/&Delta;E",
+	    "descript" : "Used in conjunction with the HRI. Grating was 500 mm<sup>-1</sup> &amp; 1000 mm<sup>-1</sup>"
+	}
+    ],
+    "highlights": [
+	"First high resolution spectroscopy and morphological studies of supernova remnants",
+	"Recognized that coronal emissions in normal stars are stronger than expected",
+	"Resolved numerous X-ray sources in the Andromeda Galaxy and the Magellanic Clouds",
+	"First study of the X-ray emitting gas in galaxies and clusters of galaxies revealing cooling inflow and cluster evolution",
+	"Detected X-ray jets from Cen A and M87 aligned with radio jets",
+	"First medium and deep x-ray surveys",
+	"Discovery of thousands of &ldquo;serendipitous&rdquo; sources"
+    ],
+    "archive": "The HEASARC hosts catalogs, spectra, lightcurves, images, and raw data",
+    "navigation": [
+	{
+	    "url" : "/docs/einstein/heao2.html",
+	    "text" : "HEAO-2 at HEASARC"
+	},
+	{
+	    "url" : "/docs/einstein/heao2_about.html",
+	    "text" : "More about HEAO-2"
+	},
+	{
+	    "url" : "/docs/einstein/heao2_images.html",
+	    "text" : "Gallery"
+	},
+	{
+	    "url" : "/docs/einstein/bib/heao2_biblio.html",
+	    "text" : "Publications"
+	}
+    ],
+    "goffooter" : "/docs/einstein/heao2_footer.html"
+}

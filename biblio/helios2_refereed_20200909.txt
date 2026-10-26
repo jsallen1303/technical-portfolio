@@ -1,0 +1,6 @@
+1990ApJS...73..285V|Van Hollebeke, M;McDonald, F;Meyer, J|Solar Energetic Particle Observations of the 1982 June 3 and 1980 June 21 Gamma-Ray/Neutron Events|43
+1984GeCAS......149T|Trainor, J;Van Hollebeke, M;Lal, N;McDonald, F|Results from the HELIOS galactic and solar cosmic ray experiment (E7)|0
+1981Ap&SS..75...15D|Desai, U|Morphological Study of the Time Histories of Gamma-Ray Bursts|28
+1981Ap&SS..75...93C|Cline, T;Desai, U;Teegarden, B|The Goddard Program of Gamma-Ray Transient Astronomy|6
+1979ApJ...229L..47C|Cline, T;Desai, U;Pizzichini, G;Spizzichino, A;Trainor, J;Klebesadel, R;Ricketts, M;Helmken, H|Helios 2 - Vela - Ariel 5 gamma-ray burst source position.|26
+1979ApJ...232L...1C|Cline, T;Desai, U;Pizzichini, G;Spizzichino, A;Trainor, J;Klebesadel, R;Helmken, H|Gamma-ray burst observations from Helios 2.|23

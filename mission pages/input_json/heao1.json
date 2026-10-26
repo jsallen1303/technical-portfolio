@@ -1,0 +1,70 @@
+{
+    "title": "The High Energy Astrophysics Observatory-1",
+    "name": "The HEAO-1 Satellite",
+    "decade" : 1970,
+    "alttext": "Visualization of HEAO-1 in orbit",
+    "imagesize": 153,
+    "imageurl": "/Images/heao1/heao1_sat_small2.gif",
+    "descript": "<p><font size=\"+2\">B</font>eginning in 1977, NASA launched a series of very large scientific payloads called <b>High Energy Astronomy Observatories</b> (HEAO). The first of these missions, <b>HEAO-1</b> surveyed the X-ray sky almost three times over the 0.2 keV &ndash; 10 MeV energy band, provided nearly constant monitoring of X-ray sources near the ecliptic poles. More detailed studies of a number of objects were made through pointed observations lasting typically 3-6 hours.</p>",
+    "lifetime": "12 Aug 1977&ndash;9 Jan 1979",
+    "features": [
+	"First of NASA&rsquo;s large dedicated high energy astronomy missions",
+	"Combined program of all-sky scans and pointed observations"
+    ],
+    "instruments": [
+	{
+	    "name" : "A1 &ndash; NRL Large Area Sky Survey (LASS)",
+	    "energy" : "0.25&ndash;25 keV",
+	    "fov" : "1&deg; &times; 0.5&deg; (fine)<br>1&deg &times; 4&deg; (coarse)",
+	    "area" : "1350&ndash;1900 cm<sup>2</sup> each",
+	    "time_resolution" : "5 or 320 ms modes",
+	    "descript" : "The A1 experiment consisted of seven thin-window large aperture proportional counter modules with collimators of varying fields of view. Six of these modules were mounted on the -Y side of the spacecraft, the seventh on the +Y side. The Z-axis of the spacecraft pointed toward the Sun so the viewing directions of the seven A-1 detectors were roughly perpendicular to the solar direction. The experiment had sufficient sensitivity to detect sources as faint as 0.25 &micro;Jy at 5 keV for sources with a Crab-like spectrum. Data was collected in either a 5 or a 320 millisecond timing resolution mode: Full sky coverage for both time resolutions was achieved before the mission&rsquo;s end."
+	},
+	{
+	    "name" : "A2 &ndash; Cosmic X-ray Experiment (CXE)",
+	    "energy" : "0.15&ndash;3.0 keV (LED)<br>1.5&ndash;20 keV (MED)<br>2.5&ndash;60 keV (HED)",
+	    "fov" : "1.5&deg; &times; 3&deg, 3&deg; &times; 3&deg; and 3&deg; &times; 6&deg; (FWHM) collimators on MED and HED",
+	    "area" : "400 cm<sup>2</sup> each (LED)<br>800 cm<sup>2</sup> (MED)<br>800 cm<sup>2</sup> each (HED)",
+	    "descript" : "The experiment consisted of 6 separate multi-anode, multi-layer, collimated gas proportional counters covering three energy ranges. Two of the detectors, designated LEDs (Low Energy Detectors), were thin-window propane filled proportional counters. There was one MED (Medium Energy Detector) which consisted of an argon filled counter. Finally, there were 3 HEDs (High Energy Detectors), which were xenon filled counters. The HEDs and the MED had various collimators which were oriented so that the 3&deg; angular response was always perpendicular to the scan plane. Thus, each rotation of the satellite scanned a great circle 3 degrees wide on the sky passing through the ecliptic poles"
+	},
+  	{
+	    "name" : "A3 &ndash; MIT/SAO Modulation Collimator (MC)",
+	    "energy" : "0.9&ndash;13.3 keV",
+	    "resolution" : "&sim;2&prime;",
+	    "fov" : "4&deg; &times; 4&deg; collimator",
+	    "area" : "400 cm<sup>2</sup> (MC1)<br>300 cm<sup2</sup> (MC2)",
+	    "descript" : "The A3 instrument consisted of two four-grid modulation collimators. The angular response of the collimators is a series of transmission bands separated by 8 times the FWHM of each band. In this case the bands are 30&Prime; and 2&prime; FWHM, separated by 4&prime; and 16&prime;, respectively for the individual collimators. Each collimator measures position in one dimension, perpendicular to its transmission bands. The X-rays were detected by four sealed proportional counters placed behind each collimator. The 30&prime; collimator (MC1) had a net effective area of 400 cm<sup>2</sup> maximum. One of the MC2 counters failed 2 weeks after launch giving it a net area of 300 cm<sup>2</sup>. The expected sensitivity of &sim;1 Uhuru count/s after two all-sky scans was sufficient to detect any of the then-known 1&ndash;10 keV sources."
+	},
+  	{
+	    "name" : "A4 &ndash; UCSD/MIT Hard X-ray / Low Energy Gamma Ray Experiment",
+	    "energy" : "12&ndash;200 keV (low)<br>80 keV &ndash; 2 MeV (medium)<br>120 keV &ndash; 10 MeV (high)",
+	    "fov" : "1.7&deg; &times; 20&deg; (low)<br>17&deg; circular (medium)<br>37&deg; circular (high)",
+	    "area" : "100 cm<sup>2</sup> each (low)<br>45 cm<sp>2</sup> each (medium)<br>100 cm<sup>2</sup> (high)",
+	    "descript" : "The A4 experiment consisted of seven inorganic phoswich scintillator detectors surrounded by massive scintillators which served as active anti-coincidence against ambient radiations. The two Low Energy Detectors were collimated with slats to a fan beam. The slats were inclined at &plusmn;30&deg; to the satellite scan direction."
+	}
+    ],
+    "highlights": [
+	"Complete flux-limited High Galactic Latitude Survey (<a class=\"usa-link\" href=\"https://ui.adsabs.harvard.edu/abs/1982ApJ...253..485P/abstract\">Piccinotti <i>et al.</i> 1982</a>)",
+	"Measurement of X-ray background from 3&ndash;50 keV (<a class=\"usa-link\" href=\"https://ui.adsabs.harvard.edu/abs/1980ApJ...235....4M/abstract\">Marshall <i>et al.</i> 1980, ApJ, 235, 4</a>)",
+	"Comprehensive catalog of X-ray sources (one for each experiment)",
+	"Several hundred optical companions and source classifications based on X-ray source positions",
+	"Monitored variability of a variety of objects from AGNs to X-ray binaries",
+	"Studied aperiodic variability in Cyg X-1 on timescales on a few milliseconds",
+	"Discovered the first eclipse seen in a low-mass X-ray binary"
+    ],
+    "archive": "The HEASARC hosts catalogs, spectra, lightcurves, maps, and raw data",
+    "navigation": [
+    	{
+	    "url" : "/docs/heao1/heao1.html",
+	    "text" : "HEAO-1 at HEASARC"
+	},
+	{
+	    "url" : "/docs/heao1/heao1_images.html",
+	    "text" : "Gallery"
+	},
+	{
+	    "url" : "/docs/heao1/bib/heao1_biblio.html",
+	    "text" : "Publications"
+	}
+    ]
+}

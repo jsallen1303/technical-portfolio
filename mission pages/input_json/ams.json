@@ -1,0 +1,123 @@
+{
+    "title": "Alpha Magnetic Spectrometer",
+    "name": "AMS-02",
+    "gofheader" : "",
+    "gofsidebar" : "",
+    "decade" : 2010,
+    "alttext": "",
+    "imagesize": null,
+    "imageurl": null,
+    "descript": "<p><b><font size=\"+2\">T</font>he Alpha Magnetic Spectrometer (AMS-02)</b> is a cosmic ray particle detector mounted on the International Space Station (ISS). It was funded and run through a collaboration of institutions included MIT, NASA, the U.S. Department of Energy, CERN, ESA, and the University of Hawaii. It was launched on the Space Shuttle <i>Endeavour</i> on May 16, 2011 (STS-134) and commenced operations after being installed on the ISS on May 19.  Originally intended for a three year mission, it has been extended multiple times and continues to generate excellent results. It is anticipated to continue operations for as long as the ISS remains functional.</p>\n\n<p>It was serviced in a series of spacewalks between November 2019 and January 2020 to repair the CO<sub>2</sub> cooling pumps for the silicon tracker system which were working only intermittently after operating for much longer than the original mission timeline. It was one of the most complex space repair missions ever undertaken and required several spacewalks as AMS-02 had not been designed to be serviced. The replacement Upgraded Tracker Thermal Pump System (UTTPS) restored science operations soon after installation and testing.</p>\n\n<p>Routine operations are handled by the AMS Payload Operations Control Center (POCC) at CERN in Geneva, Switzerland.</p>",
+    
+    "lifetime": "19 May 2011&ndash;present",
+    "features": [
+	"Near continuous operation in space for over a decade",
+	"High precision measurements of a wide variety of cosmic ray particle species (protons, helium, heavy nuclei up to and beyond iron)",
+	"&gt; 256 billion cosmic ray events recorded as of Nov 6, 2025"
+    ],
+    "instrument_preamble" : "",
+    "instruments": [
+	{
+	    "name" : "Transition Radiation Detector (TRD)",
+	    "length" : "",
+	    "wavelength" : "",
+	    "energy" : "1 GeV &mdash; 1&ndash;2 TeV",
+	    "resolution" : "",
+	    "fov" : "",
+	    "area" : "",
+	    "energy_resolution" : "",
+	    "temporal_resolution" : "",
+	    "sensitivity" : "",
+	    "polarization" : "",
+	    "descript" : "The primary purpose of TRD is to identify incoming particles, separating the lightest particles (electrons and positrons) from heavier (protons and antiprotons). For antimatter and dark-matter studies, among the core goals of AMS, clean identification of electron/positron signatures is critical.</p>\n\n<p>TRD detects transition radiation (TR), in which X-ray radiation is emitted when a charged particle crosses a boundary between two materials with different dielectric constants. Very light particles at several GeV energies (and above) produce TR; heavier particles such as protons at the same energy produce very little TR. This allows TRD to discriminate between the light and heavy particles. The detector itself consists of 20 layers (12 in the bending plane, and two sets of 4 each in the non-bending plane) of 22 mm thick polypropylene fiber fleece, providing a large number of material boundaries to maximize TR production and optimally sized to emit large numbers of TR photons. Each radiator is followed by a straw tube layer filled with a mix of Xe gas (80%; to absorb TR X-rays) and CO<sub>2</sub> (20%). Each tube contains a thin anode wire and measures the ionization energy deposited. Both electrons and protons (and their matching anti-matter partners, positrons and anti-protons) produce ionization, but only electrons produce the large energy deposits from TR. Signals are analyzed with a likelihood method using the combined signal from all 20 layers. This allows precise identification of electrons and positrons even though protons in cosmic ray flux are vastly more abundant."
+	},
+	{
+	    "name" : "Time of Flight (TOF)",
+	    "length" : "1.2 m between upper and lower planes (&sim;4 ns flight time for relativistic particles)",
+	    "wavelength" : "",
+	    "energy" : "0.1&ndash;few GeV for &beta; discrimination",
+	    "resolution" : "",
+	    "fov" : "",
+	    "area" : "",
+	    "energy_resolution" : "",
+	    "temporal_resolution" : "&sim; 120 ps single-particle at Z=1; down to 50 ps for Z &gt; 6",
+	    "sensitivity" : "",
+	    "polarization" : "",
+	    "descript" : "The TOF detector in AMS-02 consists of four scintillator planes, two each placed above and below the silicon tracker and permanent magnet in the middle of AMS. TOF provides fast triggers with precise time resolution over the 1.2 m separation between the upper and lower detectors, allowing upward travelling background noise particles to be rejected. Each plane consists of 8&ndash;10 scintillator paddles, each of which is 12 cm wide, 1 cm thick, and between 117&ndash;134 cm long, arranged in two orthogonal planes. The TOF also measures energy loss within the scintillator, allowing some initial particle mass discrimination."
+	},
+	{
+	    "name" : "Silicon Tracker and Magnet",
+	    "length" : "",
+	    "wavelength" : "",
+	    "energy" : "",
+	    "resolution" : "",
+	    "fov" : "",
+	    "area" : "",
+	    "energy_resolution" : "",
+	    "temporal_resolution" : "",
+	    "sensitivity" : "",
+	    "polarization" : "",
+	    "descript" : "The silicon tracker and permanent magnet assembly determines precise trajectory of particles and measures charge magnitude (Z). The tracker consists of nine detection layers, one above the TRD, a second between the RICH and EMC detectors, and the other seven encased within the permanent magnet in the heart of AMS. This extended distribution of layers maximizes its ability to resolve momentum.</p>\n\n<p>A charged particle passing through the magnetic field experiences experiences a Lorentz force, bending it with positive curvature (for positively charged particle) or negative as it passes through the &sim;0.15 T magnetic field. Each tracking layer is made of double-sided microstrip sensors which measure coordinates of particles in the bending and non-bending axes. The multiple layers allows precise tracking and redundancy in the face of noise and dead channels. The curvature allows the determination of charge sign (matter versus anti-matter) and rigidity, with a maximum rigidity detectable of &sim;2 TV for Z = 1 particles. It is also able to measure absolution charge (|Z|) up to Z = 26 (iron) and is the most precise of the various charge measurement components of AMS."
+	},
+	{
+	    "name" : "Anti-coincidence Counters (ACC)",
+	    "length" : "",
+	    "wavelength" : "",
+	    "energy" : "",
+	    "resolution" : "",
+	    "fov" : "",
+	    "area" : "",
+	    "energy_resolution" : "",
+	    "temporal_resolution" : "",
+	    "sensitivity" : "",
+	    "polarization" : "",
+	    "descript" : "The ACC wraps around the silicon tracker and magnet portion of AMS-02 to detect and flag incoming off-axis particles to veto them. The operational principle of scintillation detection is similar to the TOF."
+	},
+	{
+	    "name" : "Ring Imaging CHerenkov detector (RICH)",
+	    "length" : "",
+	    "wavelength" : "",
+	    "energy" : "",
+	    "resolution" : "",
+	    "fov" : "",
+	    "area" : "",
+	    "energy_resolution" : "",
+	    "temporal_resolution" : "",
+	    "sensitivity" : "",
+	    "polarization" : "",
+	    "descript" : "RICH provides precise particle velocity and charge identification for species up to iron (Z = 26) and beyond, and separates isotopes. It contains three components: the radiator plane, an expansion (or drift) gap, and a photon detection plane. The radiator plane is a dual radiator system with an aerogel radiator (refractive index &sim;1.05) and a NaF radiator (index &sim;1.33), providing complementary energy coverage. The silica aerogel is arranged in 80 tiles of 11.3 &times; 11.3 cm and 2.5 cm deep arranged around the central set of 16 NaF crystals, which are 8.5 &times; 8.5 cm and 0.5 cm thick. The gap layer allows photons to freely propagate a short distance, forming a ring pattern on the detection plane. The radius of the ring depends on geometry and the Cherenov angle. From these, velocities can be determined with higher precision than from the TOF, with precision increasing for higher Z particles up to iron and beyond. The detector plane of photomultipliers contains a hole to allow particles to continue into the ECAL."
+	},
+	{
+	    "name" : "Electromagnetic Calorimeter (ECAL)",
+	    "length" : "",
+	    "wavelength" : "",
+	    "energy" : "",
+	    "resolution" : "0.3&deg; at 1 TeV",
+	    "fov" : "",
+	    "area" : "",
+	    "energy_resolution" : "&sim;2% at 1 TeV",
+	    "temporal_resolution" : "",
+	    "sensitivity" : "",
+	    "polarization" : "",
+	    "descript" : "The ECAL measures the energy of electrons, positrons, and photons, discriminates electrons from protons, and fully absorbs the electromagnetic shower from particle interactions through the detector mass.</p>\n\n<p>The total depth  is 17 radiation lengths (X<sub>0</sub>), made from nine &ldquo;superlayers&rdquo; of lead, scintillating fibers and optical glue, arranged in alternating X-Y orientations for precise coordinate location for particle showers."
+	}
+    ],
+    "highlights": [
+	"High-precision measurement of the positron fraction from &sim;0.5 GeV to hundreds of GeV, confirming the rise of fraction above &sim;10 GeV hinted at by PAMELA and other earlier experiments: This cannot be explained by standard secondary production alone and implies additional high-energy positron sources such as nearby pulsars, pulsar wind nebulae, or (possibly) dark-matter annihilation.",
+	"Observed electron and positron energy spectra separately up to &sim;1 TeV, finding different special shapes with no sharp features that would otherwise indicate a single exotic source. This provides constraints on dark-matter interpretations",
+	"Measured anti-proton spectra and anti-proton to proton ratio with precision up to hundreds of GeV, with strong constraints thus places on exotic anti-proton sources and dark-matter annihilation models",
+	"Made the most precise isotope measurements of cosmic rays in space"
+    ],
+    "archive": "The HEASARC hosts spectra from the AMS-02 mission. All-particle rates light curves will also be available in the coming months.",
+    "navigation": [
+	{
+	    "url" : "https://ams02.space/",
+	    "text" : "AMS Collaboration"
+	},
+	{
+	    "url" : "/docs/heasarc/missions/biblio/ams_biblio.html",
+	    "text" : "Publications"
+	}
+    ],
+    "goffooter" : ""
+}

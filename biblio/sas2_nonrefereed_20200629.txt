@@ -1,0 +1,123 @@
+2009arXiv0912.5442R|Razzano, M;Dumora, D;Gargano, F|High-energy gamma-ray observations of Geminga with the Fermi Large Area Telescope|1
+2002AAS...200.6311K|Kotani, T;Hartman, R;GLAST Team|A Study on Event Screening for Downward Gamma-Rays with the GLAST Prototype Balloon Data|0
+2002APS..APR2A3001K|Kniffen, D|From EGRET to GLAST|0
+2002astro.ph..1515W|Willis, T|Observations of the Isotropic Diffuse Gamma-ray Background with the EGRET Telescope|3
+2002xmm..pres....8.||Integral -tracking extreme radiation across the Universe|0
+2000eaa..bookE4759.||Small Astronomy Satellite (SAS)|0
+1999HEAD....4.1723M|Moiseev, A;Ormes, J;Thompson, D;GLAST Collaboration|Anticoincidence Detector for GLAST|1
+1997AIPC..410..524K|Kniffen, D;Gehrels, N|The COMPTON Observatory: Reflections on its origins and history|3
+1997AIPC..410..568M|Mattox, J;Halpern, J;Caraveo, P|The ``COS-B/EGRET 1997'' Geminga ephemeris|0
+1997STIN...9723364H|Halpern, J|Timing the Geminga Pulsar with High-Energy Gamma-Rays|0
+1997yCat.9009....0F|Fichtel, C;Hartman, R;Hunter, S;Kniffen, D;Thompson, D;Oegelman, H;Oezel, M|VizieR Online Data Catalog: SAS-2 Gamma-Ray Observations (Fichtel+ 1990)|1
+1995AAS...186.0704A|Akyuz, A;Bhattacharya, D;Ozel, M|Gamma-Ray Observations of Clusters of Galaxies|0
+1994AAS...18512008C|Chen, A;Dwyer, J;Kaaret, P|Components of the Diffuse Gamma Ray Emission at High Galactic Latitudes|0
+1994AIPC..304...40T|Trimble, V|"When one photon was a discovery, two was a spectrum, and three was the Rossi prize", documents from the beginnings of gamma ray astronomy.|1
+1994AIPC..304...77M|Mattox, J;Bertsch, D;Dingus, B;Esposito, J;Fichtel, C;Hartman, R;Hunter, S;Sreekumar, P;Thompson, D;Chiang, J;Fierro, J;Lin, Y;Michelson, P;Nolan, P;Willis, T;Brazier, K;Kanbach, G;Mayer-Hasselwander, H;von Montigny, C;Radecke, H;Kniffen, D;Schneid, E|Timing the Geminga pulsar with high-energy gamma rays.|13
+1993AAS...183.0404S|Sreekumar, P;Dingus, B;Esposito, J;Bertsch, D;Fichtel, C;Hartman, R;Hunter, S;Stecker, F;Thompson, D;Mattox, J;Kanbach, G;Mayer-Hasselwander, H;von Montigny, C;Chiang, J;Lin, Y;Michelson, P;Nolan, P;Willis, T;Schneid, E;Salamon, M|Diffuse Gamma Rays of Extragalactic Origin|0
+1993AIPC..278..409B|Bloemen, H|Diffuse Galactic gamma-ray emission above 1 MEV|4
+1993AIPC..278..423H|Hunter, S;Bertsch, D;Dame, T;Dingus, B;Fichtel, C;Hartman, R;Kanbach, G;Kniffen, D;Kwok, P;Lin, Y;Mattox, J;Mayer-Hasselwander, H;Michelson, P;von Montigny, C;Nolan, P;Sreekumar, P;Thaddeus, P;Schneid, E;Stacy, G;Thompson, D|High energy gamma ray observations and the coupling between galactic cosmic rays and matter|2
+1993xmm..pres...28.||INTEGRAL confirmed as next scientific mission|0
+1991IAUC.5311....2B|Bertsch, D;Fichtel, C;Hartman, R;Hunter, S;Kniffen, D;Kwok, P;Mattox, J;Sreekumar, P;Thompson, D;Kanbach, G;Mayer-Hasselwander, H;Pinkau, K;Rothermel, H;Sommer, M;Montigny, C;Lin, Y;Michelson, P;Nolan, P;Schneid, E|3C 279|11
+1990AIPC..203..185K|Kniffen, D|Cosmic ray studies with the gamma-ray observatory|1
+1990BAAS...22.1230M|Mattox, J|Further Examination of the SAS 2 and COS B Cygnus X-3 Data|0
+1990ICRC....1..129Y|Yu, N;Young, M;Ng, C|A Gamma Ray Luminosity Function of Quasars Derived from the BQS Sample Using Cross-Correlated SAS-2 Data|1
+1990ICRC....1..133Y|Yu, N;Young, M;Ng, C|A Search for Extragalactic Gamma-Ray Sources by Bootstrap Sampling of the SAS-2 Data|0
+1990NASCP3071...31S|Sreekumar, P|A model of the diffuse galactic gamma ray emission|0
+1990NASCP3071..145K|Kniffen, D|The illusive Geminga: What is it|1
+1990STIN...9028468Y|Yearian, M|A study of the sensitivity of an imaging telescope (GRITS) for high energy gamma-ray astronomy|0
+1990csgo.book.....W|Warren, W|Catalog of SAS-2 Gamma-ray Observations (Fichtel et al. 1990). Documentation for the machine-readable version.|0
+1989PABei...7..180Y|Young, E;Yu, K|Gamma rays from AGNs.|0
+1989reas.symp.....D|Dermer, C|Thermal Comptonization models for gamma-ray emission from black-hole sources|0
+1988ASIC..220..163B|Bloemen, H|Gamma-Ray Views on the Galactic Cosmic-Ray Distribution|1
+1987NASCP2464..191C|Cesarsky, C;Ormes, J|Origin and propagation of galactic cosmic rays.|1
+1985IAUS..106..225C|Cesarsky, C|High-energy galactic phenomena and the interstellar medium|0
+1985ICRC....1..169B|Buccheri, R;Pollock, A;Bennett, K;Bignami, G;Caraveo, P;Hermsen, W;Mayer-Hasselwander, H;Sacco, B|Search for Periodicities Near 59 S in the Cos-B Gamma-Ray Data of 2CG 195+04 (geminga)|2
+1985ICRC....1..285L|Lau, M;Young, E|Cosmic Gamma Rays from Quasers|0
+1985ICRC....1..313B|Bloemen, J|Inverse-Compton Gamma Rays in the Galaxy|0
+1985ICRC....1..321H|Harding, A;Stecker, F|The Golactic Gamma-Ray Distribution and the Radial Cosmic Ray Gradient|1
+1985ICRC....1..325G|Goned, A;Wahdan, A|Radial Distribution of Cosmic Ray Intensity in the Galaxy from Gamma-Ray Data|0
+1985ICRC....1..342B|Bhat, C;Mayer, C;Wolfendale, A|Excess Gamma Rays from the Loop i Supernova Remnant|0
+1985ICRC....3..195D|Dogiel, V;Gurevich, A;Istomin, Y;Zybin, K|Giant Molecular Clouds as Regions of Particle Acceleration|0
+1984IzSSR..48.2078V|Vladimirskii, B;Zyskin, I;Neshpor, I;Stepanian, A;Fomin, V|Comparison of results of observations of the source Cas γ-1 in two energetic regions: 10<SUP>12</SUP> and 10<SUP>8</SUP>eV.|1
+1984STIN...8516729H|Harding, A;Stecker, F|The galactic gamma-ray distribution: Implications for galactic structure and the radial cosmic ray gradient|0
+1983ICRC....1..106H|Houston, B;Wolfendale, A|Source Catalogue of Gamma Rays from SAS II Data|0
+1983ICRC....1..122Z|Zyskin, I;Mukanov, D|On the Periodicity of Gamma-Ray Flux with the Energy &gt;10**12 EV from 20G 195+4|3
+1983ICRC....1..148K|Karakula, S;Tkaczyk, W;Giovannelli, F|Gamma Rays Sources - Black Holes?|0
+1983ICRC....1..165K|Kniffen, D;Fichtel, C;Hartman, R|Diffuse Galactic Emission of High Energy Gamma Rays|2
+1983ICRC....1..169P|Protheroe, R;Kazanas, D|Origin of the Diffuse Gamma-Ray Background|1
+1983ICRC...12..435P|Porter, N|Rapporteur paper on high energy gamma-ray astronomy, sessions XG4 andXG5 (of the conference).|1
+1983MoIKI.........K|Kalinkin, L;Nagornykh, I|Observation of high-energy diffuse gamma-radiation by the Cosmos-856 and Cosmos-914 satellites|0
+1983STIN...8324463T|Thompson, D;Bertsch, D;Hartman, R;Hunter, S|Searches for gamma ray emission from radio pulsars|0
+1982ASSL...97..243V|Vette, J|Data and data retrieval in space astronomy|1
+1982ASSL...99..233W|Wolfendale, A|Cosmic gamma rays|0
+1981ASSL...89..155M|Montmerle, T|Possible links between supersonic stellar winds and the origin of cosmic rays|1
+1981ICRC....1...18O|Ozdel, M;Kiziloglu, U;Tokdemir, F|Observations of VELA X-1 by SAS II Anticoincidence Dome above 150 KEV|0
+1981ICRC....1..150I|Issa, M;Riley, P;Li, T;Wolfendale, A|Gamma Rays from Specific Molecular Clouds|4
+1981ICRC....8....1D|Di Cocco, G;Butler, R;Morelli, E;Spada, G;Spizzichino, A;Villa, G;Barbareschi, L;Boella, G;Perotti, F;Ubertini, P;Badiali, M;La Padula, C;Polcaro, V;Dean, A;Carter, J;Charalambous, P;Ramsden, D;Stephen, J|The Use of Coded Aperture Masks in Low Energy Gamma-Ray Astronomy|2
+1981ICRC....9...17C|Cherry, M;Dunphy, P;Chupp, E;Forrest, D;Ryan, J|Upper limits to pulsed gamma ray emission from PSR 0833-45, 1747-46, and 1818-04|2
+1981ICRC...12...79P|Paul, J|Gamma rays and astronomy|1
+1980IzKry..61...55V|Vladimirskii, B|Discrete gamma-ray sources, historic supernovae, and pulsars|1
+1980NYASA.336..211M|Mayer-Hasselwander, H;Buccheri, R;Kanbach, G;Bennett, K;Lichti, G;Bignami, G;Damico, N;Hermsen, W;Lebrun, F;Masnou, J|COS-B observation of the Milky Way in high-energy gamma rays|52
+1980NYASA.336..223C|Cesarsky, C|Gamma rays, cosmic rays, and the dynamics of the galaxy|3
+1980nsgr.symp..147S|Simpson, G|Observations of diffuse galactic gamma rays|1
+1979IAUS...84..125P|Paul, J|Gamma-Ray Observations and the Large-Scale Structure of the Galaxy|1
+1979IAUS...84..475S|Stecker, F|Gamma-Ray Evidence for a Galactic Halo|7
+1979IAUS...84..483F|Fichtel, C;Simpson, G;Thompson, D|SAS-2 Gamma-Ray Observations Related to a Galactic Halo|0
+1979ICRC...12...13L|Lebrun, F;Paul, J|Gamma-Ray Astronomy and Structure and Content of the Local Interstellar Medium|21
+1979ICRC...12...26Z|Zanrosso, E;Long, J;Zych, A;Gibbons, R;White, R;Dayton, B|Observations of the Crab Nebula, NGC 4151, CYG x1 and CYG x3 at Medium Gamma Ray Energies|2
+1979STIN...8015002R|Reppin, C;Pietsch, W;Truemper, J;Voges, W;Kendziorra, E;Staubert, R|Hard X-ray observation of Cygnus-3|0
+1978BAAS...10..395F|Fichtel, C;Simpson, G;Thompson, D|Final Results on the Diffuse Gamma Ray Emission Observed by SAS-2.|1
+1978STIN...7916790F|Fichtel, C;Hartman, R;Kniffen, D;Thompson, D;Ogelman, H;Tuner, T;Ozel, M|Tabulated data from the SAS-2 high energy gamma ray telescope|0
+1978STIN...7918877H|Hartman, R;Kniffen, D;Thompson, D;Fichtel, C;Ogelman, H;Tuner, T;Ozel, M|Galactic plane gamma radiation|0
+1977ESASP.124...33M|Masnou, J;Bennett, K;Bignami, G;Buccheri, R;Caraveo, P;Damico, N;Hermsen, W;Kanbach, G;Lichti, G;Mayer-Hasselwander, H|Search for Gamma-Ray Time Variability of Cygnus X-3 and CG 195+4|18
+1977ESASP.124...39W|Weekes, T;Helmken, H|Observations of the 100 MeV Gamma-Ray Sources at Energies of 100-1000 GeV|9
+1977ESASP.124...45K|Kniffen, D;Fichtel, C;Hartman, R;Lamb, R;Thompson, D|SAS-2 Observations of High-Energy Gamma Rays from Discrete Sources|7
+1977ESASP.124...95F|Fichtel, C;Kniffen, D;Thompson, D|SAS-2 Gamma-Ray Results from the Galactic Plane and Their Implications for Galactic Structure and Galactic Cosmic-Ray Dynamics|13
+1977ESASP.124..161W|Wolfendale, A;Worrall, D|Gamma Rays from Cosmic Rays in Thick Targets and Application in the Galactic 300 pc H<SUB>2</SUB> Ring (Presented by D. M. Worrall)|0
+1977ESASP.124..171S|Stecker, F;Jones, F|Galactic Gamma Rays and the Cosmic-Ray Halo Problem|1
+1977ESASP.124..191F|Fichtel, C;Kniffen, D;Hartman, R;Thompson, D;Gelman, H;Ozel, M;Tumer, T|Celestial diffuse gamma-ray emission observed by SAS-2 and its interpretation|4
+1977ESASP.124..207L|Lichti, G;Bignami, G;Paul, J|The Gamma-Ray Luminosity of Spiral Galaxies, its Evolution and its Contribution to the Diffuse Background above 100 MeV|1
+1977ICRC....1...30O|Ozel, M;Ogelman, H;Tumer, T;Fichtel, C;Hartman, R;Kniffen, D;Thompson, F|Comparison of High Energy Gamma Rays from (b) &gt; 30<SUP>0</SUP> with the Galactic Neutral Hydrogen Distribution|1
+1977NASCP...2....3T|Thompson, D;Fichtel, C;Hartman, R;Kniffen, D;Bignami, G;Lamb, R;Oegelman, H;Oezel, M;Tuemer, T|SAS-2 galactic gamma-ray results - I. Diffuse emission.|1
+1977NASCP...2...15H|Hartman, R;Fichtel, C;Kniffen, D;Lamb, R;Thompson, D;Bignami, G;Oegelman, H;Oezel, M;Tuemer, T|SAS-2 galactic gamma-ray results - II. Localized sources.|2
+1977NASCP...2...45.||COS-B observations of localized sources of gamma-ray emission|0
+1977NASCP...2..109O|Oegelman, H;Ayasli, S;Hacinliyan, A|Gamma-ray pulsars.|2
+1977NASCP...2..315S|Stecker, F|Gamma rays, cosmic rays, and galactic structure.|9
+1977STIN...7722039S|Stecker, F;Jones, F|The galactic halo question: New size constraints from galactic gamma-ray data|0
+1977STIN...7810995S|Stecker, F|Gamma rays from the magellanic clouds|0
+1977STIN...7815985F|Fichtel, C;Simpson, G;Thompson, D|Diffuse gamma radiation|0
+1977spre.conf..769T|Thompson, D;Fichtel, C;Hartman, R;Kniffen, D;Bignami, G;Ogelman, H;Ozel, M;Tumer, T;Lamb, R|Recent high energy gamma-ray results from SAS-2.|0
+1976BAAS....8..429H|Hartman, R;Fichtel, C;Kniffen, D;Lamb, R;Thompson, D;Ogelman, H|SAS-2 observations of high energy gamma rays.|0
+1976STIN...7621120O|Ogelman, H;Fichtel, C|A search of the SAS-2 data for pulsed gamma-ray emission from radio pulsars|0
+1976STIN...7631129C|Crannell, C|The structure and content of the galaxy and galactic gamma rays. A review|0
+1976STIN...7632094T|Thompson, D;Fichtel, C;Hartman, R;Kniffen, D;Lamb, R|Final SAS-2 gamma ray results on sources in the galactic anticenter region|0
+1976STIN...7633122L|Lamb, R;Fichtel, C;Hartman, R;Kniffen, D;Thompson, D|Observation of gamma rays with a 4.8 hour periodicity from CYG X-3|0
+1976aiaa.meet.....F|Friedman, H|Recent advances and near future prospects in high energy astronomy|0
+1975ICRC....1...29F|Fichtel, C;Hartman, R;Kniffen, D;Thompson, D;Bignami, G;Ogelman, H;Ozel, M;Tumer, T|High Energy Galactic Gamma Radiation Observed by the SAS-2 Satellite|3
+1975ICRC....1...40K|Kniffen, D;Bignami, G;Fichtel, C;Thompson, D;Cheung, C|Galactic Gamma Radiation from Cosmic Rays Concentrated in Spiral Arms|4
+1975ICRC....1...52P|Puget, J;Ryter, C;Serra, G;Bignami, G|Interstellar Reddening and Gamma-Ray Emission as Tracers of Interstellar Matter|6
+1975ICRC....1..100K|Kniffen, D;Fichtel, C;Hartman, R;Thompson, D;Ozel, M;Tumer, T;Bignami, G;Ogelman, H|Distribution of Cosmic Gamma Rays in the Galactic Anticenter Region as Observed by SAS-2|33
+1975ICRC....1..106F|Fichtel, C;Kniffen, D;Thompson, D;Ogelman, H|High Energy Gamma Rays from Vela and Cygnus|2
+1975ICRC...11.3678F|Fichtel, C|Gamma Ray Astronomy|4
+1975JHATD..14....2H|Hoffman, E|The SAS-3 delayed command system.|0
+1975JHATD..14....7P|Peterson, M|The SAS-3 programmable telemetry system.|0
+1975NASSP.361...52K|Kniffen, D|SAS-2 High Energy Gamma-Ray Observations of Galactic Structure and the Crab Nebula|0
+1975NASSP.361...56F|Fichtel, C|Theoretical Interpretation of the SAS-2 High Energy Gamma-Ray Observations of the Galactic Plane in Terms of the Galactic Cosmic-Ray and Matter Distributions|0
+1975NYASA.262..159C|Cline, T|Recent observations of cosmic gamma -ray bursts.|8
+1975STIN...7523421T|Thompson, D;Fichtel, C;Kniffen, D;Oegelman, H|SAS-2 High energy gamma-ray observations of the VELA pulsar|0
+1975STIN...7527999.||Selected Theoretical Studies Group contributions to the 14th International Cosmic Ray conference|0
+1975STIN...7617018L|Lamb, R;Thompson, D;Fichtel, C|Non-association of a celestial gamma ray source with the new Milky Way satellite galaxy|0
+1975oopg.meet..231S|Schoenfelder, V|Galactic gamma-ray astronomy|0
+1975sast.nasa...34.||X-ray and gamma-ray astronomy|0
+1975sast.nasa...52K|Kniffen, D|SAS-2 high energy gamma-ray observations of galactic structure and the Crab nebula.|0
+1975sast.nasa...56F|Fichtel, C|Theoretical interpretation of the SAS-2 high energy gamma-ray observations of the galactic plane in terms of the galactic cosmic-ray and matter distributions.|0
+1975shgo.book.....T|Thompson, D;Fichtel, C;Kniffen, D;Ogelman, H|SAS-2 high-energy gamma-ray observations of the Vela pulsar.|2
+1974BAAS....6..270S|Strong, I;Klebesadel, R|Evidence for a Galactic Origin of Transient Gamma-Ray Bursts|1
+1974csgr.conf...83T|Thompson, D;Fichtel, C;Kniffen, D;Hartman, R|SAS-2 observations of celestial diffuse gamma radiation above 30 MeV.|0
+1974csgr.conf..201T|Thompson, D;Bignami, G;Fichtel, C;Hartman, R;Kniffen, D|SAS-2 observations of gamma-rays from the galactic plane.|0
+1974csgr.conf..241P|Puget, J;Stecker, F|The distribution of cosmic rays in the Galaxy and their dynamics as deduced from recent gamma-ray observations.|0
+1974csgr.conf..253S|Solomon, P;Stecker, F|Radio and gamma-ray evidence for a molecular-arm feature at 5 kpc from the galactic centre.|3
+1974csgr.conf..273T|Thompson, D;Fichtel, C;Hartman, R;Kniffen, D;Bignami, G|Observations of discrete gamma-ray sources with SAS-2.|0
+1974csgr.conf..339S|Shukla, P;Mayer-Hasselwander, H|Determination of gamma-ray direction of incidence in gamma-ray astronomy spark chambers.|1
+1974sfp...........B|Bignami, G;Fichtel, C;Thompson, D;Kniffen, D|High energy galactic gamma radiation from cosmic rays concentrated in spiral arms|0
+1973NASSP.339..139K|Kniffen, D;Fichtel, C;Hartman, R|Preliminary Results on SAS-2 Observations of &gt; 30 MeV Gamma Radiation|2

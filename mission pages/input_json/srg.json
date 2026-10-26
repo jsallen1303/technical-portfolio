@@ -1,0 +1,59 @@
+{
+    "title": "Spectr-Roentgen-Gamma (SRG)",
+    "name": "Spectr-Roentgen-Gamma (SRG)",
+    "decade" : 2010,
+    "alttext": "Artistic impression of SRG",
+    "imagesize": 279,
+    "imageurl": "/Images/srg/srg_sm.jpg",
+    "descript": "<p><b><font size=\"+2\">T</font>he <i>Spectr-Roentgen-Gamma (SRG)</i></b> is a Russian-German high energy astrophysics mission launched on July 13, 2019 from the Baikonur Cosmodrome. After traveling to the Earth-Sun L<sub>2</sub> Lagrange point, the instruments began the first of eight planned sky surveys in December 2019. Mission plans call for four years of operations in scanning mode, building all-sky maps over the course of six months. Once completed, the observatory with shift to pointed observations at specific targets of interest. The original mission calls for seven years of operations.</p>\n\n<p>The mission occasionally appears as &ldquo;Spectrum X-Gamma&rdquo; (SXG) in English. X-rays are often referred to as R&ouml;ntgen or Roentgen rays in other countries (particulary Russia and Germany, joint partners in the mission) named after their discoverer Wilhelm Conrad R&ouml;ntgen.</p>\n\n<p>The German eROSITA component was placed in  <a href=\"https://www.mpe.mpg.de/7912248/news20221117\">safe hold</a> starting February 2022. The Russian hard X-ray telescope continued operations.</p>",
+    "lifetime": "8 Dec 2019&ndash;present",
+    "features": [
+	"X-ray mirror optics combine moderate resolution imaging with a very wide field of view",
+	"All-sky maps in the soft to hard X-ray range."
+    ],
+    "instruments": [
+	{
+	    "name" : "Extended Roentgen Survey with an Imaging Telescope Array (eROSITA)",
+	    "energy" : "0.2&ndash;10 keV",
+	    "fov" : "0.9&deg; &times; 0.9&deg;",
+	    "resolution" : "15&Prime;",
+	    "energy_resolution" : "138 eV at 6 keV",
+	    "area" : "2400 cm<sup>2</sup> at 1 keV",
+	    "descript" : "The instrument consists of seven telescopes with 54 nested mirror segments to focus X-rays onto a CCD detector built by the Max Planck Institute of Extraterrestrial Physics, using a CCD design based on the successful XMM-Newton detectors. They are active cooled to -90&deg; C for improved sensitivity."
+	},
+	{
+	    "name" : "Mikhail Pavlinksky Astronomical Roentgen Telescope X-ray Concentrator (ART-XC)",
+	    "energy" : "6&ndash;30 keV",
+	    "resolution" : "45&Prime;",
+	    "fov" : "30&prime;",
+	    "area" : "450 cm<sup>2</sup> at 8 keV",
+	    "energy_resolution" : "1.2 keV at 14 keV",
+	    "time_resolution" : "1 ms",
+	    "descript" : "ART-XC is an array of seven telescopes in a nested shell design with 28 mirror segments. The detector unit in each telescope is a CdTe crystal with double-side strip detectors. The instrument was build at the Russian State Nuclear Center and the iridium-coated mirror system was developed and calibrated at NASA&rsquo;s Marshall Space Flight Center."
+	}
+    ],
+    
+  "highlights": [
+      "Four eROSITA all-sky surveys completed (eRASS 1&ndash;4)",
+      "First all-sky survey in hard X-rays"
+  ],
+  "archive": "The HEASARC hosts the eROSITA data.",
+  "navigation": [
+    {
+      "url": "/docs/srg/",
+      "text": "SRG at HEASARC"
+    },
+    {
+      "url": "http://srg.iki.rssi.ru/?lang=en",
+      "text": "SRG at IKI"
+    },
+    {
+      "url": "https://www.mpe.mpg.de/eROSITA",
+      "text": "eROSITA at MPE"
+    },
+    {
+      "url": "biblio/srg_biblio.html",
+      "text": "Publications"
+    }
+  ]
+}

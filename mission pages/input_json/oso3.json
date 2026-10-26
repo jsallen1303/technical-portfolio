@@ -1,0 +1,47 @@
+{
+  "title": "The Third Orbiting Solar Observatory (OSO-3)",
+  "name": "OSO-3",
+  "alttext": "photo of OSO",
+  "imagesize": 299,
+  "imageurl": "/Images/oso/oso3_small.gif",
+    "descript": "<p><b><font size=\"+2\">T</font>he Third Orbiting Solar Observatory (OSO-3)</b>, was launched on 8 March 1967, into a nearly circular orbit of mean altitude 550 km, inclined at 33 degrees with respect to the equatorial plane. The satellite had two principle components, a continuously spinning wheel in which the hard X-ray experiment is mounted with a radial view, and a sail component which was served to acquire the sun during the orbit day. The attitude control system maintained the scan plane orientation to within a few degrees of the sun. The spin-period of the satellite of roughly 1.7 s allowed about 1 cm<sup>2</sup>/s exposure per revolution to sources on the scan plane. Celestial sources near the ecliptic plane such as Sco X-1 transited the instrument scan plane twice a year. Only real-time data were received from the satellite after the last tape recorder failure on 27 June 1968. The last data transmission occurred 10 November 1969. OSO-3 descended into the atmosphere on 4 April 1982.</p>",
+      "decade": 1960,
+  "lifetime": "Mar 1967&ndash;10 Nov 1969",
+  "features": [""],
+    "instruments": [
+	{
+	    "name" : "USCD X-ray Telescope",
+	    "energy" : "7.7&ndash;210 keV",
+	    "energy_resolution" : "45% at 30 keV (6 channel resolution)",
+	    "area" : "10 cm<sup>2</sup>",
+	    "fov" : "23&deg;",
+	    "descript" : "The UCSD X-ray telescope consisted of a single thin NaI(Tl) scintillation crystal plus phototube assembly enclosed in a howitzer-shaped CsI(Tl) anti-coincidence shield. It scanned the entire sky over the course of the mission."
+	},
+	{
+	    "name" : "MIT Gamma Ray Instrument",
+	    "energy" : "&gt; 50 MeV",
+	    "descript" : "The MIT Gamma Ray Instrument operated continuously for about 16 months, at which time the last spacecraft tape recorded failed. The detector was a counter telescope. The multi-layer scintillation detector consisted of layers of CsI and plastic. The directional Cerenkov counter was a 3 &times; 3 in cylinder of lucite. The energy detector contained several layers of NaI, sandwiched by layers of tungsten. The entire detector was enclosed by plastic scintillator detectors."
+	}
+    ],
+    "highlights": [
+	"The instrument flown on OSO-3 obtained extensive observations of solar flares, the diffuse component of cosmic X-rays, and the observation of a single flare episode from Sco X-1.",
+	"The gamma-ray instrument registered 621 events attributed to cosmic gamma rays above 50 MeV. A complete sky survey showed that the celestial distribution of gamma rays is highly anisotropic, being concentrated along the galactic equator. In addition, an extended region around the galactic center showed a higher measured intensity."
+	
+    ],
+    "archive": "",
+    "publications" : [
+	"<a class=\"usa-link\" href=\"https://ui.adsabs.harvard.edu/abs/1971PhDT.........3P/abstract\">Pelling, R. 1971, Ph.D. dissertation thesis, University of California (San Diego)</a>",
+	"<a class=\"usa-link\" href=\"https://ui.adsabs.harvard.edu/abs/1966PhRvL..16..142P/abstract\">Peterson <i>et al</i> 1966, Phys Rev Let 16, 142</a>",
+	"<a class=\"usa-link\" href=\"https://ui.adsabs.harvard.edu/abs/1966ApJ...145..962P/abstract\">Peterson, L.E. &amp; Jacobson, A.S. 1966, ApJ 145, 962</a>"
+    ],
+  "navigation": [
+    {
+      "url": "images/oso_images.html",
+      "text": "Gallery"
+    },
+    {
+      "url": "biblio/oso_biblio.html",
+      "text": "Publications"
+    }
+  ]
+}

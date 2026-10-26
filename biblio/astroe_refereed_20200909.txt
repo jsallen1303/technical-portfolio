@@ -1,0 +1,16 @@
+1999A&A...346L...5W|Wambsganss, J;Brunner, H;Schindler, S;Falco, E|The gravitationally lensed quasar Q2237+0305 in X-rays: ROSAT/HRI detection of the ``Einstein Cross"|13
+1998AN....319....1H|Hasinger, G;White, N|X-ray Surveys Workshop|2
+1998AN....319..159T|Takahashi, T;Inoue, H;Ogawara, Y|Astro-E Mission and the X-ray survey|6
+1998ApJ...493...62R|Roettiger, K;Stone, J;Mushotzky, R|Anatomy of a Merger: A Numerical Model of A754|84
+1998PASJ...50....1K|Kitayama, T;Sasaki, S;Suto, Y|Cosmological Implications of Number Counts of Clusters of Galaxies: logN--logS in X-Ray and Submm Bands|40
+1997ApJ...476..291K|Knigge, C;Long, K;Blair, W;Wade, R|Disks, Winds, and Veiling Curtains: Dissecting the Ultraviolet Spectrum of the Dwarf Nova Z Camelopardalis in Outburst|48
+1997ApJ...477..281B|Borkowski, K;Blondin, J;McCray, R|X-Rays from the Impact of SN 1987A with its Circumstellar Ring|58
+1997ApJ...491..459F|Fox, D;Loeb, A|Do the Electrons and Ions in X-Ray Clusters Share the Same Temperature?|52
+1996ApJ...467..629K|Kriss, G;Krolik, J;Otani, C;Espey, B;Turner, T;Kii, T;Tsvetanov, Z;Takahashi, T;Davidsen, A;Tashiro, M;Zheng, W;Murakami, S;Petre, R;Mihara, T|ASCA Observations of the Composite Warm Absorber in NGC 3516|61
+1995ApJ...446..622H|Hill, R;Cheng, K;Bohlin, R;O'Connell, R;Roberts, M;Smith, A;Stecher, T|UIT and Optical Imagery of Large Magellanic Cloud Associations LH 52 and LH 53: Ages and Initial Mass Function Slopes|42
+1994ApJ...423..305P|Parise, R;Maran, S;Landsman, W;Bohlin, R;Cheng, K;Greason, M;Hintzen, P;O'Connell, R;Roberts, M;Smith, A;Stecher, T|An Ultraviolet-Visible Investigation of the Globular Cluster NGC 1851|13
+1994ApJ...426L..65S|Sciama, D|Decaying Neutrinos and the Opacity of the Universe at the He II Edge|7
+1993ApJ...410..796S|Smale, A;Done, C;Mushotzky, R;Weaver, K;Serlemitsos, P;Marshall, F;Petre, R;Jahoda, K;Boldt, E;Swank, J;Szymkowiak, A;Kelley, R;Arnaud, K|Resolving the Iron K Line in Cygnus X-2: an Observation with BBXRT|33
+1993ApJ...412..792C|Corcoran, M;Swank, J;Serlemitsos, P;Boldt, E;Petre, R;Marshall, F;Jahoda, K;Mushotzky, R;Szymkowiak, A;Arnaud, K;Smale, A;Weaver, K;Holt, S|Broad-Band X-Ray Telescope Spectroscopy of zeta Puppis|24
+1992ApJ...395L..13H|Hennessy, G;O'Connell, R;Cheng, K;Bohlin, R;Collins, N;Gull, T;Hintzen, P;Isensee, J;Landsman, W;Roberts, M;Smith, A;Smith, E;Stecher, T|Ultraviolet Imaging Telescope Observations of the Crab Nebula|23
+1983Natur.301..647A|Anderson, A|Japan's second X-ray satellite launched|0

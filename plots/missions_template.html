@@ -1,0 +1,935 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>High Energy Astrophysics Missions</title>
+<meta name="orgcode" content="660">
+<meta name="keywords" content="high-energy, archive, data, astronomy data, x-ray astronomy, 
+    gamma-ray astronomy, instrument, mission, observatory, software, high energy, science, xray, 
+    x-ray, gamma ray, gamma-ray, extreme ultraviolet, EUV, astrophysics, astronomy, analysis, 
+    research">
+
+<style>
+  .missions-page-container .filter-controls {
+      background: white;
+      padding: 20px;
+      border-radius: 10px;
+      box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+      margin-bottom: 25px;
+      display: grid;
+      grid-template-columns: 1fr 1fr 1fr 1fr auto;
+      gap: 15px;
+  }
+
+  .missions-page-container .filter-group {
+      display: flex;
+      flex-direction: column;
+  }
+
+  .missions-page-container .filter-label {
+      font-size: 14px;
+      font-weight: bold;
+      margin-bottom: 6px;
+      color: #2c3e50;
+  }
+
+  .missions-page-container .filter-controls select {
+      padding: 8px;
+      border: 2px solid #e1e8ed;
+      border-radius: 6px;
+      font-size: 13px;
+      transition: all 0.3s ease;
+  }
+
+  .missions-page-container .filter-controls select:focus {
+      outline: none;
+      border-color: #3498db;
+      box-shadow: 0 0 0 3px rgba(52, 152, 219, 0.1);
+  }
+
+  .missions-page-container .clear-btn {
+      background-color: #e74c3c;
+      color: white;
+      border: none;
+      cursor: pointer;
+      padding: 8px 16px;
+      border-radius: 6px;
+      font-weight: bold;
+      transition: background-color 0.3s ease;
+      align-self: flex-end;
+      margin-top: 26px;
+  }
+
+  .missions-page-container .clear-btn:hover {
+      background-color: #c0392b;
+  }
+
+  .missions-page-container .results-info {
+      background: white;
+      padding: 5px 15px;
+      border-radius: 10px;
+      box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+      margin-bottom: 20px;
+      color: #7f8c8d;
+      font-weight: 500;
+  }
+
+  /* Desktop table styling - USWDS compliant */
+  .missions-table-wrapper {
+    overflow-x: auto;
+    margin: 2rem 0;
+  }
+  
+  .missions-table {
+    width: 100%;
+    border-collapse: collapse;
+    background: white;
+    font-family: 'Source Sans Pro', 'Helvetica Neue', 'Helvetica', 'Roboto', 'Arial', sans-serif;
+    font-size: 1rem; /* USWDS base font size 16px */
+    line-height: 1.5;
+  }
+  
+  .missions-table thead {
+    background-color: #f0f0f0;
+    border-bottom: 2px solid #71767a;
+  }
+  
+  .missions-table th {
+    padding: 0.75rem 1rem;
+    text-align: left;
+    font-weight: 700;
+    font-size: 0.94rem;
+    color: #1b1b1b;
+    cursor: pointer;
+    user-select: none;
+    position: relative;
+    white-space: nowrap;
+  }
+  
+  .missions-table th:hover {
+    background-color: #e8e8e8;
+  }
+  
+  .missions-table th.sortable::after {
+    content: ' ⇅';
+    opacity: 0.3;
+    font-size: 0.8rem;
+  }
+  
+  .missions-table th.sort-asc::after {
+    content: ' ↑';
+    opacity: 1;
+    color: #005ea2;
+  }
+  
+  .missions-table th.sort-desc::after {
+    content: ' ↓';
+    opacity: 1;
+    color: #005ea2;
+  }
+  
+  .missions-table td {
+    padding: 0.5rem 1rem; 
+    border-bottom: 1px solid #dfe1e2;
+    font-size: 0.94rem;
+    vertical-align: middle;
+  }
+
+  /* Uncertain date styling */
+  .missions-table td.date.uncertain {
+    font-style: italic;
+    color: #5c5c5c;
+  }
+
+  /* Planned/uncertain end date styling */
+  .missions-table td.date.planned {
+    font-style: italic;
+    color: #5c5c5c;
+    position: relative;
+  }
+
+  .missions-table td.date.planned::after {
+    content: '*';
+    color: #e5a000;
+    font-weight: 700;
+    margin-left: 0.2em;
+    font-style: normal;
+  }
+
+  /* Multiple flights indicator */
+  .missions-table td.multiple-flights {
+    position: relative;
+  }
+
+  .missions-table td.multiple-flights::after {
+    content: '⟳';
+    color: #005ea2;
+    font-weight: 700;
+    margin-left: 0.3em;
+    font-size: 1.1em;
+    vertical-align: middle;
+  }
+
+  /* Tooltip for planned dates and multiple flights */
+  .missions-table td[data-tooltip] {
+    cursor: help;
+  }
+
+  .missions-table td[data-tooltip]:hover::before {
+    content: attr(data-tooltip);
+    position: absolute;
+    bottom: 100%;
+    left: 50%;
+    transform: translateX(-50%);
+    background: #1b1b1b;
+    color: white;
+    padding: 0.5rem 0.75rem;
+    border-radius: 4px;
+    font-size: 0.875rem;
+    white-space: nowrap;
+    z-index: 1000;
+    font-style: normal;
+    margin-bottom: 0.5rem;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.3);
+  }
+
+  .missions-table td[data-tooltip]:hover::after {
+    content: '';
+    position: absolute;
+    bottom: 100%;
+    left: 50%;
+    transform: translateX(-50%);
+    border: 6px solid transparent;
+    border-top-color: #1b1b1b;
+    z-index: 1000;
+  }
+
+  /* Legend styling - add below the table */
+  .date-legend {
+    margin-top: 1.5rem;
+    padding: 1rem;
+    background: #f0f0f0;
+    border-radius: 4px;
+    font-size: 0.875rem;
+    color: #5c5c5c;
+  }
+
+  .date-legend-item {
+    display: inline-block;
+    margin-right: 1.5rem;
+    margin-bottom: 0.5rem;
+  }
+
+  .date-legend-item strong {
+    color: #1b1b1b;
+  }
+  
+  .missions-table tbody tr {
+    transition: background-color 0.2s;
+    border-left: 6px solid transparent; /* Status indicator */
+  }
+  
+  .missions-table tbody tr:hover {
+    background-color: #f0f6f9;
+  }
+
+  /* Status indicators with LEFT border color */
+  .missions-table tbody tr.status-past {
+    border-left-color: #0076d6; /* USWDS blue-50v */
+  }
+  
+  .missions-table tbody tr.status-current {
+    border-left-color: #538200; /* USWDS green-cool-50v */
+  }
+  
+  .missions-table tbody tr.status-future {
+    border-left-color: #e5a000; /* USWDS gold-30v */
+  }
+
+  /* Mission name link styling */
+  .missions-table td a {
+    color: #005ea2;
+    text-decoration: underline;
+    font-weight: 600;
+  }
+  
+  .missions-table td a:hover {
+    color: #1a4480;
+  }
+  
+  .missions-table td a:visited {
+    color: #54278f;
+  }
+
+  /* HEASARC badge - USWDS indigo */
+  .heasarc-badge {
+    display: inline-block;
+    background: #4a77b4; /* USWDS indigo-50 */
+    color: white;
+    padding: 0.25rem 0.5rem;
+    font-size: 0.81rem;
+    font-weight: 700;
+    border-radius: 2px;
+    text-transform: uppercase;
+    letter-spacing: 0.025em;
+  }
+
+  /* Energy and date cells - right align numbers */
+  .missions-table td.number {
+    text-align: right;
+    font-variant-numeric: tabular-nums;
+  }
+  
+  .missions-table td.date {
+    font-variant-numeric: tabular-nums;
+    white-space: nowrap;
+  }
+
+  .no-results {
+    text-align: center;
+    padding: 60px 20px;
+    color: #71767a;
+    font-size: 1.13rem;
+  }
+  
+  /* Mobile card layout */
+  @media (max-width: 768px) {
+    .missions-page-container .filter-controls {
+      grid-template-columns: 1fr;
+      gap: 10px;
+    }
+    
+    .missions-table thead {
+      display: none;
+    }
+    
+    .missions-table,
+    .missions-table tbody,
+    .missions-table tr {
+      display: block;
+    }
+    
+    .missions-table tr {
+      margin-bottom: 1.5rem;
+      border: 2px solid #dfe1e2;
+      border-radius: 8px;
+      background: white;
+      box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+      padding: 1rem;
+      border-left-width: 6px !important;
+    }
+    
+    .missions-table td {
+      display: flex;
+      justify-content: space-between;
+      padding: 0.5rem 0;
+      border-bottom: 1px solid #f0f0f0;
+      text-align: right;
+    }
+    
+    .missions-table td:last-child {
+      border-bottom: none;
+    }
+    
+    .missions-table td:before {
+      content: attr(data-label);
+      font-weight: 700;
+      text-align: left;
+      color: #1b1b1b;
+      flex-basis: 50%;
+    }
+    
+    .missions-table td[data-label="Mission"] {
+      font-size: 1.13rem;
+      font-weight: 700;
+      color: #005ea2;
+      border-bottom: 2px solid #dfe1e2;
+      padding-bottom: 0.75rem;
+      margin-bottom: 0.5rem;
+    }
+    
+    .missions-table td.number,
+    .missions-table td.date {
+      text-align: right;
+    }
+
+  /* Uncertain value styling */
+    .missions-table td.uncertain {
+      font-style: italic;
+      color: #5c5c5c;
+    }
+
+    .missions-table td.uncertain::before {
+      content: '~';
+      font-style: normal;
+      margin-right: 0.1em;
+    }
+
+    /* Tooltip for uncertain values */
+    .missions-table td.uncertain {
+      position: relative;
+      cursor: help;
+    }
+
+    .missions-table td.uncertain:hover::after {
+      content: attr(data-note);
+      position: absolute;
+      bottom: 100%;
+      left: 50%;
+      transform: translateX(-50%);
+      background: #1b1b1b;
+      color: white;
+      padding: 0.5rem;
+      border-radius: 4px;
+      font-size: 0.875rem;
+      white-space: nowrap;
+      z-index: 1000;
+      font-style: normal;
+    }  
+  }
+  
+  /* Print styles */
+  @media print {
+    .missions-page-container .filter-controls,
+    .missions-page-container .results-info {
+      display: none;
+    }
+    
+    .missions-table {
+      font-size: 9pt;
+    }
+    
+    .missions-table th,
+    .missions-table td {
+      padding: 0.25rem 0.5rem;
+    }
+  }
+</style>
+
+<!--#include virtual="/includes/uswds-header-no-sidenav.html"-->
+
+<hr>
+<h2 style="text-align: center;">High Energy Astrophysics Missions</h2>
+<hr>
+
+<div class="missions-page-container">
+
+<p>Pictures from many of these high-energy astrophysics missions are available from
+the HEASARC&rsquo;s <a class="usa-link" href="images/pretty_pictures.html"> 
+&ldquo;Pretty Pictures&rdquo;</a> page.</p>
+
+<p>Color codes indicate completed/past (<font color="#0076d6">blue</font>),
+  active/current (<font color="#538200">green</font>), and future (<font color="#e5a000">gold</font>).
+  Missions tagged with &ldquo;HEASARC&rdquo; indicate missions where catalogs and/or data are
+  available (or, for future missions, will be available) at the HEASARC.</p>
+
+<hr>
+
+<div class="results-info" id="resultsInfo">Showing all {{ total_missions }} missions</div>
+
+<div class="filter-controls">
+    <div class="filter-group">
+        <span class="filter-label">Energy Category</span>
+        <select id="categoryFilter">
+            <option value="all">All Categories</option>
+            <option value="euve">EUVE/Soft X-ray</option>
+            <option value="xray">X-ray</option>
+            <option value="gamma">Gamma ray</option>
+            <option value="particle">Particle</option>
+        </select>
+    </div>
+
+    <div class="filter-group">
+        <span class="filter-label">Mission Status</span>
+        <select id="statusFilter">
+            <option value="all">All Status</option>
+            <option value="current">Active</option>
+            <option value="past">Completed</option>
+            <option value="future">Future</option>
+        </select>
+    </div>
+
+    <div class="filter-group">
+        <span class="filter-label">Decade</span>
+        <select id="decadeFilter">
+            <option value="all">All Decades</option>
+            <option value="1960">1960s</option>
+            <option value="1970">1970s</option>
+            <option value="1980">1980s</option>
+            <option value="1990">1990s</option>
+            <option value="2000">2000s</option>
+            <option value="2010">2010s</option>
+            <option value="2020">2020s</option>
+        </select>
+    </div>
+
+    <div class="filter-group">
+        <span class="filter-label">HEASARC Data</span>
+        <select id="heasarcFilter">
+            <option value="all">All Missions</option>
+            <option value="yes">HEASARC Only</option>
+        </select>
+    </div>
+    
+    <button class="clear-btn" onclick="clearAllFilters()">Clear All</button>
+</div>
+
+<div class="missions-table-wrapper">
+  <table class="missions-table" id="missionsTable">
+    <thead>
+      <tr>
+        <th class="sortable" data-sort="mission">Mission</th>
+        <th class="sortable" data-sort="low-energy">Low Energy (keV)</th>
+        <th class="sortable" data-sort="high-energy">High Energy (keV)</th>
+        <th class="sortable" data-sort="launch">Launch</th>
+        <th class="sortable" data-sort="end">End Date</th>
+        <th>Data</th>
+      </tr>
+    </thead>
+   <tbody id="missionTableBody">
+{# ==================================================================
+   Clean <td> output: pre-compute class/tooltip with {% set %} so
+   each <td> emits as a single line.  trim_blocks + lstrip_blocks
+   in the Python Environment() ensure {% set %} and {% if %} lines
+   produce no whitespace in the output.
+   ================================================================== #}
+{% for mission in missions %}
+      <tr class="mission-row status-{{ mission.status }}" 
+          data-mission="{{ mission.name }}"
+          data-low-energy="{{ mission.low_energy }}"
+          data-high-energy="{{ mission.high_energy }}"
+          data-launch="{{ mission.launch_date }}"
+          data-end="{{ mission.end_date or mission.planned_end_date or '' }}"
+          data-category="{{ mission.category }}"
+          data-status="{{ mission.status }}"
+          data-decade="{{ mission.decade }}"
+          data-heasarc="{{ 'yes' if mission.heasarc else 'no' }}">
+        <td data-label="Mission"><a class="usa-link" href="{{ mission.url }}">{{ mission.name }}</a></td>
+        <td data-label="Low Energy (keV)" class="number">{{ '~' if mission.low_energy_uncertain }}{{ mission.low_energy | format_energy }}</td>
+        <td data-label="High Energy (keV)" class="number">{{ '~' if mission.high_energy_uncertain }}{{ mission.high_energy | format_energy }}</td>
+{# --- Launch date --- #}
+{% set launch_class = "date" ~ (" multiple-flights" if mission.multiple_flights else "") %}
+{% if mission.multiple_flights and mission.date_range_note %}
+{% set launch_tip = mission.date_range_note %}
+{% elif mission.multiple_flights and mission.flight_count %}
+{% set launch_tip = "Multiple flights (" ~ mission.flight_count ~ " total)" %}
+{% else %}
+{% set launch_tip = "" %}
+{% endif %}
+{% if launch_tip %}
+        <td data-label="Launch" class="{{ launch_class }}" data-tooltip="{{ launch_tip }}">{{ mission.launch_date | format_date }}</td>
+{% else %}
+        <td data-label="Launch" class="{{ launch_class }}">{{ mission.launch_date | format_date }}</td>
+{% endif %}
+{# --- End date --- #}
+{% if mission.end_date %}
+{% set end_class = "date" ~ (" multiple-flights" if mission.multiple_flights else "") %}
+{% set end_display = mission.end_date | format_date %}
+{% elif mission.planned_end_date %}
+{% set end_class = "date planned" %}
+{% set end_display = mission.planned_end_date | format_date %}
+{% else %}
+{% set end_class = "date" %}
+{% set end_display = "" %}
+{% endif %}
+{% if mission.planned_end_date and not mission.end_date %}
+{% if mission.extended_end_date %}
+{% set end_tip = "Planned end: " ~ (mission.planned_end_date | format_date) ~ " (Extended: " ~ (mission.extended_end_date | format_date) ~ ")" %}
+{% else %}
+{% set end_tip = "Planned end: " ~ (mission.planned_end_date | format_date) %}
+{% endif %}
+{% elif mission.multiple_flights and mission.date_range_note %}
+{% set end_tip = mission.date_range_note %}
+{% elif mission.multiple_flights and mission.flight_count %}
+{% set end_tip = "Multiple flights (" ~ mission.flight_count ~ " total)" %}
+{% else %}
+{% set end_tip = "" %}
+{% endif %}
+{% if end_tip %}
+        <td data-label="End Date" class="{{ end_class }}" data-tooltip="{{ end_tip }}">{{ end_display }}</td>
+{% else %}
+        <td data-label="End Date" class="{{ end_class }}">{{ end_display }}</td>
+{% endif %}
+{# --- Data badge --- #}
+{% if mission.heasarc %}
+        <td data-label="Data"><span class="heasarc-badge">HEASARC</span></td>
+{% else %}
+        <td data-label="Data"></td>
+{% endif %}
+      </tr>
+{% endfor %}
+    </tbody>
+  </table>
+  <div class="date-legend">
+    <div class="date-legend-item">
+      <strong>*</strong> = Planned end date (current/future missions)
+    </div>
+    <div class="date-legend-item">
+      <strong>⟳</strong> = Multiple flights (date range shown)
+    </div>
+    <div class="date-legend-item">
+      <em>Hover over marked dates for details</em>
+    </div>
+  </div>
+
+  <div id="noResults" class="no-results" style="display: none;">
+    <h3>No missions found</h3>
+    <p>Try adjusting your filters</p>
+  </div>
+</div>
+
+<script>
+class MissionTableFilter {
+    constructor() {
+        this.table = document.getElementById('missionsTable');
+        this.tbody = document.getElementById('missionTableBody');
+        this.rows = Array.from(document.querySelectorAll('.mission-row'));
+        this.originalOrder = [...this.rows];
+        this.activeFilters = {};
+        this.currentSort = { column: null, direction: 'asc' };
+        this.resultsInfo = document.getElementById('resultsInfo');
+        this.noResults = document.getElementById('noResults');
+        
+        this.initializeEventListeners();
+    }
+
+    initializeEventListeners() {
+        document.querySelectorAll('th.sortable').forEach(th => {
+            th.addEventListener('click', () => {
+                this.handleSort(th.getAttribute('data-sort'));
+            });
+        });
+
+        document.getElementById('categoryFilter').addEventListener('change', (e) => {
+            this.activeFilters.category = e.target.value;
+            this.applyFilters();
+        });
+
+        document.getElementById('statusFilter').addEventListener('change', (e) => {
+            this.activeFilters.status = e.target.value;
+            this.applyFilters();
+        });
+
+        document.getElementById('decadeFilter').addEventListener('change', (e) => {
+            this.activeFilters.decade = e.target.value;
+            this.applyFilters();
+        });
+
+        document.getElementById('heasarcFilter').addEventListener('change', (e) => {
+            this.activeFilters.heasarc = e.target.value;
+            this.applyFilters();
+        });
+    }
+
+    handleSort(column) {
+        if (this.currentSort.column === column) {
+            this.currentSort.direction = this.currentSort.direction === 'asc' ? 'desc' : 'asc';
+        } else {
+            this.currentSort.column = column;
+            this.currentSort.direction = 'asc';
+        }
+
+        document.querySelectorAll('th.sortable').forEach(th => {
+            th.classList.remove('sort-asc', 'sort-desc');
+        });
+        const activeHeader = document.querySelector(`th[data-sort="${column}"]`);
+        activeHeader.classList.add(`sort-${this.currentSort.direction}`);
+
+        this.applyFilters();
+    }
+
+    applyFilters() {
+        let filteredRows = this.rows.filter(row => {
+            if (this.activeFilters.category && this.activeFilters.category !== 'all') {
+                if (row.getAttribute('data-category') !== this.activeFilters.category) return false;
+            }
+            if (this.activeFilters.status && this.activeFilters.status !== 'all') {
+                if (row.getAttribute('data-status') !== this.activeFilters.status) return false;
+            }
+            if (this.activeFilters.decade && this.activeFilters.decade !== 'all') {
+                if (row.getAttribute('data-decade') !== this.activeFilters.decade) return false;
+            }
+            if (this.activeFilters.heasarc && this.activeFilters.heasarc === 'yes') {
+                if (row.getAttribute('data-heasarc') !== 'yes') return false;
+            }
+            return true;
+        });
+
+        if (this.currentSort.column) {
+            filteredRows = this.sortRows(filteredRows, this.currentSort.column, this.currentSort.direction);
+        }
+
+        this.updateDisplay(filteredRows);
+        this.updateResultsInfo(filteredRows.length);
+    }
+
+    naturalSort(a, b, direction) {
+        const reA = /[^0-9]+|[0-9]+/g;
+        const aArr = a.match(reA);
+        const bArr = b.match(reA);
+        const maxLen = Math.max(aArr.length, bArr.length);
+        
+        for (let i = 0; i < maxLen; i++) {
+            const aPart = aArr[i] || '';
+            const bPart = bArr[i] || '';
+            const aNum = parseInt(aPart, 10);
+            const bNum = parseInt(bPart, 10);
+            
+            if (!isNaN(aNum) && !isNaN(bNum)) {
+                if (aNum !== bNum) return direction === 'asc' ? aNum - bNum : bNum - aNum;
+            } else {
+                const cmp = aPart.toLowerCase().localeCompare(bPart.toLowerCase());
+                if (cmp !== 0) return direction === 'asc' ? cmp : -cmp;
+            }
+        }
+        return 0;
+    }
+
+    parseFlexibleDate(dateStr) {
+        if (!dateStr) return new Date('9999-12-31');
+        if (dateStr.length === 4) dateStr = dateStr + '-01-01';
+        else if (dateStr.length === 7) dateStr = dateStr + '-01';
+        return new Date(dateStr);
+    }
+
+    sortRows(rows, column, direction) {
+        return rows.sort((a, b) => {
+            let aVal, bVal;
+
+            switch(column) {
+                case 'mission':
+                    aVal = a.getAttribute('data-mission');
+                    bVal = b.getAttribute('data-mission');
+                    return this.naturalSort(aVal, bVal, direction);
+                case 'low-energy':
+                    aVal = parseFloat(a.getAttribute('data-low-energy'));
+                    bVal = parseFloat(b.getAttribute('data-low-energy'));
+                    break;
+                case 'high-energy':
+                    aVal = parseFloat(a.getAttribute('data-high-energy'));
+                    bVal = parseFloat(b.getAttribute('data-high-energy'));
+                    break;
+                case 'launch':
+                    aVal = this.parseFlexibleDate(a.getAttribute('data-launch'));
+                    bVal = this.parseFlexibleDate(b.getAttribute('data-launch'));
+                    break;
+                case 'end':
+                    aVal = this.parseFlexibleDate(a.getAttribute('data-end'));
+                    bVal = this.parseFlexibleDate(b.getAttribute('data-end'));
+                    break;
+                default:
+                    return 0;
+            }
+
+            if (aVal < bVal) return direction === 'asc' ? -1 : 1;
+            if (aVal > bVal) return direction === 'asc' ? 1 : -1;
+            return 0;
+        });
+    }
+
+    updateDisplay(rows) {
+        this.tbody.innerHTML = '';
+        
+        if (rows.length === 0) {
+            this.table.style.display = 'none';
+            this.noResults.style.display = 'block';
+        } else {
+            this.table.style.display = 'table';
+            this.noResults.style.display = 'none';
+            rows.forEach(row => this.tbody.appendChild(row));
+        }
+    }
+
+    updateResultsInfo(count) {
+        const total = this.rows.length;
+        if (count === total) {
+            this.resultsInfo.textContent = `Showing all ${total} missions`;
+        } else {
+            this.resultsInfo.textContent = `Showing ${count} of ${total} missions`;
+        }
+    }
+
+    clearFilters() {
+        this.activeFilters = {};
+        this.currentSort = { column: null, direction: 'asc' };
+        
+        document.getElementById('categoryFilter').value = 'all';
+        document.getElementById('statusFilter').value = 'all';
+        document.getElementById('decadeFilter').value = 'all';
+        document.getElementById('heasarcFilter').value = 'all';
+        
+        document.querySelectorAll('th.sortable').forEach(th => {
+            th.classList.remove('sort-asc', 'sort-desc');
+        });
+        
+        this.updateDisplay(this.originalOrder);
+        this.updateResultsInfo(this.rows.length);
+    }
+
+    /* ----------------------------------------------------------
+       Parse URL query parameters to set initial sort and filters.
+
+       Sort parameter — maps friendly names to data-sort columns:
+         ?sort=alpha         -> "mission"    (alphabetical)
+         ?sort=alphabetical  -> "mission"
+         ?sort=name          -> "mission"
+         ?sort=time          -> "launch"     (chronological)
+         ?sort=launch        -> "launch"
+         ?sort=date          -> "launch"
+         ?sort=chronological -> "launch"
+         ?sort=energy        -> "low-energy" (by low energy bound)
+         ?sort=low-energy    -> "low-energy"
+         ?sort=high-energy   -> "high-energy"
+         ?sort=end           -> "end"
+
+       Direction parameter:
+         &dir=asc   (default if omitted)
+         &dir=desc
+
+       Filter parameters (values must match <option> values):
+         &category=xray|gamma|euve|particle
+         &status=current|past|future
+         &decade=1960|1970|...|2020
+         &heasarc=yes
+
+       Examples:
+         missions_table.html?sort=alpha
+         missions_table.html?sort=time&status=current
+         missions_table.html?sort=energy&dir=desc&category=xray
+         missions_table.html?status=past&heasarc=yes
+       ---------------------------------------------------------- */
+    parseURLParams() {
+        const params = new URLSearchParams(window.location.search);
+
+        // --- Handle sort parameter ---
+        const sortParam = params.get('sort');
+        if (sortParam) {
+            const sortMap = {
+                'alpha':        'mission',
+                'alphabetical': 'mission',
+                'name':         'mission',
+                'time':         'launch',
+                'launch':       'launch',
+                'date':         'launch',
+                'chronological':'launch',
+                'energy':       'low-energy',
+                'low-energy':   'low-energy',
+                'high-energy':  'high-energy',
+                'end':          'end'
+            };
+
+            const column = sortMap[sortParam.toLowerCase()];
+            if (column) {
+                const dirParam = params.get('dir');
+                const direction = (dirParam && dirParam.toLowerCase() === 'desc') ? 'desc' : 'asc';
+
+                this.currentSort.column = column;
+                this.currentSort.direction = direction;
+
+                // Update column header indicator
+                const activeHeader = document.querySelector(`th[data-sort="${column}"]`);
+                if (activeHeader) {
+                    activeHeader.classList.add(`sort-${direction}`);
+                }
+            }
+        }
+
+        // --- Handle filter parameters ---
+        const filterMap = {
+            'category': 'categoryFilter',
+            'status':   'statusFilter',
+            'decade':   'decadeFilter',
+            'heasarc':  'heasarcFilter'
+        };
+
+        for (const [param, elementId] of Object.entries(filterMap)) {
+            const value = params.get(param);
+            if (value) {
+                const select = document.getElementById(elementId);
+                // Only apply if value matches a valid <option>
+                const validOption = Array.from(select.options).find(
+                    opt => opt.value.toLowerCase() === value.toLowerCase()
+                );
+                if (validOption) {
+                    select.value = validOption.value;
+                    this.activeFilters[param] = validOption.value;
+                }
+            }
+        }
+
+        // Apply if any sort or filter was set via URL
+        if (this.currentSort.column || Object.keys(this.activeFilters).length > 0) {
+            this.applyFilters();
+        }
+    }
+}
+
+// Initialize when page loads
+document.addEventListener('DOMContentLoaded', function() {
+    const missionFilter = new MissionTableFilter();
+    
+    // Apply any URL parameters (sort, filters)
+    missionFilter.parseURLParams();
+    
+    // Make clearAllFilters globally available
+    window.clearAllFilters = function() {
+        missionFilter.clearFilters();
+        // Strip URL parameters so refresh doesn't re-apply old state
+        if (window.history.replaceState) {
+            window.history.replaceState({}, '', window.location.pathname);
+        }
+    };
+});
+</script>
+
+</div> <!--End of mission page container -->
+
+<hr>
+<h2>High-Energy Mission Network </h2>
+<hr>
+
+<ul class="usa-list usa-list--unstyled">
+<li><a class="usa-link" href="ipn.html">
+    <b>Interplanetary Gamma-Ray Burst Timing Network</b></a></li>
+</ul>
+  
+<p>Information on other non high-energy missions is available at the 
+<a class="usa-link" href="http://nssdc.gsfc.nasa.gov/astro/">NSSDC</a>.</p>
+
+<!--================================================================-->
+<hr><p>
+
+<div class="grid-container padding-1">
+  <div class="display-flex flex-justify-center flex-wrap">
+    <a href="past.html"
+       class="usa-button usa-button--outline height-4 hover:bg-primary hover:text-white 
+              margin-1 padding-x-2 font-sans-3xs">
+       Past Missions at HEASARC
+    </a>
+    <a href="active.html"
+       class="usa-button usa-button--outline height-4 hover:bg-primary hover:text-white 
+              margin-1 padding-x-2 font-sans-3xs">
+       Current Missions
+    </a>
+    <a href="future.html"
+       class="usa-button usa-button--outline height-4 hover:bg-primary hover:text-white 
+              margin-1 padding-x-2 font-sans-3xs">
+       Upcoming Missions
+    </a>
+    <a href="concepts.html"
+       class="usa-button usa-button--outline height-4 hover:bg-primary hover:text-white 
+              margin-1 padding-x-2 font-sans-3xs">
+       Mission Concepts
+    </a>
+    <a href="comparison.html"
+       class="usa-button usa-button--outline height-4 hover:bg-primary hover:text-white 
+              margin-1 padding-x-2 font-sans-3xs">
+       Mission Comparisons
+    </a>
+  </div>
+</div>
+
+<!--================================================================-->
+<hr><p>
+
+<!--#include virtual="/includes/uswds-footer.html"-->
+

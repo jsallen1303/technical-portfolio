@@ -1,0 +1,12 @@
+1998SPIE.3445....2H|Humm, D;Paxton, L;Christensen, A;Ogorzalek, B;Pardoe, C;Meng, C;Morrison, D;Strickland, D;Evans, J;Weiss, M;Crain, W;Lew, P;Mabry, D;Goldsten, J;Gary, S;Peacock, K;Persons, D;Harold, M;Alvarez, E;Ercol, C|Design and performance of the Global Ultraviolet Imager (GUVI)|14
+1997SPIE.3116...57P|Peacock, K|Spectrographs in space|0
+1996bc...rept.....D|Delorey, D;Madden, D;Holeman, E;Parsons, C;Pruneau, P;Palys, J;Martin, K|Space Environment Studies from CRRES, APEX, and DMSP Satellite Data|0
+1995SPIE.2583..356S|Short, N;Coronado, P;Stetina, F;Mahoney, R;Shaffer, E;Wichmann, K|Development of a regional environmental system for the support of mission to planet earth|0
+1995grb..symp.....T|Terrell, J;Lee, P;Klebesadel, R|DMSP satellite detections of gamma-ray bursts|0
+1993beps.proc..845J|Jordan, T|Numerical simulation of `DMSP' dosimeter response|0
+1992AIPC..265...48T|Terrell, J;Klebesadel, R;Lee, P;Griffee, J|Gamma-Ray Burst Data from DMSP Satellites|1
+1992SPIE.1743..151L|Lee, P;Guyker, F;Hsu, H;Klebesadel, R;Terrell, N;Griffee, J;Free, D;Jones, R|Flight performance of DMSP Package B instruments|0
+1992SPIE.1745....2P|Paxton, L;Meng, C;Fountain, G;Ogorzalek, B;Darlington, E;Gary, S;Goldsten, J;Kusnierkiewicz, D;Lee, S;Linstrom, L;Maynard, J;Peacock, K;Persons, D;Smith, B|Special sensor ultraviolet spectrographic imager: an instrument description|33
+1992SPIE.1745..310M|McCoy, R;Dymond, K;Fritz, G;Thonnard, S;Meier, R;Regeon, P|Far- and extreme-ultraviolet limb imaging spectrograph for the DMSP satellites|13
+1987sici.symp....5B|Brautigam, D;Gussenhoven, M;Mullen, E;Oberhardt, M|Low altitude flux and dose measurements during two solar flare events|0
+1985aiaa.meet.....R|Redmann, J|An overview of the mission sensor systems of the DMSP satellites|0

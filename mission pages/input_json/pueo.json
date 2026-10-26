@@ -1,0 +1,50 @@
+{
+    "title": "Payload for Ultrahigh Energy Observations (PUEO)",
+    "name": "PUEO",
+    "alttext": "PUEO payload",
+    "imagesize": 171,
+    "imageurl": "/Images/misc_missions/PUEO_white_paper_760_sm.jpg",
+    "descript": "<p><b><font size=\"+2\">T</font>he Payload for Ultrahigh Energy Observations (PUEO)</b> mission was a balloon-borne payload which flew over Antarctica. The balloon gondola carried an array of radio frequency (RF) receivers, designed to measure RF signals from neutrinos passing through the Antarctic ice sheet. It was based on the Antarctic Impulsive Transient Antenna (ANITA), though PUEO used much more powerful detectors. PUEO was selected by NASA for funding under the Pioneers Program. and was led by the University of Chicago, with instrument and gondola elements developed and supported by a number of institutions. The initial month-long flight commenced in December 2025 during austral summer for near-continuous daylight and reliable circumpolar wind patterns around Antarctica. The balloon was launched from McMurdo Station&rsquo;s Long Duration Balloon Facility.</p>\n\n<p>Ultra-high energy neutrinos interact with ice, producing radio emissions through the Askaryan Effect. A stratospheric balloon can observe the entire Antarctic ice sheet providing an exceedingly large detector volume. These measurements are best at the highest energies (&gt;10<sup>18</sup> eV) and complement ground-based detectors such as IceCube which are attuned to lower energy neutrinos. PUEO also measured extensive air showers (EAS) from ultra-high energy cosmic rays interacting with the upper atmosphere.</p>",
+    "decade" : "2020",
+    "gofsidebar" : "Past",
+    "lifetime": "Dec 19, 2025&ndash;Jan 12, 2026. Additional flights during future austral summers are possible",
+    "features": [
+	"Long-duration balloon with a gondola carrying an array of radio receivers",
+	"Extraordinarily large detection mass (Antarctic ice sheet)",
+	"Sensitive to ultra-high energy"
+    ],
+  "instruments": [
+    {
+      "name": "Main Instrument",
+      "descript": "108 dual-polarization quad-ridge horn attennas measuring 300&ndash;1200 MHz radio frequencies, measured across 216 channels, arranged in 5 rings in 24 azimuthal sectors: the top four rings were canted 10&deg; downward from the horizon, while the final lowest ring was canted downward at 40&deg; to improve sensitivity to EAS events. Electronics onboard performed phased array interferometry to improve signal to noise ratios and for better rejection of anthropogenic interference (typically from well-defined localized sources): masking of affected antennas also improved detector performance."
+    },
+    {
+      "name": "Low Frequency Instrument",
+      "descript": "A suite of 4 dual-polarized attennas which dangled below the gondola. These collected data in an 8-channel band. This dedicated system improved overall sensitivity to cosmic rays and tau lepton decays: data collected will also inform possible future instruments targeting tau lepton events specifically."
+    },
+    {
+      "name": "Supporting Electronics and Hardware",
+      "descript": "The Main and Low Frequency Instruments were connected to onboard processing systems via Radio Frequency over Fibre to support the 224-channel spectral data collection, digitalized and processed onboard, and stored for collection in hard drives built specifically to operate in the very cold high altitude environment and to survive flight-related stress (including hard landing).  The gondola is based on the ANITA flights and is designed to be both strong and lightweight to meet long-duration balloon requirements."
+    }
+  ],
+  "highlights": [
+    "Detection and characterization of ultra-high energy neutrinos and cosmic ray events;",
+    "Constraints on astrophysical models for neutron-neutron star mergers;",
+    "Ultra-high energy events from short gamma-ray bursts."
+  ],
+  "archive": "HEASARC will host PUEO data, products, and catalogs.",
+  "navigation": [
+    {
+      "url": "/docs/pueo/",
+      "text": "PUEO at HEASARC"
+    },
+    {
+      "url": "https://pueo.space/",
+      "text": "PUEO at University of Chicago"
+    },
+    {
+      "url": "biblio/pueo_biblio.html",
+      "text": "Bibliography"
+    }
+  ]
+}

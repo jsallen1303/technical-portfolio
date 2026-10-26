@@ -1,0 +1,35 @@
+{
+  "title": "The Spacelab 1 Mission",
+  "name": "Spacelab 1",
+  "alttext": "artist concept of Spacelab 1",
+  "imagesize": 261,
+  "imageurl": "/Images/spacelab/spacelab_small.gif",
+  "descript": "<p><b><font size=\"+2\">T</font>he first Spacelab mission</b>, in orbit in the payload bay of the Space Shuttle (STS-9) from 28 November-8 December 1983, carried a multi-disciplinary payload intended to demonstrate that good science could be done on short shuttle flights.</p>",
+      "decade": 1980,
+  "lifetime": "28 Nov&ndash;8 Dec 1983",
+  "features": [""],
+    "instruments": [
+	{
+	    "name" : "X-ray spectrometer",
+	    "energy" : "2&ndash;30 keV (nominal)<br>2&ndash;80 keV (max)",
+	    "area" : " 180 cm <sup>2</sup> at 7 keV",
+	    "fov" : "4.5&deg (FWHM)",
+	    "energy_resolution" : "9% at 7 keV",
+	    "descript" : "An X-ray spectrometer, measuring 2&ndash;30 keV photons (although 2&ndash;80 keV was possible), was on the pallet. The primary science objective was to study detailed spectral features in cosmic sources and their temporal changes. The instrument was a gas scintillation proportional counter (GSPC) with 512 energy channels."
+	}
+    ],
+    "highlights" : [
+	"Data were accumulated for all intended targets. These included Cyg X-2, 4U1636-53, Her X-1, Coma, Cyg X-3, Perseus, Cyg X-1, Cas A, Crab, Cen X-3, Cen X-2, and Vela X-1."
+    ],
+  "archive": "",
+  "navigation": [
+    {
+      "url": "images/spacelab_images.html",
+      "text": "Gallery"
+    },
+    {
+      "url": "biblio/spacelab_biblio.html",
+      "text": "Publications"
+    }
+  ]
+}

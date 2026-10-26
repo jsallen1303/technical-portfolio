@@ -1,0 +1,10 @@
+1996PhDT.........3A|Azzam, W|The Spatial Distribution of Gamma-Ray Bursts: a New Statistical Approach|0
+1996PhDT........10K|Kargatis, V|Continuum Spectral Evolution of Gamma-Ray Bursts.|0
+1994A&A...286..103D|Dezalay, J;Atteia, J;Barat, C;Talon, R;Sunyaev, R;Terekhov, O;Kuznetsov, A;Dyatchkov, A|Application of the V/V_max_ test to PHEBUS gamma-ray bursts|5
+1994ApJ...422..260K|Kargatis, V;Liang, E;Hurley, K;Barat, C;Eveno, E;Niel, M|Spectral Evolution of Gamma-Ray Bursts Detected by the SIGNE Experiment. I. Correlation between Intensity and Spectral Hardness|42
+1993A&AS...97...63B|Belli, B|Temporal structures in gamma-ray bursts.|4
+1986PAZh...12..755K|Kouznetsov, A;Syunyaev, R;Terekov, O;Jakubtsev, L;Barat, C;Boer, B;Vedrenne, G;Niel, M;Hurley, K|Powerful gamma-ray burst GRB830801b. Signe-2MP9 experimental data.|5
+1986SvAL...12..311K|Kuznetsov, A;Syunyaev, R;Terekhov, O;Yakubtsev, L;Barat, C;Boer, B;Hurley, K;Niel, M;Vedrenne, G|The SIGNE:2 MP9 Cosmic Gamma-Ray Burst Experiments - Preliminary Results|9
+1986SvAL...12..315K|Kuznetsov, A;Syunyaev, R;Terekhov, O;Yakubtsev, L;Barat, C;Boer, B;Hurley, K;Niel, M;Vedrenne, G|SIGNE:2 MP9 Data for the Powerful Gamma-Ray Burst of 1983AUG1|15
+1982A&A...109L...9B|Barat, C;Chambon, G;Hurley, K;Niel, M;Vedrenne, G|The log N-log S curve of gamma-ray bursts detected by the SIGNE experiments|15
+1981Ap&SS..75......||Symposium on Cosmic Gamma-Ray Bursts, Toulouse, France, November 26-29, 1979, Proceedings|0

@@ -1,0 +1,33 @@
+2014HEAD...1411001U|Uprety, Y;Chiao, M;Collier, M;Cravens, T;Galeazzi, M;Koutroumpa, D;Kuntz, K;Lallement, R;Lepri, S;Liu, W;McCammon, D;Morgan, K;Porter, F;Puspitarini, L;Robertson, I;Snowden, S;Thomas, N;Ursino, E;Walsh, B|The origin of the “local” ¼ keV X-ray flux|0
+2014HEAD...1430301M|McCammon, D|Charge Exchange in X-ray Astronomy|0
+2013HEAD...1330108U|Uprety, Y;Galeazzi, M;Collier, M;Cravens, T;Koutroumpa, D;Kuntz, K;Lepri, S;McCammon, D;Morgan, K;Porter, F;Prasai, K;Robertson, I;Snowden, S;Thomas, N|The Diffuse X-rays from the Local Galaxy (DXL) Mission|0
+2013SPIE.8859E..0ZT|Thomas, N;Carter, J;Chiao, M;Chornay, D;Collado-Vega, Y;Collier, M;Cravens, T;Galeazzi, M;Koutroumpa, D;Kujawski, J;Kuntz, K;Kuznetsova, M;Lepri, S;McCammon, D;Morgan, K;Porter, F;Prasai, K;Read, A;Robertson, I;Sembay, S;Sibeck, D;Snowden, S;Uprety, Y;Walsh, B|The DXL and STORM sounding rocket mission|3
+2011apra.prop..152M|McCammon, D|Cosmic X-ray Physics: A Suborbital Investigation of the Diffuse X-ray Background Including Instrumentation Development|0
+2010AAS...21642410D|Defay, X;Luo, L;McCammon, D;Morgan, K;Pang, R;Riedel, B|A Limit on the Contribution of Hot Halo Emission to the 0.75 Kev Diffuse X-ray Background from ROSAT Data|0
+2009aaxo.conf..252M|McCammon, D|The Diffuse Soft X-ray Sky|0
+2003SPIE.4851..388S|Sanders, W;Henry, R;Bregman, J;Cen, R;Cox, D;Croft, R;Hammond, E;Hurwitz, M;Kimble, R;McCammon, D;McKee, C;Murthy, J;Phillips, L;Porter, F;Raymond, J;Serlemitsos, P;Shelton, R;Smith, R;Stahle, C;Szymkowiak, A|Proposed SMEX to spectrally analyze the diffuse x-ray background: The Baryonic Extragalactic Structure Tracer (BEST)|1
+2002AAS...201.7907R|Rocks, L;Liu, D;McCammon, D;Sanders, W;Vaillancourt, J;Galeazzi, M;Figueroa-Feliciano, T;Kelley, R;Mushotzky, R;Porter, F;Stahle, C;Szymkowiak, A|An Upper Limit on the Redshifted Intergalactic Oxygen Emission|0
+2000AAS...19513504M|McCammon, D;Almy, R;Apodaca, E;Bergmann, W;Deiker, S;Galeazzi, M;Lesser, A;Sanders, W;Figueroa, E;Kelley, R;Porter, F;Stahle, C;Szymkowiak, A|High Spectral Resolution Observations of the Soft X-ray Diffuse Background with Thermal Detectors|2
+2000HEAD....5.3224S|Sanders, W;Cui, W;Juda, M;McCammon, D|CXO Observation of Diffuse X-ray Emission from NGC 3184|0
+2000HEAD....5.3227G|Galeazzi, M;Almy, R;Apodaca, E;Bergmann Tiest, W;Deiker, S;Lesser, A;McCammon, D;Sanders, W;Figueroa, E;Kelley, R;Porter, F;Stahle, C;Szymkowiak, A|An Observation of the Soft X-ray Diffuse Background with High Energy Resolution Micro-calorimeters|0
+1999AAS...19410901A|Apodaca, E;Almy, M;Galeassi, M;McCammon, D;Sanders, W;Tiest, W;Figueroa, E;Porter, F;Stahle, C;Szymkowiak, A|Initial X-Ray Calorimter Results from a recent Sounding Rocket Flight|0
+1999hxra.conf..274M|McCammon, D;Egger, R;Freyberg, M;Plucinsky, P;Sanders, W;Schmitt, J;Snowden, S;Trumper, J;Voges, W|Diffuse X-ray Background Maps from the ROSAT All-Sky Survey|0
+1997SPIE.3114..636S|Sanders, W;Cox, D;McCammon, D;Paulos, R;Brickhouse, N;Edgar, R;Raymond, J;Liedahl, D;Boldt, E;Jahoda, K;Kallman, T;Kelley, R;Mushotzky, R;Porter, F;Shelton, R;Smith, R;Snowden, S;Stahle, C;Szymkowiak, A;White, N|XBSS: the X-Ray Background Spectroscopic Survey|1
+1994AAS...184.2915S|Sanders, W;McCammon, D;Lockman, F;Jahoda, K;Snowden, S;Hasinger, G|Soft X-ray and HI Surveys of the Low NH Region in Ursa Major|0
+1994AAS...184.4814C|Cui, W;Sanders, W;McCammon, D|Diffuse X-ray Emission from Several Nearby Spiral Galaxies|0
+1994SPIE.2280..362C|Cui, W;Almy, R;Deiker, S;McCammon, D;Morgenthaler, J;Sanders, W;Kelley, R;Marshall, F;Moseley, S;Stahle, C;Szymkowiak, A|Sounding rocket experiment employing microcalorimeter detectors to obtain a high-resolution spectrum of the diffuse x-ray background|5
+1993AAS...182.6103J|Juda, M;McCammon, D;Sanders, W;Snowden, S|ROSAT PSPC Observations of Clouds at High Galactic Latitude|0
+1992AAS...181.4701P|Plucinsky, P;Snowden, S;Aschenbach, B;Egger, R;Edgar, R;McCammon, D|ROSAT Survey Observations of the Monogem Ring|0
+1990BAAS...22..751E|Edwards, B;Juda, M;McCammon, D;Plucinsky, P;Sanders, W;Zhang, J|Possible Absorption of the Diffuse X-Ray Background by a Nearby Interstellar Cloud|0
+1986STIN...8627169J|Jahoda, K;McCammon, D;Lockman, F|Small scale H I structure and the soft X-ray background|0
+1986wisc.reptR....M|McCammon, D;Cox, D;Kraushaar, W;Sanders, W|Cosmic X-ray physics|0
+1984NASCP2345..195M|McCammon, D|The Soft X-Ray Diffuse Background: Implications for the Nature of the Local Interstellar Medium|8
+1984STIN...8418147M|McCammon, D;Sanders, W|Limits on diffuse X-ray emission from M101|0
+1982BAAS...14..961M|McCammon, D|Limits on Diffuse X-ray Emission from M101|0
+1982STIN...8320892M|McCammon, D;Burrows, D;Sanders, W;Kraushaar, W|The soft X-ray diffuse background|0
+1979BAAS...11R.723M|McCammon, D;Kraushaar, W;Sanders, W;Burrows, D|Spatial Distribution and Broad-Band Spectral Characteristics of the Diffuse X-ray Background, 0.1-1.0 keV|1
+1979BAAS...11S.723M|McCammon, D|Spatial Distribution and Broad-Band Spectral Characteristics of the Diffuse X-ray Background, 0.1-1.0 keV|0
+1979ICRC....1....3M|McCammon, D|Diffuse Soft X-Ray Background|1
+1979ICRC...12....1M|McCammon, D|Spatial Distribution and Broad-Band Spectral Characteristics of the Diffuse Soft X-Ray Background, 0.1-1.0 KEV|0
+1972BAAS....4..220C|Coleman, P;Bunner, A;Kraushaar, W;McCammon, D;Williamson, F|Observations of the Soft Diffuse X-Ray Flux Near the Galactic Plane, l<SUP>Π</SUP> = 150° to 220°.|1
+1972BAAS....4S.260K|Kraushaar, W;Bunner, A;Coleman, P;McCammon, D|Diffuse soft cosmic X-ray.|0

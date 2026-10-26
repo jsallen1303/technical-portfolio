@@ -1,0 +1,164 @@
+1998A&A...337..955B|Blecka, M;Jurewicz, A|Seasonal variations of the solar radiation scattered from the putative dust rings of Mars: a possible basis for photometric searches|2
+1998JGR...103..317D|Delva, M;Dubinin, E|Upstream ULF fluctuations near Mars|16
+1997GeoRL..24.2901F|Fox, J|Upper limits to the outflow of ions at Mars: Implications for atmospheric evolution|62
+1997Icar..130..449E|Erard, S;Calvin, W|New Composite Spectra of Mars, 0.4-5.7 μm|66
+1997P&SS...45..637T|Titov, D;Moroz, V;Gektin, Y|Aerosol component of the Martian atmosphere and its variability from the results of infrared radiometry in the Termoscan/Phobos-2 experiment|7
+1996Icar..123...63M|Murchie, S;Erard, S|Spectral Properties and Heterogeneity of PHOBOS from Measurements by PHOBOS 2|61
+1995AdSpR..15d..17M|Mahajan, K;Kar, J;Kohli, R|The origin of molecular ions in the Martian magnetosphere|4
+1995AdSpR..15d.143L|Luhmann, J|Outstanding problems in mars aeronomy|6
+1995AdSpR..15d.159M|McKenna-Lawlor, S;Rusznyak, P;Gringauz, K;Klimenko, I;Lutsenko, V;Verigin, M;Korth, A;Richter, A;Fischer, S;Polasek, C;Kudela, K;Balaz, J;Kecskemetry, K;Gevai, G|Planned investigation of energetic particle populations (\~20-500 keV) in the close Martian environment|1
+1995AdSpR..16d..87K|Kuznetsova, T;Tsirulnik, L;Styashkin, V;Rustenbach, J|Martian magnetic moment evaluated by different methods on the basis of PHOBOS 2 measurements|2
+1995AdSpR..16d..91K|Kuznetsova, T;Tsirulnik, L;Oraevsky, V;Mohlmann, D;Rustenbach, J|Results of spectral analysis of the Phobos-2 magnetic field data|3
+1995AdSpR..16d.119K|Kallio, E;Koskinen, H;Barabash, S;Lundin, R;Norberg, O|Nightside magnetosheath of Mars: ASPERA observations|7
+1995AdSpR..16f..23T|Titov, D;Rosenqvist, J;Moroz, V;Grigoriev, A;Arnold, G|Evidences of the regolith-atmosphere water exchange on Mars from the ISM (Phobos-2) infrared spectrometer observations|10
+1995AdSpR..16f..35M|Moroz, V|Experimental data on aerosols on Mars: VIKING, PHOBOS and future missions|2
+1995AdSpR..16f..75C|Castronuovo, M;Ulivieri, C|Removal of Mars atmospheric gas absorption from Phobos-2/ISM spectra|1
+1995GeoRL..22..863S|Shutte, N;Gringauz, K;Kiraly, P;Kotova, G;Nagy, A;Rosenbauer, H;Szego, K;Verigin, M|Nightside electron flux measurements at Mars by the Phobos-2 HARP instrument|1
+1995GeoRL..22.1181B|Brecht, S|Consideration of the Martian magnetotail as evidence for an intrinsic magnetic field|11
+1995JGR...100.5541R|Rosenqvist, J;Chassefiere, E|A reexamination of the relationship between eddy mixing and O<SUB>2</SUB> in the Martian middle atmosphere|11
+1994GeoRL..21..353M|Mustard, J;Bell, J|New composite reflectance spectra of Mars from 0.4 to 3.14 μm|66
+1994GeoRL..21..887R|Reyes, D;Christensen, P|Evidence for Komatiite-type lavas on Mars from Phobos ISM data and other observations|21
+1994GeoRL..21.1121Z|Zhang, T;Schwingenschuh, K;Russell, C;Luhmann, J;Rosenbauer, H;Verigin, M;Kotova, G|The flaring of the Martian magnetotail observed by the Phobos 2 spacecraft|10
+1994GeoRL..21.1547B|Barabash, S;Norberg, O|Indirect detection of the Martian helium corona|14
+1994GeoRL..21.2769D|Dubinin, E;Obod, D;Pedersen, A;Grard, R|Mass-loading asymmetry in upstream region near Mars|21
+1994Icar..111..317E|Erard, S;Mustard, J;Murchie, S;Bibring, J;Cerroni, P;Caradini, A|Martian Aerosols: Near-Infrared Spectral Properties and Effects on the Observation of the Surface|53
+1994JGR....99.1983B|Betts, B;Murray, B|Thermal studies of Martian channels and valleys using Termoskan data|3
+1994JGR....9917199R|Rosenbauer, H;Verigin, M;Kotova, G;Livi, S;Remizov, A;Riedler, W;Schwingenschuh, K;Shutte, N;Slavin, J;Szego, K;Tatrallyay, M;Zhang, T|The relationship between the magnetic field in the Martian magnetotail and upstream solar wind parameters|3
+1994JGR....9923547K|Kallio, E;Koskinen, H;Barabash, S;Lundin, R;Norberg, O;Luhmann, J|Proton flow in the Martian magnetosheath|20
+1994P&SS...42..435I|Ip, W;Breus, T;Zarnowiecki, T|Termination of the solar wind proton flow near Mars by charge exchange|6
+1994P&SS...42..831M|Moroz, V;Gektin, Y;Naraeva, M;Selivanov, A;Titov, D|Aerosol vertical profile on Mars from the measurements of thermal radiation on the limb|12
+1994P&SS...42.1001T|Titov, D;Moroz, V;Grigoriev, A;Rosenqvist, J;Combes, M;Bibring, J;Arnold, G|Observations of water vapour anomaly above Tharsis volcanoes on Mars in the ISM (Phobos-2) experiment|20
+1994SoPh..152..319J|Jimenez, A|Phase Differences Between Irradiance and Velocity Low Degree Solar Acoustic Modes Revisited|0
+1993AVest..27...19P|Petrova, E|Ice clouds over the Martian volcanos from KRFM experiment data (mission Phobos).|3
+1993GeoRL..20..165S|Sauer, K;Baumgartel, K;Motschmann, U|Phobos events as precursors of solar wind-Dust interaction|9
+1993GeoRL..20..787B|Barabash, S;Lundin, R|Reflected ions near Mars: PHOBOS-2 observations|23
+1993GeoRL..20.1339F|Fox, J;Brannon, J;Porter, H|Upper limits to the nightside ionosphere of Mars|47
+1993GeoRL..20.2339K|Kallio, E;Koskinen, H;Barabash, S;Lundin, R;Norberg, O;Luhmann, J|3D plasma observations near Mars|6
+1993Icar..101...42H|Hunten, D|CO on Mars: Comment on a Paper by Rosenqvist et al.|5
+1993Icar..102...76K|Korablev, O;Krasnopolsky, V;Rodin, A;Chassefiere, E|Vertical Structure of Martian Dust Measured by Solar Infrared Occultations from the Phobos Spacecraft|76
+1993JGR....98.1303V|Verigin, M;Gringauz, K;Kotova, G;Remizov, A;Shutte, N;Rosenbauer, H;Livi, S;Richter, A;Riedler, W;Schwingenschuh, K;Szego, K;Apathy, I;Tatrallyay, M|The dependence of the Martian magnetopause and bow shock on solar wind ram pressure according to Phobos 2 TAUS ion spectrometer measurements|44
+1993JGR....98.1345B|Brecht, S;Ferrante, J;Luhmann, J|Three-dimensional simulations of the solar wind interaction with Mars|50
+1993JGR....98.3311Z|Zhang, M;Luhmann, J;Nagy, A;Spreiter, J;Stahara, S|Oxygen ionization rates at Mars and Venus: Relative contributions of impact ionization and charge exchange|78
+1993JGR....98.3387M|Mustard, J;Erard, S;Bibring, J;Head, J;Hurtrez, S;Langevin, Y;Pieters, C;Sotin, C|The surface of Syrtis Major: Composition of the volcanic substrate and mixing with altered dust and soil|120
+1993JGR....98.3991D|Dubinin, E;Lundin, R;Norberg, O;Pissarenko, N|Ion acceleration in the Martian tail: Phobos observations|66
+1993JGR....98.5617D|Dubinin, E;Lundin, R;Koskinen, H;Norberg, O|Cold ions at the Martian bow shock: Phobos observations|21
+1993JGR....9811043B|Betts, B;Murray, B|Thermally distinct ejecta blankets from Martian craters|9
+1993JGR....9813303R|Ruzmaikin, A;Lyannaya, I;Styashkin, V;Eroshenko, E|The spectrum of the interplanetary magnetic field near 1.3 AU|13
+1993KosIs..31..102M|Moroz, V;Gektin, Y;Naraeva, M;Selivanov, A;Titov, D|Altitude profiles of aerosols on Mars from measurements of its thermal radiation at the limb.|2
+1993KosIs..31..137S|Styazhkin, V;Ivanov, K;Eroshenko, E|Magnetic field downstream at a distance of 24 million km from the Earth as measured on board the "Phobos-2" spacecraft in September, 1988.|0
+1993P&SS...41..183S|Skalsky, A;Grard, R;Kiraly, P;Klimov, S;Kopanyi, V;Schwingenschuh, K;Trotignon, J|Simultaneous plasma wave and electron flux observations upstream of the Martian bow shock|11
+1993P&SS...41..189T|Trotignon, J;Grard, R;Skalsky, A|Position and shape of the Martian bow shock: the Phobos 2 plasma wave system observations|25
+1993P&SS...41..373M|McKenna-Lawlor, S;Afonin, V;Yeroshenko, Y;Keppler, E;Kirsch, E;Schwingenschuh, K|First identification in energetic particles of characteristic plasma boundaries at Mars and an account of various energetic particle populations close to the planet|12
+1993P&SS...41..435K|Kirsch, E;McKenna-Lawlor, S;Afonin, V;Keppler, E;Livi, S;Rosenbauer, H;Witte, M;Schwingenschuh, K;Thompson, A;O'Sullivan, D|Signatures of the Martian moon Phobos in the fluxes of energetic particles as measured by experiment SLED onboard Phobos 2|0
+1992AZh....69.1052M|Mitrofanov, I;Kozlenkov, A;Dolidze, V;Pozanenko, A;Ushakov, D;Chernenko, A;Atteia, J;Barat, C;Vedrenne, G;Jourdain, E|Statistical study of energy spectra of cosmic gamma-ray bursts detected in the APEX experiment.|5
+1992ApJ...387..622H|Hartmann, D;Hurley, K;Niel, M|Gamma-Ray Bursts and Radio Pulsar Glitches|9
+1992GMS....66..327Z|Zakharov, A|The plasma environment of Mars: Phobos mission results.|2
+1992GMS....66..387B|Breus, T|The solar wind interaction with Mars over the solar cycle: a post-Phobos view.|1
+1992Icar...96..213K|Kuehrt, E;Giese, B;Keller, H;Ksanfomality, L|Interpretation of the KRFM-infrared measurements of phobos|15
+1992Icar...97...46C|Chassefiere, E;Blamont, J;Krasnopol'Skii, V;Korablev, O;Atreya, S;West, R|Vertical structure and size distributions of Martian aerosols from solar occultation measurements|62
+1992JGR....97.2927S|Skal'Skii, A;Grard, R;Klimov, S;Nairn, C;Trotignon, J;Schwingenschuh, K|The Martian bow shock: Wave observations in the upstream region|16
+1992JGR....97.6227S|Sauer, K;Roatsch, T;Motschmann, U;Schwingenschuh, K;Lundin, R;Rosenbauer, H;Livi, S|Observations of Plasma Boundaries and Phenomena Around Mars With Phobos 2|32
+1992JGR....9710637H|Haider, S;Kim, J;Nagy, A;Keller, C;Verigin, M;Gringauz, K;Shutte, N;Szego, K;Kiraly, P|Calculated ionization rates, ion densities, and airglow emission rates due to precipitating electrons in the nightside ionosphere of Mars|35
+1992JGR....9710831T|Trotignon, J;Skalsky, A;Grard, R;Nairn, C;Klimov, S|Electron density in the Martian foreshock as a by-product of the electron plasma oscillation observations|16
+1992JGR....9720925L|Lammer, H;Bauer, S|A Mars magnetic field: Constraints from molecular ion escape|15
+1992KosIs..30..396B|Breus, T|Solar wind interaction with Mars and Venus during solar activity cycle.|0
+1992P&SS...40..131B|Breus, T;Krymskii, A;Mitnitskii, V|Turbulent pick-up of new-born ions near Venus and Mars and problems of numerical modelling of the solar wind interaction with these planets - II. Two-fluid HD model|5
+1992P&SS...40..719G|Grafe, A|Intensity and position of the Martian magnetic dipole, calculated from the observations of the satellite Phobos 2|7
+1992P&SS...40.1033K|Krymskii, A;Breus, T;Dougherty, M;Southwood, D;Axford, W|The electromagnetic effects of the solar wind interaction with the Phobos neutral gas halo and dust torus|14
+1991A&A...244..236K|Kolyuka, Y;Tikhonov, V;Ivanov, N;Polyakov, V;Avanesov, G;Heifetz, V;Zhukov, B;Akim, E;Stepanyants, V;Papkov, O;Duxbury, T|PHOBOS and Deimos astrometric observations from the PHOBOS mission|13
+1991A&A...244..363A|Atteia, J;Barat, C;Chernenko, A;Dolidze, V;Dyatchkov, A;Jourdain, E;Khavenson, N;Kozlenkov, A;Kucherova, R;Mitrofanov, I;Moskaleva, L;Niel, M;Pozanenko, A;Scheglov, O;Surkov, Y;Vedrenne, G;Vilchinskaya, A|Rapid variability of the strong cosmic gamma-ray burst GB881024.|6
+1991A&A...251..655S|Schrijver, C;Dappen, W;Jimenez, A|Observations of the phase differences between irradiances and velocity for low-degree solar acoustic modes|27
+1991AnGeo...9..754D|Drossart, P;Rosenqvist, J;Combes, M;Erard, S;Langevin, Y;Bibring, J|Martian aerosol properties from the Phobos/ISM experiment.|60
+1991AnGeo...9..761K|Kirsch, E;Keppler, E;Witte, M;Rosenbauer, H;Livi, S;Schwingenschuh, K;McKenna-Lawlor, S;Afonin, V;O'Sullivan, D;Thompson, A|Pickup ions (E<SUB>O+</SUB> &gt; 55 keV) measured near Mars by Phobos 2 in February/March 1989.|14
+1991GeKar.......28K|Kravtsova, V;Khar'kovets, E|Refinement of PHOBOS maps using photographs from Phobos-2|0
+1991GeoRL..18..365T|Trotignon, J;Grard, R;Klimov, S|Location of the Martian bow shock measurements by the plasma wave system on Phobos 2|15
+1991GeoRL..18.1055C|Chassefiere, E|Photochemical regulation of CO on Mars|10
+1991GeoRL..18.1805B|Barabash, S;Dubinin, E;Pisarenko, N;Lundin, R;Russell, C|Picked-up protons near Mars: Phobos observations|52
+1991Icar...89..147K|Krasnopolsky, V;Likin, O;Farnik, F;Valnicek, B|Solar occultation observations of the Martian atmosphere in the ranges of 2-4 and 4-8 keV measured by phobos 2|4
+1991JGR....96.5925M|Murchie, S;Britt, D;Head, J;Pratt, S;Fisher, P;Zhukov, B;Kuzmin, A;Ksanfomality, L;Zharkov, A;Nikitin, G;Fanale, F;Blaney, D;Bell, J;Robinson, M|Color heterogeneity of the surface of Phobos: relationships to geologic features and comparison to meteorite analogs.|47
+1991JGR....9611165B|Breus, T;Krymskii, A;Lundin, R;Dubinin, E;Luhmann, J;Yeroshenko, Y;Barabash, S;Mitnitskii, V;Pissarenko, N;Styashkin, V|The solar wind interaction with Mars: Consideration of Phobos 2 mission observations of an ion composition boundary on the dayside|43
+1991JGR....9611189D|Dubinin, E;Lundin, R;Riedler, W;Schwingenschuh, K;Luhmann, J;Russell, C;Brace, L|Comparison of observed plasma and magnetic field structure in the wakes of Mars and Venus|37
+1991JGR....9611199L|Luhmann, J;Russell, C;Schwingenschuh, K;Eroshenko, E|A comparison of induced magnetotails of planetary bodies: Venus, Mars, and Titan|71
+1991JGR....9611221M|Moses, S;Kennel, C;Strangeway, R;Grard, R;Nairn, C|Characteristics of spectra from the Martian bow shock and comparison with Venus, Earth, AMPTE, Jupiter, and Saturn|3
+1991JGR....9611227N|Nairn, C;Grard, R;Skal'Skii, A;Trotignon, J|Plasma and wave observations in the night sector of Mars|18
+1991JGR....9611235S|Slavin, J;Schwingenschuh, K;Riedler, W;Eroshenko, E|The solar wind interaction with Mars: Mariner 4, Mars 2, Mars 3, Mars 5, and Phobos 2 observations of bow shock position and shape|62
+1991JGR....9611243P|Pedersen, A;Nairn, C;Grard, R;Schwingenschuh, K|Derivation of electron densities from differential potential measurements upstream and downstream of the bow shock and in the magnetosphere of Mars|29
+1991JGR....9611253T|Trotignon, J;Grard, R;Savin, S|Plasma wave system measurements of the martian bow shock from the Phobos 2 spacecraft|17
+1991JGR....9611283H|Horanyi, M;Tatrallyay, M;Juhasz, A;Luhmann, J|The dynamics of submicron-sized dust particles lost from Phobos|19
+1991JGR....9619307V|Verigin, M;Gringauz, K;Shutte, N;Haider, S;Szego, K;Kiraly, P;Nagy, A;Gombosi, T|On the possible source of the ionization in the nighttime Martial ionosphere. 1. PHOBOS 2 harp electron spectrometer measurements|36
+1991JGR....9619315V|Verigin, M;Gringauz, K;Kotova, G;Shiutte, N;Rosenbauer, H;Livi, S;Richter, A;Riedler, W;Schwingenschuh, K;Szego, K|On the problem of the Martian atmosphere dissipation: Phobos 2 TAUS spectrometer results|27
+1991P&SS...39.....B|Blamont, J|Phobos-Mars mission. Colloque International sur Premiers Résultats de la Mission PHOBOS et Futures Missions d'Exploration de Mars, Paris (France), 23 - 27 Oct 1989.|0
+1991P&SS...39....1V|Valnicek, B;Farnik, F;Likin, O;Pisarenko, N;Garcia, H|Solar x-ray observation during the flight of Phobos 2 with the RF-15 instrument|1
+1991P&SS...39...15L|Likin, O;Golubkova, M;Dyachkov, A;Pissarenko, N;Khavenson, N;Farnik, F;Valnicek, B|Phobos 2 mission: Observations of the solar soft x-ray radiation|0
+1991P&SS...39...57M|Marsden, R;Wenzel, K;Afonin, V;Gringauz, K;Witte, M;Richter, A;Erdos, G;Somogyi, A;Varga, A;Varhalmi, L|Energetic particle composition measurements from Phobos 2: Results of the LET experiment|9
+1991P&SS...39...67B|Barat, C;Atteia, J;Jourdain, E;Vedrenne, G;Sunyaev, R;Blinov, N;Kuznetsov, A;Lvov, M;Terekhov, O|On the absorption features in cosmic gamma-ray burst spectra recorded by the LILAS experiment|6
+1991P&SS...39...75R|Riedler, W;Schwingenschuh, K;Lichtenegger, H;Mohlmann, D;Rustenbach, J;Yeroshenko, Y;Achache, J;Slavin, J;Luhmann, J;Russell, C|Interaction of the solar wind with the planet Mars: Phobos 2 magnetic field observations|31
+1991P&SS...39...83M|Mohlmann, D;Riedler, W;Rustenbach, J;Schwingenschuh, K;Kurths, J;Motschmann, U;Roatsch, T;Sauer, K;Lichtenegger, H|The question of an internal Martian magnetic field|29
+1991P&SS...39...89G|Grard, R;Nairn, C;Pedersen, A;Klimov, S;Savin, S;Skalsky, A;Trotignon, J|Plasma and waves around Mars|46
+1991P&SS...39...99T|Trotignon, J;Hamelin, M;Grard, R;Pedersen, A;Klimov, S;Savin, S;Skalsky, A;Kennel, C|A comparison between the Earth's and Mars' bow shocks detected by the Phobos Plasma-Wave System|11
+1991P&SS...39..113D|Dubinin, E;Pissarenko, N;Barabash, S;Zacharov, A;Lundin, R;Pellinen, R;Schwingenschuh, K;Yeroshenko, Y|Plasma and magnetic field effects associated with Phobos and Deimos tori|14
+1991P&SS...39..123D|Dubinin, E;Pissarenko, N;Barabash, S;Zacharov, A;Lundin, R;Koskinen, H;Schwingenschuh, K;Yeroshenko, Y|Tails of Phobos and Deimos in the solar wind and in the Martian magnetosphere|12
+1991P&SS...39..131V|Verigin, M;Shutte, N;Galeev, A;Gringauz, K;Kotova, G;Remizov, A;Rosenbauer, H;Hemmerich, P;Livi, S;Richter, A;Apathy, I;Szego, K;Riedler, W;Schwingenschuh, K;Steller, M;Yeroshenko, Y|Ions of planetary origin in the Martian magnetosphere (Phobos 2/TAUS experiment)|80
+1991P&SS...39..139K|Kiraly, P;Loch, R;Szego, K;Szemerey, I;Szucs, I;Tatrallyay, M;Shutte, N;Dyachkov, A;Gringauz, K;Sheronova, S;Verigin, M;Cravens, T;Gombosi, T;Nagy, A;Sharp, W|The HARP plasma experiment on-board the Phobos 2 spacecraft: Preliminary results|10
+1991P&SS...39..147S|Shutte, N;Dyachkov, A;Gringauz, K;Sheronova, S;Vergin, M;Kiraly, P;Szego, K;Szemerey, I;Szucs, I;Tatrallyay, M;Cravens, T;Gombosi, T;Nagy, A;Sharp, W|Energy distribution of electrons with E &lt; 800 eV in the areomagnetosphere|4
+1991P&SS...39..153A|Afonin, V;McKenna-Lawlor, S;Erdos, G;Gringauz, K;Keppler, E;Kecskemety, K;Kirsch, E;Marsden, R;Richter, A;Riedler, W;Schwingenschuh, K;Somogyi, A;O'Sullivan, D;Szabo, L;Thompson, A;Varga, A;Wenzel, K;Witte, M;Yeroshenko, Y;Zelenyi, L|Low energy charged particles in near Martian space from the SLED and LET experiments aboard the Phobos-2 spacecraft|9
+1991P&SS...39..189C|Combes, M;Cara, C;Drossart, P;Encrenaz, T;Lellouch, E;Rosenqvist, J;Bibring, J;Erard, S;Gondet, B;Langevin, Y;Soufflot, A;Moroz, V;Grygoriev, A;Ksanfomality, L;Nikolsky, Y;Sanko, N;Titov, D;Forni, O;Masson, P;Sotin, C|Martian atmosphere studies from the ISM experiment|33
+1991P&SS...39..199M|Moroz, V;Petrova, E;Ksanfomality, L;Ganpantzerova, O;Goroshkova, N;Zharkov, A;Nikitin, G;Esposito, L;Bibring, J;Combes, M;Soufflot, A|Characteristics of aerosol phenomena in Martian atmosphere from KRFM experiment data|20
+1991P&SS...39..225B|Bibring, J;Erard, S;Gondet, B;Langevin, Y;Soufflot, A;Combes, M;Cara, C;Drossart, P;Encrenaz, T;Lellouch, E;Rosenqvist, J;Moroz, V;Dyachkov, A;Grygoriev, A;Havinson, N;Khatuntsev, I;Kiselev, A;Ksanfomality, L;Nikolsky, Y;Masson, P;Forni, O;Sotin, C|Topography of the Martian tropical regions with ISM|18
+1991P&SS...39..237M|Murray, B;Naraeva, M;Selivanov, A;Betts, B;Svitek, T;Kharlamov, V;Romanov, A;Santee, M;Gektin, Y;Fomin, D;Paige, D;Panfilov, A;Crisp, D;Head, J;Murchie, S;Martin, T|Preliminary assessment of Termoskan observations of Mars|12
+1991P&SS...39..281A|Avanesov, G;Zhukov, B;Ziman, Y;Kostenko, V;Kuzmin, A;Muravev, V;Fedotov, V;Bonev, B;Mishev, D;Petkov, D;Krumov, A;Simeonov, S;Boycheva, V;Uzunov, Y;Weide, G;Halmann, D;Possel, W;Head, J;Murchie, S;Schkuratov, Y;Berghanel, R;Danz, M;Mangoldt, T;Pihan, U;Weidlich, U;Lumme, K;Muinonen, K;Peltoniemi, J;Duxbury, T;Murray, B;Herkenhoff, K;Fanale, F;Irvine, W;Smith, B|Results of TV imaging of phobos (experiment VSK-FREGAT)|30
+1991P&SS...39..297H|Hauber, E;Regner, P;Schmidt, K;Neukum, G;Schwarz, G|Color decorrelation for the Phobos mission camera experiment|0
+1991P&SS...39..311K|Ksanfomality, L;Murchie, S;Britt, D;Duxbury, T;Fisher, P;Goroshkova, N;Head, J;Kuhrt, E;Moroz, V;Murray, B;Nikitin, G;Petrova, E;Pieters, C;Soufflot, A;Zharkov, A;Zhukov, B|Phobos: Spectrophotometry between 0.3 and 0.6 μm and IR-radiometry|16
+1991P&SS...39..335P|Peltoniemi, J;Lumme, K;Irvine, W|Interpretation of the surface brightness of Phobos|1
+1991P&SS...39..349K|Kolyuka, Y;Kudryavtsev, S;Tarasov, V;Tikhonov, V;Ivanov, N;Polyakov, V;Potchukaev, V;Papkov, O;Sukhanov, K;Akim, E;Stepanians, V;Nasirov, R|International project Phobos. Experiment ``celestial mechanics''|8
+1991P&SS...39..377L|Langevin, Y|Phobos and other small bodies of the solar system|4
+1991P&SS...39.1493D|Dolginov, S;Zhuzgov, L|The magnetic field and the magnetosphere of the planet Mars|25
+1991PAZh...17..548M|Moroz, V;Petrova, E;Ksanfomality, L;Esposito, L;Bibring, J;Combes, M;Soufflot, A;Canpantzerova, O;Goroshkova, N;Zharkov, A;Nikitin, G|Aerosol in the Martian atmosphere from KRFM experimental data|1
+1991RvGeo..29..121L|Luhmann, J;Brace, L|Near-Mars space|55
+1991SoPh..131..137G|Garcia, H;Farnik, F|Stereoscopic measurements of flares from PHOBOS and GOES|5
+1990A&A...240..159C|Chapront-Touze, M|Orbits of the Martian satellites from ESAPHO and ESADE theories|25
+1990AeAm...28...42L|Lerner, E|PHOBOS - Gains from a loss|0
+1990AnGeo...8..661S|Sauer, K;Roatsch, T;Motschmann, U;Mohlmann, D;Schwingenschuh, K;Riedler, W|Plasma boundaries at Mars discovered by the Phobos 2 magnetometers.|12
+1990EM&P...48..183O|Orgzall, I;Franck, S|Phobos-II Results and the Martian Magnetic Field|0
+1990GeoRL..17..287A|Atreya, S;Blamont, J|Stability of the Martian atmosphere: Possible role of heterogeneous chemistry|37
+1990GeoRL..17..857I|Ip, W;Banaszkiewicz, M|On the dust/gas tori of Phobos and Deimos|44
+1990GeoRL..17..861D|Dubinin, E;Lundin, R;Pissarenko, N;Barabash, S;Zakharov, A;Koskinen, H;Schwingenshuh, K;Yeroshenko, Y|Indirect evidences for a gas/dust torus along the Phobos orbit|62
+1990GeoRL..17..865N|Nagy, A;Gombosi, T;Szego, K;Sagdeev, R;Shapiro, V;Shevchenko, V|Venus mantle-Mars planetosphere: What are the similarities and differences?|27
+1990GeoRL..17..873L|Lundin, R;Zakharov, A;Pellinen, R;Barabasj, S;Borg, H;Dubinin, E;Hultqvist, B;Koskinen, H;Liede, I;Pissarenko, N|Aspera/Phobos measurements of the ion outflow from the MARTIAN ionosphere|151
+1990GeoRL..17..877L|Lundin, R;Zakharov, A;Pellinen, R;Borg, H;Hultqvist, B;Pissarenko, N;Dubinin, E;Barabasj, S;Liede, I;Koskinen, H|Plasma composition measurements of the Martian magnetosphere morphology|83
+1990GeoRL..17..881A|Auster, H;Fornacon, K;Rustenbach, J;Roatsch, T;Schroedter, R;Schwingenschuh, K;Auster, V|The magnetic properties of the Soviet spacecraft “Phobos-2”|5
+1990GeoRL..17..885E|Yeroshenko, Y;Riedler, W;Schwingenschuh, K;Luhmann, J;Ong, M|The magnetotail of Mars: Phobos observations|88
+1990GeoRL..17..889S|Schwingenschuh, K;Riedler, W;Lichtenegger, H;Yeroshenko, Y;Sauer, K;Luhmann, J;Ong, M;Russell, C|Martian bow shock: Phobos observations|62
+1990GeoRL..17..893S|Sagdeev, R;Shapiro, V;Shevchenko, V;Zacharov, A;Kiraly, P;Szego, K;Nagy, A;Grard, R|Wave activity in the neighborhood of the bowshock of Mars|47
+1990GeoRL..17..897R|Russell, C;Luhmann, J;Schwingenschuh, K;Riedler, W;Yeroshenko, Y|Upstream waves at Mars: Phobos observations|97
+1990GeoRL..17.2289I|Ip, W|The fast atomic oxygen corona extent of Mars|49
+1990NIMPA.290..217M|McKenna-Lawlor, S;Afonin, V;Gringauz, K;Keppler, E;Kirsch, E;Richter, A;Witte, M;O'Sullivan, D;Thompson, A;Somogyi, A;Szabo, L;Varga, A|The low energy particle detector sled (~30 keV-3.2 MeV) and its performance on the phobos mission to mars and its moons|13
+1990Natur.344..313M|Mitrofanov, I;Sagdeev, R|Recurrence times of γ-ray bursts from neutron star/comet encounters|17
+1990PAZh...16..318B|Bibring, J;Combes, M;Langevin, Y;Gara, C;Drossart, P;Encrenaz, T;Frard, S;Forni, O;Gindet, B;Ksanfomality, L;Lellouch, E;Masson, P;Moroz, V;Rocard, F;Rosenquist, J;Sotin, C;Soufflot, A|First results of the ISM experiment|1
+1990PAZh...16..330B|Bruns, A;Bonnet, R;Delaboudinier, J;Frohlich, C;Shumko, S|Results of the Phobos-2 study of solar brightness oscillations|1
+1990PAZh...16..346S|Selivanov, A;Naraeva, M;Panfilov, A;Gektin, Y;Kharlamov, V;Romanov, A;Fomin, D;Miroschnichenko, Y|The Thermoscan experiment - Thermal scanning of the Mars surface from Phobos-2|0
+1990PAZh...16..355S|Surkov, Y;Moskaleva, L;Kharyukova, V;Zaitseva, S;Smirnov, G;Manvelyan, O|Determination of the elemental composition of Mars rocks from Phobos-2|3
+1990PAZh...16..368R|Rosenbauer, H;Shutte, N;Apathy, I;Verigin, M;Witte, M;Galeev, A;Gringaus, K;Grunwaldt, H;Jockers, K;Kiraly, P;Kotova, G;Livi, S;Marsch, E;Remizov, A;Richter, A;Riedler, W;Szego, K;Hemmerich, P;Schwenn, R;Schwingenschuh, K;Steller, M|First results of measurements of ions of Martian origin and the discovery of a plasma sheet in the Martian magnetosphere in the TAUS experiment on Phobos-2|0
+1990PAZh...16..389K|Ksanfomality, L;Moroz, V;Bibring, J;Combes, M;Soufflot, A;Ganapntzerova, O;Goroshkova, N;Zharkov, A;Nikitin, G;Petrova, E|Inhomogeneities of the thermal properties and reflectivity of the PHOBOS surface|0
+1990PAZh...16..396K|Kolyuka, Y;Ephimov, A;Kudryavtsev, S;Margorin, O;Tarasov, V;Tikhonov, V|Improved determination of the gravitational constant of PHOBOS on the basis of Phobos-2 trajectory tracking|3
+1990Prir........60H|Hartmann, W|Common nature of small bodies in the solar stystem|0
+1990SpFl...32..126H|Harvey, B|PHOBOS-2 Radiation Results Announced|0
+1990SpFl...32..273K|Klaes, L|The rocky Soviet road to Mars.|0
+1990SvAL...16..140B|Bruns, A;Bonnet, R;Delaboudinier, J;Frohlich, C;Shumko, S|Solar Brightness Oscillations - PHOBOS-2 Observations|0
+1989AdSpR...9...71A|Anderson, J;Borderies, N;Campbell, J;Dunne, J;Ellis, J|Testing general relativity with Landers on the Martian satellite Phobos|5
+1989JPhE...22..656G|Grard, R;Klinge, D;Klimov, S;Savin, S;Trotignon, J|The plasma wave system on Phobos|3
+1989Natur.341..564S|Saunders, M|Probing martian space . . .|2
+1989Natur.341..565M|McKinnon, W|. . . and martian surfaces|1
+1989Natur.341..585A|Avanesov, G;Bonev, B;Kempe, F;Bazilevsky, A;Boycheva, V;Chikov, K;Danz, M;Dimrtrov, D;Duxbury, T;Gromatikov, P;Halmann, D;Head, J;Heifets, V;Kolev, V;Kostenko, V;Kottsov, V;Krasavtsev, V;Krasikov, V;Krumov, A;Kuzmin, A;Losev, K;Lumme, K;Mishev, D;Mohlmann, D;Muinonen, K;Murav'ev, V;Murchie, S;Murray, B;Neumann, W;Paul, L;Petkov, D;Petuchova, I;Possel, W;Rebel, B;Shkuratov, Y;Simeonov, S;Smith, B;Totev, A;Fedotov, V;Weide, G;Zapfe, H;Zhukov, B;Ziman, Y|Television observations of Phobos|40
+1989Natur.341..588K|Ksanfomality, L;Moroz, V;Bibring, J;Combes, M;Soufflot, A;Ganpantzerova, O;Goroshkova, N;Zharkov, A;Nikitin, G;Petrova, E|Spatial variations in thermal and albedo properties of the surface of Phobos|19
+1989Natur.341..595S|Surkov, Y;Barsukov, V;Moskaleva, L;Kharyukova, V;Zaftseva, S;Smirnov, G;Manvelyan, O|Determination of the elemental composition of martian rocks from Phobos 2|36
+1989Natur.341..598D|D'Uston, C;Atteia, J;Barat, C;Chernenko, A;Dolidze, V|Observation of the γ-ray emission from the martian surface by the APEX experiment|11
+1989Natur.341..600B|Blamont, J;Chassefiere, E;Goutail, J;Mege, B;Nunes-Pinharanda, M|Vertical profiles of dust and ozone in the martian atmosphere deduced from solar occultation measurements|24
+1989Natur.341..603K|Krasnopoisky, V;Moroz, V;Krysko, A;Korablev, O;Zhegulev, V;Grigoriev, A;Tkachuk, A;Parshev, V;Blamont, J;Goutail, J|Solar occultation spectroscopic measurements of the martian atmosphere at 1.9 and 3.7 μm|21
+1989Natur.341..604R|Riedler, W;Mohlmann, D;Oraevsky, V;Schwingenschuh, K;Yeroshenko, Y;Rustenbach, J;Aydogar, O;Berghofer, G;Lichtenegger, H;Delva, M;Schelch, G;Pirsch, K;Fremuth, G;Steller, M;Arnold, H;Raditsch, T;Auster, U;Fornacon, K;Schenk, H;Michaelis, H;Motschmann, U;Roatsch, T;Sauer, K;Schroter, R;Kurths, J;Lenners, D;Linthe, J;Kobzev, V;Styashkin, V;Achache, J;Slavin, J;Luhmann, J;Russell, C|Magnetic fields near Mars: first results|195
+1989Natur.341..607G|Grard, R;Pedersen, A;Klimov, S;Savin, S;Skalsky, A;Trotignon, J;Kennel, C|First measurements of plasma waves near Mars|95
+1989Natur.341..609L|Lundin, R;Zakharov, A;Pellinen, R;Borg, H;Hultqvist, B;Pissarenko, N;Dubinin, E;Barabash, S;Liede, I;Koskinen, H|First measurements of the ionospheric plasma escape from Mars|402
+1989Natur.341..612R|Rosenbauer, H;Shutte, N;Apathy, I;Galeev, A;Gringauz, K;Grunwaldt, H;Hemmerich, P;Jockers, K;Kiraly, P;Kotova, G;Livi, S;Marsch, E;Richter, A;Riedler, W;Remizov, T;Schwenn, R;Schwingenschuh, K;Steller, M;Szego, K;Verigin, M;Witte, M|Ions of martian origin and plasma sheet in the martian magnetosphere: initial results of the TAUS experiment|144
+1989Natur.341..616A|Afonin, V;McKenna-Lawlor, S;Gringauz, K;Kecskemety, K;Keppler, E;Kirsch, E;Richter, A;O'Sullivan, D;Somogyi, A;Thompson, A;Varga, A;Witte, M|Energetic ions in the close environment of Mars and particle shadowing by the planet|25
+1989NewSc.123...52Z|Zaitsev, Y|The Red Planet in a new light|0
+1989SpFl...31..374Z|Zaitsev, I|The age of the galactic disk.|0

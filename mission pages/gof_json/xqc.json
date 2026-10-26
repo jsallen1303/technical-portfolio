@@ -1,0 +1,45 @@
+{
+    "title": "X-Ray Quantum Calorimeter",
+    "name": "X-ray Quantum Calorimeter (XQC)",
+    "gofsidebar" : "Past",
+    "decade" : 1990,
+    "alttext": "Nike-Black Brant two stage rocket launches XQC at White Sands",
+    "imagesize": 213,
+    "imageurl": "/Images/rockets/xqc_launch_sm.gif",
+    "descript": "<p><b><font size=\"+2\">T</font>he X-ray Quantum Calorimeter sounding rocket experiment (XQC)</b> is an instrument flown on a series of rocket flights to provide high resolution spectra of soft X-ray diffuse background measurements and to test the instrumentation to be flown in future X-ray missions.</p>\n\n<p> The instrument was flown on six different rocket flights between Dec 1995 and March 2013, however only the last four flights gave good spectra. The flights reached an altitude of 220 km.</p>",
+    "lifetime": "1995&ndash;2013",
+    "features": [
+	"Sounding rocket flights",
+	"Testing and calibration of new class of hyperspectral X-ray detector (quantum calorimeter)"
+    ],
+    "instrument_preamble" : "<table class=\"usa-table usa-hea-mission-table\">\n<caption class=\"use-sr-only\">XQC Rocket Flights</caption>\n<thead>\n<tr><th scope=\"col\" class=\"text-center\"><strong>Date</strong</th>\n    <th scope=\"col\" class=\"text-center\"><strong>Target <i>(l,b)</i></strong></th> \n    <th scope=\"col\" class=\"text-center\"><strong>Flight No</strong></th>\n</tr>\n</thead>\n<tbody>\n<tr><td> 4 Dec 1995</td><td>           </td> <td> 27.132</td></tr>\n<tr><td> 3 Jun 1996</td><td>           </td> <td> 27.141</td></tr>\n<tr><td>28 Mar 1999</td><td> 90.0, 60.0</td> <td> 27.041</td></tr>\n<tr><td> 1 May 2008</td><td> 90.0, 60.0</td> <td> 36.223</td></tr>\n<tr><td> 6 Nov 2011</td><td>165.0, -5.0</td> <td> 36.264</td></tr>\n<tr><td>11 Mar 2013</td><td>165.0, -5.0</td> <td> 36.294</td></tr>\n</tbody>\n</table>",
+    "instruments": [
+	{
+	    "name" : "X-ray Quantum Calorimeter",
+	    "energy" : "0.1&ndash; 1.1 keV",
+	    "area" : "0.36 cm<sup>2</sup> (early)<br>1.44 cm<sup>2</sup> (late)",
+	    "fov" : "&sim;1 sr (non-imaging)",
+	    "descript" : "Rocket flights in the 1990s used 2&times;18 pixel array X-ray quantum calorimeter with each individual pixel 0.5&times;2.0 mm cooled to 60 mK. Later flights used a 6&times;6 pixel array with 2.0&times;2.0 mm pixels cooled to 50 mK."
+	}
+    ],
+    "highlights": [
+	"High resolution spectra of the diffuse X-ray background"
+    ],
+  "archive": "The HEASARC hosts spectra and response files from four rocket flights.",
+    "navigation": [
+	{
+	    "url" : "https://heasarc.gsfc.nasa.gov/docs/rockets/xqc.html",
+	    "text" : "XQC at HEASARC"
+	},
+	{
+	    "url" : "https://heasarc.gsfc.nasa.gov/docs/rockets/about_xqc.html",
+	    "text" : "More about XQC"
+	},
+	{
+	    "url" : "https://heasarc.gsfc.nasa.gov/docs/rockets/xqc_biblio.html",
+	    "text" : "Publications"
+	}
+	
+    ],
+    "goffooter" : "/docs/rockets/xqc_footer.html"
+}

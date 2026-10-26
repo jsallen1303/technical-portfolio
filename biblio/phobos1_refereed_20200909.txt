@@ -1,0 +1,7 @@
+1992NCimC..15.1113F|Formisano, V;Bellucci, G;Grigor'ev, A;Coradini, A;Bibring, J|Multispectral imaging of Mars: ISM results.|0
+1991P&SS...39....7V|Valnicek, B;Peresty, R;Zhitnik, I|Results of the solar x-ray image study onboard the Phobos 1 space probe (the TEREK experiment)|2
+1991P&SS...39...99T|Trotignon, J;Hamelin, M;Grard, R;Pedersen, A;Klimov, S;Savin, S;Skalsky, A;Kennel, C|A comparison between the Earth's and Mars' bow shocks detected by the Phobos Plasma-Wave System|11
+1990PAZh...16..323S|Sobelman, I;Zhitnik, I;Valnicek, B;Rybansky, M;Bernas, M;Gaponov, S;Hudec, R;Ignatiev, A;Isajanjan, R;Kiscenko, V;Klima, M;Kopecky, J;Korneev, V;Krasnopolsky, O;Krmojan, M;Krutov, V;Lomkova, V;Mitrophanov, A;Oparin, S;Peresty, R;Pertsov, A;Salaschenko, N;Slemzin, V;Telegin, A;Timofeev, V;Tindo, I;Urnov, A;Fotin, J;Hodgajahz, J|Images of the sun obtained with the TEREK X-ray telescope on Phobos-1|3
+1990SpFl...32..126H|Harvey, B|PHOBOS-2 Radiation Results Announced|0
+1990SpFl...32..273K|Klaes, L|The rocky Soviet road to Mars.|0
+1989NewSc.123...52Z|Zaitsev, Y|The Red Planet in a new light|0

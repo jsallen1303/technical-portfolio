@@ -1,0 +1,54 @@
+{
+    "title": "The Solar Maximum Mission",
+    "name": "Solar Maximum Mission (SMM)",
+    "alttext": "artist concept of Solar Max",
+    "imagesize": 300,
+    "imageurl": "/Images/solarmax/smm_2_small.gif",
+    "descript": "<p><b><font size=\"+2\">T</font>he Solar Maximum Mission (SMM)</b> was launched on 14 February 1980 to, primarily, study the Sun during the high part of the solar cycle. The payload included the Active Cavity Radiometer Irradiance Monitor (ACRIM), the Gamma-Ray Spectrometer (GRS), the Hard X-Ray Burst Spectrometer (HXRBS), the soft X-Ray Polychromator (XRP), the Hard X-ray Imaging Spectrometer (HXIS), and the Ultraviolet Spectrometer and Polarimeter (UVSP). The GRS and HXRBS however, could also observe celestial sources. A malfunction in the satellite in January 1981 cut short the original mission. SMM was recovered by the space shuttle <i>Challenger</i> in April 1984 and serviced in orbit. It then served out its productive life until burning up in the Earth&rsquo;s atmosphere on 2 December 1989. </p>",
+    "decade": 1980,
+    "lifetime": "Feb 1980&ndash;mid-1985 (high energy instruments)",
+    "features": [
+    "The first in-orbit satellite servicing mission, demonstrating techniques later used for scheduled upgrades and instrument replacements on the Hubble Space Telescope servicing missions"
+    ],
+    "instruments": [
+	{
+	    "name" : "Hard X-ray Burst Spectrometer (HXRBS)",
+	    "energy" : "30&ndash;500 keV",
+	    "fov" : "&pi;/6 sr",
+	    "time_resolution" : "10 ms within channels<br>128 ms over all channels",
+	    "descript" : "The primary objective of HXRBS was to study hard X-ray spectra of solar flares on time scales as short as 10 ms. The Principal Investigator was K. Frost. The HXRBS instrument could also be used for observing the hard X-ray spectra of gamma-ray bursts which fell within the field of view of the detector. The HXRBS detector consisted of a CsI(Na) scintillator with a radius of 4.67 cm and thickness of 0.64 cm. The crystal was surrounded on all sides (except for the solar direction) by a CsI(Na) shield of thickness 3.2 cm. Events were pulse height analyzed in 15 channel energy spectra from 30&ndash;500 keV. The time resolution was 128 ms. However, the total count rate over the same energy ranges was recorded every 10 ms. The HXRBS threshold for detecting a gamma-ray burst was 1 &times; 10<sup>-7</sup> ergs/cm<sup>2</sup> (E &gt; 30 keV). Since the SMM views the Earth during the nighttime portion of each orbit, only about 1 event on 40 is detected with a &pi;/6 sr field of view for which the spectra are not badly contaminated by the shield-processed contributions. Between launch and mid-1985, more than 15 gamma-ray bursts were seen by the HXRBS."
+	
+	},
+	{
+	    "name" : "Gamma Ray Spectrometer (GRS)",
+	    "energy" : "0.3&ndash;100 MeV ",
+	    "area" : "100 cm<sup2</sup>",
+	    "fov" : "135&deg; (FWHM) in the solar direction",
+	    "descript" : "The GRS was designed for investigation of the gamma-ray spectrum of solar flares. The Principal Investigator was E. Chupp. The main detector was an array of 7 gain-controlled 7.6 cm diameter &times; 7.6 cm thick NaI(Tl) detectors. A complete spectrum was obtained every 16.38 s in the energy range 0.3&ndash;9.0 MeV. The number of counts in the 4.2&ndash;6.4 MeV range was read out every 2.048 s. The number of counts in a 50 keV wide window around 300 keV was read out every 64 ms. The spectrometer was shielded by a 2.5 cm thick annulus of CsI(Na) and a 25 cm diameter &times; 7.6 cm thick back detector. The shield elements defined a field of view of 135 degrees (FWHM) in the solar direction. The CsI back detector and the 7 NaI detectors together provided an effective area of &sim;100 cm<sup>2</sup> and 4 energy channels from 10&ndash;100 MeV. The number of counts in these energy channels was read out every 2.048 s. The experiment was complimented by a pair of 8 cm<sup>2</sup> &times; 0.6 cm thick NaI(Tl) detectors which measured the X-ray portion of the spectrum every 1.024 s in the energy range 13&ndash;182 keV. The GRS detection threshold for gamma-ray bursts in the field of view was &sim;5 &times; 10<sup>-6</sup> ergs/cm<sup>2</sup> (E &gt; 300 keV). Between launch and mid-1985, GRS detected at least 75 bursts."
+	}
+    ],
+  "highlights": [],
+  "archive": "",
+  "navigation": [
+    {
+      "url": "images/solarmax_images.html",
+      "text": "Gallery"
+    },
+    {
+      "url": "biblio/solarmax_biblio.html",
+      "text": "Publications"
+    },
+    {
+      "url": "http://nssdc.gsfc.nasa.gov/nmc/spacecraftDisplay.do?id=1980-014A",
+      "text": "NSSDC SMM Archive"
+    },
+    {
+      "url": "biblio/browse_archive.html",
+      "text": "HEASARC SMM Catalog"
+    },
+    {
+      "url": "http://umbra.nascom.nasa.gov/smm/",
+      "text": "NASCOM SMM Catalog"
+    }
+  ]
+}

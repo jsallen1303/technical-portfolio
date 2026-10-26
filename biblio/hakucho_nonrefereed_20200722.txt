@@ -1,0 +1,76 @@
+2013MmSAI..84..547M|Makishima, K|From Sco X-1 to magnetars . Past, present, and future of X-ray studies of neutron stars|0
+1997asxo.proc..147M|Murakami, T|Importance to Observe GRBs in Soft X-Ray Energies - Summary of the HAKUCHO, GINGA and ASCA Observations in Soft X-Ray Energies|0
+1989uwsa.rept.....D|Deeter, J;Boynton, P;Shibazaki, N;Hayakawa, S;Nagase, F|Correlation between X-ray flux and rotational acceleration in VELA X-1|0
+1988SPIE..830..242T|Tanaka, Y;Makino, F|Grazing incidence optics for the X-ray astronomy mission SXO.|0
+1988pnsb.conf....1N|Nagase, F|Observations of X-ray pulsars.|3
+1987IAUS..125..200N|Nagase, F|Results of the Timing Analyses of X-Ray Pulsars Observed by Hakucho and TENMA (abstract)|0
+1987RMxAA..14..722I|Isobe, S|Some developments in optical telescope instrumentation and data reduction systems in Japan.|1
+1986cpcp.book..364O|Oda, M|Old Soldier's Tale-How the "HAKUCHO" Satellite Went into Orbit|0
+1985ASSL..113..139M|Matsuoka, M|Quasi-Periodic Oscillations in Galactic Bulge Sources Observed by Hakucho|2
+1985AbaOB..58..239G|Gnedin, I|Simultaneous X-ray, optical and infrared observations of X-ray binaries.|1
+1985IAUC.4054....1L|Laros, J;Fenimore, E;Fikani, M;Klebesadel, R|GB 811016 and EXO 0748-676|1
+1985IAUC.4110....1S|Stella, L;Parmar, A;White, N;Lewin, W;van Paradijs, J|MXB 1730-335|17
+1985gecx.conf...45M|Matsuoka, M|Type I X-Ray Bursts|16
+1985xra..conf..141K|Kunieda, H|Quasi-periodicity of the Rapid Burster in 1983.|0
+1984AIPC..115...63S|Shibazaki, N;Mitsuda, K|X-ray properties of the galactic bulge sources|16
+1984AIPC..115..103O|Oda, M|Recent observations of transient and variable x-ray sources with satellites ``Hakucho'' and ``Tenma''|1
+1984AIPC..115..131N|Nagase, F;Sato, N;Makishima, K;Kawai, N;Mitani, K|X-ray pulsars observed with hakucho and tenma|5
+1984AIPC..115..146K|Kawai, N;Nagase, F|Joint timing analysis of A0535+26 at 1980 outburst|2
+1984AIPC..115..257T|Tawara, Y;Kii, T;Hayakawa, S|A precursor in a large x-ray burst and the expanding envelope of the neutron star|6
+1984AIPC..115..390K|Katoh, M;Murakami, T;Nishimura, J;Yamagami, T;Fujii, M;Itoh, M|Observation of a cosmic gamma-ray burst on hakucho|27
+1984srja.nasa....3.||Satellite observations|0
+1983IAUC.3846....2K|Kodaira, K|Infrared Object near XB 1812-12|6
+1983IAUC.3852....2T|Tanaka, Y|Hercules X-1 and MXB 1730-335|4
+1983IAUC.3891....2T|Tanaka, Y|New X-Ray Source|33
+1983ICRC....9...22K|Katoh, M;Murakami, T;Nishimura, J;Yamagami, T;Fujii, M;Itoh, M;Kondo, I|Observation of Oct 16 1981 Cosmic Gamma Burst by Hakucho Satellite|0
+1983ICRC...12...91T|Tanaka, Y|Recent results on galactic X-ray sources.|1
+1983S&T....66Q.216.||New Space Observatories / IRAS / TENMA / Hakucho / Astron / EXOSAT|0
+1983mgm..conf..869H|Hayakawa, S|X-ray bursts: nuclear flash model and its difficulties.|0
+1982AIPC...77..319O|Oda, M|Some topics on the x-ray pulsars and the x-ray bursts observed by the satellite Hakucho|5
+1982AIPC...77..339M|Murakami, T|Association of recurrent soft x-ray transients with x-ray burst sources|1
+1982BAAS...14..965L|Lieu, R;Venkatesan, D;Mitani, K;Makishima, K;Mitsuda, K;Murakami, T;Matsuoka, M;Tanaka, Y;Oda, M;Ogawara, Y|X-ray Spectrum of Cen X-3 from HAKUCHO|0
+1982IAUC.3681....2L|Lewin, W;Oda, M|X-Ray/Optical/Infrared/Radio Observations|0
+1982IAUC.3688....1O|Oda, M|GX 301-2 = 4u 1223-62|1
+1982IAUC.3695....2O|Oda, M|Soft X-Ray Transient|0
+1982IAUC.3703....3O|Oda, M|GX 301-2 = 4u 1223-62|0
+1982IAUC.3723....1O|Oda, M|Possible Identification of X-Ray Burster with Serpens X-2|0
+1982JSICE..21..575O|Oda, M|A neutron star observed with the Hakucho satellite.|0
+1982ans..conf...14H|Hayakawa, S|Variations of pulse periods of X-ray pulsars|5
+1982ans..conf..314H|Hayakawa, S|Japanese X-ray astronomy program|0
+1981ASSL...87...61O|Oda, M|Observations of X-ray bursts by the 'Hakucho' satellite|4
+1981AstHe..74..336N|Nagase, F|X-ray pulsars observed with "HAKUCHO". I. Vela X-1.|0
+1981BAAS...13..908O|Oda, M|Some X-Ray Pulsars and Bursters Observed with Hakucho|0
+1981IAUC.3568....1L|Lewin, W;Cominsky, L;Lawrence, A;Oda, M|Optical/Infrared/X-ray Observations in 1981|1
+1981IAUC.3575....1O|Oda, M;Oda, N;Jugaku, J|VELA X-1|0
+1981IAUC.3594....1M|Mattei, J;Overbeek, D;Morgan, J;Oda, M|Nova Coronae Austrinae 1981|6
+1981IAUC.3594....2G|Giles, A;Adams, D|GX 339-4 = 4u 1658-48|0
+1981IAUC.3616....2O|Oda, M|GX 339-4|0
+1981IAUC.3624....1O|Oda, M;Kahn, S;Grindlay, J;Halpern, J;Ladd, E|GX 17+2|5
+1981IAUC.3626....1P|Paradijs, J;Pedersen, H;Lewin, W;Oda, M|V1333 Aquilae = 4U 1908+00|5
+1981IAUC.3628....4O|Oda, M|GX 17+2|0
+1981IAUC.3652....1L|Lewin, W;Oda, M|X-Ray/Optical/Infrared/Radio Observations|0
+1981ICRC....1...42H|Hayakawa, S;Nagase, F|Pulse Profiles and Spin Change of VELA X-1|0
+1981plap.rept..251O|Oda, M|Diagnosis of the neutron star and its environment with X-ray astronomy|0
+1981xras.nasa..219T|Tanaka, Y|X-ray astronomy program in Japan|1
+1980IAUC.3452....1M|Marshall, N;Watson, M;Oda, M|4U 1907+09|3
+1980IAUC.3469....3O|Oda, M|4U 1608-52|0
+1980IAUC.3481....1O|Oda, M;Margon, B|X-Ray Outburst of Aquila X-1 (4U 1908+00)|7
+1980IAUC.3491....2O|Oda, M|Cygnus X-1|5
+1980IAUC.3502....2O|Oda, M|Cygnus X-1|2
+1980IAUC.3506....2O|Oda, M;Grindlay, J|X-Ray Bursts|7
+1980IAUC.3520....1O|Oda, M|MXB1730-333|0
+1980IAUC.3525....2O|Oda, M|X-Ray Nova|5
+1980IAUC.3527....1O|Oda, N|A0535+262|3
+1980IAUC.3541....2O|Oda, N|Cygnus X-1|1
+1979IAUC.3334....2L|Lewin, W;van Paradijs, J;Oda, M;Pounds, K|Optical/X-ray Observations of X-Ray Burst Sources|2
+1979IAUC.3349....1O|Oda, M;Kaluzienski, L;Holt, S|4U 1608-52|5
+1979IAUC.3366....2O|Oda, M;Liller, W|Novalike Object in Centaurus|2
+1979IAUC.3392....1O|Oda, M|Possible X-Rays from MXB1730-333|5
+1979IAUC.3399....1P|Pedersen, H;Oda, M;Cominsky, L;Doty, J;Jernigan, G;van Paradijs, J;Lewin, W|MXB1636-53|8
+1979IAUC.3420....2L|Lewin, W;Cominsky, L;Oda, M;Pounds, K|Optical/X-ray Observations in 1980|2
+1979ICRC....1....5I|Inoue, H;Koyama, K;Makishima, K;Matsuoka, M;Murakami, T;Oda, M;Ogawara, Y;Ohashi, T;Shibazaki, N;Tanaka, Y|X-Ray Observation by the Satellite 'hakucho' Corsa-B i) the Outline|2
+1979ICRC....1...52H|Hakucho Team;Inoue, H;Koyama, K;Makishima, K;Matsuoka, M;Murakami, T;Oda, M;Ogawara, Y;Ohashi, T;Shibazaki, N;Tanaka, Y;Tawara, Y;Kondo, I;Hayakawa, S;Kunieda, H;Makino, F;Masai, K;Nagase, F;Yamashita, K;Miyamoto, S;Tsunemi, H;Yoshimori, M|X-Ray Observation by the Satellite 'hakucho' Corsa-B Ii) Searching for X-Ray Burst Sources|0
+1979ICRC....1...55H|Hakucho Team;Inoue, H;Koyama, K;Makishima, K;Matsuoka, M;Murakami, T;Oda, M;Ogawara, Y;Ohashi, T;Shibazaki, N;Tanaka, Y;Tawara, Y;Kondo, I;Hayakawa, S;Kunieda, H;Makino, F;Masai, K;Nagase, F;Yamashita, K;Miyamoto, S;Tsunemi, H;Yoshimori, M|X-Ray Observation by the Satellite 'hakucho' Corsa-B Iii) Observation of Two X-Ray Burst Sources: 4U1608-52 and 4U1702-42|1
+1979ICRC....1...57H|Hakucho Team;Inoue, H;Koyama, K;Makishima, K;Matsuoka, M;Murakami, T;Oda, M;Ogawara, Y;Ohashi, T;Shibazaki, N;Tanaka, Y;Tawara, Y;Kondo, I;Hayakawa, S;Kunieda, H;Makino, F;Masai, K;Nagase, F;Yamashita, K;Miyamoto, S;Tsunemi, H;Yoshimori, M|X-Ray Observation by the Satellite 'hakucho' Corsa-B Iv) Transient X-Ray Sources|0
+1979ICRC....1...60H|Hakucho Team;Inoue, H;Koyama, K;Makishima, K;Matsuoka, M;Murakami, T;Oda, M;Ogawara, Y;Ohashi, T;Shibazaki, N;Tanaka, Y;Tawara, Y;Kondo, I;Hayakawa, S;Kunieda, H;Makino, F;Masai, K;Nagase, F;Yamashita, K;Miyamoto, S;Tsunemi, H;Yoshimori, M|X-Ray Observation by the Satellite 'hakucho' Corsa-B v) Soft X-Ray Sources|0
+1979ICRC...12....7H|Hakucho Team;Inoue, H;Koyama, K;Makishima, K;Matsuoka, M;Murakami, T;Oda, M;Ogawara, Y;Ohashi, T;Shibazaki, N;Tanaka, Y;Tawara, Y;Kondo, I;Hayakawa, S;Kunieda, H;Makino, F;Masai, K;Nagase, F;Yamashita, K;Miyamoto, S;Tsunemi, H;Yoshimori, M|X-Ray Observation by the Satellite 'hakucho' Corsa-B v) Soft X-Ray Sources|1

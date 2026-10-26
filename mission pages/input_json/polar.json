@@ -1,0 +1,35 @@
+{
+    "title": "POLAR",
+    "name": "POLAR",
+    "alttext": "Artistic impression of a gamma ray striking the POLAR detector",
+    "imagesize": 279,
+    "imageurl": "/Images/misc_missions/POLAR_onboard_tg2_image.jpg",
+    "descript": "<p><b><font size=\"+2\">T</font>he POLAR instrument</b> was a gamma-ray burst polarimeter on China&rsquo;s Tiangong 2 space lab. While the highlight of Tiangong 2 was the manned flight mission to the space station, a number of instruments worked over a three year span working autonomously, including POLAR. The space station was deliberately de-orbited in a controlled re-entry in July 2019; the POLAR instrument, however, had ceased functioning due to a power failure on 1 April 2017. The instrument had recorded some 55 bursts and obtained high-precision polarization measurements for five of these burst events.<p>\n\n<p>POLAR should not be confused with GGS Polar, a near-Earth space environment study satellite which operated between 1996 and 2008.</p>",
+      "decade": 2010,
+  "lifetime": "22 Sep 2016&ndash;Apr 2017",
+  "features": [""],
+    "instruments": [
+	{
+	    "name" : "POLAR",
+	    "energy" : "50&ndash;500 keV",
+	    "energy_resolution" : "&sim;12% at 511 keV",
+	    "fov" : "Approximately one third of the whole sky (&sim;1.3 sr)",
+	    "area" : "400 cm<sup>2</sup>",
+	    "descript" : "POLAR consisted of a 40&times;40 array of plastic scintillator bars. These were protected by passive shielding outside the wide field of view of the instrument. It used the Compton scattering effect to measure polarization of incoming photons."
+	}
+    ],
+    "highlights": [
+	"POLAR observed 55 gamma-ray bursts during the mission, including five bursts for which detailed polarization measurements were available"
+    ],
+  "archive": "",
+  "navigation": [
+    {
+      "url": "https://www.astro.unige.ch/polar/",
+      "text": "University of Geneva POLAR mission"
+    },
+    {
+      "url": "biblio/polar_biblio.html",
+      "text": "Publications"
+    }
+  ]
+}

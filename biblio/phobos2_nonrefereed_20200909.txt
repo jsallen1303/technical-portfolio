@@ -1,0 +1,28 @@
+1998DPS....30.2203B|Bell, J;Wolff, M;Comstock, R;James, P|HST STIS and NICMOS Observations of Mars During 1997|1
+1997nasa.reptZ....M|Mustard, J|Mineralogy of the Martian Surface: Crustal Composition to Surface Processes|0
+1996LPI....27..125B|Bockstein, I;Gektin, Y|Removal of Brightness Artifacts from the Panoramas of Mars Surface Received from Phobos-2 Spacecraft|0
+1996LPI....27..339E|Erard, S;Calvin, W|Composite Spectra of Mars, 0.4-3.7 Micrometers|0
+1996LPI....27..941N|Nazzario, R;Hyde, T|Dust Torus Development Around Mars|0
+1995yera.conf...28S|Shuygina, N|Determination of the relative orientation between radio and dynamical reference frames using VLBI observations of spacecraft|0
+1994GeoI...31...50S|Surkov, Y;Moskaleva, L;Zolotov, M;Kharynkova, V;Manvelyan, O;Smirnov, G;Golovin, A|Phobos-2 data on martian surface geochemistry|1
+1994LPI....25...87B|Bell, J;Roush, T;Martin, T;Pollack, J;Freedman, R|Wavelength Calibration Techniques and Subtle Surface and Atmospheric Absorption Features in the Mariner 6, 7 IRS Reflectance Data|0
+1994LPI....25..957M|Murchie, S;Zellner, B|The HST Spectrum of Phobos: Comparison with Mariner 9, Viking, and PHOBOS 2 Results and with Meteorite Analogs|4
+1994ucla.reptQ....L|Luhmann, J|An investigation of solar wind effects on the evolution of the Martian atmosphere|0
+1993LPI....24...81B|Bell, J;Mustard, J|A Comparison of Telescopic and Phobos-2 ISM Spectra of Mars in the Short-Wave Near-Infrared (0. 76-1. 02 μm)|1
+1993LPI....24.1025M|Murchie, S;Erard, S|The Spectrum of PHOBOS from PHOBOS 2 Observations at 0. 3-2. 6 μm: Comparison to Previous Data and Meteorite Analogs|0
+1993mppf.proc...18E|Erard, S|Aerosols Scattering and Near-Infrared Observations of the Martian Surface|0
+1993mppf.proc...30M|Morris, R;Bell, J;Golden, D;Lauer, H|Mineralogical Diversity (Spectral Reflectance and Mössbauer Data) in Compositionally Similar Impact Melt Rocks from Manicouagan Crater, Canada|0
+1992grbo.book..196B|Barat, C;Talon, R;Siuniaev, R;Blinov, N;Kuznetsov, A;Terekhov, O|Multiple absorption features in a cosmic gamma-ray burst spectrum recorded by the Lilas experiment.|0
+1992msat.work...47E|Erard, S;Bibring, J;Drossart, P|Infrared Photometric Behavior and Opposition Effect of Mars|0
+1992sws..coll..375M|Marsden, R;Sanderson, T;Heras, A;Wenzel, K|Composition signatures in SEP events - Initial results from the COSPIN LET experiment on ULYSSES|1
+1991IzKry..83...22F|Froehlich, C;Bonnet, R;Bruns, A;Vial, J;Delaboudiniere, J;Domingo, V;Kollath, Z;Kotov, V;Rachkovskii, D;Wehrli, C|The helioseismological experiment at the Phobos interplanetary station - Preliminary results|0
+1991ceol.symp..100I|Irvine, W|Analysis of images obtained by the PHOBOS 2 spacecraft|0
+1991emma.proc..121F|Flynn, G|Accretion of meteoritic material onto Mars: implications for the surface, atmosphere, and moons.|2
+1991pggp.rept..249M|Murchie, S;Erard, S;Langevin, Y;Britt, D;Bibring, J;Mustard, J;Head, J;Pieters, C|Disk-resolved spectral reflectance properties of PHOBOS from 0.3-3.2 micron: Preliminary integrated results from PHOBOS 2|0
+1991rnes.nasa...24B|Britt, D;Murchie, S|The composition of Phobos: Meteorite analogs based on KRFM and VSK spectral data from the PHOBOS 2 spacecraft|0
+1990Geot...35...62Z|Zimbelman, J|Planetology and Meteoritics|0
+1990S&T....79..156G|Goldman, S|The Legacy of PHOBOS 2|0
+1990nba..meet..299S|Shor, V|Orbits of Phobos and Deimos determined from "Phobos-2" on-board observations.|0
+1989Ast....17...28B|Burnham, R|New Views of Mars and PHOBOS|0
+1989Inter..44...69W|Wilson, A|Mars revisited Soviet-style|0
+1989S&T....77V.359.||PHOBOS-2 at Work|0

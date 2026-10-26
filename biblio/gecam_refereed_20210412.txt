@@ -1,0 +1,10 @@
+2020SSPMA..50l9505Y|Yang, S;Wenxi, P;Wei, C;Shaolin, X;Weiqun, G;Youping, L;Yue, Z|Monitoring and research of high-energy solar flare emissions with GECAM|0
+2020SSPMA..50l9507C|Chen, Y;Huang, J;Li, X;Xiong, S;Yu, J;Chen, W;Han, X;Zhang, K;Qi, J;Geng, H;Wen, X|GECAM satellite system design and technological characteristic|0
+2020SSPMA..50l9508L|Li, Y;Wen, X;Sun, X;Liu, X;Liang, X;Guo, D;Peng, W;Gong, K;Li, G;Wang, H;Xiong, S;Liao, J;Lu, H;Wang, J;An, Z;Zhang, D;Gao, M;Chen, G;Liu, Y;Yang, S;Qiao, R;Zhang, F;Zhao, X;Xu, Y;Zhu, Y;Li, X|The GECAM and its payload|0
+2020SSPMA..50l9509G|Guo, D;Liao, J;Yang, S;Li, X;Sun, X;Peng, W;Qiao, R;Zhu, Y;An, Z;Li, G;Zhang, D;Xiong, S;Xu, Y|Energy response and in-flight background simulationfor GECAM|0
+2020SSPMA..50l9510X|Xin-Ying, S;Wen-Xi, P;Shuo, X;Jin-Yuan, L;Shao-Lin, X;Qi, L;Gang, L;Yue, Z|The localization method of GECAM and simulation analysis|0
+2020SSPMA..50l9511X|Xiao, S;Ma, X;Zhu, Y;Zhang, K;Peng, W;Huang, Y;Zheng, S;Chen, W;Li, X;Guo, D;Song, X;Wang, P;Xiong, S;Cai, C;Luo, Q;Liao, J;Qiao, R;Song, L|Introduction to gamma ray burst data analysis algorithm and software tools for GECAM|0
+2020SSPMA..50l9512C|Chen, W;Li, B;Huang, Y;Duan, J;Zhang, P;Guo, D;Sun, G;Wang, P;Song, L;Li, X;Li, C;Ou, G;Zhao, S;Peng, W;Shi, D;Li, J;Li, Q;Xiao, S;Song, X;Wang, W;Ma, X;Zhang, K;Xiong, S;Cai, C;Zhang, H;Chen, G;Qiao, R;Yao, M;Zheng, S;Zhao, X|Introduction of the scientific application system of GECAM|0
+2020SSPMA..50l9521L|Lin, L;Xiao, S;Huang, R;Xiong, S|Observational prospects for magnetars with GECAM|0
+2018JInst..13P8014L|Lv, P;Xiong, S;Sun, X;Lv, J;Li, Y|A low-energy sensitive compact gamma-ray detector based on LaBr<SUB>3</SUB> and SiPM for GECAM|4
+2017ApJ...851L..20W|Wang, Y;Huang, Y;Liang, Y;Li, X;Jin, Z;Zhang, F;Zou, Y;Fan, Y;Wei, D|GRB 111005A at z = 0.0133 and the Prospect of Establishing Long-Short GRB/GW Association|5

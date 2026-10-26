@@ -1,0 +1,10 @@
+1994sgd..reptQQ...C|Coffey, H|Solar-geophysical data number 602, October 1994. Part 2: (Comprehensive reports). Data for April 1994, and miscellaneous|0
+1987prao.rept...47N|Nusinov, A|Relationship between solar X-ray fluxes in different spectral regions|0
+1987prao.rept...60N|Nusinov, A|Variations of the solar X-ray spectrum with solar-activity variations|0
+1986ssap.book...31G|Gilman, D;Pellerin, C|Astrophysics|0
+1982smfe.cong..263A|Avdiushin, S;Pereiaslova, N;Svidskii, P|Investigation, evaluation and forecast of near-earth space radiation situation|0
+1979mit..rept.....L|Lazarus, A|Analysis of solar wind data from the SOLRAD 11A and 11B spacecraft|0
+1976pspe.proc..178D|Donnelly, R|Solar flare X-ray and EUV emission: a terrestrial viewpoint.|1
+1976skls.conf..105S|Scherrer, V;Tousey, R|Classification of flares and flarelike events observed during the SKYLAB mission|0
+1975xris.conf..986S|Scherrer, V;Tousey, R|Flares observed by the NRL-ATM spectrograph and spectroheliograph during the SKYLAB missions|0
+1974stp.....1...17A|Argo, P;Hildebrand, V;Bleiweiss, M|Analysis of digital H-alpha solar flare measurements|2

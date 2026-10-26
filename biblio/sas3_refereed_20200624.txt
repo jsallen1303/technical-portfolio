@@ -1,0 +1,138 @@
+2015Ap&SS.360...35C|Coronado, Y;Mendoza, S|Hydrodynamics associated to the X-ray light curve of A0620-00|1
+2008MNRAS.389...63C|Curran, S;Koribalski, B;Bains, I|The large-scale atomic and molecular gas in the Circinus galaxy|21
+2001PASJ...53..227Y|Yokogawa, J;Torii, K;Kohmura, T;Koyama, K|ASCA Identification of SMC X-2 with the 2.37-s Pulsar Discovered by RXTE|14
+1993AdSpR..13l..77S|Sanders, W|X-ray investigations of the hot ISM|0
+1992A&A...262L..25F|Finley, J;Belloni, T;Cassinelli, J|Periodic outbursts in the peculiar X-ray binary 2S 0114+65.|40
+1989ApJ...337..485C|Cominsky, L;Wood, K|Further Observations of the Eclipsing X-Ray Burst Source MXB 1659-29|40
+1988ApJ...324..851M|Morgan, E;Remillard, R;Garcia, M|SAS 3 and Einstein Observations of the 11 Minute Orbital Period of the Globular Cluster X-Ray Source 4U 1820-30|29
+1986ApJ...304..241S|Sato, N;Nagase, F;Kawai, N;Kelley, R;Rappaport, S;White, N|Orbital Elements of the Binary X-Ray Pulsar GX 301-2|70
+1985A&A...153..249H|Hirth, W;Mebold, U;Mueller, P|H I-high velocity features in Draco and their X-ray counterparts.|37
+1985AcA....35..291B|Balucinska, M;Czerny, M|Variability of emitting area during bursts from Serpens X-1.|5
+1985ApJ...290..487N|Naranan, S;Elsner, R;Darbro, W;Hardee, P;Romney, B;Leahy, D;Weisskopf, M;Williams, A;Sutherland, P;Grindlay, J|On fast X-ray rotators with long-term periodicities.|11
+1984ApJ...278..761R|Remillard, R;Canizares, C|SAS 3 observations of Cygnus X-1 : the intensity dips.|24
+1984ApJ...287..633M|Marshall, F;Clark, G|SAS 3 survey of the soft X-ray background.|120
+1984ApJ...287..856W|White, N;Swank, J|The 41.5 day binary X-ray pulsar 4U 1223-62 (GX 301-2).|51
+1984PASJ...36..807K|Kunieda, H;Tawara, Y;Hayakawa, S;Nagase, F;Inoue, H;Kawai, N;Makino, F;Makishima, K;Matsuoka, M;Murakami, T;Oda, M;Ogawara, Y;Ohashi, T;Tanaka, Y;Waki, I|The X-ray activity of the rapid burster in 1983.|29
+1983AcA....33..199S|Sztajno, M;Balucinska, M|Spectral analysis of X-ray bursts from SER X-1.|1
+1983ApJ...267..713S|Sztajno, M;Basinska, E;Cominsky, L;Marshall, F;Lewin, W|X-ray burst observations of Serpens X-1.|23
+1983ApJ...268..790K|Kelley, R;Rappaport, S;Clark, G;Petro, L|Orbital period changes in Centaurus X-3.|59
+1983ApJ...270..226C|Cominsky, L;Ossmann, W;Lewin, W|Irregular X-ray variability in the transient X-ray burst source MXB 1659-29.|17
+1983ApJ...274..765K|Kelley, R;Rappaport, S;Ayasli, S|Discovery of 9.3s X-ray pulsations from 2S 1553-542 and a determination of the orbit.|37
+1982ApJ...261..228D|Dower, R;Bradt, H;Morgan, E|CIR X-1 : X-ray observations with SAS 3.|34
+1982ApJ...262..709F|Fabbiano, G|X-ray observations of AM HER in its low state.|16
+1982PASP...94..157P|Peters, G|The hard X-ray flux from GAM CAS during 1970-73.|17
+1982SvAL....8..255L|Loznikov, V;Iamburenko, N|On the nature of the two modes in the type II bursts of MXB 1730-335|0
+1981ApJ...243..251K|Kelley, R;Apparao, K;Doxsey, R;Jernigan, J;Naranan, S;Rappaport, S|Discovery of X-ray pulsations from 2S 1417-624.|25
+1981ApJ...243..257D|Doty, J;Hoffman, J;Lewin, W|SAS 3 observations of GX 1+4.|48
+1981ApJ...245..840M|Marshall, F;Clark, G|Observations of the giant radio lobes region of Centaurus A with SAS 3|19
+1981SSRv...30..273B|Bianchi, L|First Ultraviolet Observations of the Optical Couterpart of the X-Ray Source 2S0114+650|3
+1980A&A....87...85B|Bignami, G;Morfill, G|On the nature of the COSb-B gamma-ray source CG 353+16.|27
+1980A&A....89..249A|Apparao, K;Naranan, S;Kelley, R;Bradt, H|2S 1417-624 : a variable galactic X-ray source near CG 312-1.|17
+1980A&A....90..283H|Harris, D;Costain, C;Strom, R;Pineda, F;Delvaille, J;Schnopper, H|Radio and X-ray observations of Abell 754.|23
+1980ApJ...235..570R|Rappaport, S;Joss, P;Stothers, R|The apsidal motion test in 4U 0900-40.|40
+1980ApJ...235L..67H|Hearn, D;Larsen, S;Richardson, J|X-ray maps of the VELA supernova remnant|3
+1980ApJ...236..738J|Johnson, H;Schnopper, H;Delvaille, J|SAS 3 and related observations of Abell 2029.|6
+1980ApJ...238..699K|Kelley, R;Rappaport, S;Petre, R|A determination of the orbit of GX 301-2.|38
+1980ApJ...239..335E|Elsner, R;Ghosh, P;Darbro, W;Weisskopf, M;Sutherland, P;Grindlay, J|Observations of CYG X-3 with the Einstein (HEAO 2) X-ray observatory : the period derivative and the asymmetric X-ray light curve.|58
+1980ApJ...240L..27H|Hoffman, J;Cominsky, L;Lewin, W|Repeatable, multiple-peaked structure in type I X-ray bursts.|66
+1980ApJ...241..787B|Basinska, E;Lewin, W;Cominsky, L;van Paradijs, J;Marshall, F|The very long type II X-ray bursts from the rapid burster.|15
+1980ApJ...242.1102C|Cominsky, L;Jernigan, J;Ossmann, W;Doty, J;Lewin, W;van Paradijs, J|A search for pulsations and eclipses from X-ray burst sources|13
+1980MNRAS.191...81I|Ilovaisky, S;Chevalier, C;White, N;Mason, K;Sanford, P;Delvaille, J;Schnopper, H|Simultaneous X-ray and optical observations of rapid variability in SCO X-1.|27
+1980MNRAS.193...15L|Lewin, W;van Paradijs, J;Cominsky, L;Holzner, S|X-ray observations of 4U/MXB 1735-44.|41
+1980Natur.287...27L|Lewin, W;Cominsky, L;Walker, A;Robertson, B|Simultaneous IR and X-ray burst observation of SER X-1.|5
+1979A&A....72L...6C|Cash, W;Charles, P;Bowyer, S|Evidence for a massive X-ray halo around Markarian 541.|6
+1979Ap&SS..65..419A|Apparao, K;Hayakawa, S;Hearn, D|Soft X-Ray Observation of the ρ Ophiuchus Dark Cloud Region (The contributions do not constitute a part of the Proceedings.)|10
+1979ApJ...227...54C|Clark, G;Li, F;van Paradijs, J|Deep X-ray survey of the Small Magellanic Cloud.|16
+1979ApJ...227..555M|Marshall, H;Ulmer, M;Hoffman, J;Doty, J;Lewin, W|Further analysis of SAS 3 observations of the rapid burster (MXB 1730-335).|48
+1979ApJ...227L..63H|Hearn, D;Marshall, F;Jernigan, J|Discovery of soft X-ray flux from 2A 1102+384 = Markarian 421.|26
+1979ApJ...228..893L|Li, F;Rappaport, S;Clark, G;Jernigan, J|A0535+26: a refined position measurement and new pulse period data.|47
+1979ApJ...228L..33B|Bradt, H;Kelley, R|X-rays from the Orion Trapezium.|22
+1979ApJ...229L..19L|Lamb, R;Dower, R;Fickle, R|The period derivative of Cygnus X-3.|23
+1979ApJ...229L.123W|Winkler, P;Hearn, D;Richardson, J;Behnken, J|Soft X-ray emission from the Lupus Loop and SN 1006 supernova remnants.|21
+1979ApJ...231L.125J|Jernigan, J;Clark, G|The locations of X-ray sources in globular clusters.|30
+1979ApJ...232L..17M|Mushotzky, R;Boldt, E;Holt, S;Serlemitsos, P|A change in the X-ray spectrum of Markarian 421.|41
+1979ApJ...232L..21H|Hearn, D;Marshall, F|Discovery of a soft X-ray flux from AN Ursae Majoris.|28
+1979MNRAS.186..287B|Bernacca, P;Bianchini, A;Walker, A;Backman, D;Canizares, C;van Paradijs, J;Hoffman, J;Doty, J;Marshall, H;Wheaton, W;Jernigan, J;Lewin, W|Optical observations of X-ray bursts from MXB 1837+05.|4
+1979MNRAS.187..299T|Thomas, R;Duldig, M;Haynes, R;Simons, L;Murdin, P;Hoffman, J;Lewin, W;Wheaton, W;Doty, J|Simultaneous radio and X-ray obervations of the X-ray burst source MXB 1636-53.|3
+1979MNRAS.187..807G|Glass, I|Infrared observations of galactic X-ray sources.|39
+1979MNRAS.189..387V|van Paradijs, J;Cominsky, L;Lewin, W|Steady X-ray emission from MXB 1730-335 (the Rapid Burster).|18
+1979Natur.279..508B|Branduardi, G;Dupree, A;Sanford, P;Pollard, G|Search for short time-scale periodicity in the X-ray flux of 4U1700-37|10
+1979Natur.279..620G|Greenhill, J;Thomas, R;Duldig, M;Jernigan, J;Murdin, P;Haynes, R|X-ray, optical and radio observations of A1710-34.|2
+1979Natur.280..375V|van Paradijs, J;Joss, P;Cominsky, L;Lewin, W|Persistent emission from X-ray burst sources and the nature of galactic bulge X-ray sources|44
+1979Natur.282..486D|della Ventura, A;Perotti, F;Villa, G;Di Cocco, G;Butler, R;Dean, A;Hayles, R|Evidence for low-energy γ-ray emission close to CG135+1|5
+1979PhDT.........2F|Fickle, R|Part i - the Hadron Spectrum at Ground Level. Part II - the Stability of the Period of Cygnus X-3.|0
+1979RSPSA.366..345S|Skinner, G|The Galactic Centre|1
+1978ApJ...219L..81D|Delvaille, J;Epstein, A;Schnopper, H|The X-ray structure of NGC 5128.|35
+1978ApJ...220L.131T|Thorstensen, J;Charles, P;Bowyer, S|The optical counterpart of Aquila X-1 (3U 1908+00).|71
+1978ApJ...221..645J|Joss, P;Avni, Y;Rappaport, S|Accreting neutron stars in highly compact binary systems and the nature of 3U 1626-67.|56
+1978ApJ...221L..43H|Helmken, H;Delvaille, J;Epstein, A;Geller, M;Schnopper, H;Jernigan, J|Compact and diffuse X-ray sources in the core of the Perseus cluster (Abell 426).|23
+1978ApJ...222L..85U|Ulmer, M;Jernigan, J|An energy-dependent map of the X-ray emission of the Perseus cluster.|24
+1978ApJ...222L..91S|Schnopper, H;Delvaille, J;Epstein, A;Cash, W;Charles, P;Bowyer, S;Hjellming, R;Owen, F;Cotton, W|X-ray and radio emission from the compact galaxy III Zw 2.|32
+1978ApJ...223L..17W|Weisskopf, M;Sutherland, P;Katz, J;Canizares, C|Short-term time variability of Cygnus X-1. III.|22
+1978ApJ...223L..71J|Johnston, M;Bradt, H;Doxsey, R;Gursky, H;Schwartz, D;Schwarz, J|Position and pulse profile of the X-ray transient 4U 0115+63.|34
+1978ApJ...224...39C|Canizares, C;Grindlay, J;Hiltner, W;Liller, W;McClintock, J|Optical studies of the X-ray globular cluster NGC 6624.|26
+1978ApJ...224L...1R|Rappaport, S;Clark, G;Cominsky, L;Joss, P;Li, F|Orbital elements of 4U 0115+63 and the nature of the hard X-ray transients.|123
+1978ApJ...224L.119M|Matilsky, T;LaSala, J;Jessen, J|The discovery of a 97 minute periodicity in 4U 1700-37.|25
+1978ApJ...225L..35H|Haisch, B;Linsky, J;Slee, O;Hearn, D;Walker, A;Rydgren, A;Nicolson, G|A coordinated X-ray, optical, and microwave study of the flare star Proxima Centauri.|19
+1978ApJ...226L..69D|Delvaille, J;Geller, M;Schnopper, H|X-ray observation of IC 4329 A.|11
+1978MNRAS.183..813C|Charles, P;Mason, K;White, N;Culhane, J;Sanford, P;Moffat, A|X-ray and optical observations of 3U 0900-40 (Vela X-1).|46
+1978MNRAS.183P..29C|Charles, P;Thorstensen, J;Bowyer, S|An optical candidate for 2A 0042+323 (= 3U 0042+32).|7
+1978MNRAS.184P..27A|Abramenko, A;Gershberg, R;Pavlenko, E;Prokof'eva, V;Lewin, W;van Paradijs, J;Hoffman, J;Li, F|Optical monitoring of X-ray burst sources.|2
+1978Natur.271...35R|Ricker, G;Clarke, G;Doxsey, R;Dower, R;Jernigan, J;Delvaille, J;MacAlpine, G;Hjellming, R|Discovery of an X-ray QSO.|68
+1978Natur.272..701J|Jernigan, J;Apparao, K;Bradt, H;Doxsey, R;Dower, R;McClintock, J|Positions of galactic X-ray sources: -20° &lt; l<SUP>II</SUP> &lt; + 6°|30
+1978Natur.273..364D|Dower, R;Apparao, K;Bradt, H;Doxsey, R;Jernigan, J;Kulik, J|Positions of galactic X-ray sources: 55° &lt; l<SUP>II</SUP> &lt; 320°|46
+1978Natur.273..367C|Cominsky, L;Clark, G;Li, F;Mayer, W;Rappaport, S|Discovery of 3.6-s X-ray pulsations from 4U0115+63|63
+1978Natur.274..567G|Grindlay, J;McClintock, J;Canizares, C;Cominsky, L;Li, F;Lewin, W;van Paradijs, J|Discovery of optical bursts from an X-ray burst source, MXB 1735-44.|65
+1978Natur.275..719S|Schnopper, H;Davis, M;Delvaille, J;Geller, M;Huchra, J|Contribution of intermediate luminosity X-ray galaxies to the background: Anon 0945-30|40
+1978Natur.276..375D|Dennison, B;Delvaille, J;Epstein, A;Schnopper, H|Search for X-ray emission from AO 0235+164.|5
+1978Natur.276..799L|Li, F;Clark, G;Jernigan, J;Laustsen, S;Zuiderwijk, E;van Paradijs, J|Discovery., optical identification of 2S 0921-630.|16
+1978PAZh....4..257S|Shklovskii, I|Bursters - A new type of X-ray source or a property of old X-ray pulsars|0
+1977A&A....58..385O|Ogelman, H;Beuermann, K;Kanbach, G;Mayer-Hasselwander, H;Capozzi, D;Fiordilino, E;Molteni, D|Increase in the pulsational period of 3U 0900-40.|30
+1977AmSci..65..605L|Lewin, W|X-ray outbursts in our galaxy|10
+1977ApJ...212..768B|Buff, J;Jernigan, G;Laufer, B;Bradt, H;Clark, G;Lewin, W;Matilsky, T;Mayer, W;Primini, F|Intense X-ray flares from Aquila X-1 and Circinus X-1.|54
+1977ApJ...213L.115H|Hearn, D;Richardson, J|The X-ray light curve of AM Herculis.|61
+1977ApJ...214..874J|Joss, P;Li, F;Wang, Y;Hearn, D|Observations of Hercules X-1 with SAS-3 during 1975 July.|28
+1977ApJ...214L..11U|Ulmer, M;Lewin, W;Hoffman, J;Doty, J;Marshall, H|Some further information on the rapid burster MXB 1730-335.|22
+1977ApJ...214L.119C|Canizares, C;Oda, M|Observations of rapid X-ray flaring from Cygnus X-1.|25
+1977ApJ...215L...7S|Schnopper, H;Epstein, A;Delvaille, J;Tucker, W;Doxsey, R;Jernigan, G|Detection of X-ray emission from 3C 120.|42
+1977ApJ...216..103E|Epstein, A;Delvaille, J;Helmken, H;Murray, S;Schnopper, H;Doxsey, R;Primini, F|Variability of LMC X-4.|27
+1977ApJ...216L..15M|McClintock, J;Rappaport, S;Nugent, J;Li, F|Discovery of a 272 second periodic variation in the X-ray source GX 304-1.|44
+1977ApJ...217..543P|Primini, F;Rappaport, S;Joss, P|Pulse profile and refined orbital elements for SMC X-1.|47
+1977ApJ...217L..15S|Schnopper, H;Delvaille, J;Epstein, A;Helmken, H;Harris, D;Strom, R;Clark, G;Jernigan, J|X-ray and radio observations of the structure of Abell 478.|16
+1977ApJ...217L..29R|Rappaport, S;Markert, T;Li, F;Clark, G;Jernigan, J;McClintock, J|Discovery of a 7.68 second X-ray periodicity in 3U 1626-67.|77
+1977ApJ...218L..49E|Epstein, A|LMC X-1: a luminous extended X-ray source.|7
+1977ApJ...218L.117G|Grindlay, J;Gursky, H|Long-term behavior of MXB 1730-335.|18
+1977ApL....19...53Y|Yentis, D;Shulman, S;McKee, J;Rose, W|A New Measurement of the Spin-Up Rate of SMC X-1|4
+1977MNRAS.179P..15D|Davison, P|Spin-up in SMC X-1.|15
+1977MNRAS.179P..21L|Li, F;Lewin, W;Clark, G;Doty, J;Hoffman, J;Rappaport, S|X-ray bursts from MXB 1837+05.|21
+1977MNRAS.179P..57H|Hoffman, J;Lewin, W;Doty, J|Further observations of the burst source MXB 1728-34.|44
+1977Natur.267...28L|Lewin, W;Hoffman, J;Doty, J;Clark, G;Swank, J;Becker, R;Pravdo, S;Serlemitsos, P|Galactic distribution of X-ray burst sources.|21
+1977Natur.268..705R|Rappaport, S;Clark, G;Dower, R;Doxsey, R;Jernigan, G;Li, F|Variable mid-latitude X-ray source 3U0042+32|6
+1977Natur.269...21B|Bradt, H;Apparao, K;Clark, G;Dower, R;Doxsey, R;Hearn, D;Jernigan, J;Joss, P;Mayer, W;McClintock, J;Walter, F|On the optical identifications of five X-ray sources|50
+1977Natur.269..112D|Doxsey, R;Apparao, K;Bradt, H;Dower, R;Jernigan, J|Positions of galactic X-ray sources: 20° &lt; l<SUP>II</SUP> &lt; 55°|59
+1977Natur.269..496B|Bradt, H;Apparao, K;Dower, R;Doxsey, R;Jernigan, J;Markert, T|Positions of galactic X-ray sources Cir X-1, TrA X-1 and 3U1626-67|22
+1977Natur.270..320M|McClintock, J;Bradt, H;Doxsey, R;Jernigan, J;Canizares, C;Hiltner, W|Optical candidates for two X-ray bursters and an X-ray pulsar.|82
+1977Natur.270..321J|Jernigan, J;Apparao, K;Bradt, H;Doxsey, R;McClintock, J|Positions of three X-ray burst sources|22
+1977Natur.270..586D|Doxsey, R;Apparao, K;Bradt, H;Dower, R;Jernigan, J|Positions of galactic X-ray sources: 0° &lt; l<SUP>II</SUP> &lt; 20°|19
+1976Ap&SS..42..111C|Canizares, C|M. I. T. Studies of Transient X-Ray Phenomena|4
+1976ApJ...203L...9D|Doxsey, R;Jernigan, G;Hearn, D;Bradt, H;Buff, J;Clark, G;Delvaille, J;Epstein, A;Joss, P;Matilsky, T;Mayer, W;McClintock, J;Rappaport, S;Richardson, J;Schnopper, H|X-ray nova A0620-00 - Celestial position and low-energy flux|50
+1976ApJ...203L..21H|Hearn, D;Richardson, J;Bradt, H;Clark, G;Lewin, W;Mayer, W;McClintock, J;Primini, F;Rappaport, S|MX 1313+29: a compact source of very low energy X-rays in Coma Berenices.|55
+1976ApJ...204L..67B|Bradt, H;Mayer, W;Buff, J;Clark, G;Doxsey, R;Hearn, D;Jernigan, G;Joss, P;Laufer, B;Lewin, W;Li, F;Matilsky, T;McClintock, J;Primini, F;Rappaport, S;Schnopper, H|The transient periodic X-ray source in Taurus, A0535+26.|60
+1976ApJ...206L.139R|Rappaport, S;Buff, J;Clark, G;Lewin, W;Matilsky, T;McClintock, J|A fast transient source of hard X-rays at high galactic latitude.|16
+1976ApJ...207L..95L|Lewin, W;Doty, J;Clark, G;Rappaport, S;Bradt, H;Doxsey, R;Hearn, D;Hoffman, J;Jernigan, J;Li, F;Mayer, W;McClintock, J;Primini, F;Richardson, J|The discovery of rapidly repetitive X-ray bursts from a new source in Scorpius.|168
+1976ApJ...207L.105C|Clark, G;Jernigan, J;Bradt, H;Canizares, C;Lewin, W;Li, F;Mayer, W;McClintock, J;Schnopper, H|Recurrent brief X-ray bursts from the globular cluster NGC 6624.|43
+1976ApJ...208L.119R|Rappaport, S;Joss, P;Bradt, H;Clark, G;Jernigan, J|Evidence for the binary nature of A 0535+26.|33
+1976ApJ...210L..13H|Hoffman, J;Lewin, W;Doty, J;Hearn, D;Clark, G;Jernigan, G;Li, F|Discovery of X-ray bursts from MXB 1728-34.|61
+1976ApJ...210L..23H|Hearn, D;Richardson, J;Clark, G|Detection of soft X-ray emission from an unidentified source at high galactic latitude.|57
+1976ApJ...210L..71P|Primini, F;Rappaport, S;Joss, P;Clark, G;Lewin, W;Li, F;Mayer, W;McClintock, J|Orbital elements and masses for the SMC X-1 / Sanduleak 160 binary system.|34
+1976ApJ...210L..75S|Schnopper, H;Delvaille, J;Epstein, A;Helmken, H;Murray, S;Clark, G;Jernigan, G;Doxsey, R|Detection of X-rays from Algol (beta Persei).|56
+1976ApJ...210L.127M|Matilsky, T;Bradt, H;Buff, J;Clark, G;Jernigan, J;Joss, P;Laufer, B;McClintock, J;Zubrod, D|The transient X-ray source A 0620-00: intensity variations and evidence for an 8 day periodicity.|49
+1976MNRAS.177P..83L|Lewin, W;Hoffman, J;Doty, J;Hearn, D;Clark, G;Jernigan, J;Li, F;McClintock, J;Richardson, J|Discovery of X-ray bursts from several sources near the galactic centre.|55
+1976Natur.260..690M|Mason, K;White, N;Sanford, P|X-ray emission from GAM Cas.|37
+1976Natur.261..208H|Hoffman, J;Lewin, W;Brecher, K;Buff, J;Clark, G;Joss, P;Matilsky, T|Search for X-ray emission from Nova Cygni 1975|14
+1976Natur.261..564C|Cooke, B|Two short lived X-ray transients at high galactic latitude|20
+1976Natur.262..473Q|Quenby, J;Coe, M;Engel, A;Mills, J|Positions and evidence for a steady component for X-ray burst sources.|0
+1976PhDT........81R|Richardson, J|A Study of Three Discrete Sources of Very Soft X-Rays with the SAS-3 Satellite.|1
+1975ITNS...22..565T|Taylor, R|Massachusetts Institute of Technology X-ray Observatory for the Small Astronomy Satellite (SAS-C).|0
+1975ITNS...22..600G|Goeke, R|Hybrid measurement chains for the SAS-C spacecraft|1
+1975TecRv..78...26M|McClintock, J|Marriage of X-ray and optical astronomy.|0

@@ -1,0 +1,46 @@
+{
+  "title": "Astro-E",
+    "name": "Astro-E",
+    "decade" : 2000,
+    "alttext": "Visualization of Astro-E",
+    "imagesize": 300,
+    "imageurl": "/Images/astroe/astroe.jpg",
+    "descript": "<p><b><font size=\"+2\">A</font>stro-E</b> was to be the Japan&rsquo;s fifth X-ray astronomy mission, but was lost during launch on 10 Feb 2000. Astro-E was developed at the Japanese Institute of Space and Astronautical Science (ISAS) in collaboration with the US and Japanese institutions. Astro-E was to carry, among other instruments, a new type of X-ray spectrometer, the X-ray micro-calorimenter, which would have provided an unprecendent energy resolution compared to non-dispersive instruments.</p>\n\n<p>The mission was rebuild as ASTRO-E2, renamed Suzaku, that was successfully launched in 2005 and operated for 10 years.</p>",
+    "lifetime": "10 Feb 2000 (launch failure)",
+    "features": [
+	"First X-ray micro-calorimeter in space"
+    ],
+    "instruments": [
+	{
+	    "name" : "X-ray Telescope (XRT)",
+	    "energy" : "0.2&ndash;12 keV",
+	    "length" : "4.75 m (XRT-S)<br>4.5 m (XRT-I)",
+	    "resolution" : "&sim;2&prime;",
+	    "descript" : "Five nested conical thin-foil grazing incidence telescopes, all gold-coated. Four were XRT-I used for the XIS instrument, the fifth XRT-S served the XRS instrument."
+	},
+	{
+	    "name" : "X-ray Spectrometer (XRS)",
+	    "energy" : "0.3&ndash;12 keV",
+	    "fov" : "2.9&prime; &times; 2.9&prime;",
+	    "area" : "190 cm<sup>2</sup> at 1.5 kev",
+	    "energy_resolution" : "&sim;6.5 eV at 6 keV (FWHM)",
+	    "descript" : "An X-ray microcalorimeter composite of 32 pixels at the foci of the XRT-S"
+	},
+	{
+	    "name" : "X-ray Imaging Spectrometer (XIS)",
+	    "energy" : "0.2&ndash;12 keV",
+	    "fov" : "18&prime; &times; 18&prime;",
+	    "area" : "340 cm<sup>2</sup> (FI)<br>390 cm<sup>2</sup> (BI)",
+	    "energy_resolution" : "130 eV at 6 keV",
+	    "descript" : "Four 1024&times;1024 pixel CCD detectors at the foci of one of the XRT-I. Three are front illuminated (FI), one is back illuminated (BI)."
+	},
+	{
+	    "name" : "Hard X-ray Detector (HXD)",
+	    "energy" : "10&ndash;600 keV",
+	    "fov" : "34&prime; &times; 34&prime; (&lt; 100 keV)<br>4.5&deg; &times; 4.5&deg; (&gt; 100 keV)",
+	    "area" : "&sim;145 cm<sup>2</sup> at 15 keV (PIN)<br>315 cm<sup>2</sup> at 100 keV (GSO)",
+	    "energy_resolution" : "3 keV (FWHM) 7.6/(E<sub>MeV</sub>)<sup>0.5</sup> % FWHM",
+	    "descript" : "GSO crystal scintillator (&gt;30 keV) &amp; silicon PIN diodes (&lt;60 keV)"
+	}
+    ]
+}

@@ -1,0 +1,62 @@
+{
+    "title": "The European Space Research Organization satellite 2B",
+    "name": "ESRO 2B",
+    "decade": 1960,
+    "alttext": "photo of ESRO 2B",
+    "imagesize": 348,
+    "imageurl": "/Images/esro/esro-2b_small.gif",
+    "descript": "<p><b><font size=\"+2\">T</font>he ESRO-2B</b> mission was launched on 17 May 1968, with an elliptical orbit with an initial apogee 1086 km, perigee 326 km, and inclination 97.2 degrees. The orbital period was 98.9 minutes. It was the first successful ESRO satellite launch. ESRO (European Space Research Organization), was the forerunner of ESA. ESRO-2B was also known as Iris. The satellite was mainly intended to study X-ray and particle emissions from the Sun, however, it is credited with some extra-solar observations. The spacecraft was cylindrical in shape, with a 0.76 m diameter and a 0.85 m height. It weighed 80 kg. The failure of the on-board tape recorder in December 1968 (after roughly 6.5 months of operation) was catastrophic for the 2 X-ray experiments. They did not provide any significant data return after that time. The satellite reentered the atmosphere on 8 May 1971.</p>",
+    "lifetime": "May&ndash;Dec 1968",
+    "features": [
+	"The satellite carried seven instruments to detect high energy cosmic rays, determine the total flux of solar X-rays, and measure trapped radiation, Van Allen belt protons and cosmic ray protons.  While geared primarily for solar observations, the detectors are credited with the detection of non-solar X-ray sources."
+    ],
+    "instruments": [
+	{
+	    "name" : "S25",
+	    "descript" : "Time variations on radiation belt population"
+	},
+	{
+	    "name" : "S27",
+	    "energy" : "1&ndash;100 MeV (protons)",
+	    "descript" : "Solar and radiation belt protons and alpha particles"
+	},
+	{
+	    "name" : "S28",
+	    "energy" : "0.4&ndash;0.8 GeV",
+	    "descript" : "High-energy solar protons and alpha particles"
+	},
+	{
+	    "name" : "S29",
+	    "energy" : "1&ndash;13 GeV",
+	    "descript" : "Flux and energy spectrum of primary electrons"
+	},
+	{
+	    "name" : "S36",
+	    "wavelength" : "1&ndash;20 &Aring;",
+	    "descript" : "Solar X-ray detector with proportional counters with varying window thickness"
+	},
+	{
+	    "name" : "S37",
+	    "wavelength" : "44&ndash;60 &Aring;",
+	    "descript" : "Solar X-ray detector with proportional counters with thin mylar windows"
+	},
+	{
+	    "name" : "S72",
+	    "energy" : "35 MeV &ndash; 1 GeV (solar and galactic protons)<br>140&ndash;1200 Mev (alpha particles)",
+	    "descript" : ""
+	}
+    ],
+    "instrument_postscript" : "The satellite carried seven instruments to detect high energy cosmic rays, determine the total flux of solar X-rays, and measure trapped radiation, Van Allen belt protons and cosmic ray protons. There were 2 X-ray instruments: one designed to detect 1&ndash;20 Angstroms (consisting of proportional counters with varying window thickness) and one designed to detect 44&ndash;60 Angstroms (consisting of proportional counters with thin mylar windows). While geared primarily for solar observations, the detectors are credited with the detection of non-solar X-ray sources.",
+    "highlights": [],
+    "publications" : [
+	"<a class=\"usa-link\" href=\"https://ui.adsabs.harvard.edu/abs/1979STIN...7930274./abstract\">The Achievements of ESA Scientific Satellites 1968-1978 ESA SP-1013, April 1979, pp. 6-14</a>",
+	"<a class=\"usa-link\" href=\"https://ui.adsabs.harvard.edu/abs/1997afs..book.....D/abstract\">Davies, 1997, Astronomy from Space: The Design and Operation of Orbiting Observatories p. 80</a>"
+    ],
+  "archive": "",
+  "navigation": [
+    {
+      "url": "images/esro2b_images.html",
+      "text": "Gallery"
+    }
+  ]
+}

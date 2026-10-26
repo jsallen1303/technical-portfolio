@@ -1,0 +1,1 @@
+2019ExA....47..225F|Feng, H;Jiang, W;Minuti, M;Wu, Q;Jung, A;Yang, D;Citraro, S;Nasimi, H;Yu, J;Jin, G;Huang, J;Zeng, M;An, P;Baldini, L;Bellazzini, R;Brez, A;Latronico, L;Sgro, C;Spandre, G;Pinchera, M;Muleri, F;Soffitta, P;Costa, E|PolarLight: a CubeSat X-ray polarimeter based on the gas pixel detector|8

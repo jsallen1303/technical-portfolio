@@ -1,0 +1,48 @@
+2024AAS...24312701B|Boettcher, E;Hodges-Kluck, E|Resolving the Prototypical Starburst Wind in M82 with XMM-RGS|0
+2024AAS...24326215N|Nair, P;Li, W;Rowlands, K;Masters, K;Stark, D;Drory, N;Ellison, S;Irwin, J;Satyapal, S;Jones, A;Keel, W;Mukundan, K|Post-starburst properties of post-merger galaxies|0
+2024AAS...24330608L|Lanz, L;Klunk, D;Carlton, I;Graessle, A;Miller, L;Scally, J;Kaufman, J;Alatalo, K;French, K;Rowlands, K;Nyland, K;Medling, A;Petric, A|AGN in Post-Starburst Galaxies: A Multiwavelength Census|0
+2024AAS...24330611S|Stumbaugh, E;Setton, D;Bezanson, R;Squiggle Collaboration|Exploring the Role of Environment in the Quenching of Post-Starburst Galaxies|0
+2024AAS...24342505L|Lee, A;Farrah, D;Efstathiou, A;Leisawitz, D;Urry, M;Sanders, D;Bonato, M;Mundy, L;Kashlinsky, A|Simulating the Recovery of AGN and Starburst Properties in the Far-Infrared|0
+2024AAS...24343001L|Levy, R;M82/NGC253 JWST Team|A JWST View of Star Clusters in the Central Starburst of M82|0
+2024AAS...24413110G|Geiersbach, A;Pacucci, F|Are the candidates z   13 drop-out sources starburst galaxies or quasars?|0
+2024HEAD...2110415B|Boettcher, E;Hodges-Kluck, E|The XMM-RGS View of M82: First Detection of Velocity Broadening in a Soft X-ray Starburst Wind|0
+2024HEAD...2140602K|Kocevski, D;Grove, J;Briggs, M;Woolf, R;Hui, C;Goldstein, A;Fletcher, C;Wilson-Hodge, C|The Starburst Mission|0
+2024HEAD...2150003B|Briggs, M;StarBurst Instrument Team|The StarBurst Multimessenger Pioneer|0
+2024RMxAC..56...76G|Galante, C;Saponara, J;Romero, G;Benaglia, P|Search for Extraplanar Radio Emission in a Sample of Edge-On Starburst Galaxies|0
+2024arXiv240105487R|Riechers, D|Do Unusually Cold Starburst Galaxies Exist? A Case Study|0
+2024arXiv240317133S|Sugahara, Y;Alvarez-Marquez, J;Hashimoto, T;Colina, L;Inoue, A;Costantin, L;Fudamoto, Y;Mawatari, K;Ren, Y;Arribas, S;Bakx, T;Blanco-Prieto, C;Ceverino, D;Crespo Gomez, A;Hagimoto, M;Hashigaya, T;Marques-Chaves, R;Matsuo, H;Nakazato, Y;Pereira-Santaella, M;Tamura, Y;Usui, M;Yoshida, N|RIOJA. Complex Dusty Starbursts in a Major Merger B14-65666 at z=7.15|3
+2024arXiv240402089P|Pardasani, B;French, K|Spatially Resolved Kinematics of Post-starburst Galaxies|0
+2024arXiv240403730W|Weaver, K;Cann, J;Valencic, L;Pfeifle, R;Kuntz, K;Campbell, J;Engle, K;Tanner, R;Hodges-Kluck, E;Carlton, I;McCarthy, M|Kpc-Scale Neutral Iron K$\alpha$ Emission in the Starburst-AGN NGC 4945: a Relic AGN Outflow?|0
+2024arXiv240503686F|Fisher, D;Bolatto, A;Chisholm, J;Fielding, D;Levy, R;Tarantino, E;Boyer, M;Cronin, S;Lopez, L;Smith, J;Berg, D;Lopez, S;Veilleux, S;van der Werf, P;Boker, T;Boogaard, L;Lenkic, L;Glover, S;Villanueva, V;Mayya, D;Lai, T;Dale, D;Emig, K;Walter, F;Relano, M;De Looze, I;Mills, E;Leroy, A;Meier, D;Herrera-Camus, R;Klessen, R|JWST Observations of Starbursts: Cold Clouds and Plumes Launching in the M82 Outflow|0
+2024arXiv240507986P|Polletta, M;Frye, B;Garuda, N;Willner, S;Berta, S;Kneissl, R;Dole, H;Jansen, R;Lehnert, M;Cohen, S;Summers, J;Windhorst, R;D'Silva, J;Koekemoer, A;Coe, D;Conselice, C;Driver, S;Grogin, N;Marshall, M;Nonino, M;Ortiz, R;Pirzkal, N;Robotham, A;Ryan, R;Willmer, C;Yan, H;Arumugam, V;Cheng, C;Gim, H;Hathi, N;Holwerda, B;Kamieneski, P;Keel, W;Li, J;Pascale, M;Rottgering, H;Smith, B;Yun, M|JWST's PEARLS: resolved study of the stellar and dust components in starburst galaxies at cosmic noon|2
+2024arXiv240509619F|Faisst, A;Brinch, M;Casey, C;Chartab, N;Dessauges-Zavadsky, M;Drakos, N;Gillman, S;Gonzaliasl, G;Hayward, C;Ilbert, O;Jablonka, P;Kartaltepe, J;Koekemoer, A;Kokorev, V;Lambrides, E;Liu, D;Maraston, C;Martin, C;Renzini, A;Robertson, B;Sanders, D;Sattari, Z;Scoville, N;Urry, C;Vijayan, A;Weaver, J;Akins, H;Allen, N;Arango-Toro, R;Cooper, O;Franco, M;Gentile, F;Harish, S;Hirschmann, M;Khostovan, A;Laigle, C;Larson, R;Lee, M;Liu, Z;Long, A;Magdis, G;Massey, R;McCracken, H;McKinney, J;Paquereau, L;Rhodes, J;Rich, R;Shuntov, M;Silverman, J;Talia, M;Toft, S;Zavala, J|COSMOS-Web: The Role of Galaxy Interactions and Disk Instabilities in Producing Starbursts at z&lt;4|2
+2024arXiv240721257Z|Zhang, Y;Setton, D;Price, S;Bezanson, R;Khullar, G;Newman, J;Aguilar, J;Ahlen, S;Andrews, B;Brooks, D;Claybaugh, T;de la Macorra, A;Dey, B;Doel, P;Gaztanaga, E;Gontcho, S;Greene, J;Juneau, S;Kehoe, R;Kisner, T;Kriek, M;Leja, J;Manera, M;Meisner, A;Miquel, R;Moustakas, J;Prada, F;Rossi, G;Sanchez, E;Schubnell, M;Siudek, M;Spilker, J;Sprayberry, D;Suess, K;Tarle, G;Zou, H|DESI Massive Post-Starburst Galaxies at $\mathbf{z\sim1.2}$ have compact structures and dense cores|0
+2024arXiv240900308C|Coleman, E;Keerthi Vasan G., C;Chen, Y;Jones, T;Rhoades, S;Ellis, R;Stark, D;Leethochawalit, N;Sanders, R;Mortensen, K;Glazebrook, K;Kacprzak, G|Detection of gas inflow during the onset of a starburst in a low-mass galaxy at z=2.45|0
+2024arXiv240907113O|Onoue, M;Ding, X;Silverman, J;Matsuoka, Y;Izumi, T;Strauss, M;Ward, C;Phillips, C;Andika, I;Aoki, K;Arita, J;Baba, S;Bieri, R;Bosman, S;Eilers, A;Fujimoto, S;Habouzit, M;Haiman, Z;Imanishi, M;Inayoshi, K;Ito, K;Iwasawa, K;Jahnke, K;Kashikawa, N;Kawaguchi, T;Kohno, K;Lee, C;Li, J;Lupi, A;Lyu, J;Nagao, T;Overzier, R;Schindler, J;Schramm, M;Scoggins, M;Shimasaku, K;Toba, Y;Trakhtenbrot, B;Trebitsch, M;Treu, T;Umehata, H;Venemans, B;Vestergaard, M;Volonteri, M;Walter, F;Wang, F;Yang, J;Zhang, H|A Post-Starburst Pathway to Forming Massive Galaxies and Their Black Holes at z&gt;6|0
+2024arXiv240908672W|Wild, V;Vale Asari, N;Rowlands, K;Ellison, S;Leung, H;Tremonti, C|The infrared luminosity of retired and post-starburst galaxies: A cautionary tale for star formation rate measurements|0
+2024arXiv240909020C|Cosens, M;Wright, S;Sandstrom, K;Armus, L;Murray, N;Runco, J;Sabhlok, S;Wiley, J|Oxygen Abundance Throughout the Dwarf Starburst IC 10|0
+2024arXiv240915274T|Thorp, M;Ellison, S;Galicia, A|Are all starbursts equal? Star-formation-rate profiles in merger versus secular starbursts|0
+2024arXiv240920349Z|Zhu, S;Yuan, F;Jiang, C;Zheng, Z;Lin, R|Lyman Continuum Leakers at $z&gt;3$ in the GOODS-S Field: Starburst or Not?|0
+2024eas..conf..364K|Koutsoumpou, E;Fernandez-Ontiveros, J|Cosmic Ray feedback on the nebular gas in nearby AGN and starburst galaxies|0
+2024eas..conf.1284C|Cenci, E;Feldmann, R|Starburst-induced gas-star kinematic misalignment: formation of counter-rotating disks in the absence of AGN feedback|0
+2024eas..conf.1796S|Stanke, T|Molecular clouds roasted by starburst clusters|0
+2024hst..prop17821H|Hernandez, S;Jones, L;Leitherer, C;Smith, L;Togi, A;Wofford, A|Anatomy of a Starburst: Spatially resolving Star Formation and Feedback in the nucleus of M83|0
+2024jwst.prop.5014H|Hunt, L;Calzetti, D;Adamo, A;Aloisi, A;Annibali, F;Bik, A;Brandl, B;Cignoni, M;Correnti, M;Decarli, R;Dell'Agli, F;Draine, B;Gallagher, J;Hensley, B;Loiacono, F;Rigopoulou, D;Sabbi, E;Sacchi, E;Sandstrom, K;Schneider, R;Smith, L;Tosi, M|Anatomy of a Low-Metallicity Starburst|0
+2024jwst.prop.5145S|Smercina, A;Bell, E;D'Souza, R;Dalcanton, J;Dolphin, A;Guhathakurta, P;Lazzarini, M;McQuinn, K;Skillman, E;Wainer, T;Weisz, D;Williams, B;Williams, T|Resolving the Global Stellar Populations and Star Formation History of the Starburst Galaxy M82|0
+2023HEAD...2010321W|Woolf, R;Kocevski, D;Briggs, M;Burns, E;Davis, J;Finne, T;Fletcher, C;Goldstein, A;Grove, J;Hamburg, R;Hristov, B;Hui, C;Jenke, P;Kerr, M;Veres, P;Wilson-Hodge, C;Wood, J|Overview of the StarBurst Sensor Head|0
+2023HEAD...2011523K|Kocevski, D|The StarBurst Multimessenger Pioneer|0
+2022AAS...24040907K|Kocevski, D|The StarBurst Multimessenger Pioneer|0
+2021xmm..prop..137W|Weaver, K|Mapping the X-ray Wind in the AGN-Starburst Galaxy NGC 4945 with XMM-Newton|0
+2014IAUS..303..379B|Blank, M;Duschl, W|Time lags between starburst and AGN activity in galaxy mergers|1
+2013IAUS..292...97A|Asvarov, A|Supernova Remnants in Starburst Regions|0
+2010IAUS..267..118L|Liu, X;Zakamska, N;Greene, J;Strauss, M;Krolik, J|Host Galaxies of Obscured Quasars: Infant Starbursts Caught in Action|1
+2008mru..conf..288L|Leao, J;Leitherer, C;Bresolin, F;Cid Fernandes, R|The Stellar Populations of Metal-Rich Starburst Galaxies: The Frequency of Wolf-Rayet Stars|0
+2007IAUS..242..427A|Argo, M;Pedlar, A;Muxlow, T;Beswick, R|OH main line masers in the M 82 starburst|0
+2005INGN....9...16M|Mattila, S;Greimel, R;Meikle, P|LIRIS Discovers Supernovae in Starburst Galaxies|0
+1997AIPC..408...45S|Smith, D;Neff, S;Stecher, T;Smith, A;Bothun, G;Fanelli, M;Offenberg, J;Waller, W;Bohlin, R;O'Connell, R;Roberts, M|Ultraviolet imaging of nearby starbursts: NGC 3310|3
+1995STIN...9530569A|Aalto, S;Booth, R;Black, J;Johansson, L|Molecular gas in starburst galaxies: Line intensities and physical conditions|0
+1994AIPC..304..536B|Bhattacharya, D;The, L;Kurfess, J;Clayton, D;Gehrels, N;Grabelsky, D;Johnson, W;Jung, G;Kinzer, R;Leising, M;Purcell, W;Strickman, M;Ulmer, M|Estimating starburst supernova rates using OSSE observations of M82 and NGC 253.|0
+1994Ap&SS.217..271L|Lancon, A;Rocca-Volmerange, B|Star Formation in Starburst Galaxies from Near-IR Spectroscopy and Evolutionary Population Synthesis|4
+1993RMxAA..27...59T|Terlevich, R;Tenorio-Tagle, G;Franco, J;Roszyczka, M;Boyle, B|Active galactic nuclei and nuclear starbursts.|2
+1993egte.conf..349L|Lehnert, M|A systematic investigation of edge-on starburst galaxies: Evidence for supernova-driven superwinds|0
+1990NASCP3084..334W|Waller, W|Starburst Outflows from Nearby Galaxies|0

@@ -1,0 +1,37 @@
+{
+    "title": "NICER",
+    "name": "NICER",
+    "gofsidebar" : "Past",
+    "decade" : 2010,
+    "alttext": "NICER mounted on the International Space Station",
+    "imagesize": 300,
+    "imageurl": "/Images/nicer/NICER_crop_250.jpg",
+    "descript": "<p><b><font size=\"+2\">T</font>he Neutron star Interior Composition ExploreR (NICER)</b> was a NASA experiment placed on the International Space Station (ISS). NICER observed the sky in the X-ray band (0.2&ndash;12 keV) with large collective area and fine time resolution. It was launched on a SpaceX Falcon 9 rocket on June 3, 2017, and commenced operations on June 14. The mission was approved for 18 months of operations that was extended in March 2019. The mission was suspended after a hardware anomaly in the pointing system made it impossible to track sources.</p>",
+  "lifetime": "14 Jun 2017&ndash;17 Jun 2025",
+  "features": [
+      "Concentrator optics with high temporal and moderate spectral resolution"
+  ],
+    "instruments": [
+	{
+	    "name" : "X-ray Timing Instrument (XTI)",
+	    "energy" : "0.2&ndash;12 keV",
+	    "fov" : "5&prime; (non-imaging)",
+	    "area" : "&gt;2000 cm<sup>2</sup> at 1.5 keV",
+	    "energy_resolution" : "85 eV at 1 keV<br>137 eV at 6 keV",
+	    "temporal_resolution" : "100 ns",
+	    "descript" : "XTI consisted of an aligned collection of 56 X-ray &ldquo;concentrator&rdquo; optics (XRC) and silicon drift detector (SDD) pairs. Each XRC collected X-rays over a large geometric area from a roughly 30 arcmin<sup>2</sup> region of the sky and focused them onto a small SDD. The SDD detected individual photons, recording their energies with good (few percent) spectral resolution and their detection times to an unprecedented 100 nanoseconds RMS relative to Universal Time. Together, this assemblage provided a high signal-to-noise-ratio photon-counting capability within the 0.2&ndash;12 keV X-ray band, perfectly matched to the typical spectra of neutron stars as well as a broad collection of other astrophysical sources."
+	}
+    ],
+  "highlights": [
+    "Demonstration of Station Explorer for X-ray Timing and Navigation Technology (SEXTANT) using pulsar timing to provide navigation",
+    "Investigate extreme gravity, density and magnetic fields found in neutron stars",
+    "Measured neutron stars radius and mass with unprecedented accuracy"
+  ],
+  "archive": "The HEASARC hosts NICER data",
+  "navigation": [
+    {
+      "url": "/docs/nicer/",
+      "text": "NICER Science Center"
+    }
+  ]
+}

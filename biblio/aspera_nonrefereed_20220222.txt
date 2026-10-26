@@ -1,0 +1,4 @@
+2021AAS...23721504V|Vargas, C;Hamden, E;Chung, H|Aspera: Revealing the Diffuse Universe|0
+2021AAS...23723101C|Chung, H;Vargas, C;Hamden, E;Aspera Team|Aspera: Instrument Overview and Performance|0
+2021SPIE11819E..03C|Chung, H;Vargas, C;Hamden, E;McMahon, T;Gonzales, K;Khan, A;Agarwal, S;Bailey, H;Behroozi, P;Brendel, T;Choi, H;Connors, T;Corlies, L;Corliss, J;Dettmar, R;Dolana, D;Douglas, E;Guzman, J;Hamara, D;Harris, W;Harshman, K;Hergenrother, C;Hoadley, K;Kidd, J;Kim, D;Li, J;Montoya, M;Sauve, C;Schiminovich, D;Selznick, S;Siegmund, O;Ward, M;Wolcott, E;Zaritsky, D|Aspera: the UV SmallSat telescope to detect and map the warm-hot gas phase in nearby galaxy halos|0
+2010jena.confE..98K|Katsanevas, S|ASPERA: Plans for astroparticle physics|0

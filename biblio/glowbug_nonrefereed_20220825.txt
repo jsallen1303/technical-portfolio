@@ -1,0 +1,8 @@
+2022AAS...24040907K|Kocevski, D|The StarBurst Multimessenger Pioneer|0
+2022HEAD...1920404W|Woolf, R;Grove, J;Kerr, M;Johnson, W;Davis, M;Finne, T;Wilson-Hodge, C;Kocevski, D;Briggs, M|Glowbug, a telescope for gamma-ray bursts and other transients|0
+2020AAS...23535106G|Grove, J;Cheung, C;Kerr, M;Mitchell, L;Phlips, B;Woolf, R;Wulf, E;Wilson-Hodge, C;Kocevski, D;Briggs, M;Perkins, J|Glowbug, a Gamma-Ray Telescope for Bursts and Other Transients|0
+2020AGUFMAE005..07G|Grove, J;Cheung, C;Kerr, M;Mitchell, L;Phlips, B;Woolf, R;Wilson-Hodge, C;Kocevski, D;Briggs, M|Glowbug, a Gamma-Ray Telescope for Bursts and Other Transients (including TGFs!)|0
+2020grbg.conf...57G|Grove, J;Cheung, C;Kerr, M;Mitchell, L;Phlips, B;Woolf, R;Wulf, E;Briggs, M;Wilson-Hodge, C;Kocevski, D;Perkins, J|Glowbug, a Low-Cost, High-Sensitivity Gamma-Ray Burst Telescope|1
+2019AAS...23310905G|Grove, J;Cheung, C;Kerr, M;Mitchell, L;Phlips, B;Woolf, R;Wulf, E;Wilson-Hodge, C;Kocevski, D;Briggs, M;Perkins, J|Glowbug, a Gamma-Ray Telescope for Bursts and Other Transients|0
+2019HEAD...1710952G|Grove, J;Cheung, C;Kerr, M;Mitchell, L;Phlips, B;Woolf, R;Wulf, E;Wilson-Hodge, C;Kocevski, D;Briggs, M;Perkins, J;Guiriec, S;Hartmann, D|Glowbug, a Gamma-Ray Telescope for Bursts and Other Transients|0
+2017apra.prop...34G|Grove, J|Glowbug, a Gamma-Ray Telescope for Bursts and Other Transients|0

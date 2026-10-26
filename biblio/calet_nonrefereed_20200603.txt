@@ -1,0 +1,192 @@
+2020ASPC..522..715E|Ebisawa, K.;Sugawara, S.;Tomida, H.;Ueno, S.;Furusho, T.;Nakahira, S.;Sugizaki, M.;Mihara, T.;Shidatsu, M.;Negoro, H.;Nakagawa, Y.;Serino, M.;Yoshida, A.;Sakamoto, T.;Kawakubo, Y.;Yamaoka, K.;Torii, S.;Asaoka, Y.;Angelini, L.|MAXI and CALET Archives at DARTS|0
+2020arXiv200404304M|Motz, Holger;Okada, Hiroshi;Asaoka, Yoichi;Kohri, Kazunori|Cosmic-Ray Signatures of Dark Matter from a Flavor Dependent Gauge Symmetry Model with Neutrino Mass Mechanism|1
+2020arXiv200410683G|Ge, Shao-Feng;He, Hong-Jian;Wang, Yu-Chen;Yuan, Qiang|Probing Flavor Structure of Cosmic Ray $e^\mp$ Spectrum and Implications for Indirect Dark Matter Searches|0
+2019ASPC..523..515E|Ebisawa, Ken;Nakahira, Satoshi;Sakamoto, Takanori;Yoshida, Atsumasa|CALET Gamma-ray Burst Monitor Web-analysis System|0
+2019EPJWC.20813001A|Asaoka, Y.;Adriani, O.;Akaike, Y.;Asano, K.;Bagliesi, MG;Berti, E.;Bigongiari, G.;Binns, WR;Bonechi, S.;Bongi, M.;Bruno, A.;Brogi, P.;Buckley, J. H.;Cannady, N.;Castellini, G.;Checchia, C.;Cherry, M. L.;Collazuol, G.;Di Felice, V.;Ebisawa, K.;Fuke, H.;Guzik, T. G.;Hams, T.;Hasebe, N.;Hibinov, K.;Ichimura, M.;Ioka, K.;Ishizaki, W.;Israel, M. H.;Kasahara, K.;Kataoka, J.;Kataoka, R.;Katayose, Y.;Kato, C.;Kawanaka, N.;Kawakubo, Y.;Kohri, K.;Krawczynski, H. S.;Krizmanic, J. F.;Lomtadze, T.;Maestro, P.;Marrocchesi, P. S.;Messineo, A. M.;Mitchell, J. W.;Miyake, S.;Moiseev, A. A.;Mori, K.;Mori, M.;Mori, N.;Motz, H. M.;Munakata, K.;Murakami, H.;Nakahira, S.;Nishimura, J.;De Nolfo, G. A.;Okuno, S.;Ormes, J. F.;Ozawa, S.;Pacini, L.;Palma, F.;Pal'shin, V.;Papini, P.;Penacchioni, A. V.;Rauch, B. F.;Ricciarini, S. B.;Sakai, K.;Sakamoto, T.;Sasaki, M.;Shimizu, Y.;Shiomi, A.;Sparvoli, R.;Spillantini, P.;Stolzi, F.;Sugita, S.;Suh, J. E.;Sulaj, A.;Takahashi, I.;Takayanagi, M.;Takita, M.;Tamura, T.;Tateyama, N.;Terasawa, T.;Tomida, H.;Torii, S.;Tsunesada, Y.;Uchihori, Y.;Ueno, S.;Vannuccini, E.;Wefel, J. P.;Yamaoka, K.;Yanagita, S.;Yoshida, A.;Yoshida, K.|The CALorimetric Electron Telescope (CALET) on the International Space Station: Results from the First Two Years of Operation|0
+2019ICRC...36....1A|Asaoka, Y.|The CALorimetric Electron Telescope (CALET) on the International Space Station|0
+2019ICRC...36...34A|Akaike, Y.|Measurements of Heavy Cosmic Ray Nuclei Fluxes with CALET|0
+2019ICRC...36..101M|Maestro, P.|Measurement of the energy spectra of carbon and oxygen nuclei in cosmic rays with CALET|0
+2019ICRC...36..103M|Marrocchesi, P. S.|Measurement of the Proton Spectrum with CALET on the ISS|0
+2019ICRC...36..112M|Motz, H.;Asaoka, Y.|Analysis of CALET Data for Anisotropy in Electron+Positron Cosmic Rays|0
+2019ICRC...36..130R|Rauch, B. F.;Binns, W.;Calet Collaboration|CALET Ultra Heavy Cosmic Ray Observations on the ISS|0
+2019ICRC...36..142T|Torii, S.|Extended Measurement of Cosmic-Ray Electron and Positron Spectrum from CALET on the ISS|0
+2019ICRC...36..533M|Motz, H.;Asaoka, Y.;Bhattacharyya, S.|Interpretation of the CALET Electron+Positron Spectrum concerning Dark Matter Signatures|0
+2019ICRC...36..557C|Cannady, N. W.|CALET Upper Limits on GeV-energy Gamma-Ray Burst Emission|0
+2019ICRC...36..571K|Kawakubo, Y.|Gamma-ray burst observations with the CALET Gamma-ray Burst Monitor|0
+2019ICRC...36..586M|Mori, M.;Asaoka, Y.;Calet Collaboration|High-Energy Gamma-ray Observations Using the CALorimetric Electron Telescope (CALET) on the ISS|0
+2019ICRC...36.1063B|Bruno, A.|Space Weather Observations during September 2017 with CALET on the International Space Station|0
+2019ICRC...36.1126M|Miyake, S.;Migita, Y.;Asaoka, Y.;Akaike, Y.;Torii, S.;Terasawa, T.;Kataoka, R.;Sakai, K.|Solar Modulation of Galactic Cosmic-Ray Electrons Measured with CALET|0
+2019JPhCS1181a2003A|Asaoka, Y.;Adriani, O.;Akaike, Y.;Asano, K.;Bagliesi, M. G.;Berti, E.;Bigongiari, G.;Binns, W. R.;Bonechi, S.;Bongi, M.;Bruno, A.;Brogi, P.;Buckley, J. H.;Cannady, N.;Castellini, G.;Checchia, C.;Cherry, M. L.;Collazuol, G.;Di Felice, V.;Ebisawa, K.;Fuke, H.;Guzik, T. G.;Hams, T.;Hasebe, N.;Hibino, K.;Ichimura, M.;Ioka, K.;Ishizaki, W.;Israel, M. H.;Kasahara, K.;Kataoka, J.;Kataoka, R.;Katayose, Y.;Kato, C.;Kawanaka, N.;Kawakubo, Y.;Kohri, K.;Krawczynski, H. S.;Krizmanic, J. F.;Lomtadze, T.;Maestro, P.;Marrocchesi, P. S.;Messineo, A. M.;Mitchell, J. W.;Miyake, S.;Moiseev, A. A.;Mori, K.;Mori, M.;Mori, N.;Motz, H. M.;Munakata, K.;Murakami, H.;Nakahira, S.;Nishimura, J.;De Nolfo, G. A.;Okuno, S.;Ormes, J. F.;Ozawa, S.;Pacini, L.;Palma, F.;Pal’shin, V.;Papini, P.;Penacchioni, A. V.;Rauch, B. F.;Ricciarini, S. B.;Sakai, K.;Sakamoto, T.;Sasaki, M.;Shimizu, Y.;Shiomi, A.;Sparvoli, R.;Spillantini, P.;Stolzi, F.;Sugita, S.;Suh, J. E.;Sulaj, A.;Takahashi, I.;Takayanagi, M.;Takita, M.;Tamura, T.;Tateyama, N.;Terasawa, T.;Tomida, H.;Torii, S.;Tsunesada, Y.;Uchihori, Y.;Ueno, S.;Vannuccini, E.;Wefel, J. P.;Yamaoka, K.;Yanagita, S.;Yoshida, A.;Yoshida, K.|The CALorimetric Electron Telescope (CALET) on the International Space Station: Results from the First Two Years On Orbit|1
+2019JPhCS1181a2042A|Akaike, Yosui;<author pre="for the" CALET Collaboration|Measurements of Heavy Cosmic-Ray Nuclei Spectra with CALET on the ISS|0
+2019arXiv190510136G|Geng, Chao-Qiang;Huang, Da;Yin, Lu|Multicomponent Dark Matter in the Light of CALET and DAMPE|1
+2019arXiv190904214Z|Zhu, Wei;Liu, Pen;Ruan, Jianhong;Feng, Lei;Wang, Fan|Anomalous bremsstrahlung and the structure of cosmic ray electron-positron fluxes at the GeV-TeV energy range|0
+2018cosp...42E..48A|Akaike, Yosui|Measurements of Heavy Cosmic-Ray Nuclei Spectra from CALET on the ISS|0
+2018cosp...42E.132A|Asaoka, Yoichi|Measurement of Cosmic-Ray Electron and Positron Spectrum from CALET on the ISS|0
+2018cosp...42E.502C|Cannady, Nicholas|Performance of the CALET calorimeter for GeV energy gamma-ray observations|0
+2018cosp...42E1177G|Genolini, Yoann;Moskalenko, Igor;Maurin, David;Unger, Michael|A ranking of production cross-sections for light cosmic rays : Li, Be, B, C, and N.|0
+2018cosp...42E2116M|Maestro, Paolo|Measurements of cosmic-ray carbon and oxygen nuclei spectra with CALET|0
+2018cosp...42E2308M|Miyake, Shoko;Akaike, Yosui;Torii, Shoji;Sakai, Kenichi;Kataoka, Ryuho;Asaoka, Yoichi;Ando, Yuki|Cosmic-Ray Electron Flux from 1GeV to 10 GeV with Low-Energy Trigger in the CALET Experiment|0
+2018cosp...42E2349M|Mori, Masaki;Asaoka, Yoichi|Search for gamma-ray counterparts of gravitational wave events by CALET|0
+2018cosp...42E2797R|Rauch, Brian;Binns, Walter;Akaike, Yosui|Status of CALET Ultra Heavy Cosmic Ray Analysis|0
+2018cosp...42E2849R|Ricciarini, Sergio Bruno|CALET Gamma-ray Burst Monitor observations|0
+2018cosp...42E3412T|Torii, Shoji;Marrocchesi, Pier Simone|The CALorimetric Electron Telescope (CALET) on the International Space Station|0
+2018mgm..conf.3315M|Marrocchesi, Pier Simone|CALET: A high energy astroparticle physics experiment on the ISS|0
+2018shin.confE.136D|de Nolfo, Georgia A.;Bruno, A.|Observations of Solar Energetic Particles during September 2017 with CALET on the International Space Station; no|0
+2017AIPC.1792g0014M|Mori, Masaki|Current status of the CALET mission|0
+2017APS..APR.J4005M|Mitchell, John;Calet Collaboration;Hnx/Tigeriss Collaboration|Measuring the Cosmic Particle Radiation from electrons to actinides - CALET|0
+2017APS..APR.J4008A|Akaike, Yosui;Calet Collaboration|CALET On-orbit Calibration and Performance|0
+2017APS..APR.M4002R|Rauch, Brian;CALET Collaboration|Preliminary CALET Ultra Heavy Cosmic Ray Abundance Measurements|0
+2017ICRC...35..156M|Marrocchesi, P. S.;Calet Collaboration|Observation of Protons and Light Nuclei with CALET: Analysis and Preliminary Results|2
+2017ICRC...35..163P|Pacini, L.;Akaike, Y.;Calet Collaboration|Capability of electron identification for the CALET measurement.|0
+2017ICRC...35..165O|Ozawa, S.;Asaoka, Y.;Calet Collaboration|CALET on-orbit operations and data analysis system at the Waseda CALET Operations Center (WCOC)|0
+2017ICRC...35..180R|Rauch, B.;Akaike, Y.;Calet Collaboration|Status of the CALET Ultra Heavy Cosmic Ray Analysis|0
+2017ICRC...35..181A|Akaike, Y.;Calet Collaboration|Measurements of heavy nuclei with the CALET experiment|1
+2017ICRC...35..205A|Asaoka, Y.;Calet Collaboration|Analysis and Preliminary Results for the Cosmic Ray Electron Spectrum from CALET|0
+2017ICRC...35..206K|Komiya, Y.;Bigongiari, G.;Torii, S.;Asaoka, Y.;Calet Collaboration|MIP Calibration and the Long-term Stability of CALET onboard the International Space Station|0
+2017ICRC...35..207M|Miyata, R.;Asaoka, Y.;Torii, S.;Calet Collaboration|Full Dynamic Range Energy Calibration of CALET onboard the International Space Station|0
+2017ICRC...35..208M|Maestro, P.;Calet Collaboration;Mori, N.|Particle tracking in the CALET experiment|0
+2017ICRC...35..265M|Motz, H.;Asaoka, Y.;Torii, S.;Bhattacharyya, S.|Searching for Anisotropy in Electron+Positron Cosmic Rays with CALET|0
+2017ICRC...35..614Y|Yamaoka, K.;Calet Collaboration|CALET GBM Observations of Gamma-ray Bursts and Gravitational Wave Sources|1
+2017ICRC...35..637M|Mori, M.;Asaoka, Y.;Calet Collaboration|Search for gamma-ray emission from electromagnetic counterparts of gravitational wave sources with the CALET calorimeter|0
+2017ICRC...35..919B|Bhattacharyya, S.;Motz, H.;Torii, S.;Asaoka, Y.|Searching for Cosmic-Ray Signals from Decay of Fermionic Dark Matter with CALET|0
+2017ICRC...35.1092T|Tori And, S.;Calet Collaboration|The CALorimetric Electron Telescope (CALET) on the ISS: Preliminary Results from On-orbit Observations since October, 2015|3
+2017SPIE10564E..0CN|Naitoh, Masataka;Katayama, Haruyoshi;Harada, Masatomo;Nakamura, Ryoko;Kato, Eri;Tange, Yoshio;Sato, Ryota;Nakau, Koji|Development of the compact infrared camera (CIRC) for Earth observation|0
+2017arXiv170400304M|Marrocchesi, Pier Simone|Charged Cosmic Rays: a Review of Balloon and Space Borne Measurements|1
+2017arXiv171206265B|Bhattacharyya, S.;Motz, H.;Asaoka, Y.;Torii, S.|An Interpretation of the Cosmic Ray $e^+\, +\, e^-$ Spectrum from 10 GeV to 3 TeV Measured by CALET on the ISS|1
+2017symm.conf..261N|Nakahira, Satoshi;Calet Team|Gamma-ray bursts with MAXI and CALET|1
+2017symm.conf..271Y|Yamada, Y.;Sakamoto, T.;Yoshida, A.;Calet Collaboration|Energy response function of CALET Gamma ray Burst Monitor|1
+2017symm.conf..273K|Kawakubo, Yuta;Yoshida, Atsumasa;Sakamoto, Takanori;Calet Collaboration|Overview and first year observation of CALET Gamma ray Burst Monitor|0
+2017xru..conf...33A|Amati, L.|Measuring cosmological parameters with Gamma-Ray Bursts: status and perspectives|0
+2016APS..APRH11005S|Seo, Eun-Suk|Spaced-based Cosmic Ray Astrophysics|0
+2016APS..APRJ13002G|Guzik, T. Gregory;Calet Collaboration|The CALorimetric Electron Telescope (CALET) Launch and Early On-Orbit Performance|0
+2016APS..APRS13005R|Rauch, Brian;Calet Collaboration|Measurement of Relative Abundances of Ultra-Heavy Cosmic Rays with CALET on the ISS|0
+2016JPhCS.718e2023M|Marrocchesi, Pier Simone;CALET Collaboration|CALET on the ISS: a high energy astroparticle physics experiment|2
+2016LPICo1962.4038K|Kawakubo, Y. K.;Yoshida, A. Y.;Sakamoto, T. S.;Calet Collaboration|First Year Observations of GRBs with CALET Gamma Ray Burst Monitor|0
+2016LPICo1962.4043Y|Yamada, Y.;Sakamoto, T.;Yoshida, A.;Calet Collaboration|Energy Response Function of CALET Gamma Ray Burst Monitor|0
+2016LPICo1962.4056S|Sakamoto, T.;Asaoka, Y.;Nakahira, S.;Calet Collaboration|CALET Upper Limits on X-Ray and Gamma-Ray Counterparts of GW 151226|0
+2016LPICo1962.4057Y|Yamaoka, K.;Calet Collaboration|In-Orbit Performance of the CALET Gamma-Ray Burst Monitor|0
+2016LPICo1962.4066Y|Yoshida, A.;Calet Collaboration|Calorimetric Electron Telescope (CALET): Mission and Overview|0
+2016cosp...41E..97A|Asaoka, Yoichi|CALET Data Processing and On-Orbit Detector Calibration|0
+2016cosp...41E1927T|Torii, Shoji|Preliminary status of the CALET observations|0
+2015APS..APR.X5004O|Olinto, Angela V.|Unveiling the Origin of Cosmic Rays|0
+2015APS..APRS14001R|Rauch, Brian;Calet Collaboration|Final Preparation of the CALorimetric Electron Telescope (CALET) for Launch to the International Space Station|0
+2015APS..APRS14002W|Worley, Aaron J.;Ormes, Jonathan F.;Calet Collaboration|Proton - Electron discrimination capabilities with CALET|0
+2015APS..APRS14003J|Javaid, Amir;Calet Collaboration|On-orbit instrument calibration of CALET|0
+2015ICRC...34..581T|Torii, S.;Calet Collaboration|The CALorimetric Electron Telescope (CALET): a High-Energy Astroparticle Physics Observatory on the International Space Stati|3
+2015ICRC...34..589T|Tamura, T.;Calet Collaboration|Heavy ion beam test at CERN-SPS with the CALET Structure Thermal Model|0
+2015ICRC...34..592B|Bigongiari, G.|CALET perspectives for calorimetric measurements of high energy electrons based on beam test results|0
+2015ICRC...34..595B|Brogi, P.;Marrocchesi, P. S.;Maestro, P.;Mori, N.|CALET measurements with cosmic nuclei: expected performances of tracking and charge identification|0
+2015ICRC...34..603A|Asaoka, Y.;Calet Collaboration|Development of the Waseda CALET Operations Center (WCOC) for Scientific Operations of CALET|1
+2015ICRC...34..613A|Akaike, Y.;Calet Collaboration|Simulations for CALET Energy Calibration Confirmed Using CERN-SPS Beam Tests|0
+2015ICRC...34..627R|Rauch, B. F.;Calet Collaboration|Predicted CALET Measurements of Heavy and Ultra-Heavy Cosmic Ray Nuclei|0
+2015ICRC...34..995C|Cannady, N. W.;Cherry, M. L.|Gamma-Ray Observations with CALET: Exposure Map, Response Functions, and Simulated Results|0
+2015ICRC...34.1194M|Motz, H.;Calet Collaboration|CALET's Sensitivity to Dark Matter and Astrophysical Sources|0
+2015ICRC...34.1196P|Palma, F.;Calet Collaboration|Simulation studies of the expected proton rejection capabilities of CALET|1
+2015SPIE.9639E..0ES|Sakai, Michito;Katayama, Haruyoshi;Kato, Eri;Nakajima, Yasuhiro;Kimura, Toshiyoshi;Nakau, Koji|On-orbit performance of the Compact Infrared Camera (CIRC) onboard ALOS-2|0
+2015apra.prop...52M|Moskalenko, Igor|Modeling of Cosmic-Ray Propagation and Galactic Diffuse Gamma-Ray Emission in Support of Current and Future NASA Missions, Phase 3|0
+2015arXiv151208059M|Marrocchesi, Pier Simone|CALET: a high energy astroparticle physics experiment on the ISS|3
+2015mgm..conf..769A|Amati, Lorenzo;Della Valle, Massimo|Measuring Cosmological Parameters with Gamma-Ray Bursts|0
+2014APS..APR.E9007C|Cherry, Michael L.|CALET - The CALorimetric Electron Telescope for the International Space Station|0
+2014APS..APR.E9008R|Rauch, Brian|Predicted Effect of Geomagnetic Field on CALET Measurements|0
+2014apra.prop...14B|Binns, Walter|CALET: Flight Operations and Data Analysis|0
+2014apra.prop...32O|Ormes, Jonathan|CALET: Flight Operations and Data Analysis|0
+2014apra.prop...75W|Wefel, John|CALET: Flight Operations and Data Analysis|0
+2014cosp...40E..39A|Akaike, Yosui|Performance of particle identification with the CALET calorimeter expected by CERN-SPS beam tests|0
+2014cosp...40E.370B|Bonechi, Simone|CALET measurements of cosmic nuclei on the ISS and performance of charge identifiers.|0
+2014cosp...40E1344J|Jones, William Vernon|The ISS Opens New Era of Space-Based Cosmic Ray Research|0
+2014cosp...40E2278N|Niita, Tae|CALET Calibration on ISS Orbit Using Cosmic Rays|0
+2014cosp...40E3284T|Tamura, Tadahisa|Beam tests of CALET with BBM electronics and STM at CERN-SPS|0
+2014cosp...40E3374T|Torii, Shoji|The Calorimetric Electron Telescope (CALET) for High Energy Astroparticle Physics on the International Space Station|0
+2014efxu.conf..325K|Kawakubo, Yuta;Sakamoto, Takanori;Yoshida, Atsumasa;Serino, Motoko;Nakahira, Satoshi;Yamaoka, Kazutaka;Inoue, Ryota;Terazawa, Shunsuke;Senuma, Kazumasa;Fujioka, Rie;Calet Collaboration|Feasibility study of GRBs simultaneously observed by MAXI/GSC and CALET Gamma-ray Burst Monitor|0
+2013AIPC.1516..269C|Cherry, Michael L.|Next steps in measurements of cosmic ray electrons|0
+2013AIPC.1516..293R|Rauch, B. F.;CALET Collaboration|Using the earth's geomagnetic field to measure ultra-heavy cosmic ray abundances and electron and positron fluxes with CALET|1
+2013APS..APRD14002K|Krizmanic, John|The CALorimetric Electron Telescope (CALET): a High-Energy Astroparticle Physics Observatory on the International Space Station|0
+2013APS..APRL14006J|Javaid, Amir|Characterization of CALET prototype TASC lead tungstate calorimeter using CERN beam test data|0
+2013APS..APRL14007R|Rauch, Brian|Predicted CALET Measurements of Ultra-Heavy Cosmic Ray Abundances|0
+2013IAUS..291..419K|Kisaka, Shota;Kawanaka, Norita|TeV cosmic-ray electrons from millisecond pulsars|0
+2013ICRC...33..550M|Marrocchesi, P. S.;Calet Collaboration|CALET measurements with cosmic nuclei and performance of the charge de- tectors|0
+2013ICRC...33..554R|Rauch, B. F.|CALET Measurement of Ultra-Heavy Cosmic Rays|0
+2013ICRC...33..631T|Torii, Shoji|The Calorimetric Electron Telescope (CALET) for High Energy Astroparticle Physics on the International Space Station|0
+2013ICRC...33..643T|Tamura, Tadahisa;Calet Collaboration|Particle Beam Tests of the Calorimetric Electron Telescope, presented by Tadahisa TAMURA|0
+2013ICRC...33.1028T|Torii, Shoji|HESS J1640-465An Exceptionally Luminous TeV Gamma-ray SNR|0
+2013ICRC...33.1185M|Mori, Masaki|Expected Performance of CALET as a High Energy Gamma Ray Observatory|0
+2013ICRC...33.1888G|Guzik, T. Gregory|The CALorimeter Electron Telescope (CALET) Ground Data Handling and Processing System|0
+2013ICRC...33.1985N|Niita, Tae;Calet Collaboration|CALET Calibration on ISS Orbit Using Cosmic Rays|0
+2013ICRC...33.2113R|Rauch, B. F.|CALET Positron/Electron Measurements Using the Geomagnetic Field|0
+2013ICRC...33.2162A|Akaike, Yosui|CALET Observational Performance Expected by CERN Beam Test|0
+2013ICRC...33.2197U|Ueyama, Yoshitaka;Torii, Shoji;Kasahara, Katsuaki;Ozawa, Shunsuke;Niita, Tae;Nakamura, Masanori;Kaneko, Shogo;Katahira, Ryo;Murata, Akira;Tamura, Tadahisa;Katayose, Yusaku;Akaike, Yosui;Shimizu, Yuki|The CALET Structure and Thermal Model used for beam test at CERN|0
+2013ICRC...33.2217Y|Yoshida, Kenji|Dark Matter Search with CALET|0
+2013ICRC...33.2948Y|Yamaoka, Kazutaka;Yoshida, Atsumasa;Sakamoto, Takanori;Takahashi, Ichiro;Hara, Takumi;Yamamoto, Tatsuma;Kawakubo, Yuta;Inoue, Ryota;Terazawa, Shunsuke;Fujioka, Rie;Senuma, Kazumasa;Nakahira, Satoshi;Tomida, Hiroshi;Ueno, Shiro;Tori, Shoji;Cherry, Michael L.;Ricciarini, Sergio;Calet Collaboration|CALET Gamma-ray Burst Monitor (CGBM)|6
+2013ICRC...33.2992M|Moiseev, A. A.;Calet Collaboration|CALET Perspectives in High-Energy Gamma-Ray Observations|0
+2013JPhCS.409a2026M|Maestro, Paolo|High-energy astroparticle physics with CALET|2
+2013apra.prop..102M|Mewaldt, Richard|Super-TIGER2: A Very-Large-Area, High-Resolution, Trans-Iron Cosmic Ray Investigation - Caltech Co-I|0
+2013apra.prop..154B|Binns, Walter|SuperTIGER-2: A Very-Large-Area, High-Resolution Trans-Iron Cosmic Ray Investigation|0
+2012AIPC.1505..817M|Mori, Masaki;CALET Collaboration|CALET: High energy cosmic ray observatory on International Space Station|1
+2012APS..APR.L7005W|Wefel, John P.|The International Space Station CALorimetric Electron Telescope (CALET) Experiment|0
+2012APS..APR.L7006R|Rauch, Brian|Predicted CALET Measurements of Ultra-Heavy Cosmic Ray Abundances and Electron and Positron Fluxes Using the Geomagnetic Field|0
+2012apra.prop..161B|Binns, Walter|Super-TIGER-2: A Very-Large-Area, High-Resolution Trans-Iron Cosmic Ray Investigation|0
+2012apsp.conf...60G|Guzik, T. Gregory|The Calorimetric Electron Telescope (calet) for High-Energy Astroparticle Physics on the International Space Station|0
+2012cosp...39.1371N|Niita, Tae;Fuke, Hideyuki;Yoshida, Kenji;Katayose, Yusaku;Torii, Shoji;Akaike, Yosui;Kasahara, Katsuaki;Tamura, Tadahisa;Ueyama, Yoshitaka;Ozawa, Shunsuke;Shimizu, Yuki;Kyutan, Marie;Murakami, Hiroyuki;Ito, Daijiro;Karube, Mikihiko;Kondo, Keinosuke|Cosmic-ray Electrons and Atmospheric Gamma-rays in 1-30 GeV observed with Balloon-borne CALET prototype detector|0
+2012cosp...39.2221Y|Yoshida, Kenji|The CALET mission for high energy astroparticle physics on the International Space Station|0
+2011ICRC....6...21N|Niita, Tae|Measurements of Cosmic-ray Electron and Gamma-ray Flux with Balloon-borne CALET Prototype|0
+2011ICRC....6..351T|Torii, Shoji|Overview of the CALET Mission to the ISS|0
+2011ICRC....6..355R|Rauch, Brian|Capability of the CALET Experiment for Measuring Elemental Abundances of Galactic Cosmic Ray Nuclei Heavier than Nickel (Z=28)|0
+2011ICRC....6..367Y|Yoshida, Kenji|The science objectives for CALET|1
+2011ICRC....6..371A|Akaike, Yosui|Expected CALET Telescope Performance from Monte Carlo Simulations|1
+2011ICRC....6..375I|ITO, Daijiro|High-dynamic range readout system using dual APD/PD for the CALET-TASC|0
+2011ICRC....6..383K|Karube, Mikihiko|Performance of the CALET Prototype: CERN Beam Test|0
+2011ICRC....6..387U|Ueyama, Yoshitaka|The Event Trigger System for CALET|0
+2011ICRC....6..391S|Shimizu, Yuki|The CALET CHD for determination of nuclear charge|1
+2011ICRC....9..111Y|Yamaoka|The CALET Gamma-ray Burst Monitor (CGBM)|0
+2011apra.prop...77M|Moskalenko, Igor|Modeling of Cosmic-Ray Propagation and Galactic Diffuse Gamma-Ray Emission in Support of Current and Future NASA Missions, Phase 2|0
+2010AIPC.1279..352K|Kashiyama, Kazumi;Ioka, Kunihito|White Dwarf Model for PAMELA Positron Excess|2
+2010HEAD...11.2608T|Torii, Shoji|The Future Prospects for Electron Measurements, the Frontier above 1 TeV|0
+2010HEAD...11.3605A|Akaike, Yosui;Torii, S.;Kasahara, K.;Yoshida, K.;Tamura, T.;CALET Collaboration|Simulation Studies of the CALET Performance|0
+2010cosp...38.2658T|Torii, S.;Kasahara, K.;Ozawa, S.;Murakami, H.;Akaike, Y.;Suzuki, T.;Aiba, M.;Nakai, M.;Ueyama, Y.;Hasebe, N.;Kataoka, J.;Takayanagi, M.;Tomida, H.;Ueno, S.;Nishimura, J.;Saito, Y.;Fuke, H.;Ebisawa, K.;Hareyama, M.;Tamura, T.;Tateyama, N.;Hibino, K.;Okuno, S.;Yuda, T.;Yoshida, A.;Yamaoka, K.;Kotani, T.;Yoshida, K.;Kubota, A.;Kamioka, E.;Terasawa, T.;Shimizu, Y.;Takita, M.;Katayose, Y.;Shibata, M.;Kuramata, S.;Ichimura, M.;Uchihori, Y.;Kitamura, H.;Ioka, K.;Kawanaka, N.;Tsunesada, Y.;Komori, Y.;Mizutani, K.;Munakata, K.;Shiomi, A.;Mori, M.;Mitchell, J. W.;Ericson, A. J.;Hams, T.;Moissev, A. A.;Krizmanic, J. F.;Sasaki, M.;Cherry, M. L.;Guzik, T. G.;Wefel, J. P.;Binns, W. R.;Israel, M. H.;Krawzczynski, H. S.;Ormes, J. F.;Marrocchesi, P. S.;Cardarone, A.;Cessi, R.;Bagliesi, M. G.;Batkov, K.;Bigongiari, G.;Kim, M. Y.;Maestro, P.;Millucci, V.;Zei, R.;Avanzini, C.;Lotadze, T.;Messineo, A.;Morsani, F.;Adriani, O.;Papini, P.;Bonechi, L.;Vannuccini, L. E.;Chang, J.;Gan, W.;Lu, T.;Ma, Y.;Wang, H.;Chen, G.|CALET mission for Japanese Expereiment Module on ISS|0
+2010cosp...38.2700Y|Yoshida, Kenji;Torii, Shoji;Kasahara, Katsuaki;Akaike, Yosui;Tamura, Tadahisa;Mori, Masaki;Ioka, Kunihito;Kawanaka, Norita|CALET investigation of the origin of cosmic-ray electrons and search for dark matter|0
+2010fym..confP..66M|Mizushima, Tsubasa;Hara, Takumi;Yoshida, Atsumasa;Yamaoka, Kazutaka;Torii, Shoji;Tomida, Hiroshi;Calet Team|Gamma-Ray Burst Monitor for the CALET Mission (CGBM) onboard ISS 1: Scientific goal and expected background|0
+2010fym..confP..67S|Sakauchi, Yoko;Tsunasima, Kosuke;Yamamoto, Tatsuma;Yoshida, Atsumasa;Yamaoka, Kazutaka;Torii, Shoji;Tomida, Hiroshi;Calet Team|Gamma-Ray Burst Monitor for the CALET Mission (CGBM) onboard ISS 2: Current Development Status|0
+2009AIPC.1133...88Y|Yamaoka, Kazutaka;Yoshida, Atsumasa;Kotani, Taro;Nakahira, Satoshi;Suzuki, Kei;Ohyama, Takuya;Doshida, Takaaki;Kojima, Tohru;Shiraki, Takayuki;Kataoka, Tomoki;Nakagawa, Yujin E.;Tomida, Hiroshi;Torii, Shoji|Development of the GRB Monitor for the CALET Experiment|0
+2009aaxo.conf..374Y|Yoshida, K.;Torii, S.;CALET Collaboration|The CALET Project for All-Sky Gamma-Ray and Electron Observations on JEM-EF of ISS|0
+2008AIPC.1000..616N|Nakahira, S.;Yamaoka, K.;Yoshida, A.;Doshida, T.;Suzuki, K.;Sugita, S.;Oyama, T.;Nakagawa, Y. E.;Tomida, H.;Torii, S.|Design and development of Gamma-ray Burst Monitor for the CALET Mission|0
+2008ICRC....1..441K|Komori, Y.;Torii, S.;Shimizu, Y.;Tamura, T.;Yoshida, K.;Terasawa, T.;Munakata, K.|CALET measurements of cosmic ray electrons in the heliosphere|0
+2008ICRC....2..301M|Marrocchesi, P. S.;Avanzini, C.;Bagliesi, M. G.;Basti, A.;Batkov, K.;Bigongiari, G.;Caldarone, A.;Cecchi, R.;Kim, M. Y.;Lomtatze, T.;Maestro, P.;Millucci, V.;Morsani, F.;Zei, R.|Conceptual design of a charge identifier array for cosmic ray composition measurements in CALET|0
+2008ICRC....2..393T|Torii, S.;Shimizu, Y.;Kasahara, K.;Hasebe, N.;Hareyama, M.;Kodaira, S.;Okudaira, O.;Yamashita, N.;Miyazima, M.;Miyaji, T.;Tkayangai, M.;Ueno, S.;Tomida, H.;Saito, Y.;Fuke, H.;Yamagami, T.;Nishimura, J.;Tamura, T.;Tateyama, N.;Hibino, K.;Okuno, S.;Shiomi, A.;Takita, M.;Yuda, T.;Kakimoto, F.;Tsunesada, Y.;Terasawa, T.;Kobayashi, T.;Yoshida, A.;Yamaoka, K.;Katayose, Y.;Shibata, M.;Ichimura, M.;Kuramata, S.;Uchihori, Y.;Kitamura, A.;Yoshida, K.;Murakami, H.;Komori, Y.;Mizutani, K.;Munakata, K.;Streitmatter, R. E.;Mitchell, J. W.;Barbier, L. M.;Moiseev, A. A.;Krizmanic, J. F.;Ormes, J. F.;Wefel, J. P.;Case, G.;Cherry, M. L.;Guzik, T. G.;Isbert, J. B.;Binns, W. R.;Israel, M. H.;Krawczynski, H. S.;Marrocchesi, P. S.;Bigongiari, G.;Batkov, K.;Kim, M. Y.;Bagliesi, M. G.;Masestro, P.;Millucci, V.;Zei, R.;Adriani, O.;Papini, P.;Vannuccini, E.;Bonechi, L.;Chang, J.;Yan, J.;Gan, W.|The CALET Mission on International Space Station|0
+2008ICRC....2..437K|Katayose, Y.;Shibata, M.;Torii, S.;Shimizu, Y.;Tamura, T.;Hibino, K.;Okuno, S.;Yoshida, K.;Kitamura, H.;Uchihori, Y.;Murakami, H.|Development of a High Dynamic Range Read-out System Using Multi-photodiode for the Total Absorption Calorimeter of CALET|0
+2008ICRC....2..441T|Tamura, Tadahisa;Torii, Shoji;Shimizu, Yuki;Hibino, Kin'ya;Okuno, Shoji;Yoshida, Kenji;Kitamura, Hisashi;Uchihori, Yukio;Murakami, Hiroyuki|Development of Data Acquisition System for CALET on the ISS|0
+2008ICRC....3.1433K|Kasahara, K.;Torii, S.;Shimizu, Y.;Akaike, Y.;Yoshida, K.;Watanabe, I.|Expected Performance of CALET|0
+2008ICRC....3.1465Y|Yamaoka, K.;Yoshida, A.;Nakagawa, Y. E.;Sugita, S.;Nakahira, S.;Tomida, H.;Torii, S.|Gamma-ray Burst Monitor for the CALET Mission|0
+2008ICRC....4..817Y|Yoshida, K.;Kubota, A.;Torii, S.;Kasahara, K.;Shimizu, Y.;Tamura, T.;Chang, J.|Prospects of gamma-ray observations and dark matter search with CALET|0
+2008JPhCS.120f2020T|Torii, S.;CALET Collaboration|The CALET mission for detection of cosmic ray sources and dark matter|13
+2008SPIE.7021E..14T|Torii, S.;Hareyama, M.;Hasebe, N.;Kasahara, K.;Kobayashi, S.;Kodaira, S.;Murakami, H.;Ozawa, S.;Udo, S.;Yamashita, N.;Ebisawa, K.;Fuke, H.;Nishimura, J.;Saito, Y.;Takayanagi, M.;Tomida, H.;Ueno, S.;Yamagami, T.;Hibino, K.;Okuno, S.;Tamura, T.;Tateyama, N.;Kobayashi, T.;Kotani, T.;Yamaoka, K.;Yoshida, A.;Shimizu, Y.;Takita, M.;Yuda, T.;Katayose, Y.;Shibata, M.;Kamioka, E.;Kubota, A.;Yoshida, K.;Ichimura, M.;Kuramata, S.;Tunesada, Y.;Terasawa, T.;Kitamura, H.;Uchihori, Y.;Komori, Y.;Mizutani, K.;Munakata, K.;Shiomi, A.;Mitchell, J. W.;Ericsson, A. J.;Hams, T.;Krizmanic, J. F.;Moissev, A. A.;Sasaki, M.;Ormes, J. F.;Cherry, M. L.;Guzik, T. G.;Wefel, J. P.;Binns, W. R.;Israel, M. H.;Krawczynski, H.;Marrocchesi, P. S.;Gagliesi, M. G.;Bigongiari, G.;Caldarone, A.;Kim, M. Y.;Cecchi, R.;Maestro, P.;Millucci, V.;Zei, R.;Avanzini, C.;Lotadze, T.;Messineo, A.;Morsani, F.;Adirani, O.;Bonechi, L.;Papini, P.;Vannuccini, E.;Chan, J.;Gan, W.;Lu, T.;Ma, Y.;Wang, H.;Chen, G.|The CALET mission on the ISS|0
+2008apsp.conf..911W|Wefel, J. P.;Torii, S.;Shimizu, Y.;Kasahara, K.;Hasebe, N.;Hareyama, M.;Kodaira, S.;Okudaira, O.;Yamashita, N.;Miyazima, M.;Miyaji, T.;Tkayanagi, M.;Ueno, S.;Tomida, H.;Saito, Y.;Fuke, H.;Yamagami, T.;Nishimura, J.;Tamura, T.;Tateyama, N.;Hibino, K.;Okuno, S.;Shiomi, A.;Takita, M.;Yuda, T.;Kakimoto, F.;Tsunesada, Y.;Terasawa, T.;Kobayashi, T.;Yoshida, A.;Yamaoka, K.;Katayose, Y.;Shibata, M.;Ichimura, M.;Kuramata, S.;Uchihori, Y.;Kitamura, A.;Yoshida, K.;Murakami, H.;Komori, Y.;Mizutani, K.;Munakata, K.;Streitmatter, R. E.;Mitchell, J. W.;Barbier, L. M.;Moiseev, A. A.;Krizmanic, J. F.;Ormes, J. F.;Case, G.;Cherry, M. L.;Guzik, T. G.;Isbert, J. B.;Binns, W. R.;Israel, M. H.;Krawczynski, H. S.;Marrocchesi, P. S.;Bigongiari, G.;Batkov, K.;Kim, M. Y.;Bagliesi, M. G.;Masestro, P.;Millucci, V.;Zei, R.;Adriani, O.;Papini, P.;Vannuccini, E.;Bonechi, L.;Chang, J.;Yan, J.;Gan, W.;Chen, G.;Ma, Y.;Wang, H.|The Calet Space Observatory for Jem-Ef on the International Space Station|0
+2008cosp...37...43A|Akaike, Yosui;Kasahara, Katsuaki;Torii, Shoji;Shimizu, Yuki;Taira, Koichi;Yoshida, Kenji|Simulated Performance of the CALorimetric Electron Telescope (CALET) experiment|0
+2008cosp...37.3201T|Torii, Shoji|The CALorimetric Electron Telescope, CALET, Mission|0
+2008cosp...37.3557Y|Yoshida, Atsumasa;Yamaoka, Kazutaka;Nakagawa, Yujin;Nakahira, Satoshi;Sugita, Satoshi;Tomida, Hiroshi;Torii, Shoji|Development of wide-band GRB detectors and the GRB monitor for the CALET Experiment|0
+2007NuPhS.166...43T|CALET Collaboration|The CALET experiment on ISS|10
+2007ebhe.conf..211T|Torii, S.;Calet Collaboration|The CALET Project for Investigating High Energy Universe|0
+2006cosp...36.2176T|Torii, S.;Calet Team|The CALET Project for International Space Station|0
+2006cosp...36.2204T|Torii, S.|Dark Matter Search with the CALET Detector on-board ISS|0
+2005ICRC....2..453K|Komori, Y.;Torri, S.;Tamura, T.;Yoshida, K.;Nishimura, J.;Terasawa, T.;Fuke, H.;Hibino, K.;Ichimura, M.;Kasahara, K.;Kashiwagi, K.;Katayose, Y.;Kitamura, H.;Kobayashi, T.;Kuramata, S.;Makino, F.;Mizutani, K.;Murakami, H.;Okuno, S.;Saito, Y.;Shibata, M.;Takayanagi, M.;Tateyama, N.;Tomida, H.;Uchihori, Y.;Ueno, S.;Yamagami, T.;Yuda, T.|CALET Observations of Galactic Electrons in the Heliosphere|0
+2005ICRC....3..273C|Chang, J.;Torii, S.;Kasahara, K.;Tamura, T.;Yoshida, K.|Simulation Study on High Energy Electron and Gamma-ray Detection with CALET|0
+2005ICRC....3..321I|Ichimura, M.;Kuramata, S.;Torii, S.;Tamura, T.;Yoshida, K.;Kasahara, K.;Chang, J.;Fuke, H.;Hibino, K.;Kashiwagi, T.;Katayose, Y.;Kitamura, H.;Kobayshi, T.;Komori, Y.;Makino, F.;Mizutani, K.;Murakami, H.;Nishimura, J.;Okuno, S.;Saito, Y.;Shibata, M.;Takayanagi, M.;Tateyama, N.;Terasawa, T.;Tomida, S.;Uchihori, Y.;Ueno, S.;Yamagami, T.;Yuda, T.|CALET Observation of Nuclear Components in Primary Cosmic Rays|0
+2005ICRC....3..325K|Katayose, Y.;Torii, S.;Tamura, T.;Yoshida, K.;Murakami, H.;Fuke, H.;Hibino, K.;Ichimura, M.;Kasahara, K.;Kashiwagi, K.;Kitamura, H.;Komori, Y.;Kuramata, S.;Kobayashi, T.;Makino, F.;Mizutani, K.;Nishimura, J.;Okuno, S.;Saito, Y.;Shibata, M.;Takayanagi, M.;Tateyama, N.;Terasawa, T.;Tomida, H.;Uchihori, Y.;Ueno, S.;Yamagami, T.;Yuda, T.|Performance of the CALET Calorimeter by Accelerator Beam Test|0
+2005ICRC....3..329T|Torii, S.;Tamura, T.;Tateyama, N.;Hibino, K.;Yuda, T.;Yoshida, K.;Kashiwagi, K.;Okuno, S.;Nishimura, J.;Yamagami, T.;Saito, Y.;Fuke, H.;Takayanagi, M.;Tomida, H.;Ueno, S.;Makino, F.;Shibata, M.;Katayose, Y.;Kuramata, S.;Ichimura, M.;Uchihori, Y.;Kitamura, H.;Kasahara, K.;Murakami, H.;Kobayashi, T.;Komori, Y.;Mizutani, K.;Terasawa, T.;Streitmatter, R. E.;Mitchell, J. W.;Barbier, L. M.;Moiseev, A. A.;Krizmanic, J. F.;Ormes, J. F.;Binns, W. R.;Israel, M. H.;Krawzczynski, H. S.;Case, G.;Cherry, M. L.;Guzik, T. G.;Isbert, J. B.;Wefel, J. P.;Marrocchesi, P. S.;Maestro, P.;Bagliesi, M. G.;Millucci, V.;Meucci, M.;Bigongiari, G.;Zei, R.;Ligabue, F.;Morsani, F.;Adriani, O.;Papini, P.;Spillantini, P.;Bonechi, L.;Vannuccini, E.;Chang, J.;Gan, W.;Lu, T.|The CALET Mission on International Space Station|0
+2005ICRC....3..333T|Torii, S.;Tamura, T.;Yoshida, K.;Tateyama, N.;Hibino, K.;Yuda, T.;Kashiwagi, K.;Okuno, S.;Nishimura, J.;Yamagami, T.;Takayanagi, M.;Saito, Y.;Fuke, H.;Tomida, H.;Ueno, S.;Makino, F.;Shibata, M.;Katayose, Y.;Kuramata, S.;Ichimura, M.;Uchihori, Y.;Kitamura, H.;Murakami, H.;Kasahara, K.;Kobayashi, T.;Komori, Y.;Mizutani, K.;Terasawa, T.;Chang, J.|The CALET Instrument for Experiment on the ISS|0
+2005ICRC....3..337Y|Yoshida, K.;Yoshida, K.;Torii, S.;Tamura, T.;Kasahara, K.;Chang, J.;Fuke, H.;Hibino K.;Ichimura, M.;Kashiwagi, T.;Katayose, Y.;Kitamura, H.;Kobayashi, T.;Komori, Y.;Kuramata, S.;Makino, F.;Mizutani, K.;Murakami, H.;Nishimura, J.;Okuno, S.;Saito, Y.;Ueno, S.;Yamagami, T.;Yuda, T.|Observation of High-Energy Electron, Gamma Ray, and Dark Matter with CALET|0
+2005idm..conf..557Y|Yoshida, K.;Calet Collaboration|Dark Matter Search by High-Energy Gamma Rays and Electrons with CALET|0
+2004NuPhS.134...23T|Torii, S.;Tamaura, T.;Tateyama, N.;Yoshida, K.;Kashiwagi, T.;Hibino, K.;Anraku, K.;Yamashita, T.;Makino, F.;Chang, J.;Nishimura, J.;Yamagami, T.;Saito, Y.;Takayanagi, M.;Shibata, M.;Katayose, Y.;Inoue, T.;Uchihori, Y.;Kitamura, H.;Kasahara, K.;Murakami, H.;Kobayashi, T.;Komori, Y.;Mizutani, K.;Yuda, T.|The CALET, CALorimetric Electron Telescope, on ISS/JEM|10
+2004cosp...35.2495T|Tamura, T.;Calet Team|Observation of Cosmic Rays with CALET on the International Space Station|0
+2004cosp...35.2621C|Chang, J.|Simulation study on high energy electron and gamma-ray detection with CALET|0
+2003ICRC....4.2177T|Torii, S.;Tamura, T.;Tateyama, N.;Yoshida, K.;Hibino, K.;Kashiwagi, K.;Anraku, K.;Yamashita, T.;Makino, F.;Nishimura, J.;Yamagami, T.;Saito, Y.;Takayanagi, M.;Shibata, M.;Katayose, Y.;Inoue, T.;Uchihori, Y.;Kitamura, H.;Kasahara, K.;Kaiho, H.;Tasaki, Y.;Murakami, H.;Kobayashi, T.;Komori, Y.;Mizutani, K.;Hirai, Y.;Yuda, T.;Gan, W. Q.;Chang, J.|The CALorimetric Electron Telescope, CALET, Mission for the International Space Station|3
+2003ICRC....4.2181T|Takayanagi, M.;Torii, S.;CALET Collaboration|Compatibility of CALorimetric Electron Telescope (CALET) for JEM Exposed Facility on International Space Station|0
+2003ICRC....4.2185C|Chang, J.;Torii, S.;Kasahara, K.;Tamura, T.;Yoshida, K.;CALET Collaboration|Expected Performance of CALET from Simulation|3
+2003ICRC....4.2189T|Tamura, T.;Torii, S.;Hibino, K.;Yoshida, K.;Okuno, S.;Anraku, K.;Yamashita, T.;Uchihori, Y.;Kitamura, H.;Katayose, Y.;Inoue, T.;Kasahara, K.;Hubo, S.;Battiston, R.;Menichelli, M.|Development of a PMT Readout System with Viking Chips for the SciFi Detector of CALET|0
+2003ICRC....4.2193Y|Yamashita, T.;Torii, S.;Tamura, T.;Anraku, K.;CALET Collaboration|Performance of 64-Multi-Anode Photomultiplier and Scintillating Fiber for the CALET Detector|1
+2003ICRC....4.2197K|Katayose, Y.;Anraku, K.;Yoshida, K.;Torii, S.;Tamura, T.;Chang, J.;CALET Collaboration|Development of Total Absorption Calorimeter of CALET|0
+2003ICRC....5.2791Y|Yoshida, K.;Torii, S.;Tamura, T.;Chang, J.;Kasahara, K.;CALET Collaboration|Scientific Performance of the CALET Instrument for the 20MeV-10TeV Gamma-Ray Observation|0
+2002NuPhS.113..103T|Torii, S.;Tamaura, T.;Tateyama, N.;Yoshida, K.;Kashiwagi, T.;Hibino, K.;Anraku, K.;Yamashita, T.;Makino, F.;Nishimura, J.;Yamagami, T.;Saito, Y.;Shibata, M.;Katayose, Y.;Uchihori, Y.;Kitamura, H.;Takayanagi, M.;Kasahara, K.;Murakami, H.;Kobayashi, T.;Komori, Y.;Mizutani, K.;Yuda, T.|The CALET, CALorimetric Electron Telescope, mission for the International Space Station|4
+2001ICRC....6.2227T|Torii, S.;Tamura, T.;Tateyama, N.;Ohuchi, T.;Yoshida, K.;Kashiwagi, T.;Hibino, K.;Nishimura, J.;Yamagami, T.;Saito, Y.;Makino, F.;Takayanagi, M.;Shibata, M.;Katayose, Y.;Murakami, H.;Kobayashi, T.;Komori, Y.;Kasahara, K.;Mizutani, K.;Yuda, T.|The CALET Misson for the International Space Station|0
+2001ICRC....6.2275Y|Yoshida, K.;Torii, S.;Tamura, T.;Hibino, K.;Nishimura, J.;Yamagami, T.;Murakami, H.;Kasahara, K.|Simulation Study of the CALET Instrument at the Japanese Experiment Module on International Space Station|0
+2001ICRC....6.2297T|Tamura, T.;Torii, S.;Yoshida, K.;Hibino, K.;Yamagami, T.;Murakami, H.;Kasahara, K.|Development of Readout System for the CALET Scintillating Fiber Detector|0
+2000AIPC..504..187T|Torii, S.;Tateyama, N.;Tamura, T.;Ouchi, T.;Kashiwagi, K.;Yoshida, K.;Hibino, K.;Yamagami, T.;Saito, Y.;Murakami, H.;Kobayashi, T.;Komori, Y.;Kasahara, K.;Yuda, T.;Ohnishi, M.;Shibata, M.;Makino, F.;Nishimura, J.|The Calorimetric Electron Telescope (CALET) for the JEM Exposure Facility|2

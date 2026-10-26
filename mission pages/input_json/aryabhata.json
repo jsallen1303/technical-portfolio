@@ -1,0 +1,20 @@
+{
+  "title": "The Aryabhata satellite",
+    "name": "Aryabhata",
+    "decade" : 1970,
+  "alttext": "photo of Aryabhata",
+  "imagesize": 242,
+  "imageurl": "/images/misc_missions/aryabhata_small.gif",
+    "descript": "<p><b><font size=\"+2\">T</font>he Aryabhata</b> satellite was India&rsquo;s first, named after an ancient Indian mathematician (5th century AD). It was launched on 19 April 1975 from Kapustin Yar. The 96.3 minute orbit had an apogee of 619 km and a perigee of 563 km, at an inclination of 50.7 degrees. Aryabhata was built by the Indian Space Research Organization (ISRO) to conduct experiments in X-ray astronomy, aeronomics, and solar physics. The spacecraft was a 26-sided polygon 1.4 m in diameter. All faces (except the top and bottom) were covered with solar cells. A power failure halted experiments after 4 days in orbit. All signals from the spacecraft were lost after 5 days of operation. The satellite reentered the Earth&rsquo;s atmosphere on 11 February 1992.",
+  "lifetime": "Apr 1975",
+  "features": [],
+  "instruments": [],
+  "highlights": [],
+  "archive": "",
+  "navigation": [
+    {
+      "url": "biblio/aryabhata_biblio.html",
+      "text": "Publications"
+    }
+  ]
+}

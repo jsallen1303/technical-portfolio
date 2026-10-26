@@ -1,0 +1,66 @@
+{
+  "title": "SVOM",
+    "name": "Space Variable Objects Monitor (SVOM)",
+  "alttext": "Artistic concept of the SVOM satellite",
+  "imagesize": 279,
+  "imageurl": "/Images/misc_missions/svom_sm.jpg",
+    "descript": "<p><b><font size=\"+2\">T</font>he Space Variable Objects Monitor (SVOM)</b> is a small X-ray astronomy mission led by the Chinese National Space Administration (CNSA; China) and National Center for Space Studies (CNES; France). It is planned for a three year duration mission after its launch on June 22, 2024 from the Xichang launch facility in China aboard a Long March 2C rocket. It was placed into a 625 km altitude low earth orbit with a 30&deg; inclination and a 96 minute orbital period.</p>",
+      "decade": 2020,
+  "lifetime": "July 2024&ndash;(three year planned mission + 2 year extension)",
+    "features":
+    [
+	"SVOM will have a number of astrophysics instruments working in concert with each other to localize and characterize gamma-ray bursts and their associated afterglows",
+	"Observations from space will be complemented by a number of ground segments including the Ground Based Wide Angle Camera (GWAC) and Ground Follow-up Telescopes (GFTs)"
+    ],
+    "instruments": [
+	{
+	    "name" : "ECLAIRs telescope",
+	    "energy" : "4&ndash;250 keV",
+	    "fov" : "89&deg; &times; 89&deg;",
+	    "resolution" : "10&prime; (typical)<br>3&prime; for very bright GRBs",
+	    "descript" : "ECLAIRs is a coded mask wide Fields-of-View X-ray/gamma-ray instrument with 6400 CdTe detectors, cooled to -20&deg;C. The detector is equipped with processing to trigger on unknown sources, such as gamma-ray bursts, rapidly slewing to bring the narrower-field MXT and VT instruments on source, as well as sending data and alert notices to the ground-based systems for co-observation."
+	},
+	{
+	    "name" : "Gamma Ray Burst Monitor (GRM)",
+	    "energy" : "15&ndash;5000 keV",
+	    "fov" : "60&deg; circular for each of three detectors",
+	    "resolution" : "&sim;15&deg;",
+	    "descript" : "GRM consists of three separate gamma-ray detectors inclined at 30&deg; from the ECLAIRs pointing direction, giving them collectively a very similar field-of-view to ECLAIRs. Triangulation with the three detectors can narrow down gamma-ray burst location to a 15&deg; &times; 15&deg; area, sufficient for training other instruments on source. Each GRM will use a NaI crystal for detection with plastic scintillation across the detector front to distinguish gamma-rays from low energy electrons."
+	},
+	{
+	    "name" : "Microchannel X-ray Telescope (MXT)",
+	    "energy" : "0.2&ndash;10 keV",
+	    "length" : "1.15 m",
+	    "energy_resolution" : "&sim;75 eV at 1.5 keV",
+	    "fov" : "1.1&deg; &times 1.1&deg;",
+	    "resolution" : "1&prime;",
+	    "descript" : "MXT is a soft X-ray telescope using micro-channel silicon pore focusing optics. The focal plane camera is an X-ray sensitive pnCCD array."
+	},
+	{
+	    "name" : "The Visible Telescope (VT)",
+	    "wavelength" : "450&ndash;650 nm (blue)<br>650&ndash;1000 nm (red/NIR)",
+	    "fov" : "26&prime; &times; 26&prime;",
+	    "resolution" : "&lt;1&Prime;",
+	    "sensitivity" : "V &asymp;22.5 (300 s exposure)",
+	    "descript" : "VT is a a Ritchey-Christian design telescope with a 40 cm primary mirror. The VT focal plane will be equipped with two 2048&times;2048 CCD cameras: one sensitive to blue, the other to red/near infrared: this is anticipated to be sensitive to objects of visual magnitude 22.5 with 300 seconds of observation: the VT thus should be able to see gamma-ray burst optical afterglow out to a redshift of 6.5, corresponding to 12 billion light years. VT is expected to about 60 gamma-ray burst sources a year."
+	}
+    ],
+    "goals": [
+	"SVOM is primarily designed to detect and localize gamma-ray burst sources rapidly with high accuracy"
+    ],
+  "archive": "",
+  "navigation": [
+    {
+      "url": "https://www.svom.eu/en/home/",
+      "text": "SVOM at EU"
+    },
+    {
+      "url": "svom.html",
+      "text": "SVOM at HEASARC"
+    },
+    {
+      "url": "biblio/svom_biblio.html",
+      "text": "Bibliography"
+    }
+  ]
+}

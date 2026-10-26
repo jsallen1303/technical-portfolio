@@ -1,0 +1,37 @@
+{
+  "title": "Lobster Eye 1",
+    "name": "Lobster Eye 1",
+    "decade" : 2020,
+  "alttext": "The Lobster Eye 1 Satellite",
+  "imagesize": 300,
+  "imageurl": "/Images/misc_missions/longxia_yan1.jpg",
+    "descript": "<p><b><fonrt size=\"+2\">T</font>he Lobster Eye 1 Satellite</b> (Longxia Yan 1; it also can be known as Longxia Yan X Shexian 1 (Lobster Eye X-ray Exploration Satellite 1)) was a small satellite developed by the Nanjing University, the University of Hong Kong, China Aerospace Science and Technology Corporation (CASC), and Shanghai ASES Spaceflight Technology Company. It employed microchannel plate optics to make a very wide field-of-view image of the X-ray sky.</p>\n\n<p>Lobster Eye 1 was co-launched with two other satellites (not related to high energy astrophysics) on July 25, 2020 from the Taiyan Launch Center on a Long March 4B rocket. The instrument uses &ldquo;lobster eye&rdquo; optics in which X-rays are focused by a network of square hollow cells tiled onto a spherical surface. The principal science goal is to investigate dark matter within galaxy clusters, search for hypothetical sterile neutrino particles, with secondary goals related to solar wind interactions with the Earth&rsquo;s magnetosphere and solar system comets.</p>\n\n<p>The satellite is quite small, with a mass of just &sim;50 kg and carries the single Lobster-Eye X-ray Detector.</p>",
+    "lifetime": "Jul 2020&ndash;2022 (estimated two year mission)",
+    "features": [
+	"First use of lobster eye optics for X-ray imaging in a satellite"
+    ],
+    "instruments": [
+	{
+	    "name" : "Lobster Eye X-ray Detector",
+	    "energy" : "0.4&ndash;4 keV (estimated)",
+	    "fov" : "&sim;2&ndash;3&deg;",
+	    "descript" : "An early pathfinding instrument to demonstrate the use of micropore optics for wide field-of-view soft X-ray focusing"
+	}
+    ],
+  "highlights": [],
+  "archive": "",
+  "navigation": [
+    {
+      "url": "lobstereye1.html",
+      "text": "Lobster Eye 1"
+    },
+    {
+      "url": "images/lobstereye1_images.html",
+      "text": "Gallery"
+    },
+    {
+      "url": "biblio/lobstereye1_biblio.html",
+      "text": "Bibliography"
+    }
+  ]
+}

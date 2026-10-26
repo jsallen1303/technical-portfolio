@@ -1,0 +1,61 @@
+{
+    "title": "Astronomische Nederlandse Satelliet",
+    "name": "Astronomische Nederlandse Satelliet (ANS)",
+    "alttext": "photo of ANS",
+    "imagesize": 298,
+    "imageurl": "/Images/misc_missions/ans_small.gif",
+    "descript": "<p><b><font size=\"+2\">A</font>stronomische Nederlandse Satelliet (ANS)</b> was launched by a American Scout rocket from the Western Test Range, California, on August 30 1974 into a polar orbit. It was a collaborative effort between the Netherlands (NIVR) and USA (NASA). The University of Groningen and Utrecht (Netherlands) provided the Ultraviolet and the Soft X-ray experiments, while the American Science and Engineering company provided the hard X-ray experiment.</p>",
+    "decade": 1970,
+    "lifetime": "30 Aug 1974&ndash;14 Jun 1977",
+    "features": [
+	"Three axis stabilization, with Z axis always pointed sunward and pointing accuracy of 1&prime; for any location perpendicular to the sun-pointing axis."
+    ],
+    "instruments": [
+	{
+	    "name" : "Ultraviolet Experiment",
+	    "wavelength" : "1500&ndash;3300 &Aring;",
+	    "energy" : "0.16&ndash;0.28 keV",
+	    "fov" : "34&prime;",
+	    "area" : "144 cm<sup>2</sup>",
+	    "descript" : "Parabolic mirror with proportional counter on the focal plane"
+	},
+	{
+	    "name" : "Soft X-ray Experiment (SXX)",
+	    "energy" : "1&ndash;7 kev",
+	    "fov" : "38&prime; &times; 75&prime;",
+	    "area" : "45 cm<sup>2</sup>",
+	    "descript" : "Proportional counter"
+	},
+	{
+	    "name" : "Hard X-ray Experiment (SXX)",
+	    "energy" : "1&ndash;30 kev",
+	    "fov" : "10&prime; &times; 3&deg;",
+	    "area" : "40 cm<sup>2</sup>",
+	    "descript" : "Bragg Crystal Assembly to search for Si lines"
+	}
+    ],
+    "highlights": [
+	"Discovery of X-ray bursts",
+	"Detection of X-rays from stellar coronae (Capella)",
+	"First detection of X-ray flares from UV Ceti and YZ CMi"
+    ],
+    "archive": "The HEASARC hosts the ANS UV point source (ANSUVPSCAT) catalog",
+    "navigation": [
+	{
+	    "url": "/docs/ans/ans.html",
+	    "text": "ANS at HEASARC"
+	},
+	{
+	    "url": "/docs/ans/ans_about.html",
+	    "text": "More about ANS"
+	},
+	{
+	    "url": "/docs/ans/ans_images.html",
+	    "text": "Gallery"
+	},
+	{
+	    "url": "/docs/ans/bib/ans_biblio.html",
+	    "text": "Bibliography"
+	}
+  ]
+}

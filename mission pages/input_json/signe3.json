@@ -1,0 +1,35 @@
+{
+  "title": "The SIGNE 3 Mission",
+    "name": "SIGNE 3",
+    "decade" : 1970,
+    "alttext": "Signe 3 in the clean room",
+    "imagesize": 294,
+    "imageurl": "/Images/misc_missions/signe3.gif",
+    "descript": "<p><b><font=\"+2\">S</font>IGNE 3</b> was a small French-built satellite (also known as Gamma D2B and Sneg-3) which was originally intended to be launched by the French Diamant rocket, but was actually launched by the Soviets when the Diamant program terminated. Gamma-ray burst detectors have been carried by elements of the Franco-Soviet SIGNE program. SIGNE 1 was a package of experiments flown on the Prognoz 2 satellite; SIGNE 2 was aboard the Prognoz 6. Other SIGNE packages were carried aboard Prognoz 7, Prognoz 9, Venera 11, and Venera 12.</p>\n\n<p>SIGNE 3 was launched on 17 June 1977. It weighed just 103 kg. It was put into an orbit with apogee 519 km, perigee 459 km, and inclination 50.66 degrees. The orbital period was 94.4 minutes. The spin stabilized satellite was a cylinder 0.7 m in diameter and 0.8 m high, with 4 attached solar panels. Attitude control was provided by cold gas jets. The satellite reentered the atmosphere on 22 June 1979.</p>",
+    "lifetime": "Jun 1977&ndash;Jun 1979",
+    "features": [
+	"Gamma-ray burst triangulation in combination with other satellites including Helios 2"
+	],
+    "instruments": [
+	{
+	    "name" : "Gamma Ray Telescope",
+	    "energy" : " 20 keV &ndash; 10 MeV",
+	    "descript" : "The gamma-ray spectrometer installed on the French SIGNE-3 satellite had 14 differential channels in the 20 keV to 10 MeV range and 256 channels for amplitude analysis in the 200 keV to 2.5 MeV range."
+	},
+	{
+	    "name" : "Solar UV experiment",
+	    "wavelength" : "180&ndash;195 nm and 205&ndash;220 nm",
+	    "descript" : "The UV experiment observed in two narrow band ultraviolet ranges to monitor the Sun."
+	}
+    ],
+    "highlights": [
+	"Combinations of data from the SIGNE experiments with data from other satellites such as Helios 2 allowed for the localizations of gamma-ray burst events."
+    ],
+  "archive": "",
+  "navigation": [
+    {
+      "url": "biblio/signe3_biblio.html",
+      "text": "Publications"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+2018shin.confE..31M|Meyrand, R;Schekochihin, A;Peierls, R;Dorland, W|Phase-space echos and kinetic density turbulence in the solar wind|0
+2018shin.confE..68M|Mewaldt, R|Solar Gamma Ray and Neutron Science with the EPI-Hi/HET Telescope on PSP|0
+1994AIPC..294..207D|Debrunner, H|Neutron monitor measurements as a complement to space measurements of energetic solar particle fluxes|4
+1980STIN...8026230C|Cline, T;Desai, U;Teegarden, B|The Goddard program of gamma ray transient astronomy|0
+1978oacg.rept.....F|Fairfield, D|On the average configuration of the geomagnetic tail|0
+1975NASSP.361...40D|Desai, U|The Uniqueness of the Energy Spectrum of Cosmic Gamma-Ray Bursts as Observed by IMP-6|0
+1975NYASA.262..159C|Cline, T|Recent observations of cosmic gamma -ray bursts.|8
+1975sast.nasa...34.||X-ray and gamma-ray astronomy|0
+1975sast.nasa...40D|Desai, U|Uniqueness of the energy spectrum of cosmic gamma-ray bursts, as observed by IMP-6.|0
+1974csgr.conf...37C|Cline, T;Desai, U|Progress in gamma-ray burst astronomy.|0
+1974csgr.conf...69E|Evans, W|Future satellite experiments for gamma-burst observations.|1
+1974ocgb.book.....C|Cline, T;Desai, U|Observations of cosmic gamma-ray bursts with IMP-7: evidence for a single spectrum.|0
+1974tcgx.conf...23C|Cline, T;Desai, U|IMP-6 Observations of the Energy Spectra of Cosmic Gamma-Ray Bursts|1
+1974tcgx.conf...45C|Cline, T;Desai, U|IMP-6 Observations of Small-Sized Candidate Cosmic Gamma-Ray Bursts|0

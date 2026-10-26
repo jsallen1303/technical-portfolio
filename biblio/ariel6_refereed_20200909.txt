@@ -1,0 +1,15 @@
+1992ARA&A..30..391B|Bradt, H;Ohashi, T;Pounds, K|X-ray astronomy missions.|24
+1987ApJ...314..739F|Fowler, P;Walker, R;Masheder, M;Moses, R;Worley, A;Gay, A|Ariel 6 Measurements of the Fluxes of Ultra-heavy Cosmic Rays|74
+1986A&A...164...67I|Ilovaisky, S;Chevalier, C;Motch, C;Chiappetti, L|GX 339-4 : EXOSAT observations in the off and soft states.|51
+1986QJRAS..27..435P|Pounds, K|British X-ray astronomy.|1
+1984ApJ...279..144L|Letaw, J;Silberberg, R;Tsao, C|On the abundances of ultraheavy cosmic rays|16
+1983A&A...118L...3R|Ricketts, M|GX 339-4 : X-ray spectra of high and low states.|30
+1983A&A...119..171M|Motch, C;Ricketts, M;Page, C;Ilovaisky, S;Chevalier, C|Simultaneous X-ray/optical observations of GX 339-4 during the May 1981 optically bright state.|112
+1983Ap&SS..89..325H|Herring, J;Campbell, D;Goodall, C;Cruise, A;Mason, I;Osborne, J|Soft X-ray reflectivity measurements of the mirrors flown on the Ariel-6 satellite.|1
+1983Ap&SS..93..217C|Campbell, D;Goodall, C;Cruise, A;Mason, I;Osborne, J|Erratum - Soft X-Ray Reflectivity Measurements of the Mirrors Flown on the ARIEL-6 Satellite|0
+1982MNRAS.201..759R|Ricketts, M;Hall, R;Page, C;Whitford, C;Pounds, K|GX 1+4 : pulse period measurement and detection of phase-variable iron line emission.|21
+1981Natur.294..518M|Meyer, P|Clues for the origin of cosmic rays|1
+1981SSRv...30...47H|Hall, R;Ricketts, M;Page, C;Pounds, K|ARIEL-6 Medium Energy Spectral Observations of Active Galaxies|30
+1981SSRv...30..201C|Cole, R;Cruise, A;Osborne, J;Bedford, D;Carpenter, E;Goodall, C;Pollock, A|ARIEL-6 Observations of the Hot White Dwarf HZ43|2
+1981SSRv...30..369P|Page, C;Bennetts, A;Ricketts, M|ARIEL-6 Observations of CYGNUS-X-1 in the High State|10
+1981SSRv...30..399R|Ricketts, M;Hall, R;Page, C;Pounds, K|Observation of an Outburst from the X-Ray Pulsator 0115+63|29

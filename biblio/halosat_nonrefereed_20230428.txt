@@ -1,0 +1,39 @@
+2022AAS...24035016R|Ringuette, R;Kuntz, K;Koutroumpa, D;Kaaret, P;LaRocca, D;Richardson, J|Separating Magnetospheric and Heliospheric SWCX in X-ray Spectra|0
+2022APS..APRZ03006K|Kaaret, P;HaloSat Team Team|Halosat - A Cubesat That Studied The Hot Galactic Halo|0
+2022HEAD...1910714F|Fuller, C;Kaaret, P|Analysis of the Orion-Eridanus Superbubble's X-ray Emission Using HaloSat|0
+2022HEAD...1910823K|Kaaret, P;HaloSat Team|Halosat — A Cubesat That Studied The Hot Galactic Halo|0
+2022HEAD...1940002B|Bluem, J;Kaaret, P;Kuntz, K;Jahoda, K;Koutroumpa, D;Hodges-Kluck, E;LaRocca, D;Ringuette, R|An X-ray Emission Study of the Milky Way Halo's Clumpy Distribution|0
+2022arXiv220301312L|Lallement, R|North Polar Spur/Loop I: gigantic outskirt of the Northern Fermi bubble or nearby hot gas cavity blown by supernovae?|2
+2022hxga.book...87F|Feng, H;Kaaret, P|The HaloSat and PolarLight CubeSat Missions for X-Ray Astrophysics|1
+2022yCat..19360072B|Bluem, J;Kaaret, P;Kuntz, K;Jahoda, K;Koutroumpa, D;Hodges-Kluck, E;Fuller, C;Larocca, D;Zajczyk, A|VizieR Online Data Catalog: HaloSat survey of the Galactic CGM (Bluem+, 2022)|0
+2021AAS...23714904S|Silich, E;HaloSat Team|A Search for Dark Matter with HaloSat|0
+2021AAS...23811314R|Ringuette, R;Koutroumpa, D;Kuntz, K;Kaaret, P;Jahoda, K;LaRocca, D;Kounkel, M;Richardson, J;Zajczyk, A;Bluem, J|Comparing A Heliospheric SWCX Model's Predictions To HaloSat Observations|0
+2021AAS...23831505F|Fuller, C;HaloSat Team|A HaloSat Analysis of the Eridanus X-ray Enhancement|0
+2021AAS...23833005B|Bluem, J;HaloSat Team|An X-ray Emission Study Of The Milky Way Halo's Clumpy Distribution|0
+2021AAS...23833006K|Kaaret, P;HaloSat Team|Halosat — A Cubesat That Studied The Hot Galactic Halo|0
+2021RNAAS...5..185H|Hewitt, N;Kaaret, P;Fuller, C|HaloSat Observation of the Virgo Intracluster Medium|1
+2021adap.prop...75K|Kaaret, P|Final Archive of the HaloSat data|0
+2021yCat..18840162K|Kaaret, P;Zajczyk, A;Larocca, D;Ringuette, R;Bluem, J;Fuelberth, W;Gulick, H;Jahoda, K;Johnson, T;Kirchner, D;Koutroumpa, D;Kuntz, K;McCurdy, R;Miles, D;Robison, W;Silich, E|VizieR Online Data Catalog: HaloSat targets to study the hot Galactic halo (Kaaret+, 2019)|0
+2020AAS...23525904L|LaRocca, D|Science Results from the HaloSat CubeSat|0
+2020AAS...23527102K|Kaaret, P;HaloSat Team|Observing the Galactic Halo with HaloSat|0
+2020AAS...23611603K|Kaaret, P;HaloSat Team|Observing the Galactic Halo with HaloSat|0
+2020AAS...23614401B|Bluem, J;HaloSat Team|A HaloSat Analysis of the Cygnus Superbubble|0
+2020AAS...23614402R|Ringuette, R;HaloSat Team|HaloSat Observations of Solar Wind Charge Exchange|0
+2020AAS...23614403L|LaRocca, D;HaloSat Team|An X-ray Analysis of the North Polar Spur with HaloSat|0
+2020AAS...23630603L|LaRocca, D|An Analysis of the North Polar Spur with HaloSat|0
+2020yCatp061000404K|Kaaret, P;Koutroumpa, D;Kuntz, K;Jahoda, K;Bluem, J;Gulick, H;Hodges-Kluck, E;Larocca, D;Ringuette, R;Zajczyk, A|VizieR Online Data Catalog: HaloSat survey of southern Galactic halo (Kaaret+, 2020)|0
+2019AAS...23315724F|Fuelberth, W|HaloSat: Observation Scheduling and the Cygnus Superbubble|0
+2019AAS...23315802G|Gulick, H|HaloSat: X-Ray Calibration and Spectral Analysis for a NASA CubeSat|0
+2019AAS...23346206J|Jahoda, K;Bleum, J;Fuelberth, W;Gulick, H;Johnson, T;Kaaret, P;Koutroumpa, D;Kuntz, K;LaRocca, D;Silich, E;Zajczyk, A|HaloSat: Early results on the mass of the Milkyway halo|0
+2019AAS...23430103R|Ringuette, R|HaloSat: The Case of the Missing Baryons|0
+2019HEAD...1720306K|Kaaret, P|First Results from HaloSat|0
+2018NatAs...2..755K|Kaaret, P|Asking a big question with a small satellite|3
+2017AAS...22920605A|Ardila, D;Shkolnik, E;Gorjian, V|CubeSats for Astrophysics: The Current Perspective|0
+2017AAS...22932803K|Kaaret, P|HaloSat - A CubeSat to Study the Hot Galactic Halo|0
+2017HEAD...1610325K|Kaaret, P|HaloSat - A CubeSat to Study the Hot Galactic Halo|0
+2016HEAD...1511622M|Miles, D|HaloSat: A CubeSat to Map the Distribution of Baryonic Matter in the Galactic Halo|0
+2016HEAD...1520006K|Kuntz, K|New Missions and the Future of Solar Wind Charge Exchange Studies|0
+2016HEAD...1520305K|Kaaret, P|HaloSat - A CubeSat to Study the Hot Galactic Halo|0
+2016cosp...41E.910K|Kaaret, P|Soft X-Ray Polarimetry with a CubeSat|0
+2014HEAD...1411621K|Kaaret, P;Jahoda, K;Dingwall, B|HaloSat - A CubeSat to Study the Hot Galactic Halo|0
+2014apra.prop...10K|Kaaret, P|HaloSat- A CubeSat to Study the Hot Galactic Halo|0

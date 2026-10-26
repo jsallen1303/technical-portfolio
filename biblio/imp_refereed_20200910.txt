@@ -1,0 +1,18 @@
+1998JGR...103.9521A|Anagnostopoulos, G;Rigas, A;Sarris, E;Krimigis, S|Characteristics of upstream energetic (E&gt;=50keV) ion events during intense geomagnetic activity|20
+1994JGR....99.2335A|Anagnostopoulos, G;Kaliabetsos, G|Shock drift acceleration of energetic (E&gt;=50 keV) protons and (E&gt;=37 keV/n) alpha particles at the Earth's bow shock as a source of the magnetosheath energetic ion events|22
+1985P&SS...33.1109P|Pavlos, G;Sarris, E;Kalliabetsos, G|Monitoring of energy spectra of particle bursts in the plasma sheet and magnetosheath|16
+1983P&SS...31..689A|Anagnostopoulos, G;Sarris, E|Dominant acceleration processes of ambient energetic protons ( E ⩾ 50 keV) at the Bow Shock: Conditions and limitations|14
+1981Ap&SS..75...93C|Cline, T;Desai, U;Teegarden, B|The Goddard Program of Gamma-Ray Transient Astronomy|6
+1981GeoRL...8..349S|Sarris, E;Krimigis, S;Lui, A;Ackerson, K;Frank, L;Williams, D|Relationship between energetic particles and plasmas in the distant plasma sheet|67
+1981JGR....86.6727K|Kirsch, E;Krimigis, S;Sarris, E;Lepping, R|Detailed study on acceleration and propagation of energetic protons and electrons in the magnetotail during substorm activity|23
+1980P&SS...28..487K|Kirsch, E;Sarris, E;Krimigis, S|Two spacecraft observation of particle bursts at the distant magnetopause and in the magnetotail boundary layer|7
+1979GeoRL...6..531B|Baker, D;Higbie, P;Belian, R;Hones, E|Do Jovian electrons influence the terrestrial outer radiation zone?|60
+1976Ap&SS..42...17C|Cline, T;Desai, U|Advances in Gamma-Ray Burst Astronomy|27
+1976Ap&SS..42...57K|Kasturirangan, K;Rao, U;Sharma, D;Rastogi, R;Chakravarty, S|Ionospheric Effects of Transient Celestial X-Ray and Gamma-Ray Events|7
+1975ApJ...196L..43C|Cline, T;Desai, U|Observations of cosmic gamma-ray bursts with IMP 7: evidence for a single spectrum.|58
+1975GeoRL...2..561K|Krimigis, S;Sarris, E;Armstrong, T|Observations of Jovian electron events in the vicinity of Earth|35
+1975IJRSP...4..203K|Kasturirangan, K;Rao, U;Sharma, D;Rastogi, R;Chakravarty, S|Ionospheric effects of transient celestial X-ray and gamma ray events.|0
+1975SoPh...45..181K|Kaiser, M|The Solar Elongation Distribution of Low-Frequency Radio Bursts|24
+1973ApJ...185L...1C|Cline, T;Desai, U;Klebesadel, R;Strong, I|Energy Spectra of Cosmic Gamma-Ray Bursts|69
+1973ApJ...185L..57W|Wheaton, W;Ulmer, M;Baity, W;Datlowe, D;Elcan, M;Peterson, L;Klebesadel, R;Strong, I;Cline, T;Desai, U|The Direction and Spectral Variability of a Cosmic Gamma-Ray Burst|113
+1973NPhS..245...70S|Stecker, F;Frost, K|Are the Recently Observed Soft γ-Ray Bursts from Stellar Superflares|38

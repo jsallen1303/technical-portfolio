@@ -1,0 +1,582 @@
+2020AAS...23513004B|Bandler, S;Adams, J;Beaumont, S;Chervenak, J;Datesman, A;Devasia, A;Finkbeiner, F;Hummatov, R;Kilbourne, C;Miniussi, A;Sakai, K;Smith, S;Stevenson, T;Wakeham, N;Yoon, W;Eckart, M;Ryu, K|Recent advancements in the technology readiness of the Lynx X-ray Microcalorimeter|0
+2020AAS...23513802S|Su, Y;Jones, C;Arnaud, M;Kraft, R;Nulsen, P;Forman, W;Scott, R;ZuHone, J;Roediger, E;Sheardown, A;Churazov, E|Mapping the hot baryons in the Universe from XMM-Newton to Athena|0
+2020AAS...23533207P|Pasham, D|New Results from X-ray Timing of TDEs|0
+2020AAS...23535003P|Pasham, D;Neutron Star Interior Composition Explorer (Nicer),|Spotting the birth of compact objects using X-ray timing of fast-rising transients|0
+2020AAS...23537307S|Smith, R;Arcus Team|The Arcus Soft X-ray Grating Spectrometer Explorer|0
+2020AAS...23611103P|Pacucci, F;Loeb, A|Separating accretion and mergers in the cosmic growth of black holes with X-ray and gravitational wave observations|0
+2020AAS...23611604S|Smith, R;Arcus Team|High Resolution X-ray Spectroscopy of Diffuse Emission|0
+2020AAS...23620801F|Fukumura, K;Kazanas, D;Shrader, C;Tombesi, F|State Transition of Accretion-Disk Winds in BH XRBs|0
+2020ASPC..522..435C|Ceballos, M;Cobo, B|Athena X-IFU Event Reconstruction: Extreme Learning Machine Approach|0
+2020GCN.27045....1E|Evans, P|LIGO/Virgo trigger S200213t: Possible host galaxies|0
+2020IAUS..342...29G|Guainazzi, M;Tashiro, M|The Hot Universe with XRISM and Athena|0
+2020arXiv200200972T|Trakhtenbrot, B|What do observations tell us about the highest-redshift supermassive black holes?|2
+2020arXiv200300148Z|Zhong, D;Valli, M;Abazajian, K|Entering the Era of Dark Matter Astronomy? Near to Long-Term Forecasts in X-Ray and Gamma-Ray Bands|4
+2020arXiv200405171W|Wijers, N;Schaye, J;Oppenheimer, B|The warm-hot circumgalactic medium around EAGLE-simulation galaxies and its detection prospects with X-ray and UV line absorption|1
+2020arXiv200405603B|Barret, D|Estimating, monitoring and minimizing the travel footprint associated with the development of the Athena X-ray Integral Field Unit -- An on-line travel footprint calculator released to the science community|0
+2020arXiv200610035T|Takahashi, F;Yamada, M;Yin, W|XENON1T anomaly from anomaly-free ALP dark matter and its implications for stellar cooling anomaly|61
+2020arXiv200705548P|Pradhan, P;Falcone, A;Kennea, J;Burrows, D|Exploring rapid transient detection with the Athena Wide Field Imager|0
+2020arXiv200707260L|Lomaeva, M;Grinberg, V;Guainazzi, M;Hell, N;Bianchi, S;Kuhnel, M;Furst, F;Kretschmar, P;Martinez-Chicharro, M;Martinez-Nunez, S;Torrejon, J|High-resolution X-ray spectroscopy of the stellar wind in Vela X-1 during a flare|1
+2020arXiv200710158W|Walsh, S;McBreen, S;Martin-Carrillo, A;Dauser, T;Wijers, N;Wilms, J;Schaye, J;Barret, D|Detection capabilities of the Athena X-IFU for the warm-hot intergalactic medium using gamma-ray burst X-ray afterglows|0
+2020arXiv200715910M|Mernier, F;Cucchetti, E;Tornatore, L;Biffi, V;Pointecouteau, E;Clerc, N;Peille, P;Rasia, E;Barret, D;Borgani, S;Bulbul, E;Dauser, T;Dolag, K;Ettori, S;Gaspari, M;Pajot, F;Roncarelli, M;Wilms, J;Nous, C|Constraining the origin and models of chemical enrichment in galaxy clusters using the Athena X-IFU|0
+2020arXiv200808306T|Thorpe-Morgan, C;Malyshev, D;Santangelo, A;Jochum, J;Jager, B;Sasaki, M;Saeedi, S|THESEUS Insights into ALP, Dark Photon and Sterile Neutrino Dark Matter|0
+2020arXiv200809133M|Marchesi, S;Gilli, R;Lanzuisi, G;Dauser, T;Ettori, S;Vito, F;Cappelluti, N;Comastri, A;Mushotzky, R;Ptak, A;Norman, C|Mock catalogs for the extragalactic X-ray sky: simulating AGN surveys with Athena and with the AXIS probe|0
+2020arXiv200809271Z|Zhang, C;Ramos-Ceja, M;Pacaud, F;Reiprich, T|High-redshift galaxy groups as seen by Athena/WFI|0
+2020sea..confE.220C|Ceballos, M;Camon, A;Fabrega, L;Pobes, C;Strichovanec, P;Bolea, J;Cobo, B;Cardiel, N|Transition Edge Sensors devices 'Made in Spain': from fabrication to photon energy measurements|0
+2020sea..confE.232M|Martinez-Nunez, S;Carrera, F;Ceballos, M;Castillo, S;Barret, D;Rau, A;Bozzo, E|The Athena Community Office|0
+2019A&G....60b.2.8.||RAS enters world of `Blade Runner'; Polar north bears towards Siberia; Gaia maps stars in other galaxies; New tech opens Athena's eye; Ultima Thule in close-up|0
+2019AAS...23315812M|Miller, E;Grant, C;Bautz, M;Keelan, J;Hall, D;Holland, A;Bulbul, E;Kraft, R;Nulsen, P;Burrows, D;Allen, S|Reducing the Athena WFI Background with the Science Products Module: Results from Geant4 Simulations|0
+2019AAS...23321302O|Ogorzalek, A|Probing the physics of AGN feedback with high resolution X-ray spectroscopy|0
+2019AAS...23321303K|Keck, M|Probing the Inner Regions of Supermassive Black Hole Accretion Disks and Jets|0
+2019AAS...23324235B|Brenneman, L|Athena: Studying the Energetic Universe|0
+2019AAS...23325105F|Foster, A;Smith, R;Brickhouse, N|AtomDB in 2019: New models and features for modeling X-ray emission|0
+2019AAS...23336321B|Basu-Zych, A;Hornschemeier, A;Ptak, A;Vulic, N;Haberl, F;Wilms, J;Zezas, A|Normal Galaxy Studies with Next-generation X-ray surveys: eROSITA and Athena WFI|0
+2019AAS...23341801V|Vulic, N;Hornschemeier, A;Wilms, J;Zezas, A;Basu-Zych, A;Maccarone, T;Ptak, A;Yukita, M|Nearby Galaxy Surveys in the 2020's and Beyond: The Post Chandra and XMM-Newton Era|0
+2019AAS...23346202B|Burrows, D|US Contributions to the Athena WFI|0
+2019AAS...23410805M|McCammon, D;Kaaret, P|XQCSAT: A High-Resolution Spectroscopic Study of Hot Gas in the Halo and Interstellar Medium|0
+2019AAS...23420803W|Wolk, S|High Energy Exoplanet Science in the Next Decade and Beyond|0
+2019ASPC..521..663C|Ceballos, M;Cobo, B;Peille, P;Wilms, J;Brand, T;Dauser, T;Bandler, S;Smith, S|SIRENA: Software for Athena X-IFU Event Reconstruction|0
+2019ASPC..523..547C|Ceballos, M;Cobo, B;Peille, P|Jitter and Readout Sampling Frequency Impact on the Athena/X-IFU Performance|0
+2019ESS.....433021W|Wolk, S|The Next decade (or two) of X-ray Exoplanet Studies.|0
+2019HEAD...1710403D|Dole, H|Unveiling galaxy cluster candidates at z&gt;2 with Planck and NASA's Great Observatories; Prospects for JWST, Euclid, WFIRST, Athena and Lynx.|0
+2019HEAD...1710604C|Cappelluti, N|The joint fluctuations of the CIB and CXB: new ideas, new results and future developments|0
+2019HEAD...1710622O|Ogorzalek, A;King, A;Allen, S;Miller, J;Wilkins, D;Raymond, J;Mantz, A|Constraining the power of X-ray winds: a Bayesian approach|0
+2019HEAD...1710643M|Miller, J;Cackett, E;Zoghbi, A;Barret, D;Behar, E;Brenneman, L;Fabian, A;Kaastra, J;Lohfink, A;Mushotzky, R;Nandra, K;Raymond, J|Revealing Intermediate Disk Radii in NGC 4151 with Chandra|0
+2019HEAD...1710650K|Kammoun, E;Miller, J|First results from the NuSTAR Obscured Seyferts Survey|0
+2019HEAD...1710663R|Ranga Reddy Ranga Reddy Pasham, D;Remillard, R;Fragile, C;Franchini, A;Stone, N;Lodato, G;Homan, J;Chakrabarty, D;Baganoff, F;Steiner, J;Coughlin, E;Pasham, N|Constraining spins of supermassive black holes when they tidally disrupt stars|0
+2019HEAD...1710803L|Li, M;Tonnesen, S|Impact of Supernovae-driven Outflows on the Circumgalactic Medium and Its X-ray Properties|0
+2019HEAD...1710823V|Vulic, N;Hornschemeier, A;Wilms, J;Zezas, A;Basu-Zych, A;Maccarone, T;Ptak, A;Yukita, M|Nearby Galaxy Surveys in the 2020’s and Beyond: The Post Chandra and XMM-Newton Era|0
+2019HEAD...1710908L|Laha, S|The physics and astrophysics of X-ray outflows from Athena Observations of Active Galactic Nuclei|0
+2019HEAD...1710909R|Ranga Reddy Ranga Reddy Pasham, D|Athena to probe the cosmic evolution of supermassive black holes with spectral-timing analysis of tidal disruption flares|0
+2019HEAD...1710911B|Bandler, S|Progress in the development of microcalorimeter arrays for the Athena X-IFU|0
+2019HEAD...1710915S|Smith, R|Laboratory Astrophysics Needs for Athena|0
+2019HEAD...1710916B|Brenneman, L;Natalucci, L;Guainazzi, M;Bulbul, E;Grinberg, V;de Bruijne, J;Fiocchi, M|Validating the Athena Calibration Requirements|0
+2019HEAD...1710917B|Bulbul, E;Kraft, R;Nulsen, P;Miller, E;Grant, C;Bautz, M;Freyberg, M;Meidinger, N;Rau, A;Burrows, D;Allen, S|Reducing Particle Background of X-ray Silicon Based Detectors Through Correlation Analysis|0
+2019HEAD...1710918K|Karas, V;Goluchova, K;Torok, G;Hofer, A;Sramkova, E;Bakala, P;Petrik, K|Signatures of orbital motion in strongly curved space-time of accreting black holes via the upcoming X-ray missions|0
+2019HEAD...1710919M|Miller, E;Grant, C;Bautz, M;Keelan, J;Hall, D;Holland, A;Bulbul, E;Kraft, R;Nulsen, P;Burrows, D;Allen, S|Reducing the Athena WFI Background with the Science Products Module: Results from Geant4 Simulations|0
+2019HEAD...1710920B|Brown, G|Laboratory Measurements in Support of High Energy Astrophysics Orbiting Observatories|0
+2019HEAD...1710958M|Madsen, K;Stern, D;Grefenstette, B;Miyasaka, H;Garcia, J|HEX-P: The High-Energy X-ray Probe|0
+2019HEAD...1710965S|Smith, R|Arcus, The Soft X-ray Grating Explorer|0
+2019HEAD...1711116R|Ranga Reddy Ranga Reddy Pasham, D;Remillard, R;Gendreau, K;Arzoumanian, Z;Strohmayer, T;Fabian, A;Wood, K;Bult, P;Altamirano, D;Ho, W;Ransom, S;Ray, P;Guillot, S;Harding, A;Uttley, P;Miller, J;Steiner, J;Kerr, M;Homan, J;Chakrabarty, D;Enoto, T;Cackett, E;Ludlam, R;Wolff, M;Bogdanov, S|Spotting the birth of compact objects using X-ray timing of fast-rising transients|0
+2019HEAD...1711247T|Tzanavaris, P;Yaqoob, T|More Complex Than You Thought: Geometry, Kinematics, and Fe Abundance of Matter Surrounding the Accretion Flow in 14 Galactic X-Ray Binaries with 56 Chandra HETG Spectra|0
+2019HEAD...1720303H|Hell, N;Brown, G;Beiersdorfer, P;Kelley, R;Kilbourne, C;Leutenegger, M;Lockard, T;Porter, F;Sawada, M|Laboratory benchmarks for collisional excitation cross sections of K-shell transitions in Fe group elements|0
+2019HEAD...1730101W|Wilkins, D;Reynolds, C|Venturing beyond the ISCO: Probing the black hole plunging region|0
+2019HEAD...1730302A|Amati, L;O'Brien, P;Gotz, D;Bozzo, E|The Transient High Energy Sky and Early Universe Surveyor (THESEUS)|0
+2019HEAD...1730303N|Nandra, K|Athena: ESA's mission to explore the Hot and Energetic Universe|0
+2019IAUS..339..143H|Haggard, D|Discovery and Opportunity in the X-Ray Time Domain|0
+2019LPI....50.2225O|O'Rourke, J;Castillo-Rogez, J;Elkins-Tanton, L;Fu, R;Harrison, T;Marchi, S;Park, R;Schmidt, B;Williams, D;Seybold, C;Schindhelm, R;Weinberg, J|Athena: The First-Ever Encounter of (2) Pallas with a SmallSat|0
+2019LPICo2135.5045F|Falcone, A;Burrows, D|The Athena Wide Field Imager (WFI) Science Products Module|0
+2019MmSAI..90...87G|Guainazzi, M|Chasing X-ray counterparts of gravitational wave events with Athena|0
+2019MmSAI..90..118A|Amati, L;Bozzo, E;O'Brien, P;Gotz, D|The Transient High-Energy Sky and Early Universe Surveyor (THESEUS)|0
+2019SPIE11118E..0FB|Bonholzer, M;Andritschke, R;Emberger, V;Meidinger, N;Muller-Seidlitz, J;Treberspurg, W|Electrical characterization of prototype DEPFET detectors for Athena's Wide Field Imager|0
+2019SPIE11118E..0WS|Smith, R;Abraham, M;Baird, G;Bautz, M;Bookbinder, J;Bregman, J;Brenneman, L;Brickhouse, N;Burrows, D;Burwitz, V;Bushman, J;Canizares, C;Chakrabarty, D;Cheimets, P;Costantini, E;Dawson, S;DeRoo, C;Falcone, A;Foster, A;Gallo, L;Grant, C;Gunther, H;Heilmann, R;Hine, B;Huenemoerder, D;Jara, S;Kaastra, J;Kreykenbohm, I;Madsen, K;McDonald, M;McEachen, M;McEntaffer, R;Marshall, H;Miller, E;Miller, J;Morse, E;Mushotzky, R;Nandra, K;Nowak, M;Paerels, F;Petre, R;Poppenhaeger, K;Ptak, A;Reid, P;Ronzano, K;Sanders, J;Schattenburg, M;Schonfeld, J;Schulz, N;Smale, A;Temi, P;Valencic, L;Walker, S;Willingale, R;Wilms, J;Wolk, S|Arcus: the soft x-ray grating explorer|1
+2019SPIE11118E..0YM|Meidinger, N;Albrecht, S;Bonholzer, M;Muller-Seidlitz, J;Nandra, K;Ott, S;Plattner, M;Treberspurg, W|Status of the wide field imager instrument for Athena|0
+2019SPIE11118E..0ZB|Burrows, D;Allen, S;Bautz, M;Bulbul, E;Chattopadhyay, T;Erdley, J;Falcone, A;Grant, C;Herrmann, S;Hornschemeier, A;Kelly, D;Kennea, J;Kraft, R;LaMarr, B;Mantz, A;Miller, E;Morris, R;Nulsen, P;Pradhan, P;Vulic, N;Wilkins, D;Zugger, M|US Contributions to the Athena Wide Field Imager|0
+2019SPIE11119E..0DB|Bavdaz, M;Wille, E;Ayre, M;Ferreira, I;Shortt, B;Fransen, S;Collon, M;Vacanti, G;Barriere, N;Landgraf, B;Start, R;van Baren, C;Della Monica Ferreira, D;Massahi, S;Christensen, F;Krumrey, M;Burwitz, V;Pareschi, G;Valsecchi, G;Oliver, P;Seidel, A;Korhonen, T|Optics developments for ATHENA|1
+2019SPIE11119E..0EL|Landgraf, B;Collon, M;Vacanti, G;Barriere, N;Gunther, R;Vervest, M;Voruz, L;Verhoeckx, S;Babic, L;Keek, L;Girou, D;Okma, B;Beijersbergen, M;Bavdaz, M;Wille, E;Fransen, S;Shortt, B;Ferreira, I;Haneveld, J;Koelewijn, A;Start, R;Wijnperle, M;Lankwarden, J;van Baren, C;Hieltjes, P;den Herder, J;Burwitz, V;Pareschi, G;Massahi, S;Della Monica Ferreira, D;Christensen, F;Valsecchi, G;Oliver, P;Chequer, I;Ball, K|Development and manufacturing of SPO X-ray mirrors|1
+2019SPIE11119E..0FM|Massahi, S;Christensen, F;Ferreira, D;Jafari, A;Svendsen, S;Henriksen, P;Shortt, B;Ferreira, I;Bavdaz, M;Collon, M;Landgraf, B;Girou, D;Langer, A;Schonberger, W;Wellner, T;Krumrey, M;Cibik, L|Installation and commissioning of the silicon pore optics coating facility for the ATHENA mission|0
+2019SPIE11119E..0GS|Svendsen, S;Massahi, S;Ferreira, D;Christensen, F;Jafari, A;Henriksen, P;Collon, M;Landgraf, B;Girou, D;Krumrey, M;Cibik, L;Schubert, A;Handick, E;Shortt, B|Performance and time stability of Ir/SiC X-ray mirror coatings for ATHENA|0
+2019SPIE11119E..0HK|Keek, L;Babic, L;Barriere, N;Bavdaz, M;Collon, M;Ferreira, I;Gunther, R;Landgraf, B;Okma, B;Vacanti, G;Vervest, M;Voruz, L;Wille, E|Stacking of mirrors for silicon pore optics|1
+2019SPIE11119E..0IV|Vacanti, G;Barriere, N;Collon, M;Hauser, E;Babic, L;Bayerle, A;Girou, D;Gunther, R;Keek, L;Landgraf, B;Okma, B;Verhoeckx, S;Vervest, M;Voruz, L;Bavdaz, M;Wille, E;Krumrey, M;Muller, P;Handick, E|X-ray testing of silicon pore optics|1
+2019SPIE11119E..0JB|Barriere, N;Vacanti, G;Verhoeckx, S;Hauser, E;Vervest, M;Keek, L;Okma, B;Landgraf, B;Gunther, R;Voruz, L;Girou, D;Babic, L;Collon, M;Beijersbergen, M;Bavdaz, M;Wille, E;Fransen, S;Haneveld, J;Koelewijn, A;Start, R;Wijnperle, M;Lankwarden, J;van Baren, C;Eigenraam, A;Muller, P;Handick, E;Krumrey, M;Valsecchi, G|Assembly of confocal silicon pore optic mirror modules for Athena|1
+2019SPIE11119E..0KG|Girou, D;Landgraf, B;Bayerle, A;Collon, M;Babic, L;Barriere, N;Gunther, R;Hauser, E;Keek, L;Okma, B;Vacanti, G;Verhoeckx, S;Vervest, M;Voruz, L;Beijersbergen, M;Wille, E;Bavdaz, M;Fransen, S;van Baren, C;Eigenraam, A;More, N|Environmental testing of silicon pore optics for Athena|0
+2019SPIE11119E..0LC|Collon, M;Vacanti, G;Barriere, N;Landgraf, B;Gunther, R;Vervest, M;Voruz, L;Verhoeckx, S;Babic, L;Keek, L;Girou, D;Okma, B;Hauser, E;Beijersbergen, M;Bavdaz, M;Wille, E;Fransen, S;Shortt, B;Ferreira, I;Haneveld, J;Koelewijn, A;Start, R;Wijnperle, M;Lankwarden, J;van Baren, C;Hieltjes, P;den Herder, J;Muller, P;Handick, E;Krumrey, M;Bradshaw, M;Burwitz, V;Pareschi, G;Massahi, S;Svendsen, S;Della Monica Ferreira, D;Christensen, F;Valsecchi, G;Oliver, P;Chequer, I;Ball, K|Status of the silicon pore optics technology|1
+2019SPIE11119E..0MV|Valsecchi, G;Bianucci, G;Marioni, F;Vernani, D;Zocchi, F;Korhonen, T;Pasanen, M;Pareschi, G;Ferreira, I;Bavdaz, M;Wille, E|Integration facility for the ATHENA X-Ray Telescope|0
+2019SPIE11119E..0NS|Salmaso, B;Basso, S;Giro, E;Spiga, D;Sironi, G;Vecchi, G;Ghigo, M;Pareschi, G;Tagliaferri, G;Uslenghi, M;Fiorini, M;Paoletti, L;Ferrari, C;Beretta, S;Zappettini, A;Sanchez del Rio, M;Pelliciari, C;Burwitz, V;Ferreira, I;Bavdaz, M|BEaTriX: the Beam Expander Testing X-Ray facility for testing ATHENA's SPO modules: progress in the realization|0
+2019SPIE11119E..0OM|Moretti, A;Pareschi, G;Uslenghi, M;Tordi, M;Bressan, R;Valsecchi, G;Zocchi, F;Attina, P;Amisano, F;Sironi, G;Salmaso, B;Basso, S;Tagliaferri, G;Spiga, D;La Palombara, N;Fiorini, M;Dury, F;Marioni, F;Parissenti, G;Parodi, G;Wille, E;Corradi, P;Bavdaz, M;Ferreira, I|VERT-X: VERTical X-ray raster-scan facility for ATHENA calibration. The concept design.|0
+2019SPIE11119E..0QW|Willingale, R|Stray x-ray flux in the Athena Mirror|1
+2019SPIE11119E..0SP|Pareschi, G;Civitani, M;Sironi, G;Yang, Y;Cotroneo, V;Valsecchi, G;Magagnin, L;Dohring, T;Bradshaw, M;Burwitz, V;Pelliciari, C|Soft x-ray reflectivity-enhancement in astronomical telescopes via overcoatings: alternative materials and deposition methods|0
+2019SPIE11119E..16B|Bradshaw, M;Burwitz, V;Hartner, G;Pelliciari, C;Langmeier, A;Liao, Y;Friedrich, P;Valsecchi, G;Barriere, N;Collon, M;Vacanti, G|Developments in testing x-ray optics at MPE's PANTER facility|1
+2019SPIE11119E..1FH|Henriksen, P;Christensen, F;Massahi, S;Ferreira, D;Svendsen, S;Jafari, A;Shortt, B|LEXR: A low-energy X-ray reflectometer for characterization of ATHENA mirror coatings|0
+2019SPIE11119E..1IB|Basso, S;Salmaso, B|Thermal simulations for characterization of ATHENA mirror modules with a radiating box in the BEaTriX facility|0
+2019SPIE11119E..1JV|Vecchi, G;Salmaso, B;Basso, S;Sironi, G;Ghigo, M;Spiga, D;Giro, E;Pareschi, G;Tagliaferri, G|BEaTriX, the Beam Expander Testing X-ray facility for testing ATHENA's SPO modules: the collimating mirror|0
+2019SPIE11119E..1KJ|Jafari, A;Christensen, F;Massahi, S;Svendsen, S;Vu, L;Henriksen, P;Shortt, B;Krumrey, M;Cibik, L;Handick, E;Ferreira, D|X-ray reflectometry of a platinum coating as reference sample for the ATHENA coating development|0
+2019SPIE11180E..1NV|Valsecchi, G;Marioni, F;Bianucci, G;Zocchi, F;Gallieni, D;Parodi, G;Ottolini, M;Collon, M;Pareschi, G;Spiga, D;Bavdaz, M;Wille, E;Burwitz, V;Hartner, G;Pelliciari, C|ATHENA Telescope: alignment and integration of SPO mirror modules|0
+2019SPIE11180E..23C|Collon, M;Vacanti, G;Barriere, N;Landgraf, B;Gunther, R;Vervest, M;Voruz, L;Verhoex, S;Babic,;, Ljubisa.;van der Hoeven, R;van Straeten, K;Chatbi, A;Girou, D;Beijersbergen, M;Bavdaz, M;Wille, E;Fransen, S;Shortt, B;Ferreira, I;Haneveld, J;Koelewijn, A;Booysen, K;Wijnperle, M;Lankwarden, J;van Baren, C;Eigenraam, A;den Herder, J;Muller, P;Krumrey, M;Burwitz, V;Pareschi, G;Massahi, S;Della Monica Ferreira, D;Christensen, F;Valsecchi, G;Oliver, P;Chequer, I;Ball, K;Zuknik, K;Vernani, D|Silicon pore optics mirror module production and testing|0
+2019SPIE11180E..24B|Burwitz, V;Bavdaz, M;Wille, E;Collon, M;Vacanti, G;Barriere, N;Valsecchi, G;Marioni, F;Vernani, D;Seure, T;Blum, S;Willingale, R;Smith, R;de Roo, C;Hertz, E;Hartner, G;La Caria, M;Pelliciari, C;Langmeier, A;Hartl, S|X-ray testing at PANTER of optics for the ATHENA and Arcus Missions|1
+2019SPIE11180E..25P|Pareschi, G;Moretti, A;Salmaso, B;Sironi, G;Tagliaferri, G;Uslenghi, M;Fiorini, M;Attina, P;Bressan, R;Marchiori, G;Tordi, M;Marioni, F;Valsecchi, G;Zocchi, F|A vertical facility based on raster scan configuration for the x-ray scientific calibrations of the ATHENA optics|0
+2019SPIE11180E..26S|Salmaso, B;Basso, S;Ghigo, M;Giro, E;Pareschi, G;Spiga, D;Tagliaferri, G;Vecchi, G;Pelliciari, C;Burwitz, V;Sanchez del Rio, M;Ferrari, C;Zappettini, A;Uslenghi, M;Fiorini, M;Parodi, G;Ayre, M;Bavdaz, M;Ferreira, I;Wille, E|BEaTriX (Beam Expander Testing X-ray facility) for testing ATHENA's SPO modules: advancement status|0
+2019SpReT.204R...3.||Athena Coustenis-Chair, Panel on Planetary Protection|0
+2019arXiv190403307D|D'Andrea, M|Opening the low-background and high-spectral-resolution domain with the ATHENA large X-ray observatory: Development of the Cryogenic AntiCoincidence Detector for the X-ray Integral Field Unit|1
+2019arXiv190405857W|Williams, B;Auchettl, K;Badenes, C;Castro, D;Kargaltsev, O;Lopez, L;Mori, K;Patnaude, D;Plucinsky, P;Raymond, J;Safi-Harb, S;Slane, P;Tanaka, T;Temim, T;Vink, J;Yamaguchi, H|Astro2020 Science White Paper: Future X-ray Studies of Supernova Remnants|2
+2019arXiv190601657R|Richard, J;Bacon, R;Blaizot, J;Boissier, S;Boselli, A;NicolasBouche,;Brinchmann, J;Castro, N;Ciesla, L;Crowther, P;Daddi, E;Dreizler, S;Duc, P;Elbaz, D;Epinat, B;Evans, C;Fossati, M;Fumagalli, M;Garcia, M;Garel, T;Hayes, M;Herrero, A;Hugot, E;Humphrey, A;Jablonka, P;Kamann, S;Kaper, L;Kelz, A;Kneib, J;de Koter, A;Krajnovic, D;Kudritzki, R;Langer, N;Lardo, C;Leclercq, F;Lennon, D;Mahler, G;Martins, F;Massey, R;Mitchell, P;Monreal-Ibero, A;Najarro, P;Opitom, C;Papaderos, P;Peroux, C;Revaz, Y;Roth, M;Rousselot, P;Sander, A;Simmonds Wagemann, C;Smail, I;Swinbank, A;Tramper, F;Urrutia, T;Verhamme, A;Vink, J;Walsh, J;Weilbacher, P;Wendt, M;Wisotzki, L;Yang, B|BlueMUSE: Project Overview and Science Cases|11
+2019arXiv190801778S|Simionescu, A;Ettori, S;Werner, N;Nagai, D;Vazza, F;Akamatsu, H;Pinto, C;de Plaa, J;Wijers, N;Nelson, D;Pointecouteau, E;Pratt, G;Spiga, D;Lau, E;Rossetti, M;Gastaldello, F;Biffi, V;Bulbul, E;den Herder, J;Eckert, D;Fraternali, F;Mingo, B;Pareschi, G;Pezzulli, G;Reiprich, T;Schaye, J;Walker, S;Werk, J|Voyage through the Hidden Physics of the Cosmic Web|5
+2019arXiv191100769G|Gomez de Castro, A;Barstow, M;Baudin, F;Benetti, S;Bouret, J;Brosch, N;de Martino, D;del Zanna, G;Evans, C;Garcia, M;Gaensicke, B;Kehrig, C;Lapington, J;Lecavelier des Etangs, A;Naletto, G;Naze, Y;Neiner, C;Nichols, J;Orio, M;Pagano, I;Rauw, G;Shore, S;Tovmasian, G;ud-Doula, A;France, K;Hillenbrand, L|Closing gaps to our origins. The UV window into the Universe|0
+2019ascl.soft03002S|Sixte Team;Peille, P;Dauser, T|SIXTE: Simulation of X-ray Telescopes|0
+2019clrp.2020...34W|Woods, T;Alexandroff, R;Ellison, S;Ferrarese, L;Gallagher, S;Gallo, L;Haggard, D;Hall, P;Hlavacek-Larrondo, J;Khatu, V;Man, A;McGee, S;McNamara, B;Ruan, J;Sivakoff, G;Stairs, I;Willott, C|Revealing the Origin and Cosmic Evolution of Supermassive Black Holes|2
+2019eeu..confE...1A|Amati, L|The Transient High-Energy Sky and Early Universe Surveyor (THESEUS)|1
+2019hsax.conf....1C|Carrera, F|Athena: Mission and Spanish participation|0
+2019hsax.conf..612C|Ceballos, M|From the school to the space: outreach experience in Astronomy at IFCA|0
+2019mmag.conf...16A|Amati, L|The Transient High-Energy Sky and Early Universe Surveyor (THESEUS)|0
+2019sf2a.conf...59W|Webb, N|Twenty years of XMM-Newton|0
+2019sros.confE.139W|Williams, B|What We Can Learn from Ejecta in Supernova Remnants|0
+2019zndo...2641997A|ATLAS Collaboration|Athena|1
+2018AAS...23110304V|Vikhlinin, A|Lynx mission concept study|3
+2018AAS...23110601K|Kaastra, J;Mrk 509 Team|Deciphering AGN outflows with joint UV and X-ray observations|0
+2018AAS...23112106M|Mushotzky, R;AXIS Study Team|AXIS - A High Angular Resoltuion X-ray Probe Concept Study|0
+2018AAS...23114003L|Loewenstein, M;AXIS Team|AXIS - Advanced X-ray Imaging Sarellite|0
+2018AAS...23123718S|Smith, R;Arcus Collaboration|Arcus: An Overview of the Soft X-ray Grating Explorer|0
+2018AAS...23123722W|Wilms, J;Guenther, H;Dauser, T;Huenemoerder, D;Ptak, A;Smith, R;Arcus Team|Arcus end-to-end simulations|0
+2018AAS...23124113M|Miller, E;Hitomi Collaboration|Hitomi Observations of the LMC SNR N132D: Fast and Asymmetric Iron-rich Ejecta|0
+2018AAS...23135001M|Mills, B;Heinz, S;Corrales, L|Looking for Dust-Scattering Light Echoes|0
+2018AAS...23144705P|Pradhan, P;Kennea, J;Falcone, A;Burrows, D|Exploring transient detection with WFI onboard Athena|0
+2018EPSC...12.1187L|Li, Y;Mocker, A;Srama, R|The measurement of micron sized impact fragment using delay line detector|0
+2018MmSAI..89..118A|Amati, L;Bozzo, E;Gotz, D;O'Brien, P;Della Valle, M|The THESEUS Workshop 2017|0
+2018MmSAI..89..205S|Stratta, G;Amati, L;Ciolfi, R;Vinciguerra, S|THESEUS in the era of multi-messenger astronomy .|6
+2018SPIE10699E..0XB|Bavdaz, M;Wille, E;Ayre, M;Ferreira, I;Shortt, B;Fransen, S;Collon, M;Vacanti, G;Barriere, N;Landgraf, B;Sforzini, J;Booysen, K;van Baren, C;Zuknik, K;Della Monica Ferreira, D;Massahi, S;Christensen, F;Krumrey, M;Muller, P;Burwitz, V;Pareschi, G;Spiga, D;Valsecchi, G;Vernani, D;Oliver, P;Seidel, A|Development of the ATHENA mirror|3
+2018SPIE10699E..0YC|Collon, M;Vacanti, G;Barriere, N;Landgraf, B;Guenther, R;Vervest, M;van der Hoeven, R;Chatbi, A;Girou, D;Sforzini, J;Beijersbergen, M;Bavdaz, M;Wille, E;Fransen, S;Shortt, B;Haneveld, J;Booysen, K;Koelewijn, A;Wijnperle, M;van Baren, C;Eigenraam, A;Muller, P;Krumrey, M;Burwitz, V;Spiga, D;Pareschi, G;Massahi, S;Christensen, F;Della Monica Ferreira, D;Valsecchi, G;Oliver, P;Chequer, I;Ball, K;Zuknik, K|Silicon pore optics mirror module production and testing|0
+2018SPIE10699E..0ZV|Valsecchi, G;Marioni, F;Bianucci, G;Zocchi, F;Gallieni, D;Parodi, G;Ottolini, M;Collon, M;Pareschi, G;Spiga, D;Bavdaz, M;Wille, E;Burwitz, V|Results of silicon pore optics mirror modules optical integration in the ATHENA telescope|0
+2018SPIE10699E..1EA|Ayre, M;Bavdaz, M;Ferreira, I;Wille, E;Fransen, S;Stefanescu, A;Linder, M|ATHENA: system studies and optics accommodation|0
+2018SPIE10699E..1FM|Meidinger, N;Nandra, K;Plattner, M|Development of the Wide Field Imager instrument for ATHENA|1
+2018SPIE10699E..1GB|Barret, D;Lam Trong, T;den Herder, J;Piro, L;Cappi, M;Houvelin, J;Kelley, R;Mas-Hesse, J;Mitsuda, K;Paltani, S;Rauw, G;Rozanska, A;Wilms, J;Bandler, S;Barbera, M;Barcons, X;Bozzo, E;Ceballos, M;Charles, I;Costantini, E;Decourchelle, A;den Hartog, R;Duband, L;Duval, J;Fiore, F;Gatti, F;Goldwurm, A;Jackson, B;Jonker, P;Kilbourne, C;Macculi, C;Mendez, M;Molendi, S;Orleanski, P;Pajot, F;Pointecouteau, E;Porter, F;Pratt, G;Prele, D;Ravera, L;Sato, K;Schaye, J;Shinozaki, K;Thibert, T;Valenziano, L;Valette, V;Vink, J;Webb, N;Wise, M;Yamasaki, N;Douchin, F;Mesnager, J;Pontet, B;Pradines, A;Branduardi-Raymont, G;Bulbul, E;Dadina, M;Ettori, S;Finoguenov, A;Fukazawa, Y;Janiuk, A;Kaastra, J;Mazzotta, P;Miller, J;Miniutti, G;Naze, Y;Nicastro, F;Scioritino, S;Simonescu, A;Torrejon, J;Frezouls, B;Geoffray, H;Peille, P;Aicardi, C;Andre, J;Daniel, C;Clenet, A;Etcheverry, C;Gloaguen, E;Hervet, G;Jolly, A;Ledot, A;Paillet, I;Schmisser, R;Vella, B;Damery, J;Boyce, K;Dipirro, M;Lotti, S;Schwander, D;Smith, S;Van Leeuwen, B;van Weers, H;Clerc, N;Cobo, B;Dauser, T;Kirsch, C;Cucchetti, E;Eckart, M;Ferrando, P;Natalucci, L|The ATHENA X-ray Integral Field Unit (X-IFU)|38
+2018SPIE10699E..1HB|Bonholzer, M;Behrens, A;Emberger, V;Herrmann, S;Meidinger, N;Muller-Seidlitz, J;Treberspurg, W|First tests of large prototype DEPFET detectors for ATHENA's wide field imager|1
+2018SPIE10699E..1IV|von Kienlin, A;Eraerds, T;Bulbul, E;Fioretti, V;Gastaldello, F;Grant, C;Hall, D;Holland, A;Keelan, J;Meidinger, N;Molendi, S;Perinati, E;Rau, A|Evaluation of the ATHENA/WFI instrumental background|2
+2018SPIE10699E..1JB|Burrows, D;Allen, S;Bautz, M;Bulbul, E;Erdley, J;Falcone, A;Fort, S;Grant, C;Herrmann, S;Kennea, J;Klar, R;Kraft, R;Mantz, A;Miller, E;Nulsen, P;Persyn, S;Pradhan, P;Wilkins, D|The ATHENA WFI science products module|1
+2018SPIE10699E..1KB|Barbera, M;Lo Cicero, U;Sciortino, L;D'Anca, F;Parodi, G;Rataj, M;Polak, S;Pilch, A;Meidinger, N;Sciortino, S;Rauw, G;Branduardi Raymont, G;Mineo, T;Perinati, E;Giglio, P;Collura, A;Varisco, S;Candia, R|ATHENA WFI optical blocking filters development status toward the end of the instrument phase-A|0
+2018SPIE10699E..1MK|Khosropanah, P;Taralli, E;Gottardi, L;de Vries, C;Nagayoshi, K;Ridder, M;Akamatsu, H;Bruijn, M;Gao, J|Development of TiAu TES x-ray calorimeters for the X-IFU on ATHENA space observatory|2
+2018SPIE10699E..1QL|Lotti, S;Macculi, C;D'Andrea, M;Fioretti, V;Dondero, P;Mantero, A;Minervini, G;Argan, A;Piro, L|Estimates for the background of the ATHENA X-IFU instrument: the cosmic rays contribution|4
+2018SPIE10699E..1RB|Barbera, M;Lo Cicero, U;Sciortino, L;D'Anca, F;Lo Cicero, G;Parodi, G;Sciortino, S;Rauw, G;Branduardi-Raymont, G;Varisco, S;Ferruggia Bonura, S;Collura, A;Candia, R;Di Cicca, G;Giglio, P;Buttacavoli, A;Cuttaia, F;Villa, F;Cappi, M;Lam Trong, T;Mesnager, J;Peille, P;den Hartog, R;den Herder, J;Jackson, B;Barret, D;Piro, L|ATHENA X-IFU thermal filters development status toward the end of the instrument phase-A|1
+2018SPIE10699E..29M|Mushotzky, R|AXIS: a probe class next generation high angular resolution x-ray imaging satellite|10
+2018SPIE10699E..2JT|Tatischeff, V;De Angelis, A;Tavani, M;Grenier, I;Oberlack, U;Hanlon, L;Walter, R;Argan, A;von Ballmoos, P;Bulgarelli, A;Donnarumma, I;Hernanz, M;Kuvvetli, I;Mallamaci, M;Pearce, M;Zdziarski, A;Aboudan, A;Ajello, M;Ambrosi, G;Bernard, D;Bernardini, E;Bonvicini, V;Brogna, A;Branchesi, M;Budtz-Jorgensen, C;Bykov, A;Campana, R;Cardillo, M;Ciprini, S;Coppi, P;Cumani, P;Curado da Silva, R;De Martino, D;Diehl, R;Doro, M;Fioretti, V;Funk, S;Ghisellini, G;Grove, J;Giordano, F;Hamadache, C;Hartmann, D;Hayashida, M;Isern, J;Kanbach, G;Kiener, J;Knodlseder, J;Labanti, C;Laurent, P;Leising, M;Limousin, O;Longo, F;Mannheim, K;Marisaldi, M;Martinez, M;Mazziotta, N;McEnery, J;Mereghetti, S;Minervini, G;Moiseev, A;Morselli, A;Nakazawa, K;Orleanski, P;Paredes, J;Patricelli, B;Peyre, J;Piano, G;Pohl, M;Rando, R;Roncadelli, M;Tavecchio, F;Thompson, D;Turolla, R;Ulyanov, A;Vacchi, A;Wu, X;Zoglauer, A|The e-ASTROGAM gamma-ray space observatory for the multimessenger astronomy of the 2030s|3
+2018SPIE10699E..3IS|Salmaso, B;Spiga, D;Basso, S;Ghigo, M;Giro, E;Pareschi, G;Tagliaferri, G;Vecchi, G;Pelliciari, C;Burwitz, V;Sanchez del Rio, M;Ferrari, C;Zappettini, A;Uslenghi, M;Fiorini, M;Parodi, G;Ferreira, I;Bavdaz, M|Progress in the realization of the beam expander testing x-ray facility (BEaTriX) for testing ATHENA's SPO modules|0
+2018SPIE10699E..3KD|Della Monica Ferreira, D;Svendsen, S;Massahi, S;Jafari, A;Vu, L;Korman, J;Gellert, N;Christensen, F;Kadkhodazadeh, S;Kasama, T;Shortt, B;Bavdaz, M;Collon, M;Landgraf, B;Krumrey, M;Cibik, L;Schreiber, S;Schubert, A|Performance and stability of mirror coatings for the ATHENA mission|0
+2018SPIE10699E..3LW|Wille, E;Bavdaz, M;Ferreira, I;Ayre, M;Collon, M|Silicon pore optics manufacturing plan and schedule for ATHENA|0
+2018SPIE10699E..3NS|Sironi, G;Spiga, D;Della Monica Ferreira, D;Ferreira, I;Bavdaz, M;Bergback Knudsen, E;Bianucci, G;Christensen, F;Collon, M;Marioni, F;Pareschi, G;'S Jagers, A;Salmaso, B;Shortt, B;Tagliaferri, G;Vacanti, G;Conconi, P;Valsecchi, G;Westergaard, N;Wille, E;Massahi, S|Simulating the optical performances of the ATHENA x-ray telescope optics|0
+2018SPIE10699E..3SK|Knudsen, E;Ferreira, D;Westergaard, N;Christensen, F;Massahi, S;Shortt, B;Ferreira, I;Spiga, D|The McXtrace AstroX toolbox: a general ray tracing software package for end to end simulation of x-ray optics for astronomical instrumentation|0
+2018SPIE10699E..3TB|Burwitz, V;Willingale, R;Pareschi, G;Hudec, R;Spiga, D;Pelliciari, C;Tichy, V;Salmaso, B|AHEAD joint research activity on x-ray optics|0
+2018SPIE10699E..4AF|Ferreira, I;Ayre, M;Bavdaz, M;Guainazzi, M;Stefanescu, A;Komarek, M;Valenta, T;Hynek, R;Zavodnik, M;Sobotka, P;Pejchal, T;Badin, V;Kalousek, R;Bacovsky, J;Horak, M;Flajsman, L;Wojewoda, O;Zlamal, J|Design of the charged particle diverter for the ATHENA mission|0
+2018SPIE10699E..4BP|Perinati, E;Spiga, D;Santangelo, A;Tenzer, C|A magnetic electron repeller to improve the ATHENA/WFI background level|0
+2018SPIE10699E..4CP|Parodi, G;D'Anca, F;Lo Cicero, U;Sciortino, L;Rataj, M;Polak, S;Pilch, A;Meidinger, N;Dittrich, K;Hartwig, J;Samain, V;Collura, A;Ferruggia Bonura, S;Buttacavoli, A;Barbera, M|Structural modelling and mechanical tests supporting the design of the ATHENA X-IFU thermal filters and WFI optical blocking filter|0
+2018SPIE10699E..4FT|Treberspurg, W;Muller-Seidlitz, J;Meidinger, N;Behrens, A;Andritschke, R;Bonholzer, M;Emberger, V;Hauser, G|Energy response of ATHENA WFI prototype detectors|2
+2018SPIE10699E..4GB|Bulbul, E;Kraft, R;Nulsen, P;Miller, E;Grant, C;Bautz, M;Burrows, D;Allen, S|Characterizing particle background of ATHENA WFI for the science products module: swift XRT full frame and XMM-PN small window mode observations|1
+2018SPIE10699E..4HG|Grant, C;Miller, E;Bautz, M;Bulbul, E;Kraft, R;Nulsen, P;Burrows, D;Allen, S|Reducing the ATHENA WFI background with the science products module: lessons from Chandra ACIS|1
+2018SPIE10699E..4IB|Behrens, A;Andritschke, R;Bonholzer, M;Emberger, V;Hauser, G;Meidinger, N;Muller-Seidlitz, J;Treberspurg, W|Studies of operation modes for the ATHENA WFI detectors|0
+2018SPIE10699E..4KP|Peille, P;den Hartog, R;Macculi, C;Barbera, M;Lotti, S;Cucchetti, E;Kirsch, C;Dauser, T;Wilms, J;Bandler, S;Smith, S;Jackson, B;Geoffray, H;Mesnager, J;Pajot, F;Barret, D;Lam-Trong, T;den Herder, J;Piro, L|The performance of the ATHENA X-ray Integral Field Unit|0
+2018SPIE10699E..4LC|Cucchetti, E;Pointecouteau, E;Peille, P;Clerc, N;Rasia, E;Biffi, V;Borgani, S;Dolag, K;Wilms, J;Pajot, F;Barret, D|Simulating x-ray observations of galaxy clusters with the x-ray integral field unit onboard the ATHENA mission|0
+2018SPIE10699E..4MC|Cucchetti, E;Eckart, M;Peille, P;de Vries, C;Pajot, F;Pointecouteau, E;Leutenegger, M;Kilbourne, C;Porter, F|Energy scale calibration and drift correction of the X-IFU|0
+2018SPIE10699E..4NC|Cucchetti, E;Pointecouteau, E;Barret, D;Lotti, S;Macculi, C;Molendi, S;Pajot, F;Peille, P;Piro, L;Pratt, G|Reproducibility and monitoring of the instrumental particle background for the x-ray integral field unit|0
+2018SPIE10699E..4OC|Cucchetti, E;Pajot, F;Pointecouteau, E;Peille, P;Betancourt-Martinez, G;Smith, S;Barbera, M;Eckart, M;Bandler, S;Kilbourne, C;Cappi, M;Barret, D|Testing the X-IFU calibration requirements: an example for quantum efficiency and energy resolution|0
+2018SPIE10699E..4PC|Chen, S;Prele, D;Beillimaz, C;Voisin, F;Chan, K;Laurent, P;Goldwurm, A|Development of the WFEE subsystem for the X-IFU instrument of the ATHENA Space Observatory|0
+2018SPIE10699E..4QD|den Hartog, R;van Leeuwen, B;Peille, P;van der Kuur, J;Ravera, L;van Loon, D;Jackson, B;den Herder, J|Performance of a state-of-the-art DAC system for FDM readout|0
+2018SPIE10699E..4RL|Lo Cicero, U;Lo Cicero, G;Puccio, E;Montinaro, N;Gulli, D;Todaro, M;Calandra, E;Torma, P;Cuttaia, F;Villa, F;Ferruggia Bonura, S;Lullo, G;Collura, A;D'Anca, F;Sciortino, L;Varisco, S;Jackson, B;van Leeuwen, B;Gloaguen, E;Barbera, M|Radio frequency shielding of thin aluminized plastic filters investigated for the ATHENA X-IFU detector|0
+2018SPIE10699E..4SC|Cobo, B;Ceballos, M;Peille, P;Mesnager, J;Wilms, J;Dauser, T;Kirsch, C;Pinsard, F;Cara, C;Gros, M;Ravera, L;Bandler, S;Porter, F;Kilbourne, C;Sakai, K|ATHENA X-ray Integral Field Unit on-board event processor: analysis of performance of two triggering algorithms|0
+2018SPIE10699E..4TD|D'Andrea, M;Macculi, C;Argan, A;Lotti, S;Minervini, G;Piro, L;Biasotti, M;Ceriale, V;Gallucci, G;Gatti, F;Torrioli, G;Volpe, A|The cryogenic anticoincidence detector for ATHENA X-IFU: preliminary test of AC-S9 towards the demonstration model|3
+2018SPIE10699E..4VR|Ravera, L;Gumuchian, P;Clenet, A;Bertrand, B;Murat, D;Oziol, C;Camus, T;Pointecouteau, E;Barret, D|First results of the ATHENA/X-IFU digital readout electronics prototype|0
+2018SPIE10699E..4WG|Gumuchian, P;Pajot, F;Ravera, L;Pointecouteau, E;Clenet, A;Bernard, B;Oziol, C|Numerical simulation and validation of ATHENA/X-IFU/digital readout electronics|0
+2018SPIE10699E..50S|Sciortino, L;Lo Cicero, U;Ferruggia Bonura, S;D'Anca, F;Buttacavoli, A;Puccio, E;Barbera, M|Thermal modelling of the ATHENA X-IFU filters|0
+2018SPIE10699E..65D|de Vries, C;Fioretti, V;den Herder, J;Schyns, E;Pinto, S|Simulating modulated x-ray calibration sources for future x-ray missions using GEANT4|0
+2018SPIE10699E..6DH|Heilmann, R;Bruccoleri, A;Song, J;DeRoo, C;Cheimetz, P;Hertz, E;Smith, R;Burwitz, V;Hartner, G;La Caria, M;Pelliciari, C;Guenther, H;Heine, S;LaMarr, B;Marshall, H;Schulz, N;Gullikson, E;Schattenburg, M|Blazed transmission grating technology development for the Arcus x-ray spectrometer explorer|1
+2018SPIE10699E..6FG|Gunther, H;DeRoo, C;Heilmann, R;Hertz, E;Smith, R;Wilms, J|Ray-tracing Arcus in phase A|1
+2018SPIE10699E..6MM|Madsen, K;Harrison, F;Broadway, D;Christensen, F;Descalle, M;Ferreira, D;Grefenstette, B;Gurgew, D;Hornschemeier, A;Miyasaka, H;Okajima, T;Pike, S;Pivovaroff, M;Saha, T;Stern, D;Vogel, J;Windt, D;Zhang, W|Optical instrument design of the high-energy x-ray probe (HEX-P)|3
+2018SPIE10709E..35H|Herrmann, S;Koch, A;Obergassel, S;Treberspurg, W;Bonholzer, M;Meidinger, N|VERITAS 2.2: a low noise source follower and drain current readout integrated circuit for the wide field imager on the Athena x-ray satellite|3
+2018SPIE10709E..37H|Hall, D;Keelan, J;Davis, C;Hetherington, O;Leese, M;Holland, A|Predicting the particle-induced background for future x-ray astronomy missions: the importance of experimental validation for GEANT4 simulations|0
+2018agn..confE..27T|Tombesi, F|Mapping Black Hole Winds, from the Event Horizon up to Galaxy Scales|0
+2018agn..confE..30V|Vito, F;Brandt, W;Gilli, R;Vignali, C;Comastri, A;Bauer, F;Yang, G|The early growth of (sub-L*) super-massive black holes as seen by Chandra|0
+2018arXiv180308813S|Sieniawska, M;Bejger, M;Haskell, B|Estimating the EOS from the measurement of NS radii with 5% accuracy|1
+2018arXiv180706903G|Guainazzi, M;Tashiro, M|The Hot Universe with XRISM and Athena|14
+2018arXiv180709080C|Cassano, R;Fender, R;Ferrari, C;Merloni, A;Akahori, T;Akamatsu, H;Ascasibar, Y;Ballantyne, D;Brunetti, G;Corbelli, E;Croston, J;Donnarumma, I;Ettori, S;Ferdman, R;Feretti, L;Forbrich, J;Gheller, C;Ghirlanda, G;Govoni, F;Ingallinera, A;Johnston-Hollitt, M;Markevitch, M;Mesinger, A;Moss, V;Nicastro, F;Padovani, P;Panessa, F;Piro, L;Ponti, G;Pratt, G;Rossi, E;Sadler, E;Sasaki, M;Soria, R;Stevens, I;van Weeren, R;Vazza, F;Webb, N|SKA-Athena Synergy White Paper|5
+2018arXiv180909642T|The Lynx Team|The Lynx Mission Concept Study Interim Report|35
+2018arXiv181006737B|Bolatto, A;Armus, L;Leroy, A;Veilleux, S;Walter, F;Mushotzky, R|Science with an ngVLA: How Do Cold Gas Outflows Shape Galaxies?|0
+2018cosp...42E..46A|Aird, J|X-ray surveys: Soft to Hard - probing obscured black hole growth over cosmic time|0
+2018cosp...42E..57A|Alberti, T;Laurenza, M|Estimates of the energetic proton environment at L1 point|0
+2018cosp...42E.505C|Cappi, M|Spectral-timing studies of X-ray binaries and AGNs with Athena|0
+2018cosp...42E.575C|Chang, H;Liu, C;Shang, J|Search for serendipitous Trans-Neptunian Object occultation in X-rays|0
+2018cosp...42E.995E|Ergin, T;Sezer, A;Bamba, A|Studying the elemental abundances of Kepler Supernova Remnant with Athena|0
+2018cosp...42E1819K|Koss, M|The BAT AGN Spectroscopic Survey (BASS) Second Data Release|0
+2018cosp...42E2275M|Mezcua, M;Civano, F;Marchesi, S;Suh, H;Fabbiano, G;Volonteri, M;Miyaji, T|Intermediate-mass black holes in dwarf galaxies out to redshift=2 in the Chandra COSMOS Legacy Survey|0
+2018cosp...42E2519O|Orio, M|What we have learned from the brightest novae in the X-ray band in the Magellanic Clouds|0
+2018cosp...42E2549P|Pajot, F;Barret, D;Den herder, J;Barbera, M;Webb, N;Mitsuda, K;Paltani, S;Kilbourne, C;Cappi, M;Douchin, F;Wilms, J;Piro, L;Valenziano, L;Gregor Rauw, .;Kelley, R;Lam-Trong, T;Huovelin, J;Mas-Hesse, J;Rozanska, A;Geoffray, H;Den Hartog, R;Macculi, C;Mesnager, J;Peille, P|High resolution imaging X-ray spectroscopy: the X-IFU instrument on Athena|0
+2018cosp...42E2683P|Pinto, C|Super-Eddington driven winds in ultraluminous X-ray sources|0
+2018cosp...42E3044S|Schwope, A;Traulsen, I;Worpel, H|Accretion in magnetic CVs from an observational perspective|0
+2018cosp...42E3067S|Sezer, A;Ohira, Y;Ergin, T;Yamazaki, R;Katsuda, S;Bamba, A|Investigating the origin of the recombining plasma in W49B with X-IFU onboard Athena|0
+2018cosp...42E3420T|Trakhtenbrot, B|Physical properties of the highest redshift supermassive black holes|0
+2018cosp...42E3431T|Troja, E|The X-ray Counterpart to the Gravitational Wave Event GW170817|0
+2018frap.confE..73D|den Herder, J|The impact of Athena on Frontier Astrophysics|0
+2018haex.bookE.164B|Branduardi-Raymont, G;Dunn, W;Sciortino, S|Future Exoplanet Research: XUV (EUV and X-Ray) Detection and Characterization|0
+2018maff.confE...7C|Cappi, M|The Athena X-ray Observatory view of the Multiphase AGN Feeding and Feedback|0
+2018maff.confE..53T|Tombesi, F|Mapping SMBH Winds, from the Event Horizon up to Galaxy Scales|0
+2018pas7.conf..349S|Skup, K;Polak, S;Rataj, M;zycki, P;Rozanska, A|Polish contribution to the ATHENA Wide Field Imager|0
+2017AAS...23011715S|Smith, R;Arcus Collaboration|Arcus: Exploring the Formation and Evolution of Clusters, Galaxies, and Stars|0
+2017APS..APR.H5001B|Bautz, M|High Energy Astrophysics and Cosmology from Space: NASA's Physics of the Cosmos Program|0
+2017APS..APR.H5005K|Kraft, R;Bautz, M|Black holes, formation of structure, and extreme physics: the present and future of X-ray astrophysics|0
+2017APS..APR.K9002H|Harrison, F;HEX-P Collaboration Collaboration|The High Energy X-ray Probe (HEX-P)|0
+2017APS..APR.X1019S|Seeley, K;Dimond, D;Bianchi, R;Boudreau, J;Hong, T;Atlas Collaboration|ATLAS event display: Virtual Point-1 visualization software|0
+2017ASPC..512..161M|Moreau, C;Adami, C;Agneray, F;Le Brun, V;Le Fevre, O;Tasca, L|ASPIC: Public Spectroscopic Archives at CeSAM|0
+2017ASPC..512..605C|Ceballos, M;Cobo, B;Peille, P;Wilms, J;Brand, T;Dauser, T;Bandler, S;Smith, S|SIRENA: A Software Package for the Energy Reconstruction of the Athena X-IFU Events|0
+2017HEAD...1610321M|Madsen, K;Harrison, F;Stern, D;Grefenstette, B;Rana, V;Miyasaka, H|The High-Energy X-ray Probe (HEX-P)|0
+2017HEAD...1610323R|Reynolds, C;Mushotzky, R|The Advanced X-ray Imaging Satellite (AXIS)|1
+2017HEAD...1610329G|Guainazzi, M|The Advanced Telescope for High Energy Astrophysics|0
+2017HEAD...1610609D|DiPompeo, M;Hickox, R;Myers, A|Obscured Supermassive Black Hole Growth - Connections to Host Galaxies and Evolutionary Models|0
+2017HEAD...1610820N|Nowak, M;Wilms, J;Kuhnel, M;Chakrabarty, D|The Quiescent Neutron Star and Hierarchical Triple: 4U 2129+47|0
+2017HEAD...1611010M|Miller, E|Hitomi Observations of the LMC SNR N132D: Fast and Asymmetric Iron-rich Ejecta|0
+2017HEAD...1611201B|Brown, G;Cumbee, R;Gu, L;Kelley, R;Kilbourne, C;Leutenegger, M;Porter, F;Beiersdorfer, P|High resolution spectral signatures of X-ray emission following charge exchange recombination between highly charged iron and neutral helium, molecular hydrogen and molecular nitrogen: A comparison between theory and experiment|0
+2017HEAD...1640105O|Ogorzalek, A;Zhuravleva, I;Allen, S;Pinto, C;Werner, N;Mantz, A;Canning, R;Fabian, A;Kaastra, J;de Plaa, J|Utilizing X-ray gas velocity measurements as a new probe of AGN feedback in giant elliptical galaxies|0
+2017SPIE10397E..0PG|Gunther, H;Cheimets, P;Heilmann, R;Smith, R|Performance of a double tilted-Rowland-spectrometer on Arcus|0
+2017SPIE10397E..0QS|Smith, R;Abraham, M;Allured, R;Bautz, M;Bookbinder, J;Bregman, J;Brenneman, L;Brickhouse, N;Burrows, D;Burwitz, V;Cheimets, P;Costantini, E;Dawson, S;DeRoo, C;Falcone, A;Foster, A;Gallo, L;Grant, C;Gunther, H;Heilmann, R;Hertz, E;Hine, B;Huenemoerder, D;Kaastra, J;Kreykenbohm, I;Madsen, K;McEntaffer, R;Miller, E;Miller, J;Morse, E;Mushotzky, R;Nandra, K;Nowak, M;Paerels, F;Petre, R;Poppenhaeger, K;Ptak, A;Reid, P;Sanders, J;Schattenburg, M;Schulz, N;Smale, A;Temi, P;Valencic, L;Walker, S;Willingale, R;Wilms, J;Wolk, S|Arcus: exploring the formation and evolution of clusters, galaxies, and stars|2
+2017SPIE10397E..0UT|Treberspurg, W;Andritschke, R;Bahr, A;Behrens, A;Hauser, G;Lechner, P;Meidinger, N;Muller-Seidlitz, J;Treis, J|Studies of prototype DEPFET sensors for the Wide Field Imager of Athena|4
+2017SPIE10397E..0VM|Meidinger, N;Barbera, M;Emberger, V;Furmetz, M;Manhart, M;Muller-Seidlitz, J;Nandra, K;Plattner, M;Rau, A;Treberspurg, W|The Wide Field Imager instrument for Athena|10
+2017SPIE10397E..0XA|Ayre, M;Bavdaz, M;Ferreira, I;Wille, E;Lumb, D;Linder, M;Stefanescu, A|ATHENA: system design and implementation for a next-generation x-ray telescope|0
+2017SPIE10399E..0BB|Bavdaz, M;Wille, E;Ayre, M;Ferreira, I;Shortt, B;Fransen, S;Collon, M;Vacanti, G;Barriere, N;Landgraf, B;Haneveld, J;van Baren, C;Zuknik, K;Della Monica Ferreira, D;Massahi, S;Christensen, F;Krumrey, M;Burwitz, V;Pareschi, G;Spiga, D;Valsecchi, G;Vernani, D;Oliver, P;Seidel, A|The ATHENA telescope and optics status|1
+2017SPIE10399E..0CC|Collon, M;Vacanti, G;Barriere, N;Landgraf, B;Gunther, R;Vervest, M;van der Hoeven, R;Dekker, D;Chatbi, A;Girou, D;Sforzini, J;Beijersbergen, M;Bavdaz, M;Wille, E;Fransen, S;Shortt, B;Haneveld, J;Koelewijn, A;Booysen, K;Wijnperle, M;van Baren, C;Eigenraam, A;Muller, P;Krumrey, M;Burwitz, V;Pareschi, G;Massahi, S;Christensen, F;Della Monica Ferreira, D;Valsecchi, G;Oliver, P;Checquer, I;Ball, K;Zuknik, K|Development of ATHENA mirror modules|1
+2017SPIE10399E..0EV|Valsecchi, G;Marioni, F;Bianucci, G;Zocchi, F;Gallieni, D;Parodi, G;Ottolini, M;Collon, M;Civitani, M;Pareschi, G;Spiga, D;Bavdaz, M;Wille, E|Optical integration of SPO mirror modules in the ATHENA telescope|1
+2017SPIE10399E..0GL|Landgraf, B;Girou, D;Collon, M;Vacanti, G;Barriere, N;Gunther, R;Vervest, M;van der Hoeven, R;Beijersbergen, M;Bavdaz, M;Wille, E;Fransen, S;Shortt, B;van Baren, C;Eigenraam, A|Environmental testing of the ATHENA mirror modules (Conference Presentation)|0
+2017SPIE10399E..0HS|Spiga, D;Della Monica Ferreira, D;Shortt, B;Bavdaz, M;Bergback Knudsen, E;Bianucci, G;Christensen, F;Civitani, M;Collon, M;Conconi, P;Fransen, S;Marioni, F;Massahi, S;Pareschi, G;Salmaso, B;Jegers, A;Tayabaly, K;Valsecchi, G;Westergaard, N;Wille, E|Optical simulations for design, alignment, and performance prediction of silicon pore optics for the ATHENA x-ray telescope (Conference Presentation)|1
+2017SPIE10399E..0OB|Burwitz, V;Willingale, R;Pellilciari, C;Hartner, G;La Caria, M|Testing and calibrating the ATHENA optics at PANTER (Conference Presentation)|1
+2017SPIE10399E..0VB|Basso, S;Civitani, M;Pareschi, G;Parodi, G|A hybrid concept (segmented plus monolithic fused silica shells) for a high-throughput and high-angular resolution x-ray mission (Lynx/X-Ray Surveyor like)|0
+2017SPIE10399E..18D|Della Monica Ferreira, D;Massahi, S;Christensen, F;Shortt, B;Bavdaz, M;Collon, M;Landgraf, B;Gellert, N;Korman, J;Dalampiras, P;Rasmussen, I;Kamenidis, I;Krumrey, M;Schreiber, S|Design, development, and performance of x-ray mirror coatings for the ATHENA mission|0
+2017SPIE10399E..1WM|Massahi, S;Christensen, F;Ferreira, D;Shortt, B;Collon, M;Sforzini, J;Landgraf, B;Hinze, F;Aulhorn, S;Biedermann, R|Industrialization of the mirror plate coatings for the ATHENA mission|0
+2017SPIE10399E..1YG|Girou, D;Wade, C;Barriere, N;Collon, M;Gunther, R;Hanlon, L;Tomsick, J;Uliyanov, A;Vacanti, G;Zoglauer, A|Development of a second generation SiLC-based Laue lens|0
+2017SPIE10563E..21W|Winter, A;Breunig, E;Friedrich, P;Proserpio, L|X-ray telescope mirrors made of slumped glass sheets|0
+2017SPIE10564E..0HW|Wille, E;Bavdaz, M;Wallace, K;Shortt, B;Collon, M;Ackermann, M;Gunther, R;Olde Riekerink, M;Koelewijn, A;Haneveld, J;van Baren, C;Erhard, M;Kampf, D;Christensen, F;Krumrey, M;Freyberg, M;Burwitz, V|Silicon pore optics for future x-ray telescopes|0
+2017adap.prop...55U|Urry, C|Obscured Black Hole Growth at High Redshift and High Luminosity|0
+2017adap.prop..210S|Smith, R|AtomDB: Expanding an Accessible and Accurate Atomic Database for X-ray Astronomy|0
+2017ami..confE..20T|Tombesi, F|Mapping Black Hole Winds, from the Event Horizon up to Galaxy Scales|0
+2017apra.prop...52A|Allen, S|Development of Integrated Readout Electronics for Next Generation X-ray CCDs|0
+2017arXiv170506064P|Padovani, P;Combes, F;Diaz Trigo, M;Ettori, S;Hatziminaoglou, E;Jonker, P;Salvato, M;Viti, S;Adami, C;Aird, J;Alexander, D;Casella, P;Ceccarelli, C;Churazov, E;Cirasuolo, M;Daddi, E;Edge, A;Feruglio, C;Mainieri, V;Markoff, S;Merloni, A;Nicastro, F;O'Brien, P;Oskinova, L;Panessa, F;Pointecouteau, E;Rau, A;Robrade, J;Schaye, J;Stoehr, F;Testi, L;Tombesi, F|ESO-Athena Synergy White Paper|6
+2017arXiv170702665L|Liu, Y;Li, X|Diagnosing the kinematics of the tori in active galactic nuclei with the velocity-resolved reverberation mapping of the narrow iron K$\alpha$ line|0
+2017arXiv171102208J|Jennings, N|Searches for Axion-Like Particles with NGC1275: Current and Future Bounds|0
+2017arXiv171200442J|Jennings, N|Estimates for a DM $\rightarrow a \rightarrow \gamma$ 3.55 keV line in the radio lobes of Centaurus A|0
+2017atp..prop...13R|Ricotti, M|The Central Role of Compact Star Clusters in the Early Universe|0
+2017cxo..prop.5077V|Voit, G|Precipitation-Regulated AGN Feedback in Halos from 10^12 - 10^15 M_Sun|0
+2017cxo..prop.5175B|Brandt, W|A Reliable X-ray View of the First Quasars|0
+2017hsa9.conf..703C|Ceballos, M;Cobo, B;Peille, P;Wilms, J;Brand, T;Dauser, T;Bandler, S;Smith, S|SIRENA software for Athena X-IFU event reconstruction|0
+2017hsa9.conf..705M|Martinez-Nunez, S;Barcons, X;Barret, D;Bozzo, E;Carrera, F;Ceballos, M;Gomez, S;Monterde, M;Rau, A|Athena Community Office|0
+2017rdeh.confE..31G|Guainazzi, M|The Athena Observatory and its Science Objective|0
+2017wprb.confE..36P|Piro, L|Athena and the WHIM|0
+2017xru..conf....4B|Barcons, X|The Athena science case in context|0
+2017xru..conf....5B|Barret, D|The Athena X-ray Integral Field Unit|0
+2017xru..conf....6B|Bulbul, E|Probing Dark Matter using X-ray Observations|0
+2017xru..conf...15G|Guainazzi, M;Study Athena Team|Athena: mission concept, study status, and optics development|0
+2017xru..conf...24R|Rau, A;Nandra, K;Meidinger, N;Plattner, M|The Wide Field Imager for Athena|0
+2017xru..conf...50C|Caballero-Garcia, M|Results from the use of the X-ray reverberation model KYNREFREV in XSPEC|0
+2017xru..conf...58C|Comastri, A;Iwasawa, K|Deep X-ray spectroscopy of obscured AGN in the Chandra Deep Field South|0
+2017xru..conf...67D|De Pasquale, M;Page, M;Kann, D;Oates, S;Schulze, S;Zhang, B;Cano, Z;Malesani, D;Troja, E;Piro, L|A strong test for the forward shock model in GRBs: the 90 Ms follow up of the X-ray afterglow of GRB 130427A.|0
+2017xru..conf...93G|Guillot, S|Athena's Constraints on the Dense Matter Equation of State from Quiescent Low Mass X-ray Binaries|0
+2017xru..conf...97H|Hayashida, K;Kawabata, T;Nakajima, H;Inoue, S;Tsunemi, H|Arcsecond and Sub-arcsedond Imaging with X-ray Multi-Image Interferometer and Imager for (very) small sattelites|0
+2017xru..conf..105J|Jennings, N;Day, F;Conlon, J;Muia, F;Krippendorf, S|Projected bounds on ALP-photon coupling from simulated ATHENA data|0
+2017xru..conf..120K|Krippendorf, S;Conlon, J;Day, F;Jennings, N;Rummel, M|Bounds on Axion-like Particles from X-ray observations of AGNs and quasars|0
+2017xru..conf..125L|Lal, D;Kraft, R;Hardcastle, M;Jones, C;Forman, W;Nulsen, P;Croston, J|Inverse-Compton emission from the radio lobes of powerful high-redshift radio galaxies|0
+2017xru..conf..127L|Lanzuisi, G;Comastri, A;Aird, J;Brusa, M;Cappelluti, N;Gilli, R;Matute, I|Surveys with Athena: results from detailed SIXTE simulations|0
+2017xru..conf..134M|Maggio, A|SPI-ing Exoplanets|0
+2017xru..conf..155N|Nardini, E|Transient iron fluorescence: new clues on the AGN disk/corona?|0
+2017xru..conf..176P|Piconcelli, E;Martocchia, S;Zappacosta, L|X-raying the most luminous quasars at cosmic noon|0
+2017xru..conf..189R|Reiprich, T|Galaxy clusters from eeHIFLUGCS, to eROSITA, to Athena|1
+2017xru..conf..211S|Simmonds, C;Buchner, J|XZ: X-ray spectroscopic redshifts of obscured AGN|0
+2017xru..conf..250A|Amati, L;O'Brien, P;Goetz, D;Tenzer, C;Bozzo, E|The Transient High-Energy Sky and Early Universe Surveyor (THESEUS)|0
+2017xru..conf..262D|de Bruijne, J;Guainazzi, M;den Herder, J;Bavdaz, M;Burwitz, V;Ferrando, P;Lumb, D;Natalucci, L;Pajot, F;Pareschi, G|Calibrating the Athena telescope|0
+2017xru..conf..287K|Kammoun, E;Risaliti, G;Nardini, E|On the accuracy of reflection-based SMBH spin measurements|0
+2016AAS...22710702B|Brandt, N|Current and Future X-ray Studies of High-Redshift AGNs and the First Supermassive Black Holes|0
+2016AAS...22714728S|Smith, R;Arcus Collaboration|Arcus: An X-ray Grating Spectroscopy Mission|0
+2016AAS...22744403S|Seery, B;Ganel, O;Pham, B|NASA Astrophysics Funds Strategic Technology Development|0
+2016APS..APRH11001H|Hornschemeier, A|High Energy Astrophysics and Cosmology from Space: NASA's Physics of the Cosmos Program|0
+2016APS..APRJ12001C|Cornish, N|Revisiting the LISA science case in a changing astrophysical landscape|0
+2016HEAD...1511203O|O'Brien, P|Studying the high redshift Universe with Athena|1
+2016HEAD...1530203S|Smith, R|Arcus: Exploring the Formation and Evolution of Clusters, Galaxies, and Stars|0
+2016HEAD...1540006T|Tombesi, F;Veilleux, S;Reeves, J;Reynolds, C|Can Supermassive Black Holes Influence the Evolution of their Host Galaxies?|0
+2016IAUFM..29B.243O|O'Brien, P;Jonker, P|Studying stellar explosions with Athena|0
+2016SPIE.9905E..0LB|Burrows, D;Hughes, E;Anderson, T;Falcone, A;Reichard, K;Bautz, M;Kraft, R|Fast event recognition for x-ray silicon imagers|0
+2016SPIE.9905E..26A|Ayre, M;Bavdaz, M;Ferreira, I;Wille, E;Fransen, S;Stefanescu, A;Linder, M|ATHENA: system studies and optics accommodation|1
+2016SPIE.9905E..27B|Bavdaz, M;Wille, E;Shortt, B;Fransen, S;Collon, M;Barriere, N;Yanson, A;Vacanti, G;Haneveld, J;van Baren, C;Zuknik, K;Christensen, F;Della Monica Ferreira, D;Krumrey, M;Burwitz, V;Pareschi, G;Spiga, D;Valsecchi, G;Vernani, D|The ATHENA optics development|2
+2016SPIE.9905E..28C|Collon, M;Vacanti, G;Gunther, R;Yanson, A;Barriere, N;Landgraf, B;Vervest, M;Chatbi, A;van der Hoeven, R;Beijersbergen, M;Bavdaz, M;Wille, E;Shortt, B;Haneveld, J;Koelewijn, A;van Baren, C;Eigenraam, A;Muller, P;Krumrey, M;Burwitz, V;Pareschi, G;Conconi, P;Massahi, S;Christensen, F;Valsecchi, G|Silicon pore optics for the ATHENA telescope|5
+2016SPIE.9905E..29W|Wille, E;Bavdaz, M;Collon, M|Mass production of silicon pore optics for ATHENA|1
+2016SPIE.9905E..2AM|Meidinger, N;Eder, J;Eraerds, T;Nandra, K;Pietschner, D;Plattner, M;Rau, A;Strecker, R|The wide field imager instrument for Athena|11
+2016SPIE.9905E..2BR|Rau, A;Nandra, K;Aird, J;Comastri, A;Dauser, T;Merloni, A;Pratt, G;Reiprich, T;Fabian, A;Georgakakis, A;Gudel, M;RoZanska, A;Sanders, J;Sasaki, M;Vaughan, S;Wilms, J;Meidinger, N|Athena Wide Field Imager key science drivers|4
+2016SPIE.9905E..2CT|Treberspurg, W;Andritschke, R;Bahr, A;Bianchi, D;Koch, A;Meidinger, N;Muller-Seidlitz, J;Ott, S;Porro, M|Studies of prototype DEPFET sensors for the wide field imager of Athena|4
+2016SPIE.9905E..2DP|Plattner, M;Albrecht, S;Bayer, J;Brandt, S;Drumm, P;Halker, O;Kerschbaum, F;Koch, A;Kuvvetli, I;Meidinger, N;Ott, S;Ottensamer, R;Reiffers, J;Schanz, T;Skup, K;Steller, M;Tenzer, C;Thomas, C|WFI electronics and on-board data processing|1
+2016SPIE.9905E..2EF|Furmetz, M;Pietschner, D;Meidinger, N|Thermal analysis of the WFI on the ATHENA observatory|0
+2016SPIE.9905E..2FB|Barret, D;Lam Trong, T;den Herder, J;Piro, L;Barcons, X;Huovelin, J;Kelley, R;Mas-Hesse, J;Mitsuda, K;Paltani, S;Rauw, G;RoZanska, A;Wilms, J;Barbera, M;Bozzo, E;Ceballos, M;Charles, I;Decourchelle, A;den Hartog, R;Duval, J;Fiore, F;Gatti, F;Goldwurm, A;Jackson, B;Jonker, P;Kilbourne, C;Macculi, C;Mendez, M;Molendi, S;Orleanski, P;Pajot, F;Pointecouteau, E;Porter, F;Pratt, G;Prele, D;Ravera, L;Renotte, E;Schaye, J;Shinozaki, K;Valenziano, L;Vink, J;Webb, N;Yamasaki, N;Delcelier-Douchin, F;Le Du, M;Mesnager, J;Pradines, A;Branduardi-Raymont, G;Dadina, M;Finoguenov, A;Fukazawa, Y;Janiuk, A;Miller, J;Naze, Y;Nicastro, F;Sciortino, S;Torrejon, J;Geoffray, H;Hernandez, I;Luno, L;Peille, P;Andre, J;Daniel, C;Etcheverry, C;Gloaguen, E;Hassin, J;Hervet, G;Maussang, I;Moueza, J;Paillet, A;Vella, B;Campos Garrido, G;Damery, J;Panem, C;Panh, J;Bandler, S;Biffi, J;Boyce, K;Clenet, A;DiPirro, M;Jamotton, P;Lotti, S;Schwander, D;Smith, S;van Leeuwen, B;van Weers, H;Brand, T;Cobo, B;Dauser, T;de Plaa, J;Cucchetti, E|The Athena X-ray Integral Field Unit (X-IFU)|57
+2016SPIE.9905E..2GL|Lam Trong, T|X-IFU technical challenge|1
+2016SPIE.9905E..2HS|Smith, S;Adams, J;Bandler, S;Betancourt-Martinez, G;Chervenak, J;Chiao, M;Eckart, M;Finkbeiner, F;Kelley, R;Kilbourne, C;Miniussi, A;Porter, F;Sadleir, J;Sakai, K;Wakeham, N;Wassell, E;Yoon, W;Bennett, D;Doriese, W;Fowler, J;Hilton, G;Morgan, K;Pappas, C;Reintsema, C;Swetz, D;Ullom, J;Irwin, K;Akamatsu, H;Gottardi, L;den Hartog, R;Jackson, B;van der Kuur, J;Barret, D;Peille, P|Transition-edge sensor pixel parameter design of the microcalorimeter array for the x-ray integral field unit on Athena|15
+2016SPIE.9905E..2IJ|Jackson, B;van Weers, H;van der Kuur, J;den Hartog, R;Akamatsu, H;Argan, A;Bandler, S;Barbera, M;Barret, D;Bruijn, M;Chervenak, J;Dercksen, J;Gatti, F;Gottardi, L;Haas, D;den Herder, J;Kilbourne, C;Kiviranta, M;Lam-Trong, T;van Leeuwen, B;Macculi, C;Piro, L;Smith, S|The focal plane assembly for the Athena X-ray Integral Field Unit instrument|7
+2016SPIE.9905E..2JC|Charles, I;Daniel, C;Andre, J;Duband, L;Duval, J;den Hartog, R;Mitsuda, K;Shinozaki, K;van Weers, H;Yamasaki, N|Preliminary thermal architecture of the X-IFU instrument dewar|1
+2016SPIE.9905E..2KM|Macculi, C;Argan, A;D'Andrea, M;Lotti, S;Laurenza, M;Piro, L;Biasotti, M;Corsini, D;Gatti, F;Torrioli, G;Fiorini, M;Molendi, S;Uslenghi, M;Mineo, T;Bulgarelli, A;Fioretti, V;Cavazzuti, E|The Cryogenic AntiCoincidence detector for ATHENA X-IFU: a program overview|8
+2016SPIE.9905E..4MS|Smith, R;Abraham, M;Allured, R;Bautz, M;Bookbinder, J;Bregman, J;Brenneman, L;Brickhouse, N;Burrows, D;Burwitz, V;Carvalho, R;Cheimets, P;Costantini, E;Dawson, S;DeRoo, C;Falcone, A;Foster, A;Grant, C;Heilmann, R;Hertz, E;Hine, B;Huenemoerder, D;Kaastra, J;Madsen, K;McEntaffer, R;Miller, E;Miller, J;Morse, E;Mushotzky, R;Nandra, K;Nowak, M;Paerels, F;Petre, R;Plice, L;Poppenhaeger, K;Ptak, A;Reid, P;Sanders, J;Schattenburg, M;Schulz, N;Smale, A;Temi, P;Valencic, L;Walker, S;Willingale, R;Wilms, J;Wolk, S|Arcus: the x-ray grating spectrometer explorer|22
+2016SPIE.9905E..4PB|Brenneman, L;Smith, R;Bregman, J;Kaastra, J;Brickhouse, N;Allured, R;Foster, A;Wolk, S;Wilms, J;Valencic, L;Willingale, R;Grant, C;Bautz, M;Heilmann, R;Huenemoerder, D;Miller, E;Nowak, M;Schattenburg, M;Schulz, N;Burwitz, V;Nandra, K;Sanders, J;Bookbinder, J;Petre, R;Ptak, A;Smale, A;Burrows, D;Poppenhaeger, K;Costantini, E;DeRoo, C;McEntaffer, R;Mushotzky, R;Miller, J;Temi, P|The evolution of structure and feedback with Arcus|3
+2016SPIE.9905E..5FB|Brand, T;Wilms, J;Dauser, T;Peille, P;Cobo, B;Ceballos, M;den Hartog, R;Kaastra, J;O'Brien, P;Barcons, X;Piro, L;den Herder, J;Barret, D|Observing the WHIM with Athena|3
+2016SPIE.9905E..5GC|Carpano, S;Wilms, J;Rau, A|Detectability of exoplanet transits with Athena's WFI instrument: testing for white and correlated noise|0
+2016SPIE.9905E..5KD|Della Monica Ferreira, D;Jakobsen, A;Massahi, S;Christensen, F;Shortt, B;Garnaes, J;Torras-Rosell, A;Krumrey, M;Cibik, L;Marggraf, S|X-ray mirror development and testing for the ATHENA mission|3
+2016SPIE.9905E..5NK|Krumrey, M;Muller, P;Cibik, L;Collon, M;Barriere, N;Vacanti, G;Bavdaz, M;Wille, E|New x-ray parallel beam facility XPBF 2.0 for the characterization of silicon pore optics|2
+2016SPIE.9905E..5OS|Spiga, D;Christensen, F;Bavdaz, M;Civitani, M;Conconi, P;Della Monica Ferreira, D;Knudsen, E;Massahi, S;Pareschi, G;Salmaso, B;Shortt, B;Tayabaly, K;Westergaard, N;Wille, E|Simulation and modeling of silicon pore optics for the ATHENA x-ray telescope|4
+2016SPIE.9905E..5PM|Massahi, S;Ferreira, D;Christensen, F;Shortt, B;Girou, D;Collon, M;Landgraf, B;Barriere, N;Krumrey, M;Cibik, L;Schreiber, S|Development and production of a multilayer-coated x-ray reflecting stack for the Athena mission|2
+2016SPIE.9905E..5RV|van der Kuur, J;Gottardi, L;Akamatsu, H;van Leeuwen, B;den Hartog, R;Haas, D;Kiviranta, M;Jackson, B|Optimising the multiplex factor of the frequency domain multiplexed readout of the TES-based microcalorimeter imaging array for the X-IFU instrument on the Athena x-ray observatory|8
+2016SPIE.9905E..5SA|Akamatsu, H;Gottardi, L;van der Kuur, J;de Vries, C;Ravensberg, K;Adams, J;Bandler, S;Bruijn, M;Chervenak, J;Kilbourne, C;Kiviranta, M;van der Linden, A;Jackson, B;Smith, S|Development of frequency domain multiplexing for the X-ray Integral Field unit (X-IFU) on the Athena|9
+2016SPIE.9905E..5TD|den Hartog, R;Peille, P;Dauser, T;Jackson, B;Bandler, S;Barret, D;Brand, T;den Herder, J;Kiviranta, M;van der Kuur, J;Smith, S;Wilms, J|The impact of crosstalk in the X-IFU instrument on Athena science cases|2
+2016SPIE.9905E..5UP|Prele, D;Voisin, F;Beillimaz, C;Chen, S;Goldwurm, A|Gain drift compensation with no-feedback-loop developed for the X-IFU/ATHENA readout chain|0
+2016SPIE.9905E..5VD|de Vries, C;Schouten, R;van der Kuur, J;Gottardi, L;Akamatsu, H|Microcalorimeter pulse analysis by means of principle component decomposition|0
+2016SPIE.9905E..5WP|Peille, P;Ceballos, M;Cobo, B;Wilms, J;Bandler, S;Smith, S;Dauser, T;Brand, T;den Hartog, R;de Plaa, J;Barret, D;den Herder, J;Piro, L;Barcons, X;Pointecouteau, E|Performance assessment of different pulse reconstruction algorithms for the ATHENA X-ray Integral Field Unit|10
+2016SPIE.9905E..5XD|D'Andrea, M;Argan, A;Lotti, S;Macculi, C;Piro, L;Biasotti, M;Corsini, D;Gatti, F;Torrioli, G|The Cryogenic Anti-Coincidence detector for ATHENA X-IFU: pulse analysis of the AC-S7 single pixel prototype|8
+2016SPIE.9905E..5YC|Corsini, D;Biasotti, M;Gatti, F;De Gerone, M;Rossi, C;Piro, L;Macculi, C|The mechanical and EM simulations of the CryoAC for the ATHENA X-IFU|1
+2016SPIE.9905E..5ZB|Biasotti, M;Corsini, D;De Gerone, M;Gatti, F;Macculi, C;D'Andrea, M;Piro, L|The new cryogenic silicon monolithic micro-bridged Anticoincidence detector for the X-IFU of ATHENA|3
+2016SPIE.9905E..60B|Barbera, M;Lo Cicero, U;Sciortino, L;Magnano, E;Pis, I;Ciaravella, A;Collura, A;Jimenez Escobar, A;Levantino, M;Nuzzo, F|Temperature effects on the performances of the ATHENA X-IFU thermal filters|1
+2016SPIE.9905E..61B|Bozzo, E;Barbera, M;Genolet, L;Paltani, S;Sordet, M;Branduardi-Raymont, G;Rauw, G;Sciortino, S;Barret, D;Den Herder, J|The filter wheel and filters development for the X-IFU instruments onboard Athena|0
+2016SPIE.9905E..62C|Corcione, L;Ligori, S;Capobianco, V;Bonino, D;Valenziano, L;Guizzo, G|Conceptual design of the X-IFU Instrument Control Unit on board the ESA Athena mission|0
+2016SPIE.9905E..63L|Lotti, S;Macculi, C;D'Andrea, M;Piro, L;Molendi, S;Gastaldello, F;Mineo, T;D'Ai, A;Bulgarelli, A;Fioretti, V;Jacquey, C;Laurenza, M;Laurent, P|Updates on the background estimates for the X-IFU instrument onboard of the ATHENA mission|3
+2016SPIE.9905E..64W|Wilms, J;Smith, S;Peille, P;Ceballos, M;Cobo, B;Dauser, T;Brand, T;den Hartog, R;Bandler, S;de Plaa, J;den Herder, J|TESSIM: a simulator for the Athena-X-IFU|6
+2016SPIE.9905E..65P|Perinati, E;Diebold, S;Guzman, A;Santangelo, A;Tenzer, C|Background studies for ATHENA: status of the activities at IAAT|1
+2016SPIE.9905E..66S|Sciortino, L;Lo Cicero, U;Magnano, E;Pis, I;Barbera, M|Surface investigation and aluminum oxide estimation on test filters for the ATHENA X-IFU and WFI detectors|0
+2016SPIE.9905E..67M|Muller-Seidlitz, J;Andritschke, R;Bahr, A;Meidinger, N;Ott, S;Richter, R;Treberspurg, W;Treis, J|Spectroscopic performance of DEPFET active pixel sensor prototypes suitable for the high count rate Athena WFI detector|6
+2016SPIE.9905E..68R|Rataj, M;Polak, S;Palgan, T;Kamisinski, T;Pilch, A;Eder, J;Meidinger, N;Plattner, M;Barbera, M;Parodi, G;D'Anca, F|The filter and calibration wheel for the ATHENA wide field imager|1
+2016SPIE.9905E..6UC|Civitani, M;Basso, S;Ghigo, M;Pareschi, G;Salmaso, B;Spiga, D;Vecchi, G;Banham, R;Breuning, E;Burwitz, V;Hartner, G;Menz, B|Cold and Hot Slumped Glass Optics with interfacing ribs for high angular resolution x-ray telescopes|3
+2016SPIE.9905E..6WF|Fioretti, V;Bulgarelli, A;Malaguti, G;Spiga, D;Tiengo, A|Monte Carlo simulations of soft proton flares: testing the physics with XMM-Newton|4
+2016SPIE.9905E..76F|Ferreira, D;Knudsen, E;Westergaard, N;Christensen, F;Massahi, S;Shortt, B;Spiga, D;Solstad, M;Lefmann, K|Simulating x-ray telescopes with McXtrace: a case study of ATHENA's optics|3
+2016SPIE.9963E..04S|Spiga, D;Pelliciari, C;Salmaso, B;Arcangeli, L;Bianucci, G;Ferrari, C;Ghigo, M;Pareschi, G;Rossi, M;Tagliaferri, G;Valsecchi, G;Vecchi, G;Zappettini, A|Design and advancement status of the Beam Expander Testing X-ray facility (BEaTriX)|3
+2016adap.prop...95G|Gelfand, J|Probing the Physics of Core-Collapse Supernovae and Ultra-Relativistic Outflows using Pulsar Wind Nebulae|0
+2016agnw.confE..56B|Barcons, X|How Super-Massive Black Holes grow and shape galaxies. The promise of the Athena X-ray observatory|0
+2016apra.prop...78F|Falcone, A|A Test Stand to Characterize and Contribute to the Development of DEPFET X-ray Detectors|0
+2016apra.prop...92F|Foster, A|High Fidelity Line Diagnostics for the X-ray Astrophysics Recovery Mission|0
+2016apra.prop..102B|Brown, G|High accuracy laboratory studies of x-ray emission from He-like ions for interpreting spectra from the X-ray Astrophysics Recovery Mission|0
+2016arXiv160903776B|Bozzo, E;Barbera, M;Genolet, L;Paltani, S;Sordet, M;Branduardi-Raymont, G;Rauw, G;Sciortino, S;Barret, D;Den Herder, J|The Filter Wheel and Filters development for the X-IFU instrument on-board Athena|1
+2016cosp...41E.293C|Carrera, F;Ueda, Y;Georgakakis, A|Understanding the build-up of supermassive black holes and galaxies|0
+2016cosp...41E.370C|Comastri, A;Brusa, M;Aird, J;Lanzuisi, G|The light up and early evolution of high redshift Supermassive Black Holes|0
+2016cosp...41E.559E|Ettori, S|The mass in galaxy clusters from X-ray/SZ observables|0
+2016cosp...41E.560E|Ettori, S|Astrophysics of galaxy clusters|0
+2016cosp...41E.563F|Fabian, A|Athena Science Status|0
+2016cosp...41E.753G|Guillot, S|Athena's Constraints on the Dense Matter Equation of State from Quiescent Low Mass X-ray Binaries|0
+2016cosp...41E.804H|Hardcastle, M|AGN feedback in galaxy clusters and groups|0
+2016cosp...41E1196L|Lumb, D|Athena Mission Status|0
+2016cosp...41E1268M|Matt, G|The close environment of Supermassive Black Holes|0
+2016cosp...41E1271M|Mazzotta, P|The evolution of galaxy groups and clusters|0
+2016cosp...41E1451O|O'Brien, P|Studying transient events with Athena|0
+2016cosp...41E1492P|Pacaud, F;Reiprich, T;Ramos Ceja, M;Lovisari, L|Studying high redshift galaxy groups with the Athena Wide-Field-Imager|0
+2016cosp...41E1565P|Piro, L|Athena Mission performance|0
+2016cosp...41E2058W|Wille, E|The Athena Mirror|0
+2016pas..conf...72R|Rozanska, A;Gronkiewicz, D;Hryniewicz, K;Adhikari, T;Rataj, M;Skup, K|AGN warm absorption with the ATHENA|0
+2016sros.confE.131V|Vink, J|SNR research: where do we stand today, and what will the future bring|0
+2016sros.confE.143M|Micelotta, E;Dwek, E;Slavin, J|Dance into the fire: dust survival inside supernova remnants|0
+2016xnnd.confE...3K|Kaastra, J|High-resolution X-ray spectroscopy: the coming-of-age|1
+2016xnnd.confE..11B|Barcons, X|Athena: ESA's X-ray observatory to study the Hot and Energetic Universe in the late 2020s|0
+2016xnnd.confE..34W|Wilkes, B|10+ more years of Chandra-XMM-Newton Synergy|0
+2016xnnd.confE..48G|Giustini, M|XMM-Newton reveals matter accreting onto the central supermassive black hole of NGC 2617|0
+2016xnnd.confE..55M|Molendi, S|EPIC 2.0: a second youth for XMM-Newton's workhorse.|0
+2016xnnd.confE..60P|Pounds, K;King, A|XMM-Newton, powerful AGN winds and galaxy feedback|0
+2016xnnd.confE.101M|Marelli, M;De Luca, A;Salvetti, D;Belfiore, A;Pizzocaro, D|A novel approach to model EPIC variable background|0
+2015AAS...22544202P|Pham, T;Seery, B|NASA Astrophysics Cosmic Origins (COR) and Physics of the Cosmos (PCOS) Strategic Technology Development Program|0
+2015ASPC..495..331C|Ceballos, M;Cardiel, N;Cobo, B|Energy Reconstruction for Events Detected in TES X-ray Detectors|0
+2015IAUGA..2251380O|O'Brien, P;Jonker, P|Studying stellar explosions with Athena|0
+2015IAUGA..2255901M|Matsumoto, H;Tachibana, S;Yoshikawa, S;Tamura, K;Mori, H;Mitsuishi, I;Tawara, Y;Kunieda, H;Yamashita, K|Development of an X-ray Telescope with a Large Effective Area for the Iron K Line Band|0
+2015IAUGA..2257177S|Schawinski, K|The origin and growth of the first black holes|0
+2015IAUGA..2258336H|Hornschemeier, A;Basu-Zych, A;Lehmer, B|All the X-ray binaries in the Universe: X-ray Emission from Normal and Starburst Galaxies Near and Far|0
+2015SPIE.9601E..09B|Barbera, M;Branduardi-Raymont, G;Collura, A;Comastri, A;Eder, J;Kamisinski, T;Lo Cicero, U;Meidinger, N;Mineo, T;Molendi, S;Parodi, G;Pilch, A;Piro, L;Rataj, M;Rauw, G;Sciortino, L;Sciortino, S;Wawer, P|The optical blocking filter for the ATHENA wide field imager: ongoing activities towards the conceptual design|5
+2015SPIE.9601E..0HM|Meidinger, N;Eder, J;Furmetz, M;Nandra, K;Pietschner, D;Plattner, M;Rau, A;Reiffers, J;Strecker, R;Barbera, M;Brand, T;Wilms, J|Development of the wide field imager for Athena|4
+2015SPIE.9601E..0LA|Ayre, M;Bavdaz, M;Ferreira, I;Wille, E;Lumb, D;Linder, M|ATHENA: system design and implementation for a next generation x-ray telescope|5
+2015SPIE.9603E..0GV|Vacanti, G;Barriere, N;Chatbi, A;Collon, M;Gunther, R;Yanson, A;Vervest, M;Bavdaz, M;Wille, E|New ray-tracing capabilities for the development of silicon pore optics|3
+2015SPIE.9603E..0JB|Bavdaz, M;Wille, E;Shortt, B;Fransen, S;Collon, M;Vacanti, G;Gunther, R;Yanson, A;Vervest, M;Haneveld, J;van Baren, C;Zuknik, K;Christensen, F;Krumrey, M;Burwitz, V;Pareschi, G;Valsecchi, G|The Athena optics|5
+2015SPIE.9603E..0KC|Collon, M;Vacanti, G;Gunther, R;Yanson, A;Barriere, N;Landgraf, B;Vervest, M;Chatbi, A;Beijersbergen, M;Bavdaz, M;Wille, E;Haneveld, J;Koelewijn, A;Leenstra, A;Wijnperle, M;van Baren, C;Muller, P;Krumrey, M;Burwitz, V;Pareschi, G;Conconi, P;Christensen, F|Silicon pore optics development for ATHENA|9
+2015SPIE.9603E..0LW|Wille, E;Bavdaz, M;Oosterbroek, T;Collon, M;Ackermann, M;Gunther, R;Vacanti, G;Vervest, M;Yanson, A;van Baren, C;Haneveld, J;Koelewijn, A;Leenstra, A;Wijnperle, M;Pareschi, G;Civitani, M;Conconi, P;Spiga, D;Valsecchi, G;Marioni, F;Zuknik, K;Schweitzer, M|Silicon pore optics mirror modules for inner and outer radii|2
+2015SPIE.9603E..0MM|Massahi, S;Girou, D;Ferreira, D;Christensen, F;Jakobsen, A;Shortt, B;Collon, M;Landgraf, B|Investigation of photolithography process on SPOs for the Athena mission|5
+2015SPIE.9603E..0NB|Basso, S;Civitani, M;Pareschi, G;Buratti, E;Eder, J;Friedrich, P;Furmetz, M|A design study of mirror modules and an assembly based on the slumped glass for an Athena-like optics|2
+2015SPIE.9603E..0PC|Civitani, M;Basso, S;Brizzolari, C;Ghigo, M;Pareschi, G;Salmaso, B;Spiga, D;Vecchi, G;Breunig, E;Burwitz, V;Hartner, G;Menz, B|Slumped glass optics with interfacing ribs for high angular resolution x-ray astronomy: a progress report|4
+2015SPIE.9603E..0SW|Winter, A;Breunig, E;Friedrich, P;Proserpio, L;Dohring, T|Indirect glass slumping for future x-ray missions: overview, status and progress|2
+2015SPIE.9603E..1PP|Pelliciari, C;Spiga, D;Bonnini, E;Buffagni, E;Ferrari, C;Pareschi, G;Tagliaferri, G|BEaTriX, expanded x-ray beam facility for testing modular elements of telescope optics: an update|2
+2015SPIE.9603E..1QM|Menz, B;Brauninger, H;Burwitz, V;Hartner, G;Predehl, P|A Fresnel zone plate collimator: potential and aberrations|2
+2015adap.prop...40H|Hasinger, G|Fingerprints of the first black holes? Crosscorrelationg the Near-Infrared and X-ray background in COSMOS|0
+2015adap.prop...80S|Stern, D|SACS: Spitzer Archival Cluster Survey|0
+2015adap.prop..203M|Mathur, S|The circum-galactic medium of the Milky Way|0
+2015apra.prop...63P|Porter, F|High Energy Laboratory Astrophysics using an X-Ray Microcalorimeter with an Electron Beam Ion Trap|0
+2015apra.prop..104F|Falcone, A|Novel Hybrid CMOS X-ray Detector Developments for Future Large Area and High Resolution X-ray Astronomy Missions|0
+2015deam.confE...6B|Barcons, X|AGN demographics and environment with ESA's Athena mission|0
+2015ebha.confE..18B|Bonson, K;Gallo, L|How well can we measure black hole spin?|0
+2015eheu.conf.....E|Ehle, M|Exploring the Hot and Energetic Universe: The first scientific conference dedicated to the Athena X-ray observatory|0
+2015eheu.conf....1G|Gimenez, A|The Athena Project in the Context of the Science Programme of ESA|0
+2015eheu.conf....2L|Lumb, D;Ayre, M|Athena: Assessment Phase Activities|0
+2015eheu.conf....3B|Bavdaz, M|The Athena Optics|0
+2015eheu.conf....4B|Barret, D;den Herder, J;Piro, L|The Athena X-ray Integral Field Unit (X-IFU)|1
+2015eheu.conf....5M|Meidinger, N;Nandra, K;Rau, A;Plattner, M;WFI proto-Consortium,|Wide Field Imager for Athena|0
+2015eheu.conf....6S|Smith, R|US Contributions to the Athena Mission|1
+2015eheu.conf....7M|Matsumoto, H|Athena and future plans of the X-ray astronomy in Japan|0
+2015eheu.conf....8P|Piro, L;Lotti, S;Macculi, C;Molendi, S;Eraerds, T;Laurent, P|The Athena Background|0
+2015eheu.conf....9D|den Herder, J;Piro, L;Rau, A|Athena Mission Performance|0
+2015eheu.conf...10B|Barcons, X|Athena as an Observatory in the late 2020s|1
+2015eheu.conf...11O|Ohashi, T|The Hot Universe: from Cosmological Filaments to Clusters|0
+2015eheu.conf...12K|Kaastra, J;Finoguenov, A|The missing baryons and the warm-hot intergalactic medium|0
+2015eheu.conf...13P|Pointecouteau, E;Allen, S;Ota, N;Athena SWG1. 1,|Evolution of Groups and Clusters of Galaxies with Athena|0
+2015eheu.conf...14E|Eckert, D;Ettori, S;Pratt, G|Astrophysics of Groups and Clusters|0
+2015eheu.conf...15B|Bregman, J|Detecting Missing Baryons around the Milky Way and External Galaxies|0
+2015eheu.conf...16M|Maughan, B;Giles, P;Bremer, M;Birkinshaw, M|What we are learning about distant Clusters in XXL|0
+2015eheu.conf...17S|Sanders, J;Athena Topical PanelAGN Feedback in Clusters,;Groups|Studying AGN Feedback in Galaxy Clusters and Groups with Athena|0
+2015eheu.conf...19P|Pinto, C;Fabian, A|ATHENA Solution for the Cooling Flow Problem in Clusters of Galaxies|0
+2015eheu.conf...20M|Mingo, B;Watson, M;Hardcastle, M;Croston, J|Radio AGN Feedback on Galaxy Scales: What can Athena show us?|1
+2015eheu.conf...21S|Soltan, A;Rozanska, A|Prospects for the direct WHIM Detection by Athena|0
+2015eheu.conf...22C|Cappi, M|Accretion and Ejection Power in the Universe (and Prospects for Athena)|0
+2015eheu.conf...23B|Brandt, W|The Landscape of Large Sky Surveys in the Athena Era (Synergy Talk)|0
+2015eheu.conf...24A|Aird, J;Comastri, A;Topical Panel 2. 1,|The Formation and Growth of the Earliest Supermassive Black Holes|0
+2015eheu.conf...25W|Watson, M|The Athena WFI Serendipitous Survey|1
+2015eheu.conf...26R|Risaliti, G;Lusso, E|A Hubble Diagram for Quasars|0
+2015eheu.conf...27O|O'Brien, P;Jonker, P;Athena Explosive Transients Working Group|Luminous Extragalactic Transients|0
+2015eheu.conf...28C|Carrera, F;Georgakakis, A;Ueda, Y;Akylas, T;Lanzuisi, G;Castello, N|Understanding the build-up of SMBH and Galaxies|1
+2015eheu.conf...29P|Ponti, G;Ptak, A;Tsuru, T;Members of SWAG2. 3,|Astrophysics of Feedback in local AGN and Starbursts|0
+2015eheu.conf...30C|Combes, F|ALMA Synergy with ATHENA|1
+2015eheu.conf...32J|Jonker, P;Wevers, T;Glennie, A;Fender, R|Fast X-ray Flashes; Signs of a Tidal Disruption of a WD by an IMBH?|0
+2015eheu.conf...33D|Dai, X|Microlensing Constraints on Quasar Emission Regions: Athena's Perspective|0
+2015eheu.conf...34P|Ptak, A|Athena X-IFU Starburst Simulations|0
+2015eheu.conf...35E|Ezoe, Y;Branduardi-Raymont, G;Guedel, M;Sciortino, S;Topical Panel SW3. 1: Solar System,;Exoplanets,|Solar System and Exoplanets|0
+2015eheu.conf...39B|Bozzo, E;Athena SWG3. 3,|End Points of Stellar Evolution|0
+2015eheu.conf...40P|Palumbo, G|From Xeus to Athena|0
+2015eheu.conf...42N|Nipoti, C;Posti, L;Ettori, S;Bianconi, M|Magnetorotational instability in galaxy clusters: looking forward to ATHENA|0
+2015eheu.conf...44R|Randall, S;Nulsen, P;Jones, C;Forman, W;Clarke, T|Unravelling ICM Physics and AGN Feedback with Deep Chandra Observations of NGC 5813|0
+2015eheu.conf...45S|Sasaki, M;Saeedi, S;Ducci, L|Study of the X-ray Source Population and the Dark Matter Halo in Dwarf Spheroidal Galaxiess|0
+2015eheu.conf...46L|Lanzuisi, G;Cosmos Collaboration|Compton Thick AGN in the COSMOS field|0
+2015eheu.conf...47M|Messias, H;Afonso, J;Salvato, M;Mobasher, B;Hopkins, A|The infrared as a means to identify extremely obscured active galactic nuclei|0
+2015eheu.conf...48V|Vito, F;Lanzuisi, G;Comastri, A;Athena SWG2. 1,|A trade-off study of the WFI field of view|0
+2015eheu.conf...49Z|Zappacosta, L;Fiore, F;Piconcelli, E;Martocchia, S|The WISSH survey: X-raying the most luminous QSOs in the universe|0
+2015eheu.conf...50Z|Zubovas, K|The complex evolution of AGN outflows: Challenges of simulating and interpreting observations of AGN activity|0
+2015eheu.conf...51D|De Marco, B;Dovciak, M;Matt, G;Miniutti, G|X-ray Reverberation with Athena|0
+2015eheu.conf...53V|Varniere, P;Mignon-Risse, R|Impact of Quasi-Periodic Oscillations on the energy spectrum|0
+2015eheu.conf...56C|Chang, H;Liu, C;Shang, J|Search for serendipitous TNO occultation events in X-rays with Athena|0
+2015eheu.conf...59G|Guillot, S;Oezel, F|Constraining the Dense Matter Equation of State with ATHENA-WFI observations of Neutron Stars in Quiescent LMXBs|0
+2015eheu.conf...60K|Kargaltsev, O;Klingler, N;Rangelov, B;Pavlov, G|X-ray view of pulsar wind nebulae: What we can learn with Athena?|2
+2015eheu.conf...61P|Posselt, B;Pavlov, G|Isolated neutron stars as seen by Athena|0
+2015eheu.conf...62K|Kavanagh, P;Sasaki, M;Maggi, P;Haberl, F|Evolved Fe-rich supernova remnants in the Large Magellanic Cloud with Athena|0
+2015eheu.conf...63M|Micelotta, E;Dwek, E;Slavin, J|Connecting the high- and low-energy Universe: dust processing inside Supernova Remnants|0
+2015eheu.conf...65P|Plucinsky, P;Foster, A;Gaetz, T;Jerius, D;Patnaude, D;Edgar, R;Smith, R;Blair, W|N132D: Chandra and XMM-Newton X-ray Imaging and Spectral Analysis|1
+2015eheu.conf...67B|Basu-Zych, A;Hornschemeier, A;Lehmer, B;Ptak, A;Yukita, M|Catching a glimpse of the X-ray emission from galaxies in the early Universe by studying nearby low-metallicity galaxies|1
+2015eheu.conf...69C|Ceballos, M;Cobo, B;Peille, P;Wilms, J;Brand, T;Dauser, T;Bandler, S;Smith, S|Athena X-IFU event reconstruction software: SIRENA|0
+2015eheu.conf...70D|Dauser, T;Brand, T;Wilms, J;Peille, P;Bandler, S;Cobo, B;Ceballos, M;den Hartog, R;Meidinger, N;de Plaa, J;Rau, A;Smith, S;Smith, R|Bright Source Capabilities of the Athena WFI and X-IFU Instrument|0
+2015eheu.conf...71K|Kirsch, M;Symonds, K|Athena mission operations concept with a special view on ToO|0
+2015eheu.conf...72M|Macculi, C;Gatti, F;Lotti, S;Argan, A;Laurenza, M;D'Andrea, M;Torrioli, G;Biasotti, M;Corsini, D;Orlando, A;Mineo, T;D'Ai, A;Molendi, S;Gastaldello, F;Bulgarelli, A;Fioretti, V;Jacquey, C;Laurent, P|The reduction techniques of the particle background for the ATHENA X-IFU instrument at L2 orbit: Geant4 and the CryoAC|0
+2015eheu.conf...73P|Peille, P;Wilms, J;Brand, T;Cobo, B;Ceballos, M;Dauser, T;Smith, S;Barret, D;den Herder, J;Piro, L;Barcons, X;Pointecouteau, E;Bandler, S;den Hartog, R;de Plaa, J|The X-IFU end-to-end simulations performed for the TES array optimization exercise|0
+2015eheu.conf...74P|Piro, L;Natalucci, L;Ahead Consortium,|AHEAD: Integrated Activities in the High Energy Astrophysics Domain|3
+2015eheu.conf...76W|Wilkins, D|Seeing to the Event Horizon: Probing Accretion Physics with X-ray Reflection|0
+2015hsa8.conf..865C|Ceballos, M;Cobos, B;van der Kuurs, J;Fraga-Encinas, R|Event processing in X-IFU detector onboard Athena.|0
+2015xrvw.confE..21R|Reynolds, C|AGN Feedback in the X-ray Surveyor Era|0
+2014APS..APR.B4001B|Bogdanov, S|Measurement of Neutron Star Radii with X-ray Binaries and Recycled Pulsars|0
+2014APS..APRB14002C|Coy, C|Properties of Quantum-Dot-Doped Liquid Scintillators|0
+2014HEAD...1411012H|Hornschemeier, A;Basu-Zych, A;Yukita, M;Mineo, S;Lehmer, B;Ptak, A;Fragos, T;Zezas, A|What's important at z&gt;5? X-ray Emission from Starbursts!|0
+2014HEAD...1411616O|O'Brien, P;Jonker, P|The Athena X-ray Observatory: observing luminous extragalactic transients|0
+2014HEAD...1430101N|Nandra, K|Athena: Exploring the Hot and Energetic Universe|1
+2014SPIE.9144E..0RD|de Vries, C;den Herder, J;Gonzalez-Riestra, R;Gabriel, C;Kaastra, J;Raassen, A;Paerels, F;Pollock, A;Ibarra, I|Fifteen years of experience with the Reflection Grating Spectrometer on XMM-Newton|2
+2014SPIE.9144E..11B|Bahr, A;Aschauer, S;Bergbauer, B;Lechner, P;Majewski, P;Meidinger, N;Ott, S;Porro, M;Richter, R;Struder, L;Treis, J|Development of DEPFET active pixel sensors to improve the spectroscopic response for high time resolution applications|4
+2014SPIE.9144E..16C|Civitani, M;Basso, S;Ghigo, M;Pareschi, G;Salmaso, B;Spiga, D;Tagliaferri, G;Vecchi, G;Burwitz, V;Hartner, G;Menz, B|X-ray optical units made of glass: achievements and perspectives|6
+2014SPIE.9144E..2EW|Willingale, R;Pareschi, G;Christensen, F;den Herder, J;Ferreira, D;Jakobsen, A;Ackermann, M;Collon, M;Bavdaz, M|Science requirements and optimization of the silicon pore optics design for the Athena mirror|4
+2014SPIE.9144E..2GC|Collon, M;Ackermann, M;Gunther, R;Chatbi, A;Vacanti, G;Vervest, M;Yanson, A;Beijersbergen, M;Bavdaz, M;Wille, E;Haneveld, J;Olde Riekerink, M;Koelewijn, A;van Baren, C;Muller, P;Krumrey, M;Burwitz, V;Sironi, G;Ghigo, M|Making the ATHENA optics using silicon pore optics|5
+2014SPIE.9144E..2JM|Meidinger, N;Nandra, K;Plattner, M;Porro, M;Rau, A;Santangelo, A;Tenzer, C;Wilms, J|The wide field imager instrument for Athena|4
+2014SPIE.9144E..2KA|Aschauer, S;Bahr, A;Lutz, G;Majewski, P;Struder, L;Treis, J|Prospects and limitations of DEPFET active pixel sensors as high speed spectroscopic x-ray imager for the ATHENA wide field imager|0
+2014SPIE.9144E..2LR|Ravera, L;Barret, D;den Herder, J;Piro, L;Cledassou, R;Pointecouteau, E;Peille, P;Pajot, F;Arnaud, M;Pigot, C;Duband, L;Cara, C;den Hartog, R;Gottardi, L;Akamatsu, H;van der Kuur, J;van Weers, H;de Plaa, J;Macculi, C;Lotti, S;Torrioli, G;Gatti, F;Valenziano, L;Barbera, M;Barcons, X;Ceballos, M;Fabrega, L;Mas-Hesse, J;Page, M;Guttridge, P;Willingale, R;Paltani, S;Genolet, L;Bozzo, E;Rauw, G;Renotte, E;Wilms, J;Schmid, C|The X-ray Integral Field Unit (X-IFU) for Athena|24
+2014SPIE.9144E..2MG|Gottardi, L;Akamatsu, H;Barret, D;Bruijn, M;den Hartog, R;den Herder, J;Hoevers, H;Kiviranta, M;van der Kuur, J;van der Linden, A;Jackson, B;Jambunathan, M;Ridder, M|Development of TES-based detectors array for the X-ray Integral Field Unit (X-IFU) on the future x-ray observatory ATHENA|4
+2014SPIE.9144E..2OL|Lotti, S;Macculi, C;Cea, D;Mineo, T;Perinati, E;Natalucci, L;Piro, L|Background simulations for the ATHENA X-IFU instrument: impact on the instrumental design|2
+2014SPIE.9144E..48P|Proserpio, L;Dohring, T;Breunig, E;Friedrich, P;Winter, A|Industrialization scenario for X-ray telescopes production based on glass slumping|1
+2014SPIE.9144E..4CB|Basso, S;Buratti, E;Civitani, M;Pareschi, G;Salmaso, B;Spiga, D;Ghigo, M;Tagliaferri, G;Eder, J|A high resolution large x-ray mission based on thin glass: optomechanical design|6
+2014SPIE.9144E..4YS|Smith, R;Ackermann, M;Allured, R;Bautz, M;Bregman, J;Bookbinder, J;Burrows, D;Brenneman, L;Brickhouse, N;Cheimets, P;Carrier, A;Freeman, M;Kaastra, J;McEntaffer, R;Miller, J;Ptak, A;Petre, R;Vacanti, G|Arcus: an ISS-attached high-resolution x-ray grating spectrometer|3
+2014SPIE.9144E..5IS|Spiga, D;Pelliciari, C;Bonnini, E;Buffagni, E;Ferrari, C;Pareschi, G;Tagliaferri, G|An expanded x-ray beam facility (BEaTriX) to test the modular elements of the ATHENA optics|3
+2014SPIE.9144E..5JM|Menz, B;Brauninger, H;Burwitz, V;Hartner, G;Predehl, P|Studying ATHENA optics with divergent and collimated x-ray beams|3
+2014SPIE.9144E..5LP|Proserpio, L;Breunig, E;Friedrich, P;Winter, A|Optical design for ATHENA X-ray telescope based on slumped mirror segments|1
+2014SPIE.9144E..5NP|Porro, M;Bianchi, D;De Vita, G;Herrmann, S;Wassatsch, A;Bahr, A;Bergbauer, B;Meidinger, N;Ott, S;Treis, J|VERITAS 2.0 a multi-channel readout ASIC suitable for the DEPFET arrays of the WFI for Athena|10
+2014SPIE.9144E..5PF|Fabrega, L;Camon, A;Costa-Kramer, J;Pobes, C;Parra-Borderias, M;Fernandez-Martinez, I;Jaudenes, R;Cereceda, P;Ceballos, M;Barcons, X;Sese, J;Martin-Pintado, J;Gottardi, L;Bruijn, M;Jambunathan, M;den Hartog, R;van der Kuur, J;den Herder, J;Barret, D|Towards Mo/Au based TES detectors for Athena/X-IFU|0
+2014SPIE.9144E..5QD|den Hartog, R;Barret, D;Gottardi, L;den Herder, J;Jackson, B;de Korte, P;van der Kuur, J;van Leeuwen, B;van Loon, D;Nieuwenhuizen, A;Ravera, L|Requirements for the detectors and read-out of ATHENA X-IFU|5
+2014SPIE.9144E..5RV|van Weers, H;den Herder, J;Jackson, B;Kooijman, P;Bruineman, C;Ravensberg, K;Bruijn, M;Rangarajan, B;van der Linden, A;Ridder, M;Leeman, M;van Leeuwen, B;Gotink, A;Kwast, S;van der Velde, T;Diesveld, J;Werner, C;Hamelinck, R|TES-detector based focal plane assembly key-technology developments for ATHENA and SAFARI|3
+2014SPIE.9144E..5SM|Macculi, C;Piro, L;Cea, D;Colasanti, L;Lotti, S;Natalucci, L;Gatti, F;Bagliani, D;Biasotti, M;Corsini, D;Pizzigoni, G;Torrioli, G;Barbera, M;Mineo, T;Perinati, E|The Cryogenic AntiCoincidence detector for ATHENA: the progress towards the final pixel design|3
+2014SPIE.9144E..5TR|Ravera, L;Cara, C;Ceballos, M;Barcons, X;Barret, D;Cledassou, R;Clenet, A;Cobo, B;Doumayrou, E;den Hartog, R;van Leeuwen, B;van Loon, D;Mas-Hesse, J;Pigot, C;Pointecouteau, E|The DRE: the digital readout electronics for ATHENA X-IFU|4
+2014SPIE.9144E..5UB|Barbera, M;Collura, A;Gatti, F;Lo Cicero, U;Macculi, C;Piro, L;Renotte, E;Sciortino, S|Baseline design of the thermal blocking filters for the X-IFU detector on board ATHENA|8
+2014SPIE.9144E..5VB|Branco, M;Charles, I;Butterworth, J|ATHENA X-IFU detector cooling chain|3
+2014SPIE.9144E..5WD|Duband, L;Charles, I;Duval, J|Coolers development for the ATHENA X-IFU cryogenic chain|2
+2014SPIE.9144E..5XW|Wilms, J;Brand, T;Barret, D;Beuchert, T;den Herder, J;Kreykenbohm, I;Lotti, S;Meidinger, N;Nandra, K;Peille, P;Piro, L;Rau, A;Schmid, C;Smith, R;Tenzer, C;Wille, M;Willingale, R|ATHENA end-to-end simulations|10
+2014SPIE.9144E..5YP|Perinati, E;Santangelo, A;Tenzer, C|Background studies for ATHENA: towards a new assessment phase|1
+2014apra.prop...37F|Falcone, A|Novel Hybrid CMOS X-ray Detector Developments for Future Large Area and High Resolution X-ray Astronomy Missions|0
+2014apra.prop...80P|Porter, F|High Energy Laboratory Astrophysics using an X-Ray Microcalorimeter with an Electron Beam Ion Trap|0
+2014bhns.work..209S|Svoboda, J;Dovciak, M;Karas, V;Goosmann, R|Modelling steep radial emissivity in relativistic iron lines from black-hole accretion discs|0
+2014cosp...40E.452C|Cappelluti, N;Comastri, A;Aird, J|The formation and growth of the earliest supermassive black holes|0
+2014cosp...40E.460C|Carrera, F|Understanding the build-up of supermassive black holes and galaxies at the heyday of the Universe|0
+2014cosp...40E.819E|Ettori, S|The Astrophysics of galaxy groups and clusters with Athena|0
+2014cosp...40E.825F|Fabian, A|The Science of the Hot Energetic Universe with Athena|0
+2014cosp...40E1386K|Kara, E|The close environments of supermassive black holes with Athena|0
+2014cosp...40E2392O|Oskinova, L;Sciortino, S;Rauw, G|Star formation and evolution in The Hot and Energetic Universe|0
+2014cosp...40E2443P|Pareschi, G|Optics for Athena|0
+2014cosp...40E2556P|Piro, L;Barret, D;Den herder, J|The X-Ray Integral Field Unit and the Athena mission|0
+2014cosp...40E2707R|Rau, A|The Wide Field Imager for the Athena X-ray Observatory|0
+2014cosp...40E2718R|Reiprich, T|Revolutions in Galaxy Cluster Science: Astro-H/eROSITA Synergy and Athena Outlook|0
+2014cosp...40E2719R|Reiprich, T;Pointecouteau, E|Studying the Evolution of Galaxy Groups and Clusters with Athena|0
+2014cosp...40E2764R|Rodriguez, J;Motch, C;Wilms, J|The Athena view of the end point of stellar evolution|0
+2014cosp...40E2864S|Sanders, J;Croston, J|Observing AGN Feedback in Galaxy Clusters and Groups with Athena|0
+2014cosp...40E3146S|Smith, R|High-Resolution X-ray Spectroscopy with a Grating Spectrometer Explorer on the ISS|0
+2014cosp...40E3335T|Tiengo, A;Decourchelle, A;Costantini, E|The diffuse gas in galaxies: supernova remnants and the interstellar medium|0
+2014fysc.confP..61S|Smith, R|Arcus: The next generation of high-resolution X-ray grating spectra|0
+2014xru..confE...2B|Barret, D;den Herder, J;Piro, L;X-IFU Consortium,|The X-ray Integral Field Unit of the Athena X-ray Observatory|0
+2014xru..confE..10N|Nandra, P|The Athena mission|0
+2014xru..confE..22R|Reynolds, C|Relativistic Astrophysics in Active Galactic Nuclei|0
+2014xru..confE..39B|Bianchi, S|A new cosmological distance measure using AGN X-ray variability|0
+2014xru..confE..45C|Carrera, F;Georgakakis, A;Akylas, T;Georgantopoulos, I;Comastri, A;Aird, J;Barcons, X|Completing the census of heavily obscured AGN with Athena|0
+2014xru..confE..78G|Gaspari, M;Churazov, E;Zhuravleva, I;Lau, E;Nagai, D|The ICM power spectrum: probing the gas physics of galaxy clusters|0
+2014xru..confE.167R|Rau, A|The Wide Field Imager for the Athena X-ray Observatory|0
+2014xru..confE.229B|Biffi, V|The X-ray view of high-redshift clusters: ICM and AGN contribution|0
+2014xru..confE.235C|Cappelluti, N|Signature of Early Black holes in Cosmic Backgrounds|0
+2014xru..confE.244D|Dovciak, M;De Marco, B;Kara, E;Matt, G;Karas, V;Miniutti, G;Alston, W|Reverberation mapping in the lamp-post geometry of the compact corona illuminating a black-hole accretion disc in AGN|1
+2014xru..confE.326T|Traulsen, I;Schwope, A|CV Science with Athena: A case study of AM Herculis|0
+2013AGUFMSM53D2256R|Romeo, G;Barnes, R;Weiss, M;Fox, N;Mauk, B;Potter, M;Kessel, R|Space Weather data processing and Science Gateway for the Van Allen Probes|0
+2013APS..APRB10009J|Johannsen, T|Testing the No-Hair Theorem with Observations of Black Holes in the Electromagnetic Spectrum|0
+2013ASPC..475...25C|Ceballos, M;Cobo, B;Fraga-Encinas, R;van der Kuur, J;Schuurmans, J;Gottardi, L|Data Flow Design for Event Detection and Qualification in TES X-Ray Detectors|3
+2013MmSAI..84..512B|Bleeker, J;Verbunt, F|From zone plate to microcalorimeter . 50 years of cosmic X-ray spectroscopy at SRON|0
+2013apra.prop...91B|Brejnholt, N|Measuring optical constants of multilayer materials for current and future hard X-ray space telescopes|0
+2013arXiv1306.2307N|Nandra, K;Barret, D;Barcons, X;Fabian, A;den Herder, J;Piro, L;Watson, M;Adami, C;Aird, J;Afonso, J;Alexander, D;Argiroffi, C;Amati, L;Arnaud, M;Atteia, J;Audard, M;Badenes, C;Ballet, J;Ballo, L;Bamba, A;Bhardwaj, A;Stefano Battistelli, E;Becker, W;De Becker, M;Behar, E;Bianchi, S;Biffi, V;Birzan, L;Bocchino, F;Bogdanov, S;Boirin, L;Boller, T;Borgani, S;Borm, K;Bouche, N;Bourdin, H;Bower, R;Braito, V;Branchini, E;Branduardi-Raymont, G;Bregman, J;Brenneman, L;Brightman, M;Bruggen, M;Buchner, J;Bulbul, E;Brusa, M;Bursa, M;Caccianiga, A;Cackett, E;Campana, S;Cappelluti, N;Cappi, M;Carrera, F;Ceballos, M;Christensen, F;Chu, Y;Churazov, E;Clerc, N;Corbel, S;Corral, A;Comastri, A;Costantini, E;Croston, J;Dadina, M;D'Ai, A;Decourchelle, A;Della Ceca, R;Dennerl, K;Dolag, K;Done, C;Dovciak, M;Drake, J;Eckert, D;Edge, A;Ettori, S;Ezoe, Y;Feigelson, E;Fender, R;Feruglio, C;Finoguenov, A;Fiore, F;Galeazzi, M;Gallagher, S;Gandhi, P;Gaspari, M;Gastaldello, F;Georgakakis, A;Georgantopoulos, I;Gilfanov, M;Gitti, M;Gladstone, R;Goosmann, R;Gosset, E;Grosso, N;Guedel, M;Guerrero, M;Haberl, F;Hardcastle, M;Heinz, S;Alonso Herrero, A;Herve, A;Holmstrom, M;Iwasawa, K;Jonker, P;Kaastra, J;Kara, E;Karas, V;Kastner, J;King, A;Kosenko, D;Koutroumpa, D;Kraft, R;Kreykenbohm, I;Lallement, R;Lanzuisi, G;Lee, J;Lemoine-Goumard, M;Lobban, A;Lodato, G;Lovisari, L;Lotti, S;McCharthy, I;McNamara, B;Maggio, A;Maiolino, R;De Marco, B;de Martino, D;Mateos, S;Matt, G;Maughan, B;Mazzotta, P;Mendez, M;Merloni, A;Micela, G;Miceli, M;Mignani, R;Miller, J;Miniutti, G;Molendi, S;Montez, R;Moretti, A;Motch, C;Naze, Y;Nevalainen, J;Nicastro, F;Nulsen, P;Ohashi, T;O'Brien, P;Osborne, J;Oskinova, L;Pacaud, F;Paerels, F;Page, M;Papadakis, I;Pareschi, G;Petre, R;Petrucci, P;Piconcelli, E;Pillitteri, I;Pinto, C;de Plaa, J;Pointecouteau, E;Ponman, T;Ponti, G;Porquet, D;Pounds, K;Pratt, G;Predehl, P;Proga, D;Psaltis, D;Rafferty, D;Ramos-Ceja, M;Ranalli, P;Rasia, E;Rau, A;Rauw, G;Rea, N;Read, A;Reeves, J;Reiprich, T;Renaud, M;Reynolds, C;Risaliti, G;Rodriguez, J;Rodriguez Hidalgo, P;Roncarelli, M;Rosario, D;Rossetti, M;Rozanska, A;Rovilos, E;Salvaterra, R;Salvato, M;Di Salvo, T;Sanders, J;Sanz-Forcada, J;Schawinski, K;Schaye, J;Schwope, A;Sciortino, S;Severgnini, P;Shankar, F;Sijacki, D;Sim, S;Schmid, C;Smith, R;Steiner, A;Stelzer, B;Stewart, G;Strohmayer, T;Struder, L;Sun, M;Takei, Y;Tatischeff, V;Tiengo, A;Tombesi, F;Trinchieri, G;Tsuru, T;Ud-Doula, A;Ursino, E;Valencic, L;Vanzella, E;Vaughan, S;Vignali, C;Vink, J;Vito, F;Volonteri, M;Wang, D;Webb, N;Willingale, R;Wilms, J;Wise, M;Worrall, D;Young, A;Zampieri, L;In't Zand, J;Zane, S;Zezas, A;Zhang, Y;Zhuravleva, I|The Hot and Energetic Universe: A White Paper presenting the science theme motivating the Athena+ mission|347
+2013arXiv1306.2319P|Pointecouteau, E;Reiprich, T;Adami, C;Arnaud, M;Biffi, V;Borgani, S;Borm, K;Bourdin, H;Brueggen, M;Bulbul, E;Clerc, N;Croston, J;Dolag, K;Ettori, S;Finoguenov, A;Kaastra, J;Lovisari, L;Maughan, B;Mazzotta, P;Pacaud, F;de Plaa, J;Pratt, G;Ramos-Ceja, M;Rasia, E;Sanders, J;Zhang, Y;Allen, S;Boehringer, H;Brunetti, G;Elbaz, D;Fassbender, R;Hoekstra, H;Hildebrandt, H;Lamer, G;Marrone, D;Mohr, J;Molendi, S;Nevalainen, J;Ohashi, T;Ota, N;Pierre, M;Romer, K;Schindler, S;Schrabback, T;Schwope, A;Smith, R;Springel, V;von der Linden, A|The Hot and Energetic Universe: The evolution of galaxy groups and clusters|22
+2013arXiv1306.2322E|Ettori, S;Pratt, G;de Plaa, J;Eckert, D;Nevalainen, J;Battistelli, E;Borgani, S;Croston, J;Finoguenov, A;Kaastra, J;Gaspari, M;Gastaldello, F;Gitti, M;Molendi, S;Pointecouteau, E;Ponman, T;Reiprich, T;Roncarelli, M;Rossetti, M;Sanders, J;Sun, M;Trinchieri, G;Vazza, F;Arnaud, M;Boringher, H;Brighenti, F;Dahle, H;De Grandi, S;Mohr, J;Moretti, A;Schindler, S|The Hot and Energetic Universe: The astrophysics of galaxy groups and clusters|30
+2013arXiv1306.2323C|Croston, J;Sanders, J;Heinz, S;Hardcastle, M;Zhuravleva, I;Birzan, L;Bower, R;Bruggen, M;Churazov, E;Edge, A;Ettori, S;Fabian, A;Finoguenov, A;Kaastra, J;Gaspari, M;Gitti, M;Nulsen, P;McNamara, B;Pointecouteau, E;Ponman, T;Pratt, G;Rafferty, D;Reiprich, T;Sijacki, D;Worrall, D;Kraft, R;McCarthy, I;Wise, M|The Hot and Energetic Universe: AGN feedback in galaxy clusters and groups|12
+2013arXiv1306.2324K|Kaastra, J;Finoguenov, A;Nicastro, F;Branchini, E;Schaye, J;Cappelluti, N;Nevalainen, J;Barcons, X;Bregman, J;Croston, J;Dolag, K;Ettori, S;Galeazzi, M;Ohashi, T;Piro, L;Pointecouteau, E;Pratt, G;Reiprich, T;Roncarelli, M;Sanders, J;Takei, Y;Ursino, E|The Hot and Energetic Universe: The missing baryons and the warm-hot intergalactic medium|15
+2013arXiv1306.2325A|Aird, J;Comastri, A;Brusa, M;Cappelluti, N;Moretti, A;Vanzella, E;Volonteri, M;Alexander, D;Afonso, J;Fiore, F;Georgantopoulos, I;Iwasawa, K;Merloni, A;Nandra, K;Salvaterra, R;Salvato, M;Severgnini, P;Schawinski, K;Shankar, F;Vignali, C;Vito, F|The Hot and Energetic Universe: The formation and growth of the earliest supermassive black holes|35
+2013arXiv1306.2328G|Georgakakis, A;Carrera, F;Lanzuisi, G;Brightman, M;Buchner, J;Aird, J;Page, M;Cappi, M;Afonso, J;Alonso-Herrero, A;Ballo, L;Barcons, X;Ceballos, M;Comastri, A;Georgantopoulos, I;Mateos, S;Nandra, K;Rosario, D;Salvato, M;Schawinski, K;Severgnini, P;Vignali, C|The Hot and Energetic Universe: Understanding the build-up of supermassive black holes and galaxies at the heyday of the Universe|16
+2013arXiv1306.2330C|Cappi, M;Done, C;Behar, E;Bianchi, S;Braito, V;Costantini, E;Dadina, M;Feruglio, C;Fiore, F;Gallagher, S;Gandhi, P;Grosso, N;Kaastra, J;King, A;Lobban, A;Maiolino, R;Piconcelli, E;Ponti, G;Porquet, D;Pounds, K;Proga, D;Ranalli, P;Reeves, J;Risaliti, G;Rodriguez Hidalgo, P;Rovilos, E;Sim, S;Stewart, G;Tombesi, F;Tsuru, T;Vaughan, S;Wang, D;Worrall, D|The Hot and Energetic Universe: Astrophysics of feedback in local AGN|13
+2013arXiv1306.2331D|Dovciak, M;Matt, G;Bianchi, S;Boller, T;Brenneman, L;Bursa, M;D'Ai, A;di Salvo, T;de Marco, B;Goosmann, R;Karas, V;Iwasawa, K;Kara, E;Miller, J;Miniutti, G;Papadakis, I;Petrucci, P;Ponti, G;Porquet, D;Reynolds, C;Risaliti, G;Rozanska, A;Zampieri, L;Zezas, A;Young, A|The Hot and Energetic Universe: The close environments of supermassive black holes|17
+2013arXiv1306.2334M|Motch, C;Wilms, J;Barret, D;Becker, W;Bogdanov, S;Boirin, L;Corbel, S;Cackett, E;Campana, S;de Martino, D;Haberl, F;in't Zand, J;Mendez, M;Mignani, R;Miller, J;Orio, M;Psaltis, D;Rea, N;Rodriguez, J;Rozanska, A;Schwope, A;Steiner, A;Webb, N;Zampieri, L;Zane, S|The Hot and Energetic Universe: End points of stellar evolution|29
+2013arXiv1306.2335D|Decourchelle, A;Costantini, E;Badenes, C;Ballet, J;Bamba, A;Bocchino, F;Kaastra, J;Kosenko, D;Lallement, R;Lee, J;Lemoine-Goumard, M;Miceli, M;Paerels, F;Petre, R;Pinto, C;Plucinsky, P;Renaud, M;Sasaki, M;Smith, R;Tatischeff, V;Tiengo, A;Valencic, L;Vink, J;Wang, D;Wilms, J|The Hot and Energetic Universe: The astrophysics of supernova remnants and the interstellar medium|12
+2013arXiv1306.2336J|Jonker, P;O'Brien, P;Amati, L;Atteia, J;Campana, S;Evans, P;Fender, R;Kouveliotou, C;Lodato, G;Osborne, J;Piro, L;Rau, A;Tanvir, N;Willingale, R|The Hot and Energetic Universe: Luminous extragalactic transients|10
+2013arXiv1307.1103W|Weber, F;Orsaria, M;Negreiros, R|Impact of Rotation on the Structure and Composition of Neutron Stars|8
+2013arXiv1307.1709W|Willingale, R;Pareschi, G;Christensen, F;den Herder, J|The Hot and Energetic Universe: The Optical Design of the Athena+ Mirror|24
+2013arXiv1308.6784B|Barret, D;den Herder, J;Piro, L;Ravera, L;Den Hartog, R;Macculi, C;Barcons, X;Page, M;Paltani, S;Rauw, G;Wilms, J;Ceballos, M;Duband, L;Gottardi, L;Lotti, S;de Plaa, J;Pointecouteau, E;Schmid, C;Akamatsu, H;Bagliani, D;Bandler, S;Barbera, M;Bastia, P;Biasotti, M;Branco, M;Camon, A;Cara, C;Cobo, B;Colasanti, L;Costa-Kramer, J;Corcione, L;Doriese, W;Duval, J;Fabrega, L;Gatti, F;de Gerone, M;Guttridge, P;Kelley, R;Kilbourne, C;van der Kuur, J;Mineo, T;Mitsuda, K;Natalucci, L;Ohashi, T;Peille, P;Perinati, E;Pigot, C;Pizzigoni, G;Pobes, C;Porter, F;Renotte, E;Sauvageot, J;Sciortino, S;Torrioli, G;Valenziano, L;Willingale, D;de Vries, C;van Weers, H|The Hot and Energetic Universe: The X-ray Integral Field Unit (X-IFU) for Athena+|35
+2013arXiv1308.6785R|Rau, A;Meidinger, N;Nandra, K;Porro, M;Barret, D;Santangelo, A;Schmid, C;Struder, L;Tenzer, C;Wilms, J;Amoros, C;Andritschke, R;Aschauer, F;Bahr, A;Gunther, B;Furmetz, M;Ott, B;Perinati, E;Rambaud, D;Reiffers, J;Treis, J;von Kienlin, A;Weidenspointner, G|The Hot and Energetic Universe: The Wide Field Imager (WFI) for Athena+|32
+2013eipq.book..293B|Boller, T;Muller, A|Astronomical Tests of General Relativity and the Pseudo-Complex Theory|1
+2013fdeh.confE..37F|Fabian, A|Athena+|0
+2013hsa7.conf..945F|Fraga-Encinas, R;Cobo, B;Ceballos, M;Schuurmans, J;van der Kuur, J;Carrera, F;Barcons, X|TES-based microcalorimeter for future X-ray astronomy missions. Software development for instrument calibration|0
+2013sf2a.conf..447B|Barret, D;Nandra, K;Barcons, X;Fabian, A;den Herder, J;Piro, L;Watson, M;Aird, J;Branduardi-Raymont, G;Cappi, M;Carrera, F;Comastri, A;Costantini, E;Croston, J;Decourchelle, A;Done, C;Dovciak, M;Ettori, S;Finoguenov, A;Georgakakis, A;Jonker, P;Kaastra, J;Matt, G;Motch, C;O'Brien, P;Pareschi, G;Pointecouteau, E;Pratt, G;Rauw, G;Reiprich, T;Sanders, J;Sciortino, S;Willingale, R;Wilms, J|Athena+: The first Deep Universe X-ray Observatory|22
+2012AAS...21921805C|Chakrabarty, D|Future Opportunities for X-ray Timing After RXTE|0
+2012AGUFMSM41A2186W|Weiss, M;Fox, N;Mauk, B;Barnes, R;Potter, M;Romeo, G;Smith, D|RBSP Space Weather data|0
+2012IAUS..285..159W|White, N|Next-Generation X-Ray Astronomy|0
+2012SPIE.8443E..0RG|Ghigo, M;Basso, S;Borsa, F;Citterio, O;Civitani, M;Conconi, P;Pagano, G;Pareschi, G;Proserpio, L;Salmaso, B;Sironi, G;Spiga, D;Tagliaferri, G;Zambra, A;Parodi, G;Martelli, F;Gallieni, D;Tintori, M;Bavdaz, M;Wille, E|Development of high angular resolution x-ray telescopes based on slumped glass foils|9
+2012SPIE.8443E..28R|Rando, N;Martin, D;Lumb, D;Verhoeve, P;Oosterbroek, T;Bavdaz, M;Fransen, S;Linder, M;Peyrou-Lauga, R;Voirin, T;Braghin, M;Mangunsong, S;van Pelt, M;Wille, E|Status of the ESA L1 mission candidate ATHENA|4
+2012SPIE.8443E..29B|Bavdaz, M;Wille, E;Wallace, K;Shortt, B;Collon, M;Ackermann, M;Olde Riekerink, M;Haneveld, J;van Baren, C;Erhard, M;Christensen, F;Krumrey, M;Burwitz, V|Silicon pore optics developments and status|2
+2012SPIE.8443E..2AM|Martin, D;Rando, N;Lumb, D;Verhoeve, P;Oosterbroek, T;Bavdaz, M|Reference payload of the ESA L1 mission candidate ATHENA|1
+2012SPIE.8443E..2BD|den Herder, J;Bagnali, D;Bandler, S;Barbera, M;Barcons, X;Barret, D;Bastia, P;Bisotti, M;Boyce, K;Cara, C;Ceballos, M;Corcione, L;Cobo, B;Colasanti, L;de Plaa, J;DiPirro, M;Doriese, W;Ezoe, Y;Fujimoto, R;Gatti, F;Gottardi, L;Guttridge, P;den Hartog, R;Hepburn, I;Kelley, R;Irwin, K;Ishisaki, Y;Kilbourne, C;de Korte, P;van der Kuur, J;Lotti, S;Macculi, C;Mitsuda, K;Mineo, T;Natalucci, L;Ohashi, T;Page, M;Paltani, S;Perinati, E;Piro, L;Pigot, C;Porter, F;Rauw, G;Ravera, L;Renotte, E;Sauvageot, J;Schmid, C;Sciortino, S;Shirron, P;Takei, Y;Torrioli, G;Tsujimoto, M;Valenziano, L;Willingale, D;de Vries, C;van Weers, H;Wilms, J;Yamasaki, N|The x-ray microcalorimeter spectrometer onboard Athena|12
+2012SPIE.8443E..2JP|Perinati, E;Tenzer, C;Santangelo, A;Dennerl, K;Freyberg, M|Nuclear spallation by solar proton events and cosmic rays in the eROSITA and ATHENA focal plane configurations|0
+2012SPIE.8443E..5EF|Ferreira, D;Jakobsen, A;Christensen, F;Shortt, B;Krumrey, M;Garnaes, J;Simonsen, R|Development and characterization of coatings on silicon pore optics substrates for the ATHENA Mission|8
+2012SPIE.8443E..5GM|Macculi, C;Piro, L;Colasanti, L;Lotti, S;Natalucci, L;Bagliani, D;Biasotti, M;Gatti, F;Torrioli, G;Chiarucci, S;Barbera, M;Mineo, T;Perinati, E|The cryogenic anticoincidence detector for ATHENA-XMS: preliminary results from the new prototype|5
+2012SPIE.8443E..5HL|Lotti, S;Perinati, E;Natalucci, L;Piro, L;Mineo, T;Colasanti, L;Macculi, C;Federici, M;Martino, B|An efficient method for reducing the background of microcalorimeters applied to ATHENA-XMS|6
+2012SPIE.8443E..5JH|Hauf, S;Kuster, M;Hoffmann, D;Lang, P;Neff, S;Pia, M;Struder, L|Background simulations for the wide field imager aboard the ATHENA X-ray Observatory|1
+2012SPIE.8443E..5LF|Ferreira, D;Christensen, F;Jakobsen, A;Westergaard, N;Shortt, B|ATHENA optimized coating design|8
+2012adap.prop...58B|Brenneman, L|Shedding New Light on the Innermost Regions of AGN with XMM, Suzaku and NuSTAR|0
+2012arXiv1207.2745B|Barcons, X;Barret, D;Decourchelle, A;den Herder, J;Dotani, T;Fabian, A;Fraga-Encinas, R;Kunieda, H;Lumb, D;Matt, G;Nandra, K;Piro, L;Rando, N;Sciortino, S;Smith, R;Struder, L;Watson, M;White, N;Willingale, R|Athena (Advanced Telescope for High ENergy Astrophysics) Assessment Study Report for ESA Cosmic Vision 2015-2025|30
+2012cosp...39..248B|Brenneman, L;Miller, J;Fabian, A;Nowak, M;Reynolds, C;Reis, R|Measuring Black Hole Spins in AGN: Current Status and Future Prospects|0
+2012cosp...39..356C|Comastri, A|The light up and evolution of early Massive Black Holes: Athena observations|0
+2012cosp...39..512E|Erd, C|JUpiter ICy moons Explorer (juice): AN ESA L-Class Mission Candidate to the Jupiter System|0
+2012cosp...39..513E|Erd, C|Planetary Protection for the JUpiter ICy moons Explorer (JUICE) Mission Candidate|1
+2012gcgc.conf...40N|Nevalainen, J|Bulk motion measurements in clusters of galaxies using XMM-Newton and ATHENA|0
+2011AAS...21822107L|Lillie, C;Cash, W;McEntaffer, R;Zhang, W;O'Dell, S;Bautz, M;Elvis, M|The Warm-Hot Intergalactic Medium Explorer (WHIMex) Mission Concept|0
+2011HEAD...12.3002B|Barcons, X;Athena Science Study Team|Athena: An X-ray Observatory Class Mission for the Next Decade|0
+2011HEAD...12.3202N|Niel Brandt, W|The Future of High-Energy Astrophysics: Prospects for Supermassive Black Hole Discoveries|0
+2011HEAD...12.3206U|Ubertini, P;Cospar WG on Future of Space Astronomy,|Report Of The Cospar WG On "Future Of Space Astronomy"|0
+2011HEAD...12.3608L|Lillie, C;Cash, W;Science, W;Instrument Teams|The Warm-Hot Intergalactic Medium Explorer (WHIMex)|0
+2011HEAD...12.3807H|Heinz, S|The Prospects Of High Resolution X-ray Spectroscopy With Athena For Studies Of Agn Feedback In Clusters|0
+2011SPIE.8145E..09G|Gehler, M;Puig, L;Stankov, A;Corral van Damme, C;Rando, N|The Cosmic Vision mission studies: status and overview of the M3 astrophysics candidates and L-class reformulation|0
+2011SPIE.8147E..0DC|Collon, M;Gunther, R;Ackermann, M;Partapsing, R;Vacanti, G;Beijersbergen, M;Bavdaz, M;Wallace, K;Wille, E;Olde Riekerink, M;Haneveld, J;Koelewijn, A;van Baren, C;Muller, P;Krumrey, M;Freyberg, M;Jakobsen, A;Christensen, F|Design, fabrication, and characterization of silicon pore optics for ATHENA/IXO|5
+2011SPIE.8147E..0EW|Wille, E;Wallace, K;Bavdaz, M|Mass production of silicon pore optics for IXO and ATHENA|5
+2011SPIE.8147E..0TJ|Jakobsen, A;Della Monica Ferreira, D;Christensen, F;Shortt, B;Collon, M;Ackermann, M|Preliminary coating design and coating developments for ATHENA|5
+2011SPIE.8147E..0VM|Miyata, Y;Tamura, K;Kunieda, H|New multilayer design for ASTRO-H/hard x-ray telescope and missions beyond|4
+2011SPIE.8147E..1RC|Cotroneo, V;Davis, W;Reid, P;Schwartz, D;Trolier-McKinstry, S;Wilke, R|Adjustable grazing incidence x-ray optics: measurement of actuator influence functions and comparison with modeling|7
+2011xau5.confE..44P|Pareschi, G|X-ray Astronomical Optics For The New Decade|0
+2011xru..conf...22N|Nandra, K|ATHENA: The Advanced Telescope for High Energy Astrophysics|6
+2010apsp.conf..536V|Verducci, M|The Muon Conditions Data Management:. Database Architecture and Software Infrastructure|0
+2008apsp.conf..436D|Dell'Acqua, A;v. Gallas, M;di Simone, A;Marshall, Z;Rimoldi, A;Tsulaia, V;Ueda, I;Vahsen, S|The Status of the Atlas Simulation Project for the Lhc Startup|0
+2007arXiv0711.3414B|Brunner, R;Kindratenko, V;Myers, A|Developing and Deploying Advanced Algorithms to Novel Supercomputing Hardware|2
+2006AIPC..848..919D|Dimitrakoudis, S;Papaspyrou, P;Petoussis, V;Moussas, X|Ancient Celestial Spheres from Greece|0
+2006apsp.conf..551R|Rimoldi, A;Dell'Acqua, A;di Simone, A;Gallas, M;Nairz, A;Boudreau, J;Tsulaia, V;Costanzo, D|Atlas Detector Simulation:. Status and Outlook|1
+2006ffp..conf..265V|Variola, A|Will Antihydrogen Light Shine?|0
+2004apsp.conf..473J|Johnson, I;Amoretti, M;Amsler, C;Bazzano, G;Bonomi, G;Bouchta, A;Bowe, P;Carraro, C;Cesar, C;Charlton, M;Doser, M;Filippini, V;Fontana, A;Fujiwara, M;Funakoshi, R;Genova, P;Hangst, J;Hayano, R;Jorgensen, L;Kellerbauer, A;Lagomarsino, V;Landua, R;Lindelof, D;Rizzini, L;Macri, M;Madsen, N;Manuzio, G;Marchesotti, M;Montagna, P;Pruys, H;Regenfus, C;Riedler, P;Rotondi, A;Rouleau, G;Testera, G;Variola, A;Venturelli, L;van der Werf, D;Zurlo, N|Detection of Antihydrogen Annihilations with a Si-Micro and Pure CSI Detector|1
+2004astro.ph.10511N|Nieto, M;Holzscheiter, M;Turyshev, S|Controlled Antihydrogen Propulsion for NASA's Future in Very Deep Space|3
+2002APS..APR.U4003H|Holzscheiter, M|Forming cold antihydrogen for tests of CPT and WEP|0
+2002LPI....33.1923C|Crumpler, L;Tanaka, K;Hare, T|Final Analysis of MER Sites Along the Southern Rim of Isidis Planitia|0
+2002usnc.conf...15D|Darby, M|Moessbauer Spectroscopy of SNC Meteorites|0
+2001APS..MAR.A4003P|Perkowitz, S|"It's Bubbles All the Way Down:” The Science and Art of Foam|0
+1999AIPC..458.1150C|Cass, S;Schooff, R|Athena alternative launch site selection|0
+1999IAUC.7091....1C|Cappellaro, E;Turatto, M;Mazzali, P;Filippenko, A;Leonard, D;Riess, A;Schmidt, B|Supernova 1999E in Anonymous Galaxy|16
+1998AAS...193.2303M|Mickelson, M;Higbie, C;Boyd, T|New Measurements of the Azimuthal Alignments of Greek Temples|0
+1998IAUC.7017....2P|Patat, F;Piemonte, A;Lidman, C;Augusteijn, T;Hainaut, O;Boehnhardt, H;Leibundgut, B;Brewer, J|Supernova 1998bw in ESO 184-G82|5
+1998astro.ph.12256G|Gruppioni, C;Ciliegi, P;Rowan-Robinson, M;Cram, L;Hopkins, A;Cesarsky, C;Danese, L;Franceschini, A;Genzel, R;Lawrence, A;Lemke, D;McMahon, R;Miley, G;Oliver, S;Puget, J;Rocca-Volmerange, B|A 1.4 GHz Survey of the Southern ELAIS Region|0
+1995ASPC...77...25G|Gavryusev, V;Baffa, C;Giani, E|Distributed Software for Observations in the Near Infrared|1
+1994IAUC.6100....1W|White, N;Giommi, P;Angelini, L|WGACAT|117
+1991SPIE.1495...81C|Claybaugh, W;Megill, L|ATHENA: a high-resolution wide-area coverage commercial remote sensing system|0

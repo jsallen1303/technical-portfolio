@@ -1,0 +1,37 @@
+{
+  "title": "The IMP 6 Satellite",
+  "name": "IMP 6",
+  "alttext": "The IMP 6 satellite",
+  "imagesize": 214,
+  "imageurl": "/Images/imp/imp6_small.gif",
+    "descript": "The IMP-6 satellite was launched 14 March 1971. It was placed in an elliptical orbit with an apogee of more than 200,000 km. The 16-sided spacecraft was 182 cm high and 135 cm in diameter. The spin axis was normal to the ecliptic, with a spin period of 10.5 seconds. The satellite was powered by solar cells and chemical batteries. The spacecraft re-entered the Earth&rsquo;s atmosphere on 2 October 1974. However, the gamma-ray instrument failed on 26 September 1972.",
+      "decade": 1970,
+  "lifetime": "Mar 1971&ndash;Sep 1972",
+    "features":
+    [
+	"Among the earliest instrument to record gamma-ray bursts"
+    ],
+    "instruments":
+    [
+	{
+	    "name" : "Gamma-ray monitor",
+	    "energy" : "53&ndash;88 keV<br>69&ndash;1150 keV",
+	    "descript" : "The gamma-ray monitor instrument consisted of a 2.25 inch diameter, 1.5 inch thick CsI(Tl) crystal surrounded by a plastic scintillator. The plastic served as a particle rejector. The crystal was viewed by a single photomultiplier. The monitor was on continuously except for the passage through the magnetotail, which occurred every 4.14 days. It operated from launch until 2 May 1971, and then again during the period 9 June 1971&ndash;27 September 1972. In addition to monitoring the rates of total intensity, particle intensity, and gamma-ray intensity, energy spectra of the incident gamma-rays were measured in 14 channels. Spectra were accumulated for 50% of the time, with data being collected only during the sunward half of each satellite rotation. The spectral accumulation times were fixed at &sim;5.1 s. The gain of the system was cycled through 4 positions, with changes being made roughly every week for purposes of in-flight calibration. Thus, some data were taken with a 69&ndash;1150 keV energy range, while other data were taken with a 53&ndash;88 keV range.</p>\n\n<p>The primary purpose of the instrument was as a coincident annihilation spectrometer incorporated in a positron detector. The secondary objective was as a solar flare monitor, and it was in this mode of operation that gamma-ray bursts (quite unexpectedly!) were observed."
+	}
+    ],
+    "highlights":
+    [
+	"Detailed spectra of six cosmic gamma-ray bursts were gathered, confirming the hard X-ray or gamma-ray nature of the bursts. The maximum energy release was seen to be at several hundred keV."
+    ],
+  "archive": "",
+  "navigation": [
+    {
+      "url": "images/imp_images.html",
+      "text": "Gallery"
+    },
+    {
+      "url": "biblio/imp_biblio.html",
+      "text": "Publications"
+    }
+  ]
+}

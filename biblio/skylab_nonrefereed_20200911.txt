@@ -1,0 +1,33 @@
+1997afs..book.....D|Davies, J|Astronomy from space : the design and operation orbiting observatories|7
+1996aeu..conf..525K|Keenan, F;Drake, J;Foster, V;Greer, C;Tayal, S;Widing, K|Fe XIII Emission Lines Observed by EUVE and the S082A Instrument On-Board SKYLAB|0
+1994kofu.symp..327K|Karovska, M;Hudson, H|Determining Point Spread Function of Space Observations Using BID Algorithm|2
+1991S&W....30..580H|Hudec, R|Optik für Röntgenstrahlen. Entwicklungen in der ČSFR.|0
+1986alab.rept.....S|Shealy, D;Chao, S|Theoretical analysis of segmented Wolter/LSM X-ray telescope systems|0
+1985JHATD...6....4V|Venkatesan, D|Cosmic-ray picture of the heliosphere.|2
+1985msfc.reptQ....H|Hoover, R;Cumings, N;Hildner, E;Moore, R;Tandberg-Hanssen, E|The Extended Range X-Ray Telescope center director's discretionary fund report|0
+1984stp..nasaQ.....||Reconnection of magnetic fields|0
+1981IAUS...94...77F|Fowler, P;Masheder, M;Moses, R;Walker, R;Worley, A|Ultra heavy cosmic rays|3
+1979IAUS...83...95P|Parsons, S;Wray, J;Henize, K;Benedict, G|C IV resonance line profiles in O stars.|5
+1979IBVS.1535....1K|Kondo, Y;McCluskey, G;Francisco, F;Parsons, S|The Ultraviolet Spectrum of beta Lyrae Observed with the IUE|3
+1979NASSP.404.....L|Lundquist, C|Skylab's astronomy and space sciences|0
+1979cfuo.book.....H|Henize, K;Wray, J;Parsons, S;Benedict, G|Catalog of far-ultraviolet objective-prism spectrophotometry: SKYLAB experiment S-019, ultraviolet stellar astronomy|5
+1979sswp.book.....P|Parker, E;Kennel, C;Lanzerotti, L|Solar system plasma physics. Volume 1 - Solar and solar wind plasma physics|1
+1979sswp.book...51R|Rust, D|Solar flares|5
+1979wdvd.coll..109P|Parsons, S;Wray, J;Henize, K|- and Far-Ultraviolet Observations of Hot White Dwarfs|0
+1978epsf.proc.....R|Ramaty, R;Colgate, S;Dulk, G;Hoyng, P;Knight, J;Lin, R;Melrose, D;Paizis, C;Orrall, F;Shapiro, P|Energetic particles in solar flares. Chapter 4 in the proceedings of the 2nd SKYLAB Workshop on Solar Flares|0
+1976anah.iafcQ....B|Budinger, T;Tobias, C;Huesman, R;Upham, F;Wieskamp, T;Schott, J;Schopper, E|Light flash observations during Apollo-Soyuz|0
+1976cosp.meetQ....B|Benton, E;Peterson, D;Henke, R|Summary of measurements of high-LET particle radiation in U.S. manned space missions|0
+1976skls.conf..199H|Henize, K;Kondo, Y;Wray, J;Parsons, S;Benedict, G;Ocallaghan, F|Ultraviolet stellar spectra obtained with SKYLAB experiment S019|0
+1976skls.conf..251S|Shapiro, M|Relativistic iron in space and its nuclear progeny|0
+1976skls.conf..285C|Courtes, G;Laget, M;Vuillemin, A;Atkins, H|Preliminary results of ultraviolet /2500 A/ stellar photograph taken by SKYLAB experiment S-183|0
+1976ucb..rept.....P|Price, P|Relativistic astrophysics|0
+1975ICRC....1..268P|Price, P;Shirk, E|The Skylab Ultraheavy Cosmic Ray Experiment|8
+1975ICRC....2..831C|Chan, J;Price, P|Composition and Energy Spectra of Heavy Nuclei of Unknown Origin Detected on Sky-lab|1
+1975ICRC....4.1138R|Roelof, E;Gold, R;Krieger, A;Nolte, J;Venkatesan, D|Relation of Large-Scale Coronal X-Ray Structure and Cosmic Rays: 4. Amplitude of the Diurnal Variation in Neutron Monitors on Interplanetary Field Lines Orbiting above Coronal Holes|3
+1975ICRC....9.3434O|Osborne, W;Pinsky, L|Monte Carlo Simultation of Astronaut Light Flash Observations on Apollo and Skylab Missions|0
+1975xris.conf......||International Conference on X-Rays in Space - Cosmic, Solar, and Auroral X-Rays, University of Calgary, Calgary, Alberta, Canada, August 14-21, 1974, Proceedings. Volumes 1 &amp; 2|0
+1974aiaa.conf.....F|Fishman, G|Neutron and proton activation measurements from SKYLAB|1
+1974aiaa.conf.....P|Page, T|Lyman-alpha imagery of comet Kohoutek, and far-UV magnitudes of stars|7
+1974aiaa.conf.....S|Snoddy, W;Gary, G|SKYLAB observations of Comet Kohoutek|0
+1974aiaa.confQ....H|Hemenway, C;Hallgren, D;Tackett, C|Near-earth cosmic dust results from S-149|0
+1974eaa..conf..297P|Page, T|Far-UV observations of Comet Kohoutek and other targets with the S201 electronographic camera on SKYLAB 4|2

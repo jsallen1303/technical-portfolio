@@ -1,0 +1,48 @@
+{
+    "title": "HaloSat",
+    "name": "HaloSat",
+    "gofheader" : "/docs/halosat/inc/header.html",
+    "alttext": "Artistic impression of HaloSat",
+    "imagesize": 274,
+    "imageurl": "/docs/halosat/gallery/halosat_1.jpg",
+    "descript": "<p><b><font size=\"+2\">H</font>alosat</b> was a CubeSat for studying the distribution of hot gas in the Milky Way and understanding the distribution of mass in the Galactic halo. It was launched on May 21, 2018 from Wallops Space Flight Facility as part of a Cygnus ISS resupply mission. It was subsequently deployed from the ISS on July 13, 2018 from the Japanese Experimental Module. Operations began in October 2018 and the satellite re-entered the Earth&rsquo;s atmosphere on January 4, 2021.",
+    "decade" : 2010,
+    "gofsidebar" : "Past",
+    "lifetime": "15 Oct 2018&ndash;29 Sep 2020",
+    "features": [
+	"Rapid development Cubesat selected by NASA with funding starting in 2016 with mission start just two years later",
+	"Detectors selected with high figure of merit/large survey grasp ideal for studying diffuse hot gas in the Milky Way plane with sufficient energy resolution",
+	"Minimize background by observing during the night side portion of each orbit",
+	"Mapped the entire sky with several hundred pointings of &gt;5000 s duration for each pointing"
+    ],
+    "instruments": [
+	{
+	    "name" : "Silicon Drift Detectors (SSDs)",
+	    "energy" : "0.4&ndash;7.0 keV",
+	    "fov" : "10&deg; circular full response; 14&deg; zero response",
+	    "energy_resolution" : "&sim;685 eV at 667 eV<br>&sim;127 eV at 5895 eV",
+	    "area" : "25 mm<sup>2</sup> each",
+	    "descript" : "Each of the three identical SDD detects x-rays from astrophysical sources through a geometric x-ray collimator determined by the inner diameter of a 0.78-mm thick circular aluminum alignment washer. The alignment washers are fastened to the instrument housing and form the x-ray aperture through which the detectors observe the sky. The attenuation of the x-ray radiation through the washer vignettes the signal, which restricts and co-aligns the FOV. "
+	}
+    ],
+  "goals": [
+    "Map the distribution of hot baryonic matter in the extended halo around the Milky Way galaxy",
+    "Resolve whether the &ldquo;missing matter&rdquo; can be detected in hard-to-observe hot gas halos around galaxies"
+  ],
+    "archive": "The HEASARC hosts events and spectral data.",
+    "navigation": [
+	{
+	    "url" : "https://heasarc.gsfc.nasa.gov/docs/halosat/",
+	    "text" : "HaloSat at HEASARC"
+	},
+	{
+	    "url" : "https://heasarc.gsfc.nasa.gov/docs/halosat/gallery/",
+	    "text" : "Gallery"
+	},
+	{
+	    "url" : "https://heasarc.gsfc.nasa.gov/docs/halosat/about/halosat_pub.html",
+	    "text" : "Publications"
+	}
+    ],
+    "goffooter" : "/docs/halosat/inc/footer.html"
+}

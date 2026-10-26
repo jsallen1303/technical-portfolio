@@ -1,0 +1,84 @@
+2013MmSAI..84..547M|Makishima, K|From Sco X-1 to magnetars . Past, present, and future of X-ray studies of neutron stars|0
+2010AAS...21536004I|Igna, C;Leahy, D|Dips In Hz Her/Her-X1's Light Curve: The Debate Continues|0
+2000ESASP.445..257K|Koyama, K|X-Ray Observations of the Early Phases of Star Formation|0
+2000eaa..bookE4527.||Astro|0
+2000eaa..bookE4772.||Tenma (Astro-B)|0
+1999sf99.proc..269K|Koyama, K|Probing YSOs with Hard X-Ray Imaging and Spectroscopy|0
+1998IAUS..188..354A|Asai, K;Dotani, T;Mitsuda, K;Inone, H;Tanaka, Y;Lewin, W|Energy Spectra of X 1636-536 Observed with ASCA|3
+1992AAS...181.2003S|Smale, A|No detection of the iron line in Cygnus X--3 by BBXRT|0
+1992AAS...181.7310L|Lochner, J;Roussel-Dupre, D|Evidence for Periods in the X-ray Transient 4U1608-52|0
+1989ESASP.296..493L|Leahy, D;Matsuoka, M|Properties of Circumstellar Matter in GX:301-2 Observed by TENMA|0
+1988pnsb.conf....1N|Nagase, F|Observations of X-ray pulsars.|3
+1988pnsb.conf...55K|Koyama, K|Ginga view of the galactic ridge.|5
+1988pnsb.conf...83T|Tsunemi, H|ASM observations of the X-ray pulsars Vela X-1 and Cen X-3.|0
+1988pnsb.conf..175M|Makishima, K|Time variations of X-ray sources.|32
+1988pnsb.conf..235I|Inoue, H|Recent results of X-ray bursts.|4
+1988srim.conf...99A|Aschenbach, B|Recent X-Ray Observations of Supernova Remnants and Their Interpretation|8
+1988srim.conf..149I|Itoh, H;Masai, K;Nomoto, K|The X-Ray Emission from SN 1987a and the Remnant of SN 1572 (tycho)|2
+1987ASIC..207...81C|Cesarsky, C|The High Energy Galaxy|0
+1987IAUS..125..200N|Nagase, F|Results of the Timing Analyses of X-Ray Pulsars Observed by Hakucho and TENMA (abstract)|0
+1987IAUS..125..535K|Koyama, K|A New Aspect of Galactic Ridge X-Ray Emission - SNRS in a Tenuous Medium?|4
+1987RMxAA..14..722I|Isobe, S|Some developments in optical telescope instrumentation and data reduction systems in Japan.|1
+1987SRToh...7..277I|Itoh, H|Supernova remnants.|0
+1987STIN...8817563A|Aschenbach, B|Recent X-ray observations of supernova remnants and their interpretation|0
+1987STIN...8827143N|Nakamura, N;Inoue, H;Tanaka, Y|Detection of absorption lines in the spectra of X-ray bursts from X1608-52|0
+1987cega.proc..111I|Itoh, H|Supernova remnants|1
+1986ASIC..167..195M|Mitsuda, K;Tanaka, Y|Two Spectral Components and Their Luminosity-Related Changes of Low-Mass Binary X-Ray Sources|13
+1986ASIC..167..301M|Matsuoka, M|Variability of Apparent Radii in the Decay Part of Type i X-Ray Bursts|2
+1986HiA.....7..649A|Aschenbach, B|X-ray emission from supernova remnants.|0
+1986hmps.conf..235I|Inoue, H|Observations of Accretion Disks in Bright Binary X-Ray Sources|0
+1986saot.conf..149W|Wang, B|X-ray emission from the active galaxy Centaurus A.|0
+1985AbaOB..58..239G|Gnedin, I|Simultaneous X-ray, optical and infrared observations of X-ray binaries.|1
+1985AstHe..78...98M|Mitsuda, K|The low-mass binary X-ray sources observed from TENMA.|0
+1985ESASP.239...49I|Ilovaisky, S|Accreting neutron stars in close binary systems.|0
+1985ESASP.239..111E|Ebisuzaki, T;Nomoto, K|X-ray spectra of bursting neutron stars: effects of Comptonization and bound-free opacity.|2
+1985ESASP.239..149M|Matsuoka, M|Iron K X-ray emission lines from cosmic X-ray sources observed with Tenma.|0
+1985gecx.conf....7N|Nagase, F|Energy Spectra of X-Ray Pulsars|2
+1985gecx.conf...45M|Matsuoka, M|Type I X-Ray Bursts|16
+1985gecx.conf...79V|van Paradijs, J|Spectra of X-Ray Bursts|1
+1985gecx.conf..101E|Ebisuzaki, T;Nomoto, K|X-Ray Spectra of Bursting Neutron Stars and Color Temperature - Luminosity Diagram|5
+1985gecx.conf..109T|Tawara, Y;Wang, D|Type-I X-Ray Burst from the Rapid Burster|0
+1985gecx.conf..113K|Kawai, N;Inoue, H;Ogawara, Y;Tanaka, Y;Tawara, Y;Kunieda, H|Time-Scale Invariant Profile of the Type II Bursts from the Rapid Burster|3
+1985gecx.conf..143H|Hoshi, R|Accretion Disk Theory|3
+1985gecx.conf..153K|Koyama, K|Iron Emission Line from Compact Sources|6
+1985gecx.conf..181M|Mitsuda, K;Tenma Team|Iron Emission Line from Low-Mass Binary X-Ray Sources|1
+1985gecx.conf..187M|Miyamoto, S;Kitamoto, S|Soft and Hard X-Ray Flares of Cir X-1 Observed by Tenma|2
+1985gecx.conf..201K|Kitamoto, S|The Spectral Variation and the Iron Line in Cygnus X-3|1
+1985gecx.conf..321T|Tsuruta, S|Some Comments on Iron Emission Line from NGC4151: Beam Model|0
+1985ntvh.book....3T|Tanaka, Y|Results from TENMA (Astro-B)|0
+1985ntvh.book...77B|Bleeker, J|X-ray Spectra of Supernova Remnants: Observations in Continuum and Lines|0
+1985xra..conf..141K|Kunieda, H|Quasi-periodicity of the Rapid Burster in 1983.|0
+1985xra..conf..201T|Tanaka, Y|Transient dips of Cygnus X-1 observed from Tenma.|0
+1985xra..conf..217N|Nagase, F;Kii, T;Sato, N|TENMA observations of X-ray pulsars.|0
+1985xra..conf..229O|Ohashi, T|Properties of the iron line from Vela X-1.|0
+1985xra..conf..285K|Koyama, K;Tsunemi, H|X-ray spectra of supernova remnants Cas A and Tycho.|0
+1984AIPC..115...63S|Shibazaki, N;Mitsuda, K|X-ray properties of the galactic bulge sources|16
+1984AIPC..115..103O|Oda, M|Recent observations of transient and variable x-ray sources with satellites ``Hakucho'' and ``Tenma''|1
+1984AIPC..115..121I|Inoue, H|Early results from the x-ray astronomy satellite ``Tenma''|2
+1984AIPC..115..131N|Nagase, F;Sato, N;Makishima, K;Kawai, N;Mitani, K|X-ray pulsars observed with hakucho and tenma|5
+1984IAUC.3923....1T|Trumper, J;Kahabka, P;Ogelman, H;Pietsch, W;Voges, W;Gottwald, M;Parmer, A|Hercules X-1|11
+1984IAUC.3957....3M|Makino, F|MXB 1730-335|1
+1984MPERp.184...96M|Matsuoka, M|Characteristics of X-ray spectra from galactic and extra-galactic X-ray sources.|0
+1984MPERp.184...99K|Kunieda, H|X-ray emission from PKS 2155-304.|1
+1984MPERp.184..105N|Nagase, F;Hirano, T|X-ray emission from Centaurus A observed by TENMA.|0
+1984MPERp.184..108M|Matsuoka, M;Ikegami, T|The X-ray spectra of NGC 4151.|0
+1984apoa.conf..276M|Makishima, K|TENMA X-Rays Observations|0
+1984heac.conf..509T|Tanaka, Y|Early Results from the X-Ray Astronomy Satellite TENMA|0
+1984spte.symp.1509M|Matsuoka, M|Recent results obtained with the X-ray astronomy satellite 'Tenma'|0
+1984srja.nasa....3.||Satellite observations|0
+1984srja.nasa...25.||Rocket observations|0
+1984xue..conf...96M|Matsuoka, M|Characteristics of X-ray spectra from galactic and extragalactic X-ray sources|0
+1984xue..conf...99K|Kunieda, H|X-ray emission from PKS 2155-304|0
+1984xue..conf..105N|Nagase, F|X-Ray Emission from Centaurus-A Observed by TENMA|1
+1984xue..conf..108M|Matsuoka, M|The X-ray spectra of NGC 4151|0
+1983AstHe..76..150K|Koyama, K|The X-ray astronomical satellite "Tenma".|0
+1983IAUC.3787....2T|Tanaka, Y|TENMA|0
+1983IAUC.3806....3T|Tanaka, Y|TENMA Observations of Hercules X-1|0
+1983IAUC.3822....2C|Cominsky, L;Wood, K;Hulburt, E|MXB 1659-29|3
+1983IAUC.3852....2T|Tanaka, Y|Hercules X-1 and MXB 1730-335|4
+1983IAUC.3854....1T|Tanaka, Y;Tenma Team|Transient X-Ray Source near 4U 1543-45|4
+1983IAUC.3882....1T|Tanaka, Y;Tenma Team|4U 1907+09|1
+1983IAUC.3891....2T|Tanaka, Y|New X-Ray Source|33
+1983IAUC.3893....1T|Terrell, J;Priedhorsky, W;Davelaar, J;Blissett, R;Stella, L;McKay, M;White, N;Bleeker, J;Brand, P;Geballe, T;Toner, M;Webster, A;Williams, P|V0332+53|11
+1983IAUC.3904....1M|Makino, F|Observations to Be Coordinated with TENMA|0
+1983S&T....66Q.216.||New Space Observatories / IRAS / TENMA / Hakucho / Astron / EXOSAT|0

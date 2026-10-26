@@ -1,0 +1,25 @@
+1998tx19.confE.361S|Skinner, G;Barret, D;Boirin, L;Olive, J;Grindlay, J|RXTE Observations of the hard galactic bulge source SLX 1735-269|0
+1997afs..book.....D|Davies, J|Astronomy from space : the design and operation orbiting observatories|7
+1993lock.rept.....T|Tarbell, T|Investigation of solar active regions at high resolution by balloon flights of the solar optical universal polarimeter, extended definition phase|0
+1989SPIE.1160..620B|Bruner, M;Brown, W;Appert, K|New sounding rocket payload for solar plasma studies|2
+1985UNAer...5..105B|Boella, G;Falconi, B;Villa, G;Manzo, G;Re, S;Lamb, P;Raymont, J;Andresen, R;Sims, M|Spacelab programme - Experiment 1 ES 023 - Spectroscopy in X-ray astronomy: Preliminary results and implications|0
+1984spte.symp.1517A|Andresen, R|Astronomy from the Shuttle - Preliminary results from the Spacelab-1 flight|0
+1982S&T....63..571B|Beatty, J|STS-3: Science Rides the Shuttle|0
+1982SPIE..316..157C|Catura, R;Brown, W;Joki, E;Nobles, R|Calculated performance of a Wolter type I X-ray telescope coated by multilayers|0
+1981nssy.book...11E|Eddy, J|The sun|0
+1981xras.nasa.....H|Holt, S|X-Ray astronomy the 1980's|0
+1979ESABu..17...36W|Whitcomb, G|Grist (Grazing-Incident Solar Telescope) - a solar-observation facility.|0
+1979SPIE..184...63G|Gorenstein, P|X-ray optics for the LAMAR facility, an overview|2
+1979SPIE..184...73C|Catura, R;Brown, W;Acton, L|Comparison of Wolter-I and Kirkpatrick-Baez X-ray optics for a Spacelab LAMAR facility|2
+1978aans.meet.....A|Aschenbach, B|Prospects of astronomy and astrophysics from Spacelab|0
+1978aans.meet.....T|Tananbaum, H;Giacconi, R|Advanced missions for X-ray astronomy in the Shuttle ERA|0
+1978nisa.symp.....V|van der Hucht, K;Vaiana, G|New instrumentation for space astronomy|0
+1978nisa.symp..237G|Gorenstein, P|The LAMAR X-Ray Astronomy Facility for Observtions of Very High Sensitivity|1
+1978nisa.symp..297H|Hudson, H;Hurford, G;Peterson, L;van Beek, H|A Grid Telescope for Imaging Hard X-Rays|0
+1978ssma.proc....3M|Manno, V|Astronomy and astrophysics from Spacelab - Results of ESA studies|0
+1977PhASp.......63M|Manno, V|A Spacelab facility for spectroscopy and polarimetry of X-ray sources (EXPOS)|0
+1977PhASp......105B|Bernacca, P|The integrated ultraviolet and X-ray astronomy facility (UTEX) and the 1-meter ultraviolet telescope (MUST) on Spacelab|0
+1977cosp.meetQ....B|Braeuninger, H;Lenzen, R;Truemper, J|X-ray optical properties of a Wolter Type I telescope for rocket application|0
+1977cosp.meetR....C|Catura, R;Culhane, J;De Jager, C;Garmire, G;Novick, R|An imaging soft X-ray telescope for Spacelab|0
+1977cosp.meetS....C|Catura, R;Culhane, J;Rapley, C;Gabriel, A;Walker, A;Woodgate, B|A focussing iron line crystal spectrometer for Spacelab|0
+1977iene.conf..517Z|Zappala, G|UTEX - A proposal from Italy for an astronomical payload of the S/L|0

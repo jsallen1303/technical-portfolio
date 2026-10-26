@@ -1,0 +1,47 @@
+{
+    "title": "Fermi",
+    "name": "Fermi",
+    "alttext": "Image of the Fermi LAT instrument",
+    "imagesize": 145,
+    "imageurl": "/Images/objects/heapow/technology/glast_small.jpg",
+    "descript": "<p><b><font size=\"+2\">T</font>he Fermi Gamma Ray Space Telescope</b> is an international and multi-agency space mission that studies the cosmos in the energy range 10 keV &ndash; 300 GeV. Several successful exploratory missions in gamma-ray astronomy led to the Energetic Gamma Ray Experiment Telescope (EGRET) instrument on the Compton Gamma Ray Observatory (CGRO). Launched in 1991, EGRET made the first complete survey of the sky in the 30 MeV &ndash; 10 GeV range. EGRET showed the high-energy gamma-ray sky to be surprisingly dynamic and diverse, with sources ranging from the sun and moon to massive black holes at large redshifts. Most of the gamma-ray sources detected by EGRET remain unidentified. In light of the discoveries with EGRET, the great potential of the next generation gamma-ray telescope can be appreciated.</p>\n\n<p>Fermi has an imaging gamma-ray telescope vastly more capable than instruments flown previously, as well as a secondary instrument to augment the study of gamma-ray bursts. The main instrument, the Large Area Telescope (LAT), has superior area, angular resolution, field of view, and deadtime that together will provide a factor of 30 or more advance in sensitivity, as well as provide capability for study of transient phenomena . The Gamma-ray Burst Monitor (GBM) has a field of view several times larger than the LAT and provides spectral coverage of gamma-ray bursts that extends from the lower limit of the LAT down to 10 keV. With the LAT and GBM, Fermi is a flexible observatory for investigating the great range of astrophysical phenomena best studied in high-energy gamma rays.",
+    "decade" : 2000,
+    "gofsidebar" : "Active",
+    "lifetime": "11 Jun 2008&ndash;present",
+  "features": "",
+    "instruments": [
+	{
+	    "name" : "Large Area Telescope (LAT)",
+	    "energy" : "10 keV &ndash; 300 GeV",
+	    "fov" : "2.4 sr (&sim;20% of sky at any given instant)",
+	    "resolution" : "&sim;0.15&deg; at 10 GeV",
+	    "area" : "&sim;8000 cm<sup>2</sup> at 1 GeV (on-axis)",
+	    "energy_resolution" : "&sim;10% at 1 GeV",
+	    "descript" : "Pair-conversation telescope with silicon strip detectors"
+	    
+	},
+	{
+	    "name" : "Gamma ray Burst Monitor (GBM)",
+	    "energy" : "10 keV &ndash; 40 MeV",
+	    "fov" : "4&pi; sr (i.e. all-sky)",
+	    "time_resolution" : "~1 &micro;s",
+	    "descript" : "GBM consists of 12 NaI and 2 BGO detectors. The NaI detectors cover the lower part of the energy range, from a few keV to about 1 MeV and provide burst triggers and locations. The BGO detectors cover the energy range of &sim;150 keV to &sim;30 MeV, providing a good overlap with the NaI at the lower end, and with the LAT at the high end. Together the NaI and BGO detectors have similar characteristics to the combination of the BATSE large area and spectroscopy detectors but cover a wider energy range and have a smaller collection area.</p>\n\n<p>The detectors do not block any part of the Large Area Telescope (LAT) field-of-view (FOV) nor interfere with the solar panels. They easily fit between the LAT and the shroud envelope on two sides of the spacecraft. The mounting arrangement is flexible with the two BGO detectors mounted on opposite sides of the spacecraft, and the NaI detectors mounted in 4 banks of 3 detectors in such a way that they sample a wide range of azimuth and elevation angles."
+	}
+    ],
+    "highlights": [
+	" Detailed all-sky maps at high-energy gamma-ray wavelengths",
+	"Catalogd thousands of sources including pulsar, AGN, blazars, and supernova remnants",
+	"Discovered over 200 new gamma-ray pulsars",
+	"Observed rapid flaring of AGN and Blazars",
+	"Observed and characterized thousands of GRBs, including observations of the most energetic emissions to date",
+	"Documented gamma-ray signature, location, and timing of the 2017 binary neutron star merger GW170817",
+	"Discovered and mapped the Fermi Bubblue gamma-ray lobe structures above and below Galatic Center"
+    ],
+    "archive": "The HEASARC hosts catalogs, products, and raw data",
+  "navigation": [
+    {
+      "url": "https://fermi.gsfc.nasa.gov/ssc/",
+      "text": "Fermi Mission Page & Fermi Science Center"
+    }
+  ]
+}

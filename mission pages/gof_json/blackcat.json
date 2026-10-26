@@ -1,0 +1,54 @@
+{
+    "title": "BlackCAT",
+    "name": "Black Hole Coded Aperture Telescope (BlackCAT)",
+    "gofheader" : "",
+    "gofsidebar" : "",
+    "decade" : 2020,
+    "alttext": "",
+    "imagesize": null,
+    "imageurl": null,
+    "descript": "<p><b><font size=\"+2\">B</font>lackCAT</b> is a NASA 6-U CubeSat mission developed by Penn State (Principal Investigator, Prof. Abe Falcone). Using a wide-field telescope, BlackCAT will monitor the soft X-ray sky in the energy range of 0.5 keV to 20 keV, searching for high-redshift gamma-ray bursts (GRBs), gravitational-wave counterparts, and other transient events. BlackCAT will provide arcminute-scale localization for Gamma Ray Bursts, gravitational-wave counterparts, high energy transient events  and monitor galactic and extragalactic variable sources. After detecting burst events, BlackCAT will be capable of transmitting rapid alerts to enable prompt follow-up observations.</p>\n\n<p>BlackCAT is composed of a coded-aperture telescope using an array of event-driven X-ray hybrid CMOS detectors (HCDs) in its focal plane. The satellite will be placed in a polar sun-synchronous low Earth orbit arranged with observations taken in the anti-sunward direction. The observation strategy is to monitor the sky with 10 min snapshots stable pointing on a specific sky position. Each snapshot is followed by a slew such that there is some overlap in sky. Burst and other transient detection will trigger alerts within 30 seconds, communicated rapidly via the Iridium satellite network for notification to other missions on par with or exceeding current rapid response notifications.</p>\n\n<p>BlackCAT was launched on January 11, 2026 on a SpaceX Falcon 9 rocket from Launch Complex 4 East at Vandenberg Space Force Base in California. The mission will operate for a nominal 1-year science operation after a 60-days of on-orbit check-out and commissioning phase.</p>",
+    "lifetime": "January 11, 2026 &ndash; present",
+    "features": [
+	"Soft X-ray coded mask design, allowing a very wide field of view and good source location determination",
+	"Rapid reporting design for detections and alerts for transient events"
+    ],
+    "instrument_preamble" : "",
+    "instruments": [
+	{
+	    "name" : "Coded Aperture Telescope (CAT)",
+	    "energy" : "0.5&ndash;20 keV",
+	    "length" : "158 mm",
+	    "resolution" : "6.3&prime; FWHM; source location of 1&prime; at 90% error (52&Prime;/pixel)",
+	    "fov" : "40&deg; &times; 70&deg; (0.85 sr)",
+	    "area" : "",
+	    "energy_resolution" : "&lt;5% at 5.9 keV (goal of &lt; 3%)",
+	    "temporal_resolution" : "0.1&ndash;10 ms",
+	    "sensitivity" : "&sim;240 mCrabs (7&sigma;, 30 s, 1 module)",
+	    "descript" : "The primary science instrument is an X-ray coded-aperture telescope, composed of a gold-plated nickel coded mask and an array of four X-ray hybrid CMOS detectors (HCDs) in the focal plane. These detectors comprise a major technology development and demonstration aspect of the mission. The detector naturally favors high-redshift bursts, where cosmological redshift moves gamma-ray emission into the X-ray band where the instrument excels. Information about identified transient events will be telemetered to the ground promptly to enable rapid follow-up by various ground- and space-based observatories.</p>\n\n<p>The coded mask consists of a ribbed frame with an aperture of 176 &times; 80 mm subdivided by 320 &times; 320 &mu;m tiles made of nickel with a gold coating. Open tiles are covered with aluminum and polyimide film to allow X-rays to pass through but blocking optical light. The mask pitch size matches superpixels (8 &times; 8 pixel elements binned by the software; each pixel is 40 &times; 40 &mu;m). Overall, the mask transmission is roughly 40%. The Si hybrid CMOS detectors are arranged in 550 &times; 550 pixel chips, with a 2 &times; 2 array of chips, passively cooled to -40&deg; C to reduce dark current. "
+	}
+    ],
+    "instrument_postscript" : "",
+    "goals": [
+	"Discover high redshift gamma ray bursts (especially long bursts) and probe the epoch of cosmic star formation in the early Universe (Z &gt; 4)",
+	"Locate potential counterparts of gravitational wave events with arcminute accuracy",
+	"Monitor the transient X-ray sky and trigger rapid alerts in conjunction with GCN",
+	"Demonstrate X-ray and time domain technology for future missions, specifically the X-ray hybrid CMOS large format detectors with very fast readout"
+    ],
+    "archive": "",
+    "publications" : [
+	""
+    ],
+    "credit" : "",
+    "navigation": [
+	{
+	    "url" : "https://sites.psu.edu/headilab/current-projects/",
+	    "text" : "BlackCAT at PSU"
+	},
+	{
+	    "url" : "/docs/heasarc/missions/biblio/blackcat_biblio.html",
+	    "text" : "Bibliography"
+	}
+    ],
+    "goffooter" : ""
+}

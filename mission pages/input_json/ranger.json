@@ -1,0 +1,38 @@
+{
+    "title": "The Ranger 3 & 5 Missions to the Moon",
+    "name": "Ranger 3 & 5 Missions",
+    "alttext": "Photograph of Ranger 7",
+    "imagesize": 225,
+    "imageurl": "/Images/ranger/ranger7_small.gif",
+    "descript": "<p><b><font size=\"+2\">T</font>he Ranger program</b> was a probe series to transmit close-up black and white photographs of the Moon before crashing into the Lunar surface. Three of the nine Rangers (7,8,9) were successful. Rangers 1 through 5 experienced technical problems which affected the success of the missions: the launch vehicles malfunctioned for Ranger 1 and 2, Rangers 3 and 5 missed the Moon, and Ranger 4 landed on the back side of the Moon and returned no data.</p>\n\n<p>Ranger 3 was launched on 26 January 1962. It carried an instrument designed to measure gamma-rays coming from the surface of the moon. It was intended that the instrument would take some 60 hours of data during the flight before lunar impact in order to determine the interplanetary gamma-ray flux, and to determine the background for the lunar measurements. Twelve hours of data were to be taken with the detector in a stowed position, and the remaining data were to be taken with the detector extended on a 6 ft. boom. These data permitted a determination of the satellite body effect on the measured gamma-ray flux. Missing the moon, the satellite went into a solar orbit (apogee 1.163 AU; perigee 0.9839 AU) and returned no further data.</p>\n\n<p Ranger 5 was launched on 18 October 1962. Missing the Moon by 725 km, it went into a heliocentric orbit, with apogee 1.052 AU and perigee 0.949 AU, at orbital inclination 0.39 degrees. Five hours of data were taken of the cosmic gamma-ray background, with the detector in the stowed position only.</p>",
+    "decade": 1960,
+    "lifetime": "Jan 1962 (Ranger 3)<br>Oct 1962 (Ranger 5)",
+    "features": [
+	"Close-up imagery of the lunar surface with crash-landing with successful missions",
+	"Gamma-ray instrumentation for lunar geology with data also collected in cislunar transit"
+    ],
+    "instruments": [
+	{
+	    "name" : "Gamma Ray Instrument",
+	    "energy" : "20 keV &ndash; 3.0 MeV",
+	    "time_resolution" : "459.5 s integration time",
+	    "descript" : "Both Ranger 3 and Ranger 5 carried the same gamma-ray instrument. The experiment consisted of 3 units: a detector, a 32-channel pulse height analyzer, and a high-voltage power supply. The detector was a beveled 3-in diameter CsI crystal, surrounded in a phoswich arrangement by a 1/8-in thick plastic scintillator. This was coupled to a 3-in photomultiplier tube. The pulse height analyzer provided storage of 2 &times; 10<sup>16</sup> pulses in each channel. Channel 0 recorded all pulses larger than those appearing in channel 31. Alternate spectra were taken over the energy ranges 0.1&ndash;3.0 MeV and 20&ndash;600 keV. Data were integrated for 459.5 s. On-board radioactive sources allowed for calibration."
+	}
+    ],
+    "highlights": [
+	"An average cosmic gamma-ray count rate of 0.27 ct/cm<sup>2</sup>/s between 0.5&ndash;2.1 MeV, and 0.67 ct/cm<sup>2</sup>/s above 2.1 MeV was observed. These values were in good agreement with previous balloon and rocket measurements. The continuum fell roughly as E<sup>-2.4</sup> up to 1 MeV and was essentially flat thereafter."
+    ],
+    "archive": "",
+    "credit" : "",
+    "publications" : [
+	"<a class=\"usa-link\" href=\"https://ui.adsabs.harvard.edu/abs/1962JGR....67.4878A/abstract\">Arnold <i>et al.</i> 1962, J Geophys Res, 67, pp.4878-4880</a>",
+	"<a class=\"usa-link\" href=\"https://ui.adsabs.harvard.edu/abs/1964Natur.204..766M/abstract\">Metzger <i>et al.</i> 1964, Nature, 204, pp. 766-767</a>",
+	"<a class=\"usa-link\" href=\"https://ui.adsabs.harvard.edu/abs/1962IRTNS...9..405V/abstract\">Van Dilla <i>et al.</i> 1962, IRE Trans Nucl Sci, NS-9, pp. 405-412</a>"
+    ],
+  "navigation": [
+    {
+      "url": "images/ranger_images.html",
+      "text": "Gallery"
+    }
+  ]
+}

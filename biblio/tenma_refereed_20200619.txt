@@ -1,0 +1,103 @@
+2011PASJ...63S.803S|Shidatsu, M;Ueda, Y;Nakahira, S;Negoro, H;Yamaoka, K;Sugizaki, M;Hiroi, K;Kawai, N;Mihara, T;Matsuoka, M;Kimura, M;Ishikawa, M;Isobe, N;Kitayama, H;Kohama, M;Matsumura, T;Morii, M;Nakagawa, Y;Nakajima, M;Serino, M;Sootome, T;Sugimori, K;Suwa, F;Toizumi, T;Tomida, H;Tsuboi, Y;Tsunemi, H;Ueno, S;Usui, R;Yamamoto, T;Yamazaki, K;Yoshida, A|Long-Term Monitoring of the Black Hole Binary GX 339-4 in the High/Soft State during the 2010 Outburst with MAXI/GSC|13
+1998AN....319..159T|Takahashi, T;Inoue, H;Ogawara, Y|Astro-E Mission and the X-ray survey|6
+1995ApJ...443..786C|Corbet, R;Smale, A;Ozaki, M;Koyama, K;Iwasawa, K|The Spectrum and Pulses of 1E 2259+586 from ASCA and BBXRT Observations|76
+1994A&A...283..635F|Fink, H;Asaoka, I;Brinkmann, W;Kawai, N;Koyama, K|The X-ray continuum of Tycho's remnant measured with Ginga.|18
+1994ApJ...429..545F|Fusco-Femiano, R;Hughes, J|Nonpolytropic Model for the Coma Cluster|17
+1994PhDT.........4H|Hwang, U|X-Ray Studies of Supernova Remnants|1
+1993ApJ...404..611H|Hughes, J;Butcher, J;Stewart, G;Tanaka, Y|GINGA Observations of the Coma Cluster and Studies of the Spatial Distribution of Iron|63
+1993ApJ...418..894S|Smale, A;Mushotzky, R;Schlegel, E;Weaver, K;Serlemitsos, P;Marshall, F;Petre, R;Jahoda, K|Cygnus X-3 in an ``Ultrahigh'' X-Ray State with No Detected K alpha Line Emission|6
+1991LNP...385..111N|Nagase, F|Iron Lines in X-ray Pulsators|1
+1991LNP...385..126L|Leahy, D|Properties of Iron Line Emission in the X-ray Binary GX301-2|0
+1991LNP...385..247W|Walter, R|Iron Line Variability and Geometry in Seyfert Galaxies|0
+1990A&A...230...73R|Raubenheimer, B;Oegelman, H|EXOSAT measurements of the pulse period of VELA X-1.|14
+1990AdSpR..10...95L|Leahy, D;Matsuoka, M|Pulse phase studies of x-ray emission from GX301-2|1
+1990ApJ...355..577H|Hirotani, K;Hanawa, T;Kawai, N|An Interpretation of X-Ray Spectra of Type II Bursts from the ``Rapid Burster'': Comptonization Due to Accretion Flow|7
+1990PASJ...42...85K|Kitamoto, S;Takahashi, K;Yamashita, K;Tanaka, Y;Nagase, F|X-Ray Spectrum and Iron Line Emission from Cygnus X-1|24
+1990PASJ...42..115K|Kawai, N;Matsuoka, M;Inoue, H;Ogawara, Y;Tanaka, Y;Kunieda, H;Tawara, Y|Spectral Evolution of Type II Bursts from the Rapid Burster|17
+1990PASJ...42..269U|Unno, W;Yoneyama, T;Urata, K;Masaki, I;Kondo, M;Inoue, H|Is Cygus X-1 a Chaotic Dynamical System?|8
+1990PASJ...42..295M|Makishima, K;Ohashi, T;Kawai, N;Matsuoka, M;Koyama, K;Kunieda, H;Tawara, Y;Ushimaru, N;Corbet, R;Inoue, H;Kii, T;Makino, F;Mitsuda, K;Murakami, T;Nagase, F;Ogawara, Y;Tanaka, Y;Kitamoto, S;Miyamoto, S;Tsunemi, H;Yamashita, K|Observations of the Peculiar Hard X-Ray Transient X0331+53 (V0332+53)|56
+1990PASJ...42..785K|Kamata, Y;Koyama, K;Tawara, Y;Makishima, K;Ohashi, T;Kawai, N;Hatsukade, I|X-Ray Observations of OAO 1657-415 with TENMA and GINGA|13
+1989MNRAS.236..603L|Leahy, D;Matsuoka, M;Kawai, N;Makino, F|Iron line fluorescence models for GX 301-2.|22
+1989MNRAS.237..269L|Leahy, D;Matsuoka, M;Kawai, N;Makino, F|TENMA observations of iron line emission from GX 301-2.|20
+1989PASJ...41....1N|Nagase, F|Accretion-powered X-ray pulsars.|570
+1989PASJ...41...81K|Kitamoto, S;Miyamoto, S;Yamamoto, T|Scattered X-ray halo and transient dips of Cygnus X-1.|22
+1989PASJ...41...97M|Mitsuda, K;Inoue, H;Nakamura, N;Tanaka, Y|Luminosity-related changes of the energy spectrum of X 1608-522.|177
+1989PASJ...41..441U|Ushimaru, N;Tawara, Y;Koyama, K;Hayakawa, S;Kii, T;Nagase, F;Ohashi, T;Makishima, K|Energy spectra and pulse profiles of Hercules X-1 at pre-eclipse dips.|14
+1989PASJ...41..617N|Nakamura, N;Dotani, T;Inoue, H;Mitsuda, K;Tanaka, Y;Matsuoka, M|TENMA observation of X-ray bursts from X 1608-52.|66
+1989PASJ...41..665K|Koyama, K|TENMA observation of diffuse galactic X-ray emission.|49
+1989PhDT........18B|Breedon, L|X-Ray Emission from Low-Mass Binary Systems.|0
+1988ApJ...327..615H|Hughes, J;Yamashita, K;Okumura, Y;Tsunemi, H;Matsuoka, M|Isothermality of the Gas in the Coma Cluster|64
+1988ApJ...328..251E|Ebisuzaki, T;Nakamura, N|The Difference in Hydrogen Abundance between Two Classes of Type I X-Ray Bursts|22
+1988ApJ...329...82H|Hughes, J;Gorenstein, P;Fabricant, D|Measurements of the Gas Temperature and Iron Abundance Distribution in the Coma Cluster|80
+1988ApJ...334..279I|Itoh, H;Masai, K;Nomoto, K|X-Ray Emission from the Remnant of a Carbon Deflagration Supernova: SN 1572 (Tycho)|27
+1988LNP...305..456T|Tsunemi, H;Manabe, M;Yamashita, K|The X-Ray Spectrum of the Cygnus Loop with GSPC|0
+1988PASJ...40..197L|Leahy, D;Nakajo, M;Matsuoka, M;Kawai, N;Koyama, K;Makino, F|Detection of an X-ray intensity dip from GX 301-2.|14
+1988PASJ...40..209N|Nakamura, N;Inoue, H;Tanaka, Y|Detection of absorption lines in the spectra of X-ray bursts from X 1608-52.|26
+1988PASJ...40..449T|Tsunemi, H;Manabe, M;Yamashita, K;Koyama, K|The X-ray spectrum of the Cygnus Loop measured with gas scintillationproportional counters.|9
+1988PASJ...40..639O|Okumura, Y;Tsunemi, H;Yamashita, K;Matsuoka, M;Koyama, K;Hayakawa, S;Masai, K;Hughes, J|Temna observations of the X-ray spectra of the Coma, Ophiuchus and Perseus clusters of galaxies.|25
+1988PASP..100..233Y|Yang, S;Ninkov, Z;Walker, G|Nonradial Oscillations of the Be Star Gamma Cassiopeiae|36
+1987AJ.....93..877D|Deeter, J;Boynton, P;Shibazaki, N;Hayakawa, S;Nagase, F;Sato, N|Pulse-Timing Study of VELA X-1 Based on Hakucho and TENMA Data: 1980-1984|35
+1987Ap&SS.136..369L|Lamb, P;Manzo, G;Re, S;Boella, G;Villa, G;Andresen, R;Sims, M;Clark, G|The gas scintillation proportional counter in the Spacelab environment: in-flight performance and post-flight calibration.|18
+1987ApJ...314..619M|Makishima, K;Koyama, K;Hayakawa, S;Nagase, F|Spectra and Pulse Period of the Binary X-Ray Pulsar 4U 1538-52|42
+1987MNRAS.225..381C|Cook, M;Page, C|The X-ray properties of 3A 1907+09.|34
+1987PASJ...39..245K|Koyama, K|Thin thermal X-ray emission from the rho Ophiuchi dark cloud.|20
+1987PASJ...39..253M|Murakami, T;Ikegami, T;Inoue, H;Makishima, K|Pulse period of X Persei.|13
+1987PASJ...39..259K|Kitamoto, S;Miyamoto, S;Matsui, W;Inoue, H|4.8-hour modulation of X-rays from Cygnus X-3.|36
+1987PASJ...39..437K|Koyama, K;Tsunemi, H;Becker, R;Hughes, J|A redetermination of the X-ray spectrum of SN 1006 and excess diffuseemission from the Lupus region.|14
+1987PASJ...39..801K|Koyama, K;Hoshi, R;Nagase, F|X-ray observations of the extraordinary pulsar 1E 2259+586.|33
+1987PhT....40l..26O|Oda, M|What do we learn from space? Space science in Japan|0
+1987Space...3...38D|Davies, J|X-ray astronomy - The view from orbit|0
+1986Ap&SS.118...67O|Oda, M|Space Astronomy in Japan|0
+1986Ap&SS.118..317T|Tawara, Y;Hayakawa, S;Kunieda, H;Wang, D|X-Ray Spectra of Various Bursts from the Rapid Burster|0
+1986Ap&SS.118..375K|Kii, T;Hayakawa, S;Nagase, F|TENMA Observations of the X-Ray Pulsar 4U1626-67|2
+1986Ap&SS.119...77H|Hirano, T;Hayakawa, S;Nagase, F;Tawara, Y|Iron K-Emission Line from CYGNUS-X-2|0
+1986Ap&SS.119...81S|Sato, N;Hayakawa, S;Nagase, F|X-Ray Emissions from VELA-X-1 during its Eclipsing Period|1
+1986Ap&SS.119..185M|Miyoshi, S;Hayakawa, S;Kunieda, H;Nagase, F;Tawara, Y|X-Ray Observations of Active Galactic Nuclei from TENMA|4
+1986ApJ...304..241S|Sato, N;Nagase, F;Kawai, N;Kelley, R;Rappaport, S;White, N|Orbital Elements of the Binary X-Ray Pulsar GX 301-2|69
+1986ApJ...305..246F|Fujimoto, M;Taam, R|The Mass and Radius of a Neutron Star in X-Ray Burster MXB 1636-536|46
+1986ApJ...305L..67E|Ebisuzaki, T;Nomoto, K|X-Ray Spectra of Bursting Neutron Stars and the Color Temperature versus Luminosity Diagram|44
+1986ApJ...306..248T|Tsunemi, H;Yamashita, K;Masai, K;Hayakawa, S;Koyama, K|X-Ray Spectra of the Cassiopeia A and TYCHO Supernova Remnants and Their Element Abundances|55
+1986ApJ...310L..31M|Murakami, T;Koyama, K;Inoue, H;Agrawal, P|X-Ray Spectrum from Gamma Cassiopeiae|50
+1986LNP...255..198T|Tanaka, Y|Observations of Compact X-Ray Sources|98
+1986LNP...266..249M|Makishima, K|Iron Lines from Galactic and Extragalactic X-ray Sources|135
+1986MNRAS.222..605M|Matsuoka, M;Takano, S;Makishima, K|Observation of an iron K X-ray line from SS 433.|18
+1986NYASA.470..163T|Tanaka, Y|Recent results from the Japanese X-ray astronomy satellites.|0
+1986PASJ...38..285M|Matsuoka, M;Ikegami, T;Inoue, H;Koyama, K|Detection of an intense iron line at 6.4 keV in the X-ray spectrum ofNGC 4151.|33
+1986PASJ...38..503K|Koyama, K;Ikeuchi, S;Tomisaka, K|A possible contribution of supernova remnants to the excess X-ray emission from the Galactic ridge|36
+1986PASJ...38..547N|Nagase, F;Hayakawa, S;Sato, N;Masai, K;Inoue, H|Circumstellar matter in the VELA X-1/HD 77581 system.|86
+1986PASJ...38..685W|Wang, B;Inoue, H;Koyama, K;Tanaka, Y;Hirano, T;Nagase, F|X-ray observations of Centaurus A from Tenma.|35
+1986PASJ...38..723A|Agrawal, P;Koyama, K;Matsuoka, M;Tanaka, Y|Detection of high-temperature plasma in the Orion Nebula: an intense 6.7-keV iron X-ray emission line in its spectrum.|12
+1986PASJ...38..731S|Sato, N;Hayakawa, S;Nagase, F;Masai, K;Dotani, T;Inoue, H;Makino, F;Makishima, K;Ohashi, T|X-ray probing of the circumstellar matter in the Vela X-1 system fromobservations over an eclipse phase.|52
+1986PASJ...38..751K|Kii, T;Hayakawa, S;Nagase, F;Ikegami, T;Kawai, N|Anisotropic X-ray transfer in a strongly magnetized plasma of the X-ray pulsar 4U 1626-67.|52
+1985AdSpR...5...81T|Tanaka, Y|The tenma mission|0
+1985AdSpR...5...91I|Inoue, H;Koyama, K|Discovery of absorption lines in X-ray burst spectra from X1636-536.|1
+1985AdSpR...5...95N|Nagase, F|X-ray pulsars observed from tenma|7
+1985AdSpR...5..101M|Matsuoka, M;Mitsuda, K|Energy spectra of non-pulsating low mass X-ray binaries|0
+1985AdSpR...5..137S|Schwartz, D;Bradt, H;Buckley, D;Patterson, J;Remillard, R;Roberts, W;Tuohy, I|Recent optical identifications of HEAO-1 X-ray sources|3
+1985AdSpR...5Q.105K|Kunieda, H|The rapid burster activity observed from tenma|0
+1985PhR...121..317H|Hayakawa, S|X-rays from accreting neutron stars|47
+1985SSRv...40.....P|Peacock, A|X-ray astronomy in the EXOSAT ERA|0
+1985SSRv...40..207C|Chiappetti, L;White, N;Kahn, S;Shafer, R|High and medium resolution spectroscopy of the X-ray transient 4U1543-47|2
+1985SSRv...40..249T|Turner, M;Breedon, L;Ohashi, T;Courvoisier, T;Inoue, H;Matsuoka, M;Pedersen, H;van Paradijs, J;Lewin, W|Coordinated optical-EXOSAT-tenma observations of a burst from 2S1636-536|10
+1985SSRv...40..255T|Trumper, J;van Paradijs, J;Sztajno, M;Lewin, W;Pietsch, W;Krautter, J;Stollman, G;van der Klis, M|EXOSAT and Optical Observations of the X-Ray Burst Source 4U/MXB1636-53|14
+1985SSRv...40..317I|Inoue, H|TENMA Observations of Bright Binary X-Ray Sources|107
+1984AdSpR...3...35H|Hayakawa, S|Sudden disappearance of X-ray emission from Vela X-1 - Can this be due to eclipse by a planet of HD77581 ?|3
+1984AdSpR...3..509T|Tanaka, Y|Early results from the X-ray astronomy satellite ``TENMA''|3
+1984PASJ...36..641T|Tanaka, Y;Fujii, M;Inoue, H;Kawai, N;Koyama, K;Maejima, Y;Makino, F;Makishima, K;Matsuoka, M;Mitsuda, K;Murakami, T;Nishimura, J;Oda, M;Ogawara, Y;Ohashi, T;Shibazaki, N;Suzuki, K;Waki, I;Yamagami, T;Kondo, I;Murakami, H;Hayakawa, S;Hirano, T;Kunieda, H;Masai, K;Nagase, F;Sato, N;Tawara, Y;Kitamoto, S;Miyamoto, S;Tsunemi, H;Yamashita, K;Nakagawa, M|X-ray astronomy satellite Tenma.|71
+1984PASJ...36..659K|Koyama, K;Ikegami, T;Inoue, H;Kawai, N;Makishima, K;Matsuoka, M;Mitsuda, K;Murakami, T;Ogawara, Y;Ohashi, T;Suzuki, K;Tanaka, Y;Waki, I;Fenimore, E|Performance verification of the gas scintillation proportional counters on board the Tenma satellite.|77
+1984PASJ...36..667N|Nagase, F;Hayakawa, S;Kii, T;Sato, N;Ikegami, T;Kawai, N;Makishima, K;Matsuoka, M;Mitani, K;Murakami, T;Oda, M;Ohashi, T;Tanaka, Y;Kitamoto, S|Pulse-period changes of X-ray pulsars measured with Hakucho and Tenma.|59
+1984PASJ...36..679M|Makishima, K;Kawai, N;Koyama, K;Shibazaki, N;Nagase, F;Nakagawa, M|Discovery of a 437.5-s X-ray pulsation from 4U 1907+09.|67
+1984PASJ...36..691M|Murakami, T;Kawai, N;Makishima, K;Mitani, K;Hayakawa, S;Nagase, F;Tawara, Y;Kunieda, H|A possible 67-s X-ray pulsation period from 4U 1700-37.|20
+1984PASJ...36..699O|Ohashi, T;Inoue, H;Koyama, K;Makino, F;Matsuoka, M;Suzuki, K;Tanaka, Y;Hayakawa, S;Tsunemi, H;Yamashita, K|Properties of the iron line from Vela X-1.|43
+1984PASJ...36..709I|Inoue, H;Ogawara, Y;Ohashi, T;Waki, I;Hayakawa, S;Kunieda, H;Nagase, F;Tsunemi, H|Sudden disappearence of Vela X-1 pulses.|30
+1984PASJ...36..719O|Ohashi, T;Inoue, H;Kawai, N;Koyama, K;Matsuoka, M;Mitani, K;Tanaka, Y;Nagase, F;Nakagawa, M;Kondo, Y|Variation of the pulse profile of Hercules X-1.|37
+1984PASJ...36..731K|Kitamoto, S;Miyamoto, S;Tanaka, Y;Ohashi, T;Kondo, Y;Tawara, Y;Nakagawa, M|Transient dips of Cygnus X-1 observed from Tenma.|52
+1984PASJ...36..741M|Mitsuda, K;Inoue, H;Koyama, K;Makishima, K;Matsuoka, M;Ogawara, Y;Shibazaki, N;Suzuki, K;Tanaka, Y;Hirano, T|Energy spectra of low-mass binary X-ray sources observed from Tenma.|1079
+1984PASJ...36..761S|Suzuki, K;Matsuoka, M;Inoue, H;Mitsuda, K;Ohashi, T;Tanaka, Y;Hirano, T;Miyamoto, S|Detection of iron K-emission lines from two low-mass binary X-ray sources: Scorpius X-1 and 4U 1608-52.|26
+1984PASJ...36..785H|Hoshi, R|Disk accretion onto a weakly magnetized neutron star.|43
+1984PASJ...36..799K|Kitamoto, S;Miyamoto, S;Tsunemi, H;Makishima, K;Nakagawa, M|The transient X-ray source 4U 1543-47 observed from Tenma.|28
+1984PASJ...36..819W|Waki, I;Inoue, H;Koyama, K;Matsuoka, M;Murakami, T;Ogawara, Y;Ohashi, T;Tanaka, Y;Hayakawa, S;Tawara, Y;Miyamoto, S;Tsunemi, H;Kondo, I|Discovery of absorption lines in X-ray burst spectra from X1636-536.|74
+1984PASJ...36..831I|Inoue, H;Waki, I;Koyama, K;Matsuoka, M;Ohashi, T;Tanaka, Y;Tsunemi, H|Peak luminosity at the Eddington limit for the X-ray bursts from X1636-536.|46
+1984PASJ...36..839S|Sugimoto, D;Ebisuzaki, T;Hanawa, T|An indication for ejection of hydrogen-rich envelope from the X-ray burster MXB 1636-53.|52
+1984SpFl...26..284S|Simpson, C|Tenma - Japan's X-ray satellite|0
+1983Natur.301..647A|Anderson, A|Japan's second X-ray satellite launched|0

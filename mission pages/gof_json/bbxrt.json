@@ -1,0 +1,51 @@
+{
+    "title": "The Broad Band X-ray Telescope",
+    "name": "The Broad Band X-ray Telescope (BBXRT)",
+    "alttext": "STS-35 (Columbia) with payload doors open",
+    "imagesize": 188,
+    "imageurl": "/Images/bbxrt/sts-35_flight_small2.gif",
+    "descript": "<p><b><font size=\"+2\">T</font>he Broad Band X-ray Telescope (BBXRT)</b> was flown on the Space Shuttle <i>Columbia</i> (STS-35) as part of the ASTRO-1 payload. It was designed and built at the Laboratory for High Energy Astrophysics at NASA/GSFC.</p>\n\n<p>BBXRT was the first focusing X-ray telescope operating over a broad energy range with a moderate energy resolution.</p>",
+    "decade" : 1990,
+    "gofsidebar" : "Past",
+    "lifetime": "2&ndash;11 Dec 1990",
+    "features": [
+	"Instrument in the cargo bay of the Space Shuttle <i>Columbia</i>"
+    ],
+    "instruments": [
+	{
+	    "name" : "Solid State Spectrometer",
+	    "energy" : "0.3&ndash;12 keV",
+	    "energy_resolution" : "90 eV at 1 keV<br>150 eV at 6 keV",
+	    "fov" : "17.4&prime; diameter; 4&prime; central pixel diameter",
+	    "area" : " 765 cm<sup>2</sup> at 1.5 keV<br>300 cm<sup>2</sup> at 7 kev",
+	    "descript" : "Two co-aligned telescopes, each with a segmented Si(Li) solid state spectrometer (detector A and B) composite of five pixels."
+	},
+	{
+	}
+    ],
+    "highlights": [
+	"Resolved iron K line in the binaries Cen X-3 and Cyg X-2",
+	"Detected evidence of line broadening in NGC 4151",
+	"Studied cooling flow in clusters"
+    ],
+    "archive": "The HEASARC hosts spectra, lightcurves, and raw data",
+    "navigation": [
+	{
+	    "url": "https://heasarc.gsfc.nasa.gov/docs/bbxrt/bbxrt.html",
+	    "text" : "BBXRT at HEASARC"
+	},
+	{
+	    "url": "https://heasarc.gsfc.nasa.gov/docs/bbxrt/bbxrt_about.html",
+	    "text" : "More about BBXRT"
+	},
+	{
+	    "url": "https://heasarc.gsfc.nasa.gov/docs/bbxrt/bbxrt_images.html",
+	    "text" : "Gallery"
+	},
+	{
+	    "url": "https://heasarc.gsfc.nasa.gov/docs/bbxrt/bib/bbxrt_biblio.html",
+	    "text" : "Bibliography"
+	}
+    ],
+    "goffooter" : "/docs/bbxrt/bbxrt_footer.html"
+}

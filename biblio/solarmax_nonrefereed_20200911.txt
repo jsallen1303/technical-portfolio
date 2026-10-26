@@ -1,0 +1,24 @@
+1996AAS...188.7009J|Jordan, S;Garcia, A;Bumba, V|The Large Limb Event of July 9, 1982|0
+1996AAS...189.2802W|Watanabe, K;Leising, M;Share, G;Kinzer, R|The Diffuse Cosmic Gamma-ray Background with SMM between 0.3 MeV and 8 MeV|0
+1995sowi.confR..57H|Hady, A|Periodicities of hard x-ray burst during the last solar cycle|0
+1993AAS...182.5509H|Harris, M;Share, G;Leising, M|Upper Limit on Transient Emission of a Broad, Redshifted 0.511 MeV gamma -Ray Line from the Galactic Center Region|0
+1993nhud.rept.....V|Vestrand, W|A search for energetic ion directivity in large solar flares|0
+1992AAS...180.3407M|Murphy, R;Share, G;Johnson, W;Kinzer, R;Kroeger, R;Kurfess, J;Strickman, M;Grove, J;Cameron, R;Jung, G;Grabelsky, D;Matz, S;Purcell, W;Ulmer, M;Frye, G;Jenkins, T;Jensen, C|GRO/OSSE Observations of Nuclear Line Emission from the Intense Flares of June 1991|0
+1992AAS...180.4107B|Bromund, K;McTiernan, J;Kane, S;Loran, J;Asztalos, B|Variation of Hard X-Ray Flare Characteristics Observed by ISEE-3/ICE during Solar Cycle 21|0
+1992AAS...180.4205K|Kucera, T;Dulk, G;Bastian, T|Model of Gyrosynchrotron Emission from a High Coronal Loop|0
+1992grbo.book..175M|Matz, S;Higdon, J;Share, G;Messina, D;Iadicicco, A|V/V<SUB>max</SUB> test applied to SMM gamma-ray bursts.|3
+1992grbo.book..249S|Share, G;Messina, D;Iadicicco, A;Matz, S;Rieger, E;Forrest, D|Characteristics of bursts observed by the SMM gamma-ray spectrometer.|2
+1992nhud.reptQ....D|Dunphy, P;Chupp, E|Study of SMM flares in gamma-rays and neutrons|0
+1991ucsd.reptR....L|Lingenfelter, R|Determining the solar-flare photospheric scale height from SMM gamma-ray measurements|0
+1989asee.nasa...29C|Chen, K|Atmospheric occultation of a solar flare in hard X rays|1
+1989asee.nasa...38T|Toot, G|Solar flare hard and soft X ray relationship determined from SMM HXRBS and BCS data|0
+1989dots.work...65K|Kurfess, J;Johnson, W;Share, G;Hulburt, E;Matz, S;Murphy, R|Capabilities of GRO/OSSE for observing solar flares|0
+1989dots.work..173D|Deasi, U;Orwig, L|Pre-pulses: Signature of a trigger process in short (less than 60 secs) solar hard X ray flares|0
+1989dots.work..267S|Schwartz, R;Dennis, B|Hard X ray highlights of AR 5395|1
+1989ucsd.reptQ....L|Lingenfelter, R|Determination of solar flare accelerated ion angular distributions from SMM gamma ray and neutron measurements and determination of the He-3/H ratio in the solar photosphere from SMM gamma ray measurements|0
+1988fnsm.work..214K|Kiplinger, A;Dennis, B;Orwig, L;Chen, P|Development of a high-speed H-alpha camera system for the observation of rapid fluctuations in solar flares|6
+1988nhud.rept.....C|Chupp, E|A summary of major activities of the UNH and NRL groups|0
+1988ucb..rept.....H|Hurley, K|Collaborative analysis of solar maximum mission, Venera and Prognoz solar X-ray bursts|0
+1986nhud.rept.....C|Chupp, E|The gamma-ray spectrometer experiment on the solar maximum mission satellite|0
+1986sfcp.nasa..153B|Bai, T|Super active regions and production of major solar flares|0
+1983ICRC...10..334C|Chupp, E;Forrest, D;Share, G;Kanbach, G;Debrunner, H;Flueckiger, E|Solar neutrons from the impulsive flare on 1982 June 3 at 1143 UT.|22

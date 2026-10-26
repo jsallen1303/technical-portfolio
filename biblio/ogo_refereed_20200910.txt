@@ -1,0 +1,53 @@
+1995ApJ...455..733B|Bromund, K;McTiernan, J;Kane, S|Statistical Studies of ISEE 3/ICE Observations of Impulsive Hard X-Ray Solar Flares|74
+1994JGR....9919427A|Abel, B;Thorne, R|Solar cyclic behavior of trapped energetic electrons in Earth's inner radiation belt|13
+1989MagIs..13..102C|Chertkov, A|Radial gradients of interplanetary magnetic field components and estimation of the electrical conductivity of solar wind plasma|0
+1984SSRv...37..161B|Burke, W;Hardy, D;Rich, F;Sagalyn, R;Shuman, B;Smiddy, M;Vancour, R;Wildman, P;Kelley, M;Doyle, M;Gussenhoven, M;Saflekos, N|High latitude electrodynamics: observations from S3-2.|13
+1982SoPh...76..393I|Ifedili, S|Measurement of the Solar Diurnal Anisotropy of the Cosmic-Ray Albedo Neutron Flux|1
+1982SoPh...81..355A|Alvarez, H|On the spectra of type-III solar radio bursts observed at low frequencies|1
+1981Ap&SS..75...93C|Cline, T;Desai, U;Teegarden, B|The Goddard Program of Gamma-Ray Transient Astronomy|6
+1981ApJ...247.1113K|Kane, S|Energetic electrons, Type III radio bursts, and impulsive solar flare X-rays|80
+1981JGR....86.1305G|Greenly, J;Sonnerup, B|Tearing modes at the magnetopause|28
+1981JGR....86.2111W|West, H;Buck, R;Davidson, G|The dynamics of energetic electrons in the earth's outer radiation belt during 1968 as observed by the Lawrence Livermore National Laboratory's spectrometer on Ogo 5|48
+1981JGR....86.3321S|Sonnerup, B;Smith, E;Tsurutani, B;Wolfe, J|Structure of Jupiter's magnetopause: Pioneer 10 and 11 observations|28
+1980P&SS...28..375P|Prasad, J;Kim, J;Okano, S|Observations of soft electron flux during SAR arc event|3
+1979ApJ...234..669K|Kane, S;Frost, K;Donnelly, R|Relationship between hard X-ray and EUV sources in solar flares.|31
+1979GMS....21..242P|Pfitzer, K|The effect of magnetic field models on cosmic ray cutoff calculations|0
+1979JGR....84.1551I|Ifedili, S|Measurement of the North-South asymmetry in the solar proton albedo neutron flux|2
+1979P&SS...27.1137F|Formisano, V;Domingo, V;Wenzel, K|The three-dimensional shape of the magnetopause|80
+1979SoPh...63..201N|Neugebauer, M;Feldman, W|Relation between superheating and superacceleration of helium in the solar wind.|19
+1978ApJ...222.1043D|Donnelly, R;Kane, S|Impulsive extreme-ultraviolet and hard X-ray emission during solar flares.|59
+1978GeoRL...5..589A|Agrawal, S;Lanzerotti, L;Venkatesan, D|Solar-polar coronal holes and the north-south cosmic ray gradient|11
+1978JGR....83.1027N|Neugebauer, M;Wu, C;Huba, J|Plasma fluctuations in the solar wind|61
+1977Ap&SS..46..215K|Kaul, R;Razdan, H;Lockwood, J|Low-energy charged particle ring around equator in the altitude range 400 1100 km|0
+1977ApJ...217..549K|Kane, S;Share, G|Hard X-ray spectra of cosmic gamma-ray bursts.|10
+1977JGR....82..709S|Spjeldvik, W|Radiation belt electrons: Structure of the loss cone|6
+1976Ap&SS..42...29S|Share, G|Discovery of Two Cosmic X-Ray Bursts in 1970|3
+1976ApJ...209..955L|Lheureux, J;Meyer, P|Quiet-time increase of low-energy electrons: the Jovian origin.|20
+1976ApJ...210..875K|Kane, S;Anderson, K|Characteristics of cosmic X-ray bursts observed with the OGO-5 satellite.|7
+1976AuJPh..29...89R|Rajan, R|Hysteresis of primary cosmic rays associated with Forbush decrease.|1
+1976JGR....81...78N|Neugebauer, M|The role of Coulomb collisions in limiting differential flow and temperature differences in the solar wind|61
+1976JGR....81..469U|Unti, T;Russell, C|On the causes of spectral enhancements in solar wind power spectra|20
+1976JGR....81..569W|West, H;Buck, R|Observations of &gt; 100-keV protons in the Earth's magnetosheath|82
+1976JGR....81.2447N|Neugebauer, M|Corrections to and Comments on the Paper ‘The enhancement of solar wind fluctuations at the proton thermal gyroradius’|29
+1976JGR....81.2927W|Williams, D;Trefall, H|Field-aligned precipitation of &gt;30-keV electrons|4
+1976P&SS...24..643W|West, H;Buck, R|Energetic electrons in the inner belt in 1968|7
+1976P&SS...24.1093S|Shukla, P;Yu, M;Spatschek, K|Energy gain by an electron beam due to a whistler soliton in the solar wind|4
+1976SSRv...18..641K|Keller, H|The Interpretations of Ultraviolet Observations of Comets|73
+1976SoPh...47..293K|Kane, S;Pick, M|Non-thermal processes during the "build-up" phase of solar flares and in absence of flares.|21
+1975A&A....39....7K|Keller, H;Thomas, G|A cometary hydrogen model: comparison with OGO-5 measurements of comet Bennett (1970 II).|42
+1975ApJ...199..530M|Modali, S;Brandt, J;Kastner, S|Monte Carlo treatment of Lyman-alpha. II. Radiation in a spherical atmosphere.|7
+1975ApJ...200..773M|Mogro-Campero, A;Simpson, J|Origin and composition of heavy nuclei between 10 and 60 MeV per nucleon during interplanetary quiet times in 1968 - 1972.|1
+1975JGR....80..998N|Neugebauer, M|The enhancement of solar wind fluctuations at the proton thermal gyroradius|60
+1975JGR....80.1332I|Intriligator, D;Neugebauer, M|A search for solar wind velocity changes between 0.7 and 1 AU|24
+1975JGR....80.3225D|Dryer, M;Smith, Z;Unti, T;Mihalov, J;Smith, B;Wolfe, J;Colburn, D;Sonett, C|Pioneer 9 and Ogo 5 observations of an interplanetary multiple shock ensemble on February 2, 1969|11
+1975P&SS...23.1179N|Nielsen, E;Pomerantz, M;West, H|Angular distributions of solar protons and electrons|5
+1975RvGSP..13.1063T|Thomas, G|Interplanetary gas of nonsolar origin.|12
+1975SoPh...42..425R|Roy, J;Tang, F|Slow X-Ray Bursts and Flares with Filament Disruption|36
+1974Natur.252..460B|Balasubrahmanyan, V;Serlemitsos, A|Solar energetic particle event with He-3/He-4 greater than 1|15
+1974PhDT.........1D|Dunckel, N|Low-Frequency Radio-Emissions from the Earth and Sun.|5
+1974SoPh...39..233I|Ifedili, S|A Search for Solar Neutrons during Solar Flares|3
+1971A&A....11..218T|Thomas, G;Krassa, R|OGO 5 Measurements of the Lyman Alpha Sky Background|219
+1970ApJ...160..293H|Haddock, F;Graedel, T|Dynamic Spectra of Type III Solar Bursts from 4 TO 2 MHz Observed by Ogo-Iii|25
+1970ApJ...160..301G|Gradel, T|The Association of Solar Optical Flares with Type III Solar Bursts from 4 TO 2 MHz Observed by Ogo-III|3
+1970ApJ...162..705G|Graedel, T|Erratum: the Association of Solar Optical Flares with Type III Solar Bursts from 4 TO 2 MHz Observed by Ogo-Iii|0
+1969ApJ...155..609C|Comstock, G;Fan, C;Simpson, J|Energy Spectra and Abundances of the Cosmic-Ray Nuclei Helium to Iron from the Ogo-I Satellite Experiment|33

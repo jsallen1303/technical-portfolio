@@ -1,0 +1,11 @@
+1981ApJ...247...89P|Paresce, F;Stern, R|The diffuse extreme-ultraviolet background - Constraints on hot coronal plasma|29
+1980A&A....83L...1S|Stern, R;Bowyer, S|Point source contributions to the extreme ultraviolet background|3
+1979ApJ...230..755S|Stern, R;Bowyer, S|Apollo-Soyuz survey of the extreme ultraviolet/soft X-ray background.|44
+1978A&A....70..431A|Ayres, T;Linsky, J;Margon, B;Bowyer, S|Upper limits on extreme ultraviolet radiation from nearby main sequence and subgiant stars.|5
+1978ApJ...224..167M|Margon, B;Szkody, P;Bowyer, S;Lampton, M;Paresce, F|Extreme-ultraviolet observations of dwarf novae from Apollo-Soyuz.|28
+1978PhDT........13S|Stern, R|Studies of the Extreme Ultraviolet/soft X-Ray Background.|0
+1977ApJ...213L..25S|Shipman, H;Margon, B;Bowyer, S;Lampton, M;Paresce, F;Stern, R|The atmosphere of Sirius B. II. Extreme-ultraviolet observations.|20
+1977ApJ...213L..53N|Naranan, S;Shulman, S;Yentis, D;Fritz, G;Friedman, H|X-ray emission from the supernova remnant MSH 14-63.|19
+1977ApJ...215..541D|Davidsen, A;Henry, R;Snyder, W;Friedman, H;Fritz, G;Naranan, S;Shulman, S;Yentis, D|Soft X-ray sources and supernova remnants in Cygnus: rocket and Apollo-Soyuz results.|18
+1976ApJ...203L..71L|Lampton, M;Margon, B;Paresce, F;Stern, R;Bowyer, S|Discovery of a nonsolar extreme-ultraviolet source.|97
+1976ApJ...206L..25L|Lucke, R;Yentis, D;Friedman, H;Fritz, G;Shulman, S|Discovery of X-ray pulsations in SMC X-1.|67

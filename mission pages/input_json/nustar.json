@@ -1,0 +1,47 @@
+{
+    "title": "NuSTAR",
+    "name": "NuSTAR",
+    "gofsidebar" : "Active",
+    "decade" : 2020,
+    "alttext": "Artist concept of Nustar in orbit",
+    "imagesize": 300,
+    "imageurl": "/Images/nustar/nustar.jpg",
+    "descript": "<p><b><font size=\"+2\">T</font>he Nuclear Spectroscopic Telescope Array Mission (NuSTAR)</b> is an X-ray mission with the first focusing optics for hard X-rays (above 10 keV).NuStar is led by Caltech and managed by JPL for NASA&rsquo;s Science Mission Directorate. It was launched on June 13, 2012 from a Pegasus XL rocket near the Kwajalein Atoll, and placed in a low-inclination low-Earth orbit. Initially deployed for a two year mission, it continues to collect data. NuSTAR has an expected orbital lifetime of 10 years.</p>",
+  "lifetime": "Jul 2012&ndash;present",
+    "features" : [
+	"The first hard X-ray focusing optics at higher X-ray energies"
+    ],
+    "instruments": [
+	{
+	    "name" : "Conical Wolter Type-I mirrors",
+	    "length" : "10 m",
+	    "resolution" : "58&Prime; (HPD), 18&Prime; (FWHM)",
+	    "fov" : "10&prime; at 10 kev (FWHM)<br>6&prime; at 68 keV (FWHM)",
+	    "descript" : "The mirrors consists of 133 concentric conical multi-layer mirror shells. The mirror shells are coated with Pt/SiC and W/Si multilayers atop thin sheets of flexible glass, with graphite spacers between nested layers. They are mounted on a mast that was extended in space to provide a focal length of 10 m. A metrology system of two lasers on the optics end that are pointed at three light-sensing detectors at the detector end of the telescope."
+	},
+	{
+	    "name" : "Focal Plane Detector Modules (FPMA and FPMB)",
+	    "energy" : "3&ndash;79 keV",
+	    "energy_resolution" : "400 ev at 10 keV<br>900 eV at 68 keV",
+	    "descript" : "The FPM detectors are Cadium-Zinc-Telluride (CdZnTe) rectangular crystals, 20&times;20&times;2 mm in size, divided into 32&times;32 grid array of pixels. The detectors are surrounded by Cesium Iodide (CsI) crystals as active anti-coincidence detectors to register and reject background from high energy photons and cosmic rays entering the detector from off-axis directions."
+	}
+    ],
+  "highlights": [
+    "Conducting a survey of black holes, monitor the mechanisms of their growth, and the radiation from infalling matter",
+    "Study processes at the core of jet structures around super-massive black holes",
+    "Map remnants of recent stellar explosions (novae, supernovae, and hypernovae)",
+    "Study compact stellar remnants (black holes, neutron stars, and white dwarf stars)",
+    "Provide insight into the solar corona and giant flares"
+  ],
+    "archive": "The HEASARC hosts event data, products, and catalogs.",
+  "navigation": [
+    {
+      "url": "/docs/nustar/",
+      "text": "NuSTAR at HEASARC"
+    },
+    {
+      "url": "https://www.nustar.caltech.edu",
+      "text": "NuSTAR at CalTech"
+    }
+  ]
+}

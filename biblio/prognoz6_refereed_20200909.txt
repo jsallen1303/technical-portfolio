@@ -1,0 +1,17 @@
+1998JGR...103.6483F|Flynn, B;Vallerga, J;Dalaudier, F;Gladstone, G|EUVE measurement of the local interstellar wind and geocorona via resonance scattering of solar He I 584-Å line emission|28
+1993JGR....9813215S|Summanen, T;Lallement, R;Bertaux, J;Kyrola, E|Latitudinal distribution of solar wind as deduced from Lyman alpha measurements: An improved method|25
+1991ApJ...375..347B|Baranov, V;Lebedev, M;Malama, I|The Influence of the Interface between the Heliosphere and the Local Interstellar Medium on the Penetration of the H Atoms to the Solar System|114
+1989SoPh..124..353W|Wibberenz, G;Kecskemety, K;Kunow, H;Somogyi, A;Iwers, B;Logachev, Y;Stolpovskii, V|Coronal and Interplanetary Transport of Solar Energetic Protons and Electrons|34
+1988A&A...199..304C|Chassefiere, E;Bertaux, J;Lallement, R;Sandel, B;Broadfoot, L|A new estimate of interstellar helium parameters from measurements of Voyager 1/2 ultraviolet spectrometers|15
+1988A&A...201..113C|Chassefiere, E;Dalaudier, F;Bertaux, J|Estimate of interstellar helium parameters from Prognoz 6 and Voyager 1/2 - EUV resonance glow measurements taking into account a possible redshift in the solar line profile|29
+1985JGR....90.1413L|Lallement, R;Bertaux, J;Kurt, V|Solar wind decrease at high heliographic latitudes detected from Prognoz interplanetary Lyman alpha mapping|110
+1984A&A...134..171D|Dalaudier, F;Bertaux, J;Kurt, V;Mironova, E|Characteristics of interstellar helium observed with Prognoz 6 58.4-nm photometers|78
+1982A&A...116..312Z|Zvereva, A;Severnyi, A;Granitskii, L;Hua, C;Cruvellier, P;Courtes, G|Ultraviolet spectrum of the sky background at different galactic latitudes.|17
+1982Ge&Ae..22.1016B|Bezrodnykh, I;Kuzmin, V;Kozlov, V;Morozova, E;Shafer, I|Dynamics of the frequency spectrum of fluctuations of the interplanetary magnetic field and cosmic rays.|3
+1982PASP...94..553H|Holm, A;Boggess, A|IUE spectra of Feige 4, a suspected source of extreme-ultraviolet radiation|0
+1981BAICz..32..228F|Farnik, F;Fischer, S;Krivsky, L;Valnicek, B;Likin, O;Lutsenko, V|Identification and Characteristics of Source Flares Emitting <SUP>3</SUP>He or Fe Enriched Cosmic Rays in the Period September to December 1977|2
+1981BAICz..32..257L|Lutsenko, V;Plch, J;Slaby, S;Tomek, J;Vitous, V;Fischer, S|Charge and mass spectrometer for energetic charged particles.|1
+1981SoPh...69..147C|Chambon, G;Hurley, K;Niel, M;Talon, R;Vedrenne, G;Estulin, I;Likin, O|The November 22, 1977 solar flare: Evidence for 2.23 and 4.43 MeV line emission from the signe 2MP experiment|10
+1980KosLu..21...70G|Gro, M;Kuznetsov, A;Likin, O;Morozova, E;Pisarenko, N;Treger, L;Estulin, I|Solar flare of November 22, 1977.|0
+1979SSI.....5...73C|Chambon, G;Hurley, K;Niel, M;Vedrenne, G;Zenchenko, V;Kuznetsov, A;Estulin, I|Signe II MP - A Franco-Soviet gamma ray burst satellite experiment|11
+1978PAZh....4..445E|Estulin, I;Kuznetsov, A;Vedrenne, G;Niel, M;Hurley, K|Gamma-ray bursts recorded by the Prognoz 6 satellite|3

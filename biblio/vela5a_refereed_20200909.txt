@@ -1,0 +1,3 @@
+1979ApJ...229L..47C|Cline, T;Desai, U;Pizzichini, G;Spizzichino, A;Trainor, J;Klebesadel, R;Ricketts, M;Helmken, H|Helios 2 - Vela - Ariel 5 gamma-ray burst source position.|26
+1979ApJ...232L...1C|Cline, T;Desai, U;Pizzichini, G;Spizzichino, A;Trainor, J;Klebesadel, R;Helmken, H|Gamma-ray burst observations from Helios 2.|23
+1976Ap&SS..42...29S|Share, G|Discovery of Two Cosmic X-Ray Bursts in 1970|3

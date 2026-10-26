@@ -1,0 +1,3 @@
+2020AAS...23612105F|Feng, H|Window of soft X-ray polarization re-opens with PolarLight|0
+2020NatAs...4..547F|Feng, H;Bellazzini, R|The X-ray polarimetry window reopens|2
+2020arXiv200900933L|Li, H;Long, X;Feng, H;Wu, Q;Huang, J;Jiang, W;Minuti, M;Yang, D;Citraro, S;Nasimi, H;Yu, J;Jin, G;Zeng, M;An, P;Baldini, L;Bellazzini, R;Brez, A;Latronico, L;Sgro, C;Spandre, G;Pinchera, M;Muleri, F;Soffitta, P;Costa, E|In-orbit Operation and Performance of the CubeSat Soft X-ray Polarimeter PolarLight|0

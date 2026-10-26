@@ -1,0 +1,629 @@
+2020AAS...23512502L|LaMassa, S;Yaqoob, T;Boorman, P;Tzanavaris, P;Levenson, N;Gandhi, P;Ptak, A;Heckman, T|NuSTAR's Insight into Compton-Thick AGN NGC 4968|0
+2020AAS...23517021V|Vides, C;Binder, B;Levesque, E;Dorn-Wallenstein, T;Wallace, A|Constraining the Orbital Period of SN2010da|0
+2020AAS...23530429H|Hinkle, J;Mushotzky, R|Fundamental X-ray Corona Parameters of Swift/BAT AGN|0
+2020AAS...23530510W|Williamson, K;Jorstad, S;Marscher, A;Weaver, Z|Short-term Variability of BL Lacertae at Different Photon Energies|0
+2020AAS...23532504N|Neilsen, J;Nowak, M;Markoff, S;Haggard, D;Anczarski, J;Balokovic, M|X-ray Variability of M87 in 2017 and 2018|0
+2020AAS...23534801P|Pike, S;Harrison, F|Looking for millisecond X-ray pulsations with NuSTAR|0
+2020AAS...23534802L|Ludlam, R|A Hard Look at Accretion Around Neutron Stars|0
+2020AAS...23534807Y|Younes, G;Kouveliotou, C;Baring, M;Harding, A;Wadiasingh, Z;Huppenkothen, D|Peculiar Flaring Activity From The Magnetar 1RXS J170849.0-400910|0
+2020AAS...23535901M|Moore, C;Takeda, A;Sylwester, B;Sylwester, J;Hannah, I;Dennis, B;Reeves, K;Woods, T|Solar Soft X-ray Variations from the 2008─2019 Solar Cycle inferred from CORONAS/SphinX, GOES/XRS, Hinode/XRT, MinXSS, NuSTAR, and RHESSI Instruments|0
+2020AAS...23536902A|Anczarski, J;Neilsen, J;Remillard, R;Uttley, P;Arzoumanian, Z;Gendreau, K;Steiner, J|X-ray Analysis of MAXI J1348-630 with NuSTAR|0
+2020AAS...23536914A|Aramburu Sanchez, P;Neilsen, J;Steiner, J|Variable Accretion Disk Winds in GRS 1915+105 with NuSTAR, NICER, and Chandra|0
+2020AAS...23537101C|Carvajal, V;Wik, D|Searching for Evidence for the Merger-Minihalo Connection in the Ophiuchus Cluster|0
+2020AAS...23543009V|Vulic, N;Hornschemeier, A;Yukita, M;Lehmer, B;Maccarone, T;Zezas, A|Revealing the X-ray Binary Population of the Starburst Galaxy NGC 253 with Chandra and NuSTAR|0
+2020AAS...23543501S|Shaw, A;Mukai, K;Heinke, C;Sivakoff, G;Tomsick, J;Gandhi, P;Rana, V;Suleimanov, V;Doroshenko, V|Measuring the masses of magnetic white dwarfs with NuSTAR: A Legacy Survey|0
+2020AAS...23543607S|Sobolewska, M;Siemiginowska, A;Guainazzi, M;Hardcastle, M;Migliori, G;Ostorero, L;Stawarz, L|The X-ray jets of the youngest radio galaxies|0
+2020AAS...23544203V|Vievering, J;Glesener, L;Grefenstette, B;Smith, D;Panchapakesan, S;Buitrago-Casas, J;Musset, S;Ryan, D;Inglis, A;Christe, S;Krucker, S|Focus on the Extremes: Harnessing the Power of Hard X-ray Focusing Optics to Probe Events Ranging from Solar Microflares to Stellar Superflares|0
+2020AAS...23610806V|Vasilopoulos, G;Ray, P;Jenke, P;Wilson-Hodge, C;Jaisawal, G;Strohmayer, T;Wolff, M;Guillot, S;Malacaria, C;Stevens, A;Diego, A;Gendreau, K|The 2019 super-Eddington outburst of HMXB RX J0209.6-7427 located at the SMC|0
+2020AAS...23620803W|West, L;Garofali, K;Lehmer, B;Prestwich, A;Eufrasio, R;Luangtip, W;Roberts, T;Zezas, A|The Large Deficit of HMXB Emission from Luminous Infrared Galaxies: the Case of the Circumnuclear Starburst Ring in NGC 7552|0
+2020AAS...23623401A|An, H|X-ray timing properties of the low-field magnetar CXOU J164710.2-455216|0
+2020IAUS..341..314T|Tanimoto, A|X-ray spectral model from clumpy torus and its application to Circinus galaxy|0
+2020yCat..22440005S|Sriram, K;Malu, S;Choi, C|VizieR Online Data Catalog: Crosscorrelation function (CCF) studies in GX 17+2 (Sriram+, 2019)|0
+2020yCat..22470016A|Acciari, V;Ansoldi, S;Antonelli, L;Arbet Engels, A;Asano, K;Baack, D;Babic, A;Banerjee, B;Barres de Almeida, U;Barrio, J;Becerra Gonzalez, J;Bednarek, W;Bellizzi, L;Bernardini, E;Berti, A;Besenrieder, J;Bhattacharyya, W;Bigongiari, C;Biland, A;Blanch, O;Bonnoli, G;Bosnjak, Z;Busetto, G;Carosi, R;Ceribella, G;Cerruti, M;Chai, Y;Chilingaryan, A;Cikota, S;Colak, S;Colin, U;Colombo, E;Contreras, J;Cortina, J;Covino, S;D'Elia, V;da Vela, P;Dazzi, F;de Angelis, A;de Lotto, B;Delfino, M;Delgado, J;Depaoli, D;di Pierro, F;di Venere, L;Do Souto Espineira, E;Dominis Prester, D;Donini, A;Dorner, D;Doro, M;Elsaesser, D;Fallah Ramazani, V;Fattorini, A;Ferrara, G;Fidalgo, D;Foffano, L;Fonseca, M;Font, L;Fruck, C;Fukami, S;Garcia Lopez, R;Garczarczyk, M;Gasparyan, S;Gaug, M;Giglietto, N;Giordano, F;Godinovic, N;Green, D;Guberman, D;Hadasch, D;Hahn, A;Herrera, J;Hoang, J;Hrupec, D;Hutten, M;Inada, T;! Inoue, S;Ishio, K;Iwamura, Y;Jouvin, L;Kerszberg, D;Kubo, H;Kushida, J;Lamastra, A;Lelas, D;Leone, F;Lindfors, E;Lombardi, S;Longo, F;Lopez, M;Lopez-Coto, R;Lopez-Oramas, A;Loporchio, S;Machado de Oliveira Fraga, B;Maggio, C;Majumdar, P;Makariev, M;Mallamaci, M;Maneva, G;Manganaro, M;Mannheim, K;Maraschi, L;Mariotti, M;Martinez, M;Mazin, D;Micanovic, S;Miceli, D;Minev, M;Miranda, J;Mirzoyan, R;Molina, E;Moralejo, A;Morcuende, D;Moreno, V;Moretti, E;Munar-Adrover, P;Neustroev, V;Nigro, C;Nilsson, K;Ninci, D;Nishijima, K;Noda, K;Nogues, L;Nozaki, S;Paiano, S;Palatiello, M;Paneque, D;Paoletti, R;Paredes, J;Penil, P;Peresano, M;Persic, M;Prada Moroni, P;Prandini, E;Puljak, I;Rhode, W;Ribo, M;Rico, J;Righi, C;Rugliancich, A;Saha, L;Sahakyan, N;Saito, T;Sakurai, S;Satalecka, K;Schmidt, K;Schweizer, T;Sitarek, J;Snidaric, I;Sobczynska, D;Somero, A;Stamerra, A;Strom, D;Strzys, M;Suda, Y;Suric, T;Takahashi!, M;Tave Cchio, F;Temnikov, P;Terzic, T;Teshima, M;Torres-Alba, N;Tosti, L;Vagelli, V;van Scherpenberg, J;Vanzo, G;Vazquez Acosta, M;Vigorito, C;Vitale, V;Vovk, I;Will, M;Zaric, D;Arcaro, C;Carosi, A;D'Ammando, F;Tombesi, F;Lohfink, A|VizieR Online Data Catalog: Extreme high-frequency-peaked BL Lac objects (Acciari+, 2020)|0
+2019AAS...23311102Z|Zhang, S;Perez, K;Hong, J;Mills, B|NuSTAR Discoverty of a 40 keV High-energy X-ray Source within the Central Parsec of the Galaxy|0
+2019AAS...23313001N|Neilsen, J;Jones, L;Steiner, J;Coriat, M;Fender, R;Motta, S;Corbel, S;Ponti, G|Accretion States, Black Hole Spin, and the 2017 Outburst of MAXI J1535-571|0
+2019AAS...23313302L|Lazzarini, M;Hornschemeier, A;Antoniou, V;Zezas, A;Yukita, M;Vulic, N;Wik, D;Haberl, F;Williams, B|Neutron Stars and Black Holes in the Small Magellanic Cloud: The NuSTAR SMC Legacy Project|0
+2019AAS...23313309C|Coley, J;Corbet, R;Fuerst, F;Huxtable, G;Krimm, H;Pearlman, A;Pottschmidt, K|A Study of the 20 Day Superorbital Modulation in the High-Mass X-ray Binary IGR J16493-4348|0
+2019AAS...23315010P|Padial, J;Castro, D|A Hard (X-ray) Look at the SW Region of SNR RCW 86|0
+2019AAS...23321303K|Keck, M|Probing the Inner Regions of Supermassive Black Hole Accretion Disks and Jets|0
+2019AAS...23321509L|Ludlam, R;Miller, J|The NICER-NuSTAR View of accretion disks in NS LMXBs|0
+2019AAS...23323302D|De Vries, M;Wise, M;Nulsen, P;Siemiginowska, A;Rowlinson, A|X-ray Variability in the Nucleus of Cygnus A and the Radio Transient Cygnus A2|0
+2019AAS...23324319P|Phillipson, R;Boyd, P;Smale, A;Vogeley, M;McMillan, S|Complex Variability of AGN and XRBs Revealed by Recurrence Analysis|0
+2019AAS...23324324A|Avirett-Mackenzie, M;Ballantyne, D|The evolving X-ray spectrum of active galactic nuclei: evidence for an increasing reflection fraction with redshift|0
+2019AAS...23324340C|Chalise, S;Lohfink, A;Brenneman, L;Kara, E;Russell, H|Presence of ionized reflection in the Broad Line Radio Galaxy (BLRG) 3C109 and its connection to the jet|0
+2019AAS...23326704M|Mori, K;Hailey, C;Mandel, S;Schutt, Y|Spatial distribution of black hole binaries within ~ 1 pc of the Galactic Center revealed by NuSTAR and Chandra X-ray observations|0
+2019AAS...23333504W|Wilcox, P|Pulsar wind nebula DA495 examined in TeV gamma-rays and with broadband spectral modeling|0
+2019AAS...23333505P|Perley, D;Ho, A|Multiwavelength Observations of the Extreme Transient AT2018cow|0
+2019AAS...23334828J|Jones, L;Neilsen, J;Uttley, P;Stevens, A|NuSTAR Analysis of a Low-Frequency QPO in the Black Hole MAXI J1535-571|0
+2019AAS...23336906A|Aramburu Sanchez, P;Neilsen, J|Variable Accretion Disk Winds in GRS 1915+105 with NuSTAR|0
+2019AAS...23341003R|Rassel, M;Fraschetti, F|Amplification of magnetic field downstream of inward shocks in supernova remnant Cassiopeia A|0
+2019AAS...23341204B|Balokovic, M;Harrison, F|Understanding AGN Obscuration: Insights from Broadband X-ray Spectroscopy|0
+2019AAS...23341205Z|Zhao, X;Marchesi, S;Ajello, M;Marcotulli, L;Cusumano, G;La Parola, V;Vignali, C|A deep look at nearby heavily obscured AGN with NuSTAR and XMM-Newton|0
+2019AAS...23341406Y|Yang, J;Wik, D;Hornschemeier, A;Lehmer, B;Vulic, N;Antoniou, V;Maccarone, T;Williams, B;Haberl, F;West, L;Ptak, A;Plucinsky, P;Yukita, M;Zezas, A;Walton, D;Garofali, K|Young black hole and neutron star systems in the nearby star-forming galaxy M33: the NuSTAR view|0
+2019AAS...23343403K|Kamraj, N;Harrison, F;Balokovic, M;Lohfink, A;Brightman, M|Coronal Properties of Swift/BAT-Selected Seyfert 1 AGN observed with NuSTAR|0
+2019AAS...23343406L|Laha, S;Krumpe, M;Markowitz, A;Nikutta, R;Rothschild, R|Probing the active galactic nuclei (AGN) torus structure using X-ray spectral variability.|0
+2019AAS...23344802R|Richardson, N;Hamaguchi, K;Russell, C;Corcoran, M;Pollock, A|Testing Radiative Braking with XMM and NuSTAR observations of the closest Colliding Wind Binary γ2 Velorum|0
+2019AAS...23345403B|Brightman, M;Balokovic, M;Koss, M;Alexander, D;Annuar, A;Earnshaw, H;Gandhi, P;Harrison, F;Hornschemeier, A;Lehmer, B;Powell, M;Ptak, A;Rangelov, B;Roberts, T;Stern, D;Walton, D;Zezas, A|A Long Hard-X-Ray Look at the Dual Active Galactic Nuclei of M51 with NuSTAR|0
+2019AAS...23345412T|Tzanavaris, P;Yaqoob, T;Ptak, A;LaMassa, S;Yukita, M|Is there a relativistic Fe K line in qusarar 4C 74.26?|0
+2019AAS...23346401E|Earnshaw, H;Grefenstette, B;Brightman, M;Fuerst, F;Harrison, F;Heida, M;Stern, D;Walton, D|The old and new ULXs of NGC 6946|0
+2019AAS...23420404D|Duncan, J;Glesener, L;Hannah, I;Smith, D;Krucker, S;Hudson, H;Grefenstette, B|Hard X-ray Spectroscopy of Six NuSTAR Microflares|0
+2019AAS...23422503G|Glesener, L;Krucker, S;Duncan, J;Hannah, I;Grefenstette, B;Chen, B;Smith, D;White, S;Hudson, H|First detection of non-thermal emission in a NuSTAR solar microflare|0
+2019HEAD...1710002F|Fuerst, F;Walton, D;Heida, M;Harrison, F;Barret, D;Brightman, M;Fabian, A;Middleton, M;Pinto, C;Rana, V;Tramper, F;Webb, N;Kretschmar, P|Understanding the orbital period and accretion torque in the ultra-luminous X-ray pulsar NGC 7793 P13|0
+2019HEAD...1710004X|Xu, Y;Harrison, F;Tomsick, J;Kennea, J;Walton, D;Miller, J;Barret, D;Fabian, A;Forster, K;Fuerst, F;Gandhi, P;Garcia, J|The New Black Hole Binary Candidate Swift J1658.2-4242 Observed by NuSTAR, Swift and XMM-Newton|0
+2019HEAD...1710005N|Neilsen, J;Steiner, J;Remillard, R;Uttley, P;Homan, J;Jones, L;Motta, S;Coriat, M;Fender, R;Corbel, S;Ponti, G;Arzoumanian, Z;Gendreau, K;Ludlam, R|Accretion States and BH Spin in MAXI J1535-571 with NICER and NuSTAR|0
+2019HEAD...1710101K|Kara, E;Ricci, C;Trakhtenbrot, B;Arcavi, I;Loewenstein, M;Fabian, A;Gendreau, K;Remillard, R;Arzoumanian, Z;Macleod, C;Cackett, E;Altamirano, D;Pasham, D;Steiner, J;Wood, K|The ongoing transformation of Seyfert galaxy 1ES 1927+654|0
+2019HEAD...1710602T|Tzanavaris, P;Yaqoob, T;Ptak, A;LaMassa, S;Yukita, M|Can we measure black hole spin in quasar 4C 74.26?|0
+2019HEAD...1710603A|Ananna, T|The Accretion History of AGN: Supermassive Black Hole Population Synthesis Model|0
+2019HEAD...1710605H|Hickox, R;Jones, M;Ananna, T|AGN Synthesis of the Cosmic X-ray Background in the Era of NuSTAR|0
+2019HEAD...1710607R|Rossland, S;Wik, D|The Unresolved Cosmic X-ray Background as Measured by NuSTAR|0
+2019HEAD...1710612S|Sobolewska, M;Siemiginowska, A;Guainazzi, M;Hardcastle, M;Migliori, G;Ostorero, L;Stawarz, L|Initial stages of black hole activity probed with X-rays from young extragalactic radio sources|0
+2019HEAD...1710628W|Walton, D;Nardini, E;Gallo, L;Reynolds, M;Ricci, C;Dauser, T;Fabian, A;Garcia, J;Harrison, F;Risaliti, G;Stern, D|An Extreme Ultrafast Outflow in the Seyfert 2 Galaxy IRAS 00521-7054|0
+2019HEAD...1710632B|Balokovic, M|Resolving the AGN Torus Spectrally, Spatially, and Temporally|0
+2019HEAD...1710634C|Chalise, S;Lohfink, A;Brenneman, L;Kara, E;Russell, H|The detection of ionized reflection in the super-Eddington Broad Line Radio Galaxy 3C109.|0
+2019HEAD...1710637G|Garcia, J|Confronting Comptonization and Reflection Models to Explain the Soft-Excess in AGN : The Case of Mrk 509|0
+2019HEAD...1710639K|Kamraj, N;Balokovic, M;Harrison, F;Brightman, M;Walton, D|The broadband X-ray spectrum of the X-ray obscured Type 1 AGN 2MASX J19301380+3410495|0
+2019HEAD...1710640L|Laha, S;Markowitz, A;Nikutta, R;Rothschild, R;Krumpe, M|Probing the active galactic nuclei (AGN) torus structure using X-ray spectral variability.|0
+2019HEAD...1710641L|LaMassa, S;Yaqoob, T;Boorman, P;Gandhi, P;Heckman, T;Levenson, N;Ptak, A;Rigby, J;Tzanavaris, P;Urry, C|NuSTAR Unveils an Extremely Local Compton-thick AGN in NGC 4968|0
+2019HEAD...1710642L|Lanz, L;Hickox, R;Balokovic, M;Shimizu, T;Ricci, C;Goulding, A;Ballantyne, D;Bauer, F;Chen, C;del Moro, A;Farrah, D;Koss, M;LaMassa, S;Masini, A;Zappacosta, L|Exploring AGN Structure with Reflection and Reprocessing in Swift/BAT AGN|0
+2019HEAD...1710648H|Hickox, R;Masini, A|AGN obscuration, Eddington ratio distributions, and clustering: Deep and wide X-ray surveys with NuSTAR and Chandra in the UKIDSS-UDS and Boötes fields|0
+2019HEAD...1710650K|Kammoun, E;Miller, J|First results from the NuSTAR Obscured Seyferts Survey|0
+2019HEAD...1710655M|Marchesi, S;Ajello, M;Zhao, X|A multi-observatory X-ray approach to characterize heavily obscured AGN|0
+2019HEAD...1710656M|Masini, A;Hickox, R;Comastri, A;Civano, F|AGN obscuration, Eddington ratio distribution and clustering: deep and wide X-ray surveys with NuSTAR and Chandra in the UKIDSS-UDS and Bootes fields|0
+2019HEAD...1710660Z|Zhao, X;Marchesi, S;Ajello, M;Marcotulli, L;Cusumano, G;La Parola, V;Vignali, C|A deep look at nearby heavily obscured AGNs with NuSTAR and XMM-Newton|0
+2019HEAD...1710662D|De Vries, M;Wise, M;Nulsen, P;Siemiginowska, A;Rowlinson, A;Reynolds, C|Evidence for a TDE origin of the radio transient Cygnus A-2|0
+2019HEAD...1710709R|Rojas Bolivar, R;Wik, D|NuSTAR Observations of ABELL 2163: Constraining Non-Thermal Emission|0
+2019HEAD...1711203Y|Yang, J;Wik, D;Hornschemeier, A;Lehmer, B;Vulic, N;Antoniou, V;Maccarone, T;Williams, B;Haberl, F;West, L;Ptak, A;Plucinsky, P;Yukita, M;Zezas, A;Walton, D;Garofali, K|Young black hole and neutron star systems in the nearby star-forming galaxy M33: the NuSTAR view|0
+2019HEAD...1711207H|Hemphill, P;Rothschild, R;Pottschmidt, K;Fuerst, F;Kretschmar, P;Ballhausen, R|Long-Term Evolution in Neutron Star HMXBs: the Cases of 4U 1538-522 and 4U 1907+09|0
+2019HEAD...1711216G|Grefenstette, B;Penn Earnshaw, H|Early X-rays from the Type IIp Supernova 2017eaw|0
+2019HEAD...1711219B|Brumback, M;Hickox, R;Bachetti, M;Ballhausen, R;Fuerst, F;Pike, S;Pottschmidt, K;Tomsick, J;Wilms, J|What can bright neutron star binaries tell us about ultra-luminous X-ray pulsars?|0
+2019HEAD...1711225T|Tetarenko, A;Casella, P;Miller-Jones, J;Sivakoff, G;Tetarenko, B;Maccarone, T;Gandhi, P;Eikenberry, S|Radio Frequency Timing Analysis of the Compact Jet in the Black Hole X-ray Binary Cygnus X-1|0
+2019HEAD...1711226J|Jiang, J;Fabian, A;Walton, D;Garcia, J;Parker, M;Steiner, J;Wang, J;Tomsick, J|High Density Reflection in the X-ray binary GX 339-4|0
+2019HEAD...1711227B|Buisson, D;Fabian, A|NuSTAR observations of MAXI J1820+070|0
+2019HEAD...1711231K|Kosec, P;Pinto, C;Fabian, A;Walton, D|Ultrafast Outflows in Ultraluminous X-ray Sources with High-Spectral Resolution Instruments|0
+2019HEAD...1711236E|Earnshaw, H;Grefenstette, B;Fuerst, F;Harrison, F;Heida, M;Stern, D;Walton, D|Caught in the act: a new transient ULX in NGC 6946|0
+2019HEAD...1711246R|Reynolds, M;Miller, J;Cackett, E|The Inner Accretion Flow in the Galactic Microquasar GRS 1758-258|0
+2019HEAD...1711253B|Bogdanov, S;Jaodand, A;Hernandez Santisteban, J;Archibald, A;Hessels, J;Deller, A;Miller-Jones, J;Patruno, A|Multiwavelength Studies of Transitional Millisecond Pulsars: New Insights into Accretion Physics|0
+2019HEAD...1711258F|Fuerst, F;Grinberg, V;Abarr, Q;Errando, M;Kislat, F;Krawczynski, H;Press, L;Sanchez-Fernandez, C;Miller, J|A long, broadband X-ray study of Vela X-1 and its environment|0
+2019HEAD...1711262G|Gotthelf, E;Halpern, J;Alford, J|The Reanimation of Magnetar XTE J1810-197: A NuSTAR Observation of the 2018 X-ray Outburst|0
+2019HEAD...1711273H|Hailey, C;Mori, K;Mandel, S;Schutt, Y;Coerver, A|Spatial distribution of black hole binaries within ~ 1 pc of the Galactic Center revealed by Chandra and NuSTAR X-ray observations|0
+2019HEAD...1711274H|Hailey, C;Mori, K;Mandel, S;Prado, R|NuSTAR and VERITAS observations of TeV gamma-ray binary HESS J0632+057: probing the intra-binary shocks formed by the collision of pulsar and stellar winds|0
+2019HEAD...1711276G|Gorgone, N;Kouveliotou, C|MAXI J1621-501: The First Source Identified by the Swift XRT Deep Galactic Plane Survey Collaboration|0
+2019HEAD...1711289H|Hare, J;Tomsick, J;Garcia, J;Walton, D;Fuerst, F;Shaw, A;Clavel, M;Fabian, A;Harrison, F;Fryer, C;Miller, J;Parker, M;Pottschmidt, K;Xu, Y;Wilms, J|The black hole transient Swift J1858.6-0814: a new V404 Cyg analog?|0
+2019HEAD...1711292L|Limyansky, B;Ohuchi, H;Guillemot, L;Saz Parkinson, P;Smith, D;Hu, C;Ng, C|High Energy Pulsations from PSR J2022+3842|0
+2019HEAD...1711298M|Marcel, G;Neilsen, J;Ferreira, J;Petrucci, P;Clavel, M|A unified accretion-ejection paradigm for X-ray binaries|0
+2019HEAD...1720003Z|Zhang, S;Perez, K;Hong, J;Mills, B|NuSTAR Discoverty of a 40 keV High-energy X-ray Source within the Central Parsec of the Galaxy|0
+2019HEAD...1720004W|Walton, D;Pinto, C;Sathyaprakash, R;Roberts, T;Nowak, M;Alston, W;Kosec, P;Kara, E;Fuerst, F;Fabian, A;Soria, R;Penn Earnshaw, H;Middleton, M;Urquhart, R;Guainazzi, M;Bachetti, M;Harrison, F;Stern, D;Barret, D;Webb, N;Canizares, C|First Results from the Major XMM-Newton, Chandra and NuSTAR Campaign on the NGC 1313 Galaxy|0
+2019HEAD...1720501S|Stevens, A|The Spectral-Timing Toolbox|0
+2019HEAD...1730103B|Boissay Malaquin, R;Danehkar, A;Marshall, H;Nowak, M|The extreme velocities of the Ultra-fast Outflow components in the Quasar PDS 456|0
+2019HEAD...1730501H|Hamaguchi, K;Corcoran, M|Non-Thermal High Energy Emission from the Massive Colliding Wind Binary Systems|0
+2019HEAD...1730502V|Vievering, J;Glesener, L;Grefenstette, B;Smith, D|New Star Observations with NuSTAR: Flares from Young Stellar Objects in the ρ Ophiuchi Cloud Complex in Hard X-rays|0
+2019HEAD...1730504S|Stevens, I|High Energy Emission Processes from Normal Stars and Stellar Clusters|0
+2019HEAD...1740003W|Wik, D|Heating and Acceleration at Galaxy Cluster Shocks: Insights from NuSTAR|0
+2019HEAD...1740102F|Fabian, A;Buisson, D|Measuring the Spin and Inclination of the Black Hole Transient MAXI 1820+070 using NICER and NuSTAR spectra|0
+2019HEAD...1740104W|West, L;Lehmer, B;Wik, D;Yang, J;Walton, D;Antoniou, V;Haberl, F;Hornschemeier, A;Maccarone, T;Plucinsky, P;Ptak, A;Williams, B;Vulic, N;Yukita, M;Zezas, A|On the Nature of the X-Ray Emission from the Ultraluminous X-Ray Source, M33 X-8: New Constraints from NuSTAR and XMM-Newton|0
+2019IAUS..339..143H|Haggard, D|Discovery and Opportunity in the X-Ray Time Domain|0
+2019IAUS..346..242M|Maitra, C;Carpano, S;Haberl, F;Vasilopoulos, G|NGC 300 ULX1: A new ULX pulsar in NGC 300|2
+2019ICRC...36..676F|Foffano, L;Prandini, E;Franceschini, A;Paiano, S|Extreme High-energy Peaked BL Lac Objects and their TeV Gamma-ray Emission: Are They a Homogeneous Population?|1
+2019ICRC...36..732M|Maier, G;Blanch, O;Hadasch, D;Komin, N;Lundy, M;Lopez-Oramas, A;Malyshev, D;Moepi, J;Ohm, S;Puhlhofer, G;Prado, R;Schlenstedt, S;Torres, D;Zitzer, B|Long-term gamma-ray observations of the binary HESS J0632+057 with H.E.S.S., MAGIC and VERITAS|0
+2019ICRC...36..767P|Prado, R;Hailey, C;Mandel, S;Mori, K|Combined VERITAS and NuSTAR observations of the gamma-ray binary HESS J0632+057|0
+2019MmSAI..90...96M|Mazzola, S;Iaria, R;Gambino, A;Marino, A;Di Salvo, T;Bassi, T;Sanna, A;Riggio, A;Burderi, L|Broadband spectral analysis of MXB 1659-298 in its soft and hard state|0
+2019MmSAI..90..221K|Kretschmar, P;Martinez-Nunez, S;Furst, F;Grinberg, V;Lomaeva, M;El Mellah, I;Manousakis, A;Sander, A;Degenaar, N;van den Eijnden, J|Vela X-1 as a laboratory for accretion in high-mass X-ray binaries|3
+2019hsax.conf..255A|Alfonso-Garzon, J;Sanchez-Fernandez, C;Charles, P;Mas-Hesse, J;Gandhi, P;Kimura, M;Domingo, A;Rodriguez, J;Chenevez, J|Optical and X-ray observations of the microquasar V404 Cyg during its June 2015 outburst|0
+2018AAS...23110501H|Hickox, R;Carroll, C;Yan, W;DiPompeo, M;Hainline, K;NuSTAR Obscured AGN Team|Uncovering Heavily Obscured AGN with WISE and NuSTAR|0
+2018AAS...23112305S|Satyapal, S;Secrest, N;Ellison, S;Ricci, C;Pfeifle, R;Blecha, L;Rothberg, B;Gliozzi, M;Constantin, A;Ferguson, J|Buried Black Hole Growth in Advanced Mergers: The Discovery of a Large Population of Dual AGN Candidates by Chandra|0
+2018AAS...23122303T|Tomsick, J;NuSTAR Extragalactic and Galactic Surveys Groups|The NuSTAR Serendipitous Survey and Archival X-ray Data|0
+2018AAS...23122304H|Hornschemeier, A;Maccarone, T;Yukita, M;Wik, D;Antoniou, V;Bechtol, K;Harrison, F;Lehmer, B;Ptak, A;Stern, D;Venters, T;Zezas, A|One of a Handful in the Universe: Confirming a Wolf Rayet X-ray Binary Candidate in NGC 253|0
+2018AAS...23122706V|Vulic, N;Hornschemeier, A;Wik, D;Yukita, M;Zezas, A;Ptak, A;Lehmer, B;Antoniou, V;Maccarone, T;Williams, B|Black Holes and Neutron Stars in Nearby Galaxies: Insights from NuSTAR|0
+2018AAS...23124311P|Pottschmidt, K;Hemphill, P;Wolff, M;Cheatham, D;Iwakiri, W;Gottlieb, A;Falkner, S;Ballhausen, R;Fuerst, F;Kuehnel, M;Ferrigno, C;Becker, P;Wood, K;Wilms, J|Applying a physical continuum model to describe the broadband X-ray spectra of accreting pulsars at high luminosity|0
+2018AAS...23125002P|Pfeifle, R;Satyapal, S;Secrest, N;Gliozzi, M;Ricci, C;Ellison, S;Blecha, L;Rothberg, B;Constantin, A|The Incidence of Buried Dual AGN in Advanced Mergers: New results from Chandra|0
+2018AAS...23125039F|Frederick, S;Kara, E;Reynolds, C|Extreme AGN Captured in a Low State by XMM-Newton and NuSTAR|0
+2018AAS...23132005T|Treister, E;Privon, G;Sartori, L;Nagar, N;Bauer, F;Schawinski, K;Ricci, C;U, V;Comerford, J;Muller-Sanchez, F;Evans, A;Koss, M;Sanders, D;Urry, M;MODA Collaboration|Multiwavelength Studies of Dual AGN in the Swift/BAT Sample|0
+2018AAS...23133301Y|Yukita, M;Tzanavaris, P;Corbet, R;Ptak, A;Hornschemeier, A;Pottschmidt, K;Ballhausen, R;Enoto, T;Antoniou, V;Lehmer, B;Maccarone, T;Wik, D;Williams, B;Zezas, A|Detection of potential periodicities in the unique hard X-ray source Swift J0042.6+4112, dominating the hard X-ray emission in M31|0
+2018AAS...23133306Y|Younes, G;Baring, M;Kouveliotou, C;Harding, A;Donavan, S;Gogus, E;Kaspi, V;Granot, J|The Sleeping Giant, NuSTAR Observations of magnetar SGR 1806-20|0
+2018AAS...23134301B|Boorman, P;Gandhi, P;Stern, D;Harrison, F;NuSTAR Obscured AGN Team|An unbiased view of X-ray obscuration amongst active galactic nuclei with NuLANDS|0
+2018AAS...23134705N|Neilsen, J;Cackett, E;Fabian, A;Gendreau, K;Miller, J;Pasham, D;Remillard, R;Steiner, J;Uttley, P|Chandra, NuSTAR and NICER Observations of MAXI J1535-571|0
+2018AAS...23134717E|Espinoza Galeas, D;Hornschemeier, A;Yukita, M;Zezas, A;Wik, D;Ptak, A;Vulic, N|NuSTAR Milky Way Binaries Diagnostics|0
+2018AAS...23135807L|Lopes de Oliveira, R;Mukai, K;Luna, G;Sokoloski, J;Nelson, T;Lucy, A|Coordinated NuSTAR and Swift observations of SU Lyncis: a hard X-ray bright symbiotic star with weak optical signatures|0
+2018AAS...23135808M|Mukai, K;Sokoloski, J;Nelson, T;Luna, G;Ringwald, F|NuSTAR and Swift Observations of the Dwarf Nova Z Camelpardalis in a Standstill|0
+2018AAS...23141408V|Vievering, J;Glesener, L;Grefenstette, B;Smith, D|NuSTAR Observations of X-Ray Flares from Young Stellar Objects|0
+2018AAS...23142202W|Wong, K;Nemmen, R;Irwin, J;Lin, D|Hard X-ray Emission from the M87 AGN Detected with NuSTAR|0
+2018AAS...23143506H|Hord, B;Hailey, C;Mori, K;Mandel, S|NuSTAR Observations of Two New Black Hole X-ray Binary Candidates within 1 pc of Sgr A*|0
+2018AAS...23145310C|Coerver, A;Mori, K;Hailey, C;Gotthelf, E;Mukherjee, R;Hui, M;Dingus, B;Goodman, J;NuSTAR, H|DA 495: An Aging Pulsar Wind Nebula with Possible TeV Gamma-Ray Counterpart|0
+2018IAUS..337...43R|Roberts, M;Al Noori, H;Torres, R;McLaughlin, M;Gentile, P;Hessels, J;Ransom, S;Ray, P;Kerr, M;Breton, R|X-Ray and Optical Properties of Black Widows and Redbacks|4
+2018IAUS..337..340G|Guillot, S|The broad X-ray emission of the millisecond pulsar PSR J0437-4715|0
+2018IAUS..337..420W|Wadiasingh, Z;Harding, A;Venter, C;Bottcher, M;Baring, M|MSP Binaries as Astrophysical Laboratories|0
+2018cosp...42E..46A|Aird, J|X-ray surveys: Soft to Hard - probing obscured black hole growth over cosmic time|0
+2018cosp...42E..55A|Al Noori, H;McLaughlin, M;Ransom, S;Roberts, M;Ray, P;Hessels, J;Kerr, M;Gentile, P;Torres, R;Breton, R|A highly magnetic spider: PSR J2129-0429 in the X-ray and optical bands|0
+2018cosp...42E.298B|Beri, A;Wijnands, R;Gandhi, P;Altamirano, D;Sivakoff, G;Tetarenko, B;Bahramian, A;Degenaar, N;Middleton, M|X-ray Observations of Two Very Faint X-ray Transients (VFXTs) during their outbursts|0
+2018cosp...42E.384B|Bogdanov, S|Coordinated X-ray and Radio Observations of the Repeating Fast Radio Burst|0
+2018cosp...42E.405B|Bottacini, E|The Non-Thermal Sky Above 15 keV|0
+2018cosp...42E.420B|Bozzo, E|IGR J17329-2731: the birth of a symbiotic X-ray binary|0
+2018cosp...42E.455B|Buchner, J;Nandra, K;Bauer, F;Mislav Balokovic, .;Brightman, M;Wada, K|Exploring the AGN obscurer geometry with NuSTAR Compton humps|0
+2018cosp...42E.456B|Buchner, J;Nandra, K;Bauer, F;Brightman, M;Nikutta, R|Clumpy X-ray obscuration and eclipses: A new model for AGN|0
+2018cosp...42E.462B|Buisson, D;Fabian, A;Lohfink, A|Coronal properties from NuSTAR observations of AGN and their implications|0
+2018cosp...42E.582C|Charles, P;Gandhi, P;Alfonso-Garzon, J|Correlated X-ray and optical variability during the 2015 super-Eddington outburst of V404 Cyg|0
+2018cosp...42E.669C|Clavel, M;Terrier, R;Goldwurm, A;Tomsick, J;Morris, M;Krivonos, R;Ponti, G;Mori, K;Chuard, D;Zhang, S|Results of the past activity of Sgr A* from X-ray observations of the Galactic center diffuse emission|0
+2018cosp...42E.682C|Coley, J;Pottschmidt, K;Corbet, R;Fuerst, F;Huxtable, G;Pearlman, A;Krimm, H|Morphology and Evolution of the 20 Day Superorbital Modulation in the High-Mass X-ray Binary IGR J16493-4348|0
+2018cosp...42E.944E|Ebisawa, K;Mizumoto, M;Sameshima, H;Kusunoki, E|Unified Spectral and Timing Model of Seyfert 1 Galaxies observed with NuSTAR and XMM/Suzaku|0
+2018cosp...42E1134F|Fukumura, K;Tombesi, F;Contopoulos, I;Shrader, C;Behar, E;Kazanas, D;Tombesi, F|Variable Nature of Magnetically-Driven Ultra-Fast Outflows (UFOs) from AGN Accretion Disks|0
+2018cosp...42E1288G|Grinberg, V;Nowak, M|The bright and hot disk of the LMXB 4U 1957+11|0
+2018cosp...42E1351H|Hailey, C;Hong, J;Bauer, F;Mori, K|Discovery of a density cusp of quiescent X-ray binaries in the Galactic Center|0
+2018cosp...42E1384H|Harrison, F|Understanding the Inner Accretion Flow Around Galactic X-ray Binaries with NuSTAR|0
+2018cosp...42E1551I|Ingram, A|Tomographic mapping of accreting black holes using X-ray quasi-periodic oscillations|0
+2018cosp...42E1597J|Jana, A;Debnath, D;Chang, H;Chakrabarti, S;Shang, J|Properties of the 2015 outburst of V404-Cygni from spectral analysis with the TCAF solution|0
+2018cosp...42E1614J|Jiang, J|The relativistic accretion disk and the ultra-fast outflow in IRAS 13224-3809|0
+2018cosp...42E1934L|Lansbury, G|A hard X-ray view of the AGN population with the NuSTAR serendipitous survey|0
+2018cosp...42E2088L|Ludlam, R;Miller, J|Characterizing the Properties of Neutron Stars in the NuSTAR-NICER Era|0
+2018cosp...42E2174M|Marchesi, S;Vignali, C;Ajello, M;Comastri, A;Lanzuisi, G;Marcotulli, L|Hunting heavily obscured AGN: the X-ray multi-observatory approach|0
+2018cosp...42E2193M|Masini, A|AGN obscuration, Eddington ratio distribution and clustering: deep and wide X-ray surveys with NuSTAR and Chandra in the UKIDSS-UDS and Bootes fields|0
+2018cosp...42E2326M|Mondal, S;Debnath, D;Chakrabarti, S;Jana, A;Chatterjee, D;Molla, A|Spectral study of different black hole candidates and measurement of spin parameter|0
+2018cosp...42E2432N|Neilsen, J;Homan, J;Rahoui, F;Coriat, M;Fender, R;Corbel, S;Ponti, G;Motta, S;Nicer Team|Super-Eddington Disk Winds in Black Hole Outbursts|0
+2018cosp...42E2433N|Neilsen, J;Coriat, M;Fender, R;Corbel, S;Ponti, G;Motta, S;Steiner, J|Accretion States, Black Hole Spin, and the 2017 Outburst of MAXI J1535-571|0
+2018cosp...42E2448N|Niedzwiecki, A;Zdziarski, A;Szanecki, M|A new lamppost reflection model and its application to NGC 4151 and Cyg X-1|0
+2018cosp...42E2628P|Perez, K|NuSTAR's view of the Galactic center diffuse emission|0
+2018cosp...42E2708P|Ponti, G;Degenaar, N;Bianchi, S;De Marco, B;Bahramian, A|Evolution of the asymmetric multi-phase disc atmosphere in the X-ray binary MXB1659-298, during its 2015-2016 outburst|0
+2018cosp...42E2854R|Riggio, A;Maselli, A;Papitto, A;Burderi, L;Sanna, A;Di Salvo, T|Spectral and timing analysis of the accreting millisecond pulsar IGR J17511-3057 with NuSTAR, Swift/XRT and XMM-Newton of the latest outburst|0
+2018cosp...42E3075S|Shaw, A;Tomsick, J;Mukai, K;Gandhi, P;Heinke, C;Sivakoff, G;Rana, V|Measuring the masses of intermediate polars with NuSTAR|0
+2018cosp...42E3242S|Stecchini, P;D'Amico, F;Braga, J;Castro Avila, M|A mass estimative for the black hole candidate 1E 1740.7-2942 using broad band x-ray spectrum|0
+2018cosp...42E3288S|Suleimanov, V;Werner, K;Doroshenko, V|White dwarf masses in intermediate polars|0
+2018cosp...42E3403T|Tombesi, F;Veilleux, S;Fukumura, K;Reynolds, C;Reeves, J;Kazanas, D|Mapping supermassive black hole winds, from the event horizon up to galaxy scales|0
+2018cosp...42E3408T|Tomsick, J|The Reflection Spectrum of Cygnus X-1 as Measured by NuSTAR|0
+2018cosp...42E3588W|Walton, D;Barret, D;Fabian, A;Fuerst, F;Harrison, F;Bachetti, M;Stern, D;Brightman, M;Heida, M;Middleton, M|Super-Eddington Pulsars and Ultraluminous X-ray Sources|0
+2018cosp...42E3617W|Wang, Y;Mendez, M;Altamirano, D;Cheng, Z;Court, J;Beri, A|Spectral evolution of IGR J17091-3642 during its 2016 outburst and the heartbeats|0
+2018cosp...42E3618W|Wang, Y;Mendez, M;Belloni, T;Altamirano, D;Sanna, A|The reflection spectrum of the low-mass X-ray binary 4U 1636-53|0
+2018cosp...42E3621W|Wang-Ji, J;Bambi, C;Tomsick, J;Harrison, F;Clavel, M;Steiner, J;Petrucci, P;Garcia, J;Ferreira, J;Chakravorty, S|The evolution of GX 339-4 in the low-hard state as seen by NuSTAR and Swift|0
+2018cosp...42E3734Y|Yamaoka, K;Tomsick, J;Nakahira, S|X-ray monitoring of the Galactic microquasar V4641 Sgr|0
+2018cosp...42E3840Z|Zhang, S;Hailey, C;Baganoff, .;Mori, K|Diverse Origin of Galactic Center Non-thermal X-ray Filaments|0
+2018yCat..18250132H|Hong, J;Mori, K;Hailey, C;Nynka, M;Zhang, S;Gotthelf, E;Fornasini, F;Krivonos, R;Bauer, F;Perez, K;Tomsick, J;Bodaghee, A;Chiu, J;Clavel, M;Stern, D;Grindlay, J;Alexander, D;Aramaki, T;Baganoff, F;Barret, D;Barriere, N;Boggs, S;Canipe, A;Christensen, F;Craig, W;Desai, M;Forster, K;Giommi, P;Grefenstette, B;Harrison, F;Hong, D;Hornstrup, A;Kitaguchi, T;Koglin, J;Madsen, K;Mao, P;Miyasaka, H;Perri, M;Pivovaroff, M;Puccetti, S;Rana, V;Westergaard, N;Zhang, W;Zoglauer, A|VizieR Online Data Catalog: NuSTAR hard X-ray survey of the Galactic Center. II. (Hong+, 2016)|0
+2017AAS...22910506W|Wik, D|Electron Heating at Galaxy Cluster Shocks: Measuring the Temperature of the Bullet Cluster Shock with NuSTAR|0
+2017AAS...22912103B|Balokovic, M;Harrison, F;NuSTAR Extragalactic Surveys Team|Hard X-ray Spectroscopy of Obscured AGN with NuSTAR|0
+2017AAS...22920705G|Grindlay, J;Hailey, C;Zhang, S;Mori, K;Gomez, S;Hong, J;Tomsick, J|NuSTAR Discovery of a Possible Black Hole HMXB and Cygnus X-1 Progenitor|0
+2017AAS...22924715C|Cuturilo, S;Tomsick, J;Clavel, M;Lansbury, G|What is the nature of the high energy X-ray sources in the galaxy?|0
+2017AAS...22925043F|Frederick, S;Kara, E;Reynolds, C|Spectral and Temporal Analysis of 1H1934-0617: Observing an “Eclipsed” AGN with XMM-Newton and NuSTAR|0
+2017AAS...22940202B|Brenneman, L;Reynolds, C;Nowak, M|A Long Look at NGC 3783 with Chandra/HETG and NuSTAR|0
+2017AAS...22942908S|Stern, D;Boorman, P;Annuar, A;Gandhi, P;Alexander, D;Lansbury, G;Asmus, D;Ballantyne, D;Bauer, F;Boggs, S;Brandt, W;Brightman, M;Christensen, F;Craig, W;Farrah, D;Goulding, A;Hailey, C;Harrison, F;Hoenig, S;Koss, M;LaMassa, S;Masini, A;Murray, S;Ricci, C;Risaliti, G;Rosario, D;Stanley, F;Zhang, W|NGC1448 and IC 3639: Two Concealed Black Holes Lurking in our Cosmic Backyard Unveiled by NuSTAR|0
+2017AGUFM.P31C2821D|Dunn, W;Mori, K;Hailey, C;Branduardi-Raymont, G;Grefenstette, B;Jackman, C;Hord, B;Ray, L|NuSTAR hard X-ray observations of the Jovian magnetosphere during Juno perijove and apojove intervals|0
+2017AGUFMSH41A2743H|Hannah, I;Kleint, L;Krucker, S;Glesener, L;Grefenstette, B|Joint NuSTAR and IRIS observation of a microflaring active region|0
+2017AGUFMSM33E..04G|Glesener, L;Vievering, J;Wright, P;Hannah, I;Panchapakesan, S;Ryan, D;Krucker, S;Hudson, H;Grefenstette, B;White, S;Smith, D;Marsh, A;Kuhar, M;Christe, S;Buitrago-Casas, J;Musset, S;Inglis, A|High-Energy Aspects of Small-Scale Energy Release at the Sun|0
+2017AIPC.1792d0003T|Tsuji, N;Uchiyama, Y;Katsuda, S;Berge, D;Aharonian, F|Chandra and NuSTAR observations of supernova remnant RX J1713.7-3946|0
+2017APS..APR.S4001M|Madejski, G;Nalewajko, K;Madsen, K;Chiang, J;Balokovic, M;Paneque, D;Furniss, A;NuSTAR Team|First NuSTAR observations of the BL Lac - type blazar PKS 2155-304: constraints on the jet content and distribution of radiating particles|0
+2017ASPC..509..509W|Wada, Y;Yuasa, T;Nakazawa, K;Makishima, K;Hayashi, T;Ishida, M|NuSTAR Observations of the Dwarf Nova GK Persei in 2015: Comparison between Outburst and Quiescent Phases|0
+2017HEAD...1610003L|Ludlam, R;Miller, J;Cackett, E;Degenaar, N;Fabian, A;Parker, M;Tomsick, J;Bachetti, M;Barret, D;Natalucci, L|A Hard Look at NS LMXBs with NuSTAR|0
+2017HEAD...1610511W|Wik, D;Molendi, S;Hornstrup, A;Gastaldello, F;Madejski, G;Westergaard, N;Dasadia, S;Sarazin, C;Sun, M;Markevitch, M|Electron Heating and Acceleration at Galaxy Cluster Shocks: Insights from NuSTAR|0
+2017HEAD...1610601K|Kamraj, N;Harrison, F;Balokovic, M;Brightman, M;Stern, D|NuSTAR constraints on coronal cutoffs in Swift-BAT selected Seyfert 1 AGN|0
+2017HEAD...1610606B|Brenneman, L;Reynolds, C;Markoff, S;Parker, M;Miller, J|X-ray Observations of the Radio-loud Narrow-Line Seyfert 1 Galaxy PMN J0948+0022|0
+2017HEAD...1610615M|Marchesi, S;Ajello, M;Marcotulli, L;Comastri, A|Compton thick AGN in the NuSTAR era|0
+2017HEAD...1610620B|Buchner, J;Brightman, M;Nandra, K;Bauer, F;Nikutta, R|New models for the CLUMPY AGN obscurer|0
+2017HEAD...1610624M|Marcotulli, L;Paliya, V;Ajello, M;Gasparrini, D;Ojha, R|Chasing the most powerful blazars|0
+2017HEAD...1610626B|Balokovic, M;Harrison, F;Brightman, M|Constraints on the Geometry of the Obscuring Torus from the NuSTAR Survey of the Local Seyfert II Population|0
+2017HEAD...1610629B|Brightman, M;Annuar, A;Alexander, D;Earnshaw, H;Gandhi, P;Hornschemeier, A;Lehmer, B;Ptak, A;Rangelov, B;Roberts, T;Stern, D;Zezas, A|A deep NuSTAR observation of M51: Investigating its Compton-thick nucleus, LINER companion and ULXs above 10 keV|0
+2017HEAD...1610630L|Lohfink, A;Fabian, A;Buisson, D;Kara, E;Reynolds, C|The broad-band X-ray spectra of Mrk 926, 4U 1344-60 and ESO 141-G055|0
+2017HEAD...1610635H|Hickox, R|Uncovering hidden black holes with extragalactic X-ray surveys|0
+2017HEAD...1610639Y|Yan, W|NuSTAR Observations of Heavily Obscured Quasars Selected by WISE|0
+2017HEAD...1610644F|Frederick, S;Kara, E;Reynolds, C|Observing the Fast X-ray Spectral Variability of NLS1 1H1934-063 with XMM-Newton and NuSTAR|0
+2017HEAD...1610806M|Mukai, K;Luna, G;Nelson, T;Sokoloski, J;Lucy, A;Nunez, N|The Accretion Disk and the Boundary Layer of the Symbiotic Recurrent Nova T Corona Borealis|0
+2017HEAD...1610811V|Vulic, N;Hornschemeier, A;Wik, D;Yukita, M;Ptak, A;Zezas, A;Lehmer, B|Black Holes and Neutron Stars in Nearby Galaxies: Insights with NuSTAR|0
+2017HEAD...1610814T|Tomsick, J;Lansbury, G;Rahoui, F;Clavel, M;Fornasini, F;Hong, J;Aird, J;Alexander, D;Bodaghee, A;Chiu, J;Grindlay, J;Hailey, C;Harrison, F;Krivonos, R;Mori, K;Stern, D|Galactic Sources Detected in the NuSTAR Serendipitous Survey|0
+2017HEAD...1610819C|Coughenour, B;Cackett, E;Miller, J|NuSTAR observations of the neutron star low-mass X-ray binary GX 349+2 throughout its Z-track|0
+2017HEAD...1610824Y|Yukita, M;Tzanavaris, P;Corbet, R;Ptak, A;Hornschemeier, A;Pottschmidt, K;Ballhausen, R;Enoto, T;Antoniou, V;Lehmer, B;Maccarone, T;Wik, D;Williams, B;Zezas, A|Timing analysis of a unique hard X-ray source, Swift J0042.6+4112, in M31|0
+2017HEAD...1610834G|Garcia, J;Uttley, P;Wilms, J;Grinberg, V;Pottschmidt, K;Dauser, T|A Complete Binary Orbit of Cygnus X-1: Spectroscopic Analysis|0
+2017HEAD...1610836B|Brumback, M;Hickox, R;Fuerst, F;Pottschmidt, K;Britton Hemphill, P;Tomsick, J;Wilms, J|A flux state comparison of the transient X-ray pulsar SAX J2103.5+4545|0
+2017HEAD...1610839W|Wolff, M;Becker, P;Enoto, T;Pottschmidt, K;Wood, K|NuSTAR Observation of the Symbiotic System GX 1+4|0
+2017HEAD...1610907C|Clavel, M;Krivonos, R;Mori, K;Tomsick, J;Zhang, S|NuSTAR monitoring of the Galactic center diffuse emission|0
+2017HEAD...1610912H|Hailey, C;Mori, K|NuSTAR observations of black hole binary candidates in the Galactic Center and its environs|1
+2017HEAD...1610914G|Grindlay, J;Gomez, S;Hong, J;Zhang, S;Hailey, C;Mori, K;Tomsick, J|Discovery of a Probable BH-HMXB and Cyg X-1 Progenitor System|0
+2017HEAD...1610916X|Xu, Y;Harrison, F;Fuerst, F;Garcia, J;Walton, D;Tomsick, J|Spectral and Timing Properties of IGR J17091-3624 in the Rising Hard State During Its 2016 Outburst|0
+2017HEAD...1610927G|Gotthelf, E;Bogdanov, S|NuSTAR Hard X-ray Observations of the Energetic Millisecond Pulsars PSR B1821-24, PSR B1937+21, and PSR J0218+4232|0
+2017HEAD...1611004M|Mori, K;Hailey, C;Gotthelf, E|NuSTAR observations of Galactic TeV gamma-ray sources|0
+2017HEAD...1620006F|Fabian, A;Lohfink, A|AGN Coronae in the NuSTAR era|0
+2017HEAD...1620505H|Hornschemeier, A;Wik, D;Yukita, M;Ptak, A;Venters, T;Lehmer, B;Maccarone, T;Zezas, A;Harrison, F;Stern, D;Williams, B;Vulic, N|A Deep NuSTAR Survey of M31: Compact object types in our Nearest Neighbor Galaxy|0
+2017HEAD...1630006W|Walton, D;Mooley, K|V404 Cyg with NuSTAR: relativistic reflection, jets and spin|0
+2017HEAD...1640003G|Grefenstette, B;Fuerst, F;Miller, J;Nowak, M;Smith, D;Tomsick, J;Walton, D;Wilms, J;Bachetti, M|The Hard X-ray Variability of the LMC X-1 system|0
+2017HEAD...1640004M|McCollough, M;Koljonen, K;Gurwell, M;Trushkin, S;Pooley, G|Cygnus X-3 Returns to an Active State|0
+2017HEAD...1640201S|Smith, D|The Sun as a Library for High-Energy Astrophysics|0
+2017HEAD...1640502L|Lansbury, G;Aird, J;Alexander, D;Stern, D;Koss, M;Gandhi, P;Harrison, F;Tomsick, J;Treister, E|A hard X-ray view of the hidden AGN population with NuSTAR|0
+2017SPD....4810614M|Marsh, A;Smith, D;Glesener, L;Klimchuk, J;Bradshaw, S;Hannah, I;Vievering, J;Ishikawa, S;Krucker, S;Christe, S|Hard X-Ray Constraints on Small-Scale Coronal Heating Events|0
+2017SPD....4810802W|Wright, P;Hannah, I;Grefenstette, B;Glesener, L;Krucker, S;Hudson, H;Smith, D;Marsh, A;White, S;Kuhar, M|Microflare Heating of an Active Region Observed with NuSTAR, Hinode/XRT, and SDO/AIA|0
+2017SPD....4810803G|Glesener, L;Krucker, S;Hannah, I;Hudson, H;Grefenstette, B;White, S;Smith, D;Marsh, A|Results from NuSTAR: Dynamics and time evolution in a sub-A class hard X-ray flare|0
+2017SPD....4820004V|Vievering, J;Glesener, L;Grefenstette, B;Smith, D|Investigation of Energy Release from X-ray Flares on Young Stellar Objects with NuSTAR|0
+2017SPD....4820101H|Hannah, I;Kleint, L;Krucker, S;Wright, P;Glesener, L;Grefenstette, B|NuSTAR's X-ray observations of a microflaring active region|0
+2017symm.conf..153J|Jaisawal, G;Naik, S|Cyclotron absorption lines in the era of Suzaku and NuSTAR|6
+2017symm.conf..229M|Miyake, K;Noda, H;Yamada, S;Makishima, K;Nakazawa, K|The new primary X-ray spectral component of IC4329A confirmed with Suzaku and NuSTAR|0
+2017xru..conf....3B|Bamba, A|Recent Progress on Supernova Remnants - Progenitors, Evolution, Cosmic-ray Acceleration|0
+2017xru..conf...13F|Fabian, A;Parker, M;Pinto, C;Lohfink, A;Buisson, D;Alston, W;Kara, E;Cackett, E;Chiang, C;Dauser, T|An overview of results emerging from a 1.5 Ms long exposure of the highly variable AGN IRAS13224-3809|0
+2017xru..conf...16I|Ingram, A|Probing general relativistic precession around stellar-mass black holes with tomography and polarimetry|0
+2017xru..conf...31A|Akylas, A;Georgantopoulos, I;Corral, A;Ranalli, P;Lanzuisi, G|Compton-thick AGN at high and low redshift|0
+2017xru..conf...40B|Beuchert, T;Markowitz, A;Dauser, T;Garcia, J;Keck, M;Wilms, J;Kadler, M;Brenneman, L;Zdziarski, A|A Suzaku, NuSTAR and XMMNewton} view on variable absorption and relativistic reflection in NGC 4151|0
+2017xru..conf...41B|Bianchi, S|Photoionisation instability of winds in X-ray binaries|0
+2017xru..conf...43B|Boissay, R;Ricci, C;Paltani, S|A hard X-ray view of the soft excess in AGN|0
+2017xru..conf...45B|Braito, V;Reeves, J;Severgnini, P;Della Ceca, R;Matzeu, G;Ballo, L;Nardini, E|A new candidate for a powerful wind detected in a bright IR-galaxy|0
+2017xru..conf...47B|Brenneman, L|Illuminating the Disk/Corona/Jet Connection in NLS1 Galaxies|0
+2017xru..conf...69D|Del Moro, A;Alexander, D;Aird, J;Bauer, F;Civano, F|Average broad-band X-ray spectra of the NuSTAR AGN|0
+2017xru..conf...73E|Ebisawa, K;Kusunoki, E;Mizumoto, M;Sameshima, H|A unified spectral variation model for Seyfert 1 Galaxies observed with NuSTAR and XMM/Suzaku|0
+2017xru..conf...81F|Fuerst, F;Walton, D;Stern, D;Bachetti, M;Barret, D;Brightman, M;Harrison, F;Rana, V|Accretion geometry and variability of ULX pulsars|0
+2017xru..conf...85G|Gandhi, P;Bachetti, M;Dhillon, V;Fender, R;Harrison, F;Malzac, J;Markoff, S;Tomsick, J;Walton, D;Casella, P|Sub-second optical and X-ray timing correlations in V404 Cygni|0
+2017xru..conf...90G|Grinberg, V;Uttley, P;Wilms, J;Miller-Jones, J;Pottschmidt, K;Niu, S;Hirsch, M;Chocbox Collaboration|Opening the CHOCBOX: clumpy stellar winds in Cyg X-1|0
+2017xru..conf..109K|Kammoun, E;Risaliti, G;Stern, D;Celotti, A|Determination of the coronal properties of luminous quasars at cosmological redshifts|0
+2017xru..conf..115K|Koliopanos, F;Vasilopoulos, G;Bachetti, M;Godet, O;Webb, N;Barret, D|ULX spectra revisited: Are accreting, highly magnetized neutron stars the engines of ultraluminous X-ray sources?|0
+2017xru..conf..122K|Krivonos, R|NuSTAR and XMM-Newton observations of the Arches cluster in 2015: fading hard X-ray emission from the molecular cloud|0
+2017xru..conf..126L|Lansbury, G;Aird, J;Alexander, D;Fuentes, C;Gandhi, P;Harrison, F;Koss, M;Stern, D;Tomsick, J;Treister, E|A hard X-ray view of the distant active galactic nucleus (AGN) population with NuSTAR|0
+2017xru..conf..129L|Lobban, A;Pounds, K;Reeves, J;Vaughan, S|Spectral-Timing Analysis of the Nearby QSO PG1211+143|0
+2017xru..conf..131L|Ludlam, R;Miller, J;Cackett, E;Degenaar, N;Fabian, A;Parker, M;Tomsick, J;Bachetti, M;Barret, D;Natalucci, L|A Hard Look at Accreting NS LMXBs|0
+2017xru..conf..137M|Mantovani, G;Nandra, K;Ponti, G|The relativistic Fe Kα line in Seyfert 1 galaxies|0
+2017xru..conf..144M|Matzeu, G;Reeves, J;Nardini, E;Braito, V;Costa, M;Lobban, A;Tombesi, F|The evidence for a radiatively driven disc-wind in PDS 456|0
+2017xru..conf..145M|Mehdipour, M;Kaastra, J;Kriss, G;Cappi, M;Costantini, E;Behar, E;Petrucci, P;Mao, J;Peretz, U;NuSTAR Team|Chasing obscuring outflows in AGN: discovery in NGC 3783|0
+2017xru..conf..151M|Middei, R|Multi-wavelength campaign on NGC 7469: The broad-band X-ray spectrum|0
+2017xru..conf..152M|Mukai, K;Nelson, T;Sokoloski, J;Chomiuk, L;Finzell, T;Linford, J;Weston, J;Rupen, M;Mioduszewski, A|NuSTAR Observations of Fermi-detected Novae, V339 Delphini and V5668 Sagitarii|1
+2017xru..conf..160N|Nowak, M;Grinberg, V;Walton, D;Wilms, J|4U 1957+11: Low mass, maximal Kerr black hole, or neutron star?|0
+2017xru..conf..180P|Porquet, D;Reeves, J;Lobban, A;Braito, V;Nardini, E;Grosso, N;Matt, G;Marinucci, A;Tortosa, A;Ursino, F|A deep X-ray view of the bare nucleus Seyfert Ark120: unveiling the core of AGN|0
+2017xru..conf..190R|Ricci, C;Koss, M;Trakhtenbrot, B;Bauer, F;Treister, E;Ueda, Y;Schawinski, K;Oh, K;Lamperti, I|The relation between nuclear obscuration, galaxy interactions and accretion properties of AGN|0
+2017xru..conf..208S|Schwope, A;Worpel, H;Traulsen, I|Triggered high-state simultaneous XMM-Newton/NuSTAR observations of AM Herculis|0
+2017xru..conf..225T|Tortosa, A|NuSTAR spectral analysis of the two bright Seyfert 1 galaxies: MCG +8-11-11 and NGC6814.|1
+2017xru..conf..230U|Uttley, P|A deep stare into the abyss: spectral-timing an entire binary orbit of Cygnus X-1|0
+2017xru..conf..234W|Walton, D;X-ray Binaries Team|V404 Cyg with NuSTAR: relativistic reflection, jets and spin|0
+2017xru..conf..243Z|Zappacosta, L;Comastri, A;Civano, F;Puccetti, S;Fiore, F;Aird, J;Del Moro, A;Lansbury, G;Lanzuisi, G;Alexander, D|Characterizing the AGN populating the NuSTAR Extragalactic Survey fields|0
+2017xru..conf..252B|Ballo, L;Severgnini, P;Della Ceca, R;Braito, V;Campana, S;Moretti, A;Vignali, C;Zaino, A|XMM-Newton and NuSTAR joint observations of Mrk 915: a deep look into the X-ray properties|0
+2017xru..conf..254B|Bhatta, G;Stawarz, L;Zola, S;Ostrowski, M;Balasubramaniam, K;Zdziarski, A;Markowitz, A;Kuzmicz, A;Jamrozy, M;MAXI Team|Constraining Disk-Jet Connection in the Radio Source 4C+74.26|0
+2017xru..conf..255B|Buchner, J;Brightman, M;Nandra, K;Bauer, F|New models for the CLUMPY AGN obscurer|0
+2017xru..conf..271F|Fink, M;Dauser, T;Beuchert, T;Jeffreson, S;Tawabutr, J;Wilms, J;Garcia, J;Walton, D|Bare AGN: an Unobscured View of the Innermost Accretion Geometry|0
+2017xru..conf..283J|Jiang, J;Parker, M;Fabian, A|2016 XMM-Newton Observation of IRAS 13224-3809|0
+2017xru..conf..286K|Kammoun, E;Papadakis, I|The X-ray stable emission in MCG-6-30-15|0
+2017xru..conf..287K|Kammoun, E;Risaliti, G;Nardini, E|On the accuracy of reflection-based SMBH spin measurements|0
+2017xru..conf..309P|Panagiotou, C;Walter, R|NuSTAR monitoring of Eta Carinae|0
+2017xru..conf..312P|Petrucci, P;Clavel, M;DeMarco, B;Ponti, G;Corbel, S;Rodriguez, J;Coriat, M;Malzac, J;Belmont, R;Ferraira, J|XMM-NuSTAR monitoring of GX 339-4 during its transition back to the hard state: spectral analysis|0
+2017yCat..18310102K|Kapanadze, B;Dorner, D;Vercellone, S;Romano, P;Aller, H;Aller, M;Hughes, P;Reynolds, M;Kapanadze, S;Tabagari, L|VizieR Online Data Catalog: Swift and NuSTAR obs. of the BL Lac Mrk 421 (Kapanadze+, 2016)|0
+2017yCat..18360099L|Lansbury, G;Stern, D;Aird, J;Alexander, D;Fuentes, C;Harrison, F;Treister, E;Bauer, F;Tomsick, J;Balokovic, M;Del Moro, A;Gandhi, P;Ajello, M;Annuar, A;Ballantyne, D;Boggs, S;Brandt, W;Brightman, M;Chen, C;Christensen, F;Civano, F;Comastri, A;Craig, W;Forster, K;Grefenstette, B;Hailey, C;Hickox, R;Jiang, B;Jun, H;Koss, M;Marchesi, S;Melo, A;Mullaney, J;Noirot, G;Schulze, S;Walton, D;Zappacosta, L;Zhang, W|VizieR Online Data Catalog: NuSTAR serendipitous survey: the 40-month catalog (Lansbury+, 2017)|0
+2017yCat..74600019M|Malizia, A;Landi, R;Molina, M;Bassani, L;Bazzano, A;Bird, A;Ubertini, P|VizieR Online Data Catalog: Update of INTEGRAL/IBIS AGN catalogue (Malizia+, 2016)|0
+2016AAS...22712604W|Wik, D;Hornschemeier, A;Yukita, M;Ptak, A;Lehmer, B;Maccarone, T;Antoniou, V;Zezas, A;Harrison, F;Stern, D;Venters, T;Williams, B;Eracleous, M;Plucinsky, P;Pooley, D|A New Deep, Hard X-ray Survey of M31: Monitoring Black Hole and Neutron Star Accretion States in the X-ray Binary Population of Our Nearest Neighbor|0
+2016AAS...22714117M|Mori, K;Hailey, C;Nynka, M;Grefenstette, B|A hard X-ray study of the Jovian magnetosphere with NuSTAR|0
+2016AAS...22721807L|Laycock, S;Maccarone, T;Steiner, J;Christodoulou, D;Yang, J;Binder, B;Cappallo, R|How Massive are the Heaviest Black Holes in X-ray Binaries? Exploring IC 10 X-1 and its Kind.|0
+2016AAS...22723101H|Harrison, F|A New View of the High Energy Universe with NuSTAR|0
+2016AAS...22724356L|Lanz, L;Alatalo, K;Brightman, M;Ogle, P;Appleton, P|NGC1266: Compton-thick AGN or Ultra-compact Starburst?|0
+2016AAS...22730804P|Ptak, A;Hornschemeier, A;Wik, D;Yukita, M;Lehmer, B;Zezas, A;Maccarone, T;Venters, T;Antoniou, V;Harrison, F;Stern, D;NuSTAR Starburst Team|NuSTAR Observations of Starburst Galaxies|0
+2016AAS...22731705F|Fornasini, F;Tomsick, J;Bodaghee, A;Rahoui, F;Krivonos, R;Corral-Santana, J;An, H;Bauer, F;Gotthelf, E;Stern, D;NuSTAR Galactic Plane Survey Team|The search for low-luminosity high-mass X-ray binaries and the study of X-ray populations in the Galactic disk|0
+2016AAS...22734415M|Maccarone, T;Yukita, M;Hornschemeier, A;Lehmer, B;Antoniou, V;Ptak, A;Wik, D;Zezas, A;Boyd, P;Kennea, J;Page, K;Eracleous, M;Williams, B;NuSTAR mission Team|NuSTAR observations of M31: globular cluster candidates found to be Z sources|0
+2016AAS...22734416E|El-Batal, A;Miller, J|NuSTAR and Swift observations of the black hole binary GS 1354-64|0
+2016AAS...22741002Z|Zhang, S;NuSTAR Galactic Plane Survey Working Group|Investigating the Physics of Hard X-ray Outbursts from the Galactic Center Supermassive Black Hole Sagittarius A* with NuSTAR|0
+2016AAS...22741003H|Hailey, C;NuSTAR Galactic Plane Survey Working Group|Evidence for Intermediate Polars as the origin of the Galactic Center hard X-ray emission|0
+2016AAS...22741106S|Sleator, C;Tomsick, J;King, A;Miller, J;Boggs, S|Analysis of the iron Kα line from 4U 1728-34 with NuSTAR and Swift|0
+2016AAS...22821806S|Sharma, N;Hamaguchi, K;Gull, T;Corcoran, M;Madura, T;Russell, C;Takahashi, H;Grefenstette, B;Yuasa, T;Moffat, A;Richardson, N;Groh, J;Pittard, J;Owocki, S|Constraining the Extremely Hard X-ray Excess of Eta Carinae using XMM-Newton and NuSTAR|0
+2016AAS...22821921N|Noori, H;Roberts, M;McLaughlin, M;Hessels, J;Breton, R;17077031498,|Examining the hard X-ray emission of the redback PSR J2129-0429|1
+2016AAS...22830902B|Boggs, S|Recent Discoveries in Nuclear Line Astrophysics|0
+2016AAS...22840008B|Balokovic, M;Harrison, F;NuSTAR,|Obscuring Torus Geometry from the NuSTAR Survey of Swift/BAT AGN|0
+2016APS..APR.U4003H|Hailey, C|NuSTAR results from the Galactic Center - diffuse emission|0
+2016HEAD...1510003L|Lohfink, A;Fabian, A;Malzac, J;Belmont, R;Buisson, D|New insights into AGN coronae|0
+2016HEAD...1510502H|Huppenkothen, D|Detection of Quasi-Periodic Oscillations in the June 2015 Outburst of V404 Cygni|0
+2016HEAD...1510612B|Ballantyne, D;Keek, L|Revealing the Evolving Accretion Disk Corona in AGNs with Multi-Epoch X-ray Spectroscopy: the case of Mrk 335|0
+2016HEAD...1510613B|Balokovic, M;Harrison, F|Constraining Properties of AGN Coronae with NuSTAR: the Case of the Obscured Seyfert 1.9 Nucleus MCG -05-23-016|0
+2016HEAD...1510618L|LaMassa, S;Ricarte, A;Glikman, E;Urry, C;Stern, D;Yaqoob, T;Lansbury, G;Civano, F;Boggs, S;Brandt, W;Chen, C;Christensen, F;Craig, W;Hailey, C;Harrison, F;Hickox, R;Koss, M;Ricci, C;Treister, E;Zhang, W|NuSTAR Observations of Reddened Quasars|0
+2016HEAD...1510619L|Lohfink, A;Reynolds, C;Alston, W;Pinto, C|Decoding the spectral variations in the bare Seyfert 1 galaxy Fairall 9|0
+2016HEAD...1510623R|Rivers, E|The NuSTAR View of Reflecting and Absorbing Circumnuclear Material in AGN|0
+2016HEAD...1510904N|Neilsen, J;Coriat, M;Motta, S;Fender, R;Ponti, G;Corbel, S|No Disk Winds in Failed Black Hole Outbursts? New Observations of H1743-322|0
+2016HEAD...1510908W|Walton, D;NuSTAR Collaboration|NuSTAR Observations of V404 Cygnus in Outburst|0
+2016HEAD...1511002Y|Yukita, M;Ptak, A;Maccarone, T;Hornschemeier, A;Wik, D;Pottschmidt, K;Antoniou, V;Baganoff, F;Lehmer, B;Zezas, A;Boyd, P;Kennea, J;Page, K|What dominates the X-ray emission of Andromeda at E&gt;20 keV? New constraints from NuSTAR and Swift on a very bright, hard X-ray source|0
+2016HEAD...1511409G|Gotthelf, E;Halpern, J|Lastest Results from the X-ray Monitoring Campaign of AXP CXOU J17145.7-381031 in CTB 37B|0
+2016HEAD...1511410H|Hu, C;Ng, C|Chandra Phase-Resolved Spectroscopy of the High-Magnetic-Field Pulsar B1509-58|0
+2016HEAD...1511417N|Noori, H;Roberts, M;Hessels, J;McLaughlin, M;Breton, R|X-ray studies of the redback system PSR J2129-0429|0
+2016HEAD...1511616D|Drake, S;Smale, A|The HEASARC in 2016: 25 Years and Counting|0
+2016HEAD...1511701G|Gotthelf, E|NuSTAR Search for Hard X-ray Emission from the Star Formation Regions in Sh2-104|0
+2016HEAD...1512003B|Bodaghee, A;Tomsick, J;Fornasini, F;Krivonos, R;Stern, D;Mori, K;Rahoui, F;Boggs, S;Christensen, F;Craig, W;Hailey, C;Harrison, F;Zhang, W|NuSTAR discovers a cyclotron line and reveals the spinning up of the accreting X-ray pulsar IGR J16393-4643|0
+2016HEAD...1512006B|Brumback, M|An Investigation of Luminous X-Ray Pulsars: Exploring Accretion Onto the Magnetized Neutron Star LMC X-4|0
+2016HEAD...1512012K|Kennea, J;Coe, M;Laycock, S;Bird, T;Bartlett, E;Townsend, L;McBride, V;Corbet, R;Haberl, F;Vasilopoulos, G|The Recent Outburst of SMC X-2 as seen by Swift, MAXI and NuSTAR|1
+2016HEAD...1512014L|Ludlam, R;Miller, J;Cackett, E;Fabian, A;Bachetti, M;Parker, M;Tomsick, J;Barret, D;Natalucci, L;Rana, V;Harrison, F|NUSTAR AND XMM-Newton Observations of the Neutron Star X-Ray Binary 1RXS J180408.9-34205|1
+2016HEAD...1512018N|Nowak, M;Chakrabarty, D;Wilms, J;Kuhnel, M|The Quiescent Neutron Star and Hierarchical Triple, 4U2129+47|0
+2016HEAD...1512024W|Wolff, M;Becker, P;Gottlieb, A;Fuerst, F;Britton Hemphill, P;Marcu-Cheatham, D;Pottschmidt, K;Schwarm, F;Wilms, J;Wood, K|The NuSTAR X-ray Spectrum of Hercules X-1: A Radiation-Dominated Radiative Shock|0
+2016HEAD...1512025Z|Zoghbi, A;Miller, J;Harrison, F|Decoding the heartbeat of the microquasar GRS 1915+105: Disk wind Connection|0
+2016HEAD...1512031L|Laycock, S;Steiner, J;Maccarone, T;Christodoulou, D;Binder, B;Yang, J;Cappallo, R|The Masses of Black Holes with Wolf-Rayet Companions|0
+2016HEAD...1520101W|Wolff, M|Overview of the physics in the accretion column|0
+2016HEAD...1520107F|Fuerst, F;MAGNET Collaboration|Pulsar observations with NuSTAR|0
+2016HEAD...1520201F|Fabian, A|Observations of Relativistically Broadened Iron K-Alpha Lines from AGNs|0
+2016HEAD...1520202T|Tomsick, J|Observations of Relativistically Broadened Iron Kalpha Lines From Stellar Mass Black Holes|0
+2016HEAD...1520203K|Kara, E|Recent X-ray Reverberation Mapping Results|0
+2016HEAD...1520703B|Brightman, M;Harrison, F;Walton, D;Fuerst, F;Bachetti, M;Zezas, A;Ptak, A;Hornschemeier, A;Yukita, M;Tendulkar, S;Grefenstette, B|Chandra and NuSTAR studies of the ultraluminous X-ray sources in M82|0
+2016HEAD...1530601G|Grefenstette, B;Boggs, S;Fryer, C;Harrison, F;Madsen, K;Miyasaka, H;Reynolds, S;Zoglauer, A|The 3D Distribution of 44-Ti in Cassiopeia A|1
+2016HEAD...1530604H|Hamaguchi, K;Corcoran, M;Sharma, N;Gull, T;Takahashi, H;Grefenstette, B;Yuasa, T;Stuhlinger, M;Russell, C;Moffat, A;Madura, T;Richardson, N;Groh, J;Pittard, J;Owocki, S|Eta Carinae's Hard X-ray Tail Measured with XMM-Newton and NuSTAR|0
+2016HEAD...1540001H|Hickox, R|Resolving the Cosmic X-ray Background with NuSTAR and Chandra|0
+2016HEAD...1540003B|Bottacini, E|Deeply X-raying the Local Universe|0
+2016HEAD...1540202W|Wik, D;Hornschemeier, A;Yukita, M;Ptak, A;Lehmer, B;Maccarone, T;Antoniou, V;Zezas, A;Harrison, F;Stern, D;Venters, T;Williams, B;Eracleous, M;Plucinsky, P;Pooley, D|A new deep, hard X-ray survey of M31: Identifying Black Holes and Neutron Stars in the X-ray Binary Population of our Nearest Neighbor|0
+2016SPD....47.0630V|Vievering, J;Glesener, L;Grefenstette, B;Smith, D|NuSTAR Observations of Bright X-ray Flares from Young Stellar Objects|0
+2016SPD....4720204M|Marsh, A;Glesener, L;Klimchuk, J;Bradshaw, S;Smith, D;Hannah, I|Hard X-ray Detectability of Small-Scale Coronal Heating Events|0
+2016SPD....4740302G|Glesener, L;Krucker, S;Hannah, I;Smith, D;Grefenstette, B;Marsh, A;Hudson, H;White, S;Chen, B|The smallest hard X-ray flare?|0
+2016SPIE.9910E..0ZF|Forster, K;Madsen, K;Miyasaka, H;Craig, W;Harrison, F;Rana, V;Markwardt, C;Grefenstette, B|Getting NuSTAR on target: predicting mast motion|3
+2016agnt.confE...7P|Piconcelli, E;Martocchia, S;Zappacosta, L;Bischetti, M;Bongiorno, A;Duras, F;Fiore, F;Vietri, G;Vignali, C;Lanzuisi, G;Brusa, M;Bianchi, S;Feruglio, C;Wissh Collaboration|X-Ray Properties Of Hyper-Luminous Quasars|0
+2016agnt.confE..31T|Tortosa, A;Matt, G|Hot Coronae In Nearby Seyfert Galaxies|0
+2016agnt.confE..34N|Nardini, E;Porquet, D;Reeves, J;Braito, V;Lobban, A;Matt, G|Discovery Of Transient Iron Fluorescence In The Bare Seyfert Ark 120|0
+2016agnt.confE..45M|Marinucci, A;Bianchi, S;Matt, G;Balokovic, M;Bauer, F;Brandt W. N.,;Gandhi, P;Guainazzi, M;Harrison, F;Iwasawa, K;Nicastro, F;Puccetti, S;Ricci, C;Walton, D;Stern, D|Obscured AGN With NuSTAR|0
+2016agnt.confE..46U|Ursini, F;Petrucci, P;Matt, G;Bianchi, S;Cappi, M;De Marco, B;De Rosa, A;Malzac, J;Marinucci, A;Ponti, G;Tortosa, A|High-Energy Monitoring Of NGC 4593 With XMM-Newton And NuSTAR|0
+2016agnt.confE..54V|Verrecchia, F;Leto, C;Giommi, P;Ciprini, S;et al.,|The Swift/UVOT Blazar Image Processing For Multi-Wavelength Campaigns And OJ287|0
+2016agnt.confE..71R|Ruffa, I;Vignali, C;Mignano, A|IRAS 00183-7111: ALMA And X-Ray View Of An Ultra Luminous Infrared Galaxy|0
+2016agnw.confE..24D|Del Moro, A|Hard X-ray spectral properties of distant AGN in the NuSTAR surveys|0
+2016agnw.confE..31T|Tortosa, A|Hot coronae in nearby Seyfert galaxies|0
+2016agnw.confE..67A|Alexander, D|A review of X-ray selected AGN|0
+2016agnw.confE..72H|Hickox, R|The technicolor "big picture" of black hole evolution: Multiwavelength views of AGN, galaxies, and large-scale structures|0
+2016agnw.confE..80B|Brightman, M;Masini, A;Ballantyne, D;Brandt, W;Chen, C;Comastri, A;Farrah, D;Gandhi, P;Ricci, C;Stern, D;Walton, D|A growth-rate indicator for Compton-thick active galactic nuclei|0
+2016agnw.confE..91G|Gokus, A;Schartel, N;Santos-Lleo, M;Wilms, J;Furst, F;Ballhausen, R|Simultaneous NuSTAR - XMM-Newton observations of AGN|0
+2016agnw.confE..92F|Fink, M;Dauser, T;Beuchert, T;Jeffreson, S;Tawabutr, J;Wilms, J;Garcia, J;Walton, D|Relativistic Iron Line Fits|0
+2016agnw.confE..94B|Beuchert, T;Markowitz, A;Dauser, T;Garcia, J;Keck, M;Brenneman, L;Zdziarski, A;Wilms, J;Kadler, M|The symbiosis of variable absorption and blurred reflection in the X-ray-absorbed Seyfert 1.5 galaxy NGC 4151|0
+2016cosp...41E.312C|Chakrabarty, D|Quiescent emission in accreting neutron star transients: comparing Cen X-4 and the transitional millisecond pulsars|0
+2016cosp...41E.365C|Clavel, M;Tomsick, J;Rahoui, F;Krivonos, R|Identifying IGR J18293-1213 and IGR J14091-6108 as magnetic CVs|0
+2016cosp...41E.754G|Guillot, S|The NuSTAR view of the non-thermal emission from PSR J0437-4715|0
+2016cosp...41E1328M|Mondal, S;Debnath, D;Chakrabarti, S;Jana, A;Chatterjee, D;Molla, A|Signature of Iron line on the spectra of GX 339-4 with TCAF using NuSTAR observation|0
+2016cosp...41E2189Z|Zoghbi, A;Miller, J;Harrison, F|Decoding the Heartbeat of GRS1915+105 with NuSTAR and Chandra|0
+2016cosp...41E2190Z|Zoghbi, A;Miller, J|Timescale-dependent X-ray Reverberation in AGN: Decoding the relativistic spectro-timing response|0
+2016int..workE..78K|Krivonos, R|NuSTAR observation of the Arches cluster: X-ray spectrum extraction from a 2D image|0
+2016xnnd.confE..31R|Rauw, G|Perspectives for hot stars in the next decade|0
+2016xnnd.confE..45F|Fuerst, F;NuSTAR Binaries Team;NuSTAR AGN Team|Coronal geometry at low mass-accretion rates from XMM and NuSTAR spectra|0
+2016xnnd.confE..65S|Sidoli, L;Paizis, A;Sguera, V|XMM-Newton and NuSTAR joint observation of the periodic Supergiant Fast X-ray Transient IGR J11215-5952|0
+2016xnnd.confE..78B|Beuchert, T;Markowitz, A;Dauser, T;Garcia, J;Keck, M;Brenneman, L;Zdziarski, A;Wilms, J;Kadler, M|The symbiosis of variable absorption and blurred reflection in the X-ray-absorbed Seyfert 1.5 galaxy NGC 4151|0
+2016xnnd.confE..93K|Kammoun, E;Risaliti, G;Celotti, A|Determination of the coronal properties of a very luminous quasar at z=1.77|0
+2016yCat..18160053W|Wehrle, A;Grupe, D;Jorstad, S;Marscher, A;Gurwell, M;Balokovic, M;Hovatta, T;Madejski, G;Harrison, F;Stern, D|VizieR Online Data Catalog: Multiwavelength obs. of BL Lac in 2012-2013 (Wehrle+, 2016)|0
+2015AAS...22514022R|Reynolds, S;Zoglauer, A;Boggs, S;Harrison, F;NuSTAR Team|NuSTAR Observations of Hard X-ray Continuum from SN 1987A|0
+2015AAS...22514442B|Balokovic, M;Harrison, F;Comastri, A;NuSTAR Extragalactic Surveys Team|First Results from the NuSTAR Survey of Swift/BAT AGN|0
+2015AAS...22520305Z|Zhang, S;NuSTAR Galactic Plane Survey Team|NuSTAR Observation of Sgr B2: Reflection of Past Sgr A* X-ray Outburst, Cosmic Ray Illumination or Both?|0
+2015AAS...22520306K|Krivonos, R;NuSTAR,|Galactic Ridge X-ray Emission study with NuSTAR|0
+2015AAS...22521401W|Wilson-Hodge, C;Cherry, M;Case, G;Baumgartner, W;Beklen, E;Bhat, N;Briggs, M;Buehler, R;Camero-Arranz, A;Connaughton, V;Diehl, R;Finger, M;Gehrels, N;Greiner, J;Harrison, F;Hays, E;Jahoda, K;Jenke, P;Kippen, R;Kouveliotou, C;Krimm, H;Kuulkers, E;Madsen, K;Markwardt, C;Meegan, C;Natalucci, L;Paciesas, W;Preece, R;Rodi, J;Shaposhnikov, N;Skinner, G;Swartz, D;von Kienlin, A;Zhang, X|When a Standard Candle Flickers: Hard X-ray Variations in the Crab Nebula|0
+2015AAS...22522201M|Mori, K;NuSTAR,|NuSTAR Galactic Center Survey|0
+2015AAS...22522202F|Fornasini, F;NuSTAR,|NuSTAR Norma Arm Survey|0
+2015AAS...22522203H|Hailey, C;NuSTAR,|The NuSTAR Galactic Plane Survey: The Legacy Program|0
+2015AAS...22522204B|Balokovic, M;NuSTAR,|The NuSTAR Survey of Swift/BAT Sources|0
+2015AAS...22522205L|Lansbury, G;NuSTAR,|The NuSTAR Serendipitous Survey|0
+2015AAS...22522206C|Civano, F;NuSTAR,|The NuSTAR Survey of the COSMOS Field|0
+2015AAS...22522207M|Mullaney, J;NuSTAR,|The NuSTAR Survey of the Extended Chandra Deep Field South (ECDFS)|0
+2015AAS...22522208A|Aird, J;NuSTAR,|The NuSTAR Extragalactic Surveys: Number Counts and Directly Resolved Fraction of the Cosmic X-ray Background|0
+2015AAS...22522209S|Stern, D;NuSTAR,|Extended Mission NuSTAR Extragalactic Survey Plans|0
+2015AAS...22530406W|Wik, D;NuSTAR Team|NuSTAR Observations of Galaxy Clusters|0
+2015AAS...22530501W|Wilkins, D;Gallo, L|The evolving corona and evidence for jet launching from the supermassive black hole in Markarian 335|0
+2015AAS...22533301H|Harrison, F|Bringing the High Energy Universe into Focus: Science Highlights from the NuSTAR Mission|0
+2015AAS...22534417H|Hamaguchi, K;Corcoran, M;Takahashi, H;Yuasa, T;Groh, J;Russell, C;Pittard, J;Madura, T;Owocki, S;Grefenstette, B|Extremely Hard X-ray Emission from Eta Carinae observed with XMM-Newton and NuSTAR around Periastron in 2014.5|0
+2015AAS...22534530F|Fornasini, F;Tomsick, J;Bachetti, M;Fuerst, F;Natalucci, L;Pottschmidt, K;Smith, D;Wilms, J|Does the HMXB IGR J18214-1318 contain a black hole or neutron star?|0
+2015AAS...22534533T|Tyler, J;Lehmer, B;Hornschemeier, A;Yukita, M;Wik, D;Ptak, A;Stern, D;Harrison, F;Maccarone, T;Zezas, A;Antoniou, V;NuSTAR Starburst Team|The 0.3-30 keV spectra of Powerful Starburst Galaxies: NuSTAR and Chandra observations ofNGC 3256 and NGC 3310|0
+2015AAS...22542503V|Venters, T;Wik, D;Lehmer, B;Hornschemeier, A;Yukita, M;Ptak, A;Zezas, A;Antoniou, V;Argo, M;Bechtol, K;Boggs, S;Christensen, F;Craig, W;Hailey, C;Harrison, F;Krivonos, R;Maccarone, T;Stern, D;Zhang, W|Broadband Spectral Modeling of NGC 253 from Hard X-rays to TeV Gamma Rays|0
+2015AAS...22542506H|Hornschemeier, A;Lehmer, B;Yukita, M;Wik, D;Ptak, A;Tyler, J;Zezas, A;Maccarone, T;Venters, T;Bechtol, K;Argo, M;Harrison, F;Stern, D;NuSTAR Team|Extragalactic X-ray binaries from 0.5-30 keV with Chandra and NuSTAR|0
+2015AAS...22543208K|Koss, M;NuSTAR,|A New Method for Selecting Compton Thick AGN Above 10 keV with NuSTAR and Swift BAT|0
+2015AAS...22543210B|Bauer, F;Arevalo, P;Gandhi, P;Stern, D;Alexander, D;Balokovic, M;Boggs, S;Brandt, W;Brightman, M;Christensen, F;Comastri, A;Craig, W;Del Moro, A;Hailey, C;Harrison, F;Hickox, R;Luo, B;Markwardt, C;Marinucci, A;Matt, G;Rigby, J;Rivers, E;Saez, C;Treister, E;Urry, C;Zhang, W|NuSTAR Detection of Multiple Reflections in NGC 1068|0
+2015AGUFMSH13B2441M|Marsh, A;Smith, D;Glesener, L;Hannah, I;Krucker, S;Hudson, H;Grefenstette, B;Madsen, K;Caspi, A|The NuSTAR Sensitivity to Quiet-Sun Transient Events|0
+2015AGUFMSH13B2442H|Hannah, I;Wright, P;Grefenstette, B;Glesener, L;Hudson, H;Smith, D;Krucker, S;Marsh, A;White, S|EUV &amp; X-ray observations of microflare heating of AR12333|0
+2015AGUFMSH31D..03H|Hannah, I;Grefenstette, B;Smith, D;Marsh, A;Glesener, L;Krucker, S;Hudson, H;White, S;Madsen, K;Caspi, A;Vogel, J;Shih, A|NuSTAR X-ray observations of small flares and non-flaring active regions|0
+2015APS..APR.K9001F|Fuerst, F|NuSTAR results on Ultra-Luminous X-ray sources: black holes or neutron stars?|0
+2015ASInC..12..135R|Rani, P;Stalin, C|Hard X-ray flux variations in AGN from NuSTAR|0
+2015IAUGA..2249476L|Liu, Y;Li, X|An X-Ray Spectral and Temporal Model for Clumpy Tori in Active Galactic Nuclei|0
+2015IAUGA..2254206C|Civano, F|The Active Galactic Nuclei Population through the eyes of X-ray surveys|0
+2015IAUGA..2255331B|Brightman, M;Stern, D;Balokovic, M;Harrison, F|Determination of the covering factor of Compton thick AGN with NuSTAR and its appliction to X-ray survey data|0
+2015IAUGA..2255913Z|Zhang, S|NuSTAR Observation of Galactic Center Molecular Clouds: Reconstructing Sgr A* X-ray Outburst History|0
+2015IAUGA..2257581B|Balokovic, M;Harrison, F|Results from the NuSTAR Survey of Swift/BAT AGN|0
+2015IAUGA..2258336H|Hornschemeier, A;Basu-Zych, A;Lehmer, B|All the X-ray binaries in the Universe: X-ray Emission from Normal and Starburst Galaxies Near and Far|0
+2015IAUGA..2258434S|Severo Coppi, P;Odaka, H;Done, C;Shaham, Y|The X-Ray Spectrum and Polarization of Obscured AGN with Complex Absorber Geometries: Improved Calculations and Impact on X-Ray Background Studies|0
+2015TESS....120402H|Hannah, I;Marsh, A;Glesener, L;Smith, D;Grefenstette, B;Madsen, K;Krucker, S;Hudson, H;White, S;Shih, A|Hard X-ray imaging spectroscopy of hot coronal sources and active regions with NuSTAR|0
+2015TESS....121302M|Marsh, A;Hannah, I;Glesener, L;Smith, D;Grefenstette, B;Madsen, K;Krucker, S;Hudson, H;White, S;Caspi, A;Christe, S;Shih, A;Mewaldt, R;Pivovaroff, M;Vogel, J|High-sensitivity search for transient solar X-ray emission with NuSTAR|0
+2015arXiv150103534T|Tomsick, J;Bellm, E;Fuerst, F;Harrison, F;Miyasaka, H;Tendulkar, S;Bhalerao, V;Chakrabarty, D;King, A;Miller, J;Natalucci, L;Stern, D|NuSTAR Observations of X-Ray Binaries|1
+2015deam.confE...4B|Balokovic, M;Harrison, F|NuSTAR Survey of Obscured Swift/BAT-selected AGN|0
+2015deam.confE..10B|Brightman, M;Balokovic, M;Stern, D;Harrison, F;Nandra, K;Salvato, M;Aird, J|Determining the torus covering factor in AGN: Results from NuSTAR and Chandra surveys|0
+2015deam.confE..59L|Lansbury, G;Alexander, D;Gandhi, P;Assef, R;Stern, D;Del Moro, A|Uncovering Heavy Obscuration and High Luminosities in Type 2 Quasars with NuSTAR|0
+2015deam.confE..68M|Masini, A;Comastri, A|NuSTAR observations of water maser AGN|0
+2015ebha.confE...1B|Bachetti, M|Ultraluminous X-ray sources - three exciting years|0
+2015ebha.confE...3D|Dauser, T;Garcia, J;Wilms, J|Review of Relativistic Reflection Models|0
+2015ebha.confE..15W|Walton, D;NuSTAR Science Team|Recent Highlights from the NuSTAR Mission|0
+2015ebha.confE..17B|Bianchi, S|NuSTAR catches the unveiling nucleus of NGC 1068|0
+2015ebha.confE..18B|Bonson, K;Gallo, L|How well can we measure black hole spin?|0
+2015ebha.confE..21C|Cappi, M;NGC 5548 Collaboration|Anatomy of the AGN in NGC5548: Discovery of a fast and massive outflow - An overview|0
+2015ebha.confE..27E|Earnshaw, H;Roberts, T;Mezcua, M;Middleton, M;Sutton, A;Done, C;Harrison, F;Heil, L;Lansbury, G;Walton, D|An Intermediate-Mass Black Hole candidate in M51|0
+2015ebha.confE..31G|Garcia, J;Dauser, T;Steiner, J;McClintock, J;Keck, M;Wilms, J|Constraining Key Coronal Parameters of Black Holes via X-ray Reflection Spectroscopy|0
+2015ebha.confE..33G|Goosmann, R;Tamborra, F;Marin, F;Mouchet, M;Dumont, A;Dovciak, M|Disk reprocessing in three dimensions - emerging spectra and polarization|0
+2015ebha.confE..36H|Hirsch, M;Hell, N;Nowak, M;Pottschmidt, K;Grinberg, V;Wilms, J;Furst, F;Tomsick, J;Harrison, F;Stern, D|Wind Absorption in High Mass X-ray Binaries|0
+2015ebha.confE..38H|Hori, T;Ueda, Y;Shidatsu, M;Done, C;Kubota, A|Broadband X-ray Study of the Galactic Black Hole Binary 4U 1630-47 with Suzaku|0
+2015ebha.confE..40K|Kara, E;Alston, W;Fabian, A|A global view of reverberation in bare Seyferts|0
+2015ebha.confE..41K|Kobayashi, S;Nakazawa, K;Makishima, K|A New Characterization of the Compton Process in the ULX Spectra|0
+2015ebha.confE..46M|Marinucci, A|The coronal parameters of local Seyfert galaxies|0
+2015ebha.confE..55R|Reeves, J;Nardini, E;Gofford, J;Braito, V;Risaliti, G;Walton, D;Harrison, F;Matzeu, G;Costa, M;Matt, G|The Powerful Black Hole Wind in the Luminous Quasar PDS 456|0
+2015ebha.confE..56R|Risaliti, G|Measurement of the black hole spin and the size of the X-ray source in AGNs with strong relativistic reflection|0
+2015ebha.confE..57R|Roberts, T;Middleton, M;Sutton, A;Mezcua, M;Walton, D;Heil, L|ULX behaviour: the ultraluminous state, winds and interesting anomalies|0
+2015ebha.confE..62S|Shaw, A;Charles, P;Gandhi, P;Altamirano, D;Uttley, P;Tomsick, J|The unusual accretion state of the black hole candidate Swift J1753.5-0127|0
+2015ebha.confE..65U|Ursini, F|High-energy monitoring of Seyfert galaxies: the case of NGC 5548 and NGC 4593|0
+2015ebha.confE..66W|Wilkins, D;Gallo, L;Fabian, A;Kara, E|Driving Extreme Variability: Measurements of the changing coronae and evidence for jet launching|0
+2015ebha.confE..85F|Fuerst, F;NuSTAR binaries working Group|The complex accretion geometry of GX339-4 as seen by NuSTAR|0
+2015ebha.confE.116S|Svoboda, J;Domcek, V;Dovciak, M;Guainazzi, M;Marinucci, A|X-ray reflection from black-hole accretion discs with a radially stratified ionisation|0
+2015mgm..conf.2443K|Kitaguchi, T;An, H;Rana, V;Kaspi, V;Gotthelf, E;Harrison, F;Boggs, S;Christensen, F;Craig, W;Hailey, C;Stern, D;Zhang, W|Preliminary Hard X-Ray Results of AE Aquarii Observed with NuSTAR|0
+2015toru.conf..O07M|Masini, A|The physics of megamaser AGN|0
+2015toru.conf..O09A|Annuar, A|Towards A Complete Census of the Compton-thick AGN population and the NH Distribution of AGN in the Local Universe.|0
+2015toru.conf..O12H|Harrison, F|NuSTAR: Probing the Geometry of Obscuration in the High Energy X-ray Band|0
+2015toru.conf..O14B|Balokovic, M|NuSTAR Survey of Swift/BAT AGN as a Probe of the Unified Model|0
+2015toru.conf..O16B|Brightman, M|Determining the torus covering factor in Compton-thick AGN with NuSTAR|0
+2015toru.conf..O19R|Rivers, E|Investigating Dueling Scenarios in NGC 7582 with Broadband X-ray Spectroscopy|0
+2015wrs..conf..159H|Hamaguchi, K;Corcoran, M;eta Car Team|Extremely Hard X-ray Emission from η Car Observed with XMM-Newton and NuSTAR around Periastron in 2014.6|0
+2015xrvw.confE..20B|Brenneman, L|Impact of the X-ray Surveyor on Supermassive Black Hole Spin Measurements|0
+2014AAS...22323802D|Dibi, S;Markoff, S;Belmont, R;Malzac, J;Barriere, N;Tomsick, J|Plasma evolution around Sgr A*|0
+2014AAS...22333606K|Krivonos, R;Tomsick, J;Bauer, F;Baganoff, F;Barriere, N;Bodaghee, A;Boggs, S;Christensen, F;Craig, W;Grefenstette, B;Hailey, C;Harrison, F;Hong, J;Madsen, K;Mori, K;Nynka, M;Stern, D;Zhang, W;NuSTAR Team|First hard X-ray detection of the non-thermal emission around the Arches cluster: morphology and spectral studies with NuSTAR|0
+2014AAS...22341003H|Hornschemeier, A;Wik, D;Lehmer, B;Ptak, A;Antoniou, V;Argo, M;Bechtol, K;Harrison, F;Krivonos, R;Leyder, J;Maccarone, T;Stern, D;Venters, T;Yukita, M;Zezas, A;Zhang, W;NuSTAR Team|A Hard X-ray View of Starburst Galaxies with NuSTAR|0
+2014AAS...22341004W|Wik, D;Lehmer, B;Yukita, M;Hornschemeier, A;Ptak, A;Zezas, A;Bechtol, K;Venters, T;Argo, M;Antoniou, V;Harrison, F;Krivonos, R;Leyder, J;Maccarone, T;Stern, D;Zhang, W;NuSTAR Team|Starburst Galaxy NGC 253 in a Hard (X-ray) Light: Resolving its Emission with NuSTAR|0
+2014AAS...22341601S|Stern, D;NuSTAR Team|The Nuclear Spectroscopic Telescope Array (NuSTAR)|0
+2014AAS...22341602G|Grefenstette, B;NuSTAR Team|NuSTAR Observations of the Cassiopeia A Supernova Remnant|0
+2014AAS...22341603T|Teng, S;Brandt, W;Luo, B;Harrison, F;NuSTAR Science Team|NuSTAR Reveals Intrinsically X-ray Weak Broad Absorption Line (BAL) Quasars|0
+2014AAS...22341604W|Walton, D;NuSTAR Team|The NuSTAR Black Hole Spin Program|0
+2014AAS...22343801M|Marshall, F;Corcoran, M;Drake, S;Sabol, E;Forster, K;Smale, A;Zonak, S|Public NuSTAR Archive at the HEASARC|0
+2014AAS...22343802Z|Zhang, S;Barriere, N;Tomsick, J;Baganoff, F;Dexter, J;Neilsen, J;NuSTAR Team|Sagittarius A* X-ray Flares Simultaneously Detected by NuSTAR And Chandra|0
+2014AAS...22343803M|Mori, K;Hailey, C;Tomsick, J;Krivonos, R;Hong, J;NuSTAR Team|Detection of hard X-ray point sources above 10 keV in the NuSTAR Galactic Center Survey|0
+2014AAS...22343804K|Keck, M;Brenneman, L;Elvis, M;Fuerst, F;Madejski, G;Matt, G;Harrison, F;Stern, D;NuSTAR Team|NGC 4151 as Revealed by NuSTAR and Suzaku|0
+2014AAS...22343805F|Forster, K;Harrison, F;Grefenstette, B;Madsen, K;Miyasaka, H;Rana, V;Hubbard, M;Davis, A;Perri, M;Puccetti, S;Spagnuolo, N;Giommi, P;Bester, M;Lewis, M;Roberts, B;Craig, W;Marchant, W;Markwardt, C;Marshall, F;Zonak, S;Dodd, S;Stern, D|NuSTAR observatory operations and data analysis|0
+2014AAS...22343806F|Furniss, A;Paneque, D;Madejski, G;Noda, K;Giommi, P;Fuhrmann, L;Hughes, Z;Balokovic, M;Harrison, F;Urry, C|Simultaneous Broadband Observations of Mrk 501 with NuSTAR|0
+2014AAS...22343807Y|Yukita, M;Lehmer, B;Wik, D;Hornschemeier, A;Ptak, A;Antoniou, V;Argo, M;Bechtol, K;Harrison, F;Krivonos, R;Leyder, J;Maccarone, T;Stern, D;Venters, T;Zezas, A;Zhang, W;NuSTAR Team|A NuSTAR Perspective on the X-ray Binary Populations of Starburst Galaxies|0
+2014AAS...22343808N|Nynka, M;Hailey, C;Reynolds, S;Madsen, K;Grefenstette, B;NuSTAR Team|NuSTAR analysis of the PWN and SNR in G21.5-0.9|0
+2014AAS...22343809H|Hailey, C;Nynka, M;Zhang, S;Mori, K;NuSTAR Team|First Results from NuSTAR observations of Galactic Center Non-thermal Filaments|0
+2014AAS...22343810B|Brenneman, L;Fuerst, F;Walton, D;Madejski, G;Matt, G;Marinucci, A;Risaliti, G;Elvis, M;Fabian, A;Ballantyne, D;Harrison, F;Stern, D;NuSTAR Team|Revealing Fundamental Physical Properties of AGN with NuSTAR, XMM and Suzaku|0
+2014AAS...22343811B|Balokovic, M;Ajello, M;Blandford, R;Boggs, S;Borracci, F;Chiang, J;Christensen, F;Craig, W;Forster, K;Furniss, A;Fuerst, F;Ghisellini, G;Giebels, B;Giommi, P;Grefenstette, B;Hailey, C;Harrison, F;Hayashida, M;Humensky, B;Inoue, Y;Koglin, J;Krawczynski, H;Madejski, G;Madsen, K;Meier, D;Nelson, T;Ogle, P;Paneque, D;Perri, M;Puccetti, S;Reynolds, C;Sbarrato, T;Stern, D;Tagliaferri, G;Urry, C;Wehrle, A;Zhang, W;NuSTAR,;Swift,;MAGIC,;VERITAS,|Results from the 2013 Multi-wavelength Campaign on Mkn 421|0
+2014AAS...22343812R|Rana, V;Tomsick, J;Corbel, S;Chakrabarty, D;Miller, J;Harrison, F;Smith, D;Stern, D|The first broadband study of a black hole transient in quiescence with NuSTAR and XMM-Newton|0
+2014AAS...22343813P|Pottschmidt, K;Bachetti, M;Leyder, J;Boggs, S;Chakrabarty, D;Christensen, F;Craig, W;Fuerst, F;Grefenstette, B;Hailey, C;Harrison, F;Hornschemeier, A;Madsen, K;Markwardt, C;Stern, D;Tang, R;Tomsick, J;Wilms, J;Zhang, W|NuSTAR observations of SMC X-1 at two different superorbital phases|0
+2014AAS...22343814P|Perez, K;Hailey, C;Mori, K;NuSTAR Team|Morphology of the Galactic Center with NuSTAR|0
+2014AAS...22343815M|Markwardt, C;Madsen, K;An, H;Barriere, N;Brejholt, N;Christensen, F;Craig, W;Forster, K;Fuerst, F;Grefenstette, B;Hailey, C;Harrison, F;Kitaguchi, T;Miyasaka, H;Nynka, M;Pivovaroff, M;Rana, V;Vogel, J;Walton, D;Westergaard, N;Wik, D;Zhang, S;Zoglauer, A;NuSTAR Team|NuSTAR Effective Area Calibration|0
+2014AAS...22343816P|Ptak, A;Hornschemeier, A;Zezas, A;Antoniou, V;Argo, M;Bechtol, K;Harrison, F;Krivonos, R;Lehmer, B;Leyder, J;Maccarone, T;Stern, D;Venters, T;Wik, D;Yukita, M;Zhang, W|In Search of AGN in Starburst Galaxies with NuSTAR|0
+2014AAS...22343817T|Tomsick, J;Nowak, M;Parker, M;Miller, J;Fabian, A;Harrison, F;Bachetti, M;Barret, D;Boggs, S;Christensen, F;Craig, W;Forster, K;Fuerst, F;Grefenstette, B;Hailey, C;King, A;Madsen, K;Natalucci, L;Pottschmidt, K;Ross, R;Stern, D;Walton, D;Wilms, J;Zhang, W|The reflection component from Cygnus X-1 in the soft state measured by NuSTAR and Suzaku|0
+2014AAS...22343818N|Natalucci, L;Tomsick, J;Bazzano, A;Smith, D;Bachetti, M;Barret, D;Boggs, S;Christensen, F;Craig, W;Fiocchi, M;Fuerst, F;Grefenstette, B;Hailey, C;Harrison, F;Krivonos, R;Kuulkers, E;Miller, J;Pottschmidt, K;Stern, D;Ubertini, P;Walton, D;Zhang, W|Observations of a hard state of 1E 1740.7-2942 by NuSTAR and INTEGRAL|0
+2014AAS...22343819C|Chakrabarty, D;Tomsick, J;Grefenstette, B;Barret, D;Boggs, S;Christensen, F;Craig, W;Hailey, C;Harrison, F;Psaltis, D;Stern, D;Wik, D;Zhang, W|NuSTAR/XMM-Newton Detection of a Hard Cut-Off in Cen X-4|0
+2014AAS...22343820F|Fuerst, F;Pottschmidt, K;Wilms, J;Tomsick, J;Bachetti, M;Boggs, S;Christensen, F;Craig, W;Grefenstette, B;Hailey, C;Harrison, F;Madsen, K;Miller, J;Stern, D;Walton, D;Zhang, W|NuSTAR discovery of a luminosity dependent cyclotron line energy in Vela X-1|0
+2014AAS...22343821M|Madsen, K;Reynolds, S;Harrison, F;Grefenstette, B;Miyasaka, H;Stern, D;Zoglauer, A;Boggs, S;Fryer, C;Hailey, C;Nynka, M;Kaspi, V;An, H;Kitaguchi, T;Forster, K;Craig, W;Wik, D|NuSTAR Imaging of Pulsar Wind Nebulae MSH 15-52 and the Crab|0
+2014AAS...22344301W|Walton, D;NuSTAR Team|The NuSTAR Ultraluminous X-ray Source Program|0
+2014AAS...22412364G|Glesener, L;Caspi, A;Christe, S;Hannah, I;Hudson, H;Hurford, G;Grefenstette, B;Krucker, S;Marsh, A;Mewaldt, R;Pivovaroff, M;Shih, A;Smith, D;Vogel, J;White, S|Current and future solar observation using focusing hard X-ray imagers|0
+2014AAS...22422112B|Brenneman, L;Marinucci, A;Walton, D;Risaliti, G;Matt, G;Harrison, F;Stern, D|Measuring Supermassive Black Hole Spins in NGC 1365 and MCG--6-30-15 Using XMM-Newton and NuSTAR|0
+2014AAS...22422113K|Keck, M;Brenneman, L;Elvis, M;Fuerst, F;Madejski, G;Matt, G;Harrison, F;Stern, D;McDowell, J;Risaliti, G|The AGN Corona and Supermassive Black Hole of NGC 4151 as Revealed by NuSTAR and Suzaku|0
+2014ATel.6129....1K|Kuehnel, M;Ferrigno, C;Esposito, V;Grinberg, V;Fuerst, F;Pottschmidt, K;Ballhausen, R;Kreykenbohm, I;Wilms, J|INTEGRAL-detection of the ongoing outburst of the BeXRB KS 1947+300|0
+2014ATel.6227....1S|Smith, D|Outburst Ephemeris for the Supergiant Fast X-ray Transient IGR J17544-2619|4
+2014EPJWC..6406001W|Wilms, J|The Magnetospheres of (Accreting) Neutron Stars. Observational Clues|0
+2014EPJWC..6406010B|Bachetti, M;Barret, D;Boggs, S;Christensen, F;Craig, W;Fabian, A;Forster, K;Furst, F;Grefenstette, B;Hailey, C;Harrison, F;Hornschemeier, A;Madsen, K;Miller, J;Parker, M;Ptak, A;Rana, V;Risaliti, G;Stern, D;Walton, D;Webb, N;Zhang, W|The NuSTAR ULX program|0
+2014EPJWC..6406011B|Bachetti, M;Miyasaka, H;Harrison, F;Furst, F;Barret, D;Bellm, E;Boggs, S;Chakrabarty, D;Chenevez, J;Christensen, F;Craig, W;Grefenstette, B;Hailey, C;Madsen, K;Natalucci, L;Pottschmidt, K;Stern, D;Tomsick, J;Walton, D;Wilms, J;Zhang, W|NuSTAR detection of 4s Hard X-ray Lags from the Accreting Pulsar GS 0834-430|0
+2014HEAD...1410001G|Greene, J|Black Holes and Galaxies: An ``Active'' Field|0
+2014HEAD...1410503Y|Younes, G;Kouveliotou, C;Kennea, J;Grefenstette, B;Miller, J;Tomsick, J;Harrison, F|Simultaneous Chandra and NuSTAR View of the Bursting Pulsar|0
+2014HEAD...1410504B|Barriere, N;Krivonos, R;Tomsick, J;Bachetti, M;Boggs, S;Christensen, F;Craig, W;Hailey, C;Harrison, F;Hong, J;Mori, K;Stern, D;Zhang, W|NuSTAR detection of an absorption line in the Type I burst spectrum of GRS 1741.9-2853|0
+2014HEAD...1410601M|Matt, G|The origin of the soft excess emission in Ark 120, and the importance of taking the broad view|0
+2014HEAD...1410602K|Keck, M;Brenneman, L;Elvis, M;Fuerst, F;Madejski, G;Matt, G;Harrison, F;Stern, D;McDowell, J;Risaliti, G;Marinucci, A;Walton, D;Ballantyne, D|The AGN of NGC 4151 as revealed by NuSTAR and Suzaku|0
+2014HEAD...1410603W|Walton, D|NuSTAR and XMM-Newton Observations of NGC 1365: Extreme Absorption Variability and a Constant Inner Disk|0
+2014HEAD...1410604B|Ballantyne, D;Bollenbacher, J;Brenneman, L;Madsen, K;Balokovic, M;Boggs, S;Christensen, F;Craig, W;Gandhi, P;Hailey, C;Harrison, F;Lohfink, A;Marinucci, A;Markwardt, C;Stern, D;Walton, D;Zhang, W|NuSTAR Reveals the Comptonizing Corona of the Broad-Line Radio Galaxy 3C 382|0
+2014HEAD...1410605R|Risaliti, G|NuSTAR measurement of the high spin of the supermassive black hole in NGC 4051|0
+2014HEAD...1410606B|Balokovic, M;Harrison, F;Comastri, A|NuSTAR View of the Nearby Obscured AGN|0
+2014HEAD...1411006Z|Zezas, A;Kyanidis, S;Sobolewska, M;Reig, P;Hornschemeier, A;Lehmer, B;Nowak, M;Yukita, M;Pottschmidt, K;Ptak, A;Tomsick, J|A diagnostic tool for compact objects and accretion states of X-ray binaries|0
+2014HEAD...1411010B|Bechtol, K|NuSTAR observations of the starburst galaxy NGC 253: constraints on diffuse inverse Compton emission|0
+2014HEAD...1411011P|Ptak, A;Hornschemeier, A;Zezas, A;Antoniou, V;Argo, M;Bechtol, K;Harrison, F;Krivonos, R;Lehmer, B;Maccarone, T;Stern, D;Venters, T;Wik, D;Yukita, M;Zhang, W;Tatum, M|In Search of AGN in Starburst Galaxies with NuSTAR|0
+2014HEAD...1411402T|Tendulkar, S;Yang, C;Kaspi, V;Hascoet, R;Beloborodov, A|Phase Resolved Observations of Magnetar 4U 0142+61 with NuSTAR|0
+2014HEAD...1411406G|Gotthelf, E;Halpern, J;Gelfand, J|PSR J1640-4631: a Young, Energetic Pulsar Powering the Gamma-ray Source HESS J1640-465|0
+2014HEAD...1411701F|Fornasini, F;Tomsick, J;Bodaghee, A;Krivonos, R;Rahoui, F;Bauer, F;Corral-Santana, J;Stern, D|NuSTAR Observations of the Norma Arm Region|0
+2014HEAD...1411702P|Pottschmidt, K;Bachetti, M;Fuerst, F;Leyder, J;Boggs, S;Chakrabarty, D;Christensen, F;Craig, W;Grefenstette, B;Hailey, C;Harrison, F;Hornschemeier, A;Madsen, K;Markwardt, C;Stern, D;Tang, R;Tomsick, J;Wilms, J;Zhang, W|NuSTAR observations of SMC X-1 at two different superorbital phases|0
+2014HEAD...1411703G|Grefenstette, B|Supernova Remnants with NuSTAR: Highlights and new discoveries|0
+2014HEAD...1411704V|Vogel, J;Hascoet, R;Kaspi, V;An, H;Archibald, R;Beloborodov, A;Boggs, S;Christensen, F;Craig, W;Gotthelf, E;Grefenstette, B;Hailey, C;Harrison, F;Kennea, J;Madsen, K;Pivovaroff, M;Stern, D;Zhang, W|Observations of the Magnetar 1E 2259+586 with NuSTAR|0
+2014HEAD...1411705T|Teng, S|A NuSTAR Survey of Nearby Ultraluminous Infrared Galaxies|0
+2014HEAD...1412103O|Orio, M|A NuSTAR Observation of Nova V475 Sco|0
+2014HEAD...1412218B|Bodaghee, A;Tomsick, J;Krivonos, R;Stern, D;Bauer, F;Fornasini, F;Barriere, N;Boggs, S;Christensen, F;Craig, W;Gotthelf, E;Hailey, C;Harrison, F;Hong, J;Mori, K;Zhang, W|Initial results from NuSTAR observations of the Norma Arm|0
+2014HEAD...1412220W|Walton, D|Recent highlights from NuSTAR Observations of extreme ULXs|0
+2014HEAD...1412223T|Tendulkar, S;Yang, C;An, H;Kaspi, V;Archibald, A;Bassa, C;Bellm, E;Bogdanov, S;Harrison, F;Hessels, J;Janssen, G;Lyne, A;Patruno, A;Stappers, B;Stern, D;Tomsick, J;Boggs, S;Chakrabarty, D;Christensen, F;Craig, W;Hailey, C;Zhang, W|NuSTAR Observations of the State Transition of Millisecond Pulsar Binary PSR J1023+0038|0
+2014HEAD...1420001H|Harrison, F|NuSTAR Status and Plans|0
+2014HEAD...1420002P|Perez, K|Discovery of Diffuse Hard X-ray Emission in the Galactic Center|0
+2014HEAD...1420003R|Reeves, J;Nardini, E;Gofford, J;Harrison, F;Risaliti, G;Braito, V;Costa, M;Matzeu, G;Walton, D;Behar, E;O'Brien, P;Turner, T;Ward, M|The Powerful Black Hole Wind in the Luminous Quasar PDS 456|0
+2014HEAD...1420005L|Luo, B;Brandt, W;Alexander, D;Stern, D;Teng, S;Arevalo, P;Bauer, F;Boggs, S;Christensen, F;Comastri, A;Craig, W;Farrah, D;Gandhi, P;Hailey, C;Harrison, F;Koss, M;Ogle, P;Puccetti, S;Saez, C;Scott, A;Walton, D;Zhang, W|Weak Hard X-ray Emission from Broad Absorption Line Quasars Observed with NuSTAR: Evidence for Intrinsic X-ray Weakness|0
+2014HEAD...1420504F|Fuerst, F|Studying the inner accretion disk of GX 339-4 with NuSTAR and Swift|0
+2014HEAD...1430001R|Rivers, E;Harrison, F;Walton, D;Risaliti, G;Stern, D|Absorption Variability in NGC 1365 Seen With NuSTAR and XMM-Newton|0
+2014HEAD...1430003B|Brenneman, L;Walton, D;Marinucci, A;Matt, G;Risaliti, G;Harrison, F;Stern, D|Probing Supermassive Black Hole Spins in MCG--6-30-15 and NGC 1365 with XMM-Newton and NuSTAR|0
+2014HEAD...1440005F|Furniss, A|Simultaneous Broadband Observations of jet-dominated active galaxies with NuSTAR|0
+2014HEAD...1440306Y|Yukita, M;Lehmer, B;Wik, D;Hornschemeier, A;Ptak, A;Antoniou, V;Argo, M;Bechtol, K;Harrison, F;Krivonos, R;Maccarone, T;Stern, D;Tatum, M;Venters, T;Zhang, W|A NuSTAR Perspective on the Star-forming Galaxy M83|0
+2014IAUS..303..333P|Ponti, G;Morris, M;Clavel, M;Terrier, R;Goldwurm, A;Soldi, S;Sturm, R;Haberl, F;Nandra, K|On the past activity of Sgr A*|13
+2014IAUS..303..439H|Hailey, C|First results from the NuSTAR "mini-survey" of the Galactic center region|0
+2014SPIE.9144E..1QA|An, H;Madsen, K;Westergaard, N;Boggs, S;Christensen, F;Craig, W;Hailey, C;Harrison, F;Stern, D;Zhang, W|In-flight PSF calibration of the NuSTAR hard X-ray optics|13
+2014SPIE.9144E..1RK|Kitaguchi, T;Bhalerao, V;Cook, W;Forster, K;Grefenstette, B;Harrison, F;Madsen, K;Mao, P;Miyasaka, H;Rana, V|Inflight performance and calibration of the NuSTAR CdZnTe pixel detectors|3
+2014SPIE.9149E..0RF|Forster, K;Harrison, F;Dodd, S;Stern, D;Miyasaka, H;Madsen, K;Grefenstette, B;Markwardt, C;Craig, W;Marshall, F|NuSTAR observatory science operations: on-orbit acclimation|4
+2014efxu.conf..279F|Fabian, A;Kara, E;Parker, M|Relativistic Disc lines|3
+2014efxu.conf..291P|Ptak, A;Hornschemeier, A;Lehmer, B;Wik, D;Yukita, M;NuSTAR Starburst Team|A Hard Look at Starburst Galaxies with NuSTAR -NuSTAR Starbursts -|0
+2014efxu.conf..300D|Done, C|Scaling accretion flow models from BHB to AGN - Why doesn't it work? -|6
+2014xru..confE..32B|Bachetti, M;NuSTAR ULX Working Group|Ultraluminous X-ray Sources with NuSTAR and Friends|0
+2014xru..confE..60D|Del Moro, A;Mullaney, J;Alexander, D;Comastri, A;Bauer, F;Stern, D;Aird, J;Civano, F;Lansbury, G;Harrison, F|The NuSTAR hard X-ray view on quasars|0
+2014xru..confE..75F|Fuerst, F;NuSTAR Galactic Binaries working Group|Studying the inner accretion disk of GX 339-4 with NuSTAR and Swift|0
+2014xru..confE..85G|Gotthelf, E;NuSTAR Observatory Team|NuSTAR pulsar discoveries: SGR J1745-2900 near the Galactic Center and PSR J1640- 4631 associated with HESS J1640-465|0
+2014xru..confE.128M|Marinucci, A;NuSTAR Team|Revealing the coronal properties of Seyfert galaxies with NuSTAR|0
+2014xru..confE.199U|Ursini, F;Petrucci, P;Matt, G;Bianchi, S;Cappi, M;Kaastra, J;De Rosa, A;Boissay, R;Paltani, S;NGC 5548 Collaboration|Anatomy of the AGN in NGC 5548: the XMM/NuSTAR/INTEGRAL view|0
+2014xru..confE.203W|Walton, D;Risaliti, G;Harrison, F;NuSTAR Team|NuSTAR and XMM-Newton Observations of NGC 1365: Extreme Absorption Variability and a Constant Inner Disc|2
+2014xru..confE.239C|Costa, M;Reeves, J;Gofford, J;Nardini, E;Matzeu, G;Braito, V;O'Brien, P;Ward, M;Turner, J;Miller, L|Long Term X-ray Spectral Variability of PDS 456 with Suzaku, XMM-Newton and NuSTAR|0
+2014xru..confE.271L|Lehmer, B;Wik, D;Yukita, M;Hornschemeier, A;Ptak, A;NuSTAR Starburst Team|A Hard X-ray View of Starburst Galaxies with NuSTAR|0
+2014xru..confE.275L|Lohfink, A;Ogle, P;Matt, G;Lanz, L;Madejski, G;Reynolds, C;Walton, D;Harrison, F|Broad Line Radio Galaxies with NuSTAR|0
+2014xru..confE.310R|Rivers, E|Absorption Variability in NGC 1365 seen with XMM-Newton and NuSTAR|0
+2014xvge.confE..33P|Ptak, A|A Hard X-ray Look at Starburst Galaxies with NuSTAR|0
+2013AAS...22120901H|Harrison, F;NuStar Team|First Results from The Nuclear Spectroscopic Telescope Array (NuSTAR) Mission|0
+2013AAS...22120902H|Hailey, C;NuSTAR Science Team|NuSTAR Galactic Plane Survey and Galactic Binaries Program|0
+2013AAS...22120903B|Boggs, S;NuSTAR Science Team|NuSTAR Supernova Program|0
+2013AAS...22120904S|Stern, D;NuSTAR Science Team|NuSTAR Extragalactic Survey and Obscured AGN Program|0
+2013AAS...22120905B|Brenneman, L;NuSTAR Science Team|The NuSTAR AGN Physics Program|0
+2013AAS...22124401M|Mori, K;Barriere, N;Bauer, F;Boggs, S;Craig, W;Christensen, F;Dufour, F;Gotthelf, E;Grindlay, J;Hailey, C;Harrison, F;Helfand, D;Hong, J;Hornstrup, A;Jakobsen, S;Kaspi, V;Krivonos, R;Madsen, K;Natalucci, L;Perez, K;Smith, D;Stern, D;Tomsick, J;Zhang, S;Zhang, W;NuSTAR Team|NuSTAR Galactic Plane Survey Program|0
+2013AAS...22124402B|Barriere, N;Perez, K;Baganoff, F;Bauer, F;Boggs, S;Christensen, F;Craig, W;Gotthelf, E;Hailey, C;Harrison, F;Hong, J;Madsen, K;Mori, K;Nynka, M;Stern, D;Tomsick, J;Zhang, S;Zhang, W;NuSTAR Team|Sagittarius A* Observations with NuSTAR|0
+2013AAS...22124403T|Tomsick, J;Bachetti, M;Barret, D;Bellm, E;Bhalarao, V;Boggs, S;Chakrabarty, D;Chenevez, J;Christensen, F;Corbel, S;Craig, W;Dufour, F;Fuerst, F;Grefenstette, B;Hailey, C;Harrison, F;Hornstrup, A;Kaspi, V;Kitaguchi, T;Krivonos, R;Lopez, L;Lotti, S;Lu, T;Markwardt, C;Miyasaka, H;Natalucci, L;Nowak, M;Pottschmidt, K;Rana, V;Smith, D;Staubert, R;Stern, D;Wilms, J;Zhang, W;NuSTAR Team|The NuSTAR Program for Galactic Binaries|0
+2013AAS...22124404F|Fuerst, F;Grefenstette, B;Boggs, S;Christensen, F;Craig, W;Hailey, C;Harrison, F;Pottschmidt, K;Staubert, R;Stern, D;Tomsick, J;Wilms, J;Zhang, W;NuSTAR Team|Cyclotron Lines with NuSTAR -- First Results|0
+2013AAS...22124405K|Kaspi, V;An, H;Bachetti, M;Bellm, E;Beloborodov, A;Boggs, S;Craig, W;Chakrabarty, D;Christensen, F;Dufour, F;Gotthelf, E;Hailey, C;Harrison, F;Kitaguchi, T;Kouveliotou, C;Mori, K;Pivovaroff, M;Stern, D;Vogel, J;Zhang, W;NuSTAR Team|NuSTAR Observations of Magnetars and Rotation-Powered Pulsars|0
+2013AAS...22124406A|An, H;Kitaguchi, T;Rana, V;Boggs, S;Christensen, F;Craig, W;Hailey, C;Harrison, F;Kaspi, V;Stern, D;Zhang, W;NuSTAR Team|A Magnetic White Dwarf Binary, AE Aquarii, in the 3--79 keV Band with NuSTAR|0
+2013AAS...22124407D|Dufour, F;Mori, K;Beloborodov, A;Gotthelf, E;Boggs, S;Christensen, F;Craig, W;Hailey, C;Harrison, F;Kaspi, V;Stern, D;Zhang, W;NuSTAR Team|NuSTAR Observations of the Geminga Pulsar|0
+2013AAS...22124408G|Grefenstette, B;An, H;Boggs, S;Christensen, F;Craig, W;Freyer, C;Hailey, C;Harrison, F;Humensky, B;Jakobsen, S;Kaspi, V;Kitaguchi, T;Lopez, L;Madsen, K;Miyasaka, H;Mori, K;Nynka, M;Pivovaroff, M;Reynolds, S;Stern, D;Westergaard, N;Wik, D;Zhang, W;Zoglauer, A;NuSTAR Team|The NuSTAR Program for Supernova Remnants|0
+2013AAS...22124409M|Madsen, K;An, H;Boggs, S;Craig, W;Freyer, C;Grefenstette, B;Hailey, C;Humensky, B;Jakobsen, S;Kaspi, V;Lopez, L;Miyasaka, H;Mori, K;Nynka, M;Pivovaroff, M;Reynolds, S;Kitaguchi, T;Westergaard, N;Wik, D;Zoglauer, A;Christensen, F;Harrison, F;Stern, D;Zhang, W;NuSTAR Team|The NuSTAR Program for Pulsar-wind Nebulae|0
+2013AAS...22124410N|Nynka, M;Madsen, K;An, H;Boggs, S;Christensen, F;Craig, W;Freyer, C;Grefenstette, B;Hailey, C;Harrison, F;Humensky, B;Jakobsen, S;Kaspi, V;Kitaguchi, T;Lopez, L;Miyasaka, H;Mori, K;Pivovaroff, M;Reynolds, S;Stern, D;Westergaard, N;Wik, D;Zhang, W;Zoglauer, A;NuSTAR Team|NuSTAR's Preliminary Results of the Pulsar Wind Nebula G21.5-0.9|0
+2013AAS...22124411Z|Zoglauer, A;Barriere, N;Bellm, E;Bhalerao, V;Boggs, S;Christensen, F;Craig, W;Freyer, C;Hailey, C;Harrison, F;Hungerford, A;Kouveliotou, C;Kulkarni, S;Ofek, E;Ott, C;Reynolds, S;Stern, D;Zhang, W;NuSTAR Team|The NuSTAR Supernovae &amp; ToO Program|0
+2013AAS...22124412R|Rana, V;Bachetti, M;Barret, D;Boggs, S;Christensen, F;Craig, W;Fabian, A;Hailey, C;Harrison, F;Hornschemeier, A;Miller, J;Ptak, A;Risaliti, G;Stern, D;Walton, D;Webb, N;Zhang, W;NuSTAR Team|Probing Nature of Ultraluminous X-ray Sources using Broad-band X-ray Data|0
+2013AAS...22124413B|Boydstun, K;Ajello, M;Alexander, D;Assef, R;Ballantyne, D;Balokovic, M;Bauer, F;Boggs, S;Brandt, W;Christensen, F;Civano, F;Comastri, A;Craig, W;Del Moro, A;Elvis, M;Fiore, F;Hailey, C;Harrison, F;Helfand, D;Hickox, R;LaMassa, S;Lansbury, G;Luo, B;Madsen, K;Markwardt, C;Mullaney, J;Puccetti, S;Saez, C;Stern, D;Tagliaferri, G;Treister, E;Urry, C;Walton, D;Zhang, W;NuSTAR Science Team|Extragalactic Surveys with NuSTAR|0
+2013AAS...22124414L|Lu, T;Ajello, M;Alexander, D;Ballantyne, D;Balokovic, M;Bauer, F;Boggs, S;Boydstun, K;Christensen, F;Craig, W;Del Moro, A;Hailey, C;Harrison, F;Stern, D;Zhang, W;NuSTAR Team|An Overview of the NuSTAR Swift-BAT Extragalactic Survey and Preliminary Results|0
+2013AAS...22124415E|Elvis, M;Ballantyne, D;Blandford, R;Boggs, S;Boydstun, K;Brenneman, L;Cappi, M;Christensen, F;Craig, W;Fabian, A;Fuerst, F;Guainazzi, M;Hailey, C;Harrison, F;Madejski, G;Marinucci, A;Matt, G;Nandra, K;Reynolds, C;Stern, D;Walton, D;Zhang, W;NuSTAR Team|NuSTAR Observations of Bright AGNs|0
+2013AAS...22124416B|Balokovic, M;Ballantyne, D;Blandford, R;Boggs, S;Boydstun, K;Brenneman, L;Cappi, M;Christensen, F;Craig, W;Elvis, M;Fabian, A;Fuerst, F;Guainazzi, M;Hailey, C;Harrison, F;Madejski, G;Marinucci, A;Matt, G;Nandra, K;Reynolds, C;Stern, D;Walton, D;Zhang, W;NuSTAR Team|Cross-calibration of NuSTAR: A Multi-observatory Snapshot of Blazar 3C273|0
+2013AAS...22124417W|Walton, D;Alexander, D;Assef, R;Balokovic, M;Bauer, F;Boggs, S;Boydstun, K;Brandt, W;Christensen, F;Comastri, A;Craig, W;Farrah, D;Fiore, F;Hailey, C;Harrison, F;Hickox, R;Luo, B;Madsen, K;Rigby, J;Risaliti, G;Stern, D;Teng, S;Veilleux, S;Zhang, W|The NuSTAR Obscured AGN Observing Program|0
+2013AAS...22124418T|Teng, S;Walton, D;Rigby, J;Boggs, S;Christensen, F;Craig, W;Hailey, C;Harrison, F;Ptak, A;Stern, D;Veilleux, S;Zhang, W;NuSTAR Team|The NuSTAR View of the ULIRG Mrk 231|0
+2013AAS...22124419M|Madejski, G;Ajello, M;Balokovic, M;Blandford, R;Boggs, S;Boydstun, K;Christensen, F;Craig, W;Giebels, B;Giommi, P;Hailey, C;Harrison, F;Hayashida, M;Humensky, B;Inoue, Y;Koglin, J;Krawczynski, H;Meier, D;Ogle, P;Paneque, D;Perri, M;Puccetti, S;Readhead, A;Reynolds, C;Stern, D;Tagliaferri, G;Urry, C;Zhang, W;NuSTAR Team|NuSTAR Observations of Blazars and Radio Galaxies: First Results and Plans for the Future|0
+2013AAS...22124420W|Wik, D;Boggs, S;Christensen, F;Craig, W;Ferreira, D;Hailey, C;Harrison, F;Hornstrup, A;Kitaguchi, T;Madejski, G;Molendi, S;Pedersen, K;Stern, D;Zhang, W;Zoglauer, A;NuSTAR Team|NuSTAR's Hard Look at Clusters and Relics: Bullet Cluster First Results|0
+2013AAS...22124421P|Ptak, A;Argo, M;Bechtol, K;Boggs, S;Christensen, F;Craig, W;Hailey, C;Harrison, F;Hornschemeier, A;Lehmer, B;Leyder, J;Maccarone, T;Stern, D;Venters, T;Wik, D;Zezas, A;Zhang, W;NuSTAR Team|Getting a Good, Hard X-ray Look at Starburst Galaxies with NuSTAR|0
+2013AAS...22124422L|Lehmer, B;Wik, D;Argo, M;Bechtol, K;Boggs, S;Christensen, F;Craig, W;Hailey, C;Harrison, F;Hornschemeier, A;Leyder, J;Maccarone, T;Ptak, A;Stern, D;Venters, T;Zezas, A;Zhang, W;NuSTAR Team|NuSTAR, Chandra, and VLBA Monitoring of the X-ray Binary Population in NGC 253|0
+2013AAS...22124423G|Glesener, L;Boggs, S;Christensen, F;Craig, W;Hailey, C;Grefenstette, B;Harrison, F;Hudson, H;Hurford, G;Krucker, S;Marsh, A;Mewaldt, R;Pivovaroff, M;Smith, D;Stern, D;Vogel, J;White, S;Zhang, W;NuSTAR Team|Opportunities for Solar Science with NuSTAR|0
+2013AAS...22124424M|Miyasaka, H;HongJun, A;Bachetti, M;Bellm, E;Bhalerao, V;Boggs, S;Balokovic, M;Cook, R;Christensen, F;Craig, W;Forster, K;Fuerst, F;Grefenstette, B;Harrison, F;Hailey, C;Kitaguchi, T;Lu, T;Madsen, K;Mao, P;Nynka, M;Perri, M;Puccetti, S;Rana, V;Stern, D;Walton, D;Westergaard, N;Wik, D;Zhang, W;Zoglauer, A;NuSTAR Team|Commissioning and In-flight Calibration of the Nuclear Spectroscopic Telescope Array (NuSTAR)|0
+2013APS..APRD14007H|Hornschemeier, A;Argo, M;Bechtol, K;Boggs, S;Christensen, F;Craig, W;Hailey, C;Harrison, F;Lehmer, B;Leyder, J;Maccarone, T;Ptak, A;Stern, D;Venters, T;Wik, D;Zezas, A;Zhang, W|Hard X-ray emission from Starburst Galaxies with the NuSTAR Mission|0
+2013ATel.4978....1N|Negoro, H;Suzuki, K;Kawai, N;Serino, M;Ueno, S;Tomida, H;Nakahira, S;Kimura, M;Ishikawa, M;Mihara, T;Sugizaki, M;Morii, M;Yamamoto, T;Sugimoto, J;Takagi, T;Matsuoka, M;Usui, R;Ishikawa, K;Yoshii, T;Yoshida, A;Sakamoto, T;Nakano, Y;Tsunemi, H;Sasaki, M;Nakajima, M;Fukushima, K;Onodera, T;Ueda, Y;Shidatsu, M;Kawamuro, T;Tsuboi, Y;Higa, M;Yamauchi, M;Yoshidome, K;Ogawa, Y;Yamada, H;Yamaoka, K|MAXI observation of a bright X-ray flare with multiple peaks from Mrk 421|3
+2013EPJWC..6104013B|Balokovic, M;Ajello, M;Blandford, R;Boggs, S;Borracci, F;Chiang, J;Christensen, F;Craig, W;Forster, K;Furniss, A;Furst, F;Ghisellini, G;Giebels, B;Giommi, P;Grefenstette, B;Hailey, C;Harrison, F;Hayashida, M;Humensky, B;Inoue, Y;Koglin, J;Krawczynski, H;Madejski, G;Madsen, K;Meier, D;Nelson, T;Ogle, P;Paneque, D;Perri, M;Puccetti, S;Reynolds, C;Sbarrato, T;Stern, D;Tagliaferri, G;Urry, C;Wehrle, A;Zhang, W|First Results from NuSTAR Observations of Mkn 421|3
+2013HEAD...1310107L|Lohfink, A;Reynolds, C;Miller, E;Mushotzky, R;Brenneman, L|Zooming in on the Central Regions of a Radio-loud AGN -- 3C120|0
+2013HEAD...1310816B|Brenneman, L;Fuerst, F;Matt, G;Walton, D;Madejski, G;Marinucci, A;Elvis, M;Risaliti, G;Harrison, F;Stern, D;Boggs, S;Christensen, F;Craig, W;Zhang, W;NuSTAR Team|First Results from the NuSTAR AGN Physics Program|0
+2013HEAD...1310817B|Balokovic, M;Ajello, M;Blandford, R;Boggs, S;Boydstun, K;Christensen, F;Craig, W;Furniss, A;Giommi, P;Hailey, C;Hayashida, M;Humensky, B;Inoue, Y;Koglin, J;Madejski, G;Meier, D;Ogle, P;Perri, M;Puccetti, S;Readhead, A;Stern, D;Tagliaferri, G;Urry, C;Wehrle, A;Zhang, W;Nelson, T;Paneque, D|NuSTAR Observations of Blazar Mkn 421|0
+2013HEAD...1312013K|Krivonos, R;Tomsick, J;Boggs, S;Hailey, C;Harrison, F;NuSTAR Team|Hard X-ray Emission from the Arches Cluster Region Observed with NuSTAR|0
+2013HEAD...1312015P|Ptak, A;Argo, M;Bechtol, K;Boggs, S;Christensen, F;Craig, W;Hailey, C;Harrison, F;Hornschemeier, A;Lehmer, B;Leyder, J;Maccarone, T;Stern, D;Venters, T;Wik, D;Zezas, A;Zhang, W;NuSTAR Team|Getting a Good, Hard X-ray Look at Starburst Galaxies with NuSTAR|0
+2013HEAD...1312648Z|Zhang, S;Baganoff, F;Barriere, N;Bauer, F;Boggs, S;Christensen, F;Craig, W;Dufour, F;Gotthelf, E;Grindlay, J;Hailey, C;Harrison, F;Helfand, D;Hong, J;Hornstrup, A;Jacobsen, S;Kaspi, V;Krivonos, R;Madsen, K;Mori, K;Natalucci, L;Perez, K;Smith, D;Stern, D;Tomsick, J;Zhang, W|Preliminary Results of the NuSTAR Galactic Center Mini-survey|0
+2013HEAD...1312901B|Bellm, E;Fuerst, F;Pottschmidt, K;Wilms, J;Boggs, S;Christensen, F;Craig, W;Hailey, C;Harrison, F;Stern, D;Tomsick, J;Zhang, W;NuSTAR Science Team|NuSTAR Observations of the Be/X-ray Binary GRO J1008-57 in Outburst|0
+2013HEAD...1320101H|Harrison, F;NuSTAR Team|The Nuclear Spectroscopic Telescope Array Mission Overview and First Results|0
+2013HEAD...1320102T|Tomsick, J;NuSTAR Team|The NuSTAR Galactic Binary Program|0
+2013HEAD...1320103W|Walton, D;NuSTAR Team|The NuSTAR ULX Program|0
+2013HEAD...1320104H|Hornschemeier, A;Lehmer, B;Wik, D;Argo, M;Bechtol, K;Boggs, S;Christensen, F;Craig, W;Hailey, C;Harrison, F;Leyder, J;Maccarone, T;Ptak, A;Stern, D;Venters, T;Zezas, A|A Hard X-ray View of Star Formation: NGC 253 in Focus|0
+2013HEAD...1320401M|Miller, J;Tomsick, J;Harrison, F;NuSTAR Team|NuSTAR Spectroscopy of the Microquasar GRS 1915+105|0
+2013HEAD...1330004B|Ballantyne, D;Ajello, M;Alexander, D;Assef, R;Balokovic, M;Bauer, F;Boggs, S;Boydstun, K;Bridge, C;Christensen, F;Craig, W;Del Moro, A;Eisenhardt, P;Gonzalez, A;Hailey, C;Harrison, F;Lu, T;Stern, D;Zhang, W;NuSTAR Team|The NuSTAR Extragalactic Survey: A First Look at the Distant High-Energy X-ray Background Population|0
+2013HEAD...1340004Z|Zoglauer, A;Ofek, E;Barriere, N;Bellm, E;Boggs, S;Christensen, F;Craig, W;Fryer, C;Hailey, C;Harrison, F;Reynolds, S;Stern, D;Zhang, W|NuSTAR Constraints on the Shock Temperature and Velocity in the Luminous Type IIn Supernova 2010jl|0
+2013HEAD...1340005M|Madsen, K;An, H;Boggs, S;Craig, W;Fryer, C;Grefenstette, B;Hailey, C;Humensky, B;Kaspi, V;Lopez, L;Miyasaka, H;Mori, K;Nynka, M;Pivovaroff, M;Reynolds, S;Kitaguchi, T;Westergaard, N;Wik, D;Zoglauer, A;Christensen, F;Harrison, F;Stern, D;Zhang, W|NuSTAR First Pulsar-wind Nebulae Results|0
+2013HEAD...1340102W|Wik, D;Hornstrup, A;Molendi, S;Harrison, F;Boggs, S;Christensen, F;Craig, W;Ferreira, D;Hailey, C;Kitaguchi, T;Madejski, G;Pedersen, K;Stern, D;Westergaard, N;Zhang, W;Zoglauer, A;NuSTAR Team|NuSTAR's Hard Look at the Bullet Cluster: First Results|0
+2013HEAD...1340201F|Fuerst, F;Grefenstette, B;Boggs, S;Christensen, F;Craig, W;Hailey, C;Harrison, F;Pottschmidt, K;Staubert, R;Stern, D;Tomsick, J;Wilms, J;Zhang, W;NuSTAR Team|NuSTAR's First Results for Cyclotron Lines Sources|0
+2013HEAD...1340302B|Barriere, N;Tomsick, J;Baganoff, F;Boggs, S;Christensen, F;Craig, W;Grefenstette, B;Hailey, C;Harrison, F;Madsen, K;Mori, K;Perez, K;Stern, D;Zhang, S;Zhang, W;Zoglauer, A;NuSTAR Team|NuSTAR Detection of High-energy Emission and Fast Variability from a Sagittarius A* X-ray Flare|0
+2013IAUS..291..331K|Kaspi, V;An, H;Bachetti, M;Bellm, E;Beloborodov, A;Boggs, S;Chakrabarty, D;Christensen, F;Craig, B;Dufour, F;Harrison, F;Gotthelf, E;Kitaguchi, T;Kouveliotou, C;Mori, K;Pivovaroff, M;Stern, D;Vogel, J;Zhang, W;NuSTAR Team|NuSTAR observations of rotation-powered pulsars and magnetars|0
+2013MmSAI..84..669B|Brenneman, L;NuSTAR AGN Physics Team|NuSTAR's View of AGN|0
+2013MmSAI..84..679A|Akylas, A;Georgantopoulos, I;Georgakakis, A;Brightman, M;Nandra, K|An online tool for fitting the X-ray background and estimating the contribution of Compton-thick AGN|0
+2013SPIE.8861E..06F|Frontera, F;Virgilli, E;Valsan, V;Liccardo, V;Carassiti, V;Caroli, E;Cassese, F;Ferrari, C;Guidi, V;Mottini, S;Pecora, M;Negri, B;Recanatesi, L;Amati, L;Auricchio, N;Bassani, L;Campana, R;Farinelli, R;Guidorzi, C;Labanti, C;Landi, R;Malizia, A;Orlandini, M;Rosati, P;Sguera, V;Stephen, J;Titarchuk, L|Scientific prospects in soft gamma-ray astronomy enabled by the LAUE project|6
+2013aero.confE.122K|Kim, Y;Willis, J;Dodd, S;Harrison, F;Forster, K;Craig, W;Bester, M;Oberg, D|Nuclear Spectroscopic Telescope Array (NuSTAR) Mission|0
+2013ffep.confE...1A|An, H|NuSTAR results and future plan for magnetars and rotation-powered pulsars|0
+2013mams.book.....B|Brenneman, L|Measuring the Angular Momentum of Supermassive Black Holes|96
+2012AAS...21914005B|Brenneman, L;Matt, G;Fabian, A;Nandra, K;Elvis, M;Cappi, M|NuSTAR's Role in Constraining Black Hole Spin in AGN|0
+2012AAS...21932803B|Bhalerao, V;NuSTAR Team|NuSTAR: Unveiling the Hard X-ray Universe|0
+2012AAS...22052112M|Marsh, A;Smith, D;Krucker, S;Hudson, H;Hurford, G;White, S;Mewaldt, R;Harrison, F;Grefenstette, B;Stern, D|Solar Hard X-ray Observations with NuSTAR|0
+2012SPIE.8443E..1XW|Westergaard, N;Madsen, K;Brejnholt, N;Koglin, J;Christensen, F;Pivovaroff, M;Vogel, J|NuSTAR on-ground calibration: I. Imaging quality|4
+2012SPIE.8443E..1YB|Brejnholt, N;Christensen, F;Westergaard, N;Hailey, C;Koglin, J;Craig, W|NuSTAR on-ground calibration: II. Effective area|5
+2012SPIE.8443E..4XL|Lotti, S;Natalucci, L;Giommi, P;Grefenstette, B;Harrison, F;Madsen, K;Perri, M;Puccetti, S;Zoglauer, A|Polarization studies with NuSTAR|3
+2012aww..confE..60V|Vogel, J|NuSTAR: Nuclear Spectroscopic Telescope|0
+2012cosp...39.1339N|Natalucci, L|Supergiant Fast X-ray transients from INTEGRAL to NuSTAR|0
+2012hcxa.confE..94H|Harrison, F|The Nuclear Spectroscopic Telescope Array Science Program|0
+2012hcxa.confE.149A|Akylas, A;Georgakakis, A;Georgantopoulos, I;Brightman, M;Nandra, K|XRB synthesis models in the NuSTAR era|0
+2012int..workE..48C|Chenevez, J;Tomsick, J;Chakrabarty, D;Paerels, F;Christensen, F|What can NuSTAR do for thermonuclear X-ray bursts?|0
+2011AAS...21714242E|Elvis, M;Brenneman, L;Young, M;Civano, F;Risaliti, G;Stern, D;Harrison, F;NuSTAR Team|AGN Inner Structure with NuSTAR|0
+2011AAS...21725409K|Kaspi, V;NuSTAR Team|NuSTAR Galactic Science Plan|0
+2011AAS...21725413M|Madsen, K;NuSTAR Team|NuSTAR Extragalactic Science Plan|0
+2011AAS...21725425H|Harrison, F;Boggs, S;Christensen, F;Craig, W;Hailey, C;Zhang, W;NuSTAR Team|The Nuclear Spectroscopic Telescope Array (NuSTAR)|0
+2011AAS...21840901S|Stern, D;Harrison, F;Boggs, S;Christensen, F;Craig, B;Hailey, C;Zhang, W;NuSTAR Team|The Nuclear Spectroscopic Telescope Array (NuSTAR)|0
+2011HEAD...12.2903H|Harrison, F|The Nuclear Spectroscopic Telescope Array (NuSTAR)|0
+2011HEAD...12.3904M|Molendi, S;Hornstrup, A;NuSTAR Galaxy Cluster working Group|Studying Galaxy Cluster with NuSTAR|0
+2011HEAD...12.4303K|Kaspi, V;NuSTAR Team|NuSTAR Galactic Science: Targeted Observations Of Magnetars, Pulsars, Binaries, Supernova Remnants And More|0
+2011HEAD...12.4304P|Ptak, A;Hornschemeier, A;NuSTAR Extragalactic Science Team|Starburst Science with NuSTAR|0
+2011HEAD...12.4305C|Chenevez, J;Chakrabarty, D;Paerels, F;Tomsick, J;Christensen, F;NuSTAR Team|What Can NuSTAR Do For Thermonuclear X-ray Bursts?|0
+2011HEAD...12.4306B|Ballantyne, D;Draper, A;Madsen, K;Rigby, J;Treister, E|X-ray Number Counts for NuSTAR and Other Hard X-ray Imaging Missions|0
+2011HEAD...12.4307Z|Zoglauer, A;Kruse-Madsen, K;Kitaguchi, T;Bhalerao, V;Boggs, S;Bradford, S;Ellinger, C;Fryer, C;Grefenstette, B;Harps, D;Harrison, F;Miyasaka, H;Ptak, A;Rana, V;Reynolds, S;Tomsick, J|Simulating Extended Galactic Sources with the NuSTAR Simulator NuSIM|0
+2011HEAD...12.4308M|Madsen, K;Alexander, D;Bhalerao, V;Boggs, S;Greffenstette, B;Harp, D;Harrison, F;Kitagutchi, T;Miyasaka, H;Ptak, A;Stern, D;Tomsick, J;Rana, V;Zoglauer, A|Simulating Galactic and Extragalactic Surveys with the NuSTAR Simulator NuSIM.|0
+2011HEAD...12.4309S|Smith, D;Krucker, S;Hurford, G;Hudson, H;White, S;Mewaldt, R;Grefenstette, B;Harrison, F;NuSTAR Science Team|Solar Hard X-ray Observations with NuSTAR|1
+2011HEAD...12.4310G|Grefenstette, B;Harrison, F;Kitaguti, T;Bhalerao, V;Rana, V;Miyasaka, H;Mao, P;Cook, W|Performance of the  NuSTAR  Focal Plane Detectors|0
+2011SPD....42.1501S|Smith, D;Krucker, S;Hudson, H;Hurford, G;White, S;Mewaldt, R;Stern, D;Grefenstette, B;Harrison, F|Solar Hard X-ray Observations with NuSTAR|0
+2011xru..conf...21H|Harrison, F|The Nuclear Spectroscopic Telescope Array (NuSTAR)|0
+2010AAS...21548114H|Harrison, F;NuSTAR Team|The Nuclear Spectroscopic Telescope Array|1
+2010HEAD...11.4601H|Harrison, F;Boggs, S;Christensen, F;Craig, W;Hailey, C;Stern, D;Zhang, W;NuSTAR Science Team|The Nuclear Spectroscopic Telescope Array|2
+2010SPIE.7732E..0SH|Harrison, F;Boggs, S;Christensen, F;Craig, W;Hailey, C;Stern, D;Zhang, W;Angelini, L;An, H;Bhalerao, V;Brejnholt, N;Cominsky, L;Cook, W;Doll, M;Giommi, P;Grefenstette, B;Hornstrup, A;Kaspi, V;Kim, Y;Kitaguchi, T;Koglin, J;Liebe, C;Madejski, G;Kruse Madsen, K;Mao, P;Meier, D;Miyasaka, H;Mori, K;Perri, M;Pivovaroff, M;Puccetti, S;Rana, V;Zoglauer, A|The Nuclear Spectroscopic Telescope Array (NuSTAR)|53
+2010ecsa.conf..408H|Hailey, J;Boggs, S;Christensen, F;Craig, W;Harrison, F;Stern, D;Zhang, W;NuSTAR Science Team|The Nuclear Spectroscopic Telescope Array (NuSTAR)|0
+2010ecsa.conf..432M|Miyasaka, H;Harrison, F;Boggs, S;Christensen, F;Craig, W;Hailey, C;Stern, D;Zhang, W;NuSTAR Team|Performance of The Nuclear Spectroscopic Telescope Array (NuSTAR) Mission|0
+2009AAS...21345201M|Madsen, K;Harrison, F;Koglin, J;Mao, P;Craig, W;Pivovaroff, M;Christensen, F|Performance of The Nuclear Spectroscopic Array|1
+2009AAS...21345202H|Harrison, F;NuSTAR Team|The Nuclear Spectroscopic Telescope Array (NuSTAR)|1
+2009AAS...21345203B|Bhalerao, V;Boggs, S;Harrison, F;Hailey, C;Muno, M;NuSTAR Science Team|Observations of Compact Stars and Supernova Remnants with NuSTAR|0
+2009AAS...21345204S|Stern, D;Harrison, F;Ballantyne, D;Madejski, G;NuSTAR Team|Extragalactic Surveys with NuSTAR|0
+2009AAS...21440920S|Stern, D;Harrison, F;NuSTAR Team|The Nuclear Spectroscopic Telescope Array (NuSTAR)|0
+2009APS..APR.E1059P|Price, S|Simulating Background Radiation to Establish NuSTAR Detection Limits|0
+2009SPIE.7437E..10K|Khan, G;Gubarev, M;Arnold, W;Ramsey, B|Development of a computer-controlled polishing process for x-ray optics|3
+2008HEAD...10.3001K|Koglin, J;An, H;Christensen, F;Craig, W;Hailey, C;Harrison, F;Jensen, C;Madsen, K;Mori, K;Pivovaroff, M;Rana, V;Zhang, W|Hard X-ray Optics for the NuSTAR Satellite Mission|0
+2008HEAD...10.4001H|Harrison, F|The Nuclear Spectroscopic Telescope Array (NuSTAR) Observatory Performance|1
+2008HEAD...10.4002S|Stern, D|Extragalactic Surveys with NuSTAR|0
+2008HEAD...10.4003B|Ballantyne, D|AGN Number Counts in the NuSTAR Energy Band|0
+2008HEAD...10.4004M|Madejski, G|Blazar Physics And Coordinated Observations With GLAST|0
+2008HEAD...10.4005M|Muno, M;NuSTAR Science Team|The NuSTAR Galactic Key Science Program|0
+2008HEAD...10.4006B|Boggs, S;NuSTAR Science Team|NuSTAR Supernova Observations|0
+2008HEAD...10.4007K|Kaspi, V|Pulsars, Magnetars and NuSTAR|0
+2008xru..confE.259M|Madsen, K;Harrison, F|NuSTAR: the Nuclear Spectroscopic Telescope Array|0

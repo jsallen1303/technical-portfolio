@@ -1,0 +1,18 @@
+1990RpScT...1...35K|Ksanfomaliti, L|Electric fields, dynamics of SO2 concentration, possible vulcanism on Venus|0
+1988IzSSR..52..818E|Ermakov, S;Kontor, N;Liubimov, G;Pereslegina, N;Tulupov, V|Observations of solar-cosmic-ray flares using a solar-longitudinal baseline|0
+1988IzSSR..52.2403D|Daibog, E;Kurt, V;Logachev, I;Stolpovskii, V;Mel'Nikov, V|Multiple correlation and regression analysis of the relationship between the amplitude and spectral characteristics of proton events and the parameters of microwave bursts|0
+1985RpSpR...1...60T|Titov, D|Microstructure of Venus cloud layer based on spectrophotometric data from Venera-11 spacecraft|0
+1984isap.book..131P|Pisarenko, N;Morozova, E;Mikriukova, N;Likin, O;Klimenko, V|Propagation of charged particles in the solar corona|0
+1984isap.book..156V|Vakulov, P;Grigorian, O;Daibog, E;Kurt, V;Logachev, I|The results of an experimental investigation of energy spectra of flare particles|0
+1983ICRC....4..153E|Ermakov, S;Kontor, N;Liubimov, G;Morozova, T;Pavlov, N;Pereslegina, N;Khotilovskaia, T|The Features of Solar Proton Propagation in Interplanetary Space|0
+1983igrt.book...62B|Bisnovatyi-Kogan, G;Kurt, V;Mersov, G;Novikov, I;Khavenson, N;Estulin, I|Identification of the coordinates of a transient gamma-ray source with star-catalog coordinates|0
+1983igrt.book..124M|Mazets, E;Golenetskii, S;Ilinskii, V;Panov, V;Aptekar, I;Gurian, I;Sokolov, I;Sokolov, Z;Kharitonova, T|Preliminary results on gamma-ray transients in the Konus experiment on Venera 11 and 12|0
+1983igrt.book..137V|Vedrenne, G;Diachkov, A;Zabiiakin, G;Zenchenko, V;Kuznetsov, A;Niel, M;Chambon, G;Hurley, K;Estulin, I|Investigation of gamma-ray transients on Venera 11 and 12 and Prognoz 7|0
+1983vens.book...10C|Colin, L|Basic facts about Venus.|3
+1983vens.book..131G|Golovin, I;Moshkin, B;Ekonomov, A|Some optical properties of the Venus surface.|1
+1982IzSSR..46.1698G|Grigorian, O;Daibog, E;Devicheva, E;Kurt, V;Logachev, I;Riumin, S;Stolpovskii, V;Shesterikov, V|Results of an investigation of the spectra of flare energetic particles aboard the space vehicles Venera 11, 12 and Prognoz 5, 6.|0
+1982IzSSR..46.1702K|Klimenko, V;Morozova, E;Mikriukova, N;Pisarenko, N;Shafer, I|Peculiarities of propagation of charged particles in the solar corona.|0
+1982acp..book..216M|Mazets, E;Golenetskii, S|Investigation of cosmic gamma-bursts.|1
+1982grap.symp..211D|Diyachkov, A;Estulin, I;Havenson, N;Kuznetsov, A;Zenchenko, V;Barat, C;Chambon, G;Hurley, K;Niel, M|Catalogue of Gamma-Bursts Detected by the Soviet-French Experiment Signe 2m VENERA-11 VENERA-12 and PROGNOZ-7|0
+1980nsgr.symp..141C|Chambon, G;Hurley, K;Niel, M;Vedrenne, G;Zenchenko, V;Kuznetsov, A;Estulin, I|Gamma ray burst observations by the 3 Satellite Signe network|0
+1979IAUC.3356....1E|Evans, D;Kiebesadel, R;Baros, J;Cline, T;Desai, U;Teegarden, B;Pizzichini, G;Hurley, K;Niel, M;Vedrenne, G;Estulin, I;Mazets, E|Gamma-ray Burst 79-03-05|14

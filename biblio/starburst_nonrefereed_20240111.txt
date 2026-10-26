@@ -1,0 +1,208 @@
+2024arXiv240102276O|Okon, H;Smith, R;picquenot, A;Foster, A|Flux Contribution and Geometry of the Charge Exchange Emission in the Starburst Galaxy M82|0
+2024arXiv240102578H|Harada, N;Meier, D;Martin, S;Muller, S;Sakamoto, K;Saito, T;Gorski, M;Henkel, C;Tanaka, K;Mangum, J;Aalto, S;Aladro, R;Bouvier, M;Colzi, L;Emig, K;Herrero-Illana, R;Huang, K;Kohno, K;Konig, S;Nakanishi, K;Nishimura, Y;Takano, S;Rivilla, V;Viti, S;Watanabe, Y;van der Werf, P;Yoshimura, Y|The ALCHEMI atlas: principal component analysis reveals starburst evolution in NGC 253|0
+2023AAS...24112204D|Dindy, I;Spilker, J|Solar Metallicity in M82 Starburst with Far-Infrared Spectroscopy|0
+2023AAS...24130118L|Lanz, L;Stepanoff, S;Hickox, R;Alatalo, K;French, K;Rowlands, K;Nyland, K;Appleton, P;Lacy, M;Medling, A;Mulchaey, J;Sazonova, E;Urry, C;Carlton, I;Graessle, A;Klunk, D;Miller, L|AGN Growth and Feedback in Post-Starburst Galaxies|0
+2023AAS...24141304V|VanZandt, A;Gullberg, B;Lee, M|Exploring the Physical Parameters of a Redshift 4.8 Starburst using ALMA|0
+2023EPJWC.28003001A|Ambrosone, A;Ibnsalih, W;Marinelli, A;Miele, G;Migliozzi, P;Musone, M|KM3NeT/ARCA Sensitivity to Starburst Galaxies|0
+2023EPJWC.28003002A|Ambrosone, A;Chianese, M;Fiorillo, D;Marinelli, A;Miele, G|Gamma-Ray and Neutrino Emissions from Starforming and Starburst Galaxies|0
+2023HEAD...2010232O|Okon, H;Smith, R;Picquenot, A;Foster, A|Search for Charge eXchange emission in the starburst galaxy M82 with the combination of a novel technique of image analysis and high resolution spectroscopy|0
+2023HEAD...2010321W|Woolf, R;Kocevski, D;Briggs, M;Burns, E;Davis, J;Finne, T;Fletcher, C;Goldstein, A;Grove, J;Hamburg, R;Hristov, B;Hui, C;Jenke, P;Kerr, M;Veres, P;Wilson-Hodge, C;Wood, J|Overview of the StarBurst Sensor Head|0
+2023HEAD...2011523K|Kocevski, D|The StarBurst Multimessenger Pioneer|0
+2023HEAD...2030004L|Lopez, S;Lopez, L;Nguyen, D;Thompson, T|The Temperature and Metallicity Gradients of Starburst-Driven Outflows|0
+2023IAUS..362...64D|Danehkar, A;Oey, M;Gray, W|Hydrodynamic Simulations and Time-dependent Photoionization Modeling of Starburst-driven Superwinds|0
+2023IAUS..373..117G|Gholami, M;Javadi, A;van Loon, J;Khosroshahi, H;Saremi, E|Star formation history for the starburst dwarf galaxy in the Local Group, IC 10|0
+2023IAUS..373..193S|Sun, Y;Lee, G;Zabludoff, A;Decker French, K;Helton, J;Kerrison, N;Tremonti, C;Yang, Y|Evolution of Gas Flows over the Starburst to Post-Starburst to Quiescent Galaxy Sequence|0
+2023RNAAS...7..172M|Mullick, R;Omar, A|LOFAR Detection of Post-starburst Galaxies|0
+2023RNAAS...7..183C|Crocker, D;French, K;Tripathi, A;Verrico, M|Modeling Star Formation Histories of Post Starburst Galaxies with BAGPIPES|0
+2023arXiv230410419F|French, K;Earl, N;Novack, A;Pardasani, B;Pillai, V;Tripathi, A;Verrico, M|Fading AGN in Post-Starburst Galaxies|0
+2023arXiv230916626L|Leung, H;Wild, V;Papathomas, M;Carnall, A;Zheng, Y;Boardman, N;Wang, C;Johansson, P|Chemical evolution of local post-starburst galaxies: Implications for the mass-metallicity relation|2
+2023arXiv231000424S|Sun, Y;Lee, G;Zabludoff, A;French, K;Helton, J;Kerrison, N;Tremonti, C;Yang, Y|Evolution of Gas Flows along the Starburst to Post-Starburst to Quiescent Galaxy Sequence|0
+2023arXiv231003021L|Libanore, S;Flitter, J;Kovetz, E;Li, Z;Dekel, A|Effects of feedback-free starburst galaxies on the 21-cm signal and reionization history|1
+2023arXiv231015812C|Cao, S;Ratra, B|Low- and high-redshift H II starburst galaxies obey different luminosity-velocity dispersion relations|1
+2023arXiv231015925Z|Zhou, L;Wang, T;Daddi, E;Coogan, R;Sun, H;Xu, K;Arumugam, V;Jin, S;Liu, D;Lu, S;Sillassen, N;Wang, Y;Shi, Y;Zhang, Z;Tan, Q;Gu, Q;Elbaz, D;Le Bail, A;Magnelli, B;Gomez-Guijarro, C;d'Eugenio, C;Magdis, G;Valentino, F;Ji, Z;Gobat, R;Delvecchio, I;Xiao, M;Strazzullo, V;Finoguenov, A;Schinnerer, E;Rich, R;Huang, J;Dai, Y;Chen, Y;Gao, F;Yang, T;Hao, Q|Noema formIng Cluster survEy (NICE): Discovery of a starbursting galaxy group with a radio-luminous core at z=3.95|1
+2023arXiv231114809L|Liu, Z;Silverman, J;Daddi, E;Puglisi, A;Renzini, A;Kalita, B;Kartaltepe, J;Kashino, D;Rodighiero, G;Rujopakarn, W;Suzuki, T;Tanaka, T;Valentino, F;Taufik Andika, I;Casey, C;Faisst, A;Franco, M;Gozaliasl, G;Gillman, S;Hayward, C;Koekemoer, A;Kokorev, V;Lambrides, E;Lee, M;Magdis, G;Harish, S;McCracken, H;Rhodes, J;Shuntov, M|JWST and ALMA discern the assembly of structural and obscured components in a high-redshift starburst galaxy|0
+2023arXiv231115690J|Ju, M;Yin, J;Hao, L;Liu, C;Tsai, C;Wang, J;Shao, Z;Feng, S;Rong, Y|The Clumpy Structure Of Five Star-bursting Dwarf Galaxies In The MaNGA Survey|0
+2023arXiv231203074B|Bik, A;Alvarez-Marquez, J;Colina, L;Crespo Gomez, A;Peissker, F;Walter, F;Boogaard, L;Ostlin, G;Greve, T;Wright, G;Alonso-Herrero, A;Caputi, K;Costantin, L;Eckart, A;Gillman, S;Hjorth, J;Iani, E;Jermann, I;Labiano, A;Langeroodi, D;Melinder, J;Perez-Gonzalez, P;Pye, J;Rinaldi, P;Tikkanen, T;van der Werf, P;Gudel, M;Henning, T;Lagage, P;Ray, T;van Dishoeck, E|Clumpy star formation and an obscured nuclear starburst in the luminous dusty z=4 galaxy GN20 seen by MIRI/JWST|0
+2023arXiv231203616C|Cheng, Z;Li, C;Li, N;Yan, R;Mo, H|Post-starburst galaxies in SDSS-IV MaNGA: Two broad categories of evolutionary pathways|0
+2023arXiv231207334C|Cenci, E;Feldmann, R;Gensior, J;Bullock, J;Moreno, J;Bassini, L;Bernardini, M|Starburst-induced gas-stars kinematic misalignment|0
+2023arXiv231208444P|Porraz Barrera, N;Lopez, S;Lopez, L;Foord, A;Nguyen, D;Thompson, T;Bolatto, A|Hot Gas Outflow Properties of the Starburst Galaxy NGC 4945|0
+2023arXiv231209649Z|Zhong, Y;Inoue, A;Sugahara, Y;Morokuma-Matsui, K;Komugi, S;Kaneko, H;Fudamoto, Y|Revisiting the Dragonfly Galaxy II. Young, radiatively efficient radio-loud AGN drives massive molecular outflow in a starburst merger at z=1.92|0
+2023arXiv231213358P|Papaderos, P;Ostlin, G|On the challenge of interpreting the morphology and color maps of high-z starburst galaxies with the JWST and Euclid|0
+2023arXiv231214645M|Mereghetti, S;Rigoselli, M;Salvaterra, R;Pacholski, D;Rodi, J;Gotz, D;Arrigoni, E;D'Avanzo, P;Adami, C;Bazzano, A;Bozzo, E;Brivio, R;Campana, S;Cappellaro, E;Chenevez, J;De Luise, F;Ducci, L;Esposito, P;Ferrigno, C;Ferro, M;Israel, G;Le Floc'h, E;Martin-Carrillo, A;Onori, F;Rea, N;Reguitti, A;Savchenko, V;Tartaglia, L;Thuillot, W;Tiengo, A;Tomasella, L;Topinka, M;Turpin, D;Ubertini, P|A magnetar giant flare in the nearby starburst galaxy M82|0
+2023jwst.prop.3523G|Guarcello, M;Andersen, M;Bayo, A;Best, W;Calzetti, D;Drake, J;Gennaro, M;Ginsburg, A;Martinez-Galarza, J;Moraux, E;Muzic, K;Najarro, P;Nota, A;Pallanca, C;Sabbi, E;Winter, A;Wright, N;Zeidler, P;Grebel, E;Robberto, M|Evolution of protoplanetary disks and early stellar evolution in starburst: A NIRCam and MIRI observation of the young starburst cluster Westerlund 2|0
+2023pcsf.conf...90F|Fischer, C;Vacca, W;Iserlohe, C;Latzko, S;Krabbe, A|Probing the ionized gas in the core and outburst of the nearby starburst galaxy M82 with FIFI-LS/SOFIA|0
+2022AAS...24010207P|Paine, S;Stanley, J;Lorimer, D;Kania, J|Survey of Fast Radio Bursts in a Starburst Galaxy|0
+2022AAS...24024102O|Otter, J;Rowlands, K;Alatalo, K;Leung, H;Wild, V;Luo, Y;Sazonova, E;Lin, L;Ellison, S;Pan, H;Thorp, M;Masters, K;Nair, P;Liu, C;Tremonti, C;Yan, R;French, K;van de Voort, F;Smethurst, R;McDermid, R;Smercina, A;Davis, T;Pace, Z;Lanz, L;Bluck, A;Bothwell, M;Stark, D;Scudder, J;Newman, J;Chen, Y;Weijmans, A;Argudo-Fernandez, M;Maiolino, R;Aragon-Salamanca, A;Riffel, R;Emsellem, E|Resolved Molecular Gas Observations of MaNGA Post-starbursts Reveal a Tumultuous Past|0
+2022AAS...24033605D|Dindy, I;Spilker, J|Solar Metallicity in M82 Starburst with Far-Infrared Spectroscopy|0
+2022AAS...24034312G|Green, K;Emig, K|Modeling the Ionized Gas in the Central Starburst Region of M82|0
+2022AAS...24040907K|Kocevski, D|The StarBurst Multimessenger Pioneer|0
+2022EPJWC.26500017S|Santa-Maria, M;Goicoechea, J|Mapping the high ionization rate of the GC starburst Sgr B2 through low HCO<SUP>+</SUP> /N<SUB>2</SUB>H<SUP>+</SUP> J=1-0 intensity ratios|0
+2022HEAD...1910102L|Lanz, L;Stepanoff, S;Hickox, R;Alatalo, K;French, K;Rowlands, K;Nyland, K|Are Active Galactic Nuclei in Post-Starburst Galaxies Driving the Change or Along for the Ride?|0
+2022RNAAS...6..259L|Ludwig, E;Falcone, J;Marinelli, M;Ostling, W;Liu, C|The Relation between Gas-phase Metallicity and Stellar Mass Surface Density in Post-starburst E+A and E+A+ Galaxies within the Coma Cluster Observed by the SDSS-IV MaNGA Survey|1
+2022arXiv220702245E|Eggen, N;Scarlata, C;Skillman, E;Jaskot, A|Blow-Away in the Extreme Low-Mass Starburst Galaxy Pox~186|3
+2022arXiv221015569A|Alfredo Anchordoqui, L|Deciphering the Archeological Record: Further Evidence for Ultra-High-Energy Cosmic Ray Acceleration in Starburst-Driven Superwinds|1
+2022cxo..prop.6354G|Goulding, A|A Chandra view of massive Post-Starburst Galaxies|0
+2022icrc.confE1006E|Eichmann, B;Dettmar, R;Becker-Tjus, J|An AGN-starburst composite multi-messenger model of NGC 1068|2
+2021AAS...23733704D|Dahmen, L;French, K|Past AGN Activity in a Post-Starburst Galaxy|0
+2021AAS...23735101R|Ryu, D;Ha, J;Kang, H|Gamma-Rays and Neutrinos from Starburst Galaxies|0
+2021AAS...23752405S|Seth, A|Explaining the Tidal Disruption Enhancement in Post-Starburst Galaxies|0
+2021IAUS..356..169V|Vaisanen, P|AGN, host galaxies, and starbursts|0
+2021IAUS..359...22G|Gomez-Guijarro, C|High-redshift starbursts as progenitors of massive galaxies|0
+2021IAUS..359..190S|Spindler, R;Trevisan, M;Schnorr-Muller, A|Post-starburst galaxies in different environments|0
+2021IAUS..359..415A|Aydar, C;Steiner, J;Dors, O|Alternative classification diagrams for AGN-starburst galaxies|0
+2021JPhCS2028a2013D|Danehkar, A;Oey, M;Gray, W|Non-equilibrium Photoionization and Hydrodynamic Simulations of Starburst-driven Outflows|0
+2021jwst.prop.1701B|Bolatto, A;Armus, L;Berg, D;Boeker, T;Boyer, M;Dale, D;De Looze, I;Emig, K;Glover, S;Gordon, K;Herrera-Camus, R;Lenkic, L;Leroy, A;Levy, R;Martini, P;Meier, D;Mills, E;Ostriker, E;Ott, J;Privon, G;Relano, M;Sandstrom, K;Skillman, E;Smith, J;Tarantino, E;Thompson, T;Veilleux, S;Villanueva, V;Volpert, C;Walter, F;Weiss, A;Wolfire, M;van der Werf, P|Dissecting the Prototypical Starbursts NGC 253 and M 82 and Their Cool Galactic Winds|0
+2021jwst.prop.1905G|Guarcello, M;Bonito, R;Clark, S;Drake, J;Ginsburg, A;Martinez-Galarza, J;Muzic, K;Negueruela, I;Sciortino, S;Winter, A;Wright, N|Testing protoplanetary disk evolution and brown dwarf formation in starburst: NIRCAM and MIRI observations of the young cluster Westerlund 1|0
+2020AAS...23525001B|Borthakur, S;Heckman, T|Discovery of Multiphase Medium Tracing Interaction of Starburst Driven Winds with the Circumgalactic Medium|0
+2020IAUS..341..283L|Lee, M;Nagao, T;De Breuck, C|First [NII] 122 μm line detection in a starburst pair at z = 4.7|0
+2020IAUS..352..200F|Falgarone, E;Vidal-Garca, A;Godard, B;Zwaan, M;Herrera, C;Ivison, R;Bergin, E;Andreani, P;Omont, A;Walter, F|Large reservoirs of turbulent diffuse gas around high-z starburst galaxies|0
+2020IAUS..352..234R|Romano, D;Zhang, Z;Matteucci, F;Ivison, R;Papadopoulos, P|<SUP>13</SUP>C/<SUP>18</SUP>O ratio as a litmus test of stellar IMF variations in high-redshift starbursts|0
+2020arXiv201212378O|Orlitova, I|Starburst galaxies|3
+2019IAUS..344..404R|Rohr, E;Whittle, M;Reines, A;Johnson, K|HST STIS Observations of the Central Radio/X-Ray Source in the Compact Starburst Galaxy Henize 2-10|0
+2019arXiv190805157C|Contini, M|AGN and starburst coexistence in the short GRB100628A host galaxy|1
+2018IAUS..336..117E|Ellingsen, S|The Maser-Starburst connection in NGC 253|0
+2018arXiv180610149R|Rong, Y;Yang, H;Zhang, H;Puzia, T;Chilingarian, I;Eigenthaler, P;Malhotra, S;Rhoads, J;Wang, J;Ordens-briceno, Y;Johnston, E|The Dawn Light of Blueberry Galaxies: Spectroscopic and Photometric Studies of two Starburst Dwarf Galaxies|5
+2018kmos.confE..21L|Latzko, S;Fischer, C;Kazmierczak-Barthel, M;Krabbe, A;Vacca, W|Observation of the starburst galaxy M82 with SOFIA/FIFI-LS|0
+2017BTSNU..55...13P|Parnovsky, S|How to find an initial luminosity functions of starburst galaxies|0
+2017jwst.prop.1328A|Armus, L;Evans, A;Appleton, P;Barcos-Munoz, L;Charmandaris, V;Diaz-Santos, T;Howell, J;Inami, H;Larson, K;Linden, S;Malkan, M;Marshall, J;Mazzarella, J;Medling, A;Murphy, E;Privon, G;Rich, J;Sanders, D;Stierwalt, S;Surace, J;U, V|A JWST Study of the Starburst-AGN Connection in Merging LIRGs|0
+2016AAS...22730804P|Ptak, A;Hornschemeier, A;Wik, D;Yukita, M;Lehmer, B;Zezas, A;Maccarone, T;Venters, T;Antoniou, V;Harrison, F;Stern, D;NuSTAR Starburst Team|NuSTAR Observations of Starburst Galaxies|0
+2016IAUS..315E..15C|Crider, A;Richardson, C;Kaiser, B|Detecting H II Regions in ``Pure'' Starburst Galaxies with SDSS Data|0
+2016ilgp.confE..64M|Munoz-Tunon, C;Hinojosa Goni, R;Jairo Mendez Abreu, J;Sanchez Almeida, J|Starbursts and Galaxy Evolution: results from COSMOS survey.|0
+2015IAUS..309..196S|Saito, T;Iono, D;Yun, M;Ueda, J;Espada, D;Hagiwara, Y;Imanishi, M;Motohara, K;Nakanishi, K;Sugai, H;Tateuchi, K;Lee, M;Kawabe, R|Investigating AGN/Starburst activities through ALMA multi-line observations in the mid-stage IR-bright merger VV 114|0
+2015arXiv150900983B|Bartos, I;Marka, S|Spectral Decline of PeV Neutrinos from Starburst Galaxies|15
+2014IAUS..303...29D|de Naurois, M|TeV observations of the Galactic center and starburst galaxies|0
+2014IAUS..303..153Y|Yoast-Hull, T;Gallagher, J;Zweibel, E|The Galactic center: a model for cosmic ray interactions in starburst galaxies?|1
+2014IAUS..304..356M|Mazzarella, J|AGN and Starbursts in Dusty Galaxy Mergers: Insights from the Great Observatories All-sky LIRG Survey|0
+2014IAUS..304..383H|Harutyunyan, G;Mickaelian, A|Study of Starburst/Activity/Interaction Phenomena based on the Multiple Byurakan-IRAS Galaxies|2
+2013IAUS..292..319G|Garcia-Burillo, S;Usero, A;Alonso-Herrero, A|Star formation laws in extreme starbursts|0
+2013arXiv1308.5232L|Lacki, B|Sturm und Drang: Supernova-Driven Turbulence, Magnetic Fields, and Cosmic Rays in the Chaotic Starburst Interstellar Medium|14
+2012IAUS..284..393L|Lacki, B;Thompson, T|Cosmic rays and high energy emission from starburst galaxies|1
+2012IAUS..287..333D|Darling, J|Masers in Starburst Galaxies|0
+2012MmSAI..83..154B|Becker, J;Schuppan, F;Schoneberg, S|A multifrequency view of starburst galaxies|0
+2011RMxAC..40...86R|Rodriguez-Gonzalez, A;Esquivel, A;Raga, A;Colin, P|Mass and metal ejection efficiency in disk galaxies driven by young stellar clusters of nuclear starburst|2
+2010IAUS..262..416R|Ricci, T;Steiner, J;Menezes, R;Garcia-Rissmann, A;Cid Fernandes, R|The stellar populations of the AGN/Starburst galaxy NGC7582|0
+2010IAUS..267..105B|Brotherton, M;Cales, S;Ganguly, R;Shang, Z;Canalizo, G;Stoll, R;Paul, C;Diamond-Stanic, A|Post-Starburst Quasars|2
+2010IAUS..267..134R|Ricci, T;Steiner, J;Menezes, R;Garcia-Rissmann, A;Cid-Fernandes, R|The AGN Properties of the Starburst Galaxy NGC 7582|2
+2010IAUS..267..138S|Sanmartim, D;Storchi-Bergmann, T;Brotherton, M|Kinematics and Principal Component Analysis from IFU Spectroscopy of the Post-Starburst Quasar SDSS J0210-0903|0
+2010IAUS..267..336S|Silich, S;Tenorio-Tagle, G;Hueyotl-Zahuantitla, F;Palous, J;Wunsch, R|SMBH Luminosity in the Starburst Environment|0
+2009ASPC..408....3S|Sanders, D;Kartaltepe, J;Kewley, L;U, V;Yuan, T;Evans, A;Armus, L;Mazzarella, J|Luminous Infrared Galaxies and the ``Starburst-AGN Connection"|7
+2009RMxAC..37..120S|Spinoglio, L;Tommasin, S;Malkan, M|AGN and starburst in bright seyfert galaxies: from IR photometry to IR spectroscopy|3
+2009arXiv0901.1775B|Becker, J;Biermann, P;Dreyer, J;Kneiske, T|Cosmic Rays VI - Starburst galaxies at multiwavelengths|26
+2009astro2010S.289S|Strickland, D;Hornschemeier, A;Ptak, A;Schlegel, E;Tremonti, C;Tsuru, T;Tullmann, R;Zezas, A|Starburst Galaxies: Outflows of Metals and Energy into the IGM|8
+2008ASPC..387..282D|Dib, S;Shadmehri, M;Gopinathan, M;Kim, J;Henning, T|Primordial Mass Segregation in Starburst Stellar Clusters|19
+2008IAUS..250..379S|Smith, L;Westmoquette, M|Gemini/IFU Observations of Galactic Outflows in Starburst Galaxies|2
+2008MmSAI..79.1083N|Netzer, H|Gas dust and starbursts in the central kpc of Active Galactic Nuclei .|1
+2008MmSAI..79.1185K|Koulouridis, E;Chavushyan, V;Plionis, M;Dultzin, D;Krongold, Y;Goudis, C;Chatzichristou, E|The environment of Sy1, Sy2 &amp; bright IRAS galaxies: the AGN/starburst connection.|2
+2008flhs.book.....C|Conti, P;Crowther, P;Leitherer, C|From Luminous Hot Stars to Starburst Galaxies|31
+2007ASPC..373..647K|Kohno, K;Nakanishi, K;Imanishi, M|Compact Starburst in the Central Regions of Seyfert Galaxies|12
+2007IAUS..242..417D|Darling, J|Masers in starburst galaxies|5
+2006RMxAC..26..131C|Combes, F|Starbursts and AGN Fueling through Secular Evolution|3
+2006astro.ph..8699T|Thompson, T;Quataert, E;Waxman, E;Loeb, A|Assessing The Starburst Contribution to the Gamma-Ray and Neutrino Backgrounds|35
+2006evn..confE..31M|Muxlow, T;Beswick, R;Richards, A;Thrall, H|Starburst galaxies|4
+2005AIPC..761..134G|Gordon, K|Ultraviolet Dust Grain Properties in Starburst Galaxies: Evidence from Radiative Transfer Modeling and Local Group Extinction Curves|3
+2005AIPC..761..203D|Dopita, M|Modelling the UV to sub-mm SED of Starburst Galaxies|14
+2005AIPC..761..437M|Masegosa, J;Marquez, I;Dultzin-Hacyan, D;Gonzalez-Martin, O|Far IR Properties of AGNs. The AGN-Starburst Connection|1
+2005AIPC..783....3K|Kennicutt, R;Lee, J;Akiyama, S;Funes, J;Sakai, S|The Demographics of Starburst Galaxies|16
+2005AIPC..783...43C|Combes, F|Dynamical Triggering of Starbursts|10
+2005AIPC..783..112M|Muhle, S;Klein, U;Huttemeister, S;Wilcots, E|The ISM in the Starburst Galaxy NGC 1569|0
+2005AIPC..783..141O|Ott, J;Weiss, A;Henkel, C;Walter, F|The Temperature Distribution of Dense Molecular Gas in Starburst Cores|8
+2005AIPC..783..155R|Ryder, S;Sharp, R;Knapen, J;Mazzuca, L;Parry, I|The Circumnuclear Starburst in M83|4
+2005AIPC..783..171K|Knapen, J|Fueling and Morphology of Central Starbursts|3
+2005AIPC..783..203K|Kohno, K|Prevalence of Compact Nuclear Starbursts in Nearby Seyfert Galaxies|65
+2005AIPC..783..271G|Gallagher, J;Smith, L|Charting the Ages of Starbursts|2
+2005AIPC..783..280L|Leitherer, C|Age-Dating of Starburst Galaxies|10
+2005AIPC..783..303R|Roy, A;Goss, W;Mohan, N;Oosterloo, T;Anantharamaiah, K|Radio Recombination Lines from Starbursts: NGC 3256, NGC 4945 and the Circinus Galaxy|4
+2005AIPC..783..336H|Heesen, V;Krause, M;Beck, R;Dettmar, R|The Radio Halo of the Starburst Galaxy NGC 253|0
+2005AIPC..783..408M|Muxlow, T;Richards, A;Wilkinson, P;Garrington, S;Kellermann, K;Fomalont, E;Richards, E|High Redshift Starburst Galaxies in the Hubble Deep and Flanking Fields|0
+2005ASSL..329....3H|Heckman, T|Local Starbursts in a Cosmological Context|25
+2005ASSL..329...57E|Elmegreen, B|The Initial Mass Function in Starbursts|21
+2005ASSL..329..143S|Schweizer, F|Merger-Induced Starbursts|26
+2005ESASP.577..297M|Martin, S;Martin-Pintado, J;Mauersberger, R;Henkel, C;Garcia-Burillo, S|The 2 mm line survey of the starburst galaxy NGC 253: sulfur chemistry|0
+2005IAUS..231P.144M|Meier, D;Turner, J|Chemical Differentiation in Nearby Starburst Spirals|0
+2005IAUS..231P.265M|Martin, S;Mauersberger, R;Martin-Pintado, J;Henkel, C;Garcia-Burillo, S|Extragalactic molecular line surveys: the starburst galaxy NGC253|0
+2005MmSAI..76...93Z|Zhou, H;Wang, T;Dong, X;Wang, J;Lu, H|Starburst-AGN Connections: Clues from Poststarburst Broad Line AGN in the SDSS DR2|11
+2004MmSAI..75..513S|Stevens, I;Read, A;Bravo-Guerrero, J|XMM-Newton EPIC Observations of the Prototypical Starburst Galaxy M82|1
+2004MmSAI..75..515E|Ehle, M;Dahlem, M|XMM-Newton Observations of Starburst Galaxies|3
+2003RMxAC..15..303P|Pedlar, A;Muxlow, T;Wills, K|Large and Small Bubbles in the Messier 82 Starburst|3
+2003RMxAC..15..311B|Breitschwerdt, D|Observation and Modeling of Starburst-Driven Galactic Winds: A Review in Honor of John Dyson|7
+2003RMxAC..17...47H|Heckman, T|Starburst-Driven Galactic Winds|60
+2003RMxAC..17...83K|Kewley, L;Dopita, M|The AGN-starburst connection in infrared merging galaxies|3
+2003dhst.symp..179L|Leitherer, C|Starburst galaxies observed with the Hubble Space Telescope|1
+2002ASPC..253..387S|Strickland, D|Starburst-Driven Galactic Superwinds. (I)|26
+2002ASSL..274..167M|Mayya, Y;Bressan, A;Rodriguez, M;Valdes, J|Extinction and star formation histories of nearby starburst galaxies|0
+2002INGN....6....6M|Mattila, S;Greimel, R;Meikle, P;Walton, N;Ryder, S;Joseph, R|Searching for Obscured Supernovae in Nearby Starburst Galaxies|1
+2001ASPC..249..508S|Schinnerer, E;Egami, E;Scoville, N;Moustakas, L|Circumnuclear Starburst Rings and the AGN--Starburst Connection|0
+2001ESASP.460...95L|Lawrence, A|Quasars, Starbursts, and the Cosmic Energy Budget|5
+2001sgnf.conf...88V|Veilleux, S|The Starburst-AGN Connection|27
+2000ASPC..197..309G|Gallagher, J;Conselice, C;Homeier, N;WFPC2 Investigation Definition Team|Structure and Evolution of Nearby UV-bright Starburst Galaxies|2
+2000hst..prop.8703B|Brotherton, M|A Spectacular Post-Starburst Quasar and the AGN--Starburst Connection|0
+1999AIPC..470..322H|Heckman, T|Starburst galaxies: implications at high-redshift|7
+1999AstHe..92..479T|Tsuru, T|The baking hot wind from M82 - X-ray observation of starburst galaxies.|0
+1999ESASP.427..849A|Acosta-Pulido, J;Klaas, U;Laureijs, R|The starburst galaxy NGC 6089: an ISO view|1
+1999ESASP.427..861B|Bradford, C;Stacey, G;Fischer, J;Smith, H;Cohen, R;Greenhouse, M;Lord, S;Lutz, D;Maiolino, R;Malkan, M;Rieu, N|ISO spectroscopy of OH in the starburst galaxy NGC 253|21
+1999ESASP.427..913L|Laurent, O;Mirabel, I;Charmandaris, V;Gallais, P;Vigroux, L;Cesarsky, C|The mid-infrared spectral properties of starburst galaxies and AGNs seen by ISOCAM|11
+1999IAUS..186..243L|Leitherer, C|The Stellar Initial Mass Function in Starburst Galaxies|6
+1999MmSAI..70...77C|Cappi, M;Persic, M;Mariani, S;Bassani, L;Danese, L;Dean, A;Di Cocco, G;Franceschini, A;Hunt, L;Matteucci, F;Palazzi, E;Palumbo, G;Rephaeli, Y;Salucci, P;Spizzichino, A|Diffuse thermal emission from very hot gas in starburst galaxies: spectral results.|5
+1999MmSAI..70...81R|Rafanelli, P;Afanas'ev, V;Birkle, K;Bohm, P;Boller, T;Dodonov, S;Radovich, M;Richter, G;Salvato, M;Vennik, J|Mkn 298: an AGN hidden by starbursts.|3
+1999PABei..17..266X|Xu, K;Cheng, F|Recent developments and several interesting problems of starburst galaxies.|0
+1999alma.confE..65V|Viallefond, F;Anantharamiah, K|High Frequency Radio Recombination Lines in Starburst Galaxies|0
+1998ASPC..132...89L|Lutz, D;Genzel, R;Kunze, D;Spoon, H;Sturm, E;Sternberg, A;Moorwood, A|The ISM in Starburst Galaxies: Constraints from ISO Spectroscopy|9
+1998ASPC..148..127H|Heckman, T|Starbursts: Lessons for the Origin and Evolution of Galaxies and the Intergalactic Medium|54
+1997AIPC..393..259H|Hibbard, J|Mergers, interactions, and the fueling of starbursts|8
+1997AIPC..393..271H|Heckman, T|Starbursts and cosmogony|14
+1997AIPC..393..303J|Jayawardhana, R;Fazio, G;Eikenberry, S;Hughes, D;Hora, J;Hoffmann, W;Dayal, A;Deutsch, L|Infrared imaging of the starburst galaxy NGC 7469|0
+1997AIPC..393..319G|Gao, Y;Gruendl, R;Lo, K;Hwang, C;Veilleux, S|Pre-starbursts in luminous IR galaxies?|6
+1997AIPC..408...31M|Meurer, G|The starburst intensity limit and its ultraviolet implications|2
+1997AIPC..408..119L|Leitherer, C|Ultraviolet and extreme ultraviolet observations of starburst galaxies|8
+1997AIPC..408..364G|Gordon, K;Calzetti, D;Witt, A|Dust in starburst galaxies|0
+1997RMxAC...6....5H|Ho, L|Young Star Clusters in Starburst Environments|31
+1996ASPC..103...70S|Serlemitsos, P;Ptak, A;Yaqoob, T|X-Ray Observations of LINER and Starburst Galaxies|37
+1996rftu.proc..379H|Hensler, G;Dickow, R;Junkes, N;Gallagher, J|Soft X-rays from the low-mass starburst galaxy NGC 1705.|2
+1996rftu.proc..459J|Junkes, N;Hensler, G|NGC 2903 and NGC 4569: possible X-ray emission from the halos of two nuclear starburst galaxies.|2
+1995fmw..conf...74M|Muxlow, T;Pedlar, A;Sanders, E|High-resolution L-band imaging of the starburst galaxy M82.|5
+1994AIPC..313..139H|Heckman, T|ROSAT Observations of Starburst Galaxies|3
+1994Ap&SS.217..271L|Lancon, A;Rocca-Volmerange, B|Star Formation in Starburst Galaxies from Near-IR Spectroscopy and Evolutionary Population Synthesis|4
+1994nsa..book..151H|Habe, A|Galactic winds from starburst galaxies.|2
+1994vsf..book..200R|Richter, G;Braun, M;Assendorp, R|The IR and X-radiation of the starburst dwarf galaxy UGCA 86.|0
+1994vsf..book..303H|Heap, S|The starburst nucleus of M83.|4
+1993RMxAA..27..203W|Walker, C;Bash, F;Martin, R;Phillips, T|The starburst properties of M82, M83 and IC 342.|5
+1993egte.conf...34C|Carmelle, R;Leitherer, C;Heckman, T|The ultraviolet signature of massive stars in starburst galaxies|1
+1993egte.conf..159H|Harris, A;Hills, R;Stutzki, J;Graf, U;Russell, A;Tacconi, L;Genzel, R|Observations of the CO J=6-5 transition in starburst galaxies|0
+1993sfgi.conf..130M|Mirabel, I;Duc, P|Starbursts in colliding galaxies.|0
+1993ucsd.reptQ....G|Gruber, D|Starburst Galaxies: Hard X-ray spectra and contribution to the diffuse background|0
+1992AIPC..254..629C|Condon, J|Far-infrared and radio signatures of starbursts and monsters|7
+1992STIN...9330643G|Genzel, R;Cameron, M;Krabbe, A|Infrared spectroscopy and imaging of starburst galaxies and AGNs|0
+1992eocm.rept..197M|Mas-Hesse, J;Cervino, M|Multiwavelength analysis of starburst galaxies.|0
+1992xrea.conf..338M|Meurs, E;Boller, T|On the Suitability of Starburst Galaxies as a Contributor to the Cosmic X-Ray Background|2
+1991ASPC...18..113C|Condon, J|Radio luminosity functions.|6
+1990NASCP3084..317B|Blanco, P;Puxley, P|Infrared Spectroscopy of the Dwarf Starburst Galaxy HENIZE:2-10|0
+1990NASCP3084..337C|Carlstrom, J;Jackson, J;Ho, P;Turner, J|Dense Gas and HII Regions in the Starburst Galaxy NGC253|0
+1990NASCP3098..731B|Bernloehr, K|Starbursts in interacting galaxies: observations and models.|3
+1990RMxAA..21..236R|Robledo-Rella, V;Firmani, C|Initial mass function in starburst galaxies with different metallicity.|5
+1989RMxAA..18..173S|Shields, G|Starburst and active galactic nuclei.|2
+1988ASSL..141..117M|Melnick, J|Starburst galaxies|2
+1988ASSL..141..127M|Majewski, S|Ring galaxies as probes of starburst evolution.|2
+1988ESASP.281b.319B|Bruhweiler, F;Altner, B|UV spectroscopy of the starburst knots and extranuclear emission in the nearby Seyfert: NGC 1068|3
+1987ASSL..129..623K|Kunth, D;Weedman, D|Starbust Galaxies|6
+1987IAUS..115..663S|Silk, J|Star formation and galactic evolution - From protogalaxies to starbursts|28
+1987IAUS..121..499T|Terlevich, R;Melnick, J;Moles, M|Starburst Models for AGNS|58
+1987NASCP2466..351W|Weedman, D|Starburst Galaxies|31
+1987NASCP2466..395N|Norman, C|Star Formation and Dynamics in Starburst Nuclei|11
+1987NASCP2466..461H|Heckman, T;Armus, L;McCarthy, P;van Breugel, W;Miley, G|Starburst Driven Superwinds from Infrared Galaxies|4
+1987NASCP2466..507S|Sekiguchi, K|IRAS Observations of Starburst Galaxies|3
+1987NASCP2466..675W|Wilson, A|Circumnuclear Starbursts in Seyfert Galaxies|11
+1987PAICz..69..101S|Scalo, J|Starburst and galaxy evolution.|1
+1987nngp.proc...18S|Schweizer, F|Star Formation in Colliding and Merging Galaxies|187
+1987sbge.proc.....T|Thuan, T;Montmerle, T;Tran Thanh van, J|Starbursts and galaxy evolution|7
+1987sbge.proc..165Z|Zinnecker, H|Henize 2-10: a starburst dwarf galaxy.|5
+1987sbge.proc..257B|Belfort, P|Starbursts and IRAS galaxies.|0
+1987sbge.proc..401D|Djorgovski, S|Starbursts and mergers at large redshifts, and the evolutionary mechanisms of powerful radio-galaxies.|8
+1987sbge.proc..425C|Condon, J|Starburst galaxies in deep radio surveys.|4
+1987sbge.proc..445S|Scalo, J|The initial mass function, starbursts, and the Milky Way.|44
+1987sbge.proc..467L|Larson, R|Star formation rates and starbursts.|70
+1987sbge.proc..483N|Norman, C|Starbursts and their dynamics.|5
+1987sbge.proc..495W|Wiklind, T|Feedback and starbursts.|4
+1986SRToh...6..181T|Taniguchi, Y|A statistical study on the difference between normal and starburst galaxies.|2
+1985ASSL..120..285D|de Jong, T|The starburst phenomenon|0
+1985RALR...86...13H|Hawarden, T;Joseph, R;Leggett, S;Mountain, C;Wade, R|Starbursts in non-interacting galaxies.|0
+1985RALR...86..130R|Robson, E|Blazars, quasars and starbursts.|0

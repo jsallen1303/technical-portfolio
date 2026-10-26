@@ -1,0 +1,90 @@
+2020ApJ...889..167B|Boschini, M;Torre, S;Gervasi, M;Grandi, D;Johannesson, G;Vacca, G;Masi, N;Moskalenko, I;Pensotti, S;Porter, T;Quadrani, L;Rancoita, P;Rozza, D;Tacconi, M|Deciphering the Local Interstellar Spectra of Secondary Nuclei with the Galprop/Helmod Framework and a Hint for Primary Lithium in Cosmic Rays|6
+2018ApJ...858...61B|Boschini, M;Della Torre, S;Gervasi, M;Grandi, D;Johannesson, G;La Vacca, G;Masi, N;Moskalenko, I;Pensotti, S;Porter, T;Quadrani, L;Rancoita, P;Rozza, D;Tacconi, M|Deciphering the Local Interstellar Spectra of Primary Cosmic-Ray Species with HELMOD|15
+2010ASSP...14..441S|Suades, M;Hernanz, M;de Sereville, N|The Origin of the Galactic <SUP>26</SUP>Al and <SUP>60</SUP>Fe|0
+2010ApJ...715.1400A|Ahn, H;Allison, P;Bagliesi, M;Barbier, L;Beatty, J;Bigongiari, G;Brandt, T;Childers, J;Conklin, N;Coutu, S;DuVernois, M;Ganel, O;Han, J;Jeon, J;Kim, K;Lee, J;Lee, M;Maestro, P;Malinin, A;Marrocchesi, P;Minnick, S;Mognet, S;Na, G;Nam, J;Nam, S;Nutter, S;Park, I;Park, N;Seo, E;Sina, R;Walpole, P;Wu, J;Yang, J;Yoon, Y;Zei, R;Zinn, S|Measurements of the Relative Abundances of High-energy Cosmic-ray Nuclei in the TeV/Nucleon Region|35
+2010PhyU...53..805A|Aleksandrov, A;Bagulya, A;Vladimirov, M;Goncharova, L;Ivliev, A;Kalinina, G;Kashkarov, L;Konovalova, N;Okat'eva, N;Polukhina, N;Rusetskii, A;Starkov, N|INSTRUMENTS AND METHODS OF INVESTIGATION Charge spectrum of galactic cosmic ray nuclei as measured in meteorite olivines|4
+2009AdSpR..43..385B|Bobik, P;Boella, G;Boschini, M;Gervasi, M;Grandi, D;Kudela, K;Pensotti, S;Rancoita, P|Fluxes and nuclear abundances of cosmic rays inside the magnetosphere using a transmission function approach|3
+2009AdSpR..44.1107S|Smart, D;Shea, M|Fifty years of progress in geomagnetic cutoff rigidity determinations|24
+2008ApJ...681.1334F|Farahat, A;Zhang, M;Rassoul, H;Connell, J|Cosmic Ray Transport and Production in the Galaxy: A Stochastic Propagation Simulation Approach|8
+1999AdSpR..23..487D|Doke, T;Hasebe, N;Hayashi, T;Itsumi, K;Kikuchi, J;Kobayashi, M;Kondoh, K;Shirai, H;Takashima, T;Takehana, T;Yamada, Y;Yanagimachi, T;Yashiro, J|Observation of galactic cosmic ray particles by the HEP-HI telescope on the geotail satellite|0
+1998ApJ...502..428M|Moskalenko, I;Collmar, W;Schonfelder, V|A Combined Model for the X-Ray to Gamma-Ray Emission of Cygnus X-1|5
+1998ApJ...506..335W|Webber, W;Soutoul, A|A Study of the Surviving Fraction of the Cosmic-Ray Radioactive Decay Isotopes <SUP>10</SUP>Be, <SUP>26</SUP>Al, <SUP>36</SUP>Cl and <SUP>54</SUP>Mn as a Function of Energy Using the Charge Ratios Be/B, Al/Mg, Cl/Ar, and Mn/Fe Measured on HEAO3|51
+1998PhDT........14G|Graham, B|Modeled Performance of a Compton Telescope Based on Planar Germanium Detectors|0
+1996ApJ...465..982D|Duvernois, M;Thayer, M|The Elemental Composition of the Galactic Cosmic-Ray Source: ULYSSES High-Energy Telescope Results|48
+1996PhDT.........4H|Hersh, B|Photometric Studies of Cygnus X-1 from 322-473 KEV with the Solar Maximum Mission|0
+1995AdSpR..15f..75R|Ramadurai, S|Nucleosynthetic clues to sources of ultra heavy cosmic ray nuclei|1
+1995ApJ...438..322W|Wheaton, W;Dunklee, A;Jacobsen, A;Ling, J;Mahoney, W;Radocinski, R|Multiparameter Linear Least-Squares Fitting to Poisson Data One Count at a Time|32
+1994ApJS...92..387M|Mahoney, W;Ling, J;Wheaton, W|HEAO 3 Observations of the Galactic Center 511 keV Line|29
+1994PhDT.........1B|Buckley, J|Fluxes and Relative Abundances of Light Cosmic Ray Nuclei at Energies above 40 Gev/n|0
+1993A&AS...97..159M|Mahoney, W;Ling, J;Wheaton, W|High-resolution spectrum of the Galactic Center.|4
+1993A&AS...97..189L|Lei, F;Roques, J;Mandrou, P;Vedrenne, G;Ballet, J;Cordier, B;Lebrun, F;Leray, J;Churazov, E;Gilfanov, M;Sunyaev, R;Bogomolov, A;Khavenson, N;Kuleshova, N;Tserenin, I;Sukhanov, K|Search for the compact 511 keV radiation source in the Galactic Centre region with SIGMA.|8
+1993ApJ...403..658S|Swordy, S;L'Heureux, J;Meyer, P;Muller, D|Elemental Abundances in the Local Cosmic Rays at High Energies|46
+1992ApJ...387..314M|Mahoney, W;Ling, J;Wheaton, W;Higdon, J|HEAO 3 Limits on the 44Ti Yield in Galactic Supernovae|21
+1991ApJ...366..544U|Ubertini, P;Bazzano, A;Perotti, F;Quadrini, E;Court, A;Dean, A;Dipper, N;Lewis, R;Bassani, L;Stephen, J|"Superlow-State" Hard X-Ray Observation of Cygnus X-1|15
+1991ApJ...367..470L|Liang, E|Structure of Thermal Pair Clouds around Gamma-Ray--emitting Black Holes|16
+1991ApJ...369..440N|Nofar, I;Shaviv, G;Starrfield, S|The Formation of 26Al Nova Explosions|57
+1991ApJ...369..485U|Ulmer, M;Purcell, W;Wheaton, W;Mahoney, W|HEAO 3 Upper Limits to Pulsed Gamma-Ray Emission from PSR 1509-58 and PSR 0833-45|12
+1991ApJ...377..680G|Grove, J;Hayes, B;Mewaldt, R;Webber, W|The 54Mn Clock and Its Implications for Cosmic-Ray Propagation and Fe Isotope Studies|16
+1990A&A...227..447L|Liang, E|The emission region of Cygnus X-1 MeV gamma rays.|10
+1990A&A...233...96E|Engelmann, J;Ferrando, P;Soutoul, A;Goret, P;Juliusson, E;Koch-Miramond, L;Lund, N;Masse, P;Peters, B;Petrou, N;Rasmussen, I|Charge composition and energy spectra of cosmic-ray nuclei for elements from Be to Ni - Results from HEAO-3-C2.|448
+1990ApJ...348..608W|Webber, W;Gupta, M|A New Limit on the Time between the Nucleosynthesis and the Acceleration of Cosmic Rays in Supernova Remnants Using the Co/Ni Ratio|3
+1989ApJ...343L..57L|Ling, J;Wheaton, W|Search for a Narrow Annihilation Feature Correlated with the MeV Emission of Cygnus X-1|40
+1989ApJ...346..997B|Binns, W;Garrard, T;Gibner, P;Israel, M;Kertzman, M;Klarmann, J;Newport, B;Stone, E;Waddington, C|Abundances of Ultraheavy Elements in the Cosmic Radiation: Results from HEAO 3|125
+1989PhDT.........6C|Cummings, J|Fragmentation of Relativistic Heavy Nuclei with Application to Cosmic Ray Propagation.|5
+1988A&A...193...69F|Ferrando, P;Engelmann, J;Goret, P;Koch-Miramond, L;Petrou, N|Measurement of the isotopic composition of cosmic-rays at 3 GeV/n using a new geomagnetic method|9
+1988ApJ...324.1106B|Binns, W;Garrard, T;Israel, M;Jones, M;Kamionkowski, M;Klarmann, J;Stone, E;Waddington, C|Cosmic-Ray Energy Spectra between 10 and Several Hundred GeV per Atomic Mass Unit for Elements from 18Ar to 28Ni: Results from HEAO 3|41
+1988ApJ...325L..39L|Liang, E;Dermer, C|Interpretation of the Gamma-Ray Bump from Cygnus X-1|65
+1988ApJ...329..212B|Bildsten, L;Zurek, W|Positron Annihilation Radiation from the Galactic Center: ``Cheshire Cat'' Compton Scattering and the Origin of Excess Continuum|15
+1987ApJ...317..846S|Schwartz, R;Ling, J;Mahoney, W;Jacobson, A|Gamma-Ray Burst Localization by HEAO 3|4
+1987ApJ...321L.117L|Ling, J;Mahoney, W;Wheaton, W;Jacobson, A|Long-Term Gamma-Ray Spectral Variability of Cygnus X-1|144
+1987PhDT.......116B|Brown, B|Monoenergetic Positronium Beams and Laboratory Simulations of Galactic Positron Annihilation.|0
+1987RvGeo..25..685M|Mason, G|The composition of galactic cosmic rays and solar energetic particles.|32
+1986A&A...164..231L|Lund, N;Rotenberg, M|Search for heavy antinuclei in the cosmic radiation|1
+1986PhDT.........2N|Newport, B|The Abundances of Ultraheavy Elements in the Cosmic Radiation.|2
+1985A&A...148...12E|Engelmann, J;Goret, P;Koch-Miramond, L;Juliusson, E;Lund, N|Source energy spectra of heavy cosmic ray nuclei as derived from the French-Danish experiment on HEAO-3|42
+1985ApJ...288L..21D|Dearborn, D;Blake, J|On the source of the Al-26 observed in the interstellar medium|61
+1985ApJ...289..603Z|Zurek, W|Annihilation radiation from the galactic center - Positrons in dust?|48
+1985ApJ...292L..61S|Share, G;Kinzer, R;Kurfess, J;Forrest, D;Chupp, E;Rieger, E|Detection of galactic Al-26 gamma radiation by the SMM spectrometer|128
+1985ApJ...292L..67B|Brown, B|A possible galactic positron annihilation medium - Neutral hydrogen|13
+1985ApJ...294..419B|Brewster, N;Freier, P;Waddington, C|The propagation of ultraheavy cosmic-ray nuclei revisited|8
+1985ApJ...294..591L|Leising, M;Clayton, D|Angular distribution of interstellar Al-26|49
+1985ApJ...294L..13R|Riegler, G;Ling, J;Mahoney, W;Wheaton, W;Jacobson, A|The Gamma-Ray Spectrum of the Galactic Center Region|64
+1985ApJ...297..111B|Binns, W;Israel, M;Brewster, N;Fixsen, D;Garrard, T|Lead, platinum, and other heavy elements in the primary cosmic radiation - HEAO 3 results|18
+1985ApJ...299..334M|Margolis, S;Blake, J|The heaviest cosmic-ray nuclei|4
+1985IrAJ...17..112F|Fowler, P|Ultra Heavy Cosmic Rays|0
+1985PhDT.........3J|Jones, M|Abundances of Heavy Cosmic Rays at Energies up to 1000 Gev/amu.|4
+1984AdSpR...3j..59P|Perotti, F;Della Ventura, A;Villa, G;Bassani, L;Butler, C;Di Cocco, G;Baker, R;Carter, J;Dean, A|Hard X-ray observations of Cygnus X-1 with the MISO telescope|1
+1984AdSpR...4b...5L|Lund, N|Cosmic-ray elemental abundances|13
+1984ApJ...278..784M|Mahoney, W;Ling, J;Jacobson, A|HEAO 3 observations of the Crab pulsar.|39
+1984ApJ...279..144L|Letaw, J;Silberberg, R;Tsao, C|On the abundances of ultraheavy cosmic rays|16
+1984ApJ...280..144C|Clayton, D|Al-26 in the interstellar medium|109
+1984ApJ...281..566M|Marscher, A;Brecher, K;Wheaton, W;Ling, J;Mahoney, W;Jacobson, A|Search for 511 keV electron-positron annihilation radiation from mildly active galaxies using the HEAO 3 gamma-ray spectrometer.|6
+1984ApJ...286..578M|Mahoney, W;Ling, J;Wheaton, W;Jacobson, A|HEAO 3 discovery of Al-26 in the interstellar medium|261
+1984NIMPA.225..185D|Derrickson, J;Eby, P;Watts, J|Effect of the Mott cross section on charge identification in the HEAO-3 Heavy Cosmic Ray Experiment.|2
+1983ApJ...267L..93B|Binns, W;Israel, M;Klarmann, J;Fickle, R;Waddington, C;Garrard, T;Krombel, K;Stone, E|Cosmic-ray abundances of Sn, Te, Xe, and BA nuclei measured on HEAO 3|11
+1983ApJ...272..756O|Ormes, J;Protheroe, R|Implioations of HEAO 3 data for the acceleration and propagation of galactic cosmic rays|66
+1983ApJ...275..307L|Ling, J;Mahoney, W;Wheaton, W;Jacobson, A;Kaluzienski, L|The states of Cygnus X-1.|49
+1983ChA&A...7..232H|Huang, Y;Cheng, T;Zhang, G|The propagation of cosmic rays in interstellar matter: Pathlength, residence time and age|0
+1983ChJSS...2..224H|Huang, Y|A method for determining the age of cosmic rays in the Galaxy|0
+1983ChJSS...3Q.157H|Huang, Y;Cheng, T;Zhang, G|The propagation of cosmic rays in interstellar matter Pathlength, residence time and age|0
+1983Natur.305...37L|Lamb, R;Ling, J;Mahoney, W;Riegler, G;Wheaton, W;Jacobson, A|γ-Ray line emission from SS433|48
+1983PhDT.........4K|Krombel, K|The Relative Abundances of Tin, Tellurium, Xenon, Barium, and Cerium in the Cosmic Radiation.|1
+1983PhDT........82D|Derrickson, J|a Measurement of the Cosmic Ray Energy Spectra of the Elements Boron to Iron in the Intermediate Energy Region 0.5-2.0 Gev/amu.|0
+1982Ap&SS..84....3B|Bouffard, M;Engelmann, J;Koch, L;Soutoul, A;Lund, N;Peters, B;Rasmussen, I|The HEAO-3 cosmic Ray Isotope Spectrometer.|21
+1982ApJ...255L..81P|Prince, T;Ling, J;Mahoney, W;Riegler, G;Jacobson, A|A high-resolution measurement of the 2.223 MeV neutron capture line in a solar flare|44
+1982ApJ...259..392R|Riegler, G;Ling, J;Mahoney, W;Wheaton, W;Willett, J;Jacobson, A;Prince, T;Zirin, H|Gamma-ray and optical observations of the 1979 November 8 solar flare|10
+1982ApJ...261L.117B|Binns, W;Israel, M;Klarmann, J;Fickle, R;Waddington, C;Garrard, T;Stone, E|The abundance of the actinides in the cosmic radiation as measured on HEAO 3|21
+1982ApJ...262..742M|Mahoney, W;Ling, J;Jacobson, A;Lingenfelter, R|Diffuse galactic gamma-ray line emission from nucleosynthetic Fe-60, Al-26, and Na-22 - Preliminary limits from HEAO 3.|209
+1982ChJSS...2..224H|Huang, Y|A method for determining the age of cosmic rays in the galaxy|0
+1981A&A...102L...9K|Koch, L;Engelmann, J;Goret, P;Juliusson, E;Petrou, N;Rio, Y;Soutoul, A;Byrnak, B;Lund, N;Peters, B|The relative abundances of the elements scandium to manganese in relativistic cosmic rays and the possible radioactive decay of manganese 54|8
+1981AdSpR...1m.173.||The HEAO-3 French-Danish cosmic ray spectrometer: Preliminary results on the elemental abundances of cosmic ray nuclei in the iron peak|3
+1981ApJ...247..362P|Protheroe, R;Ormes, J;Comstock, G|Interpretation of cosmic ray composition - The path length distribution|48
+1981ApJ...247L.115B|Binns, W;Fickle, R;Waddington, C;Garrard, T;Stone, E;Israel, M;Klarmann, J|Cosmic-ray abundances of elements with atomic number 26 less than or equal to 40 measured on HEAO 3|32
+1981ApJ...248L..13R|Riegler, G;Ling, J;Mahoney, W;Wheaton, W;Willett, J;Jacobson, A;Prince, T|Variable positron annihilation radiation from the galactic center region|142
+1981ApJ...251..402B|Blake, J;Margolis, S|Indicators of nucleosynthesis and acceleration processes in the ultraheavy cosmic rays: Z not less than 24 and not greater than 59|8
+1981NIMPR.185..415B|Binns, W;Israel, M;Klarmann, J;Scarlett, W;Stone, E;Waddington, C|The UH-nuclei cosmic ray detector on the third High Energy Astronomy Observatory.|13
+1981NYASA.375..330J|Jacobson, A|Positron annihilation radiation from the galactic center region|1
+1981NYASA.375..338R|Ramaty, R;Leiter, D;Lingenfelter, R|Gamma ray lines from the galactic center and gamma ray transients|1
+1981Natur.294..518M|Meyer, P|Clues for the origin of cosmic rays|1
+1981RSPTA.301..671R|Ramaty, R;Lingenfelter, R|Interpretations and Implications of γ -ray Lines from Solar Flares, the Galactic Centre and γ -ray Transients|25
+1980NucIM.178..363M|Mahoney, W;Ling, J;Jacobson, A;Tapphorn, R|The HEAO 3 gamma-ray spectrometer.|34

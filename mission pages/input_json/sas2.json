@@ -1,0 +1,43 @@
+{
+    "title": "The Small Astronomy Satellite 2",
+    "name": "The Small Astronomy Satellite 2 (SAS-2)",
+    "decade" : 1970,
+    "alttext": "Photograph of SAS-2",
+    "imagesize": 137,
+    "imageurl": "/Images/sas2/sas2_clean_small2.gif",
+    "descript": "<p><b><font size=\"+2\">T</font>he second NASA Small Astronomy Satellite (SAS-2)</b> was dedicated to gamma-ray astronomy in the energy range above 35 MeV. SAS-2 was launched on 1972 November 15 and began operations on 1972 November 19.</p>\n\n<p>To minimize the background flux from cosmic-rays, SAS-2 was placed in a low Earth equatorial orbit having a 2 degree orbital inclination. Its apogee and perigee were 610 km and 440 km respectively, with an orbital period of about 95 minutes.</p>\n\n<p>During the &sim;6 months of the mission, 27 pointed observations (typically a week in duration) were made, resulting in about 55 percent of the sky being observed, including most of the galactic plane. On 8 June 1973, a failure of the low-voltage power supply ended the collection of data.</p>",
+    "lifetime": "19 Nov 1972&ndash;8 Jun 1973",
+    "features": [""],
+    "instruments": [
+	{
+	    "name" : "spark chamber",
+	    "energy" : "20 MeV &ndash; 1 GeV",
+	    "area" : "540 cm<sup>2</sup>",
+	    "descript" : "The SAS-2 satellite carried a single instrument: a gamma-ray telescope that used a 32-level wire spark-chamber. The telescope covered the energy range 20 MeV &ndash; 1 GeV. The instrument was the work of Fichtel <i>et. al.</i> at NASA-GSFC. During the short lifetime of the mission, there was some noticeable decrease in sensitivity due to deterioration of the spark-chamber gas."
+	}
+    ],
+    "highlights": [
+	"The first detailed look at the gamma-ray sky",
+	"Established the high energy component of diffuse celestial radiation",
+	"Correlated the gamma-ray background with galactic structural features"
+    ],
+    "archive" : "The HEASARC hosts raw data, images, and exposure maps",
+    "navigation": [
+	{
+	    "url" : "/docs/sas2/sas2.html",
+	    "text" : "SAS-2 at HEASARC"
+	},
+	{
+	    "url" : "/docs/sas2/sas2_about.html",
+	    "text" : "More about SAS-2"
+	},
+	{
+	    "url" : "/docs/sas2/sas2_images.html",
+	    "text" : "Gallery"
+	},
+	{
+	    "url" : "/docs/sas2/bib/sas2_biblio.html",
+	    "text" : "Publications"
+	}
+    ]
+}

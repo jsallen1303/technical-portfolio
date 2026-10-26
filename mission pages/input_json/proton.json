@@ -1,0 +1,25 @@
+{
+  "title": "The Proton 1 & 2 satellite missions",
+    "name": "Proton 1 & Proton 2",
+    "decade" : 1960,
+  "alttext": "Visualization of a Proton satellite",
+  "imagesize": 210,
+    "imageurl": "/Images/misc_missions/proton4.gif",
+    "lifetime" : "Jul 1965&ndash;Feb 1966",
+    "series" : [
+	{
+	    "name" : "Proton 1" ,
+	    "descript" : "Proton 1 was launched 16 July 1965 by the USSR into an orbit with apogee 589 km, perigee 183 km, and inclination 63.4 degrees. The orbital period was 92.25 minutes. The satellite weighed 12,200 kg. It was cylindrical in shape with convex ends. The experimental payload included instruments for monitoring cosmic rays with energies up to 1 &times; 10<sup>14</sup> eV, determining the intensity and energy spectrum of galactic electrons, and measuring the intensity and energy spectrum of cosmic gamma-rays over 50 MeV. The satellite reentered the Earth&rsquo;s atmosphere on 11 October 1965."
+	},
+	{
+	    "name" : "Proton 2",
+	    "descript" : "Proton 2, physically identical to Proton 1, was launched on 2 November 1965. Its orbital parameters were: apogee 637 km, perigee 191 km, inclination 63.5 degrees. The orbital period was 92.6 minutes. It carried the same payload as Proton 1, again with the primary interest being ultra-high energy cosmic particles. It decayed on 6 February 1966."
+	}
+    ],
+  "navigation": [
+    {
+      "url": "biblio/proton_biblio.html",
+      "text": "Publications"
+    }
+  ]
+}

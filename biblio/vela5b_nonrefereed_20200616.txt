@@ -1,0 +1,32 @@
+2006smqw.confE..70B|Bhatt, N;Bhattacharyya, S|4U1630-47 during 2002-2006 outburst activity - A Timing Analysis|0
+2003HEAD....7.1723S|Saz Parkinson, P;Tournear, D;Bloom, E;Focke, W;Reilly, K;Wood, K;Ray, P;Wolff, M;Scargle, J|Long-term X-ray variability of Cir X-1|1
+2002AAS...201.5404S|Saz Parkinson, P;Bloom, E;Tournear, D;Focke, W;Ray, P;Wolff, M;Wood, K;Scargle, J|Long-term X-ray variability of Circinus X-1|0
+1999IAUC.7293....1G|Giovannelli, F;Sabau-Graziati, L;Bernabei, S;Galleti, S|HDE 245770|3
+1996IAUC.6452....2S|Smale, A;Kuulkers, E;Wijnands, R|Cygnus X-2|2
+1996IAUC.6524....2P|Peele, A;White, N|Scorpius X-1|4
+1992AAS...181.7310L|Lochner, J;Roussel-Dupre, D|Evidence for Periods in the X-ray Transient 4U1608-52|0
+1992AAS...181.9204W|Whitlock, L;Lochner, J|Vela 5B Observations of the Small Magellanic Cloud|0
+1992IAUC.5658....2L|Lochner, J;Whitlock, L;Kouveliotou, C|GRS 1915+105 and B1900+14|4
+1990BAAS...22..804L|Lochner, J;Roussel-Dupre, D|Outbursts of 4U1608-52 Observed with Vela 5B|1
+1987BAAS...19.1019T|Terrell, J|The 1973 X-Ray Ourburst of V0332+53-More Detailed Time History|0
+1986BAAS...18..918W|Whitlock, L;Roussel-Dupre, D|A New Look at the Vela 5B Data: Results from Reorganization|0
+1985BAAS...17..849W|Whitlock, L;Roussel-Dupre, D;Priedhorsky, W|The 1974 Recurrence of X-ray Transient 4U0115+63|1
+1985BAAS...17..855T|Terrell, J;Priedhorsky, W|Cyg X-3 X-Ray Fluctuations, 1969-1979|0
+1985STIN...8616184P|Priedhorsky, W|Recurrent population 2 X-ray transients - similarities to SU UMa cataclysmic variables|0
+1985mbga.conf..310G|Guarnieri, A;et al.,|110-day optical photometric periodicity of the system A0535+26/HDE 245770|4
+1984AIPC..115...76T|Terrell, J;Priedhorsky, W|Ten years of vela x-ray observations|1
+1984MPERp.184..102T|Terrell, J|X-ray emission from Centaurus A.|0
+1984STIN...8518943T|Terrell, J|X-ray emission from Centaurus A|0
+1984STIN...8526586P|Priedhorsky, W|Long-term observations of CYG X-3 with VELA 5B|0
+1984xue..conf..102T|Terrell, J|X-ray emission from Centaurus A|1
+1983BAAS...15..673P|Priedhorsky, W;Terrell, J|New Results from Long-Term Observations of Cosmic X-Ray Sources|0
+1983IAUC.3893....1T|Terrell, J;Priedhorsky, W;Davelaar, J;Blissett, R;Stella, L;McKay, M;White, N;Bleeker, J;Brand, P;Geballe, T;Toner, M;Webster, A;Williams, P|V0332+53|11
+1982BAAS...14..619T|Terrell, J;Belian, R;Conner, J;Evans, W;Priedhorsky, W|X-Ray Transients, 1969-1976 (The Movie)|5
+1982IAUS...97..117T|Terrell, J|X-ray emission from Centaurus A|5
+1982ans..conf..210T|Terrell, J;Priedhorsky, W;Belian, R;Conner, J;Evans, W|X-ray transients as seen by Vela, 1969-1979|1
+1976BAAS....8..396B|Belian, R;Conner, J;Evans, W|X-ray bursts from a region in the constellation Norma.|2
+1976BAAS....8Q.442B|Belian, R;Conner, J;Evans, W|The Norma X-Ray Bursts|0
+1976BAAS....8Q.541B|Belian, R;Evans, W;Conner, J|Short X-Ray Transients from Perseus.|0
+1976IAUC.2969....1B|Belian, R;Connor, J;Evans, W|X-Ray Bursts from Perseus|7
+1976STIN...7710115.||Daily summary for IMS high-altitude satellites, days 1-181 1977|0
+1970BAAS....2R.304C|Conner, J;Evans, W;Belian, R;Kunkel, W;Hiltner, W|Correlation of Optical and X-Ray Emission from Sco XR-1|0

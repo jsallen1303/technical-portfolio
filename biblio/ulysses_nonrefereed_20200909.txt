@@ -1,0 +1,54 @@
+1999AAS...194.9704H|Hurley, K;Cline, T;Kouveliotou, C;Mazets, E|A Refined IPN Position for SGR1806-20|0
+1998AAS...192.4313H|Hurley, K;Briggs, M;Kippen, R;Kouveliotou, C;Meegan, C;Fishman, G;Cline, T;Boer, M|The ULYSSES Supplement to the BATSE 4B Catalog of Cosmic Gamma-Ray Bursts|0
+1998IAUC.6929....1H|Hurley, K;Kouveliotou, C;Mazets, E;Cline, T;Woods, P;Kippen, M;Briggs, M|SGR 1900+14|14
+1998IAUC.6948....1W|Woods, P;Kippen, M;Kouveliotou, C;McCollough, M;Hurley, K;Green, D|SGR 1627-41|8
+1998IAUC.6966....2H|Hurley, K;Cline, T;Butterworth, P;Mazets, E;Golenetskii, S|Sgr 1627-41|5
+1998IAUC.7001....1H|Hurley, K;Kouveliotou, C;Murakami, T;Strohmayer, T|SGR 1900+14|8
+1998IAUC.7005....1M|Marshall, F;Cline, T;Palmer, D;Mazets, E;Hurley, K;Beardmore, A|SGR 1900+14|1
+1998tx19.confE...4A|Atteia, J;Boer, M;Hurley, K|The Intensity Distribution of Bright Gamma-ray Bursts|0
+1997AAS...190.4309S|Smith, D;Jernigan, J;Hurley, K;Bradt, H;Levine, A;Remillard, R;Fishman, G;Kouveliotou, C;Meegan, C|RXTE ASM and IPN Precise Position of BATSE Burst 5428|0
+1997AAS...191.4810H|Hurley, K;Gold, R;Cline, T;Butterworth, P;Palmer, D;Trombka, J;McClanahan, T;Mazets, E;Golenetskii, S;Kouveliotou, C;Fishman, G;Meegan, C;Boer, M|Gamma-Ray Burst Localizations with NEAR in the 3rd Interplanetary Network|0
+1997AAS...19111906S|Smith, D;Wen, L;Bradt, H;Remillard, R;Levine, A;Jernigan, J;Hurley, K;Fishman, G;Kouveliotou, C;Meegan, C;Cline, T;Butterworth, P;Mazets, E;Golenetskii, S|Localizations of Gamma-Ray Bursts with the All-Sky Monitor on RXTE|0
+1997IAUC.6545....1F|Frail, D;Kulkarni, S;Nicastro, L;dal Fiume, D;Orlandini, M;Palazzi, E;Pizzichini, G;Frontera, F;Zavattini, G;Amati, L;Cinti, M;Costa, E;Feroci, M;Piro, L;Jager, R;Heise, J;Hurley, K;Kouveliotou, C;Fishman, G;Meegan, C|GRB 970111|10
+1997IAUC.6571....1H|Hurley, K;Kouveliotou, C;Fishman, G;Meegan, C;van Paradijs, J;Galama, T;Strom, R;Hanlon, L;Bennett, K;Heise, J|GRB 970111|6
+1997IAUC.6578....1M|Matz, S;McNaron-Brown, K;Grove, J;Share, G;Hurley, K;Costa, E;Feroci, M;Frontera, F;dal Fiume, D;Orlandini, M|GRB 970228|6
+1997IAUC.6584....1G|Groot, P;Galama, T;van Paradijs, J;Strom, R;Telting, J;Rutten, R;Pettini, M;Tanvir, N;Naber, R;Kouveliotou, C;in 't Zand, J;Heise, J;Costa, E;Feroci, M;Piro, L;Frontera, F;Zavattini, G;Nicastro, L;Palazzi, E|GRB 970228|90
+1997IAUC.6593....1C|Cline, T;Butterworth, P;Stilwell, D;Mazets, E;Golenetskii, S;Aptekar, R;Frederiks, D;Il'Inskii, V;Terekhov, M;Hurley, K;Yoshida, A;Kawai, N;Otani, C;Tokanai, F;Inoue, H;Murakami, T;Nagase, F;Shibata, R;Ueda, Y;Holt, S;Piro, L;Costa, E;Heise, J;Hughes, J|GRB 970228|21
+1997IAUC.6594....1H|Hurley, K;Costa, E;Feroci, M;Frontera, F;dal Fiume, D;Orlandini, M|GRB 970228|6
+1997IAUC.6683....1C|Connaughton, V;Kippen, R;Preece, R;Pendleton, G;Barthelmy, S;Marshall, F;Takeshima, T;Robinson, C;Hurley, K|GRB 970616|14
+1997IAUC.6728....1S|Smith, D;Levine, A;Remillard, R;Wood, A;Hurley, K;Kouveliotou, C;Fishman, G;Meegan, C;Connaughton, V;van Paradijs, J|GRB 970828|11
+1997IAUC.6743....1H|Hurley, K;Kouveliotou, C;Cline, T;Mazets, E;Fishman, G;Meegan, C;Woods, P;Smith, D;Levine, A;Morgan, E;Remillard, R;Rutledge, R|Possible New Soft gamma-Ray Repeater|10
+1997IAUC.6785....1C|Connaughton, V;Kippen, R;Preece, R;Hurley, K|GRB 971208|12
+1997IAUJD..19E..59Y|Yokobe, A;Asai, K;Hick, P;Jackson, B;Kojima, M;Manoharan, P;Tokumaru, M;Watanabe, H|Solar wind structure analyzed by tomography of interplanetary scintillation|0
+1997asxo.proc..195S|Shibata, R;Murakami, T;Ueda, Y;Yoshida, A;Tokanai, F;Otani, C;Kawai, N;Hurley, K|X-ray Counterparts Search for the Extremely Bright Gamma-Ray Burst on 1993 January 31|0
+1997nasa.reptS....H|Hurley, K|Analysis of Data from the Transient Gamma-Ray Spectrometer Experiment on the GGS/Wind Spacecraft|0
+1996AAS...188.1402H|Hurley, K;Kouveliotou, C;Fishman, G;Meegan, C;Briggs, M;van Paradijs, J;Cline, T;Kommers, J;Lewin, W;Boer, M;Niel, M|ULYSSES and BATSE Observations of the Bursting Pulsar GRO J1744-28|0
+1996AAS...189.2804K|Kippen, R;Pendleton, G;Briggs, M;Hurley, K|The Small-Scale Angular Distribution of Gamma-Ray Bursts Using Combined BATSE/Ulysses Localization|0
+1996AAS...18910102H|Hurley, K;Kouveliotou, C;Fishman, G;Meegan, C;Briggs, M;van Paradijs, J;Cline, T;Kommers, J;Lewin, W;Boer, M;Niel, M|Verifying the Accuracy of the 3rd Interplanetary Network with the Bursting Pulsar GRO J1744-28|3
+1996IAUC.6286....1K|Kouveliotou, C;Kommers, J;Lewin, W;van Paradijs, J;Fishman, G;Briggs, M;Hurley, K;Harmon, A;Finger, M;Wilson, R|GRO J1744-28|22
+1996IAUC.6512....2H|Hurley, K;Kouveliotou, C;Fishman, G;Meegan, C;van Paradijs, J|SGR 1806-20|2
+1996IAUC.6518....1M|Meegan, C;Connaughton, V;Fishman, G;Kippen, R;Kouveliotou, C;Hurley, K;Cline, T;Palmer, D;Barthelmy, S;Butterworth, P;Teegarden, B;Seifert, H;in 't Zand, J;Mazets, E;Golenetskij, S|Gamma-Ray Bursts|12
+1995IAUC.6275....2H|Hurley, K;Kouveliotou, C;Harmon, A;Fishman, G;Briggs, M;van Paradijs, J;Kommers, J;Lewin, W|New X-Ray Transient Repeater|4
+1995grb..symp.....T|Terrell, J;Lee, P;Klebesadel, R|DMSP satellite detections of gamma-ray bursts|0
+1995sowi.conf..100O|Osherovich, V;Fainberg, J;Stone, R;MacDowall, R;Phillips, J;Balogh, A|ULYSSES observations of electron and proton components in a magnetic cloud and related wave activity|1
+1994AAS...184.1501H|Hurley, K;Boer, M;Niel, M;Kouveliotou, C;Meegan, C;Fishman, G;Dingus, B;Sreekumar, P;Bertsch, D;Fichtel, C;Hartman, R;Hunter, S;Thompson, D;Kanbach, G;Mayer-Hasselwander, H;von Montigny, C;Sommer, M;Lin, Y;Nolan, P;Michelson, P;Kniffen, D;Mattox, J;Schneid, E|The Record-Shattering Gamma Ray Burst of February 17 1994|0
+1994AAS...185.1509H|Hurley, K;Kouveliotou, C;Fishman, J;Meegan, C;Laros, J;Klebesadel, R|The Application of the Network Synthesis Method to Repeating Classical Gamma-Ray Bursts|0
+1994IAUC.5940....1H|Hurley, K;Bertsch, D;Cline, T;Dingus, B;Esposito, J;Fichtel, C;Hartman, R;Hunter, S;Mattox, J;von Montigny, C;Mukherjee, R;Sreekumar, P;Thompson, D;Kniffen, D;Fierro, J;Lin, Y;Michelson, P;Nolan, P;Willis, T;Schneid, E;Kanbach, G;Mayer-Hasselwander, H;Sommer, M;Fishman, G;Kouveliotou, C;Meegan, C;Boer, M;Niel, M|GRB 940217|4
+1994IAUC.5944....2H|Hurley, K;Fishman, G;Kouveliotou, C;Meegan, C;Cline, T;Boer, M;Niel, M|GRB 940301|4
+1993AAS...182.3304L|Li, P;Hurley, K;Sommer, M;Smette, A;Kouveliotou, C;Fishman, G;Cline, T;Boer, M;Niel, M;Laros, J|Multi-Wavelength Observations of May 1 1992 Gamma-Ray Burst|1
+1993AAS...182.7403K|Kippen, R;Connors, A;McConnell, M;Ryan, J;Collmar, W;Greiner, J;Lichti, G;Schonfelder, V;Varendorff, M;Hermsen, W;Kuiper, L;Hanlon, L;Williams, O;Winkler, C|COMPTEL Observations of GRB 930131|0
+1993AAS...182.7405W|Williams, D;Cavalli-Sforza, M;Coyne, D;Dorfan, D;Kelley, L;Klein, S;Schnee, R;Yang, T;Biller, S;Chumney, P;Harmon, M;Shoup, A;Yodh, G;Alexandreas, D;Allen, G;Chang, C;Chen, M;Dion, C;Goodman, J;Haines, T;Stark, M;Dion, G;Berley, D;Burman, R;Hoffman, C;Nagle, D;Schmidt, D;Sinnis, C;Weeks, D;Zhang, W;Ellsworth, R;Wu, J|Search for Ultra-High-Energy Radiation from gamma -ray Bursts|0
+1993IAUC.5703....2C|Cline, T;Barthelmy, S;Palmer, D;Hurley, K;Sommer, M;Boer, M;Niel, M;Fishman, G;Kouveliotou, C;Meegan, C;Paciesas, W;Wilson, R|GRB 930131|5
+1993IAUC.5763....2H|Hurley, K;Sommer, M;Boer, M;Niel, M;Fishman, G;Kouveliotou, C;Meegan, C;Brock, M;Cline, T|GRB 930309|1
+1993icr..confS..19S|Schnee, R|Search for ultra-high-energy radiation from gamma-ray bursts|0
+1992AAS...180.2307K|Kane, S;Hurley, K;McTiernan, J;Slocum, T;Laros, J;Fenimore, E;Klebsadel, R;Sommer, M;Yoshimuri, M;Ohki, K|Stereoscopic Observations of a Solar Hard X-Ray Flare with Ulysses, PVO, GRO and YOHKOH Spacecraft|1
+1992IAUC.5547....2H|Hurley, K;Sommer, M;Boer, M;Niel, M;Fishman, G;Kouveliotou, C;Meegan, C;Paciesas, W;Wilson, R;Fenimore, E;Cline, T|Gamma-Ray Bursts|0
+1992IAUC.5565....3C|Cline, T;Hurley, K;Sommer, M;Boer, M;Niel, M;Fishman, G;Kouveliotou, C;Meegan, C;Paciesas, W;Wilson, R;Fenimore, E;Klebesadel, R;Laros, J|Gamma-Ray Bursts|0
+1992IAUC.5569....2C|Cline, T|Gamma-Ray Burst|0
+1992eocm.rept...51B|Bonnet, R|Horizon 2000 and European national programmes.|0
+1992eocm.rept..221S|Sommer, M;Hurley, K|Search for gamma-ray burst sources by coordinated observations from ULYSSES, GRO and PVO.|0
+1992grbo.book.....H|Ho, C;Epstein, R;Fenimore, E|Gamma-ray Bursts|3
+1992sri..reptQ....W|Waite, J|Aeronomical modeling of the outer planets|0
+1990ESABu..63...29C|Caseley, P;Marsden, R|The Ulysses scientific payload.|2
+1989dots.work....1R|Ryan, J;Kurfess, J|High energy flare physics group summary|4
+1989dots.work..107B|Boer, M;Sommer, M;Hurley, K|The solar flare and cosmic gamma-ray burst experiment aboard the ULYSSES spacecraft|0

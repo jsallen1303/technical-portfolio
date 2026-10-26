@@ -1,0 +1,39 @@
+1998A&A...336...57G|Gorosabel, J;Castro-Tirado, A;Brandt, S;Lund, N|A BATSE-based search for repeaters in the sample of gamma-ray bursts detected by the WATCH experiment|7
+1998AstL...24..427B|Burenin, R;Vikhlinin, A;Terekhov, O;Sazonov, S|Search for a correlation of gamma-ray bursts with quasars and active galactic nuclei|4
+1998Icar..133...25M|McDonnell, J;Gardner, D|Meteoroid Morphology and Densities: Decoding Satellite Impact Data|17
+1997AstL...23..768B|Burenin, R;Terekhov, O;Sunyaev, R;Sazonov, S|On the correlation of cosmic gamma-ray bursts with rich clusters of galaxies|1
+1996A&AS..120C.197H|Harmon, B;Wilson, C;Tavani, M;Zhang, S;Rubin, B;Paciesas, W;Ford, E;Kaaret, P|Discovery of hard X-ray outbursts from the soft X-ray transient Aquila X-1.|28
+1996AdSpR..17l.183M|McDonnell, J;Ratcliff, P;Collier, I|Atmospheric drag modelling for orbital micro-debris at Leo altitudes|2
+1996AdSpR..17l.189Y|Yano, H;Collier, I;Shrine, N;McDonnell, J|Microscopic and chemical analyses of major impact sites on timeband capture cell experiment of the EURECA spacecraft|1
+1996AdSpR..17l.193G|Gardner, D;Collier, I;Shrine, N;Griffiths, A;McDonnell, J|Micro-particle impact flux on the timeband capture cell experiment of the EURECA spacecraft|6
+1996AdSpR..18l..51D|Dose, K;Bieger-Dose, A;Dillmann, R;Gill, M;Kerz, O;Klein, A;Stridde, C|UV photobiochemistry under space conditions|9
+1996AdSpR..18l.205Z|Zimmermann, M;Gartenbach, K;Kranz, A;Baican, B;Schopper, E;Heilmann, C;Reitz, G|Recent results of comparative radiobiological experiments with short and long term expositions of Arabidopsis seed embryos|1
+1996P&SS...44..317D|Drolshagen, G;McDonnell, J;Stevenson, T;Deshpande, S;Kay, L;Tanner, W;Mandeville, J;Carey, W;Maag, C;Griffiths, A;Shrine, N;Aceti, R|Optical survey of micrometeoroid and space debris impact features on EURECA|12
+1995A&A...300..415P|Priedhorsky, W;Brandt, S;Lund, N|Time series analysis of bright galactic X-ray sources.|18
+1995AdSpR..16g..37B|Brandt, S;Lund, N|Monitoring the activity variations of galactic X-ray sources with WATCH on EURECA|1
+1995AdSpR..16g..43B|Brandt, S;Lund, N;Castro-Tirado, A|Observations of cosmic gamma ray bursts with WATCH on EURECA|5
+1995AdSpR..16g.199D|Duffar, T;Dusserre, P;Abadie, J|Crucible-semiconductor interactions during crystal growth from the melt in space|7
+1995AdSpR..16g.205P|Praizey, J;van Vaerenberg, S;Garandet, J|Thermomigration experiment on board EURECA|3
+1995AdSpR..16h...5N|Nellessen, W|The development of the Eūropean Rētrievable Cārrier ``EURECA''|0
+1995AdSpR..16h..25W|Wehrli, C;Frohlich, C;Romero, J|Results of solar spectral irradiance measurements by SOVA2 on EURECA|0
+1995AdSpR..16h..29R|Romero, J;Frohlich, C;Wehrli, C|Solar total irradiance variability measured by SOVA-2 on board EURECA|1
+1995AdSpR..16h..55A|Akporiaye, D;Stocker, M;Junggreen, H|Results of the crystallisation of zeolite molecular sieves under microgravity conditions during the EURECA-1 mission|1
+1995AdSpR..16h..83T|Thommes, M;Findenegg, G|Results of the HPT-experiment critical adsorption on EURECA I|4
+1995AdSpR..16h..87P|Poletti, G|The SFA experiment on board of EURECA: Preliminary results|0
+1995AdSpR..16h..91Z|Zagalsky, P;Wright, C;Parsons, M|Crystallisation of alpha-crustacyanin, the lobster carapace astaxanthin-protein: results from EURECA|0
+1995AdSpR..16h..95R|Ratke, L|Coarsening of liquid Al-Pb dispersions under microgravity - a EURECA experiment|2
+1995AdSpR..16h.101D|Duffar, T;Dusserre, P;Serrano, M|Bridgman solidification of GaSb results of the EURECA AMF-118 experiment|0
+1995AdSpR..16h.105H|Horneck, G;Eschweiler, U;Reitz, G;Wehner, J;Willimek, R;Strauch, K|Biological responses to space: results of the experiment ``exobiological unit'' of ERA on EURECA I|35
+1995AdSpR..16k..67M|Mandeville, J;Berthoud, L|From LDEF to EURECA: orbital debris and meteoroids in low earth orbit|0
+1995AdSpR..16k..85D|Drolshagen, G;McDonnell, J;Stevenson, T;Aceti, R;Gerlach, L|Post-flight measurements of meteoroid/debris impact features on EURECA and the hubble solar array|0
+1995ApJ...455L.177G|Greenberg, J;Li, A;Mendoza-Gomez, C;Schutte, W;Gerakines, P;de Groot, M|Approaching the Interstellar Grain Organic Refractory Component|128
+1995Metic..30..602W|Wright, I;Grady, M;Sexton, A|The Chemistry of Impacting Bodies Recorded on EURECA|0
+1994ApJS...92..337L|Lund, N|A wide-field monitor for INTEGRAL|0
+1994Metic..29Q.446B|Borg, J;Maag, C|The Identification of a Diogenite Meteoroid from Meteor Spectrum|0
+1994SoPh..152...23R|Romero, J;Wehrli, C;Froelich, C|Solar Total Irradiance Variability from SOVA-2 on Board EURECA|15
+1994SoPh..152..319J|Jimenez, A|Phase Differences Between Irradiance and Velocity Low Degree Solar Acoustic Modes Revisited|0
+1988JBIS...41..429S|Stevenson, T|EuReCa TiCCE - a nine month survey of cosmic dust and space debris at500 km altitude.|6
+1986JBIS...39...51D|Davies, J|Astronomy from the Space Station.|0
+1986OrLi...16..405H|Horneck, G;Barrett, J;Bieger, A;Bucker, H;Dose, K;Greenberg, J;Kiefer, J;Mennigmann, H;Reitz, G;Weber, P|Exobiological experiments on the first EURECA mission|1
+1984OrLi...14..785S|Seibert, G|European Retrievable Carrier EURECA|0
+1984Ruimt..33..142B|Bleeker, J|Profile of scientific research in space to the year 2000|0

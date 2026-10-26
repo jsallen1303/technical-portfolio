@@ -1,0 +1,38 @@
+{
+    "title": "VZLUSAT-2",
+    "name": "VZLUSAT-2",
+    "decade": 2020,
+    "alttext": "Photograph of the VZLUSAT-2 cubesat",
+    "imagesize": 300,
+    "imageurl": "/Images/misc_missions/vzlusat-2_sm.jpg",
+    "descript": "<p><b><font size=\"+2\">T</font>he VZLUSAT-2</b> mission was a 3U Cubesat proof-of-concept mission for multiple instruments and supporting subsystems including two small gamma-ray burst detectors which were follow-ons from <a class=\"usa-link\" href=\"grbalpha.html\">GRBAlpha</a>. It was launched on January 13, 2022 on a Falcon 9 SpaceX rocket from Cape Canaveral into a sun-synchronous low earth orbit at an altitude of 550 km. The primary instrument was an Earth observation camera, but secondary instruments included the Gamma Ray Burst Detectors, solar X-ray monitor, and radiation dosimeter, and much of the instrumentation other than the burst detectors were follow-on testbeds from the earlier VZLUSAT-1. VZLUSAT-2 was Czech-led mission with partnerships including the Czech Technical University, the University of West Bohemia, Masaryk University, and the Konkoly Observatory in Hungary, and funded through the Czech Ministry of Industry and Trade. The spacecraft bus and solar panels were provided by Spacemaniac.</p>\n\n<p>VZLUSAT-2 carried two small gamma-ray burst detectors similar to GRBAlpha, but with modifications to the mounting as required to conform to 3U cube configuration and providing opposing side fields-of-view. The bulk of the 3U satellite package was devoted to other instruments and sub-systems, with a total satellite mass of roughly 3.9 kg.</p>\n\n<p>The last signal received from VZLUSat-2 was recorded on November 30, 2025, shortly before the mission re-entered the Earth&rsquo;s atmosphere the same day. Intended for a one-year mission, it operated successfully for almost four years in total.</p>",
+  "lifetime": "22 Jan 2022 &ndash; 30 Nov 2025",
+    "features": [
+	"3U Cubesat configuration for ridesharing launch",
+	"Dual set of detectors to prove CAMELOT mission concept",
+	"Follow-on for successful GRBAlpha with more complete sky coverage"
+    ],
+  "instruments": [
+      {
+	  "name": "Gamma-ray Detector",
+	  "energy": "30&ndash;900 keV",
+	  "descript": "Two CsI(Tl) crystals measuring 75&times;75&times;5 mm each. The scintillation is observed by low voltage lightweight silicon photomultipliers. The detector is covered with a dark polyvinyl fluoride (tedlar) film in 1 mm aluminum sheet box mounted along the exterior surface of the satellite with a design modification needed to conform to 3U configuration."
+    }
+  ],
+  "goals": [
+    "Characterization of peak intensity and time of bright burst events.",
+    "Prove operational concepts of future CAMELOT satellite constellation, especially supporting sub-systems.",
+    "Co-observe with gravitational wave detectors and other observatories as part of multimessenger astronomy."
+  ],
+  "archive": "",
+  "navigation": [
+    {
+      "url": "https://www.vzlusat2.cz/en/",
+      "text": "VZLUSAT-2 at Czech Aerospace Research Centre"
+    },
+    {
+      "url": "biblio/vzlusat2_biblio.html",
+      "text": "Bibliography"
+    }
+  ]
+}

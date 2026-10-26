@@ -1,0 +1,34 @@
+{
+  "title": "Orbiting Geophysical Observatory series satellites",
+  "name": "OGO series",
+  "alttext": "Visualization of an OGO series satellite",
+  "imagesize": 300,
+  "imageurl": "/Images/ogo/ogo.gif",
+    "descript": "<p><font size=\"+2\">A</font> series of 6 <b>Orbiting Geophysical Observatories (OGOs)</b> were put into orbit by NASA between 1964 and 1969. They were intended to study the Earth's atmosphere, magnetosphere, and the space between the Earth and Moon.</p>",
+    "decade": 1960,
+    "lifetime": "1964&ndash;1972",
+    "series": [
+	{
+	    "name" : "OGO 1",
+	    "descript" : "OGO 1 was successfully launched from Cape Kennedy on 5 September 1964 and placed into an initial orbit of 281&times;149,385 km at 31 degrees inclination. Two experiment booms failed to properly deploy, with one of the booms obscuring a horizon scanner&rsquo;s view of earth. As a result, the spacecraft attitude could not be earth oriented and OGO 1 remained spin stabilized at 5 rpm. Nevertheless, data from all 20 experiments on board was received, although at a &ldquo;less than expected capacity&rdquo; from some of them. During September 1964, acceptable data were received over 70% of the orbital path. Spacecraft operation was restricted to Spring and Fall due to power supply limitations. There were 11 such 3-month periods prior to the spacecraft being put into stand-by mode on 25 November 1969. OGO 1 was completely terminated on 1 November 1971.</p>\n\n<p>On board was the Positron Search and Gamma-Ray Spectrum experiment of Cline et al. It was designed to determine whether low-energy (&lt;3 MeV) positrons are trapped temporarily or permanently in the Van Allen regions and whether low-energy solar and interplanetary positrons exist at the edge of the Earth&rsquo;s magnetic field. A secondary objective was to detect gamma-ray bursts from the Sun in the energy range 80 keV &ndash; 1 MeV. The experiment consisted of 3 CsI crystals surrounded by a plastic anti-coincidence shield. The output of the whole unit was monitored by 3 PMTs. Once every 18.5 seconds, integral intensity measurements were made in each of 16 energy channels which were equally spaced over the 0.08&ndash;1 MeV range.</p>\n\n<p>The experiment did not achieve its goals due to electrical interference and secular degradation of the PMT responses. However, searching back through the data after the discovery of cosmic gamma-ray bursts by the Vela satellites revealed the detection of one or more such events in the OGO 1 data."
+	},
+	{
+	    "name" : "OGO 3",
+	    "descript" : "OGO 3 was launched on 7 June 1966 and put into orbit of 295&times;122,219 km at 31 degrees inclination. All 21 experiments returned good data. At the time, this was the largest experimental complement ever put into orbit. There were 4 cosmic ray instruments (1 of which included a gamma-ray spectrometer), 4 plasma, 2 trapped radiation, 2 magnetic fields, 5 ionosphere, 3 radio/optical, and 1 micrometeoroid detectors. Again, the GSFC positron search and gamma-ray spectrometer was included. The experiment was essentially identical to what was flown on OGO 1, with the PMTs being replaced by an improved variety. This time, the experiment was successful in achieving all of its objectives. OGO 3 maintained 3-axis stabilization for 46 days. At that point, an attitude controller failed and the spacecraft was put into a spin on 23 July 1966. The spin period varied from 90&ndash;125 seconds. By June 1969, data acquisition was limited to 50% of the orbital path. Routine operation was discontinued on 1 December 1969, and complete termination occurred on 29 February 1972."
+	},
+	{
+	    "name" : "OGO 5",
+	    "descript" : "The fifth Orbiting Geophysical Observatory, OGO-5, was launched on 4 March 1968. The satellite, primarily devoted to Earth observation, was in a highly elliptical initial orbit with a 272 km perigee and an 148,228 km apogee. The orbital inclination was 31.1 degrees. The satellite took 3796 minutes to complete one orbit. Two experiments aboard OGO-5 produced cosmic high- energy results, although their intended target was the Sun. The spacecraft attitude control failed on 6 August 1971 and it was placed in a standby mode on 8 October 1971. Three experiments (none of which were related to cosmic high-energy detection) were reactivated from 1 June to 13 July 1972. Operation of OGO 5 terminated completely on 14 July 1972.</p>\n\n<p>The Anderson <i>et al.</i> (University of California, Berkeley) Energetic Radiations from Solar Flares experiment was operational from March 1968&ndash;June 1971. Primarily devoted to solar observations, it detected at least 11 cosmic X-ray bursts in time coincidence with gamma-ray bursts seen by other instruments. The detector was a 0.5 cm thick NaI(Tl) crystal with a 9.5 cm<sup>2</sup> area. Data were accumulated into energy ranges of: 9.6&ndash;19.2, 19.2&ndash;32, 32&ndash;48, 48&ndash;64, 64&ndash;80, 80&ndash;104, 104&ndash;128, and &gt; 128 keV. The data were sampled for 1.15 seconds once every 2.3 seconds.</p>\n\n<p>The gamma-ray instrument on-board, sensitive to energies from 25-100 MeV, was a six gap spark chamber with an effective area of &sim;100 cm<sup>2</sup>. It was called the Energetic Photons in Primary Cosmic Rays experiment (Hutchinson et al., Southampton University). It had an angular resolution of &sim;30 degrees (FWHM). The satellite was Earth-pointing and passed regularly through the radiation belts, which led to severe restrictions on the sky regions which could be examined by the gamma-ray instrument. Other problems, such as an efficiency reduction in the anti-coincidence shield and data system difficulties, severely degraded the scientific return from the experiment. Data collection ceased altogether after 5 months. Gamma-ray emission from the galactic plane was monitored. No point sources were detected."
+	}
+    ],
+  "navigation": [
+    {
+      "url": "images/ogo_images.html",
+      "text": "Gallery"
+    },
+    {
+      "url": "biblio/ogo_biblio.html",
+      "text": "Publications"
+    }
+  ]
+}

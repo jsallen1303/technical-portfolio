@@ -1,0 +1,43 @@
+{
+    "title": "The Ulysses Solar Polar Probe",
+    "name": "Ulysses",
+    "decade" : 1990,
+    "alttext": "Artist concept of Ulysses spacecraft",
+    "imagesize": 108,
+    "imageurl": "/Images/ulysses/ulysses.gif",
+    "descript": "<p><b><font size=\"+2\">T</font>he Ulysses mission</b> was a joint mission with NASA and ESA to explore the solar environment at high ecliptic latitudes. It was launched 6 October 1990, and reached Jupiter for its &ldquo;gravitational slingshot&rdquo; in February 1992. It passed the south solar pole in June 1994 and crossed the ecliptic equator in February 1995. In addition to its solar environment instruments, Ulysses also carries plasma instruments to study the interstellar and Jovian regions, as well as two instruments for studying X-rays and gamma-rays of both solar and cosmic origins.</p>\n\n<p>The Ulysses spacecraft operated in 4 different telemetry modes: 128, 256, 512, and 1024 b/s. The time resolution of the gamma-ray burst instrument varies with the spacecraft data rate. The maximum telemetry allocation for the instrument is 40 b/s.</p>\n\n<p>NASA and ESA decided to end the mission after the spacecraft&rsquo;s radioisotope thermoelectric generator (RTG) could no longer keep the hydrazine fuel from freezing. Ulysses had for nearly 19 years at this point, far exceeding its original planned mission duration.</p>",
+    "lifetime": "9 Nov 1990&ndash;30 Jun 2009",
+    "features": [
+	"Unique access to high ecliptic latitudes within the <a href=\"ipn.html\">IPN</a>",
+	"First gamma-ray burst detector outside the orbit of Mars, resulting in major improvements in burst triangulation accuracy"
+    ],
+    "instruments": [
+	{
+	    "name" : "Hard X-ray Detectors",
+	    "energy" : "15&ndash;150 keV",
+	    "sensitivity" : "&sim;10<sup>-6</sup> erg/cm<sup>2</sup>",
+	    "temporal_resolution" : "8 ms (maximum)",
+	    "descript" : "The detectors consist of 2 3-mm thick &times; 51-mm diameter CsI(Tl) crystals mounted via plastic light tubes to photomultipliers. The hard detector changes its operating mode depending on (1) measured count rate, (2) ground command, or (3) change in spacecraft telemetry mode. The trigger level is generally set for 8-sigma above background. When a burst trigger is recorded, the instrument switches to record high resolution data, recording it to a 32-kbit memory for a slow telemetry read out. Burst data consist of either 16 s of 8-ms resolution count rates or 64 s of 32-ms count rates from the sum of the 2 detectors. There are also 16 channel energy spectra from the sum of the 2 detectors (taken either in 1, 2, 4, 16,or 32 second integrations). During 'wait' mode, the data are taken either in 0.25 or 0.5 s integrations and 4 energy channels (with shortest integration time being 8 s). Again, the outputs of the 2 detectors are summed."
+	},
+	{
+	    "name" : "Soft X-ray Detectors",
+	    "energy" : "5&ndash;20 keV",
+	    "fov" : "75&deg; (half angle)",
+	    "descript" : "There were two detectors consisting of 500-micron thick &times; 0.5 cm<sup>2</sup> area Si surface barrier detectors. A 100 mg/cm<sup>2</sup> beryllium foil front window rejected the low energy X-rays and defined the field of view. These detectors are passively cooled and operate in the temperature range -35 to -55 degrees Celsius. This detector has 6 energy channels."
+	}
+    ],
+    "highlights": [
+	""
+    ],
+  "archive": "",
+  "navigation": [
+    {
+      "url": "images/ulysses_images.html",
+      "text": "Gallery"
+    },
+    {
+      "url": "biblio/ulysses_biblio.html",
+      "text": "Publications"
+    }
+  ]
+}

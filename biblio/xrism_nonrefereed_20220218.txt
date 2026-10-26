@@ -1,0 +1,62 @@
+2022arXiv220107607S|Shimoda, J;Ohira, Y;Bamba, A;Terada, Y;Yamazaki, R;Inoue, T;Tanaka, S|X-ray Line Diagnostics of Ion Temperature at Cosmic-Ray Accelerating Collisionless Shocks|0
+2022arXiv220112370B|Biffi, V;ZuHone, J;Mroczkowski, T;Bulbul, E;Forman, W|The velocity structure of the intracluster medium during a major merger: simulated microcalorimeter observations|0
+2022arXiv220201236T|Turner, D;Giles, P;Romer, A;Korbina, V|XGA: A module for the large-scale scientific exploitation of archival X-ray astronomy data|0
+2022arXiv220205399X|XRISM Science Team|XRISM Quick Reference|0
+2021AAS...23750902J|Jacovich, T|Examining The Outflows of High Energy Stellar Explosions|0
+2021AAS...23752407F|Fukumura, K;Kazanas, D;Shrader, C;Tombesi, F;Behar, E;Ratheesh, A|Spectral Modeling of State-Transitioning Disk-Wind in BH XRBs|0
+2021ASPC..528..415N|Nobukawa, K|Measurement of Low-energy Cosmic Rays|0
+2021arXiv210407241M|Midooka, T;Tsujimoto, M;Kitamoto, S;Nakaniwa, N;Maeda, Y;Ishida, M;Ebisawa, K;Tominaga, M|X-ray transmission calibration of the gate valve for the X-ray astronomy satellite XRISM|0
+2021arXiv210804847W|Wijers, N;Schaye, J|The warm-hot circumgalactic medium around EAGLE-simulation galaxies and its detection prospects with X-ray line emission|1
+2021arXiv210912699B|Bondar, A;Blinnikov, S;Bykov, A;Dolgov, A;Postnov, K|X-ray signature of antistars in the Galaxy|2
+2021arXiv211214176T|Tamba, T;Odaka, H;Bamba, A;Murakami, H;Mori, K;Hayashida, K;Terada, Y;Mizuno, T;Nobukawa, M|Simulation-based spectral analysis of X-ray CCD data affected by photon pile-up|0
+2021cosp...43E.793E|Ezoe, Y;Branduardi-Raymont, G;Miyoshi, Y;Numazawa, M|X-ray emission from the Jupiter system : past, present and future|0
+2021cosp...43E1227F|Fukumura, K;Tombesi, F;Shrader, C;Behar, E;Kazanas, D;Ratheesh, A|Modeling Disk-Wind across State Transition in BH XRBs|0
+2021cosp...43E1258U|Uchiyama, H;Nobukawa, M;Maeda, Y;Nobukawa, K;Yamauchi, S|Prospects of High Resolution X-ray Spectroscopy in the Galactic Center|0
+2021cosp...43E1472T|Tanaka, T|Recent observational studies on particle acceleration in supernova remnants|0
+2021cosp...43E1482S|Sezer, A;Ergin, T;Yamazaki, R;Fukui, Y;Sano, H|Probing the Recombining Plasma in High-latitude Galactic Supernova Remnants with XRISM and ATHENA Simulations|0
+2021cosp...43E1492S|Sezer, A;Ergin, T;Katsuda, S;Bamba, A|The XRISM and ATHENA view of the supernova remnants SN 1006 and G1.9+0.3|0
+2021cosp...43E1497J|Jacovich, T;Nagataki, S;Slane, P;Patnaude, D;Lee, S;Badenes, C;Milisavljevic, D|Emission and Absorption in Core-Collapse Supernova Remnant Models: The Effect of Wind-Driven Mass-Loss|0
+2020AAS...23516905H|Heuer, K;Smith, R;Foster, A|Sensitivity of Line Ratio Diagnostics to Variations in Fundamental Atomic Data|0
+2020AAS...23516906G|Gall, A;Foster, A;Silver, E;Caldwell, D;Takacs, E;Heuer, K;Brickhouse, N;Smith, R|X-ray measurements of highly charged Ar plasma produced in the SAO EBIT|0
+2020AAS...23537124M|Macleod, L;ZuHone, J;Zavala, J;Vogelsberger, M|Simulations of Galaxy Cluster Mergers with Self-Interacting Dark Matter: Effects on the X-ray Emitting Gas|0
+2020AAS...23537306O|Okajima, T;Soong, Y;Hayashi, T|Development of the XRISM X-ray Mirror Assembly|0
+2020AAS...23614503B|Brown, G|Laboratory Astrophysics Experiments in Support of Current and Future X-ray Observatories|0
+2020AAS...23614504S|Stancil, P;Mcilvane, S;Wang, R;Cumbee, R|X-ray Emission due to Charge Exchange from Highly-Charged Multielectron Fe Ions|0
+2020AAS...23620801F|Fukumura, K;Kazanas, D;Shrader, C;Tombesi, F|State Transition of Accretion-Disk Winds in BH XRBs|1
+2020AAS...23624701M|Mendoza, C;Bautista, M;Deprince, J;Garcia, J;Gatuzz, E;Kallman, T;Palmeri, P;Quinet, P;Witthoeft, M|The XSTAR Atomic Database|0
+2020ASPC..527..725D|de Plaa, J;Kaastra, J;Gu, L;Mao, J;Raassen, T|SPEX: High-Resolution Spectral Modeling and Fitting for X-ray Astronomy|0
+2020IAUS..342...29G|Guainazzi, M;Tashiro, M|The Hot Universe with XRISM and Athena|0
+2020SPIE11444E..22T|Tashiro, M;Maejima, H;Toda, K;Kelley, R;Reichenthal, L;Hartz, L;Petre, R;Williams, B;Guainazzi, M;Costantini, E;Fujimoto, R;Hayashida, K;Henegar-Leon, J;Holland, M;Ishisaki, Y;Kilbourne, C;Loewenstein, M;Matsushita, K;Mori, K;Okajima, T;Porter, F;Sneiderman, G;Takei, Y;Terada, Y;Tomida, H;Yamaguchi, H;Watanabe, S;Akamatsu, H;Arai, Y;Audard, M;Awaki, H;Babyk, I;Bamba, A;Bando, N;Behar, E;Bialas, T;Boissay-Malaquin, R;Brenneman, L;Brown, G;Canavan, E;Chiao, M;Comber, B;Corrales, L;Cumbee, R;de Vries, C;den Herder, J;Dercksen, J;Diaz-Trigo, M;DiPirro, M;Done, C;Dotani, T;Ebisawa, K;Eckart, M;Eckert, D;Eguchi, S;Enoto, T;Ezoe, Y;Ferrigno, C;Fujita, Y;Fukazawa, Y;Furuzawa, A;Gallo, L;Gorter, N;Grim, M;Gu, L;Hagino, K;Hamaguchi, K;Hatsukade, I;Hawthorn, D;Hayashi, K;Hell, N;Hiraga, J;Hodges-Kluck, E;Horiuchi, T;Hornschemeier, A;Hoshino, A;Ichinohe, Y;Iga, S;Iizuka, R;Ishida, M;Ishihama, N;Ishikawa, K;Ishimura, K;Jaffe, T;Kaastra, J;Kallman, T;Kara, E;Katsuda, S;Kenyon, S;Kimball, M;Kitaguchi, T;Kitamoto, S;Kobayashi, S;Kobayashi, A;Kohmura, T;Kubota, A;Leutenegger, M;Li, M;Lockard, T;Maeda, Y;Markevitch, M;Martz, C;Matsumoto, H;Matsuzaki, K;McCammon, D;McLaughlin, B;McNamara, B;Miko, J;Miller, E;Miller, J;Minesugi, K;Mitani, S;Mitsuishi, I;Mizumoto, M;Mizuno, T;Mukai, K;Murakami, H;Mushotzky, R;Nakajima, H;Nakamura, H;Nakazawa, K;Natsukari, C;Nigo, K;Nishioka, Y;Nobukawa, K;Nobukawa, M;Noda, H;Odaka, H;Ogawa, M;Ohashi, T;Ohno, M;Ohta, M;Okamoto, A;Ota, N;Ozaki, M;Paltani, S;Plucinsky, P;Pottschmidt, K;Sampson, M;Sasaki, T;Sato, K;Sato, R;Sato, T;Sawada, M;Seta, H;Shibano, Y;Shida, M;Shidatsu, M;Shigeto, S;Shinozaki, K;Shirron, P;Simionescu, A;Smith, R;Someya, K;Soong, Y;Sugawara, K;Sugawara, Y;Szymkowiak, A;Takahashi, H;Takeshima, T;Tamagawa, T;Tamura, K;Tanaka, T;Tanimoto, A;Terashima, Y;Tsuboi, Y;Tsujimoto, M;Tsunemi, H;Tsuru, T;Uchida, H;Uchida, Y;Uchiyama, H;Ueda, Y;Uno, S;Vink, J;Watanabe, T;Witthoeft, M;Wolfs, R;Yamada, S;Yamaoka, K;Yamasaki, N;Yamauchi, M;Yamauchi, S;Yanagase, K;Yaqoob, T;Yasuda, S;Yoshida, T;Yoshioka, N;Zhuravleva, I|Status of x-ray imaging and spectroscopy mission (XRISM)|9
+2020SPIE11444E..23N|Nakajima, H;Hayashida, K;Tomida, H;Mori, K;Noda, H;Matsumoto, H;Yoneyama, T;Okazaki, K;Asakura, K;Hanaoka, M;Hattori, K;Ishikura, A;Sakuma, S;Tanaka, T;Uchida, H;Tsuru, T;Amano, Y;Okon, H;Yamauchi, M;Hatsukade, I;Nishioka, Y;Kanemaru, Y;Sato, J;Takaki, T;Terada, Y;Yoshida, T;Kohmura, T;Hagino, K;Kobayashi, S;Murakami, H;Kashimura, H;Uchiyama, H;Yamaoka, K;Nobukawa, M;Sako, T;Nobukawa, K;Saito, M;Hiraga, J;Urabe, Y;Yoshida, M;Dotani, T;Ozaki, M;Tsunemi, H|Soft x-ray imager (SXI) for Xtend onboard X-Ray Imaging and Spectroscopy Mission (XRISM)|0
+2020SPIE11444E..25Y|Yoneyama, T;Noda, H;Hanaoka, M;Hayashida, K;Okazaki, K;Asakura, K;Kanemaru, Y;Sato, J;Takaki, T;Mori, K;Sako, T;Nobukawa, M;Saito, M;Nobukawa, K;Murakami, H;Amano, Y;Uchida, H;Uchiyama, H;Tomida, H;Nakajima, H;Hattori, K;Sakuma, S;Ishikura, A;Matsumoto, H;Okon, H;Tanaka, T;Tsuru, T;Urabe, Y;Hiraga, J;Kashimura, A;Kobayashi, S;Hagino, K|On-ground calibration of XRISM/Xtend CCD|0
+2020SPIE11444E..26M|Miller, E;Sawada, M;Guainazzi, M;Simionescu, A;Markevitch, M;Gu, L;Eckart, M;Kilbourne, C;Leutenegger, M;Porter, F;Tsujimoto, M;de Vries, C;Okajima, T;Hayashi, T;Boissay-Malaquin, R;Tamura, K;Matsumoto, H;Mori, K;Nakajima, H;Tanaka, T;Terada, Y;Loewenstein, M;Yaqoob, T;Audard, M;Behar, E;Brenneman, L;Corrales, L;Cumbee, R;Enoto, T;Hodges-Kluck, E;Maeda, Y;Plucinsky, P;Pottschmidt, K;Tashiro, M;Kelley, R;Petre, R;Williams, B;Yamaguchi, H|Planning in-flight calibration for XRISM|2
+2020SPIE11444E..5CM|Midooka, T;Tsujimoto, M;Kitamoto, S;Nakaniwa, N;Maeda, Y;Hayakawa, S;Ishida, M;Ebisawa, K;Tominaga, M|X-ray transmission measurements of the gate valve for the x-ray astronomy satellite XRISM|1
+2020SPIE11444E..5DL|Loewenstein, M;Hill, R;Holland, M;Miller, E;Yaqoob, T;Doyle, T;Hall, P;Braun, E;Baluta, C;Mukai, K;Terada, Y;Tashiro, M;Takahashi, H;Nobukawa, M;Mizuno, T;Tamura, T;Uno, S;Watanabe, S;Ebisawa, K;Eguchi, S;Fukazawa, Y;Iizuka, R;Katsuda, S;Kitaguchi, T;Kubota, A;Nakashima, S;Nakazawa, K;Odaka, H;Ohno, M;Ota, N;Sato, R;Sugawara, Y;Shidatsu, M;Tamba, T;Terashima, Y;Tsuboi, Y;Uchida, Y;Uchiyama, H;Yamauchi, S|The XRISM science data center: optimizing the scientific return from a unique x-ray observatory|1
+2020SPIE11444E..5ET|Terada, Y;Holland, M;Loewenstein, M;Tashiro, M;Takahashi, H;Nobukawa, M;Mizuno, T;Tamura, T;Uno, S;Watanabe, S;Baluta, C;Burns, L;Ebisawa, K;Eguchi, S;Fukazawa, Y;Hayashi, K;Iizuka, R;Katsuda, S;Kitaguchi, T;Kubota, A;Miller, E;Mukai, K;Nakashima, S;Nakazawa, K;Odaka, H;Ohno, M;Ota, N;Sato, R;Sugawara, Y;Shidatsu, M;Tamba, T;Tanimoto, A;Terashima, Y;Tsuboi, Y;Uchida, Y;Uchiyama, H;Yamauchi, S;Yaqoob, T|Detail plans and preparations for the science operations of the XRISM mission|1
+2020arXiv200300148Z|Zhong, D;Valli, M;Abazajian, K|Entering the Era of Dark Matter Astronomy? Near to Long-Term Forecasts in X-Ray and Gamma-Ray Bands|3
+2020arXiv200304962X|XRISM Science Team|Science with the X-ray Imaging and Spectroscopy Mission (XRISM)|53
+2019AAS...23320703S|Smale, A|The HEASARC and NAVO in the 2020s|0
+2019AAS...23321302O|Ogorzalek, A|Probing the physics of AGN feedback with high resolution X-ray spectroscopy|0
+2019AAS...23325105F|Foster, A;Smith, R;Brickhouse, N|AtomDB in 2019: New models and features for modeling X-ray emission|1
+2019AAS...23410805M|McCammon, D;Kaaret, P|XQCSAT: A High-Resolution Spectroscopic Study of Hot Gas in the Halo and Interstellar Medium|0
+2019AAS...23420502S|Smith, R;Foster, A|Status &amp; Needs of Astrophysical Plasma Models|0
+2019AAS...23420803W|Wolk, S|High Energy Exoplanet Science in the Next Decade and Beyond|0
+2019ESS.....433021W|Wolk, S|The Next decade (or two) of X-ray Exoplanet Studies.|0
+2019HEAD...1710622O|Ogorzalek, A;King, A;Allen, S;Miller, J;Wilkins, D;Raymond, J;Mantz, A|Constraining the power of X-ray winds: a Bayesian approach|0
+2019HEAD...1710643M|Miller, J;Cackett, E;Zoghbi, A;Barret, D;Behar, E;Brenneman, L;Fabian, A;Kaastra, J;Lohfink, A;Mushotzky, R;Nandra, K;Raymond, J|Revealing Intermediate Disk Radii in NGC 4151 with Chandra|0
+2019HEAD...1710650K|Kammoun, E;Miller, J|First results from the NuSTAR Obscured Seyferts Survey|0
+2019HEAD...1710702C|Chadayammuri, U;Nagai, D;Bulbul, E;Ghirardini, V|Probing Non-Thermal Pressure Support in Galaxy Cluster Outskirts using Synthetic X-ray Observations|0
+2019HEAD...1710920B|Brown, G|Laboratory Measurements in Support of High Energy Astrophysics Orbiting Observatories|0
+2019HEAD...1710922L|Lockard, T;Magee, E;Beiersdorfer, P;Brown, G;Cumbee, R;Eckart, M;Hell, N;Ishisaki, Y;Kelley, R;Kilbourne, C;Leutenegger, M;Porter, F;Sawada, M;Yamada, S;watanabe, t|The LLNL warm electron beam ion trap (WEBIT): An instrument for ground calibration of space-borne X-ray spectrometers|0
+2019HEAD...1711247T|Tzanavaris, P;Yaqoob, T|More Complex Than You Thought: Geometry, Kinematics, and Fe Abundance of Matter Surrounding the Accretion Flow in 14 Galactic X-Ray Binaries with 56 Chandra HETG Spectra|0
+2019HEAD...1711301K|Kara, E|XRISM observations of supermassive black holes|0
+2019HEAD...1711302P|Plucinsky, P|XRISM Resolve Simulations of 1E 0102.2-7219 and N132D|0
+2019HEAD...1711303C|Corrales, L|What high resolution imaging spectroscopy with XRISM reveals about the cycle of interstellar dust|0
+2019HEAD...1711304H|Hodges-Kluck, E;Petre, R|The XRISM View of Circumgalactic Gas|0
+2019HEAD...1720303H|Hell, N;Brown, G;Beiersdorfer, P;Kelley, R;Kilbourne, C;Leutenegger, M;Lockard, T;Porter, F;Sawada, M|Laboratory benchmarks for collisional excitation cross sections of K-shell transitions in Fe group elements|0
+2019HEAD...1730301W|Williams, B;Kelley, R;Petre, R|A Mission Status Update on the X-ray Imaging and Spectroscopy Mission (XRISM)|0
+2019atp..prop..188C|Chatzikos, M|Preparing Cloudy for the X-ray microcalorimeter era|0
+2019sros.confE..18K|Katsuragawa, M|Time-dependent hydrodynamic model of X-ray emitting plasma in evolved SNRs for high resolution X-ray spectroscopy|0
+2019sros.confE..30Z|Zhang, G|Non-equilibrium ionization in mixed-morphology SNRs|0
+2019sros.confE.139W|Williams, B|What We Can Learn from Ejecta in Supernova Remnants|0
+2018arXiv180706903G|Guainazzi, M;Tashiro, M|The Hot Universe with XRISM and Athena|15

@@ -1,0 +1,18 @@
+1998DPS....30.5517C|Cheng, A;Barnouin-Jha, O|Implications of Giant Craters on Mathilde|0
+1998IAUC.7005....1M|Marshall, F;Cline, T;Palmer, D;Mazets, E;Hurley, K;Beardmore, A|SGR 1900+14|1
+1997AAS...191.4809E|Elliott, A;Hellings, R;Miller, J|PPN Gamma Results from the NEAR Conjunction|1
+1997AAS...191.4810H|Hurley, K;Gold, R;Cline, T;Butterworth, P;Palmer, D;Trombka, J;McClanahan, T;Mazets, E;Golenetskii, S;Kouveliotou, C;Fishman, G;Meegan, C;Boer, M|Gamma-Ray Burst Localizations with NEAR in the 3rd Interplanetary Network|0
+1997DPS....29.0508O|Ostro, S;Yeomans, D;Scheeres, D;Rosema, K;Hudson, R;Campbell, D;Harmon, J|Plans for Arecibo Radar Investigation of Mathilde|0
+1997LPI....28.1503W|Wasilewski, P;Dickinson, T;Connerney, J;Funaki, M|Magnetic Signatures of Large Meteorites|1
+1997SPIE.3116...57P|Peacock, K|Spectrographs in space|0
+1997herb.conf...31C|Clark, P;Floyd, S;Trombka, J|The effectiveness of the proportional counter with a specially designed filter as a solar X-ray monitor on the NEAR mission.|0
+1997herb.conf...47E|Evans, L;Trombka, J;Starr, R;Boynton, W;Bailey, S|Continuum background in space-borne gamma-ray detectors.|0
+1997herb.conf...51F|Floyd, S;Trombka, J;Goldsten, J;Fiore, E|Cosmic ray induced degradation in X-ray detectors on board the Near Earth Asteroid Rendezvous spacecraft.|0
+1996LPI....27..921M|Murchie, S;Peacock, K;Bell, J;Robinson, M;Veverka, J;Harch, A;Cheng, A;Hawkins, S;Warren, J;Gold, R;Darlington, H;Elko, M;Prendergast, D;Chapman, C;McFadden, L;Malin, M;Thomas, P;Helfenstein, P|The Imaging and NIR Spectroscopy Experiments on the NEAR Spacecraft|0
+1996psi..work...51M|Morgan, T;Abshire, J;Clancy, T;Fry, G;Gustafson, B;Hecht, M;Kostiuk, T;Rall, J;Reuter, D;Sheldon, R|Atmospheres from Within|0
+1994IAUC.6119....2D|Dunham, D;McFadden, L|(253) Mathilde|0
+1994LPI....25..267C|Clark, P;Evans, L;Trombka, J|Remote Geochemical Experiment Package for Discovery Class Missions|0
+1991plas.rept...51H|Hanner, M|Infrared observations of comets|0
+1991rnes.nasa...38H|Hulkower, N;Child, J|Accessibility of near-Earth asteroids, 1990|0
+1991rnes.nasaQ..22W|Weissman, P;Campins, H|Short-period comets|0
+1988plas.rept...85M|Matson, D|Asteroid team|0

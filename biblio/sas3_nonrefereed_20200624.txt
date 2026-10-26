@@ -1,0 +1,151 @@
+2016HEAD...1512012K|Kennea, J;Coe, M;Laycock, S;Bird, T;Bartlett, E;Townsend, L;McBride, V;Corbet, R;Haberl, F;Vasilopoulos, G|The Recent Outburst of SMC X-2 as seen by Swift, MAXI and NuSTAR|1
+2013AAS...22111301B|Bradt, H|The MIT Program, Competition, and Ethics|0
+2013AAS...22111303C|Cominsky, L|From Uhuru at CfA to SAS-3 at MIT: Looking for X-Ray Binaries in all the Right Places|0
+2013AAS...22111307L|Lamb, F|Origins of the Rossi X-ray Timing Explorer Mission|0
+2013AAS...22111319R|Ricker, G|Sliding Up and Down the Spectrum: Rocket, Balloon, and Satellite X-ray Detectors Over the Past Fifty Years|0
+2002APS..APRN17099H|Hertz, P;Wolff, M;Ray, P;Wood, K;Smale, A;Bandyopadhyay, R|Eclipse Observations of EXO0748-676 and X1658-298 with USA and RXTE|0
+2000eaa..bookE4759.||Small Astronomy Satellite (SAS)|0
+1999STIN...9916846H|Halpern, J;Kaaret, P|"X-Ray Transients in Star-Forming Regions" and "Hard X-Ray Emission from X-Ray Bursters"|0
+1998rxte.prop30141F|Finger, M|Observations of the X-Ray Pulsar GS 1843-02 = GRO J1849-03 =? 2s 1845-024|0
+1992IAUC.5673....1B|Bonnet-Bidaud, J;Mouchet, M;Somova, T;Somov, N|An Ursae Majoris|3
+1991MsT.........13P|Plaks, K|A search for periodicity in the X ray spectrum of black hole candidate A0620-00|0
+1991mit..reptQ....C|Clark, G;Plaks, K|A search for periodicity in the X ray spectrum of black hole candidate A0620-00|0
+1989IAUC.4879....2S|Skinner, G|GX 1+4|2
+1986IAUC.4254....2M|Morgan, E;Remillard, R|4U 1820-30|4
+1986IAUC.4261....3M|Morgan, E;Remillard, R;Priedhorsky, W;Stella, L;White, N;Garcia, M|4U 1820-30|7
+1986KlBer..29..483H|Hirth, W;Mebold, U;Mueller, P|Galactic high-velocity clouds and their interaction with quiescent gas|0
+1985gecx.conf...41C|Clark, G;Minato, J|The Eclipse and Mass of Cen X-3|3
+1985mbga.conf..263B|Balucinska, M;Czerny, M|Changes of bursting area in Ser X-1|0
+1984NASCP2345..204C|Clark, G|Non-Local Origin of a Substantial Portion of the Soft X-Ray Background|3
+1983IAUC.3822....2C|Cominsky, L;Wood, K;Hulburt, E|MXB 1659-29|3
+1983LowOB...9..233R|Rakos, K|Present and past space programs.|0
+1983ucb..reptQ....C|Cominsky, L|Studies of highly variable galactic X-ray sources with HEAO-1|0
+1982BAAS...14R.975M|Marshall, F;Clark, G|Implications of the SAS-3 Soft X-Ray Sky Survey (0.1 to 0.28 keV): Structure of the Interstellar Medium|0
+1982IAUC.3667....3K|Kelley, R;Ayasli, S;Rappaport, S|2S 1553-542|2
+1981BAAA...23..433B|Bajaja, E;Colomb, F;Poppel, W;Arnal, E;Morras, R;Olano, C|Observación en 21 cm de destelladores de rayos X|0
+1981BAAS...13..788M|Marshall, F|Map of the Soft X-Ray Sky from SAS-3 Observations|1
+1981IAUC.3632....2K|Kelley, R;Jernigan, J;Levine, A;Petro, L;Rappaport, S|LMC X-4|2
+1981ICRC....9...13S|Sharma, D;Nagaraja, B;Marar, T;Bhattacharyya, J;Mohin, S|Observations of optical emission from X-Per and SCO X-1|1
+1981prnc.rept.....T|Turner, E;Geller, M|Study of the fluctuations in the cosmic X-ray background|0
+1980NYASA.336..451L|Lewin, W;Clark, G|Galactic bulge sources - What are they /X-ray sources in globular clusters and burst sources/|42
+1979BAAS...11..424K|Kelley, R;Bradt, H;Petre, R;Rappaport, S|Observations of the X-ray Pulsar GX301-2 with SAS-3|0
+1979BAAS...11..427M|Marshall, F|Detection of Extended Emission from Giant Radio Lobes of Cen A with SAS-3 Tube Collimator|0
+1979BAAS...11..464P|Petro, L;Bradt, H;Lamb, D;Kelley, R;Jacobs, S;Meiksin, A;Horne, K;Gomer, R|SAS-3 Observations of Rapid X-Ray Variability of Sco X-1 and Observations of Correlated Optical Variability|0
+1979IAUC.3327....1P|Petro, L|Scorpius X-1|2
+1979IAUC.3331....1H|Hackwell, J;Gehrz, R;Grasdalen, G;Cominsky, L;van Paradijs, J;Lewin, W|MXB1837+05|12
+1979IAUC.3336....1M|Marshall, F|MXB1730-335|9
+1979IAUC.3404....1C|Cooke, B;Petro, L;van Paradijs, J|Scorpius X-1|1
+1979Msngr..16...38P|Pakull, M|Probable optical identification of LMC X-2.|1
+1979iowa.rept.....L|Lamb, R|Search for an X-ray identification of a strong gamma-ray source|0
+1979xras.proc..213M|Matilsky, T|Recent Results from Observations of 4U1700-37 Using SAS-3|0
+1978BAAS...10..434R|Rappaport, S;Clark, G;Cominsky, L;Joss, P;Li, F|SAS-3 Observations of 4O0115+63|0
+1978BAAS...10..501J|Johnson, H;Schnopper, H|SAS-3 Observations of Abell 2029.|3
+1978BAAS...10..502H|Hearn, D;Marshall, F;Richardson, J|Results of the SAS-3 Survey of the Soft X-Ray Sky.|0
+1978BAAS...10..510L|Li, F;Rappaport, S;Jernigan, J;McClintock, J|Recent Observations of X-Ray Pulsars with SAS-3.|0
+1978BAAS...10..511S|Sutherland, P;Weisskopf, M;Canizares, C|Time Variability of Cygnus X-1 from SAS-3 Data.|0
+1978BAAS...10..617V|van Paradijs, J;Cominsky, L;Ossman, B;Lewin, W|Recent Results of SAS-3 Observations of X-ray Bursters and Faint Galactic Bulge Sources|0
+1978BAAS...10Q.515L|Lewin, W;van Paradijs, J;Cominsky, L;Ossmann, W|SAS-3 Observations of the Transient X-Ray Burst Source MXB1659-29|0
+1978IAUC.3163....1C|Cominsky, L;Li, F;Bradt, H;Clark, G;Rappaport, S;Johnston, M;Doxsey, R;Gursky, H;Schwartz, D;Schwarz, J|4U 0115+63|12
+1978IAUC.3165....1K|Kelley, R;Bradt, H|GX 301-2|5
+1978IAUC.3171....1J|Johns, M;Koski, A;Canizares, C;McClintock, J;Rappaport, S;Clark, G;Cominsky, L;Li, F|4U 0115+63|43
+1978IAUC.3184....3P|Parkes, G;Murdin, P;Mason, K;Is, J|4U 1538-52|6
+1978IAUC.3190....1L|Lewin, W;Hoffman, J;Marshall, H;Primini, F;Wheaton, W;Cominsky, L;Jernigan, G;Ossman, W;Share, G;Wood, K;Yentis, D;Johnson, N;Shulman, S;Meekins, J;Evans, W;Byram, E;Chubb, T;Friedman, H;Griffiths, R;Johnston, M;Bradt, H;Doxsey, R;Gursky, H;Schwartz, D;Schwarz, J|Persistent X-Ray Emission from MXB1659-29|23
+1978IAUC.3190....2L|Lewin, W;Hoffman, J;Marshall, H;Primini, F;Wheaton, W;Cominsky, L|Other X-Ray Burst Sources|2
+1978IAUC.3190....3P|Pineda, F;Schnopper, H|MCG 5-23-16|3
+1978IAUC.3193....4M|Matilsky, T;Jessen, J|Periodicity in 4U 1700-37|4
+1978IAUC.3202....2D|Davis, M;Huchra, J;Tonry, J;Latham, D|MCG -5-23-16|3
+1978IAUC.3202....3P|Pineda, F;Delvaille, J;Huchra, J;Davis, M|MCG -6-30-15|7
+1978IAUC.3204....2J|Jernigan, G;McClintock, J;Marshall, H;Chartres, M;Hoffman, J;Lewin, W|MXB1730-335|4
+1978IAUC.3211....3L|Lewin, W;Marshall, H;Cominsky, L|MXB1730-335|1
+1978IAUC.3224....4M|Marshall, F;Jernigan, J|2A 1102+384|9
+1978IAUC.3230....1G|Grindlay, J;McClintock, J;Canizares, C;van Paradijs, J;Lewin, W|Optical Bursts from MXB1735-44|7
+1978IAUC.3233....3I|Ilovaisky, S;Motch, C;Chevalier, C|4U 1626-67|3
+1978IAUC.3238....1G|Grindlay, J;Li, F;Clark, G;Rappaport, S|4U 1658-48|7
+1978IAUC.3251....1M|McClintock, J;Canizares, C;Hiltner, W;Petro, L;Griffiths, R|Optical Candidates for Two X-Ray Sources|16
+1978IAUC.3252....1L|Lewin, W|Optical/X-ray Observations in 1979|0
+1978IAUC.3294....1V|van Paradijs, J;Cominsky, L;Lewin, W;Jan, J|MXB1730-335|3
+1978IAUC.3306....1F|Ford, H;Margon, B;Jenner, D;Klemola, A|Variable-Emission-Line Star in the Core of M15|4
+1978IAUC.3308....4L|Lewin, W;Cominsky, L;van Paradijs, J|MXB1730-335|1
+1978STIN...7910994S|Shklovskiy, I|On the nature of the sources of hard pulse X-ray radiation|0
+1978cait.reptQ....C|Cordova, F;Garmire, G;Lewin, W|A search for X-ray pulsations from the galactic center|0
+1978cosp.meetQ....M|Matilsky, T|Recent results from observations of 4U1700-37 using SAS-3|0
+1978pans.proc.....G|Giacconi, R;Ruffini, R|Physics and astrophysics of neutron stars and black holes|2
+1978pans.proc..148C|Clark, G|Recent results of X-ray observations from OSO-7 and SAS-3|0
+1977BAAS....9..348R|Rosenberg, F;Levine, A|X-Ray Observations of Extra Galactic Objects from SAS-3.|0
+1977BAAS....9..350E|Epstein, A|SAS-3 Observations of the Large Megellanic Cloud.|0
+1977BAAS....9..579B|Bradt, H;Apparao, K;Dower, R;Doxsey, R;Jernigan, J|SAS-3 Positions of Galactic X-ray Sources and their Optical Counterparts.|0
+1977BAAS....9..646M|Marshall, H;Ulmer, M;Lewin, W;Hoffman, J|Further Analysis of SAS-3 Observations of the Rapid Burster (MXB1730-335)|0
+1977IAUC.3039....1R|Ricketts, M;Cooke, B;Davison, P;Becker, R;Pravdo, S;Saba, J;Serlemitsos, P;McClintock, J;Li, F;Nugent, J;Rappaport, S;Lewin, W;Hoffman, J;Doty, J|X-Ray Sources|16
+1977IAUC.3045....2D|Dower, R;Clark, G;Jernigan, G;Rappaport, S|3U 0042+32|1
+1977IAUC.3054....3M|Mason, K;Murdin, P;Visvanathan, N;Bradt, H;Apparao, K;Markert, T;Li, F;McClintock, J;Rappaport, S;Coe, M;Engel, A;Quenby, J;Cooke, B|X-Ray Sources|7
+1977IAUC.3075....1L|Lewin, W;Hoffman, J;Doty, J;Li, F;McClintock, J|X-Ray Bursts|27
+1977IAUC.3078....1L|Lewin, W;Ricker, G;Primini, F;Watson, M;Pye, J;Davison, P|X-Ray Sources|17
+1977IAUC.3079....5L|Lewin, W;Hoffman, J|MXB1730-335|3
+1977IAUC.3087....1L|Lewin, W;Hoffman, J;Doty, J|MXB1916-05|17
+1977IAUC.3088....1B|Bradt, H;Apparao, K;Doxsey, R;Jernigan, J;McClintock, J|3U 1626-67|7
+1977IAUC.3090....1C|Clark, G;Li, F|Novalike X-Ray Source in Norma|11
+1977IAUC.3096....2C|Charles, P;Thorstensen, J;Bowyer, S|Optical Counterparts of X-Ray Sources|9
+1977IAUC.3108....4J|Joss, P;Ricker, G;Mayer, W;Hoffman, J;In, J|MXB1730-335|3
+1977IAUC.3117....1H|Hoffman, J;Marshall, H;Lewin, W|X-Ray Bursts|2
+1977IAUC.3134....2M|Marshall, H;Li, F;Rappaport, S|MXB1706-43|3
+1977IAUC.3144....2D|Dower, R;Kelley, R;Margon, B;Bradt, H|2S 0114+650|18
+1977Msngr...9....4C|Chevalier, C;Sergio, A|Probable Optical Identification of LMC X-4|0
+1977NYASA.302..210L|Lewin, W|X-Ray Burst Sources|27
+1976BAAS....8..364H|Hoffman, J;Lewin, W;Hearn, D;Doty, J|SAS-3 Observations of X-Ray Bursts from the Galactic Center Region|0
+1976BAAS....8..441H|Hoffman, J;Lewin, W;Doty, J|SAS-3 Observations of GX301-2 (3U1223-62)|1
+1976BAAS....8..442L|Lewin, W;Hoffman, J;Doty, J|SAS-3 Observations of GX1+4 (3U1728-24)|1
+1976BAAS....8..442M|Matilsky, T;Zubrod, D|SAS-3 Observations of A0620-00, the Bright X-ray Nova|0
+1976BAAS....8..444J|Jernigan, G;Clark, G;Canizares, C|SAS-3 Observations of X-ray Sources in Globular Clusters|0
+1976BAAS....8..512H|Hearn, D;Richardson, J;Clark, G|SAS-3 Observations of AM Her = 3U1809+50.|2
+1976BAAS....8..541J|Jernigan, J;Nugent, J|SAS-3 Observations of 3U0352+30 (= X Per).|2
+1976BAAS....8R.447H|Hearn, D;Richardson, J;Li, F|SAS-3 Observations of Soft X-Ray Sources|7
+1976IAUC.2900....2J|Jernigan, J|Gamma Cassiopeiae|39
+1976IAUC.2907....2C|Clark, G|3U 1820-30|8
+1976IAUC.2910....2D|Doty, J|GX 1+4|7
+1976IAUC.2911....1L|Lewin, W|X-Ray Bursts from near the Galactic Center|16
+1976IAUC.2914....3L|Lewin, W|Strong X-Ray Burst|6
+1976IAUC.2915....1C|Clark, G|X-Ray Burst from Aquila|8
+1976IAUC.2918....2L|Lewin, W|X-Ray Bursts from Galactic Center Region|7
+1976IAUC.2922....1L|Lewin, W;Clark, G;Doty, J|X-Ray Bursts|59
+1976IAUC.2925....1H|Hearn, D;Hughes, V;Viner, M;Argyle, F;Feldman, P|X-Ray Bursts|7
+1976IAUC.2929....1H|Heise, J;Grindlay, J;Liller, W|X-Ray Bursts from Galactic Center Region|16
+1976IAUC.2932....1M|Mason, K;Bell Burnell, S;White, N;Clark, G;Grindlay, J;Gursky, H|X-Ray Bursts|8
+1976IAUC.2936....1D|Delvaille, J;Li, F;Liller, W;Shao, C|X-Ray Sources|22
+1976IAUC.2946....1H|Hoffman, J;Aksenov, E;Sheffer, E;Moskalenko, E|X-Ray Bursts|8
+1976IAUC.2949....1M|Matilsky, T|V616 Monocerotis (A0620-00)|8
+1976IAUC.2953....1B|Becker, R;Pravdo, S;Serlemitsos, P;Swank, J;Hoffman, J|X-Ray Bursts|14
+1976IAUC.2957....2B|Bradt, H|WRA 977 and SAO 251595|5
+1976IAUC.2959....2W|Walter, F|MX1553-54|7
+1976IAUC.2974....1J|Joss, P|Hercules X-1|2
+1976IAUC.2983....1L|Li, F;Lewin, W;Doxsey, R|X-Ray Bursts|19
+1976IAUC.2984....2L|Lewin, W;Doty, J;Hoffman, J;Li, F|X-Ray Bursts|9
+1976IAUC.2995....2O|Oda, M;Canizares, C|Cygnus X-1|0
+1976IAUC.3003....3D|Dower, R;Goss, W;Haynes, R;Watkinson, A;Skellern, D;Longmore, A;Murdin, P|Circinus X-1|0
+1976IAUC.3006....1M|Mayer, W|Hard X-Ray Bursts|1
+1976NASSP.389..317B|Bradt, H;Matilsky, T|Observations of A 0620-00 by SAS-3.|2
+1976NASSP.389..373C|Canizares, C;Bradt, H;Buff, J;Laufer, B|SAS-3 observations of an X-ray flare from Cygnus X-1.|2
+1976aiaa.meetQ....C|Cleavinger, R;Mayer, W|Attitude determination sensor for Explorer 53|0
+1975BAAS....7..524L|Lewin, W;Hoffman, J|SAS-3 observations of GX 301-2 (3U 1223-62).|1
+1975BAAS....7..524M|Matilsky, T;Bradt, H;Buff, J;Hearn, D;Richardson, J|The X-ray Light Curve and Spectrum of A0620-00 Using SAS-3|0
+1975BAAS....7Q.524C|Clark, G|INVITED PAPER - X-Ray Observations from SAS-3|0
+1975BAAS....7Q.524L|Lewin, W;Hoffman, J|SAS-3 Observations of Nova Cygni 1975|0
+1975BAAS....7R.524C|Canizares, C;Bradt, H;Buff, J;Laufer, B|SAS-3 Observations of an X-Ray Outburst from Cygnus X-1|0
+1975BAAS....7R.524L|Lewin, W;Hoffman, J|SAS-3 Observations of GX 301-2 (3U1223-62)|1
+1975IAUC.2790....1H|Hearn, D;Richardson, J;Condon, J;Liebert, J;Spinrad, H|New Soft X-Ray Source|6
+1975IAUC.2808....3H|Hearn, D|MX1401-45|1
+1975IAUC.2817....1J|Jernigan, G;Turner, M|Transient X-Ray Sources|6
+1975IAUC.2819....1M|Matilsky, T;Boley, F;Wolfson, R;Gull, T;York, D|A0621-00 and Probable Optical Identification|30
+1975IAUC.2820....1D|Doxsey, R|Positions of X-Ray Sources|17
+1975IAUC.2822....1E|Eyles, C;Skinner, G;Willmore, A;Craft, H;Lequeux, J;Bottinelli, L;Encrenaz, P;Gouguenheim, L;Lucas, R;Feldman, P;Kojoian, G;Purton, C;Davis,;Edwards,;Morison,;Spencer,|A0620-00|17
+1975IAUC.2833....1P|Primini, F|Cygnus X-1.|4
+1975IAUC.2833....2R|Rappaport, S;McClintock, J|3U 0900-40|19
+1975IAUC.2843....1C|Clark, G;Schmidt, G;Angel, J|MX0656-07|20
+1975IAUC.2859....3E|Epstein, A|Beta Persei|4
+1975IAUC.2863....1J|Joss, P|A0535+26|11
+1975IAUC.2869....2R|Rappaport, S|Transient High-Latitude X-Ray Source|8
+1975JHATD..14....2H|Hoffman, E|The SAS-3 delayed command system.|0
+1975JHATD..14....6S|Sullivan, R;Hogrefe, A;Brenza, P|The SAS-3 power and thermal systems.|0
+1975JHATD..14....7P|Peterson, M|The SAS-3 programmable telemetry system.|0
+1975JHATD..14...14M|Mayer, W|The SAS-3 X-ray observatory.|1
+1975JHATD..14...16M|Mobley, F;Konigsberg, R;Fountain, G|The SAS-3 attitude control system.|0
+1975STIN...7530651H|Harkness, J|Evaluation program for secondary spacecraft cells: Initial evaluation tests of Gulton Industries, Incorporated, 9.0 ampere-hour nickel-cadmium spacecraft cells with auxiliary electrodes for the small astronomy Satellite (SAS-C)|0

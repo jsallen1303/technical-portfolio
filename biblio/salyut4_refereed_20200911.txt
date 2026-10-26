@@ -1,0 +1,10 @@
+1977AcAau...4.1121B|Bruns, A;Grechko, G;Gubarev, A;Gubarjev, A;Klimuk, P;Sevast'yanov, V;Sevastjanov, V;Severnyj, A;Severny, A;Steshenko, N|Orbiting solar telescope "Salyut-4" station.|2
+1977PAZh....3...63S|Sheffer, E;Moskalenko, E;Klimuk, P;Sevastianov, V;Kurt, V;Titarchuk, L|Observations of Cygnus X-1 on board the space station Salyut 4.|0
+1977SvAL....3...32S|Sheffer, E;Moskalenko, E;Klimuk, P;Sevastianov, V;Kurt, V;Titarchuk, L|Salyut 4 observations of CYG X-1.|1
+1976PAZh....2..235K|Kurt, V;Moskalenko, E;Klimuk, P;Sevastianov, V;Titarchuk, L;Sheffer, E|Observations of intense X-ray bursts from Cyg X-1.|1
+1976PAZh....2..284K|Klimuk, P;Kurt, V;Moskalenko, E;Sevastianov, V;Titarchuk, L;Sheffer, E|Observations of the X-ray source Cir X-1 on board the space station Salyut 4.|0
+1976PAZh....2..528M|Moskalenko, E;Kurt, V;Sheffer, E;Titarchuk, L;Golovanov, I|Scorpius X-1 - observations from the Salyut 4 station.|1
+1976PAZh....2..568M|Moskalenko, E;Sheffer, E;Kurt, V;Klimuk, P;Sevast'ianov, V;Titarchuk, L|Emission variability of Sco X-1 during observations from the Salyut 4 station.|0
+1976SvAL....2...42K|Kurt, V;Moskalenko, E;Titarchuk, L;Sheffer, E|Salyut 4 observations of the X-ray source A 0620-00.|5
+1976SvAL....2...70G|Grechko, G;Gubarev, A;Kurt, V;Moskalenko, E;Titarchuk, L;Sheffer, E|Observations of HER X-1 from the Salyut 4 spacecraft.|0
+1976SvAL....2..110K|Klimuk, P;Kurt, V;Moskalenko, E;Sevastianov, V;Titarchuk, L;Sheffer, E|Salyut 4 observations of CIR X-1.|0

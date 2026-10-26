@@ -1,0 +1,3 @@
+2020AJ....160...20S|Silich, E;Kaaret, P;Zajczyk, A;LaRocca, D;Bluem, J;Ringuette, R;Jahoda, K;Kuntz, K|Global X-Ray Properties of the Vela and Puppis A Supernova Remnants|0
+2020JATIS...6a4003L|LaRocca, D;Kaaret, P;Kirchner, D;Zajczyk, A;Robison, W;Johnson, T;Jahoda, K;Fuelberth, W;Gulick, H;McCurdy, R;White, K;Miles, D|Design and construction of the x-ray instrumentation onboard the HaloSat CubeSat|0
+2019ApJ...884..162K|Kaaret, P;Zajczyk, A;LaRocca, D;Ringuette, R;Bluem, J;Fuelberth, W;Gulick, H;Jahoda, K;Johnson, T;Kirchner, D;Koutroumpa, D;Kuntz, K;McCurdy, R;Miles, D;Robison, W;Silich, E|HaloSat: A CubeSat to Study the Hot Galactic Halo|2

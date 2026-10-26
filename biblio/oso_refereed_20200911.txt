@@ -1,0 +1,114 @@
+1995AdSpR..15g..33P|Phillips, K;Pike, C;Lang, J;Zarro, D;Fludra, A;Watanabe, T;Takahashi, M|Evidence for the equality of the solar photospheric and coronal abundance of iron|4
+1994ApJ...420..892M|McKenzie, D;Feldman, U|Solar Coronal Abundances of Elements with Low First Ionization Potential: Chromium, Calcium, and Aluminum|10
+1994ApJ...426..454K|Keenan, F;McKenzie, D;Phillips, K;Conlon, E|SI XIII Emission Lines in Solar Flare X-Ray Spectra Obtained with the P78-1 Satellite|1
+1994ApJ...435..898S|Sterling, A;Doschek, G;Pike, C|Fe XXV Temperatures in Flares from the YOHKOH Bragg Crystal Spectrometer|12
+1994SoPh..149..129K|Keenan, F;Conlon, E;Warren, G;Aggarwal, K|Emission Line Ratios for Fexxi Applicable to the Extreme Ultraviolet Spectra of Solar Flares|6
+1993AZh....70..165C|Chertok, I|Solar coronal mass ejections|10
+1993ApJ...406..350K|Keenan, F;Conlon, E;Warren, G;Boone, A;Norrington, P|Theoretical Emission-Line Strengths for Fe XXIII and a Comparison with Solar Observational Data|13
+1992AZh....69..593C|Chertok, I;Gnezdilov, A;Zaborova, E|Microwave and soft X-ray emission of solar flare events associated with coronal transients|3
+1992ApJ...385..378M|McKenzie, D;Keenan, F;McCann, S;Berrington, K;Hibbert, A;Mohan, M|Fe XVIII Emission-Line Intensities in the Sun|8
+1991ApJ...379..401P|Phillips, K;Feldman, U|The Iron-to-Calcium Abundance Ratio in the 20 X 10 6 K Plasma of Medium and Large Solar Flares|18
+1990ApJ...348..341D|Doschek, G;Seely, J|The Ar/Ca Abundance Ratio in Solar Flares|7
+1990ApJS...73..117D|Doschek, G|Soft X-Ray Spectroscopy of Solar Flares: an Overview|95
+1989ApJ...338..567S|Seely, J;Doschek, G|Measurement of Wavelengths for Inner-Shell Transitions in CA xvii--xix|10
+1989EM&P...47..193W|Winiarski, M|Photographic observations of the cloud in the neighbourhood of libration point L <SUB>5</SUB> of the Earth-Moon system|7
+1988ApJ...326.1002B|Bruner, M;McWhirter, R|Radiating Properties of Solar Plasmas|51
+1988ApJ...334..494B|Bruner, M;Crannell, C;Goetz, F;Magun, A;McKenzie, D|Dynamic Evolution of the Source Volumes of Gradual and Impulsive Solar Flare Emissions|7
+1988JPhys..49...55M|McKenzie, D|X-ray line-ratio plasma diagnostics applied to solar active regions.|0
+1988JPhys..49..331M|McCann, S;Keenan, F|The comparison of helium-like ion emission line ratios with solar X-ray spectral data.|1
+1987A&A...188..159A|Antonucci, E;Marocchi, D;Gabriel, A;Doschek, G|Calcium ionization balance and argon/calcium abundance in solar flares|13
+1987ApJ...318..926K|Keenan, F;McKenzie, D;McCann, S;Kingston, A|NE IX Emission-Line Ratios in Solar Active Regions|22
+1987ApJ...322..512M|McKenzie, D|Properties of Solar Coronal Active Regions Deduced from X-Ray Line Spectra|21
+1987JGR....92.7227K|Karpen, J;Howard, R|A search for forerunner activity associated with coronal mass ejections|6
+1987SoPh..109...31K|Keenan, F;McCann, S|Al xii line ratios in the Sun|9
+1987SoPh..112...83M|McCann, S;Keenan, F|Theoretical emission line ratios for Si  XIII compared to solar observations|4
+1986ApJ...302..504K|Kahler, S;Cliver, E;Cane, H;McGuire, R;Stone, R;Sheeley, N|Solar Filament Eruptions and Energetic Particle Events|105
+1986ApJ...304..838S|Seely, J;Feldman, U;Safronova, U|Measurement of Wavelengths and Lamb Shifts for Inner-Shell Transitions in Fe xviii--xxiv|41
+1986ApJ...306..327K|Karpen, J;Doschek, G;Seely, J|High-Resolution X-Ray Spectra of Solar Flares. VIII. Mass Upflow in the Large Flare of 1980 November 7|29
+1986Natur.322..441C|Chiu, Y;Robinson, R;Swenson, G;Chakrabarti, S;Evans, D|Imaging the outflow of ionospheric ions into the magnetosphere|14
+1985ApJ...292..309K|Kreplin, R;Doschek, G;Feldman, U;Sheeley, N;Seely, J|High-resolution X-ray spectra of solar flares. VII - A long-duration X-ray flare associated with a coronal mass ejection|12
+1985ApJ...297..338R|Rugge, H;McKenzie, D|X-ray line ratios for Fe-XVII observed in the solar corona|62
+1985MNRAS.217..317D|Doschek, G;Feldman, U;Seely, J|Element abundances from solar flare spectra|51
+1984ApJ...276L..53F|Feldman, U;Doschek, G;McKenzie, D|On the rate of energy input in thermal solar flares|12
+1984ApJ...280L..59S|Seely, J;Feldman, U|Direct measurement of the increase in altitude of the soft X-ray emission region during a solar flare|22
+1984ApJ...286..681L|Laros, J;Evans, W;Fenimore, E;Klebesadel, R;Shulman, S;Fritz, G|3 keV to 2 MeV observations of four gamma-ray bursts|62
+1984ApJ...286..787C|Cheng, C;Doschek, G;Karpen, J|Numerical simulations of loops heated to solar flare temperatures. III - Asymmetrical heating|50
+1984SoPh...90..161G|Gergely, T;Kundu, M;Erksine, F;Sawyer, C;Wagner, W;Illing, R;House, L;McCabe, M;Stewart, R;Nelson, G;Koomen, M;Michels, D;Howard, R;Sheeley, N|Radio and Visible Light Observations of a Coronal Arcade Transient|22
+1984SoPh...92..199M|Mason, H;Bhatia, A;Kastner, S;Neupert, W;Swartz, M|Diagnostic Application of Highly Ionised Iron Lines in the Extreme Ultraviolet Spectrum of a Solar Flare|38
+1983A&A...128..181N|Neupert, W;Kastner, S|A spectroscopic method for calibration of solar extreme ultraviolet instrumentation.|33
+1983ApJ...265.1120P|Phillips, K;Lemen, J;Cowan, R;Doschek, G;Leibacher, J|Inner-shell transitions in Fe XIX-XXII in the X-ray spectra of solar flares and Tokamaks|32
+1983ApJ...269..319W|Wolfson, C;Leibacher, J;Doyle, J;Phillips, K|X-ray line ratios from helium-like ions - Updated theory and SMM flare observations|77
+1983ApJ...269L..67K|Kundu, M;Gergely, T;Turner, P;Howard, R|Direct evidence of type III electron streams propagating in coronal streamers|29
+1983ApJ...271..376K|Kane, S;Kai, K;Kosugi, T;Enome, S;Landecker, P;McKenzie, D|Acceleration and confinement of energetic particles in the 1980 June 7 solar flare|99
+1983P&SS...31..977B|Bossy, L|Solar indices and solar u.v.-irradiances|42
+1983PhDT.........9K|Kimble, R|Satellite Observations of the Extreme Ultraviolet and Far Ultraviolet Radiation Fields.|0
+1983RvGSP..21..291S|Shea, M|Overview of cosmic ray studies and associated topics (1979 - 1982).|1
+1983SoPh...83....3S|Schmahl, E;Kundu, M;Landecker, P;McKenzie, D|Thermal and Nonthermal Phenomena in Solar Flare Loops at 20-CM Wavelength and in X-Rays|5
+1983SoPh...83..233F|Fisher, R;Lacey, L;Rock, K;Yasukawa, E;Sheeley, N;Michels, D;Howard, R;Koomen, M;Bagrov, A|The solar corona on 31 July, 1981|9
+1983SoPh...86....9D|Doschek, G|Solar instruments on the P78-1 spacecraft.|40
+1983SoPh...86...49D|Doschek, G|Solar Flare X-Ray Spectra from the P78 - 1 Spacecraft|12
+1983SoPh...89..181C|Cliver, E;Kahler, S;Cane, H;Koomen, M;Michels, D;Howard, R;Sheeley, N|The GLE-associated flare of 21 August, 1979|34
+1983SoPh...89..261I|Ivanov, E|Longterm Quasi-Periodic Oscillations of Extreme Ultraviolet Flux on the Sun|1
+1983SpFl...25..280P|Powell, J|Lightning research from space|0
+1982ApJ...255..320F|Feldman, U;Cheng, C;Doschek, G|Observational constraints for a theoretical model describing the soft X-ray flare|27
+1982ApJ...259..372M|McKenzie, D;Landecker, P|X-ray lines of helium-like oxygen and neon in the solar corona|46
+1982GeoRL...9.1317B|Burlaga, L;Klein, L;Sheeley, N;Michels, D;Howard, R;Koomen, M;Schwenn, R;Rosenbauer, H|A magnetic cloud and a coronal mass ejection|190
+1982SSRv...33..233D|Dryer, M|Coronal transient phenomena.|117
+1981A&A...104...10C|Cazes, S;Emerich, C;Vidal-Madjar, A;Meier, R|An attempt to determine the solar LY alpha flux independently of instrument calibration|9
+1981ApJ...251..792D|Doscher, G;Feldman, U|On ionization equilibrium in solar flares as determined from X-ray emissionlines of CA XVIII and CA XIX|13
+1981JGR....8611225I|Imhof, W;Reagan, J;Gaines, E;Anderson, R|The significance of VLF transmitters in the precipitation of inner belt electrons|40
+1980ApJ...235.1047L|Langer, S;Petrosian, V;Frost, K|A study of the spectrum beyond 200 keV of second-stage solar flare X-ray emission|4
+1980PhDT.........2K|Karpen, J|On the Origin of Multiply-Impulsive Emission from Solar Flares.|3
+1980SoPh...66..259V|Vidal-Madjar, A;Phissamay, B|The Solar Lyman-Alpha Flux Near Solar Minimum|58
+1979A&A....73...74M|Mason, H;Bhatia, A;Doschek, G;Feldman, U|Fe XXI as an electron density diagnostic in solar flares.|84
+1979A&A....78..159P|Pineau Des Forets, G|A theoretical model of a coronal hole.|8
+1979ApJ...228..903H|Haug, E|Fe IX lines as density indicators in coronal plasmas.|9
+1979ApJ...231L..41S|Schmahl, E;Orrall, F|Evidence for continuum absorption above the quiet sun transition region.|75
+1979ApJ...234..370K|Karpen, J;Crannell, C;Frost, K|Spectral evolution of multiply impulsive solar bursts.|14
+1979ApJ...234..669K|Kane, S;Frost, K;Donnelly, R|Relationship between hard X-ray and EUV sources in solar flares.|31
+1979SSRv...24...71U|Ulmschneider, P|Stellar Chromospheres|51
+1979SoPh...61..129H|Haug, E|On the nonthermal excitation and polarization of X-ray lines during solar flares|35
+1978ApJ...223..620C|Crannell, C;Frost, K;Saba, J;Maetzler, C;Ohki, K|Impulsive solar X-ray bursts.|154
+1978ApJS...37..485V|Vernazza, J;Reeves, E|Extreme ultraviolet composite spectra of representative solar features.|397
+1978PhDT.........8K|Karpen, J;Crannell, C;Frost, K|Spectral evolution of multiply-impulsive solar bursts|0
+1978SoPh...57..191L|Lipa, B|Pulsations in solar hard X-ray bursts.|20
+1977ApJ...211L..23C|Charles, P;Culhane, J|Extended soft X-ray emission from the Crab nebula.|16
+1977ApJ...217..549K|Kane, S;Share, G|Hard X-ray spectra of cosmic gamma-ray bursts.|10
+1977MNRAS.179..473A|Allen, C|Quiet and active solar emission analysed from the OSO IV spectroheliograms.|0
+1977PAZh....3..315S|Syrovatskii, S;Shmeleva, O|Impulsive solar flare heating according to UV observations.|2
+1977SoPh...55..177D|Drago, F;Silvi, M|The filament-corona transition region from OSO-VI EUV observations|1
+1976Ap&SS..42...29S|Share, G|Discovery of Two Cosmic X-Ray Bursts in 1970|3
+1976ApJ...210..143Y|York, D;Flannery, B;Bahcall, J|Circumstellar matter in the binary V Puppis.|11
+1976Icar...29..419P|Peterson, L;Hudson, H;Tsikoudi, V|New Upper Limits on Jovian X Rays|0
+1976MNRAS.175...33G|Glencross, W;Brabban, D|Changes in X-ray brightness of a solar active region.|2
+1976Ruimt..25...37D|de Graaff, W|Recent developments in astronomy|0
+1975A&A....44..273T|Tsikoudi, V;Hudson, H|Upper limits on stellar flare X-ray emission from OSO-3.|8
+1975Ap&SS..33L..15B|Biswas, S;Manchanda, R;Sreekantan, B|Possible Association of a Hard X-Ray Source with a Cosmic Gamma-Ray Burst|0
+1975ApJ...195L...1P|Pizzichini, G;Palumbo, G;Spizzichino, A|Gamma-ray bursts observed by a hard X-ray experiment aboard OSO-6.|6
+1975ApJ...196..593C|Campbell, M;Alexander, J;Ball, S;Greisen, K;Koch, D;McBreen, B|Upper limits of hard gamma-ray emission from six X-ray sources.|4
+1975ApJ...199..530M|Modali, S;Brandt, J;Kastner, S|Monte Carlo treatment of Lyman-alpha. II. Radiation in a spherical atmosphere.|7
+1975JBIS...28..299J|Jagoda, N;Antrim, W|An evolution of X-ray astronomy instrumentation.|1
+1975JPhA....8..617S|Strong, A|Derivation of γ-ray emissivity in the Galaxy from satellite data|27
+1975MNRAS.171....1F|Fawcett, B;Cowan, R|The identification of solar flare Fe XVIII to Fe XXIII emission lines from 2s?n2p?k-2s?n<SUP>-1</SUP>2p?k<SUP>+1</SUP> transitions.|22
+1975P&SS...23..173R|Roach, J|Counterglow from the Earth-Moon libration points|13
+1975PhDT.........1D|Dhingra, K|A Satellite Study of the High Energy Proton Environment Under the Radiation Belt.|0
+1975SoPh...40...69V|Vidal-Madjar, A|Evolution of the Solar Lyman Alpha Flux during Four Consecutive Years|132
+1975SoPh...43..117R|Raghavan, N;Withbroe, G|EUV Analysis of an Active Region|0
+1975SoPh...45..301W|Withbroe, G|The Analysis of XUV Emission Lines|116
+1974ApJ...190..297S|Schwartz, D;Peterson, L|The Spectrum of Diffuse Cosmic X-Rays Observed by OSO-3 Between 7 and 100 KEV|20
+1974PhDT.........2C|Campbell, M|A High-Energy Gamma-Ray Survey of Cygnus and Cassiopeia.|0
+1974SoPh...38..183G|Glencross, W;Dorling, E;Herring, J|Observations of Very Small Soft X-Ray Flares|7
+1974SoPh...39..175H|Herring, J|A Two-Component Thermal Model of X-Ray Burst Sources|2
+1973A&A....27..479B|Brini, D;Evangelisti, F;Fuligni di Grande, M;Pizzichini, G;Spizzichino, A;Vespignani, G|Erratum; Hard X-ray Solar Bursts Observed from the OSO-6 Satellite|0
+1973ApJ...183..291H|Huber, M;Dupree, A;Goldberg, L;Noyes, R;Parkinson, W;Reeves, E;Withbroe, G|The Harvard Experiment on OSO-6: Instrumentation, Calibration, Operation, and Description of Observations|33
+1973ApJ...186...97D|Dennis, B;Suri, A;Frost, K|The Diffuse X-Ray Spectrum from 14 TO 200 keV as Measured on OSO-5|30
+1973ApJ...186..401K|Kraushaar, W;Clark, G;Garmire, G;Borken, R;Higbie, P;Leong, C;Thorsos, T|High-Energy Cosmic Gamma-Ray Observations from the OSO-3 Satellite|6
+1972ApJ...177..341K|Kraushaar, W;Clark, G;Garmire, G;Borken, R;Higbie, P;Leong, V;Thorsos, T|High-Energy Cosmic Gamma-Ray Observations from the OSO-3 Satellite|216
+1970ApJ...162..431S|Schwartz, D;Hudson, H;Peterson, L|The Spectrum of Diffuse Cosmic X-Rays 7.7-113 keV|41
+1970ApJ...162..439S|Schwartz, D|The Isotropy of the Diffuse Cosmic X-Rays Determined by Oso-Iii|70
+1969ApJ...157..389H|Hudson, H;Peterson, L;Schwartz, D|The Hard Solar X-Ray Spectrum Observed from the Third Orbiting Solar Observatory|83
+1969ApJ...158L.159F|Frost, K|Rapid Fine Structure in a Burst of Hard Solar X-Rays Observed by OSO-5|128
+1968ApJ...153L.203C|Clark, G;Garmire, G;Kraushaar, W|Observation of High-Energy Cosmic Gamma Rays|138
+1965ITAer...3..345T|Thompson, J;Mason, A|The Communication and Data-Handling Subsystem for the Advanced Orbiting Solar Observatory|0
+1965ITNS...12...54H|Hicks, D;Ried, L;Peterson, L|X-Ray Telescope for an Orbiting Solar Observatory|19
+1965NYASA.134..194B|Bartoe, O;Dolder, F;Gablehouse, R;Mercure, R|Design and Development of the Orbiting Solar Observatory (oso)|0

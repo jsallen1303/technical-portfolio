@@ -1,0 +1,7 @@
+2022APS..APRW03008K|Ku, Y;Wissel, S;Decoene, V;PUEO Team|The low frequency instrument on the PUEO experiment targeting upgoing air showers|0
+2022icrc.confE1029V|Vieregg, A;Abarr, Q;Allison, P;Ammerman Yebra, J;Alvarez-Muniz, J;Beatty, J;Besson, D;Chen, P;Chen, Y;Cheng, X;Clem, J;Connolly, A;Cremonesi, L;Deaconu, C;Flaherty, J;Frikken, D;Gorham, P;Hast, C;Hornhuber, C;Huang, J;Hughes, K;Hynous, A;Ku, Y;Kuo, C;Liu, T;Martin, Z;Miki, C;Nam, J;Nichol, R;Nishimura, K;Novikov, A;Nozdrina, A;Oberla, E;Prohira, S;Prechelt, R;Rauch, B;Roberts, J;Romero-Wolf, A;Russell, J;Seckel, D;Shiao, J;Smith, D;Southall, D;Varner, G;Wang, S;Wang, Y;Wissel, S;Young, R;Zas, E;Zeolla, A|Discovering the Highest Energy Neutrinos with the Payload for Ultrahigh Energy Observations (PUEO)|0
+2021APS..APRD21004P|Prechelt, R|Prowling for Ultrahigh Energy Neutrinos with PUEO|0
+2021APS..APRS10006P|Prechelt, R;Pueo Collaboration|Prowling for Ultrahigh-Energy Neutrinos with PUEO|0
+2019ICRC...36..867D|Deaconu, C|Searches for Ultra-High-Energy Neutrinos with ANITA|6
+2001IAUC.7703....2M|Merline, W;Menard, F;Close, L;Dumas, C;Chapman, C;Slater, D|S/2001 (22) 1|14
+1999IAUC.7129....1M|Merline, W;Close, L;Dumas, C;Chapman, C;Roddier, F;Menard, F;Slater, D;Duvert, G;Shelton, C;Morgan, T;Dunham, D|S/1998 (45) 1|5

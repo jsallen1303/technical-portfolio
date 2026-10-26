@@ -1,0 +1,57 @@
+{
+    "title": "Compton Spectrometer and Imager (COSI)",
+    "name": "COSI",
+    "alttext": "Artistic impression of COSI satellite with supernova ejecta in the background",
+    "imagesize": 300,
+    "imageurl": "/Images/misc_missions/cosi_eso1032a_sm.png",
+    "descript": "<p><b><font size=\"+2\">T</font>he Compton Spectrometer and Imager (COSI)</b> is a soft gamma-ray telescope, planned to be launched as a NASA Small Explorer program satellite in 2027. The instrument has also been flown on a pathfinding super pressure balloon mission launched from Wanaka, New Zealand on May 17, 2016 which lasted for 46 days.</p>\n\n<p>The primary nstrument on COSI is a compact Compton telescope, which measures the position and deposited energy of a gamma ray through an active detector. By determining the order of scattering through the detector medium, the origin of any single photon can be confined to an annulus, known as an event circle. Multiple events from the same source will have overlapping event circles which determines the source location. An earlier spaceflight Compton telescope, COMPTEL, was successfully used in NASA&rsquo;s Compton Gamma Ray Observatory (CGRO). COSI replaces the two detecting planes in COMPTEL with a  single detecting volume. COSI&rsquo;s energy resolution will be 20 times better than COMPTEL and capable of observing more than four times as much sky at any instant. COSI will also be able to measure linear polarization.</p>",
+    "decade": 2020,
+    "lifetime": "2 year planned mission",
+    "features": [
+	"All-sky mapping at soft gamma-ray energies",
+	"Mapping of distribution of elements in the galactic plane (Fe, Al, Ti)",
+	"Polarimetry measurements"
+    ],
+  "instruments": [
+      {
+	  "name": "Germanium Detectors (GeDs)",
+	  "energy": "0.2 &ndash; 5 MeV",
+	  "fov": "&gt;25% of all-sky instantaneously;<br>all-sky every day in survey mode",
+	  "resolution": "4.1&deg; at 511 keV<br>2.1&deg; at 1.809 MeV",
+	  "energy_resolution": "6.0 keV at 511 keV<br>9.0 keV at 1.157 MeV",
+	  "volume" : "1536 cm<sup>3</sup> (16 detectors with 96 cm<sup>3</sup> each)",
+	  "descript": "The GeDs are the primary instrument on the COSI satellite. They are arranged in a 2&times;2&times;4 array of individual detectors to function as a compact Compton telescope, with the same design used on the 2016 balloon flight (which used 12 instead of 16 detectors). Collectively they make a 3D-imaging volume, surrounded on four sides and below by Bismuth Germanate (BGO) scintillator anti-coincidence detectors (ACS): these reduce the telescope&rsquo;s field of view while rejecting off-axis noise. Each detector has 64 aluminum strips deposited with orthogonal orientation to provide 3-D event information within the detector volume (The balloon flights used fewer wires, but fundamentally similar detection techniques.). The GeDs require cooling to operate efficiently: This is achieved with a Stirling cryocooler which requires no consumables."
+      },
+      {
+	  "name" : "Anti-Coincidence System (ACS)",
+	  "energy": "100 keV &ndash; 40 MeV",
+	  "fov": "Full unocculted sky (&gt;60% of sky in low earth orbit)",
+	  "descript" : "The ACS consists of 22 segments of Bismuth Germanate (BGO) scintillator: 3 segments on each side of the cryostat and 10 underneath. This gives the GeDs a restricted (but wide) field of view and provides veto counting of off-axis events. The ACS also functions as an all-sky (other than that fraction occulted by the Earth) gamma-ray burst detector plus the ability to monitor background gamma radiation."
+      },
+      {
+	  "name" : "Burst Transient Observer (BTO)",
+	  "energy": "30 keV &ndash; 2 MeV",
+	  "fov": "Full unocculted sky (&gt;60% of sky in low earth orbit)",
+	  "energy_resolution" : "15&ndash;20% at 662 keV",
+	  "descript" : "The BTO is a small student collaboration instrument included with the COSI satellite. It is physically located outside of the ACS enclosure and consists of the two NaI(Tl) scintillation detectors. It complements the primary instrument by extending the energy sensitivity to lower energies. Each crystal is coupled with flight-proven silicon photomultipliers (SiPMs) to detect the scintillation flashes from gamma rays pass through the crystal. In additional to monitoring transient events, it will provide further data on background gamma radiation, improving the ability of the entire mission to identify real astrophysics signals. BTO emphasizes fast timing and triggering for timely alerts of sudden bursts for appropriate follow-up with the primary COSI instrument and other observing plaforms."
+      }
+  ],
+    "goals": [
+	"Determine the original of Galactic positrons",
+	"Study 511 keV (positron/electron collision energy) features",
+	"Measure polarization of extreme environments",
+	"Probe the physics of multi-messenger events",
+	"Characterize the Galactic diffuse gamma-ray emission"
+    ],
+  "archive": "",
+  "navigation": [
+    {
+      "url": "https://cosi.ssl.berkeley.edu",
+      "text": "COSI at U.C. Berkeley"
+    },
+    {
+      "url": "biblio/cosi_biblio.html",
+      "text": "Publications"
+    }
+  ]
+}

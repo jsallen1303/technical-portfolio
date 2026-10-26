@@ -1,0 +1,4 @@
+1973ApJ...181..737T|Trombka, J;Metzger, A;Arnold, J;Matteson, J;Reedy, R;Peterson, L|The Cosmic y-RAY Spectrum Between 0.3 and 25 MeV Measured on Apollo 15|64
+1972Ap&SS..18..462D|Daniel, R;Joseph, G;Lavakare, P|Diffuse Cosmic Gamma Rays Observed at an Equatorial Balloon Altitude|28
+1971A&A....15...50V|Vedrenne, G;Albernhe, F;Martin, I;Talon, R|Extraterrestrial Y Ray Contribution between 0.7 MeV and 4.5 MeV at Balloon Altitude|43
+1970ApJ...160L.161V|Vette, J;Gruber, D;Matteson, J;Peterson, L|A New Component of Cosmic Gamma Rays Near 1 MeV Observed by the ERS-18|59

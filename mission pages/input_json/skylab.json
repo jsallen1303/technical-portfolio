@@ -1,0 +1,46 @@
+{
+  "title": "The Skylab Space Station",
+  "name": "Skylab",
+  "alttext": "Skylab",
+  "imagesize": 135,
+  "imageurl": "/Images/skylab/skylab_small.gif",
+    "descript": "<p><b><font size=\"+2\">S</font>kylab</b>, a science and engineering laboratory, was launched into Earth orbit by a Saturn V rocket on 14 May 1973. Three crews of 3 men each visited the station, with their missions lasting 28, 59, and 84 days. Circling 50 degrees north and south of the equator at an altitude of 435 km, Skylab had an orbital period of 93 minutes. There were a plethora of UV astronomy experiments done during the Skylab lifetime, as well as detailed X-ray studies of the Sun. Skylab fell from orbit on 11 July 1979.</p>",
+    "decade": 1970,
+    "features" : [
+	"Skylab carried several X-ray telescopes as part of the Apollo Telescope Mount over a broad range of X-ray energies",
+	"Operations by astronauts (rather than automated systems) allowed the selection of targets and exposure adjustments",
+	"Telescope detectors pre-date X-ray CCDs: the use of fine-grained film allowed the capture of high dynamic range and resolution"
+    ],
+    "lifetime": "May 1973&ndash;Jul 1979",
+    "instrument_preamble" : "<table class=\"usa-table usa-hea-mission-table\">\n  <caption class=\"usa-sr-only\">Major Skylab Astronomical Experiments</caption>\n  <thead>\n    <tr>\n      <th colspan=\"2\" scope=\"colgroup\" class=\"text-center\">\n        <strong>Major Skylab Astronomical Experiments</strong>\n      </th>\n    </tr>\n    <tr>\n      <th scope=\"col\" class=\"text-center\">\n        <strong>EXP</strong>\n      </th>\n      <th scope=\"col\" class=\"text-center\">\n        <strong>Scientific Objective</strong>\n      </th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>H-alpha</td>\n      <td>Study H-alpha emission from the Sun during solar flares</td>\n    </tr>\n    <tr>\n      <td>S009</td>\n      <td>Cosmic Ray flux measurement - nuclear emulsion detector</td>\n    </tr>\n    <tr>\n      <td>S019</td>\n      <td>UV line spectra of young, hot stars and galaxies</td>\n    </tr>\n    <tr>\n      <td>S020</td>\n      <td>UV and X-ray solar photography for highly ionized atoms</td>\n    </tr>\n    <tr>\n      <td>S052</td>\n      <td>Analysis of solar corona</td>\n    </tr>\n    <tr>\n      <td>S054</td>\n      <td>X-ray spectrography of solar flares and active regions</td>\n    </tr>\n    <tr>\n      <td>S055</td>\n      <td>Chromospheric and coronal extreme UV photography</td>\n    </tr>\n    <tr>\n      <td>S056</td>\n      <td>X-ray emissions of lower solar corona</td>\n    </tr>\n    <tr>\n      <td>S073</td>\n      <td>Gegenshein and zodiacal light intensity and polarization</td>\n    </tr>\n    <tr>\n      <td>S082A</td>\n      <td>Study of inner corona structure via spectroheliography</td>\n    </tr>\n    <tr>\n      <td>S082B</td>\n      <td>Spectrographs of coronal and chromospheric transition region</td>\n    </tr>\n    <tr>\n      <td>S149</td>\n      <td>Mass, speed and chemical composition of interplanetary dust</td>\n    </tr>\n    <tr>\n      <td>S150</td>\n      <td>Faint X-ray source survey</td>\n    </tr>\n    <tr>\n      <td>S183</td>\n      <td>UV Panorama Experiment - photometer for stellar spectrography and a wide-field imaging camera</td>\n    </tr>\n    <tr>\n      <td>S201</td>\n      <td>Far-UV Electrographic camera to study Comet Kohoutek structure</td>\n    </tr>\n    <tr>\n      <td>S228</td>\n      <td>Transuranic Cosmic Ray Experiment</td>\n    </tr>\n  </tbody>\n</table>",
+    "instruments": [
+	{
+	    "name" : "S150 X-ray Experiment",
+	    "wavelength" : "40&ndash;100 &Aring;",
+	    "area" : "&sim;1500 cm<sup>2</sup>",
+	    "fov" : "2&deg; &times; 20&deg; collimator vanes with intersecting fields of view",
+	    "resolution" : "&sim;30&prime;",
+	    "energy_resolution" : "&sim;20&ndash;25% at 6 keV",
+	    "temporal_resolution" : "milliseconds",
+	    "descript" : "<img style=\"float:right; margin: 0 0 12px 12px; width: 130px;\"  ALT=\"SIV-B\" src=\"/Images/skylab/skylab3_2ndstage_small.gif\">\n\nSkylab 3, the second manned mission to Skylab, carried the S150 X-ray experiment. The S150 was attached to the inside wall of the instrument unit which was itself mounted atop the SIV-B upper stage of the Saturn 1B rocket which orbited briefly behind and below Skylab on 28 July 1973.</p>\n\n<p>After the astronauts had separated their Apollo capsule from the SIV-B stage, the S150 experiment was deployed from its protective housing and activated. The entire SIV-B stage underwent a series of preprogrammed maneuvers, scanning about 1 degree every 15 seconds, to allow the instrument to sweep across selected regions of the sky. The pointing direction was determined during data processing, using the inertial guidance system of the SIV-B stage combined with information from two visible star sensors which formed part of the experiment. Data was stored on a tape recorder and replayed to suitable ground stations when possible.</p>\n\n<p>Galactic X-ray sources were observed with the S150 experiment. The experiment was designed by Kraushaar, Bunner, and collaborators at the University of Wisconsin to detect 40&ndash;100 angstrom photons. It consisted of a single large proportional counter, electrically divided by fine wire ground planes into separate signal-collecting areas and looking through collimator vanes. The collimators defined 3 intersecting fields of view  on the sky, which allowed source positions to be determined to &sim;30 arcmin. The front window of the instrument consisted of a 2 micron thick plastic sheet. The counter gas was a mixture of argon and methane."
+	}
+    ],
+    "highlights": [
+	"Analysis of the data from the S150 experiment provided strong evidence that the soft X-ray background cannot be explained as the cumulative effect of many unresolved point sources"
+    ],
+  "archive": "",
+  "navigation": [
+    {
+      "url": "images/skylab_images.html",
+      "text": "Gallery"
+    },
+    {
+      "url": "biblio/skylab_biblio.html",
+      "text": "Publications"
+    },
+    {
+      "url": "http://nssdc.gsfc.nasa.gov/nmc/spacecraftDisplay.do?id=1973-027A",
+      "text": "NSSDC Skylab Archive"
+    }
+  ]
+}

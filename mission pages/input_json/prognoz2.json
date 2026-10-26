@@ -1,0 +1,31 @@
+{
+    "title": "The Prognoz 2 Mission",
+    "name": "Prognoz 2",
+    "alttext": "artist concept of Prognoz satellite",
+    "imagesize": 299,
+    "imageurl": "/Images/misc_missions/prognoz_small.gif",
+    "descript": "<p><p><font size=\"+2\">P</font>rognoz 2</b> was launched on 29 June 1972. It was put into a highly elliptical orbit with apogee 200,000 km, perigee 550 km, and inclination 65 degrees. It carried the first instrument package, SIGNE 1, resulting from the Franco-Soviet SIGNE collaboration. This instrument was intended to perform solar radiation studies. However, it detected cosmic gamma-ray bursts as well as solar events.</p>\n\n<p>Prognoz 2 reentered the atmosphere on 15 December 1982.</p>",
+    "decade": 1970,
+    "lifetime": "29 Jun 1972&ndash;15 Dec 1982",
+    "features": [],
+    "instruments": [
+	{
+	    "name" : "Solar International Gamma-ray and Neutron Experiments (SIGNE) 1",
+	    "energy" : "0.4&ndash;11.8 MeV",
+	    "area" : "&sim;17.1 cm<sup>2</sup>",
+	    "descript" : "The SIGNE 1 detector consisted of a Stilbene scintillator, 38.1 mm in diameter and 38.1 mm high. It was shielded by a plastic anti-coincidence scintillator. There were 8 energy channels: 0.4&ndash;0.7 MeV, 0.7&ndash;1.0 MeV, 1&ndash;1.6 MeV, 1.6&ndash;2.4 MeV, 2.4&ndash;2.9 MeV, 2.9&ndash;3.9 MeV, 3.9&ndash;8.1 MeV, and 8.1&ndash;11.8 MeV. Counts were integrated for every 41 or 160 seconds, depending on the experiment mode."
+	}
+    ],
+  "highlights": [],
+  "archive": "",
+  "navigation": [
+    {
+      "url": "images/prognoz_images.html",
+      "text": "Gallery"
+    },
+    {
+      "url": "biblio/prognoz2_biblio.html",
+      "text": "Publications"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+1995AdSpR..15a..49D|Durgaprasad, N;Vahia, M;Biswas, S;Ramadurai, S;Singh, R;Yadav, J;Dutta, A;Goswami, J|Observation and implications of sub-iron and iron abundance ratios in low energy galactic cosmic rays.|4
+1993BASI...21..387B|Biswas, S;Durgaprasad, N;Singh, R;Vahia, M;Yadav, J;Dutta, A;Goswami, J|Observations of sub-iron (Sc-Cr) to iron (Fe) abundance ratios in the low energy (30 - 300 MeV/N) galactic cosmic rays in Spacelab-3 experiment and their implications.|0
+1993KosIs..31..118R|Ryabeva, R;Sibirtsev, A;Lakina, I;Samosadnyj, V|Neutron fluxes on board an orbital station|0
+1991MNRAS.253..123J|Judge, P;Carpenter, K;Harper, G|SI II emission line diagnostics.|15
+1989HeaPh..57..665W|Wilson, J;Townsend, L;Farhat, H|Cosmic-ray neutron albedo dose in low-earth orbits|3
+1988A&AS...72..249V|Vuillemin, A|Integrated UV magnitudes of the Large Magellanic Cloud associations.|7
+1988Ap&SS.149..163D|Durgaprasad, N;Biswas, S|Sub-iron to iron nuclei in low-energy (50 200 MeV nucl<SUP>-1</SUP>) cosmic rays as observed in the Skylab experiment|6
+1988ApJ...327.1026C|Combi, M;Smyth, W|Monte Carlo Particle Trajectory Models for Neutral Cometary Gases. I. Models and Equations|84
+1985Ge&Ae..25...29N|Nymmik, P|Atomic nuclei in the composition of the inner radiation belt of the earth.|2
+1982NewSc..93..720H|Henbest, N|The Universe in X-rays.|0
+1981AJ.....86.1658H|Henize, K;Wray, J;Parsons, S|A classification system for O - B2 stars based on the Si IV and C IV resonance lines.|22
+1981Natur.291...45F|Fowler, P;Walker, R;Masheder, M;Moses, R;Worley, A|Ultra-heavy cosmic ray studies with Ariel VI|18
+1980Ap&SS..71..203C|Carlqvist, P;Alfven, H|Energy Source of the Solar Wind|4
+1980SSRv...25..285B|Biswas, S;Durgaprasad, N|SKYLAB Measurements of Low Energy Cosmic Rays|18
+1979ApJ...234L.187W|Wray, J;Parsons, S;Henize, K|HD 149499B : the hottest white dwarf ?|19
+1979GeoRL...6..711P|Price, P|Possible detection of energetic Jovian heavy ions at Skylab orbit|1
+1979IJRSP...8..222D|Durgaprasad, N;Venkatavaradan, V;Sarkar, S;Biswas, S|Charge states of low energy cosmic rays in the SKYLAB experiment|0
+1978AJ.....83..172R|Roman, N|Spectral types for early-type stars observed by Skylab.|9
+1978ApJ...220..719S|Shirk, E;Price, P|Charge and energy spectra of cosmic rays with Z ⪆ 60: the Skylab experiment.|67
+1978ApJ...221..694B|Blake, J;Hainebach, K;Schramm, D;Anglin, J|Ultraheavy cosmic rays: theoretical implications of recent observations.|9
+1978GeoRL...5..589A|Agrawal, S;Lanzerotti, L;Venkatesan, D|Solar-polar coronal holes and the north-south cosmic ray gradient|11
+1977ApOpt..16..904S|Schumacher, R;Hunter, W|Thin aluminum filters for use on Apollo Telescope Mount XUV spectrograph.|11
+1977IJRSP...6..209B|Biswas, S;Durgaprasad, N;Sarkar, S;Venkatavaradan, V|Properties of low energy ions observed in the Skylab cosmic ray experiment.|0
+1976A&A....50..371D|Deharveng, J;Laget, M;Monnet, G;Vuillemin, A|Two UV colours of the central part of M31.|12
+1976ApJ...203..435P|Parsons, S;Wray, J;Kondo, Y;Henize, K;Benedict, G|Skylab ultraviolet stellar spectra: cool stars with hot secondaries.|22
+1976ApJ...206L..71P|Parsons, S;Henize, K;Wray, J;Benedict, G;Laget, M|Skylab ultraviolet stellar spectra: a new white dwarf, HD 149499 B.|14
+1976ApJ...208..468K|Kondo, Y;Parsons, S;Henize, K;Wray, J;Benedict, G;McCluskey, G|Skylab ultraviolet stellar spectra: emission lines from the Beta Lyrae system.|5
+1975ApJ...197L..19V|Vanderhill, M;Borken, R;Bunner, A;Burstein, P;Kraushaar, W|A search for stellar soft X-ray sources.|32
+1975ApJ...199L.119H|Henize, K;Wray, J;Parsons, S;Benedict, G;Bruhweiler, F;Rybski, P;O'Callaghan, F|Skylab ultraviolet stellar spectra: variation of intensity and structure of strong lines with temperature and luminosity.|41
+1975ApJ...199L.173H|Henize, K;Wray, J;Parsons, S;Benedict, G|Skylab ultraviolet stellar spectra: the Wolf-Rayet stars.|14
+1975IJRSP...4..210B|Biswas, S;Durgaprasad, N;Nevatia, J;Venkatavaradan, V|Low energy cosmic ray ions observed in the Skylab experiment.|0
+1975Natur.258..409B|Biswas, S;Nevatia, J;Durgaprasad, N;Venkatavaradan, V|Enhanced abundances of Ca, Ti and Cr in low energy cosmic rays in Skylab experiment|8
+1974Natur.252..667B|Brownlee, D;Tomandl, D;Hodge, P;Horz, F|Elemental abundances in interplanetary dust|15
+1974PhDT.........1V|Vanderhill, M|A Search for Soft Stellar X-Ray Sources.|1

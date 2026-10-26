@@ -1,0 +1,396 @@
+2021AAS...23721504V|Vargas, C;Hamden, E;Chung, H|Aspera: Revealing the Diffuse Universe|0
+2021AAS...23723101C|Chung, H;Vargas, C;Hamden, E;Aspera Team|Aspera: Instrument Overview and Performance|0
+2021EGUGA..2312956T|Titov, D;Bibring, J;Cardesin, A;Carter, J;Duxbury, T;Forget, F;Giuranna, M;Gonzalez-Galindo, F;Holmstrom, M;Jaumann, R;Maattanen, A;Martin, P;Montmessin, F;Orosei, R;Patzold, M;Plaut, J;Mex Sgs Team|Mars Express science highlights and future plans|0
+2021EPSC...15...87P|Perez-de-Tejada, H;Lundin, R|Southbound Displacement of Vortex Structures in the Venus wake|0
+2021EPSC...15..158T|Titov, D;Bibring, J;Cardesin, A;Carter, J;Duxbury, T;Forget, F;Giuranna, M;Gonzalez-Galindo, F;Holmstrom, M;Jaumann, R;Maattanen, A;Martin, P;Montmessin, F;Orosei, R;Patzold, M;Plaut, J;Mex Sgs Team|Mars Express science highlights and future plans|0
+2021EPSC...15..318R|Regan, C;Coates, A;Jones, G;Wellbrock, A;Holmstrom, M;Frahm, R|Investigating global scale dust storms on Mars with ASPERA-3|0
+2021EPSC...15..517P|Persson, M;Futaana, Y;Fedorov, A;Andre, N;Barabash, S|Structure of ion flows in the magnetotail of Venus|0
+2021SPIE11819E..03C|Chung, H;Vargas, C;Hamden, E;McMahon, T;Gonzales, K;Khan, A;Agarwal, S;Bailey, H;Behroozi, P;Brendel, T;Choi, H;Connors, T;Corlies, L;Corliss, J;Dettmar, R;Dolana, D;Douglas, E;Guzman, J;Hamara, D;Harris, W;Harshman, K;Hergenrother, C;Hoadley, K;Kidd, J;Kim, D;Li, J;Montoya, M;Sauve, C;Schiminovich, D;Selznick, S;Siegmund, O;Ward, M;Wolcott, E;Zaritsky, D|Aspera: the UV SmallSat telescope to detect and map the warm-hot gas phase in nearby galaxy halos|0
+2020AGUFMP047.0013D|Duru, F;De Boer, M;Filter, K;Whitlock, T|Local Electron Density Depletions in the Martian Ionosphere|0
+2020EGUGA..2218500V|Voshchepynets, A;Barabash, S;Holmstrom, M;Frahm, R;Kopf, A|Sounder Accelerated Particles at Mars: Observations, Mechanisms, and Applications|0
+2020EPSC...14...63P|Perez-de-Tejada, H;Lundin, R|Velocity vectors in the Venus wake unrelated to the J x B force|0
+2020EPSC...14..224S|Soret, L;Gerard, J;Schneider, N;Jain, S;Milby, Z|Characteristics of the Martian discrete auroral emissions observed with MAVEN-IUVS|0
+2020EPSC...14..344P|Persson, M;Futaana, Y;Ramstad, R;Masunaga, K;Nilsson, H;Fedorov, A;Barabash, S|Global Venus-solar wind coupling and oxygen ion escape|0
+2020EPSC...14..632M|Marin-Yaseli de la Parra, J;Cardesin-Moinelo, A;Merritt, D;Breitfellner, M;Castillo Fraile, M;Grotheer, E;Sitja, M;Muniz Solaz, C;Ravanis, E;Martin, P;Titov, D|Challenges for the New Science Campaigns in Mars Express future Mission Extensions|0
+2020EPSC...14..847S|Sultana, R;Beck, P;Poch, O;Schmitt, B;Maturilli, A;Alemanno, G;Helbert, J|Mid-IR emissivity of hyperfine small bodies analogues|0
+2019AGUFM.P33H3517C|Chu, F;Girazian, Z;Gurnett, D;Morgan, D;Halekas, J;Kopf, A;Ramstad, R;Duru, F|Solar Wind Interaction and Pressure Balance at the Dayside Ionopause of Mars|0
+2019AGUFM.P33H3525B|Barabash, S;Voshchepynets, A;Holmstrom, M;Frahm, R;Kopf, A|Sounder Accelerated Particles at Mars: Observations, Mechanism, and Applications|0
+2019AGUFMSM33C3206F|Futaana, Y;Persson, M;Masunaga, K;Kollmann, P;Barabash, S|Planetward flow in the Venusian magnetotail: Similarity to the Earth and difference from Mars|0
+2019ASPC..520...71Y|Yeghiazaryan, A|History of Astronomy: Per Aspera Ad Astra|0
+2019EGUGA..2111100T|Titov, D;Bibring, J;Cardesin, A;Duxbury, T;Forget, F;Giuranna, M;Gonzalez-Galindo, F;Holmstrom, M;Jaumann, R;Maattanen, A;Martin, P;Montmessin, F;Orosei, R;Patzold, M;Plaut, J;Mexsgs Team|Mars Express science highlights and future plans|0
+2019EGUGA..2118386V|Voshchepynets, A;Barabash, S;Holmstrom, M;Frahm, R;Kopf, A|Active experiments beyond the Earth: Effects of sounding radar operations in the ionospheres of Venus, Mars, and the Jovian system|0
+2019EPSC...13..172F|Futaana, Y;Persson, M;Nilsson, H;Holmstrom, M|The roadmap and status of the high-level data archive of ASPERA-3/IMA on Mars Express|0
+2019EPSC...13..334F|Futaana, Y;Barabash, S|Solar wind interaction with Venus upper atmosphere: A review of VEX/ASPERA-4 findings and future prospect|0
+2019LPICo2089.6071H|Holmstrom, M;Ramstad, R;Futaana, Y;Persson, M;Nilsson, H|High Level Datasets for ASPERA-3 IMA on Mars Express|0
+2018EGUGA..2016529T|Titov, D;Bibring, J;Cardesin, A;Duxbury, T;Forget, F;Giuranna, M;Gonzalez-Galindo, F;Holmstrom, M;Jaumann, R;Maattanen, A;Martin, P;Montmessin, F;Orosei, R;Patzold, M;Plaut, J;Mex Sgs Team|Mars Express science highlights and future plans|0
+2018EGUGA..2016996M|Maes, L;Fraenz, M;Dubinin, E;McFadden, J|The ionospheric composition of Mars and its dependence on the magnetic configuration.|0
+2018EPSC...12..383V|Voshchepynets, A;Barabash, S;Holmstrom, M;Ramstad, R;Stenberg Wieser, G;Frahm, R;Kopf, A;Gurnett, D|Ions accelerated by sounder-plasma interaction as observed by Mars Express|0
+2018cosp...42E3390T|Titov, D;Forget, F;Giuranna, M;Paetzold, M;Plaut, J;Jaumann, R;Duxbury, T;Montmessin, F;Bibring, J;Maattanen, A;Gonzalez-Galindo, F;Orosei, R;Holmstroem, M;Alejandro Cardesin, .;Martin, .|Atmospheric and aeronomy investigations by ESA's Mars Express|0
+2018fmee.confE..64H|Holmstrom, M;Ramstad, R;Barabash, S;Futaana, Y;Wang, X|The Mars EXPRESS/ASPERA-3 and Venus EXPRESS/ASPERA-4 Solar Wind Databases|0
+2017AGUFM.P11B2513M|Maes, L;Fraenz, M;Dubinin, E;Fedorov, A;McFadden, J|Ion composition of the upper ionospheres of Mars and Venus and of the ion outflow|0
+2017AGUFMSM33B2652S|Soobiah, Y;Espley, J;Connerney, J;Gruesbeck, J;DiBraccio, G;Schneider, N;Jain, S;Mitchell, D;Mazelle, C;Halekas, J;Andersson, L;Brain, D;Lillis, R;McFadden, J;Deighan, J;McClintock, B;Jakosky, B;Frahm, R;Winningham, D;Coates, A;Holmstrom, M|Particle and Fields Observations Associated with Discrete Aurora at Mars: A Dual Spacecraft Perspective Using MAVEN and MEX|0
+2017EGUGA..19.8408D|Dubinin, E;Fraenz, M;McFadden, J;Halekas, J;Epavier, F;Connerney, J;Brain, D;Jakosky, B;Andrews, D;Barabash, S|Effects of different drivers on ion fluxes at Mars. MARS EXPRESS and MAVEN observations|0
+2017EGUGA..1915392T|Titov, D;Bibring, J;Cardesin, A;Duxbury, T;Forget, F;Giuranna, M;Gonzalez-Galindo, F;Holmstrom, M;Jaumann, R;Maattanen, A;Martin, P;Montmessin, F;Orosei, R;Patzold, M;Plaut, J;MEx SGS Team|Mars Express recent findings and future plans|0
+2017EPSC...11..268F|Franco, A;Echer, E;Bolzam, M;Fraenz, M|Wavelet analysis of low frequency plasma oscillations in the magnetosheath of Mars|0
+2017EPSC...11..410H|Holmstrom, M;Futaana, Y;Barabash, S|Interaction between Mars' induced magnetosphere and the comet Siding Spring|0
+2017EPSC...11..509F|Futaana, Y;Holmstrom, M;Nilsson, H;Barabash, S|In situ plasma observations of comet Siding Spring encounter to Mars by ASPERA-3|0
+2017EPSC...11..948F|Fedorov, A;Knizhnikova, E;Barabash, S|Solar wind parameters near Mars and Venus obtained by Mars Express and Venus Express missions. Comparison with simulations and MAVEN data|0
+2017EPSC...11..949F|Fedorov, A;Knizhnikova, E;Barabash, S|Ion fluxes and ion distribution function moments in the Martian and Venusian magnetospheres for 2007 - 2017 time interval. The data of the ASPERA instrument onboard of Mars Express and Venus Express missions|0
+2017IAUS..328..230D|de Souza, A;Echer, E;Bolzam, M;Franz, M|A study on Electron Oscillations in the Magnetosheath of Mars with Mars Express observations|0
+2016AGUFM.P11D..05R|Ramstad, R;Barbash, S;Futaana, Y;Nilsson, H;Holmstrom, M|The Mars-Solar wind coupling function - Investigations with Mars Express|0
+2016AGUFM.P11D..08D|Dubinin, E;Fraenz, M;McFadden, J;Eparvier, F;Brain, D;Jakosky, B;Andrews, D;Barbash, S|Effects of Solar Irradiance on Ion Fluxes at Mars. MARS EXPRESS and MAVEN Observations|0
+2016AGUFM.P13A1878A|Andre, N;Holmberg, M;Modolo, R;Garnier, P;Steckiewicz, M;Andersson, L;Mazelle, C|Pressure balance boundaries on the dayside of Mars|0
+2016AGUFM.P13D..02H|Holmstrom, M;Futaana, Y;Barabash, S|Colliding Magnetospheres: Comet Siding Spring Flyby of Mars|0
+2016AGUFMSM41C2458P|Perez-de-Tejada, H;Lundin, R|Vortex structure in the Venus plasma wake|0
+2016DPS....4831006R|Ramstad, R;Barabash, S;Futaana, Y;Holmstrom, M|Solar wind dependent models for the shapes of the Martian plasma boundaries based on Mars Express measurements|0
+2016EGUGA..18..416S|Sanchez-Cano, B;Lester, M;Witasse, O;Mays, M;Hall, B;Milan, S;Cartacci, M;Blelly, P;Andrews, D;Opgenoorth, H;Odstrcil, D|Martian ionosphere response to solar wind variability during solar minimum|0
+2016EGUGA..18.3308L|Lundin, R|Martian Atmospheric and Ionospheric plasma Escape|0
+2016EGUGA..18.3530F|Frahm, R;Yamauchi, M;Winningham, J;Lundin, R;Sharber, J;Nilsson, H;Coates, A;Mukherjee, J|Observed Foreshock Ions which are Actually Behind the Martian Bow Shock|0
+2016EGUGA..18.6071N|Nilsson, H;Stenberg Wieser, G;Rojas-Castillo, D;Holmstrom, M;Futaana, Y;Behar, E|Ion flow patterns near Mars, Venus and a small scale comet: similarities and differences|0
+2016EGUGA..18.7145D|Dubinin, E;Fraenz, M;Andrews, D;Morgan, D|Ionosphere of Mars observed by Mars Express.|0
+2016EGUGA..18.8185F|Franz, M;Dubinin, E;Andrews, D;Nilsson, H;Fedorov, A|Ion Escape from Mars - Mars Express Data in the Light of MAVEN Observations|0
+2016EGUGA..1814576T|Titov, D;Bibring, J;Cardesin, A;Duxbury, T;Forget, F;Giuranna, M;Holmstroem, M;Jaumann, R;Martin, P;Montmessin, F;Orosei, R;Paetzold, M;Plaut, J;MEX SGS Team|Mars EXpress: status and recent findings|0
+2016cosp...41E.658G|Gerard, J;Bisikalo, D;Shematovich, V;Soret, L|Ultraviolet aurora on outer planets: morphology and remote sensing of electron precipitation|0
+2016cosp...41E1883T|Talha, M;Stenberg, G|Role of imf orientation in the precipitation of solar wind ions into the upper atmosphere of venus.|0
+2015AGUFM.P21A2088L|Leblanc, F|Mars heavy ion precipitating flux as measured by MAVEN|0
+2015AGUFM.P21C..03D|Duru, F;Gurnett, D;Morgan, D;Halekas, J;DeJong, W;Ertl, C;Venable, A;Wilkinson, C;Lundin, R;Frahm, R;Winningham, D;Plaut, J;Connerney, J;Espley, J;Mahaffy, P|Study by Mars Express of the Response of the Martian Ionosphere to a Strong CME Directly Detected by MAVEN on March 8<SUP>th</SUP>, 2015|0
+2015AGUFMSM14B..08H|Hall, B;Sanchez-Cano, B;Andrews, D;Lester, M;Opgenoorth, H;Nichols, J;Fraenz, M|Variation of Mars' Induced Magnetospheric Boundaries over the Last Solar Cycle|0
+2015AGUFMSM31A2479H|Holmstrom, M;Futaana, Y;Barabash, S|The Interaction Between the Magnetosphere of Mars and that of Comet Siding Spring|0
+2015AGUFMSM51C2570R|Ramstad, R;Barbash, S;Futaana, Y;Nilsson, H;Holmstrom, M|Effects of the crustal magnetic fields on the Martian atmospheric ion escape rate|0
+2015EGUGA..17.2295G|Guymer, G;Grande, M;Fraenz, M;Barabash, S;Zhang, T;Pinter, B|Transition Parameter applied to boundaries at Venus|0
+2015EGUGA..17.3473G|Gillmann, C;Golabek, G;Tackley, P|Long term evolution of surface conditions on Venus: effects of primordial and Late Heavy Bombardment impacts at different timescales.|0
+2015EGUGA..17.4117Y|Yamauchi, M;Hara, T;Lundin, R;Dubinin, E;Fedorov, A;Frahm, R;Futaana, Y;Holmstrom, M;Barabash, S|Strong Seasonal Variation of Martian Pick-up Ions and Reflected Ions|0
+2015EGUGA..17.5811F|Franz, M;Dubinin, E;Andrews, D;Nilsson, H;Fedorov, A|Cold Ion Escape from the Martian Ionosphere - 2005-2014|0
+2015EGUGA..17.6857W|Wang, X;Holmstroem, M|Martian oxygen escape rate as a function of upstream solar wind density: results from a hybrid model|0
+2015EGUGA..1712421S|Stenberg Wieser, G;Nilsson, H;Futaana, Y;Holmstrom, M;Barabash, S|Solar wind precipitation - a comparison between Mars and Venus|0
+2015EPSC...10...26V|Vech, D;Stenberg, G;Nilsson, H;Edberg, N;Opitz, A;Szego, K;Zhang, T;Futaana, Y|The effects of IMF sector boundary crossings on the induced magnetosphere of Venus|0
+2015EPSC...10..224G|Gerard, J;Soret, L;Lundin, R;Libert, L;Stiepen, A;Radioti, A;Bertaux, J;Shematovich, V;Bisikalo, D|The Mars aurora: UV detections and in situ electron flux measurements|0
+2015EPSC...10..597F|Franz, M;Dubinin, E;Andrews, D;Nilsson, H;Barabash, S;Fedorov, A|Cold Ion Escape from the Martian Ionosphere|0
+2015TESS....120202C|Collinson, G;Glocer, A;Grebowsky, J;Peterson, W;Frahm, R;Moore, T;Gilbert, L;Coates, A|Photoelectron reflection and scattering at Venus: an upper limit on the "polar wind" ambipolar electric field, and a new source of top-side ionospheric heating|0
+2014AGUFM.P42A..03S|Svedhem, H;Witasse, O;Bertaux, J;Bibring, J;Giuranna, M;Gurnett, D;Holmstrom, M;Jaumann, R;Montmessin, F;Morgan, D;Orosei, R|Mars Express Observations During Comet Siding Spring Mars Encounter|0
+2014AGUFM.P51B3931D|Dieval, C;Morgan, D;Andrews, D;Duru, F;Gurnett, D|Does the Precipitation of Solar Wind Plasma Cause the Ionospheric Upwellings Detected by MARSIS on the Dayside of Mars?|0
+2014AGUFM.P51B3941R|Ramstad, R;Barabash, S;Futaana, Y;Nilsson, H;Holmstrom, M|The Martian escape rate as a function of upstream solar conditions|0
+2014AGUFM.P53C4021G|Gillmann, C;Golabek, G;Tackley, P|Short and Long Term Effects of Meteoritic Impacts on the Evolution of Venus and Its Surface Conditions.|0
+2014AGUFM.P54A..04D|Duru, F;Gurnett, D;Morgan, D;Dieval, C;Pisa, D;Lundin, R|A Case Study of the Density Structure over a Vertical Magnetic Field Region in the Martian Ionosphere|0
+2014AGUFMSA51A4085G|Gray, C;Chanover, N;Slanger, T;Molaverdikhani, K;Hausler, B;Tellmann, S;Peter, K|Excitations From Impact: The Affect of CMEs on Venus' Mysterious Oxygen Green Line and Ionospheric Electrons. An Auroral Process?|0
+2014AGUFMSH51B4160T|Teodorescu, E;Echim, M;Munteanu, C;Zhang, T;Barabash, S;Budnik, E;Fedorov, A|Solar Wind Turbulence and Intermittency at 0.72 AU - Statistical Approach|0
+2014AGUFMSM51E4276P|Perez De Tejada, H;Lundin, R;Durand-Manterola, H;Reyes-Ruiz, M;Barabash, S;Zhang, T;Sauvaud, J|Solar Cycle Changes in the Position of the Intermediate Transition in the Venus Ionosheath.|0
+2014AGUFMSM51E4277K|Kollmann, P;Brandt, P;Futaana, Y;Fedorov, A|Ion flows in Venus' magnetotail|0
+2014DPS....4630205G|Gray, C;Chanover, N;Slanger, T;Molaverdikhani, K;Hausler, B;Tellmann, S;Peter, K;Witasse, O;Blelly, P;Garcia-Munoz, A|Venus's Mysterious Oxygen Green Line: An Auroral Process?|0
+2014EGUGA..16..745V|Vech, D;Szego, K;Opitz, A;Fraenz, M|Investigation of planetary space weather effects at Venus observed by the ASPERA-4 particle analyzer and the magnetometer flying onboard of Venus Express Mission|0
+2014EGUGA..16.2206G|Gillmann, C;Tackley, P;Golabek, G|Large impacts and the evolution of Venus; an atmosphere/mantle coupled model.|0
+2014EGUGA..16.2720S|Szego, K;Dobe, Z;Bebesi, Z;Coates, A;Foldy, L;Fraenz, M;Opitz, A;Vech, D|Ion heating near the ion composition boundary at Venus|0
+2014EGUGA..16.4546D|Dieval, C;Morgan, D;Duru, F;Gurnett, D|Plasma signatures in large Martian magnetic flux ropes: MARSIS/ASPERA-3 observations|0
+2014EGUGA..16.5771F|Franz, M;Dubinin, E;Andrews, D;Nilsson, H;Fedorov, A|Cold Ion Escape from the Martian Ionosphere|0
+2014EGUGA..16.7526B|Barabash, S;Holmstrom, M;Futaana, Y;Fedorov, A;Frahm, R;Franz, M;Dubinin, E|Phobos - solar wind interaction: Results from Mars Express for the closest-ever fly-by|0
+2014EGUGA..1611574T|Teodorescu, E;Echim, M;Munteanu, C;Voitcu, G;Zhang, T;Barabash, S;Budnik, E;Fedorov, A|Spectral analysis of the solar wind turbulence in the vicinity of Venus|0
+2014EGUGA..1613566D|Dwivedi, N;Schmid, D;Narita, Y;Volwerk, M;Delva, M;Voros, Z;Zhang, T|Can Venus magnetosheath plasma evolve into turbulence?|0
+2014EPSC....9...69P|Perez-de-Tejada, H;Lundin, R;Duran-Manterola, H;Reyes-Ruiz, M;Barabash, S;Zhang, T;Sauvaud, J|Solar cycle changes in the position of the intermediate transition in the Venus ionosheath.|0
+2014EPSC....9..669C|Coates, A;Wellbrock, A;Frahm, R;Winningham, J;Fedorov, A;Barabash, S;Lundin, R|Distant ionospheric photoelectron energy peak observations at Venus|0
+2014IAUS..293..329X|Xue, Y;Jin, S|Variations and Effects of the Venusian Bow Shock from VEX Mission|0
+2014cosp...40E.206B|Barabash, S|ENA diagnostic of the solar wind interaction with Mars and Venus|0
+2014cosp...40E.208B|Barabash, S|Ion escape from Venus|0
+2014cosp...40E2491P|Perez-de-Tejada, H;Reyes-Ruiz, M;Lundin, R;Durand-Manterola, H;Zhang, T;Barabash, S;Sauvaud, J|Comparative values of the dynamic pressure of planetary ions in the Venus wake|0
+2014cosp...40E3199S|Stenberg, G;Nilsson, H;Barabash, S;Holmstrom, M;Futaana, Y|Atmospheric escape and solar wind precipitation - a comparison between Mars and Venus|0
+2014cosp...40E3281T|Talha, M;Nilsson, H;Stenberg, G|Precipitation of solar wind ions in the venusian upper atmosphere, an aspera-4 investigation|0
+2013AGUFM.P12A..04N|Nemec, F;Morgan, D;Dieval, C;Gurnett, D;Futaana, Y|Enhanced ionization of the Martian nightside ionosphere during solar energetic particle events|0
+2013AGUFM.P21A1688A|Andrews, D;Brain, D;Grebowsky, J;Holmstrom, M;Lillis, R;Witasse, O;Morgan, D|Coordinated observations of the Martian ionosphere and induced magnetosphere with Mars Express and MAVEN|0
+2013AGUFM.P21A1690M|Molaverdikhani, K;Brain, D|Comparative study of Mars and Venus ionospheres using ionospheric photoelectron measurements by Mars and Venus Express|0
+2013AGUFM.P21A1697M|Morgan, D;Dieval, C;Gurnett, D;Lillis, R;Fillingim, M;Nemec, F|Constraining MarMCET Model Martian Nightside Electron Densities Using MARSIS Topside Sounding|0
+2013AGUFM.P21A1699K|Kollmann, P;Brandt, P|In situ and remote measurements of ions escaping from Venus|0
+2013AGUFM.P21A1712F|Frahm, R;Elliott, H;Winningham, J;Sharber, J;DeForest, C;Howard, T;Kallio, E;McKenna-Lawlor, S;Duru, F;Morgan, D;Coates, A;Odstrcil, D;Lundin, R;Futaana, Y;Barabash, S|Asymmetry of the Mars Ionosphere Boundary Altitude during a Solar Energetic Particle Event|0
+2013AGUFM.P21A1714L|Lester, M;Opgenoorth, H;Andrews, D;Dubinin, E;Edberg, N;Fraenz, M;Howard, T;Kofman, W;Lei, L;Lillis, R;Matta, M;Morgan, D;Nilsson, H;Opitz, A;Peter, K;Wild, J;Withers, P;Witasse, O|Reduced low energy electron counts and their relationship to crustal magnetic fields at Mars|0
+2013AGUFM.P23G..05G|Gillmann, C;Tackley, P;Golabek, G|Late Coupled Evolution of Venus' Atmosphere and the Effects of Meteoritic Impacts|0
+2013AGUSM.P31A..01P|Perez De Tejada, H;Durand-Manterola, H;Lundin, R;Barabash, S;Zhang, T;Reyes-Ruiz, M;Sauvaud, J|Magnetic energy density and plasma energy density in the Venus wake|0
+2013AGUSM.P31A..02D|Duru, F|Study on the Boundary between the Ionosphere and the Magnetosheath from the Disappearance and Reappearance of Electron Plasma Oscillations|0
+2013EGUGA..15..470R|Ramstad, R;Futaana, Y;Barabash, S;Nilsson, H;Fedorov, A;del Campo Barraza, S;Lundin, R;Schwingenschuh, K|Phobos 2/ASPERA data revisited: Planetary ion escape rate from Mars near the 1989 solar maximum|0
+2013EGUGA..15.3040M|McKenna-Lawlor, S;Kallio, E;Fram, R;Alho, M;Jarvinen, R;Dyadechkin, S;Simon Wedlund, C;Zhang, T;Collinson, G;Futaana, Y|High energy particles at Mars and Venus: Phobos-2, Mars Express and Venus Express observations and their interpretation by hybrid model simulations|0
+2013EGUGA..15.3425G|Gillmann, C;Tackley, P|Atmosphere/mantle coupling on Venus and long term planetary evolution.|0
+2013EGUGA..15.4019G|Galli, A;Wurz, P;Kollmann, P;Brandt, P;Bzowski, M;Sokol, J;Kubiak, M;Grigoriev, A;Barabash, S|Energetic Neutral Hydrogen Atoms from the Heliosphere Measured with ASPERA-3 and ASPERA-4|0
+2013EGUGA..15.4084F|Franz, M;Dubinin, E;Wei, Y;Morgan, D;Barabash, S;Lundin, R;Fedorov, A|Cold Ion Escape from the Martian Ionosphere|0
+2013EGUGA..15.9615W|Wei, Y;Fraenz, M;Dubinin, E;Zhang, T;Jarvinen, R;Wan, W;Kallio, E;Collinson, G;Barabash, S;Norbert, K;Woch, J;Lundin, R;delva, M|O+ pickup ions outside of Venus' bow shock: Venus Express observations|0
+2013EGUGA..1510309L|Lester, M;Opgenoorth, H;Andrews, D;Dubinin, E;Edberg, N;Fraenz, M;Howard, T;Kofman, W;Lei, L;Lillis, R;Matta, M;Morgan, D;Nilsson, H;Opitz, A;Peter, K;Wild, J;Withers, P;Witasse, O|Electron "holes" and crustal magnetic fields at Mars.|0
+2013EGUGA..1510734O|Opgenoorth, H;Andrews, D;Edberg, N;Lester, M;Franz, M;Witasse, O;Morgan, D|Impact of Solar Wind Variability on the Magnetosphere and Ionosphere at Mars|0
+2013EGUGA..1510832O|Opgenoorth, H;Andrews, D;Lester, M;Nilsson, H;Franz, M;Witasse, O;Morgan, D|The configuration of the induced Martian magnetosphere and ionosphere during quiet solar wind conditions|0
+2013EGUGA..1511798W|Withers, P;Matta, M;Lester, M;Andrews, D;Edberg, N;Nilsson, H;Opgenoorth, H;Dubinin, E;Fraenz, M;Howard, T;Kofman, W;Lei, L;Lillis, R;Morgan, D;Paetzold, M;Peter, K;Opitz, A;Witasse, O;Wild, J|Variability observed in the topside ionosphere of Mars during a multi-instrument campaign in March and April 2010|0
+2013EGUGA..1511988S|Stenberg, G;Dieval, C;Nilsson, H;Barabash, S;Futaana, Y|Solar wind ion precipitation on Mars|0
+2013EGUGA..1512178S|Stenberg, G;Gunell, H;Nilsson, H;Dieval, C|A possible Kelvin-Helmholtz instability at Mars?|0
+2013EGUGA..1512216S|Stenberg, G;Nilsson, H;Barabash, S;Futaana, Y;Fedorov, A|Statistical study of solar wind ion precipitation on Venus|0
+2013EGUGA..1512351S|Shematovich, V;Bisikalo, D;Stenberg, G;Barabash, S;Dieval, C;Gerard, J|He2+ transport in the Martian upper atmosphere with an induced magnetic field|0
+2013EGUGA..1512423L|Lundin, R;Barabash, S;Nilsson, H;Yamauchi, M;Dubinin, E|Mars Ion Outflow and Escape - Solar Cycle Dependence|0
+2013EGUGA..1514060E|Elliott, H;Frahm, R;Sharber, J;Howard, T;Odstrci, D;Opgenoorth, H;Andrews, D;Witasse, O;Franz, M|The Influence of Corotating Interaction Regions and High Speed Streams on Electrons in the Martian Magnetosheath and Ionosphere|0
+2013EGUGA..1514062F|Frahm, R;Howard, T;DeForest, C;Odstrcil, D;Kallio, E;Mckenna-Lawler, S;Barabash, S;Winningham, J;Sharber, J;Elliott, H|Plasma Characteristic Determination During the Coronal Mass Ejection Associated with the January 27, 2012 Solar Storm|0
+2013EPJWC..5308019H|Haungs, A|AugerNext: innovative research studies for the next generation ground-based ultra-high energy cosmic ray experiment|0
+2013EPSC....8..131P|Perez-de-Tejada, H;Durand-Manterola, H;Lundin, R;Barabash, S;Zhang, T;Sauvaud, J;Reyes-Ruiz, M|Magnetic energy density and plasma energy density in the Venus wake|0
+2013EPSC....8..266V|Vech, D;Fraenz, M|The effects of the May 2007 solar eruption on the induced magnetosphere of Venus|0
+2013EPSC....8..275G|Groller, H;Lichtenegger, H;Lammer, H;Shematovich, V|Escape of Hot O and C from the Atmosphere of Mars|0
+2013EPSC....8..439M|Masunaga, K;Futaana, Y;Stenberg, G;Barabash, S;Zhang, T;Fedorov, A;Okano, S;Terada, N|Dependence of O+ escape rate from the Venusian upper atmosphere on IMF directions|0
+2013EPSC....8..442W|Wang, X;Barabash, S;Futaana, Y|Spectral analysis of energetic neutral atoms emitted from Mars: MEX/ASPERA-3 results|0
+2013EPSC....8..461F|Franz, M;Dubinin, E;Wei, Y;Morgan, D;Andrews, D;Barabash, S;Lundin, R;Fedorov, A|Cold Ion Escape from Mars|0
+2013EPSC....8..753J|Jarvinen, R;Kallio, E;Dyadechkin, S;Simon Wedlund, C;Alho, M|Hybrid modelling studies of solar wind interactions at Venus and Mars|0
+2012AGUFM.P12B..03G|Gillmann, C;Tackley, P;Golabek, G|Venus as illustration of the importance of atmospheric evolution when modeling terrestrial planets and their surface conditions|0
+2012AGUFM.P13C1951P|Perez De Tejada, H;Lundin, R;Zhang, T;Sauvaud, J;Reyes-Ruiz, M|Solar Wind Driven Plasma Fluxes from the Venus Ionosphere|0
+2012AGUFM.P31B1897J|Jarvinen, R;Kallio, E;Fedorov, A;Zhang, T;Barabash, S;Dyadechkin, S|Global Hybrid Simulations of Planetary Oxygen Ion Energization in the Venusian Induced Magnetosphere|0
+2012AGUFM.P42B..03F|Futaana, Y;Barabash, S;Wieser, M;Wurz, P|Backscattering process from unmagnetized bodies: Comparing the interactions of the Moon and Phobos with the plasma environment|0
+2012AGUFMSA43C..03M|Molaverdikhani, K;Brain, D;Futaana, Y|Structure and variability of the Venus ionosphere inferred from photoelectron measurements by Venus Express|0
+2012AGUFMSA44A..05O|Opgenoorth, H;Andrews, D;Fraenz, M;Lester, M;Nilsson, H;Paetzold, M;Peters, K;Witasse, O|The configuration of the induced Martian magnetosphere and ionosphere during quiet solar wind conditions|0
+2012AGUFMSA51A2142M|Morgan, D;Gurnett, D;Duru, F;Dubinin, E;Fraenz, M;Opgenoorth, H;Andrews, D;Ulusen, D;Mitrofanov, I;Plaut, J|Effects of the June 2011 CME Observed by Mars Express Ionospheric Sounding|0
+2012AGUFMSM41B2219U|Ulusen, D;Luhmann, J;Ma, Y;Brain, D|Variability and IMF dependence of the dayside plasma events at Mars: Inferences from MHD model-satellite observation comparisons|0
+2012AGUFMSM41B2221M|Masunaga, K;Futaana, Y;Yamauchi, M;Barabash, S;Zhang, T;Fedorov, A;Okano, S;Terada, N|Oxygen ion escape from Venus: The acceleration mechanisms and the escape rate under different IMF configurations|0
+2012AGUFMSM41B2222F|Fraenz, M;Dubinin, E;Wei, Y;Woch, J;Morgan, D;Barabash, S;Lundin, R;Fedorov, A|Cold Ion Escape from the Martian Ionosphere|0
+2012EGUGA..14.1310L|Lundin, R;Barabash, S;Yamauchi, M;Nilsson, H;Dubinin, E;Winningham, D|Alfvèn wave acceleration and ion outflow from Mars|0
+2012EGUGA..14.1509M|McKenna-Lawlor, S;Kallio, E;Alho, M;Jarvinen, R;Afonin, V|Comparisons between in situ measurements of the magnetic shadowing of high energy ions at Mars and hybrid model simulations, using contemporary particle and field measurements to define the upstream interplanetary conditions|0
+2012EGUGA..14.4452D|Dubinin, E;Fraenz, M;Woch, J;Zhang, T;Wei, J;Fedorov, A;Barabash, S;Lundin, R|Induced magnetic fields at Venus and their effect on ion escape|0
+2012EGUGA..14.5642F|Franz, M;Dubinin, E;Wei, Y;Woch, J;Morgan, D;Barabash, S;Lundin, R;Fedorov, A|Ion escape from the Martian Ionosphere|0
+2012EGUGA..14.5713G|Gillmann, C;Tackley, P|Mantle dynamics and the atmospheres of Mars and Venus: implications for surface conditions and interactions.|0
+2012EGUGA..14.7731J|Jarvinen, R;Coates, A;Zhang, T;Barabash, S;Fedorov, A;Kallio, E|Can magnetic connectivity be used to interpret Venus Express photoelectron observations? - A global hybrid modelling study|0
+2012EGUGA..14.8635A|Andrews, D;Franz, M;Lester, M;Nilsson, H;Opgenoorth, H;Patzold, M;Peter, K;Witasse, O|The configuration of the induced Martian magnetosphere and ionosphere during quiet solar wind conditions|0
+2012EGUGA..14.8686A|Andrews, D;Franz, M;Nilsson, H;Opgenoorth, H;Witasse, O|Anomalous structures observed in the nightside Martian ionosphere with the Mars Express topside radar sounder|0
+2012EGUGA..14.9629O|Opgenoorth, H;Andrews, D;Edberg, N;Lester, M;Williams, A;Fraenz, M;Witasse, O;Duru, F;Morgan, D|Magnetospheric and Ionospheric Response to Solar Wind Variability at Mars|0
+2012EGUGA..14.9977W|Wang, X;Barabash, S;Futaana, Y;Grigoriev, A;Wurz, P|Global directional distribution of the hydrogen energetic neutral atom emission from Mars as measured by Mars Express ASPERA-3|0
+2012EGUGA..1410547M|Morgan, D;Gurnett, D;Duru, F;Dubinin, E;Fraenz, M;Opgenoorth, H;Withers, P;Mitrofanov, I;Plaut, J|Flare Effects in Mars's Ionosphere Observed by Mars Express Topside Sounding|0
+2012EGUGA..1410756S|Stenberg, G;Nilsson, H;Barabash, S;Futaana, Y|Precipitation of solar wind alpha-particles onto the ionospheres of Mars and Venus|0
+2012EGUGA..1411723N|Nordstrom, T;Stenberg, G;Nilsson, H;Barabash, S;Futaana, Y|Ion escape from Venus using statistical distribution functions|0
+2012LPICo1675.8058M|Molaverdikhani, K;Brain, D;Futaana, Y;Hara, T|Venus Ionophere Map Based on Photoelectron Measurements by Venus Express's ELS Instrument on ASPERA-4|0
+2012cosp...39.1855S|Sokol, J;McComas, D;Bochsler, P;Tokumaru, M;Wurz, P;Fujiki, K;Bzowski, M;Kubiak, M|Survival probabilities of ENAs in the heliosphere|0
+2012cosp...39.2267Z|Zhang, Y;Nilsson, H;Barabash, S;Li, L|Abundance of minor ion species at Mars: ASPERA-3 observations|0
+2012epsc.conf..102L|Lundin, R;Barabash, S;Winningham, D|Auroral plasma acceleration processes at Mars|0
+2012epsc.conf..124W|Wei, Y;Fraenz, M;Dubinin, E;Zhang, T;Wan, W;Barabash, S;Woch, J;Lundin, R|O+ pickup ions outside of Venus' bow shock: Venus Express observation|0
+2012epsc.conf..215M|Masunaga, K;Futaana, Y;Yamauchi, M;Barabash, S;Zhang, T;Fedorov, A;Okano, S;Terada, N|O+ acceleration by the local convection electric field: Venus Express observations|0
+2012epsc.conf..303P|Perez-de-Tejada, H;Lundin, R;Durand-Manterola, H;Barabash, S;Zhang, T;Sauvaud, J;Reyes-Ruiz, M|Planetary Ion fluxes in the Venus Wake|0
+2012epsc.conf..342J|Jarvinen, R;Coates, A;Zhang, T;Barabash, S;Fedorov, A;Kallio, E|Magnetic connectivity and photoelectrons in the Venus plasma environment|0
+2012epsc.conf..352D|Dubinin, E;Fraenz, M;Zhang, T;Wei, Y;Woch, J;Fedorov, A;Barabash, S;Lundin, R;Duru, F|Ionospheric magnetic fields and currents at Mars and Venus. Perspectives from MEX and VEX observations.|0
+2012epsc.conf..400N|Nilsson, H;Stenberg, G;Dieval, C;Yamauchi, M;Barabash, S;Lundin, R|Ion heating, acceleration and escape at Mars and Venus, similarities and differences|0
+2012epsc.conf..426F|Franz, M;Dubinin, E;Wei, Y;Woch, J;Morgan, D;Barabash, S;Fedorov, A|Cold Ion Escape from the Martian Ionosphere|0
+2012epsc.conf..541D|Dubinin, E;Fraenz, M;Wei, Y;Woch, J;Morgan, D;Zhang, T;Frdorov, A;Barabash, S;Lundin, R|CMEs impact Venus and Mars|0
+2012epsc.conf..670W|Wang, X;Barabash, S;Futaana, Y|Reduction of ENA emission above the magnetic anomalies on Mars: MEX/ASPERA-3 result|0
+2011AGUFM.P11G..05G|Gillmann, C;Tackley, P;Lognonne, P|Geodynamic evolution and the history of the atmospheres of Mars and Venus|0
+2011AGUFM.P21A1636M|McKenna-Lawlor, S;Kallio, E;Jarvinen, R;Afonin, V|Magnetic Shadowing of High Energy Ions at Mars, Comparisons Between SLED/Phobos-2 Observations and Simulations|0
+2011AGUFMNG23A1473H|Hara, T;Seki, K;Futaana, Y;Yamauchi, M;Yagi, M;Matsumoto, Y;Tokumaru, M;Fedorov, A;Barabash, S|Heavy-ion flux enhancement in the vicinity of the Martian ionosphere during CIR passage: Mars Express ASPERA-3 observations|0
+2011AGUFMSA12A..02P|Perez De Tejada, H;Durand, H;Lundin, R;Reyes-Ruiz, M|Experimental evidence of momentum transport in the Venus plasma wake|0
+2011AGUFMSA13A1867M|Masunaga, K;Futaana, Y;Yamauchi, M;Barabash, S;Zhang, T;Fedorov, A;Terada, N;Okano, S|O+ outflow channels around Venus controlled by directions of the interplanetary magnetic field|0
+2011AGUFMSA13A1882D|Duru, F;Gurnett, D;Morgan, D|Study on the Motion of the Magnetosheath Boundary at Mars from Disappearance and reappearance of Electron Plasma Oscillations|0
+2011AGUFMSM41A1995C|Collinson, G;Sibeck, D;Masters, A;Shane, N;Slavin, J;Coates, A;Zhang, T;Boardsen, S;Moore, T;Barabash, S|Hot Flow Anomalies at Venus|0
+2011arXiv1105.4524A|Amsler, C|Search for WIMPs in liquid argon|0
+2011epsc.conf..213D|Dubinin, E;Fraenz, M;Woch, J;Lundin, R;Wei, J;Barabash, S|Bursty Escape on Mars|0
+2011epsc.conf..477D|Delva, M;Frahm, R;Mazelle, C;Bertucci, C;Volwerk, M;Voros, Z|MAG and ELS investigation of proton cyclotron waves upstream of Venus|0
+2011epsc.conf..504F|Franz, M;Dubinin, E;Nielsen, E;Angsmann, A;Woch, J;Barabash, S;Lundin, R;Fedorov, A|Ionospheric dynamics at Mars and Venus|0
+2011epsc.conf..643G|Gurnett, D;Morgan, D;Duru, F;Lundin, R;Soobiah, Y|Radar observations of electron density enhancements associated with inverted-V electron precipitation on the nightside of Mars|0
+2011epsc.conf.1022A|Angsmann, A;Franz, M;Dubinin, E;Woch, J;Motschmann, U;Barabash, S;Zhang, T|Magnetic states of the ionosphere of Venus observed by Venus Express|0
+2011epsc.conf.1117S|Stenberg, G;Dieval, C;Nilsson, H;Kallio, E;Barabash, S;Futaana, Y;Shematovich, V;Bisikalo, D|Solar wind precipitation on Mars|0
+2011epsc.conf.1397O|Opgenoorth, H;Edberg, N;Lester, M;Williams, A;Franz, M;Witasse, O;Duru, F;Morgan, D|Mars Ionospheric Response to Solar Wind Variability|0
+2010AGUFM.P44A..04A|Angsmann, A;Fraenz, M;Dubinin, E;Woch, J;Krupp, N;Barabash, S;Paetzold, M;Zhang, T;Motschmann, U|Structure and Dynamics of the Upper Ionosphere of Venus|0
+2010AGUFM.P52A..11G|Gillmann, C;Lognonne, P;Moreira, M|Long Term Evolution of volatiles in the Martian Atmosphere Constrained by Isotopic Ratios: Degassing and Atmospheric Escape|0
+2010AGUFMSM33D..06D|Duru, F;Gurnett, D;Winningham, D;Frahm, R;Morgan, D|Nightside Ionosphere of Mars from Local Electron Plasma Oscillations: A General Overview and Electron Density Holes &amp; Gaps (Invited)|0
+2010AGUFMSM41B1877P|Perez de Tejada, H;Intriligator, D;Lundin, R;Reyes-Ruiz, M|Evidence of plasma vortices in the Venus plasma wake|0
+2010EGUGA..12.3439L|Lundin, R;Barabash, S;Perez-de Tejada, H;Sauvaud, J|A Solar Wind driver for the atmospheric super-rotation at Venus|0
+2010EGUGA..12.3465L|Lundin, R;Guglielmi, A|Alfvèn wave ion acceleration at Mars|0
+2010EGUGA..12.3973O|Opitz, A;Wurz, P;Sauvaud, J;Fedorov, A|Temporal evolution of the solar wind in the ecliptic between Venus and Mars orbits|0
+2010EGUGA..12.4524F|Franz, M;Dubinin, E;Nielsen, E;Angsmann, A;Woch, J;Barabash, S;Lundin, R;Fedorov, A|Cross-terminator flow in the ionosphere of Mars|0
+2010EGUGA..12.7957W|Wurz, P|ENA Observations from the near-Earth environment|0
+2010EGUGA..12.8551A|Angsmann, A;Dubinin, E;Fraenz, M;Woch, J;Barabash, S;Paetzold, M;Zhang, T|Structure and dynamics of the ionosphere of Venus|0
+2010EGUGA..12.9630S|Stenberg, G;Barabash, S;Nilsson, H;Fedorov, A;Brain, D|Solar wind alpha particle capture at Mars and Venus|0
+2010EGUGA..1212083W|Witasse, O;Chicarro, A|Mars Express - Status and Science Highlights after Six Years in Orbit|0
+2010EGUGA..1213065C|Coates, A;Tsang, S;Wellbrock, A;Frahm, R;Winningham, D;Barabash, S;Lundin, R;Young, D;Crary, F|Ionospheric photoelectrons: comparing Venus, Earth, Mars and Titan|0
+2010cosp...38.1395S|Stenberg, G;Barabash, S;Nilsson, H;Fedorov, A;Brain, D;Andre, M|Solar wind alpha particle capture at Mars and Venus|0
+2010cosp...38.1400C|Coates, A;Wellbrock, A;Tsang, S;Frahm, R;Winningham, D;Barabash, S;Lundin, R;Young, D;Crary, F|Ionospheric photoelectrons: comparing Earth, Venus, Mars and Titan|0
+2010cosp...38.1401D|Duru, F;Gurnett, D;Frahm, R;Winningham, D;Morgan, D;Howes, G|Steep, Transient Density Gradients in the Martian Ionosphere Similar to the Ionopause at Venus|0
+2010cosp...38.1408F|Fraenz, M;Dubinin, E;Angsmann, A;Nielsen, E;Woch, J;Barabash, S;Lundin, R;Fedorov, A|Cross-terminator ion flow in the ionospheres of Mars and Venus|0
+2010cosp...38.1411S|Simon, C;Leblanc, F;Gronoff, G;Witasse, O;Lilensten, J;Barthelemy, M;Bertaux, J|The Martian airglow: observations by Mars Express and kinetic modelling|0
+2010idm..confE.122B|Baudis, L|DARWIN: dark matter WIMP search with noble liquids|22
+2010jena.confE..98K|Katsanevas, S|ASPERA: Plans for astroparticle physics|0
+2009A&G....50d...6.||News and Views: Copernicus identified; ASPERA-2 launched; Milky Way movie; APEX: A new map of the cold dust in our galaxy; Subaru tackles a knotty problem; Star pair both have dust discs|0
+2009AGUFM.P11B1208P|Perez de Tejada, H;Lundin, R|MAGNUS FORCE EFFECTS IN THE ROTATING IONOSPHERES OF VENUS AND MARS|0
+2009AGUFM.P11B1209A|Aceves, H;Reyes-Ruiz, M;Perez de Tejada, H|Dynamics of pick-up ions in turbulent electromagnetic fields in the magnetic polar regions of Mars ionosheath|0
+2009AGUFM.P11B1212F|Fox, J;Hac, A|Photochemical Escape of Atomic Carbon from Mars|0
+2009AGUFM.P11B1217D|Dieval, C;Barabash, S;Nilsson, H;Futaana, Y;Holmstrom, M;Fedorov, A;Brain, D|Protons precipitation onto the Martian atmosphere: Mars Express observations|0
+2009AGUFM.P11B1220D|Duru, F;Gurnett, D;Frahm, R;Winningham, J;Morgan, D;Howes, G|Steep, Transient Density Gradients in the Martian Ionopshere Similar to the Ionopause at Venus|0
+2009AGUFM.P11B1224L|Lillis, R;Fillingim, M;Morgan, D;Brain, D;England, S;Gurnett, D|Data-model comparisons of the nightside ionosphere of Mars: joint constraints on neutral densities and electron temperatures|0
+2009AGUFM.P14B..01M|McEnulty, T;Luhmann, J;de Pater, I;Brain, D;Fedorov, A;Barabash, S;Zhang, T|Space Weather Influence on High Energy Pick-up Ions at Venus|0
+2009AGUFM.P14B..03F|Fraenz, M;Dubinin, E;Nielsen, E;Woch, J;Barabash, S;Lundin, R;Fedorov, A|Ion bulk flow in the ionospheres of Mars and Venus|0
+2009AGUFM.P14B..05D|Dubinin, E;Fraenz, M;Woch, J;Duru, F;Gurnett, D;Barabash, S;Lundin, R|A variety of escape channels on Mars and their effectiveness|0
+2009AGUFM.P43B1431F|Futaana, Y;Barabash, S;Holmstrom, M;Nilsson, H;Lundin, R|Strong interaction between Phobos and the solar wind|0
+2009AGUSM.P31A..01F|Frahm, R;Winningham, J;Sharber, J;Duru, F;Gurnett, D;Lundin, R;Coates, A;Tsang, S;Delva, M;Zhang, T|An Interaction Region Near the Top of the Ionosphere Observed at Mars and Venus|0
+2009AGUSMSH24A..01B|Brandt, P;Roelof, E;Wurz, P;Barabash, S;Bazell, D;Sotirelis, T;Demajistre, R;Decker, R|Energetic Neutral Atom (ENA) Imaging of the Heliosheath: Spectral Characteristics Across the Sky and Implications for Heliosheath Structure from Observations by the Neutral Particle Detector (NPD) on board Venus Express (VEX)|0
+2009EGUGA..11.2219N|Najib, D;Nagy, A;Toth, G;Ma, Y|3D, Multi-fluid, MHD Calculations of the Solar Wind Interaction with Mars and the Associated Plasma Escape.|0
+2009EGUGA..11.4505D|Dubinin, E;Fraenz, M;Woch, J;Duru, F;Gurnett, D;Modolo, R;Barabash, S;Lundin, R|Ionospheric storms on Mars|0
+2009EGUGA..11.4712W|Whittaker, I;Grande, M;Guymer, G|Understanding the Solar Wind interactions with the Venusian boundary layers|0
+2009EGUGA..11.4925F|Franz, M;Dubinin, E;Nielsen, E;Angsmann, A;Woch, J;Barabash, S;Lundin, R;Fedorov, A|Ion transport in the upper ionospheres of Mars and Venus|0
+2009EGUGA..11.5051A|Angsmann, A;Dubinin, E;Fraenz, M;Woch, J;Barabash, S;Paetzold, M;Zhang, T|Structure and Dynamics of the Upper Ionosphere of Venus|0
+2009EGUGA..11.5880L|Lundin, R;Barabash, S;Winningham, D|The variability, morphology and outflow of Martian ionospheric plasma|0
+2009EGUGA..11.6004W|Wood, A;Grande, M;Pryse, S;Whittaker, I;Coates, A;Shane, N|The Venus ionosphere in the northern polar region|0
+2009EGUGA..11.7759C|Chicarro, A|Mars Express - Scientific summary after five years in orbit|0
+2009EGUGA..11.8224B|Breen, A;Dorrian, G;Brown, D;Whittaker, I;Fallows, R;Davies, J;Roulliard, A|Interplanetary Scintillation, STEREO Heliospheric Imager and Venus Express ASPERA observations of solar wind structures in May 2007|0
+2009EGUGA..11.8300F|Fallows, R;Breen, A;Dorrian, G;Whittaker, I;Grande, M|A new view of solar wind structures: Combined interplanetary scintillation and STEREO HI studies of the inner solar wind|0
+2009EGUGA..11.8430F|Futaana, Y;Barabash, S;Holstrom, M;Nilsson, H|Ion observations close to Phobos: A new type of the solar wind interaction with a planetary body|0
+2009EGUGA..11.9588B|Brandt, P;Roelof, E;Wurz, P;Barabash, S;Bazell, D;Demajistre, R;Sotirelis, T;Decker, R|Energetic Neutral Atom (ENA) Imaging of the Heliosheath: Spectral Characteristics and Implications for Shock Acceleration from Observations by the Neutral Particle Detector (NPD) on board Venus Express (VEX)|0
+2009EGUGA..1111317Y|Yamauchi, M;Futaana, Y;Lundin, L;Fedorov, A;Sauvaud, J;Dubinin, E;Winningham, J;Frahm, R;Barabash, S;Holmstron, M|Ion Acceleration at Martian Bow Shock|0
+2008AGUFM.P13B1307P|Perez-de-Tejada, H;Lundin, R|Viscous Boundary Layer in the Venus Ionosheath: Evidence from the Venus Express Plasma Data|0
+2008AGUFM.P13B1310V|Volwerk, M;Delva, M;Futaana, Y;Voros, Z;Zhang, T;Baumjohann, W;Barabash, S|Current Sheets and Substroms in Venus' Magnetotail|0
+2008AGUFM.P13B1311W|Whittaker, I;Grande, M;Guymer, G;Pinter, B;Barabash, S;Federov, A;Mazelle, C;Sauvaud, J;Lundin, R;Russell, C;Futaana, Y;Franz, M;Zhang, T;Andersson, H;Brinkfeldt, K;Grigoriev, A;Holmstro M, M;Yamauchi, M;Asamura, K;Baumjohann, W;Lammer, H;Coates, A;Kataria, D;Linder, D;Curtis, C;Hsieh, K;Sandel, B;Gunell, H;Koskinen, H;Kallio, E;Riihela, P;Sales, T;Schmidt, W;Kozyra, J;Krupp, N;Woch, J;Luhmann, J;McKenna-Lawlor, S;Thocaven, J;Orsini, S;Cerulli-Irelli, R;Mura, M;Milillo, M;Maggi, M;Roelof, E;Brandt, P;Szego, K;Winningham, J;Frahm, R;Scherrer, J;Sharber, J;Wurz, P;Bochsler, P|The Effect Of Fast And Slow Solar Wind On The Venusian Upper Atmosphere.|0
+2008AGUFM.P13B1312T|Tsang, S;Coates, A;Jones, G;Frahm, R;Winningham, D;Fedorov, A;Barabash, S;Lundin, R|Photoelectrons at Venus in the Ionosphere and the Tail|0
+2008AGUFM.P13B1314J|Jarvinen, R;Kallio, E;Pohjola, V;Sillanpaa, I;Janhunen, P;Barabash, S;Zhang, T;Fedorov, A|A hybrid modelling case study of the Venus Express particle and magnetic observations|0
+2008AGUFM.P13B1316D|Duru, F;Gurnett, D;Frahm, R;Winningham, J|Evidence of a Transient Ionopause at Mars Identified from the Excitation of Local Electron Plasma Oscillations|0
+2008AGUFM.P13B1318L|Lillis, R;Fillingim, M;Peticolas, L;Kirchner, D;Safaeinili, A;Brain, D;Halekas, J|Modeling variability in the night side ionosphere of Mars|0
+2008AGUFM.P13B1321F|Frahm, R;Sharber, J;Winningham, J;Jeffers, S;Gonzalez, C;Scherrer, J;Link, R;Liemohn, M;Kozyra, J;Coates, A;Linder, D;Barabash, S;Lundin, R;Fedorov, A|Escape of Mars Photoionized Electrons from Carbon Dioxide and Atomic Oxygen in 2004|0
+2008AGUFM.P13B1322M|McEnulty, T;Luhmann, J;de Pater, I;Brain, D;Federov, A;Barabash, S;Zhang, T|Comparing ASPERA 3/4 Pick-up Ion Signatures at Mars and Venus|0
+2008AGUFM.P13B1325E|Edberg, N;Brain, D|A two-spacecraft study of the Martian magnetic pileup boundary: Mars Express and Mars Global Surveyor observations|0
+2008AGUFM.P33D..03G|Gillmann, C;Lognonne, P;Chassefiere, E;Moreira, M;Geenen, T;van den Berg, A|Mars: Volcanism and Young Atmosphere.|0
+2008AGUFM.P34B..04B|Balikhin, M|Venus Express Contribution to Space Plasma Physics|0
+2008AGUFM.P34B..05S|Szego, K;Bebesi, Z;Erdos, G;Coates, A;Fraenz, M;Fedorov, A;Hartle, R;Sittler, E;Wahlund, J;Zhang, T|Comparison of the tail region of Venus and Titan|0
+2008cosp...37..179B|Barabash, S|Ion escape at Venus and Mars. Measurements on the Mars and Venus Express missions|0
+2008cosp...37..180B|Barabash, S|Plasma and energetic neutrals at Venus as observed by ASPERA-4|0
+2008cosp...37..376B|Brain, D;Luhmann, J;Barabash, S;Fedorov, A;Winningham, D;Acuna, M;Frahm, R|Two spacecraft measurements of the Martian plasma environment|0
+2008cosp...37..535C|Chicarro, A|Mars Express - Science summary after four years in orbit|0
+2008cosp...37..760D|Dubinin, E|Solar wind electrons as tracers of magnetospheric boundaries and plasma processes within the Martian magnetosphere|0
+2008cosp...37..761D|Dubinin, E|Structure and dynamics of solar wind/ionosphere interaction on Mars from simultaneous measurements by ASPERA-3 and MARSIS on Mars Express|0
+2008cosp...37..926F|Fraenz, M;Dubinin, E;Martinecz, C;Roussos, E;Woch, J;Coates, A;Barabash, S;Lundin, R;Zhang, T|Plasma Boundaries at Mars and Venus|0
+2008cosp...37.1068G|Grande, M;Guymer, G;Barabash, S;Whittaker, I|Solar wind and planetary ion populations at Venus|0
+2008cosp...37.1878M|Maezawa, K|Tail Formation and Ion Escape Processes for Planets Having No Intrinsic Magnetic Field|0
+2008cosp...37.2391P|Perez-de-Tejada, H;Lundin, R;Reyes-Ruiz, M|Plasma channels in the magnetic polar regions of the Venus ionosphere|0
+2008cosp...37.3343A|Antunes Vieira, L;Russo, P;Dal Lago, A;Manoel, N;Titov, D|Solar and inner heliospheric conditions during an unusual Venus polar brightening|0
+2008cosp...37.3499W|Wurz, P;Galli, A;Grigoriev, A;Barabash, S|Energetic Neutral Atoms from the Heliosheath|0
+2008cosp...37.3500W|Wurz, P;Galli, A;Grigoriev, A;Holmstrom, M;Barabash, S|Tailward Flow of Energetic Neutral Atoms at Mars and Venus|0
+2008epsc.conf..232G|Gillmann, C;Lognonne, P;Chassefiere, E;Geenen, T;van den Berg, A|Late evolution of the Martian atmosphere.|0
+2008epsc.conf..739G|Guymer, G;Grande, M;Whittaker, I|Ion signatures of magnetic flux ropes in the Venusian ionosphere as observed by APSERA-4 and MAG onboard Venus Express|0
+2008epsc.conf..748D|Dubinin, E;Modolo, R;Fraenz, M;Woch, J;Duru, F;Akalin, F;Gurnett, D;Chanteur, G;Barabash, S;Lundin, R;Frahm, R|Plasma environment of Mars as observed by simultaneous MEX-ASPERA-3 and MEX-MARSIS observations|0
+2008epsc.conf..754G|Grande, M;Whittaker, I;Guymer, G;Barabash, S|Venusian ion populations and bow shock as seen by the ASPERA-4 ion instrument on Venus Express|0
+2008epsc.conf..763L|Liu, K;Jarvinen, R;Kallio, E;Janhunen, P;Galli, A;Wurz, P;Barabash, S|Hybrid simulations of the hydrogen energetic neutral atoms at Mars|0
+2008epsc.conf..767S|Szego, K;Bebesi, Z;Dobe, Z;Franz, M;Fedorov, A;Barabash, S;Coates, A;Zhang, T|The O+ ion flow below the magnetic barrier at Venus|0
+2008epsc.conf..774M|Martinecz, C;Boeswetter, A;Franz, M;Roussos, E;Krupp, N;Woch, J;Dubinin, E;Motschmann, U;Wiehle, S;Simon, S;Barabash, S;Lundin, R;Zhang, T;Lammer, H;Lichtenegger, H;Kulikov, Y|The plasma environment of Venus: comparison of Venus Express ASPERA-4 measurements with 3D hybrid simulations|0
+2008epsc.conf..777F|Fedorov, A;Barabash, S;Ferrier, C;Sauvaud, J;Zhang, T|Venus Ions Loss as Seen From ASPERA-4 Data|0
+2008epsc.conf..779A|Angsmann, A;Dubinin, E;Franz, M;Martinecz, C;Woch, J;Barabash, S;Patzold, M;Zhang, T|Structure and Dynamics of the Ionopause of Venus|0
+2008epsc.conf..781F|Franz, M;Angsmann, A;Dubinin, E;Martinecz, C;Woch, J;Barabash, S;Lundin, R;Fedorov, A|Ion density and transport in the upper ionospheres of Mars and Venus|0
+2007AGUFM.P23A1087F|Futaana, Y;Barabash, S;Yamauchi, M;Lundin, R;McKenna-Lawlor, S|Geo-Effective Solar Flare Events In December 2006: Space Weather Effect on Mars and Venus Oxygen Loss to Space|0
+2007AGUFM.P31C0554G|Gillmann, C;Lognonne, P;Chassefiere, E|The Evolution of the Past Atmosphere of Mars|0
+2007AGUFM.P33B1301G|Guicking, L;Glassmeier, K;Auster, H;Zhang, T;Delva, M;Fraenz, M;Martinecz, C|Plasma Wave Activity Near Venus as Seen by the Venus Express Spacecraft|0
+2007AGUFM.P33B1302P|Perez-de-Tejada, H;Lundin, R;Reyes-Ruiz, M|Solar Wind Plasma Pile-up at the Magnetic Polar Regions of the Venus Ionosphere: Viscous Force Effects|0
+2007AGUFM.P41A0195F|Frahm, R;Winningham, J;Sharber, J;Lundin, R;Nilsson, H;Barabash, S;Coates, A;Linder, D;Fedorov, A;Sauvaud, J|Simultaneous Photoelectron and Ion Measurements in the Martian Tail|0
+2007AGUFM.P41B..01S|Svedhem, H;Witasse, O|Venus Express|0
+2007AGUFMSH13B..04G|Galli, A;Fok, M;Wurz, P;Barabash, S;Grigoriev, A;Futaana, Y;Holmstrom, M;Gunell, H|A Review on the First ENA Observations at Mars and Venus|0
+2007AGUFMSM53C1409M|Martinecz, C;Fraenz, M;Krupp, N;Woch, J;Dubinin, E;Roussos, E;Barabash, S;Motschmann, U;Boesswetter, A;Simon, S;Lammer, H;Lichtenegger, H;Zhang, T;Kulikov, Y;Paetzold, M;Bird, M|The Plasma Environment Of Venus: Comparison Of Venus Express Aspera-4 Measurements With 3D Hybrid Simulations|0
+2007AGUSMSA33C..02L|Lundin, R;Perez-de-Tejada, H;Barabash, S;Nilsson, H;Yamauchi, M|Solar Forcing and the Variability of the Planetary Ion Escape from Mars|0
+2007AGUSMSA33C..08B|Brain, D;Luhmann, J;Halekas, J;Mitchell, D;Lin, R;Barabash, S;Zhang, T;Frahm, R;Winningham, D|Angular Electron Distributions at Mars and Venus|0
+2007AGUSMSM23B..07F|Frahm, R;Winningham, J;Sharber, J;Jeffers, S;Coates, A;Linder, D;Team, A|Observations of Photoelectron Energy Peaks Below 400 km in the Dayside Ionosphere of Mars|0
+2007AGUSMSM34A..03L|Liemohn, M;Ma, Y;Kozyra, J;Nagy, A;Winningham, J;Frahm, R;Sharber, J;Barabash, S;Lundin, R|Numerical Simulations of the Magnetic Topology Near Mars Auroral Observations|0
+2007DPS....39.4510S|Svedhem, H|Status and Latest Results of Venus Express|0
+2007DPS....39.5804L|Luhmann, J;Brain, D;Ledvina, S;Barabash, S;Carlsson, E;Futaana, Y;Fedorov, A;Zhang, T;Russell, C|Venus Express Observations of Venus Atmospheric Escape During the Passage of Several Coronal Mass Ejections|0
+2007epsc.conf..816G|Grande, M;Whittaker, I;Guymer, G;Barrabash, S;Penou, E|Position of heavy ions populations relative to Venusian boundary layers|0
+2007epsc.conf..841F|Franz, M;Dubinin, E;Martinecz, C;Roussou, E;Woch, J;Barabash, S;Coates, A;Fedorov, A;Frahm, R;Lundin, R;Winningham, D|Plasma Moments in the Environment of Mars and Venus|0
+2007epsc.conf..846M|Martinecz, C;Fraenz, M;Woch, J;Krupp, N;Roussos, E;Dubinin, E;Motschmann, U;Boeswetter, A;Simon, S;Barabash, S|The plasma environment of Venus: Comparison of Venus Express ASPERA-4 measurements with 3D hybrid simulations|0
+2007epsc.conf..872J|Jarvinen, R;Kallio, E;Barabash, S;Zhang, T;Fedorov, A;Sillanpaa, I;Janhunen, P|Venus-solar wind interaction in a hybrid plasma simulation model|0
+2007epsc.conf..884R|Roussos, E;Fraenz, M;Dubinin, E;Martinecz, C;Motschmann, U;Barabash, S;Woch, J;Lundin, R;Frahm, R;Winningham, J|Energetic electron asymmetries at Mars: Mars Express ASPERA-3 observations|0
+2007jena.confR..87B|Berghofer, T|ASPERA - A European Network for Astroparticle Physics|0
+2007tmpe.book...39K|Kallio, E;Fedorov, A;Barabash, S;Janhunen, R;Koskinen, H;Schmidt, W;Lundin, R;Gunell, H;Holmstrom, M;Futaana, Y;Yamauchi, M;Grigoriev, A;Winningham, J;Frahm, R;Sharber, J|Energisation of O<SUP>+</SUP> and O{<SUB>2</SUB>/<SUP>+</SUP>} Ions at Mars: An Analysis of A 3-D Quasi-Neutral Hybrid Model Simulation|0
+2007tmpe.book...63L|Liemohn, M;Ma, Y;Frahm, R;Fang, X;Kozyra, J;Nagy, A;Winningham, J;Sharber, J;Barabash, S;Lundin, R|Mars Global MHD Predictions of Magnetic Connectivity between the Dayside ionosphere and the Magnetospheric Flanks|1
+2007tmpe.book..113B|Barabash, S;Lundin, R;Andersson, H;Brinkfeldt, K;Grigoriev, A;Gunell, H;Holmstrom, M;Yamauchi, M;Asamura, K;Bochsler, P;Wurz, P;Cerulli-Irelli, R;Mura, A;Milillo, A;Maggi, M;Orsini, S;Coates, A;Linder, D;Kataria, D;Curtis, C;Hsieh, K;Sandel, B;Frahm, R;Sharber, J;Winningham, J;Grande, M;Kallio, E;Koskinen, H;Riihela, P;Schmidt, W;Sales, T;Kozyra, J;Krupp, N;Woch, J;Livi, S;Luhmann, J;McKenna-Lawlor, S;Roelof, E;Williams, D;Sauvaud, J;Fedorov, A;Thocaven, J|The Analyzer of Space Plasmas and Energetic Atoms (ASPERA-3) for the Mars Express Mission|0
+2007tmpe.book..165F|Franz, M;Dubinin, E;Roussos, E;Woch, J;Winningham, J;Frahm, R;Coates, A;Fedorov, A;Barabash, S;Lundin, R|Plasma Moments in the Environment of Mars|1
+2007tmpe.book..209D|Dubinin, E;Franz, M;Woch, J;Roussos, E;Barabash, S;Lundin, R;Winningham, J;Frahm, R;Acuna, M|Plasma Morphology at Mars. ASPERA-3 Observations|1
+2007tmpe.book..267G|Galli, A;Wurz, P;Barabash, S;Grigoriev, A;Gunell, H;Lundin, R;Holmstrom, M;Fedorov, A|Energetic Hydrogen and Oxygen Atoms Observed on the Nightside of Mars|1
+2007tmpe.book..299G|Grigoriev, A;Futaana, Y;Barabash, S;Fedorov, A|Observations of the Martian Subsolar ENA Jet Oscillations|0
+2007tmpe.book..315F|Futaana, Y;Barabash, S;Grigoriev, A;Winningham, D;Frahm, R;Yamauchi, M;Lundin, R|Global Response of Martian Plasma Environment to an Interplanetary Structure: From ENA and Plasma Observations at Mars|0
+2007tmpe.book..447G|Galli, A;Wurz, P;Lammer, H;Lichtenegger, H;Lundin, R;Barabash, S;Grigoriev, A;Holmstrom, M;Gunell, H|The Hydrogen Exospheric Density Profile Measured with ASPERA-3/NPD|0
+2007xmm..pres...33.||ESA to present the latest Venus Express results to the media|0
+2006AGUFM.P13D..01C|Chicarro, A|Mars Express ? Scientific Overview After Three Years in Orbit|0
+2006AGUFM.P14A..07S|Soobiah, Y;Coates, A;Winningham, D;Frahm, R;Lundin, R;Barabash, S|Altitude Dependence of Electron Signatures from 2004-2006 in Mars Express ASPERA-3 ELS Data|0
+2006AGUFM.P14A..08B|Brain, D;Luhmann, J;Halekas, J;Frahm, R;Winningham, D;Barabash, S|Simultaneous Mars Express / MGS observations of plasma near Mars|0
+2006AGUFM.P23D0081C|Carlsson, E;Barabash, S;Fedorov, A;Budnik, E;Grigoriev, A;Lundin, R|Analysis of the Mass Composition of the Escaping Plasma at Mars|0
+2006AGUFM.P23D0083K|Kallio, E;Fedorov, A;Barabash, S;Lundin, R;Frahm, R;Winningham, D;Futaana, Y;Yamauchi, M;Gunell, H;Holmstrom, M;Grigoriev, A;Jarvinen, R;Sillanpaa, I;Janhunen, P|ASPERA-3 Observations at Mars and Their Interpretation by a Global QNH model|0
+2006AGUFM.P23D0085L|Liemohn, M;Frahm, R;Kozyra, J;Ma, Y;Nagy, A;Winningham, D;Sharber, J;Barabash, S;Lundin, R|Probing the Mars-Solar Wind Interaction With Numerical Modeling of High-Altitude Photoelectrons|0
+2006AGUFM.P23D0086F|Futaana, Y;Barabash, S;Grigoriev, A|Precipitation of the solar wind ENAs and protons into Martian exosphere|0
+2006AGUFM.P23D0087B|Boesswetter, A;Simon, S;Motschmann, U;Bagdonat, T;Lammer, H|Three-dimensional Hybrid Simulations of the Evolution of the Martian Plasma Environment|0
+2006AGUFM.P42A..01F|Fedorov, A;Barabash, S;Sauvaud, J;Zhang, T;Lundin, R;Ferrier, C;Mazelle, C|A Comparative Analysis of the Venus and Mars Magnetotail ion Flows. First Data From the IMA (ASPERA-4, Venus Express) Mass Spectrometer Compared With Mars Express.|0
+2006AGUFM.P42A..04S|Sauvaud, J;Barabash, S;Mazelle, C;Zhang, T;Lundin, R;Fedorov, A;Ferrier, C;Coates, A|Plasma Regimes Around Venus: VEX Insight on the Boundary Separating Solar and Planetary Plasmas.|0
+2006AGUFM.P51B1193G|Grigoriev, A;Sotirelis, T;Roelof, E;Brandt, P;Barabash, S;Vandegriff, J|Energetic Neutral Atom observations at Venus from the Aspera-4 Experiment on Venus Express|0
+2006AGUFM.P51B1195J|Jarvinen, R;Barabash, S;Zhang, T;Fedorov, A;Kallio, E;Sillanpaa, I;Janhunen, P|Hybrid Modelling Study of the Plasma Interaction Between Venus and the Solar Wind|0
+2006AGUFMSH52A..05W|Wood, B|Constraints on Local ENA Fluxes from HST Lyman-alpha Data|0
+2006AIPC..858..269W|Wurz, P;Galli, A;Barabash, S;Grigoriev, A|Energetic neutral atoms from the heliosheath|5
+2006DPS....38.0903S|Svedhem, H;Titov, D;Barabash, S;Bertaux, J;Drossart, P;Formisano, V;Hausler, B;Markiewicz, W;Piccioni, G;Zhang, T;Witasse, O|Venus Express: Mission Status and First Results|0
+2006DPS....38.6021B|Brain, D;Luhmann, J;Halekas, J;Frahm, R;Winningham, J;Barabash, S|Multi-spacecraft Observations of the Martian Plasma Interaction|0
+2006cosp...36.1520K|Kallio, E;Fedorov, A;Budnik, E;Barabash, S;Jarvinen, R;Janhunen, P|on escape at Mars: IMA/ASPERA-3/MarsExpress observations and QNH-model simulations|0
+2006cosp...36.2029D|Dubinin, E;Fraenz, M;Woch, J;Barabash, S;Lundin, R|Ion distributions upstream and downstream of the martian bow shock. ASPERA-3 observations|0
+2006cosp...36.2035D|Dubinin, E;Fraenz, M;Woch, J;Roussos, E;Barabash, S;Lundin, R;Winningham, J;Frahm, R;Acuna, M|Plasma domains at Mars. Their boundaries and solar wind and IMF control of them|0
+2006cosp...36.2338G|Gunell, H;Nilsson, H;Amerstorfer, U;Carlsson, E;Grima, C;Aspera-3 Team|Plasma instabilities near Mars|0
+2006cosp...36.2395F|Futaana, Y;Barabash, S;Grigoriev, A;Aspear-3 Team|Response of the subsolar ENA jet flux caused by an interplanetary shock|0
+2006cosp...36.2441B|Barabash, S;Sauvaud, J;Aspera-4,|The latest results on the energetic neutral atoms and plasma of Venus from the ASPERA-4 instrument of Venus Express|0
+2006cosp...36.2556C|Collier, M;Holmstrom, M;Barabash, S;Brinkfeldt, K;Moore, T;Simpson, D|Observations downstream of the heliospheric neutral atom flow at Earth and Mars|0
+2006cosp...36.3672S|Svedhem, H;Titov, D;Barabash, S;Bertaux, J;Drossart, P;Formisano, V;Hausler, B;Markiewicz, W;Piccioni, G;Zhang, T;Witasse, O|Venus Express first results - An Overview|0
+2006cosp...36.3731B|Barabash, S;Sauvaud, J;Aspera-4 Team|Energetic neutral atoms and plasma of Venus from the ASPERA-4 instrument|0
+2006epsc.conf...35W|Wurz, P;Galli, A;Barabash, S;Grigoriev, A;Gunell, H;Lundin, R;Holmstrom, M;Fedorov, A|Energetic hydrogen and oxygen atoms at the nightside of Mars|0
+2006epsc.conf...61M|Martinecz, C;Fraenz, M;Woch, J;Krupp, N;Dubinin, E;Roussos, E;Barabash, S;Lundin, R|Plasma boundaries around Venus|0
+2006epsc.conf...75J|Jarvinen, R;Barabash, S;Zhang, T;Sillanpaa, I;Kallio, E;Janhunen, P|Hybrid modelling of the plasma interaction between Venus and the solar wind|0
+2006epsc.conf..166B|Barabash, S;Sauvaud, J;Fedorov, A;Aspera-4,|The first results from the ASPERA-4 instrument of Venus Express|0
+2006epsc.conf..169B|Barabash, S|ENA diagnostics of the solar wind interaction with planetary bodies|1
+2006epsc.conf..221D|Dubinin, E;Fraenz, M;Woch, J;Barabash, S;Lundin, R;Yamauchi, M|Hydrogen exosphere at Mars. Pickup protons and their interaction at the bow shock|0
+2006epsc.conf..224F|Fedorov, A;Barabash, S;Sauvaud, J;Lundin, R;Aspera,|Venus and Mars plasma environments. A comparative analysis of IMA (ASPERA-4, ASPERA-4) mass spectrometer data onboard Venus Express and Mars Express.|0
+2006epsc.conf..280B|Barabash, S;Fedorov, A;Lundin, R;Sauvaud, J|Mars Express measurements of the Martian atmospheric erosion rates induced by the solar wind interaction|0
+2006epsc.conf..289B|Boesswetter, A;Simon, S;Fraenz, M;Krupp, N;Woch, J;Roussos, E;Bagdonat, T;Motschmann, U|The Martian Plasma Environment: Comparison of Mars-Express ASPERA-3 measurements with 3d hybrid simulations|0
+2006epsc.conf..531F|Franz, M;Dubinin, E;Krupp, N;Martinecz, C;Roussos, E;Woch, J;Barabash, S;Lundin, R;Aspera3-Team|Ion moments and pressure balance in Mars magnetosphere|0
+2006epsc.conf..534R|Roussos, E;Fraenz, M;Dubinin, E;Woch, J;Martinecz, C;Barabash, S;Lundin, R;Aspera-3 Team|Asymmetries in the Mars-solar wind interaction: Mars Express ASPERA-3 obsevations|0
+2006xmm..pres....2.||ESA's Venus Express to reach final destination|0
+2006xmm..pres...13.||Europe Scores New Planetary Success: Venus Express Enters Orbit around the Hothouse Planet|0
+2005AGUFM.P13C..01C|Chicarro, A|Mars Express Scientific Overview After One Martian Year in Orbit|0
+2005AGUFMSH11B0265C|Collier, M;Holmstrom, M;Barabash, S;Brinkfeldt, K;Moore, T;Simpson, D|Mars Express/ASPERA-3/NPI and IMAGE/LENA Observations Downstream of the Heliospheric Neutral Atom Flow|0
+2005AGUFMSH42A..02B|Barabash, S|ASPERA-3 onboard Mars Express: instrument, operations, and the first scientific results at the end of the nominal mission|0
+2005AGUFMSH42A..03W|Winningham, J;Frahm, R;Sharber, J;Liemohn, M;Ma, Y;Coates, A;Linder, D;Soobiah, Y;Team, A|Electron Observations Near ``Martian Aurora''|0
+2005AGUFMSH42A..04G|Grigoriev, A;Barabash, S;Futaana, Y|Oscillations of the ENA Flux From the Subsolar Region at Mars|0
+2005AGUFMSH42A..05F|Fedorov, A;Sauvaud, J;Budnik, E;Barabash, S;Lundin, R;Acuna, M;Mazelle, C|Ion flow in the Martian wake. One and half year of IMA (ASPERA-3, Mars Express) measurements.|0
+2005AGUFMSH43A1138J|Jarvinen, R;Kallio, E;Janhunen, P|Venus-Solar Wind Interaction: The Role of Upstream Parameters and the Escape of Oxygen Ions|0
+2005AGUFMSH43A1142F|Fraenz, M;Roussos, E;Duninin, E;Woch, J;Barabash, S;Team, A|Variations of the Location of the Induced Magnetospheric Boundary at Mars - Mars Express Aspera-3 Observations|0
+2005AGUFMSH43A1147F|Frahm, R;Winningham, J;Sharber, J;Liemohn, M;Ma, Y;Coates, A;Linder, D;Soobiah, Y;Team, A|Atmospheric Carbon Dioxide Photoelectron Energy Peaks: An Indicator of the Morphology of Solar Wind Influence on the Martian Environment|0
+2005AGUFMSH43A1149M|Milillo, A;Orsini, S;Mura, A;Massetti, S;Barabash, S|MEX/ASPERA-3/NPD e NPI data statistical analysis|0
+2005AGUFMSH43A1150F|Futaana, Y;Barabash, S;Grigoriev, A|Sudden Reconfiguration of the Sub-Solar ENA Jet/Cone Geometry at Mars Caused by an Interplanetary Shock|0
+2005AGUFMSH43A1152S|Soobiah, Y;Coates, A;Winningham, D;Frahm, R;Lundin, R;Barabash, S|Observations of Magnetic Anomaly Signatures in Mars Express ASPERA-3 ELS Data|0
+2005AGUFMSH43A1154W|Woch, J;Dubinin, E;Fraenz, M;Roussos, E;Lundin, R;Barabash, S;Winningham, J|Ion Extraction on Mars. ASPERA-3 Observations|0
+2005AGUSMSA32A..05L|Liemohn, M;Ma, Y;Kozyra, J;Nagy, A;Frahm, R;Winningham, J;Sharber, J;Barabash, S;Lundin, R;Team, T|MHD and kinetic modeling analysis of high-altitude photoelectron observations at Mars|0
+2005AGUSMSA41A..01F|Frahm, R;Winningham, J;Sharber, J;Persson, K;Linder, D;Coates, A;Link, R;ASPERA Team|ASPERA-3 ELS Measurements of Photoelectrons from Carbon Dioxide at Mars|0
+2005DPS....37.3227S|Soobiah, Y;Southwest Research Institute Team;Swedish Institute of Space Physics Team;Finnish Meteorological Institute Team;Space Physics Research Laboratory, U;Space Science Laboratory, U;Applied Physics Laboratory, J;Rutherford Appleton Laboratory Team;Centre d'Etude Spatiale des Rayonnements Team;Instituto di Fisica dello Spazio Interplanetari Team;Max-Planck-Institut fur Aeronomie Team;Institute of Space,;Astronautical Science Team;Space Technology Ireland, N;University of Bern, P;Technical University of Braunschweig Team;University of Arizona, T|Observations of magnetic anomaly signatures in Mars Express ASPERA-3 ELS data|0
+2005DPS....37.5402T|Titov, D;Svedhem, H;Venus Express Team|Venus Express - the First European Mission to Venus|0
+2005xmm..pres...50.||Venus Express en route to probe the planet's hidden mysteries|0
+2004AGUFMSA12A..03B|Barabash, S|ASPERA-3 First Results on Energetic Neutral Atom Imaging at Mars|0
+2004AGUFMSA12A..04K|Kallio, E;ASPERA Team|Latest Results From ASPERA and Implications for Atmospheric Loss|0
+2004AGUFMSA13A1114L|Lundin, R|Low-Altitude Ionospheric Plasma Energization at Mars - ASPERA-3 Findings|0
+2004AGUFMSA13A1117F|Frahm, R;Winningham, J;Sharber, J;Linder, D;Coates, A;ASPERA Team|Observations from the ASPERA-3 ELS of Photoelectrons in the Tail of Mars|0
+2004AGUFMSH43A1092B|Barabash, S|Mars Express ASPERA-3 Observations of Neutral Atom Streams in the Interplanetary Medium - of yet Unknown Origin|0
+2004AGUSMSA23B..01B|Barabash, S|First Results of the Analyzer of Space Plasmas and Energetic Neutral Atoms (Aspera-3) Onboard Mars Express|0
+2004AGUSMSA23B..02F|Frahm, R;Winningham, J;Sharber, J;Barabash, S;Rickard, L;Linder, D;Coates, A|First Observations from the ASPERA-3 ELS in the Mars Ionosphere|0
+2004ESASP1240..121B|Barabash, S;Lundin, R;Andersson, H;Gimholt, J;Holmstrom, M;Norberg, O;Yamauchi, M;Asamura, K;Coates, A;Linder, D;Kataria, D;Curtis, C;Hsieh, K;Sandel, B;Fedorov, A;Grigoriev, A;Budnik, E;Grande, M;Carter, M;Reading, D;Koskinen, H;Kallio, E;Riihela, P;Sales, T;Kozyra, J;Krupp, N;Livi, S;Woch, J;Luhmann, J;McKenna-Lawlor, S;Orsini, S;Cerulli-Irelli, R;Maggi, M;Morbidini, A;Mura, A;Milillo, A;Roelof, E;Williams, D;Sauvaud, J;Thocaven, J;Moreau, T;Winningham, D;Frahm, R;Scherrer, J;Sharber, J;Wurz, P;Bochsler, P|ASPERA-3: analyser of space plasmas and energetic ions for Mars Express|39
+2004LPI....35.2176L|Lundin, R;Sharber, J;Barabash, S;Winningham, J;Frahm, R|Initial Results from the ASPERA-3 Instrument on Mars Express|0
+2004cosp...35....8D|Duxbury, T;Chicarro, A;Neukum, G;Bibring, J;Formisano, V;Picardi, G;Plaut, J;Lunden, R;Berteau, J;Paetzold, M|Mars Express: the exploration of Phobos|0
+2004cosp...35.2586L|Lichtenegger, H;Venus-Ion-Escape-Team|Thermal and non-thermal escape of planetary ions at Venus|0
+2004cosp...35.2768B|Barabash, S;Holmstrom, M;Aspera Team|The latest results on the energetic neutral atoms and plasma of Mars from the ASPERA instrument of Mars Express|0
+2004cosp...35.3438K|Kallio, E;Janhunen, P;Sales, T|Charge exchange, ENAs and the loss of planetary ions at Mars|0
+2004cosp...35.3785K|Kallio, E|Current Understanding of the Venus Plasma Environment: Prelude to Venus Express ASPERA-4 Measurements|0
+2004cosp...35.3815F|Fedorov, A;Budnik, E;Barabash, S;Winningham, D;ASPERA,|Structure and ion composition of the Martian wake boundary layer.|0
+2004cosp...35.3888T|Titov, D;Svedhem, H;Taylor, F;Lellouch, E;Marinangeli, L;Ocampo, A;Hoofs, R;Venus Express Team|Venus Express scientific goals and payload coordination|0
+2004xmm..pres...22.||http://www.esa.int/esaSC/Pr_22_2004_s_en.html|0
+2004xmm..pres...81.||Mars Express sees its first water - Scientific results|0
+2003AGUFM.P32A1067K|Kallio, E;Janhunen, P|Solar Wind Interaction With Martian Exosphere and Atmosphere: Charge Exchange, ENAs and the Loss of Planetary Ions|0
+2003AGUFM.P32A1073B|Brecht, S;Ledvina, S;Luhmann, J|Global Hybrid Simulation of the Solar Wind Interaction and the Mars Ion loss rates|0
+2003DPS....35.1402B|Brecht, S;Ledvina, S;Luhmann, J|Mars Ion Loss Rates from a Global Hybrid Model of the Solar Wind Interaction|0
+2003DPS....35.1908L|Luhmann, J;Ledvina, S;Brecht, S;Barabash, S;Winningham, D|Particle Anisotropy Measurement and Reflectometry Prospects for Martian Field Studies on Mars Express|0
+2003EAEJA.....3117B|Barabash, S;Aspera-4 Team|Investigations of the Venus plasma environment with the ASPERA-4 experiment on the ESA Venus Express mission|0
+2003EAEJA....10421C|Cerulli-Irelli, P;Mura, A;Orsini, S;Morbidini, A;Milillo, A;Barabash, S|The Italian Participation to the Mars Express/Aspera 3 Experiment: NPI Machanics and EGSE DDU|0
+2003EAEJA....10559M|Mura, A;Milillo, A;Orsini, S;Barabash, S;Kallio, E|Sputtering from Phobos Natural Satellite|0
+2003EAEJA....12140L|Lichtenegger, H;Lammer, H;Kolb, C;Penz, T;Biernat, H;Zhang, T;Baumjohann, W|Thermal and non-thermal escape of hydrogen and oxygen at Venus|0
+2003EAEJA....12613P|Penz, T;Lammer, H;Biernet, H;Erkaev, N;Gunell, H;Kallio, E;Holmstrom, M;Barabash, S;Lichtenegger, H;Baumjohann, W|Atmospheric loss caused by Kelvin-Helmholtz instability: What can we expect from Mars- and Venus Express?|0
+2003EAEJA....13281S|Sauer, K;Dubinin, E|Magnetic pile-up and related proton - planetary ion dynamics|0
+2003EAEJA....13386T|Titov, D;Lellouch, E;Taylor, F;Svedhem, H|Venus Express: scientific goals and payload of the mission|0
+2003IAUSS...4E..48G|Gusev, A;Kitiashvili, I;Petrova, N|Through Kazan ASPERA to Modern Projects|0
+2003xmm..pres...36.||Mars Express en route for the Red Planet|0
+2002LPI....33.1044T|Thompson, T;Horttor, R;Acton, C;Arroyo, B;Butman, S;Jepsen, P;Johnson, W;Plaut, J;Wessen, R;Vaisnys, A|The Mars Express/NASA Project at JPL|0
+2002cosp...34E1671H|Holmstroem, M;Barabash, S;Kallio, E|The Solar Wind interaction with Venus and Mars: Energetic Neutral Atom and X-ray imaging|0
+2002cosp...34E2678C|Chicarro, A|ESA planetary missions and astrobiology|0
+2002cosp...34E2683C|Chicarro, A|Atmospheric studies with the Mars Express mission|0
+2002iaf..confE.709K|Koeck, C;Poinsignon, V|From Mars Express to Venus Express|0
+2001LPI....32.1113M|Morrison, A;Thompson, T;Acton, C;Bourke, R;Butman, S;Jepsen, P;Johnson, W;Lavoie, S;Metzger, R;Plaut, J;Vaisnys, A|U.S. Participation in the Mars Express Mission|0
+2001xmm..pres...16.||Europe goes to Mars - preparations are well under way|0
+1998xmm..pres...22.||Hurry along please, for the Mars Express|0
+1993penp.conf..305L|Lundin, R;Norberg, O;Barabash, S;Dubinin, E|ASPERA Observations of the Momentum Transfer in the Boundary Layers of Mars|0
+1993penp.conf..311L|Lundin, R;Dubinin, E;Barabash, S;Norberg, O|ASPERA Observations of Martian Magnetospheric Boundaries|11
+1991sisp.rept.....E|Eliasson, L|Activities report of the Swedish Institute of Space Physics|0
+1990fnsr.meet...13K|Kelhae, V|Space research at the Technical Research Centre of Finland (VTT)|0
+1990fnsr.meet...29L|Liede, I|Finnish participation in the Soviet Mars program|0
+1989imse.book...21L|Lundin, R;Olsen, S;Zakharov, A;Dubinin, E;Pisarenko, N|The Aspera experiment - Investigation of the solar wind and the plasma shells of Mars|1
+1986pvgp.symp..373O|Ojanen, P;Olsen, S|Solar generator for spectrometer power supplying on mission Phobos|0
+1968Sci...162..886M|McVittie, G|Ad Astra per Aspera. (Book Reviews: The Story of Jodrell Bank)|0

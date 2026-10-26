@@ -1,0 +1,6 @@
+2012MmSAI..83..347R|Reina, M;Sabau-Graziati, L;Rodrigo, J;Reglero, V|Modular X and gamma rays sensor, a space-based instrument for transient lighting events in high atmosphere|0
+2012MmSAI..83..370R|Rodrigo, J;Macian, J;Biosca, J;Reina, M;Sabau-Graziati, L;Reglero, V|UFFO Burst Alert &amp; Trigger Telescope (UBAT): a new instrument for GRBs detection|3
+2001ESASP.459..627P|Porras, E;Reglero, V|Long term background behaviour of LEGRI CdZnTe detectors: theoretical predictions and observations|0
+1998SPIE.3445..439G|Gimenez, A|EUV and hard x-ray instruments on board the Spanish Minisat 01 mission|1
+1997ESASP.382..349R|Robert, A;Reglero, V;Ballesteros, F;Porras, E;Suso, J;Fabregat, J;Sanchez, F;Perez, F|LEGRI Science Operation Centre and Scientific Programme|0
+1994nhxr.conf..653M|Mas-Hesse, J|Low Energy Gamma-ray Imager: LEGRI|0

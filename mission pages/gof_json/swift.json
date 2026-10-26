@@ -1,0 +1,67 @@
+{
+    "title": "Swift",
+    "name": "Swift",
+    "gofsidebar" : "Active",
+    "decade" : 2000,
+    "alttext": "artist conception of swift in space",
+    "imagesize": 200,
+    "imageurl": "/Images/swift/swiftmain.jpg",
+    "descript": "<p><b><font size=\"+2\">S</font>wift</b> is a NASA medium sized explorer mission, developed in collaboration with UK and Italy. It was successfully launched on November 20, 2004 from Cape Canaveral (USA). The primary scientific objectives are to determine the origin of Gamma Ray Bursts (GRB) and to pioneer their use as probes of the early universe. Swift is a multiwavelength observatory carrying three instruments: the Burst Alert Telescope (BAT; Gamma Ray), the X-ray Telescope (XRT) and the Ultraviolet/Optical Telescope (UVOT).</p>\n\n<p>The Swift key characteristics are the rapid response to newly detected GRB and rapid data dissemination. As soon as the BAT discovers a new GRB, Swift rapidly relays its 1-4 arcmin position estimate to the ground and triggers an autonomous spacecraft slew to bring the burst within the field of view of XRT and UVOT to follow-up the afterglow.</p>\n\n<p>Swift is expected to provide redshifts for the bursts and multi-wavelength lightcurves for the duration of the afterglow. The BAT will also perform a high sensitivity hard X-ray sky survey.</p>",
+    "lifetime": "20 Nov 2004&ndash;present (Two year nominal mission)",
+    "features": [
+	"Autonomous spacecraft response to GRB",
+	"Accurate GRB position estimates within minutes",
+	"Multiwavelength observations"
+    ],
+    "instruments": [
+	{
+	    "name" : "Burst Alert Telescope (BAT)",
+	    "energy" : "15&ndash;150 keV",
+	    "resolution" : "&sim;4&prime;",
+	    "fov" : "1.4 sr (half-coded)",
+	    "area" : "5240 cm<sup>2</sup>",
+	    "descript" : "BAT is a coded mask detector and consists of 32,768 pieces of 4&times;4&times;2 mm CdZnTe (CZT) form a 1.2&times;0.6 m sensitive area in the detector plane. Groups of 128 detector elements are assembled into 8&times;16 arrays, each connected to 128-channel readout Application Specific Integrated Circuits (ASICs). Detector modules, each containing two such arrays, are further grouped by eights into blocks. This hierarchical structure, along with the forgiving nature of the coded aperture technique, means that the BAT can tolerate the loss of individual pixels, individual detector modules, and even whole blocks without losing the ability to detect bursts and determine locations. The CZT array has a nominal operating temperature of 20 degrees C, and its thermal gradients are kept to within &plusmn;1&deg; C.</p>\n\n<p>BAT has a D-shaped coded aperture mask, made of &sim;54,000 lead tiles (5&times;5&times;1 mm) mounted on a 5 cm thick composite honeycomb panel, which is mounted by composite fiber struts 1 meter above the detector plane. Because the large FOV requires the aperture to be much larger than the detector plane and the detector plane is not uniform due to gaps between the detector modules, the BAT coded-aperture uses a completely random, 50% open-50% closed pattern, rather than the commonly used Uniformly Redundant Array pattern. The mask has an area of 2.7 m<sup>2</sup<, yielding a half-coded FOV of 100 degrees &times; 60 degrees, or 1.4 steradians. A graded-Z fringe shield, located both under the detector plane and surrounding the mask and detector plane, reduces background from the isotropic cosmic diffuse flux and the anisotropic Earth albedo flux by &sim;95%. The shield is composed of layers of Pb, Ta, Sn, and Cu, which are thicker nearest the detector plane and thinner near the mask.detects about 100 GRBs per year, and computes burst positions onboard the satellite with arc-minute positional accuracy."
+	},
+	{
+	    "name" : "X-ray Telescope (XRT)",
+	    "length" : "3.5 m",
+	    "energy" : "0.2&ndash;10 keV",
+	    "resolution" : "&sim;5&Prime;",
+	    "fov" : "23.6&prime; &times; 23.6&prime;",
+	    "area" : "110 cm<sup>2</sup> at 1.5 keV",
+	    "energy_resolution" : "&sim; 50 eV at 0.1 kev<br>&sim; 190 ev at 10 keV (FWHM)",
+	    "sensitivity" : "8 &times; 10<sup>-14</sup> erg cm<sup>-2</sup> in 10<sup>4</sup> seconds",
+	    "descript" : "The XRT uses a grazing incidence Wolter 1 telescope to focus X-rays onto a state-of-the-art CCD.</p>\n\n<p>The complete mirror module for the XRT consists of the X-ray mirrors, thermal baffle, a mirror collar, and an electron deflector. The X-ray mirrors are the FM3 units built, qualified and calibrated as flight spares for the JET-X instrument on the Spectrum X-Gamma mission. To prevent on-orbit degradation of the mirror module&rsquo;s performance, it is be maintained at 20&deg; &plusmn;5&deg; C, with gradients of &lt;1&deg; C by an actively controlled thermal baffle. A composite telescope tube holds the focal plane camera, containing a single CCD-22 detector.</p>\n\n<p>The CCD-22 detector, designed for the EPIC MOS instruments on the XMM-Newton mission, is a three-phase frame-transfer device, using high resistivity silicon and an open-electrode structure.<p>\n\n<p>The CCD consists of an image area with 600&times;602 pixels (40&times;40 microns) and a storage region of 600&times;602 pixels. A special &ldquo;open-gate&rdquo; electrode structure gives the CCD-22 excellent low energy quantum efficiency (QE) while high resistivity silicon provides a depletion depth of 30 to 35 microns to give good QE at high energies. The detectors operate at approximately -100&deg; C to ensure low dark current and to reduce the CCD&rsquo;s sensitivity to irradiation by protons."
+	},
+	{
+	    "name" : "UV/Optical Telescope (UVOT)",
+	    "wavelength" : "170&ndash;650 nm",
+	    "resolution" : "0.3&Prime;",
+	    "fov" : "17&prime; &times; 17&prime;",
+	    "time_resolution" : "11 ms",
+	    "sensitivity" : "B &asymp;22.3 in white light in 1000 s",
+	    "descript" : "The UVOT optics consists of a 30 cm diameter modified Ritchey-Chr&eacute;tien telescope with an f/2.0 primary that is re-imaged to f/13 by the secondary. The filter wheel includes a 4-times magnifier that results in 0.13 arcsec pixels for near diffraction limited imaging. The optics used for Swift/UVOT are the flight spares from the XMM-Newton/Optical Monitor (OM). The telescope structure, baffle, and thermal designs are also from the XMM-Newton project.</p>\n\n<p>The detectors are copies of two micro-channel plate intensified CCD (MIC) detectors from the XMM-Newton/OM design. They are photon counting devices capable of detecting very low signal levels, allowing the UVOT to detect faint objects. The design is able to operate in a photon counting mode, unaffected by CCD read noise and cosmic ray events on the CCD. The UVOT can autonomously determine the spacecraft drift using guide stars in the FOV. The UVOT design includes the XMM-Newton/OM 11 position filter wheel in front of the detectors. The two grisms can be used to obtain low resolution spectra of bursts brighter than approximately m<sup>b</sup> &gt; 15."
+	}
+	
+    ],
+    "highlights": [
+	"Detected GRB 090423, the most distant known spectroscopically confirmed object in the Universe at z = 8.3.",
+	"Measured the metallicity of star-forming regions at high redshift (z &gt; 5) using GRBs.",
+	"Provided arcsecond positions for short-hard GRBs that have allowed their host galaxies to be identified. This has strengthened the case for the short bursts being due to merging binary neutron stars.",
+	"Discovered a previously-unknown class of long-soft GRBs that have no associated supernova.",
+	"Discovered X-ray flares in GRBs and found that in some cases the X-ray afterglow decays very slowly. This suggests that the central engine remains active for minutes to hours after the burst.",
+	"Obtained unique ultraviolet light curve for a large number of supernovae of all types.",
+	"Observed the X-ray flash from the shock breakout of a supernova.",
+	"Performed the deepest hard X-ray survey to date finding &gt;400 AGN and absorbed Seyfert 2 galaxies.",
+	"In conjunction with XMM-Newton, has found the best evidence for an intermediate mass black hole in the galaxy NGC 5408.",
+	"In conjunction with Fermi, discovered two soft gamma-ray repeaters: SGR 0501+4516 and SGR 0415-5729.",
+	"Obtained unique ultraviolet and X-ray data on comets Lulin and 8P/Tuttle, including observing the Deep Impact encounter"	
+    ],
+    "archive": "The HEASARC hosts catalogs, lightcurves, spectra, and raw data.",
+  "navigation": [
+    {
+      "url": "http://swift.gsfc.nasa.gov/",
+      "text": "Swift Science Center"
+    }
+  ]
+}

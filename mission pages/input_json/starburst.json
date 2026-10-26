@@ -1,0 +1,50 @@
+{
+    "title": "StarBurst",
+    "name": "StarBurst",
+    "alttext": "Artistic impression of StarBurst with neutron star merger producing gamma-ray emitting relativistic jets",
+    "imagesize": 300,
+    "imageurl": "/Images/misc_missions/StarBurst_Artist_Conception_sm.jpg",
+    "descript": "<p><b><font size=\"+2\">T</font>he StarBurst</b> mission is a SmallSat to detect short gamma-ray burst sources (sGRBs) such as those produced in neutron star mergers. It is planned for a 2027 launch into a low earth orbit with an initial one year mission. Given its sensitivity and all-sky coverage, the mission should observe around 10 sGRBs per year.</p>\n<p>StarBurst has a mass of 250 kg, and a roughly 1 m<sup>3</sup> cubic shape. It is built by the University of Toronto&rsquo;s Space Flight Laboratory using a legacy spacecraft bus design. The sole astronomy instrument is a gamma-ray burst detector which has an 8 steradian unocculted sky view with five times the effective area of the Fermi Gamma Ray Burst Monitor (GBM). It uses ground analysis and flight software inherited from GBM and BurstCube, and electrical system and mechanical design derived from the Glowbug mission, allowing it to be built within the new Pioneers NASA program for small missions with budgets less than $20 million.</p>",
+    "decade" : 2020,
+    "lifetime": "Initial one year planned operations (projected 2027 launch)",
+    "features": [
+	"SmallSat configuration for ridesharing launch, plus use of heritage design and software to speed development and reduce cost.",
+	"Improved gamma-ray detector design permits greater sensitivity than older designs",
+	"Optimized for short gamma-ray burst detection",
+	"Complements other instruments such as LISA/LIGO for multimessenger astronomy"
+    ],
+    "instruments": [
+	{
+	    "name": "Gamma-ray Detector",
+	    "energy": "30 keV &ndash; 20 MeV",
+	    "fov": "8 sr",
+	    "descript": "A suite of 12 NaI(Tl) scintillation detectors to provide an ultra-wide field of view of the unocculted sky. The scintillation is observed by low voltage lightweight silicon photomultipliers.</p>"
+	}
+    ],
+    "goals": [
+	"Constrain the progenitors of SGRBs",
+	"Probe remnants of neutron star mergers",
+	"Constrain neutron star equation of state",
+	"Probe the structure of relativistic outflows produced in neutron star mergers",
+	"Co-observe with gravitational wave detectors and other observatories as part of multimessenger astronomy"
+    ],
+    "archive": "The HEASARC will host StarBurst data, products, and catalogs.",
+    "navigation": [
+      {
+	  "url": "starburst.html",
+	  "text": "StarBurst"
+      },
+      {
+	  "url": "https://starburst.msfc.nasa.gov/",
+	  "text": "StarBurst at MSFC"
+      },
+      {
+	  "url": "https://www.utias-sfl.net/starburst/",
+	  "text": "StarBurst at University of Toronto"
+      },
+      {
+	  "url": "biblio/starburst_biblio.html",
+	  "text": "Bibliography"
+      }
+    ]
+}

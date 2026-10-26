@@ -1,0 +1,335 @@
+2015arXiv150904224F|Flinders, A|VERITAS Observations of the Geminga Supernova Remnant|2
+2012AIPC.1505..418W|Werner, M;Reimer, O;Reimer, A;Egberts, K|Fermi LAT upper limits on gamma-ray emission from colliding wind binaries|0
+2010MmSAI..81..181R|Romero, G|Gamma-ray emission from star-forming regions .|7
+2009arXiv0907.5237F|Finnegan, G|Search for TeV Emission from Geminga by VERITAS|3
+2009arXiv0912.3478C|Casandjian, J;Grenier, I|High Energy Gamma-Ray Emission from the Loop I region|36
+2008AIPC.1085...97R|Romero, G|Gamma rays from star-forming regions|9
+2004ASSL..304..311M|Mukherjee, R;Halpern, J|Multifrequency Strategies for the Identification of Gamma-Ray Sources|6
+2004cxo..prop.1699W|Weisskopf, M|A Search for the X-ray counterpart of the Unidentified Gamma-Ray source 3EG J2020+4017|0
+2003ICRC....4.2461L|Leahy, D|X-Ray, Gamma-Ray and Radio Observations of LSI+61 303 and the Nature of the Electron Population and of the Emission Mechanisms|1
+2002APS..APR2A3001K|Kniffen, D|From EGRET to GLAST|0
+2002cxo..prop.1211B|Becker, W|Chandra Observations of the Unidentified Gamma-Ray Source in Gamma-Cygni|0
+2002xmm..pres....8.||Integral -tracking extreme radiation across the Universe|0
+2001ASSL..267...35M|Mukherjee, R;Halpern, J|Multiwavelength Searches and Spectral Aspects of 3EG Sources|1
+2001ICRC....6.2524L|Leahy, D|The X-ray time variability of LSI+61**O303|1
+2001ICRC....6.2532L|Leahy, D|Modeling the multi-wavelength spectrum of the gamma-ray source LSI+61**0303|0
+2001ICRC....6.2558T|Tluczykont, M;HEGRA Collaboration|Search for TeV Gamma-Ray Emission from the Young Open Star Clusters Berkeley 87 and IC 1805 with the HEGRA System of Cherenkov Telescopes|0
+2000AAS...197.8407S|Stern, D;Gotthelf, E;Mukherjee, R|Multiwavelength Studies of a Few Unidentified EGRET Sources|0
+2000AIPC..510..484M|Mukherjee, R;Gotthelf, E;Stern, D;Tavani, M|X-ray and γ-ray observations of the COS-B field 2CG 075+00|0
+2000HEAD....5.0504M|Mukherjee, R;Gotthelf, E;Halpern, J|Multiwavelength Observations of a Few Unidentified EGRET Sources|0
+2000eaa..bookE4622.||COS-B (Celestial Observation Satellite)|0
+1999AAS...195.3710S|Stern, D;Gotthelf, E;Mukherjee, R;Tavani, M|X-ray and gamma-ray Observations of the COS-B Field 2CG 075+00|0
+1999HEAD....4.1723M|Moiseev, A;Ormes, J;Thompson, D;GLAST Collaboration|Anticoincidence Detector for GLAST|1
+1999STIN...0026338.||EGRET Team Papers to be Published in the Proceedings of the Fifth Compton Symposium|0
+1998AAS...192.5302C|Case, G;Bhattacharya, D|Gamma Ray Emission from the Vicinity of the Supernova Remnant G312.4-0.4|0
+1998IAUS..188..273B|Bhatia, V;Mishra, S;Panchapakesan, N|Can Galactic Gamma-Ray Background be due to Superposition of gamma-Rays from Millisecond Pulsars?|0
+1998xmm..pres...30.||ESA presents INTEGRAL, its space observatory for Gamma-ray astronomy|0
+1998xmm..pres...51.||ESA presents INTEGRAL, its space observatory for Gamma-ray astronomy|0
+1997AIPC..410..524K|Kniffen, D;Gehrels, N|The COMPTON Observatory: Reflections on its origins and history|3
+1997AIPC..410..568M|Mattox, J;Halpern, J;Caraveo, P|The ``COS-B/EGRET 1997'' Geminga ephemeris|0
+1997IAUJD..13E..10M|Mattox, J|Possible Detection of a Planet Orbiting the Geminga Gamma-Ray Pulsar|0
+1997ICRC....3...89I|Iyudin, A;Reimer, O;Bennett, K;Bloemen, H;Hermsen, W;Kanbach, G;Pohl, M;Ryan, J;Schonfelder, V;Strong, A|Detection of the COS-B/EGRET source GRO J2227+61|2
+1997STIN...9723364H|Halpern, J|Timing the Geminga Pulsar with High-Energy Gamma-Rays|0
+1997astro.ph..7190B|Bisnovatyi-Kogan, G;Repin, S|Timing of gamma-ray pulsars: search in seven - parametric space|0
+1997xmm..pres...41.||ESA's gamma-ray astronomy mission's Russian launch confirmed|0
+1996rxte.prop10172H|Harrison, F|Multi-Wavelength Observations of the Exotic Binary LSI +61 303|0
+1996rxte.prop10213J|Jahoda, K|a Search for Pulsed 2-200 KEV Emission from Geminga|0
+1995AAS...187.4604N|Nolan, P;Fierro, J;Jones, B;Lin, Y;Michelson, P;Willis, T;Bertsch, D;Dingus, B;Esposito, J;Fichtel, C;Hartman, R;Hunter, S;von Montigny, C;Mukherjee, R;Sreekumar, P;Thompson, D;Kniffen, D;Schneid, E;Kanbach, G;Mayer-Hasselwander, H;Mucke, A;Merck, M|Gamma Ray Sources Above 1 GeV Along the Galactic Plane|1
+1995AAS...187.5807K|Kniffen, D;Alberts, W;Bertsch, D;Fichtel, C;Hartman, R;Hunter, S;Thompson, D;Dingus, B;Esposito, J;Sreekumar, P;von Montigny, C;Kanbach, G;Mayer-Hasselwander, H;Lin, Y;Michelson, P;Nolan, P;Mattox, J;Paredes, J;Schneid, E|EGRET Observations of the Gamma-Ray Source 2CG 135+01|0
+1995cuny.reptR....H|Halpern, J|Multiwavelength observations of unidentified high energy gamma-ray sources|0
+1995grsc.conf..147S|Strong, A|Diffuse galactic continuum emission.|0
+1995hscv.rept.....K|Kniffen, D|Analysis of data from the energetic gamma-ray experiment of the Gamma Ray Observatory|0
+1994AAS...184.1901B|Bignami, G|The Chase, and Consequences|0
+1994AAS...18512002D|Digel, S;Grenier, I;Heithausen, A;Hunter, S;Thaddeus, P|Diffuse High-Energy Gamma-Ray Emission in the Outer Galaxy: The Cepheus Flare and the Perseus Arm|0
+1994AAS...18512008C|Chen, A;Dwyer, J;Kaaret, P|Components of the Diffuse Gamma Ray Emission at High Galactic Latitudes|0
+1994AIPC..304...77M|Mattox, J;Bertsch, D;Dingus, B;Esposito, J;Fichtel, C;Hartman, R;Hunter, S;Sreekumar, P;Thompson, D;Chiang, J;Fierro, J;Lin, Y;Michelson, P;Nolan, P;Willis, T;Brazier, K;Kanbach, G;Mayer-Hasselwander, H;von Montigny, C;Radecke, H;Kniffen, D;Schneid, E|Timing the Geminga pulsar with high-energy gamma rays.|13
+1994AIPC..304..116C|Cheng, K;Ma, Y|Pulsed gamma rays from Geminga.|1
+1994AIPC..304..324V|van Dijk, R;Bloemen, H;Hermsen, W;Collmar, W;Diehl, R;Lichti, G;Schonfelder, V;Steinle, H;Strong, A;Bennett, K;Much, R;McConnell, M;Connors, A|COMPTEL detection of the variable radio source GT 0236+610.|9
+1994AIPC..304..356N|Nemiroff, R;Marani, G;Cebral, J;Norris, J|What is 2CG 010-31?|0
+1994AIPC..304..484D|Digel, S;Hunter, S|EGRET observations of the interstellar clouds in Ophiuchus: a reassessment of COS-B source 2CG 353+16.|1
+1993AAS...183.5511B|Barrett, P;Schlegel, E;De Jager, O;Chanmugam, G|A Search for Cataclysmic Variables in the EGRET All-Sky Survey|0
+1993AAS...183.9302R|Ramanamurthy, P;Mattox, J;EGRET Science Team|Braking Index of GEMINGA Pulsar|0
+1993AAS...183.9901D|Digel, S;Bertsch, D;Fichtel, C;Hartman, R;Hunter, S;Thompson, D;Dingus, B;Esposito, J;Sreekumar, P;Kanbach, G;Mayer-Hasselwander, H;von Montigny, C;Lin, Y;Michelson, P;Nolan, P;Kniffen, D;Mattox, J;Schneid, E|High Energy Gamma Ray Emission from the Interstellar Clouds in Orion|0
+1993AIPC..278..409B|Bloemen, H|Diffuse Galactic gamma-ray emission above 1 MEV|4
+1993AIPC..278..419H|Hartmann, D;Brown, L;Schnepf, N|Diffuse Galactic gamma-rays from pulsars|0
+1993AIPC..278..423H|Hunter, S;Bertsch, D;Dame, T;Dingus, B;Fichtel, C;Hartman, R;Kanbach, G;Kniffen, D;Kwok, P;Lin, Y;Mattox, J;Mayer-Hasselwander, H;Michelson, P;von Montigny, C;Nolan, P;Sreekumar, P;Thaddeus, P;Schneid, E;Stacy, G;Thompson, D|High energy gamma ray observations and the coupling between galactic cosmic rays and matter|2
+1993IAUC.5708....3V|von Montigny, C;Brazier, K;Kanbach, G;Mayer-Hasselwander, H;Bertsch, D;Dingus, B;Fichtel, C;Hartman, R;Hunter, S;Mattox, J;Sreekumar, P;Thompson, D;Kniffen, D;Chiang, J;Fierro, J;Lin, Y;Michelson, P;Nolan, P;Schneid, E|2CG 135+01|8
+1993STIN...9414688H|Halpern, J|Multiwavelength observations of unidentified high energy gamma ray sources|0
+1993xmm..pres...28.||INTEGRAL confirmed as next scientific mission|0
+1992AAS...18111201S|Strickman, M;Grove, J;Johnson, W;Kinzer, R;Kroeger, R;Kurfess, J;Grabelsky, D;Matz, S;Purcell, W;Ulmer, M|OSSE Observations of the VELA Pulsar and Geminga|0
+1992AIPC..254..333K|Kafatos, M|High energy emission in accretion flows in AGN|1
+1992AIPC..254..348G|Gehrels, N;Cheung, C|High energy continuum measurements of active galactic nuclei|11
+1992AIPC..254..439M|Maraschi, L;Ghisellini, G;Celotti, A|Models for the gamma-ray emission of 3C 279|7
+1992AIPC..264..471H|Harding, A;De Jager, O|Constraints on electron acceleration in the crab nebula|0
+1992IAUC.5485....1K|Kniffen, D;Bertsch, D;Fichtel, C;Hartman, R;Hunter, S;Kwok, P;Mattox, J;Nel, H;Sreekumar, P;Thompson, D;Fierro, J;Lin, Y;Michelson, P;Nolan, P;Schneid, E;Kanbach, G;Mayer-Hasselwander, H;von Montigny, C;Pinkau, K;Rothermel, H;Sommer, M;Johnston, S;Manchester, R;Kaspi, V;Taylor, J;Lyne, A|PSR 1706-44|8
+1992IAUC.5541....1H|Hermsen, W;Swanenburg, B;Buccheri, R;Scarsi, L;Sacco, B;Brazier, K;Kanbach, G;Lichti, G;Mayer-Hasselwander, H;Strong, A;Grenier, I;Bennett, K;Busetta, M;Mattox, J|Geminga|13
+1992IAUC.5583....1M|Mattox, J;Bertsch, D;Dingus, B;Fichtel, C;Hartman, R;Hunter, S;Kwok, P;Sreekumar, P;Thompson, D;Kniffen, D;Chiang, J;Fierro, J;Lin, Y;Michelson, P;Nolan, P;Schneid, E;Brazier, K;Kanbach, G;Mayer-Hasselwander, H;von Montigny, C;Pinkau, K;Rothermel, H;Sommer, M|Geminga|6
+1992IAUC.5612....2V|Vishwanath, P;Satyanarayana, G;Ramanamurthy, P;Bhat, P|Geminga|2
+1992IAUC.5649....1M|Mayer-Hasselwander, H;Brazier, K;Kanbach, G;von Montigny, C;Bertsch, D;Dingus, B;Fichtel, C;Hartman, R;Hunter, S;Kwok, P;Mattox, J;Sreekumar, P;Thompson, D;Kniffen, D;Chiang, J;Fierro, J;Lin, Y;Michelson, P;Nolan, P;Schneid, E|Geminga|6
+1992NASCP3137..229T|Tavani, M|Gamma rays from "hidden" millisecond pulsars.|3
+1992NASCP3137..237C|Chiang, J;Romani, R|Pulsar γ rays from polar cap regions.|4
+1992NASCP3137..267B|Brown, L;Clayton, D;Hartmann, D|Gamma ray pulsar analysis from photon probability maps.|3
+1992NASCP3137..399A|Akerlof, C;Cawley, M;Chantell, M;Fegan, D;Harris, K;Hillas, A;Jennings, D;Lamb, R;Lawrence, M;Lang, M;Lewis, D;Meyer, D;Mohanty, G;O'Flaherty, K;Punch, M;Reynolds, P;Schubnell, M;Weekes, T;Whitaker, T|Locating very high energy γ-ray sources with arc minute accuracy.|0
+1992SPIE.1734..220T|Torii, S;Kasahara, K;Doke, T;Kashiwagi, T;Kikuchi, J;Murakami, H;Nakamoto, A;Yuda, T;Masuda, K;Muraki, Y;Akimov, V;Leikov, N|Scintillating fiber calorimeter as a detector for the observation of GeV cosmic gamma rays|0
+1992daia.conf...51B|Buccheri, R;Maccarone, M;Busetta, M|SAST - a software package for the statistical analysis of sparse times.|0
+1992egre.symp.....V|Vonmontigny, C;Bertsch, D;Fichtel, C;Hartman, R;Hunter, S;Kanbach, G;Kniffen, D;Kwok, P;Lin, Y;Mattox, J|EGRET observations of 3 C 273|0
+1992msem.coll..207B|Bogovalov, S;Kotov, Y|Very High Energy τ-RAY Generation Near the Light Cylinder of an Axisymmetric Rotator: Cos-B like τ-RAY Sources|0
+1992ssbg.book.....B|Buccheri, R;Camerini, U;Finley, J;Fry, W;Jacobsen, J|Search for short bursts in gamma-ray emission from COS-B pulsars.|0
+1991AIPC..220....3G|Grenier, I;Hermsen, W;Pollock, A|The Cos-B GeV gamma-ray sources|9
+1991AIPC..220...30H|Hartmann, D;Liang, E;Cordes, J|Gamma-ray emission from young neutron stars|2
+1991AIPC..232..352N|Natalucci, L;Bouchet, L;Gaige, Y;Niel, M;Salotti, L;Ballet, J;Lebrun, F;Paul, J;Churazov, E;Gilfanov, M;Kuznetsov, A;Sunyaev, R;Chulkov, I;Diachkov, A;Khavenson, N;Novikov, B|SIGMA observation of the sky region containing the COS-B source 2CG135+01|0
+1991AIPC..232..415G|Giovannelli, F;Graziati, L;Bednarek, W;Karakula, S;Tkaczyk, W|Electron, proton beam interactions with matter and/or radiation: Application to Cyg X-1, Geminga and 3C 273|0
+1991AIPC..232..458S|Salati, P;Chardonnet, P|High energy γ-ray lines: a probe for a cold dark matter halo|0
+1991AIPC..232..483W|Winkler, C|The INTEGRAL mission|11
+1991ESABu..68...53B|Bennett, K;Taylor, B;Winkler, C|First results from GRO-COMPTEL.|0
+1991IAUC.5311....2B|Bertsch, D;Fichtel, C;Hartman, R;Hunter, S;Kniffen, D;Kwok, P;Mattox, J;Sreekumar, P;Thompson, D;Kanbach, G;Mayer-Hasselwander, H;Pinkau, K;Rothermel, H;Sommer, M;Montigny, C;Lin, Y;Michelson, P;Nolan, P;Schneid, E|3C 279|11
+1991IAUC.5316....2M|Ma, Y;Lu, T;Yu, K;Young, E|Possible gamma-Ray Pulsars 0656+14, 0950+08, 1822-09|1
+1991ICRC....1..200Y|Young, E;Yu, K;Luo, Y;Ma, Y|Reexamination of discrete sources with ????b &gt; 20 from COS-B data|0
+1991ICRC....1..572D|de Jager, O;Harding, A|The Inverse Compton Gamma-Ray Spectrum of the Crab Nebula|2
+1991sdgg.nasa.....B|Brown, L;Clayton, D;Hartmann, D|Gamma ray pulsar analysis from photon pobability maps|0
+1991uscc.rept.....H|Hartmann, D|Gamma-ray spectroscopy: The diffuse galactic glow|0
+1990AIPC..203..185K|Kniffen, D|Cosmic ray studies with the gamma-ray observatory|1
+1990AIPC..207..376S|Svoboda, R|A lunar water Cherenkov gamma-ray telescope|0
+1990BAAS...22.1230M|Mattox, J|Further Examination of the SAS 2 and COS B Cygnus X-3 Data|0
+1990ICRC....1..181B|Bennett, K;Buccheri, R;Busetta, M;D'Amico, N;de Jager, C;Sacco, B|Searches in the COS-B Gamma Ray Data-Base for Pulsations from PSR 1951+32|1
+1990ICRC....1..221M|Mattox, R;Mayer-Hasselwander, H;Strong, W|Analysis of the Cos-B Data for Evidence of Linear Polarization of Vela-Pulsar Gamma Rays|0
+1990ICRC....1..229B|Bhat, L;Richardson, M;Wolfendale, W|A Search for Specific Gamma Ray Sources in the Cos B Data Base|0
+1990ICRC....1..237P|Pollock, T;Hermsen, W|Cos-B Gamma-Ray Source Survey|0
+1990ICRC....1..261M|Mayer-Hasselwander, H;Simpson, G|Cos-B Gamma-Ray Sources Beyond the Predicted Diffuse Emission|3
+1990NASCP3071...31S|Sreekumar, P|A model of the diffuse galactic gamma ray emission|0
+1990NASCP3071...89R|Ruderman, M|Gamma radiation from radio pulsars|1
+1990NASCP3071..101K|Kanbach, G|Gamma radiation from the Crab and VELA pulsars|6
+1990NASCP3071..145K|Kniffen, D|The illusive Geminga: What is it|1
+1990NASCP3071..153M|Mayer-Hasselwander, H;Simpson, G|COS-B gamma ray sources beyond the predicted diffuse emission|2
+1990NASCP3071..161H|Hermsen, W|More data on (possible) gamma ray (point) sources|2
+1989ASIC..262..329R|Ruderman, M|Solitary neutron stars as gamma-ray sources|0
+1989ASIC..262..347H|Hermsen, W;Grenier, I|Production sites and mechanisms of discrete gamma-ray components of the Vela and Crab light curves|0
+1989ASIC..262..363B|Bignami, G;Caraveo, P;Mitrofanov, I;Vacanti, G|Search for linear polarization in high energy gamma-ray sources|0
+1989BAAS...21..720B|Bennett, K|The COS-B Data Base|0
+1989IAUC.4845....2P|Polcaro, V;Giovannelli, F;Manchanda, R;Norci, L;Rossi, C;Tessicini, G|Berkeley 87|3
+1989daa..conf...67B|Buccheri, R;Busetta, M;Carollo, C|Search for Bursts of Gamma-Ray Emission from the Crab Pulsar in the Cos-B Data by Adaptive Cluster Analysis|0
+1989pabc.work....8D|Dermer, C|Compact source origin of cosmic ray antiprotons|0
+1989reas.symp.....D|Dermer, C|Thermal Comptonization models for gamma-ray emission from black-hole sources|0
+1988AIPC..170..356G|Grenier, I;Hermsen, W;Clear, J|High energy gamma rays from the Vela pulsar: Long-term variability and energy distribution|0
+1988AIPC..170..362C|Caraveo, P;Bignami, G;Mitrofanov, I;Vacanti, G|Are the γ-ray from the Vela pulsar polarized?|0
+1988ASIC..220..163B|Bloemen, H|Gamma-Ray Views on the Galactic Cosmic-Ray Distribution|1
+1988ICRC....9..125L|Lavigne, J;Bazer-Bachi, A;Niel, M;Agrinier, B;Bonfand, E|Determination of γ-ray spectra from selected regions of the sky.|0
+1987ASIC..195..297B|Bignami, G|Gamma-ray sources in our Galaxy.|3
+1987ASIC..210...89W|Wolfendale, A|Gamma rays and the distribution of cosmic rays in the Galaxy.|0
+1987BAAS...19.1040I|Irwin, R;Turner, O;White, R;Zych, A;Sweeney, W|Search for Pulsed Gamma Ray Emission from Geminga CG-195+04|0
+1987IAUC.4492....2L|Li, J;Li, T;Ma, Y;Wu, M|PSR 1951+32|8
+1987IAUC.4507....2D|D'Amico, N;Bennett, K;Clear, J;Buccheri, R;Sacco, B|PSR 1951+32|3
+1987IAUS..125..465B|Bignami, G|Neutron Stars and Gamma-Rays|5
+1987ICRC....1...88P|Pollock, A;Bloemen, J;Grenier, I;Hermsen, W;Lebrun, F;Strong, A|Final Catalogue of Cos-B Gamma-Ray Sources|1
+1987ICRC....1...89S|Simpson, G;Mayer-Hasselwander, H|Cos-B Gamma-Ray Sources and Their Statistical Significance|4
+1987NASCP2464..191C|Cesarsky, C;Ormes, J|Origin and propagation of galactic cosmic rays.|1
+1987STIN...8725108I|Ipser, J;Sikivie, P|Estimates of the density of dark matter near the center of the galaxy|0
+1987huba.conf...71P|Polcaro, V;Tomasi, P;Giovannelli, F|V 439 Cyg: possible optical counterpart of the X-ray source 1H 2018+366 (=4U 2019+39?) and of the gamma-ray source 2CG 075+00|1
+1987huba.conf..135H|Hermsen, W;Bennett, K;Bloemen, J;Buccheri, R;Jansen, F;Mastichiadis, A;Mayer-Hasselwander, H;Ozel, M;Pollack, A;Strong, A|Constraints on Cyg X-3 models from gamma-ray and hard X-ray observations|0
+1987huba.conf..157K|Karakula, S;Kirov, I;Stamenov, J;Tkaczyk, W|Geminga UHE photon spectrum|0
+1987huba.conf..227K|Karakula, S;Stamenov, J;Tkaczyk, W;Ushev, S|UHE photons in cosmic rays|0
+1987nep..conf..207I|Ipser, J;Sikivie, P|On the entrainment of dark matter to the center of the Galaxy.|0
+1987txra.symp..579B|Bloemen, H|High-energy gamma rays probing cosmic-ray propagation.|0
+1986ASIC..162.....S|Shapiro, M|Cosmic radiation in contemporary astronphysics|1
+1986ASIC..162..161B|Bignami, G|New evidence on the galactic cosmic ray distribution from COS-B gamma-ray data.|0
+1986ASIC..162..175B|Bignami, G|Interdisciplinary effort towards understanding the galactic gamma-raysource population.|2
+1986ASIC..163...23R|Reeves, H|High Energy Particles in Dark Molecular Clouds|2
+1986ESABu..45...40B|Bennett, K|Cos-B - a mission fully accomplished.|0
+1986ESASP1078.....B|Burke, W|Report presented by the European Space Agency to the 26th COSPAR meeting, Toulouse, France, June 1986.|0
+1986daa..conf...87D|di Gesu, V;Buccheri, R;Sacco, B|Study of Pulsar Light Curves by Cluster Analysis|2
+1985ASSL..113..147B|Bonnet-Bidaud, J;van der Klis, M|Cos-B X-Ray Observations of Cygnus X-3|2
+1985BICDS..28...73M|Mayer-Hasselwander, H|COS-B gamma-ray surveys in the 70 MeV-5000 GeV energy range|0
+1985ESABu..42....8L|Lust, R|Gamma-ray astronomy and the spirit of Cos-B.|0
+1985IAUS..106..213H|Hermsen, W;Bloemen, J|High-energy gamma rays and the large-scale distribution of gas and cosmic rays|0
+1985IAUS..106..225C|Cesarsky, C|High-energy galactic phenomena and the interstellar medium|0
+1985ICRC....1...95H|Hermsen, W;Bennett, K;Bignami, G;Bloemen, J;Buccheri, R;Caraveo, P;Mayer-Hasselwander, H;Oezel, M;Pollock, A;Strong, A|CYG X-3: not Seen in High-Energy Gamma Rays by Cos-B|4
+1985ICRC....1..169B|Buccheri, R;Pollock, A;Bennett, K;Bignami, G;Caraveo, P;Hermsen, W;Mayer-Hasselwander, H;Sacco, B|Search for Periodicities Near 59 S in the Cos-B Gamma-Ray Data of 2CG 195+04 (geminga)|2
+1985ICRC....1..197M|Montmerle, T;Andre, P;Feigelson, E|Excess Gamma-Rays in the Rho Ophiuchi Cloud: AN Exotic Object?|2
+1985ICRC....1..205S|Stephens, S|Supernova Explosion in Dense Clouds in the Galaxy and the Cos-B Gamma Ray Sources|1
+1985ICRC....1..209M|Montmerle, T|Galactic Gamma-Ray Sources, Snobs, and Giant HII Regions|4
+1985ICRC....1..221C|Caraveo, P;Buccheri, R;Clear, J;Foa, O;Pollock, A|a Search in the Cos-B Data Base for Correlated Time Variability in Regions Containing Objects of Interest|1
+1985ICRC....1..268K|Karakula, S;Stamenov, J;Tkaczyk, W|Some Evidence for High Energy Gamma-Ray Sources at Large Galactic Latitudes|3
+1985ICRC....1..285L|Lau, M;Young, E|Cosmic Gamma Rays from Quasers|0
+1985ICRC....1..313B|Bloemen, J|Inverse-Compton Gamma Rays in the Galaxy|0
+1985ICRC....1..317S|Strong, A;Bloemen, J;Hemsen, W;Mayer-Hasselwander, H|Multicomponent Analysis of Total Cos-B Gamma-Ray Data at Intermediate Latitudes|9
+1985ICRC....1..321H|Harding, A;Stecker, F|The Golactic Gamma-Ray Distribution and the Radial Cosmic Ray Gradient|1
+1985ICRC....1..329B|Bloemen, J;Strong, A;Blitz, L;Cohen, R;Dame, T;Grabelsky, D;Hermsen, W;Lebrun, F;Mayer-Hasselwander, H;Thaddeus, F|Constraints on the Galactic Distribution of Cosmic Rays from the Cos-B Gamma-Ray Data|0
+1985ICRC....1..333S|Strong, A|Local Electron Spectrum above 100 Mev Derived from Gamma-Ray Emissivity Spectra|4
+1985ICRC....1..338P|Pollock, A;Bennett, K;Bignami, G;Bloemen, J;Buccheri, R;Caraveo, P;Hermsen, W;Kanbach, G;Lebrun, F;Mayer-Hasselwander, H;Strong, A|Cos-B Gamma-Ray Sources and Interstellar Gas|5
+1985ICRC....1..342B|Bhat, C;Mayer, C;Wolfendale, A|Excess Gamma Rays from the Loop i Supernova Remnant|0
+1985ICRC....3..195D|Dogiel, V;Gurevich, A;Istomin, Y;Zybin, K|Giant Molecular Clouds as Regions of Particle Acceleration|0
+1985ICRC....3..318J|Jenkins, T;Frye, G;Hall, C;Owens, G;Pendleton, G;Carter, J;Ramsden, D;Agrinier, B;Bonfand, E;Refloch, A|Operating characteristics of a prototype high energy gamma-ray telescope|0
+1985ICRC....3..334A|Agnetta, G;Agrinier, B;Chabaud, J;Costa, E;di Raffaele, R;Frabel, P;Gouiffes, G;Landrea, M;Mandrou, P;Masnou, J;Massaro, E;Niel, M;Rouaix, G;Sacco, B;Salvati, M;Scarsi, L;Tabary, A;Vedrenne, G|The FIGARO Experiment for the Observation of Time Marked Sources in the Low Energy Gamma-Ray Range|0
+1985ICRC....3..383M|Mayer-Hasselwander, H;Bennett, K;Bignami, G;Bloemen, J;Buccheri, R;Caraveo, P;Hermsen, W;Kanbach, G;Lebrun, F;Paul, J|The final COS-B database now publicly available|7
+1985ICRC....3..387S|Strong, A;Bloemen, J;Buccheri, R;Hermsen, W;Lebrun, F;Mayer-Hasselwander, H|The Final Cos-B Database: In-Flight Calibration of Instrumental Parameters|1
+1985IzKry..72..125V|Vladimirskii, B|The spatial distribution of pulsars in the Galaxy and the nature of the gamma sources|1
+1985S&T....70..301B|Bignami, G|Gamma-Ray Astronomy Comes of Age|1
+1985xra..conf..499T|Tkaczyk, W;Karakula, S;Giovannelli, F|The bremsstrahlung and π<SUP>0</SUP> decay as gamma-ray source in 3C 273 and Geminga.|0
+1984BAAS...16..933C|Caraveo, P;Bignami, G|CYG X-3 Not Seen in the COS-B &gt; 100 MeV Gamma Rays|0
+1984STIN...8418151F|Fichtel, C;Kniffen, D|A study of the diffuse galactic gamma radiation|0
+1984STIN...8516729H|Harding, A;Stecker, F|The galactic gamma-ray distribution: Implications for galactic structure and the radial cosmic ray gradient|0
+1984adas.conf...13L|Lebrun, F|La base de données COS B.|0
+1984bens.work..303B|Brecher, K|Gamma-Ray Emission from Fast Pulsars|0
+1984heac.conf...87S|Strong, A|Cos-B Studies of High-Latitude Gamma-Rays|0
+1983AIPC..101..129K|Kanbach, G|High energy observations of pulsars|0
+1983AIPC..101..147B|Buccheri, R|COS-B upper limits on gamma-ray emission from radio pulsars|0
+1983AIPC..101..152C|Caraveo, P;Bignami, G;Lamb, R|The Quest for Elusive Geminga: a Unique Object Proposed as the Counterpart of 2CG 195+04|0
+1983AIPC..101..157G|Gupta, S;Ramana Murthy, P;Sreekantan, B;Tonwar, S;Viswanath, P|Energy spectra of very high energy γ-rays from the crab and vela pulsars|1
+1983ASSL..100...31B|Bloemen, J|Gamma radiation as a tracer of the local interstellar gas|5
+1983ASSL..100..223M|Mayer-Hasselwander, H|COS-B gamma-ray measurements and the large-scale distribution of interstellar matter|7
+1983ASSL..105...65H|Hermsen, W;Bloemen, J|The large-scale distribution of galactic gamma-ray emission|10
+1983ASSL..105...79L|Lebrun, F|Gas content and gamma ray emission in the first galactic quadrant|0
+1983ASSL..105...99S|Strong, A|Local interstellar gas distribution from gamma-ray emission|0
+1983ASSL..105..271B|Bennett, K|High energy satellite surveys|0
+1983IAUS..101..495M|Manchester, R;Tuohy, I;Damico, N|A search for pulsars associated with supernova remnants in the Galaxy and the Magellanic Clouds|5
+1983ICRC....1...75A|Ayre, C;Bhat, P;Ma, Y;Myers, R;Thompson, M|Search for Gamma Ray Lines from the Seyfert Galaxy NGC 1275 and the COSB Source CG 195+04|0
+1983ICRC....1..106H|Houston, B;Wolfendale, A|Source Catalogue of Gamma Rays from SAS II Data|0
+1983ICRC....1..114V|Vladimirskii, B|Space Distribution of the Pulsars in the Galaxy and the Nature of the Gamma-Ray Sources|0
+1983ICRC....1..131S|Stamm, W;Samorski, M|Search for Gamma Rays of Energies E &gt; 10**15 EV from Discrete Sources|3
+1983ICRC....1..148K|Karakula, S;Tkaczyk, W;Giovannelli, F|Gamma Rays Sources - Black Holes?|0
+1983ICRC....1..153A|Agaronian, F;Vardanian, V|The Development of the Electromagnetic Cascade Showers Initiated by High-Energy Electrons and Gamma-Rays in the Hot Photon Gas|0
+1983ICRC....1..165K|Kniffen, D;Fichtel, C;Hartman, R|Diffuse Galactic Emission of High Energy Gamma Rays|2
+1983ICRC....9...30A|Ayre, C;Bhat, P;Ma, Y;Myers, R;Thompson, M|Search for Gamma Ray Lines from the Seyfert Galaxy NGC 1275 and the COS B Source CG 195 + 04|0
+1983ICRC....9...37T|Tumer, T;Long, J;Oneill, T;Zych, A;White, R;Dayton, B|Gamma Rays of 1-30 Mev from the VELA Pulsar PSR 0833-45|1
+1983ICRC....9...49B|Buccheri, R;Bennett, K;Bignami, G;Bloemen, J;Boriakoff, V;Caraveo, P;Hermsen, W;Kanbach, G;Manchester, R;Masnou, J;Mayer-Hasselwander, H;Ozel, M;Paul, J;Sacco, B;Scarsi, L;Strong, A|COS-B upper limits on gamma-ray emission from radio pulsars.|0
+1983ICRC....9...90S|Strong, A;Bignami, G;Caraveo, P;Bennett, K;Bloemen, J;Hermsen, W;Buccheri, R;Lebrun, F;Mayer-Hasselwander, H;Ozel, M|COS-B measurements of high-latitude gamma rays and evidence for a component not related to the gas.|1
+1983ICRC...12..435P|Porter, N|Rapporteur paper on high energy gamma-ray astronomy, sessions XG4 andXG5 (of the conference).|1
+1983MPERp.179.....G|Gottwald, M|Galaktische Gammastrahlung und das interstellare Medium.|0
+1983MoIKI.........K|Kalinkin, L;Nagornykh, I|Observation of high-energy diffuse gamma-radiation by the Cosmos-856 and Cosmos-914 satellites|0
+1983S&W....22..466G|Gottwald, M|Gamma-Astronomie mit COS-B.|0
+1982ASSL...99..233W|Wolfendale, A|Cosmic gamma rays|0
+1982BAAS...14..890C|Caraveo, P|New Vistas of the Galaxy in γ-rays from COS-B|0
+1982BAAS...14Q.869B|Bignami, G|An Example of a COS-B Gamma-ray Source Error Box Investigated at X-ray, Optical and Radio Wavelengths|0
+1982EN.....13....1B|Bignami, G|Gamma-ray astronomy beyond the COS-B mission.|0
+1982MmSAI..53.1011B|Buccheri, R|Radio pulsars behaviour above 50 MeV|0
+1982S&T....64T.538.||The Milky way in Gamma-Rays - Cos-B Results|0
+1982STIN...8316374.||Europe's place in space|0
+1982STIN...8419194.||Space research in the Netherlands|0
+1982esas.rept.1980P|Page, D;Fitton, B;Pedersen, A;Taylor, B;Wenzel, K;Guyenne, T;Swallow, E;Levy, G|Report on the activities of Space Science Department in 1980-1981|0
+1982iue..prop.1280B|Bignami, G|Investigation on the Binary Nature of the Radio and X-Ray Star LSI+61 .303, Associated with a COS-B Gamma-Ray SOU G. F.|0
+1982vheg.work..141S|Strong, A|Cos-B and High Energy Astronomy|1
+1981ASSL...89..155M|Montmerle, T|Possible links between supersonic stellar winds and the origin of cosmic rays|1
+1981BAAS...13..896W|Weekes, T;Danaher, S;Fegan, D;Porter, N|High Energy Gamma Ray Observations of Cygnus X-3|0
+1981BAAS...13R.557S|Scheepmaker, A;Jansen, F;Deerenberg, A;Ricker, G;Ballintine, J;Vallerga, J;Kruper, J;Lewin, W|High Energy X-ray Observations of the COS-B Gamma Ray Source CG135+1|1
+1981ESABu..28...48T|Taylor, B;Wills, R|Six years of gamma-ray astronomy with Cos-B.|0
+1981IAUS...94..279S|Scarsi, L;Buccheri, R;Gerardi, G;Sacco, B|The gamma-ray sky|2
+1981IAUS...94..309W|Wolfendale, A|Gamma rays from cosmic rays|14
+1981IAUS...94..321M|Montmerle, T;Paul, J;Casse, M|Cosmic rays from regions of star formation. I - The Carina complex|1
+1981IAUS...94..323C|Casse, M;Montmerle, T;Paul, J|Cosmic rays from regions of star formation. II - The OB associations. III - The role of T-Tauri stars in the Rho OPH cloud|5
+1981IAUS...94..337B|Bignami, G|Search for X-Ray Sources in the Cos-B Gamma-Ray Error Boxes|1
+1981ICRC....1...22W|Wills, R;Bennett, K;Bignami, G;Caraveo, P;Buccheri, R;Hermsen, W;Kanbach, G;Mayer-Hasselwander, H;Masnou, J;Paul, J|History of the gamma-ray light curves of the pulsars PSR0531 plus 21 and PSR0833-45 as measured by COS-B|5
+1981ICRC....1..139C|Caraveo, P;Barbareschi, L;Bignami, G;Bennett, K;Hermsen, W;Kanbach, G;Mayer-Hasselwander, H;Lebrun, F;Masnou, J;Sacco, B|On a more extended correlation between COS-B gamma rays and interstellar matter in the Orion region|16
+1981ICRC....1..143M|Masnou, J;Strong, A;Catala, C|Gamma-Ray Emission from the Orion Cloud Complex and the Ratio CO/H2|0
+1981ICRC....1..146S|Strong, A;Bignami, G;Caraveo, P;Lebrun, F;Paul, J;Mayer-Hasselwander, H;Kanbach, G;Hermsen, W;Wills, R|COS-B gamma-ray measurements, cosmic rays and the local interstellar medium|2
+1981ICRC....1..150I|Issa, M;Riley, P;Li, T;Wolfendale, A|Gamma Rays from Specific Molecular Clouds|4
+1981ICRC....1..154P|Pei, T;Wolfendale, A|A statistical study of gamma-rays from giant molecular clouds on a galactic scale|0
+1981ICRC....1..158B|Bignami, G;Caraveo, P;Paul, J;Marano, B;Vettolani, G|On the Search for X-Ray Sources and Their Optical Counterparts in the Error Box of the Cos-B Source 2CG 135+01|2
+1981ICRC....1..162M|Montmerle, T;Koch, L;Grindlay, J|Constraints Set by "einstein" X-Ray Observations on a Possible Compact Counterpart to the Cos-B Gamma-Ray Source Associated with the Rho OPH Cloud|3
+1981ICRC....1..166M|Montmerle, T;Grindlay, J;Koch, L|Variable X-Ray Sources in the Rho Ophiuchi Dark Cloud|4
+1981ICRC....1..177M|Masnou, J;Paul, J;Bennett, K;Bignami, G;Caraveo, P;Bloemen, J;Hermsen, W;Buccheri, R;Kanbach, G;Mayer-Hasselwander, H|Observation by COS-B of the gamma-ray source 2CG195/plus/04|24
+1981ICRC....1..182B|Bignami, G;Barbareschi, L;Caraveo, P;Bloemen, J;Hermsen, W;Buccheri, R;Kanbach, G;Mayer-Hasselwander, H;Lebrun, F;Paul, J|COS-B observations of gamma-ray emission from local galactic features|7
+1981ICRC....1..206M|Mayer-Hasselwander, H;Kanbach, G;Bennett, K;Bignami, G;Caraveo, P;Buccheri, R;Hermsen, W;Lebrun, F;Masnou, J;Paul, J|New large-scale properties of the galactic gamma radiation observed by COS-B in the context of the diffuse emission within the galactic disc|1
+1981ICRC....1..230H|Hermsen, W;Bloemen, J;Bennett, K;Bignami, G;Caraveo, P;Buccheri, R;Kanbach, G;Mayer-Hasselwander, H;Masnou, J;Paul, J|Further COS-B evidence for gamma-ray emission from 3C273|27
+1981ICRC....8....1D|Di Cocco, G;Butler, R;Morelli, E;Spada, G;Spizzichino, A;Villa, G;Barbareschi, L;Boella, G;Perotti, F;Ubertini, P;Badiali, M;La Padula, C;Polcaro, V;Dean, A;Carter, J;Charalambous, P;Ramsden, D;Stephen, J|The Use of Coded Aperture Masks in Low Energy Gamma-Ray Astronomy|2
+1981ICRC....9...17C|Cherry, M;Dunphy, P;Chupp, E;Forrest, D;Ryan, J|Upper limits to pulsed gamma ray emission from PSR 0833-45, 1747-46, and 1818-04|2
+1981ICRC....9...64B|Bloemen, J;Hermsen, W;Bennett, K;Caraveo, P;Strong, A;Kanbach, G;Mayer-Hasselwander, H;Masnou, J;Paul, J;Sacco, B|Evidence in the COS-B data for time-variable gamma-ray sources in the galactic plane|2
+1981ICRC...12...79P|Paul, J|Gamma rays and astronomy|1
+1981MmSAI..52...95M|Macchetto, F|Space astronomy in the European Space Agency.|0
+1981SciN..119..213.||Second Cos-B Gamma-Ray Source Catalogue|0
+1981plap.rept..371Z|Zweibel, E;Shull, J|Confinement of cosmic rays in molecular clouds|0
+1980ATi....13...20G|Gyldenkerne, K|Kosmisk gammastråling. COS-B eksperimentet og dets resultater.|0
+1980CIBu...89...48.||COS-B five years in orbit|0
+1980ESABu..23...10P|Page, D|Recent scientific achievements of ESA spacecraft.|0
+1980IzKry..61...55V|Vladimirskii, B|Discrete gamma-ray sources, historic supernovae, and pulsars|1
+1980IzKry..61...61N|Neshpor, I;Zyskin, I;Vladimirskii, B;Gerasimov, S;Stepanian, A;Fomin, V|The periodical component of high-energy gamma-radiation of source CygX-3.|2
+1980MmSAI..51..713S|Serio, G;Vaiana, G|Einstein observations of X-ray emission from variable stars|0
+1980NYASA.336.....E|Ehlers, J;Perry, J;Walker, M|Ninth Texas Symposium on Relativistic Astrophysics. Proceedings of a conference held in Munich, West Germany, December 14 - 19, 1978.|1
+1980NYASA.336..211M|Mayer-Hasselwander, H;Buccheri, R;Kanbach, G;Bennett, K;Lichti, G;Bignami, G;Damico, N;Hermsen, W;Lebrun, F;Masnou, J|COS-B observation of the Milky Way in high-energy gamma rays|52
+1980NYASA.336..223C|Cesarsky, C|Gamma rays, cosmic rays, and the dynamics of the galaxy|3
+1980STIN...8224159C|Casse, M;Montmerle, T;Paul, J|Cosmic rays from regions of star formation. 2: The OB associations|0
+1980nsgr.symp.....C|Cowsik, R;Wills, R|Non-solar gamma-rays|0
+1980nsgr.symp...43W|Wills, R;Bennett, K;Lichti, G;Bignami, G;Caraveo, P;Buccheri, R;Kanbach, G;Damico, N;Hermsen, W;Masnou, J|High-energy gamma-ray sources observed by COS-B|16
+1980nsgr.symp...49L|Lichti, G;Buccheri, R;Gerardi, G;Caraveo, P;Hermsen, W;Swanenburg, B;Kanbach, G;Mayer-Hasselwander, H;Masnou, J;Paul, J|COS-B measurements of the spectra of the Crab and VELA gamma-ray sources|12
+1980nsgr.symp...61M|Montmerle, T;Cesarsky, C|New evidence for links between SNOBs and galactic gamma-ray sources|2
+1980nsgr.symp..147S|Simpson, G|Observations of diffuse galactic gamma rays|1
+1980nsgr.symp..159W|Wills, R|Large-Scale Structure of the Milky way as Observed by Cos-B in High-Energy Gamma-Rays|0
+1980nsgr.symp..227B|Bignami, G|'The Europhysics Study Conference on Gamma-Ray Astronomy After COS-B,' Erice, Italy, 17-23 May 1979|0
+1979ASSL...75....1S|Swanenburg, B|Gamma-Ray Sources: A Puzzle, or a Piece of the Puzzle?|3
+1979BAAS...11..467H|Hartman, R;Bignami, G;Fichtel, C;Thompson, D|Spectral Steepening in High Energy Photon Spectra|0
+1979IAUS...84..125P|Paul, J|Gamma-Ray Observations and the Large-Scale Structure of the Galaxy|1
+1979IAUS...84..475S|Stecker, F|Gamma-Ray Evidence for a Galactic Halo|7
+1979ICRC....1..203C|Caravane Collaboration|Cos-B Results of Gamma-Ray Emission from Radio Pulsars|0
+1979ICRC....1..204C|Caravane Collaboration|Cos-B Observations of the VELA Pulsar, PSR 0833-45|0
+1979ICRC....1..205C|Caravane Collaboration|Large-Scale Structure of the Milky way, as Observed by Cos-B in High-Energy Gamma Rays|0
+1979ICRC....1..207C|Caravane Collaboration|High-Energy Gamma-Ray Sources Observed by Cos-B|0
+1979ICRC...12...26Z|Zanrosso, E;Long, J;Zych, A;Gibbons, R;White, R;Dayton, B|Observations of the Crab Nebula, NGC 4151, CYG x1 and CYG x3 at Medium Gamma Ray Energies|2
+1979ICRC...12...36C|Caravane Collaboration|High-Energy Gamma-Ray Sources Observed by Cos-B|0
+1979xras.proc..277K|Koch-Miramond, L|COS-B observations of compact X-ray sources.|0
+1978BAAS...10..514B|Bignami, G|Interpretation of High-Energy Gamma-Ray Astronomy Data.|0
+1978BAAS...10R.513W|Wills, R|Recent COS-B Results (invited).|0
+1978STIN...7918877H|Hartman, R;Kniffen, D;Thompson, D;Fichtel, C;Ogelman, H;Tuner, T;Ozel, M|Galactic plane gamma radiation|0
+1978sss..meet..B10B|Bennett, K;Wills, R;Protheroe, R;Wolfendale, A;Strong, A|Some implications of the galactic gamma-ray results of Cos-B.|0
+1977ASSL...63...39P|Paul, J|High-Energy Gamma-Ray Results from the Cos-B Satellite and Infrared Astronomy (Abstract)|0
+1977BAAS....9..317B|Bennett, K|INVITED PAPER - COS/B Observations of High Energy Gamma Radiation from the Galaxy.|0
+1977ESASP.124.....W|Wills, R;Battrick, B|Recent advances in gamma-ray astronomy|3
+1977ESASP.124....3S|Scarsi, L;Bennett, K;Bignami, G;Boella, G;Buccheri, R;Hermsen, W;Koch, L;Mayer-Hasselwander, H;Paul, J;Pfeffermann, E|The Cos-B Experiment and Mission|38
+1977ESASP.124...13H|Hermsen, W;Bennett, K;Bignami, G;Boella, G;Buccheri, R;Higdon, J;Kanbach, G;Lichti, G;Masnou, J;Mayer-Hasselwander, H|Cos-B Observations of Localised Gamma-Ray Emission|10
+1977ESASP.124...21K|Kanbach, G;Bennett, K;Bignami, G;Boella, G;Bonnardeau, M;Buccheri, R;Damico, N;Hermsen, W;Higdon, J;Lichti, G|Cos-B Results on a Search for Pulsed Gamma-Ray Emission from Radio Pulsars|12
+1977ESASP.124...33M|Masnou, J;Bennett, K;Bignami, G;Buccheri, R;Caraveo, P;Damico, N;Hermsen, W;Kanbach, G;Lichti, G;Mayer-Hasselwander, H|Search for Gamma-Ray Time Variability of Cygnus X-3 and CG 195+4|18
+1977ESASP.124...39W|Weekes, T;Helmken, H|Observations of the 100 MeV Gamma-Ray Sources at Energies of 100-1000 GeV|9
+1977ESASP.124...83B|Bennett, K;Bignami, G;Buccheri, R;Hermsen, W;Kanbach, G;Lebrun, F;Mayer-Hasselwander, H;Paul, J;Piccinotti, G;Scarsi, L|Cos-B Observations of Galactic Gamma-Ray Emission (large Scale)|25
+1977ESASP.124..139S|Schlickeiser, R;Thielheim, K|a New Test for the Origin of Galactic Gamma Rays|1
+1977ESASP.124..167S|Strong, A;Wolfendale, A;Bennett, K;Wills, R|Gamma Rays and the Cosmic-Ray Gradient Away from the Galactic Centre|10
+1977ESASP.124..235M|Montmerle, T|Cos-B and Cosmology|0
+1977ESASP.124..309B|Buccheri, R;Damico, N;Scarsi, L;Kanbach, G;Masnou, J|Pulsar Search in the Gamma-Ray Energy Range and Evaluation of the Pulsar Relevant Parameters|8
+1977ESASP.124R.225M|Montmerle, T|COS-B and cosmology.|0
+1977IAUC.3150....1A|Apparao, K;Maraschi, L;Bignami, G;Helmken, H;Margon, B;Hjellming, R;Bradt, H;Dower, R|Extragalactic Identification of 4U 0241+62|3
+1977ICRC....1....1P|Paul, J;Bennett, K;Bignami, G;Buccheri, R;Hermsen, W;Kanbach, G;Lebrun, F;Mayer-Hasselwander, H;Piccinotti, G;Scarsi, L;Soroka, F;Swanenburg, B;Wills, R|COS-B Observations of Galactic Gamma-Ray Emission (Large Scale)|0
+1977ICRC....1...43S|Schlickeiser, R;Thielheim, K|A Test for the Origin of Galactic Gamma Rays|0
+1977ICRC....1..106C|Caravane Collaboration|COS-B Observations of Gamma Ray Emission from Pulsars (Abstract)|0
+1977ICRC....1..107C|Caravane Collaboration|COS-B Observations of Discrete Sources of High-Energy Gamma Radiation (Abstract)|0
+1977ICRC...10..139P|Pinkau, K|Gamma Ray Astronomy|0
+1977ICRC...11....7K|Kanbach, G;Bennett, K;Bignami, G;Boella, G;Bonnardeau, M;Buccheri, R;D'Amico, N;Hermsen, W;Higdon, J;Lichti, G;Masnou, J;Mayer-Hasselwander, H;Paul, J;Scarsi, L;Swanenburg, B;Taylor, B;Wills, R|COS-B Results on a Search for Pulsed Gamma-ray Emission from Radio Pulsars|0
+1977ICRC...11...14H|Hermsen, W;Bennett, K;Bignami, G;Boella, G;Buccheri, R;Higdon, J;Kanbach, G;Lichti, G;Masnou, J;Mayer-Hasselwander, H;Paul, J;Scarsi, L;Swanenburg, B;Taylor, B;Wills, R|COS-B Observations of Localised Gamma-Ray Emission|0
+1977NASCP...2...27B|Bennett, K;Burger, J;Lichti, G;Taylor, B;Wills, R;Bignami, G;Boella, G;Buccheri, R;Cuccia, A;Scarsi, L;Hermsen, W;Higdon, J;Swanenburg, B;Kanbach, G;Mayer-Hasselwander, H;Koch, L;Masnou, J;Paul, J;Shukla, P|Preliminary results from the European Space Agency's COS-B satellite for gamma-ray astronomy.|0
+1977NASCP...2...29.||The COS-B experiment and mission|0
+1977NASCP...2...41.||COS-B observations of the high-energy gamma radiation from the galactic disk|0
+1977NASCP...2...45.||COS-B observations of localized sources of gamma-ray emission|0
+1977NASCP...2...53.||The time structure of the gamma-ray emission from the Crab and VELA pulsars|0
+1977NASCP...2..315S|Stecker, F|Gamma rays, cosmic rays, and galactic structure.|9
+1977NYASA.302..349K|Koch, L|COS-B Observations of Localized High-Energy Gamma-Ray Emission|1
+1977STIN...7810995S|Stecker, F|Gamma rays from the magellanic clouds|0
+1977grep.conf..337W|Wills, R|High-Energy Gamma-Ray Astronomy and the Cos-B Mission|0
+1977prag.iafcT....B|Bonnardeau, M|Observation of cosmic gamma rays with the COS-B satellite|0
+1976BAAS....8..527.||COS-B Observations of Galactic Gamma Radiation. THE CARAVANE COLLABORATION|0
+1976BAAS....8..528W|White, R;Dayton, B;Moon, S;Ryan, J;Wilson, R;Zych, A|Cosmic Diffuse Gamma-Rays From 2 to 30 MeV.|0
+1976IAUC.2992....3W|Wills, R|High-Energy gamma-Ray Source|3
+1976IAUC.3021....2W|Wills, R|Enhanced gamma-Ray Emission|0
+1976MitAG..40Q.171M|Mayer-Hasselwander, H;Kanbach, G|Erste Ergebnisse des Satelliten Cos-B für die Gammastrahlungs-Astronomie I. Instrument und Meßergebnisse für den Crab-Nebel|0
+1976MitAG..40R.171M|Mayer-Hasselwander, H;Kanbach, G|Erste Ergebnisse des Satelliten Cos-B für die Gammastrahlungs-Astronomie II. Vorläufige Meßergebnisse für das galaktische Zentrum und die Vela Region|0
+1976STIN...7631129C|Crannell, C|The structure and content of the galaxy and galactic gamma rays. A review|0
+1976aiaa.meet.....F|Friedman, H|Recent advances and near future prospects in high energy astronomy|0
+1975ESABu.......20T|Taylor, B|The experiment|1
+1975ESABu.......26H|Hill, P|The spacecraft|0
+1975STIN...7528094.||NASA to launch European cosmic ray experimental satellite|0
+1975STIN...7627552T|Taylor, B|The COS-B experiment programme|0
+1975Zenit...2..380B|Beekman, G|Europese COS-B met succes gelanceerd.|0
+1975tsse.conf...94D|Duc, R|COS B and Gemeaux S - Two experiments representative of the working methods employed at the CEN of Saclay|0
+1974STIA...7518775T|Taylor, B|The phenomenon of gamma-ray bursts and COS-B|0
+1974Zenit...1...58B|Beekman, G|Ballonvlucht met het COS-B experiment.|0
+1974csgr.conf.....T|Taylor, B|The context and status of gamma-ray astronomy. Proceedings of ninth ESLAB symposium 10_-_12 June 1974, Frascati, Italy.|6
+1974csgr.conf...57B|Boella, G;Gorisse, M;Paul, J;Taylor, B;Wills, R|The capability of COS-B to measure cosmic gamma-ray bursts.|0
+1974csgr.conf...69E|Evans, W|Future satellite experiments for gamma-burst observations.|1
+1974csgr.conf..211S|Samimi, J;Share, G;Kinzer, R|High-resolution observation of gamma-radiation from the galactic plane.|1
+1974csgr.conf..307B|Bignami, G;Boella, G;Burger, J;Keirle, P;Mayer-Hasselwander, H;Paul, J;Pfeffermann, E;Scarsi, L;Swanenburg, B;Taylor, B;Voges, W;Wills, R|The COS-B experiment for gamma-ray astronomy.|0
+1974csgr.conf..323B|Bennett, K;Burger, J;Gorisse, M;Mayer-Hasselwander, H;Paul, J;Pfeffermann, E;Shukla, P;Stiglitz, R;Swanenburg, B;Taylor, B;Wills, R|Physical characteristics of the COS-B gamma-ray experiment.|1
+1974csgr.conf..339S|Shukla, P;Mayer-Hasselwander, H|Determination of gamma-ray direction of incidence in gamma-ray astronomy spark chambers.|1
+1974csgr.conf..345B|Boella, G;Buccheri, R;Coffaro, P;Molteni, D;Scarsi, L|Variable cosmic X and gamma-ray sources.|0
+1974csgr.conf..353B|Boella, G;Buccheri, R;Burger, J;Coffaro, P;Paul, J|Gamma-ray source pulsating pattern "synchronisation" via simultaneous X-ray observation in the COS-B mission.|1
+1974csgr.conf..363W|Wills, R|Observations of terrestrial albedo gamma-rays from the COS-B orbit.|0
+1974csgr.conf..369S|Scarsi, L|The COS-B observation programme and correlated measurements.|0
+1974tcgx.conf..250T|Taylor, B|The COS-B Experiment and the Detection and Measurement of Transient Gamma-Ray Sources|0
+1973ESROB..23....9T|Taylor, B|Balloon flight of the COS-B experiment.|0
+1973ICRC....4.2727A|Andresen, R;Arens, I;Bignami, G;Burger, J;Coffaro, P;Gorisse, M;Hermsen, W;Herterich, K;Mayer-Hasselwander, H;Paul, J;Pfeffermann, E;Swanenburg, B;Taylor, B;Voges, W;Wills, R|An Accelerator Evaluation of the Performance of the COSB Experiment for Gamma-Ray Astronomy|3
+1971IAUS...41...37V|van de Hulst, H;Scheepmaker, A;Swanenburg, B;Pfeffermann, H;Mayer-Hasselwander, H;Pinkau, K;Rothermel, H;Schneider, H;Voges, W;Labeyrie, J;Keirle, P;Paul, J;Bellomo, G;Bignami, G;Boella, G;Scarsi, L;Pearce, G;Hutchinson, A;Ramsden, D;Wills, R;Wright, P|Spectral Analysis of Gamma Rays with the Cos-B Satellite. The Caravane Collaboration|2
+1970IAUS...37...50W|Willmore, A|A Proposal for an X-Ray Experiment for Cos-B|0

@@ -1,0 +1,28 @@
+{
+  "title": "The Discoverer series satellites",
+    "name": "Discoverer 29, 31, & 34",
+    "decade": 1960,
+    "alttext": "",
+    "imagesize": null,
+    "imageurl": null,
+    "descript": "<p><b><font size=\"+2\">T</font>he Discoverer series</b> consisted of several near-identical satellites which had a &sim;1000 kg cylindrical body with a conical top. The cylinder was 1.52 m in diameter and 7.62 m high. The scientific unit was 0.84 m diameter and 0.69 m high. They were all put into orbits with a 90-95 minute period (&sim;225 km perigee, &sim;550 km apogee, &sim;82 degrees inclination). Typically, after 30&ndash;35 orbits, the scientific units would be jettisoned from the main spacecraft body and would be recovered after splashdown. While mostly classified military missions, several Discoverers are known to have contained scientific X-ray counters.",
+    "lifetime": "1961&ndash;1966",
+    "features": [],
+    "series": [
+	{
+	    "name" : "Discoverer 29 (1961 Psi)",
+	    "descript" : "Discoverer 29 (1961 Psi) was launched 30 August 1961, by the U.S. Air Force Ballistic Missile Division into a low altitude polar orbit (apogee 345 miles, perigee 140 miles, inclination 82.1 deg) with an orbit period of 91.6 min. The program objectives were to test a system of better orbital control of the Agena B launch vehicle and to collect scientific data concerning electrons, x-rays, and galactic RF radiation. In addition, several biological specimens were exposed to the environment of space while making 33 orbits of the earth. The science unit jettisoned after these 33 orbits and was recovered near Hawaii on 4 September 1961. The spacecraft decayed from orbit and was recovered on 10 September 1961, from the sea. Information concerning the success of the spacecraft is unknown."
+	},
+	{
+	    "name" : "Discoverer 31",
+	    "descript" : "Discoverer 31 was launched on 17 September 1961. The science unit failed to jettison. The spacecraft reentered the atmosphere on 26 October 1961."
+	},
+	{
+	    "name" : "Discoverer 34 (1961 Alpha Epsilon)",
+	    "descript" : "Discoverer 34 (1961 Alpha Epsilon), launched 5 November 1961, was a 1700 lb (capsule 300 lb) spacecraft whose payload was not disclosed, but was probably similar to Discoverer 29. The spacecraft was launched by the U.S. Air Force Ballistic Missile Division into a polar orbit (apogee 614 miles, perigee 140 miles, inclination 82.6 deg) with a period of 96.9 min. The science capsule failed to jettison properly and the spacecraft fell silent on 7 December 1962, but was known to be still in orbit as of 1966. The spacecraft was to implement evaluation of design reliability and accuracy of the spacecraft orbit, capsule re-entry, and recovery. The spacecraft was also one of a series used to support space program experiments."
+	}
+    ],
+  "highlights": [],
+  "archive": "",
+  "navigation": []
+}

@@ -1,0 +1,51 @@
+{
+    "title": "IXPE",
+    "name": "IXPE",
+    "gofsidebar" : "Active",
+    "decade" : 2020,
+    "alttext": "Artistic impression of IXPE",
+    "imagesize": 300,
+    "imageurl": "/Images/misc_missions/IXPE.jpg",
+    "descript": "<p><b><font size=\"+2\">T</font>he Imaging X-ray Polarimetry Explorer (IXPE)</b> mission was launched on December 9, 2021 on a SpaceX Falcon 9 rocket from NASA&rsquo;s Kennedy Space Center in Florida into an equatorial orbit of 600 km altitude. The payload consists of three identical grazing incidence telescopes, each comprised of a mirror module assembly, developed at NASA/MSFC, with an X-ray-polarization-sensitive detector, provided by the Italian Space Agency (Agenzia Spaziale Italiana; ASI), at its focus. The payload sits atop a spacecraft bus provided by Ball Aerospace.</p>\n\n<p>The observatory operates in pointing mode observing known targets for multiple (but not necessarily consecutive) orbits. Data are sent to a ground station in Malindi, Kenya, approximately 8 times per day and then are transmitted, via gateways in Italy and the US, to the mission operations center in Boulder, Colorado. From there, science data flows to the science operation center in Huntsville Alabama.</p>",
+    "decade" : 2020,
+    "gofsidebar" : "Active",
+    "lifetime": "9 Dec 2021&ndash; (currently operating)",
+    "features": [
+	"Provide simultaneous spectral, spatial and timing polarimetry measurements"
+    ],
+    "instruments": [
+	{
+	    "name" : "Mirror Module Assemblies (MMA)",
+	    "length" : "4 m",
+	    "resolution" : "&sim;20&ndash;25&Prime; (MMA only)",
+	    "fov" : "12.9&prime; on a side (detector limited)",
+	    "area" : "167 cm<sup>2</sup> at 2.3 keV<br>197 cm<sup>2</sup> at 4.5 keV",
+	    "descript" : "MMA consists of three grazing-incidence mirror modules of Wolter-I type each with 24 concentrically-nested mirror shells with diameters ranging from 162 to 272 mm. The MMAs are mounted on an extendable boom which deployed on orbit to give the appropriate 4 m focal length. A tip/tilt/rotate mechanism provides alignment adjustment."
+	},
+	{
+	    "name" : "Detector Units (DU)",
+	    "energy" : "2&ndash;8 keV",
+	    "resolution" : "&le;123 &micro;m (6.4&Prime;) at 2 keV",
+	    "energy_resolution" : "0.54 keV at 2 keV",
+	    "polarization" : "Linear; Minimum Detectable Polarization at 99% (MDP<sub>99</sub>) of &ldquo;a few percent&ldquo; for moderately bright sources",
+	    "descript" : "The Detector Units (DUs) are three Gas Pixel Detectors (GPDs) each located at the focus of an x-ray mirror module. Each GPD provides the position, energy, time and polarization information for every absorbed event. The GPD images the photoelectron tracks produced by the x-rays absorbed in a special fill gas and from its initial emission direction the polarization of the source is determined. The initial interaction point and the total charge in the track provide the location and energy of the absorbed x-ray, respectively. The GPDs are filled with DME gas at 0.656 atm pressure and the detector sensitive area is 15 mm &times; 15 mm."
+	}
+    ],
+    "goals": [
+    ],
+  "archive": "The HEASARC hosts the IXPE archive.",
+  "navigation": [
+    {
+      "url": "/docs/ixpe/",
+      "text": "IXPE at HEASARC"
+    },
+    {
+      "url": "https://ixpe.msfc.nasa.gov/",
+      "text": "IXPE at MSFC"
+    },
+    {
+      "url": "biblio/ixpe_biblio.html",
+      "text": "Publications"
+    }
+  ]
+}

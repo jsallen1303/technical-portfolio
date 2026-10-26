@@ -1,0 +1,72 @@
+2010PNAS..107.7164P|Pooley, D|Globular cluster x-ray sources|19
+1994ApJ...435..181O|Osako, C;Ulmer, M;Grabelsky, D;Purcell, W;Strickman, M;Johnson, W;Kinzer, R;Kurfess, J;Jung, G|OSSE Observations of NGC 1275 in the 0.05--10.0 MeV Range|9
+1981Ap&SS..77..215S|Singh, K;Manchanda, R;Naranan, S;Sreekantan, B|Soft X-ray emission from the high galactic latitude X-ray source MX 2140-60|0
+1981ApJ...243L...9R|Rothschild, R;Baity, W;Marscher, A;Wheaton, W|Nonthermal hard X-ray emission from the nucleus of NGC 1275.|49
+1981ApJ...250..723R|Rothschild, R;Gruber, D;Knight, F;Matteson, J;Nolan, P;Swank, J;Holt, S;Serlemitsos, P;Mason, K;Tuohy, I|The X-ray sxpectrum of AM HER from 0.1 to 150 KEV.|85
+1980Natur.284..324L|Laros, J;Wheaton, W|A probable 1970 hard X-ray outburst by 4U 0041+32.|4
+1980Natur.286..786R|Rothschild, R;Gruber, D;Knight, F;Nolan, P;Soong, Y;Levine, A;Primini, F;Lewin, W;Wheaton, W|A high sensitivity determination of the hard X-ray spectrum of SCO X-1.|16
+1979ApJ...229..291F|Frontera, F;Fuligni, F;Morelli, E;Ventura, G|Observation of hard X-ray flux variability of 3U 0352+30 = X Persei.|12
+1979ApJS...39..573M|Markert, T;Winkler, P;Laird, F;Clark, G;Hearn, D;Sprott, G;Li, F;Bradt, H;Lewin, W;Schnopper, H|The MIT/OSO 7 catalog of X-ray sources: intensities, spectra, and long-term variability.|84
+1979Natur.278..434S|Samimi, J;Share, G;Wood, K;Yentis, D;Meekins, J;Evans, W;Shulman, S;Byram, E;Chubb, T;Friedman, H|GX339-4: a new black hole candidate|70
+1979Natur.282..486D|della Ventura, A;Perotti, F;Villa, G;Di Cocco, G;Butler, R;Dean, A;Hayles, R|Evidence for low-energy γ-ray emission close to CG135+1|5
+1978ApJ...221..220W|Winkler, P|X-ray emission from MSH 14-63 - probable remnant of the A.D. 185 supernova.|19
+1978ApJ...221L...7A|Auriemma, G;Angeloni, L;Belli, B;Bernardi, A;Cardini, D;Costa, E;Emanuele, A;Giovannelli, F;Ubertini, P|Hard X-ray spectrum of NGC 4151.|34
+1978ApJ...224....1J|Jones, C;Forman, W|X-ray clusters of galaxies and the luminosity-richness relation.|76
+1978Natur.271..135B|Brecher, K;Ulmer, M|X-ray lines and magnetic field of Her X-1|7
+1978Natur.275..723L|Li, F;Clark, G;Markert, T|Long-term variability of galactic X-ray sources|3
+1977ApJ...211L.129M|Mushotzky, R;Roberts, D;Baity, W;Peterson, L|OSO-7 hard X-ray observations of 3U 0352+30 = X Persei.|23
+1977ApJ...212...22M|Mushotzky, R;Baity, W;Peterson, L|A search for hard X-rays from five strong extragalactic radio sources.|23
+1977ApJ...218..801M|Markert, T;Canizares, C;Clark, G;Hearn, D;Li, F;Sprott, G;Winkler, P|Observations of galactic X-ray sources by OSO-7.|56
+1977Natur.265..606K|Kaluzienski, L;Holt, S;Boldt, E;Serlemitsos, P|Recurrent X-ray outbursts from Aquila X-1|29
+1976Ap&SS..42...57K|Kasturirangan, K;Rao, U;Sharma, D;Rastogi, R;Chakravarty, S|Ionospheric Effects of Transient Celestial X-Ray and Gamma-Ray Events|7
+1976Ap&SS..42..111C|Canizares, C|M. I. T. Studies of Transient X-Ray Phenomena|4
+1976ApJ...203..187L|Li, F;Sprott, G;Clark, G|OSO-7 observations of the X-ray nova 3U 1543-47.|36
+1976ApJ...204L.111W|Winkler, P;Laird, F|Detection of X-ray emission from the remnant of the supernova 1006 A.D.|41
+1976ApJ...206..265M|Markert, T;Canizares, C;Clark, G;Li, F;Northridge, P;Sprott, G;Wargo, G|OSO-7 observations of high galactic latitude X-ray sources.|20
+1976ApJ...206L..45M|Mushotzky, R;Baity, W;Wheaton, W;Peterson, L|UCSD OSO-7 observations of the hard X-ray spectrum and variability of Centaurus A.|28
+1976ApJ...208L.115M|Markert, T;Backman, D;McClintock, J|Observations of two X-ray flares and the nearby source MX 1716-31.|17
+1976ApJ...210..230M|Murray, S;Ulmer, M|Observations of high-latitude X-ray sources with the Uhuru satellite.|11
+1976Natur.260..410P|Pye, J;Cooke, B|Ariel V sky survey observations of X rays from the globular cluster candidates 3U2131+11 and MXO513-40|5
+1976PhDT.........7W|Wheaton, W|Observation of the Galactic Hard X-Ray Background from the OSO-7 Satellite.|17
+1976PhDT........13M|Mushotzky, R|Observations of Hard X-Rays from Extragalactic Objects.|14
+1975ApJ...196..827U|Ulmer, M|Observations of six binary X-ray sources with the UCSD OSO-7 X-ray telescope.|34
+1975ApJ...196L..55M|Markert, T;Clark, G|Observations of X-ray sources in the Large Magellanic Cloud by the OSO-7 satellite.|37
+1975ApJ...197..457C|Canizares, C;Clark, G;Li, F;Murthy, G;Bardas, D;Sprott, G;Spencer, J;Mook, D;Hiltner, W;Williams, W;Moffett, T;Grupsmith, G;vanden Bout, P;Golson, J;Irving, C;Frohlich, A;van Genderen, A|The X-ray, optical, and radio behavior of Scorpius X-1: the 1972 coordinated observations.|50
+1975ApJ...198..447B|Baity, W;Ulmer, M;Peterson, L|Observations of the Circinus X-1 region.|11
+1975ApJ...199L...5B|Baity, W;Jones, T;Wheaton, W;Peterson, L|Hard X-ray observations of NGC 4251.|49
+1975ApJ...199L..93C|Clark, G;Markert, T;Li, F|Observations of variable X-ray sources in globular clusters.|93
+1975ApJ...199L..97C|Canizares, C;Neighbours, J|Observations of a bright, variable X-ray source in a globular cluster.|43
+1975ApJ...199L.139W|Winkler, P;White, A|A sudden increase in the X-ray flux from Centaurus A.|56
+1975ApJ...199L.143C|Clark, G|X-ray binaries in globular clusters.|310
+1975IJRSP...4..203K|Kasturirangan, K;Rao, U;Sharma, D;Rastogi, R;Chakravarty, S|Ionospheric effects of transient celestial X-ray and gamma ray events.|0
+1975Natur.257...32M|Markert, T;Backman, D;Canizares, C;Clark, G;Levine, A|Observations of X rays from near NGC6440|51
+1975SciAm.233f..38C|Charles, P;Culhane, J|X rays from supernova remnants.|2
+1974ApJ...187..341B|Baity, W;Ulmer, M;Wheaton, W;Peterson, L|Extended Observations of &gt; 7-keV X-Rays from Centaurus X-3 by the OSO-7 Satellite|22
+1974ApJ...188..159M|McClintock, J;Clark, G;Lewin, W;Schnopper, H;Canizares, C;Sprott, G|A ten-day observation of Hercules X-1 from the OSO-7 satellite.|19
+1974ApJ...188L..41H|Heinz, C;Clark, G;Lewin, W;Schnopper, H;Sprott, G|OSO-7 Observations of a High-Latitude X-Ray Source Associated with Abell Cluster A2052|9
+1974ApJ...189..339U|Ulmer, M;Sammuli, A;Baity, W;Wheaton, W;Peterson, L|Long-Term Observations of Cygnus X-2 from OSO-7|11
+1974ApJ...191..739S|Sprott, G;Bradt, H;Clark, G;Lewin, W;Schnopper, H;Pigatto, L;Rosino, L|Limit on X-ray emission from a supernova during maximum light.|8
+1974ApJ...191L..27K|Kwok Li, F;Clark, G|Observation of an Absorption Dip in the X-Ray Intensity of Cygnus X-1|2
+1974ApJ...191L..27L|Li, F;Clark, G|Observation of an absorption dip in the X-ray intensity of Cygnus X-1.|47
+1974ApJ...191L..67W|Winkler, P;Clark, G|X-Ray Observations of the Supernova Remnant IC 443|37
+1974ApJ...191L..75C|Canizares, C;Li, F;Clark, G|OSO-7 Observations of Circinus X-1|10
+1974ApJ...192..691U|Ulmer, M;Baity, W;Wheaton, W;Peterson, L|Observations of the 4.8-hour variations of Cygnus X-3 above 7 keV from the OSO-7.|18
+1974ApJ...192L..61C|Canizares, C;Neighbours, J;Matilsky, T|A Search for X-Rays from Supernova 1972e with UHURU and OSO-7|13
+1974ApJ...193..535U|Ulmer, M;Baity, W;Wheaton, W;Peterson, L|Upper limit to the X-ray flux from the supernova in NGC 5253 above 7 keV from the OSO-7.|6
+1974PhDT.......112D|Dunphy, P|Analysis of the 0.511_MeV radiation at the OSO-7 satellite.|0
+1973ApJ...179..263C|Clark, G;Bradt, H;Lewin, W;Markert, T;Schnopper, H;Sprott, G|Observations of Taurus X-I by the 1-60 keV X-Ray Detector on the OSO-7|43
+1973ApJ...181L..33U|Ulmer, M;Baity, W;Wheaton, W;Peterson, L|The Spectrum and Variability of Hercules X-1 Observed by OSO-7|41
+1973ApJ...183...15U|Ulmer, M;Baity, W;Wheaton, W;Peterson, L|Limits to the Spectra of the Perseus and Coma Clusters above 7 keV from the OSO-7.|8
+1973ApJ...183L..91C|Canizares, C;Neighbours, J;Clark, G;Lewin, W;Schnopper, H;Sprott, G|Upper Limits to the X-Ray Emission from β Persei during Radio Flares|10
+1973ApJ...184L.117U|Ulmer, M;Baity, W;Wheaton, W;Peterson, L|New Transient Source, Cepheus X-4, Observed by OSO-7|34
+1973JSpRo..10..262M|Mackison, D;Gutshall, R;Volpe, F|Star Scanner Attitude Determination for the OSO-7 Spacecraft|9
+1973NPhS..241...28C|Canizares, C;McClintock, J;Clark, G;Lewin, W;Schnopper, H;Sprott, G|Observations of Periodic Variations in the X-ray Intensity of Cygnus X-3|33
+1973NPhS..242..121U|Ulmer, M;Baity, W;Wheaton, W;Peterson, L|Observations of the Binary X-ray Source SMC X-1 from OSO-7|21
+1973NPhS..244..135B|Bahcall, J;Kellogg, E|Radio Stars and X-ray Sources|3
+1973NPhS..245...90B|Baity, W;Ulmer, M;Wheaton, W;Peterson, L|Observations of Cyg X-1 and Cyg X-3 Above 7 keV from OSO-7|16
+1973NPhS..245..116K|Kurfess, J;Crosa, L|Upper Limit for the Pulsed Emission above 100 keV from Hercules X-1|5
+1973NPhS..246..107S|Sharma, D;Jain, A;Kasturirangan, K;Jayanthi, U;Rao, U|Hard X-ray Emission from Her X-1|3
+1972ApJ...177L.109C|Clark, G;Bradt, H;Lewin, W;Markert, T;Schnopper, H;Sprott, G|Measurement of the Position and Spectrum of Hercules X-1 from the OSO-7 Satellite|42
+1972ApJ...178L..61U|Ulmer, M;Baity, W;Wheaton, W;Peterson, L|Hard X-Ray Observations of Hercules X-1 by OSO-7|26
+1972ApJ...178L.121U|Ulmer, M;Baity, W;Wheaton, W;Peterson, L|Observations of the VELA XR-1 by the UCSD X-Ray Telescope on OSO-7|54
+1972ITNS...19..606H|Higbie, P;Chupp, E;Forrest, D;Gleske, I|A Gamma Ray Monitor for the OSO-7 Spacecraft|8

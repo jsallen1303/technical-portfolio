@@ -1,0 +1,45 @@
+{
+  "title": "The Helios 2 Satellite",
+  "name": "Helios 2",
+  "alttext": "Helios 2 in the clean room",
+  "imagesize": 211,
+  "imageurl": "/Images/misc_missions/helios2.gif",
+    "descript": "<p><b><font size=\"+2\">H</font>elios 2</b> was launched into a solar orbit on 15 January 1976. It had a perihelion of 0.29 AU and an aphelion of 1 AU. Its orbit made it an ideal platform for making long baseline time-of-arrival measurements to obtain source direction. The satellite rotated with a &sim;1-s spin period. The mission ended in 1981",
+    "decade": 1970,
+    "lifetime": "Jan 1976&ndash;1981",
+    "features":
+    [
+	"The first instrument capable of exploring linear time profiles of gamma-ray bursts"
+    ],
+    "instruments": [
+	{
+    	    "name" : "Gamma Ray Detector",
+	    "energy" : "60&ndash;1500 keV",
+	    "temporal_resolution" : "4&ndash;250 ms",
+	    "descript" : "The instrument consisted of a 1.5 inch diameter x 0.75 inch thick CsI(Tl) scintillator. The data were stored in 3 independent memories, with integrations of 250 ms, 32 ms, and 4 ms. Half of each memory circulated real-time data, while the other half stored data only if a trigger occurred, thus precursor information was kept. Nested time histories for 128 s with 250 ms resolution, 16 s with 32 ms resolution, and 2 s with 4 ms resolution were recorded. A trigger could occur by the count rate exceeding any of 3 time-based rate comparisons with thresholds commandable from the ground. The lower energy threshold could be adjusted from 60 to 110 keV in 8 steps, while the upper threshold was 1500 keV. The instrument operated nearly continuously, shutting down only for solar occultation and an occasional incidental power shutoff."
+	}
+    ],
+    "highlights":
+    [
+	"Gamma-ray bursts detected by Helios 2 suggested some similarities in the fine time resolution structures of different bursts. The Helios 2 data, when added to the information provided by its contemporaries ISEE 3, Venera 11, Venera 12 and others, provided new tools to scientists trying to discover the nature and origin of gamma-ray bursts."
+    ],
+  "archive": "",
+  "navigation": [
+    {
+      "url": "images/helios2_images.html",
+      "text": "Gallery"
+    },
+    {
+      "url": "images/helios2_images.html",
+      "text": "Gallery"
+    },
+    {
+      "url": "images/helios2_images.html",
+      "text": "Gallery"
+    },
+    {
+      "url": "biblio/helios2_biblio.html",
+      "text": "Publications"
+    }
+  ]
+}

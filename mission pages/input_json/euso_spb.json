@@ -1,0 +1,56 @@
+{
+    "title": "EUSO-SPB2",
+    "name": "EUSO-SPB2",
+    "decade" : 2010,
+    "alttext": "The EUSO SPB2 mission during launch at Wanaka, New Zealand",
+    "imagesize": 300,
+    "imageurl": "/Images/misc_missions/euso_spb2_sm.jpg",
+    "descript": "<p><b><font size=\"+2\">T</font>he Extreme Universe Space Observatory Super Pressure Balloon 2 (EUSO-SPB2)</b> mission was a ultrahigh-energy cosmic-ray detector flown in the Earth&rsquo;s stratosphere. It was held aloft by a NASA super pressure balloon which is designed to maintain stable altitude for long duration flights. EUSO-SPB2 launched from Wanaka Airport in New Zealand on May 13, 2023, and ended prematurely after 1.5 days due to a leak in the balloon. There were two other prior flights: EUSO-Balloon, an extremely brief (several hours) flight pathfinding mission on August 25, 2014 from Timmins Balloon Base in Ontario, Canada; and EUSO-SPB(1) launched April 24, 2017 and ending 12 days later, also launched from Wanaka.</p>\n\n<p>EUSO-SPB2 had significant upgrades to instrumentation compared to its predecessor flights. Both EUSO-SPB1 and SPB2 were overseen and operated by NASA&rsquo;s Columbia Scientific Balloon Facility in Palestine, Texas; EUSO-Balloon was overseen by the French Space Agency CNES. All flights were proving ground missions for the larger NASA-led Probe of Multi-Messenger Astrophysics (POEMMA) to detect ultra-high energy cosmic rays (E &gt;1EeV) and very-high energy neutrinos (E &gt;1 PeV) from space.</p>",
+    "lifetime": "24 Apr&ndash;6 May 2017 (EUSO-SPB)<br>13&ndash;15 May 2023 (EUSO-SPB2)",
+  "instruments": [
+    {
+	"name": "Fluorescence Telescope (FT)",
+	"energy": "&sim;1&ndash;30 EeV (cosmic rays)",
+	"fov": "11.1&deg; &times; 11.1&deg (EUSO-SPB1)<br>36&deg; &times; 12&deg; (EUSO-SPB2)",
+	"resolution": "&sim;4&prime;",
+	"temporal_resolution" : "2.5 &micro;s (EUSO-SPB1)<br>1 &micro;s (EUSO-SPB2)",
+	"descript": "The FT used a 1 m diameter Schmidt telescope with special mirror coatings to optimize reflectivity at UV wavelengths. The camera used Multi-Anode Photo Multiplier Tubes (MAPMTs) mounted together into a Photo Detection Module (PDM). The camera contained three such PDMs. Each PDM was covered with a 290&ndash;430 nm UV filter."
+    },
+    {
+	"name": "Cerenkov Telescope (CT)",
+      "energy": "&gt;&sim;1 PeV",
+      "fov": "6.4&deg; &times; 12.8&deg; (vertical &times; horizontal)",
+      "resolution": "0.4&deg;<br>",
+	"descript": "The CT instrument (flown only on EUSO-SPB2) used a 1 m diameter Schmidt telescope with four mirror segments with a bifocal alignment (meaning light focused in two distinct spots on the camera instead of one: a direct cosmic ray hit on the detector would register as a single spot, while light from outside the telescope would register as two, allowing the elimination of direct cosmic ray background noise). The camera used a 512 Silicon PhotoMultiplier (SiPM) detector to target very fast and bright signals as expected from Cerenkov emission from air showers. The CT could be pointed from horizontal to 10&deg; below the limb, depending on science operation needs. The horizontal mode looked for direct Cerenkov light from lower-energy cosmic rays; the sub-limb mode looked for optical neutrino signatures from &tau; neutrino interactions."
+    },
+    {
+	"name": "University of Chicago Infrared Camera (UCIRC)",
+      "fov": "24&deg; &times; 30&deg",
+      "descript": "Two identical cameras were pointed directly at nadir, co-observing the same patch of sky. These measured blackbody peaks in order to detect clouds and determine cloud top height, using the known relationship between these quantities. Information on the high cloud location and height was used to determine by what extent the instantaneous aperture to detect air showers was reduced by the presence of high altitude cloud cover."
+    },
+    {
+      "name": "Supporting architecture",
+      "descript": "EUSO-SPB2 was equipped with antennas for communications and data download, deployable ballast systems, power systems, all integrated within a gondola suspended under the balloon. It also featured an azimuthal rotator not present in prior flights which permitted steering of the CT instrument."
+    }
+  ],
+  "highlights": [
+      "Observe ultra-high energy cosmic rays from air showers",
+      "Observe very-energy energy neutrinos from upward-propagating air showers",
+      "Provide proving ground for new detection techniques as part of preparation for future POEMMA missions"
+  ],
+  "archive": "HEASARC will host EUSO data, products, and catalogs.",
+  "navigation": [
+    {
+      "url": "https://www.jemeuso.org/missions/euso-spb2/",
+      "text": "EUSO-SPB at Riken (Japan)"
+    },
+    {
+      "url": "https://eusospb.uchicago.edu/index.php",
+      "text": "EUSO-SPB at U. Chicago"
+    },
+    {
+      "url": "biblio/euso_spb_biblio.html",
+      "text": "Bibliography"
+    }
+  ]
+}

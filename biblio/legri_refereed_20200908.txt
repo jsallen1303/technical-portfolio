@@ -1,0 +1,12 @@
+2001Ap&SS.276...21T|Torres, J;Alfageme, R|Development of MINISAT 01 Scientific Payload|0
+2001Ap&SS.276..239R|Reglero, V;Ballesteros, F;Blay, P;Porras, E;Sanchez, F;Suso, J|Legri Operations. Detectors and Detector Stability|2
+2001Ap&SS.276..255S|Sanchez, F;Reglero, V|LEGRI Background. Short Term Variability|5
+2001Ap&SS.276..263P|Perfect, C;Bird, A;Dean, A;Ferguson, C;Lei, F;Lockley, J|Simulating the Background Noise in the LEGRI CZT Detectors|3
+2001Ap&SS.276..273P|Porras, E;Reglero, V;Sanchez, F|Comparison Between Theoretical Predictions and LEGRI Background Noise Experimental Measurements|0
+2001Ap&SS.276..291B|Ballesteros Rosello, F|The EM Algorithm for Imaging with Gaps in the Detector Plane|0
+2001Ap&SS.276..299S|Suso, J;Blay, P;Robert, A;Reglero, V;Eyles, C|LEGRI instrument health. A historical review|0
+2001Ap&SS.276..311B|Blay, P;Suso, J;Robert, A;Luis Requena, J;Alamo, J;Reglero, V;Eyles, C|LEGRI Science Operation Center. Architecture and Operations|0
+1999NIMPB.155..160S|Sanchez, F;Ballesteros, F;Robert, A;Rodriguez-Alvarez, M;Reglero, V;Porras, E;Clement, R;Capilla, G;Perez, F;Suso, J|Background in low Earth orbits measured by LEGRI telescope - short and long term variability|6
+1998NIMPB.145..469B|Ballesteros Rosello, F;Sanchez Martinez, F;Reglero Velasco, V|The EM imaging reconstruction method in γ-ray astronomy|2
+1996NIMPA.380..483P|Porras, E;Sanchez, F;Lei, F;Perez, J;Reglero, V;Dean, A|Proton-induced background in LEGRI|2
+1996PhDT.......257B|Ballesteros Rosello, F|Desarrollo de tecnicas de obtencion de imagenes en astronomia gamma usando sistemas de mascara codificada. Aplicacion al telescopio Legri|0

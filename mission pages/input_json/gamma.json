@@ -1,0 +1,62 @@
+{
+    "title": "The Gamma Satellite",
+    "name": "Gamma",
+    "decade" : 1990,
+    "alttext": "Line art concept of Gamma",
+    "imagesize": 241,
+    "imageurl": "/Images/misc_missions/gamma_small.gif",
+    "descript": "<p><b><font size=\"+2\">T</font>he Gamma observatory</b> was a Soviet-based spacecraft launched on 11 July 1990. The satellite was in an orbit of &sim;375 km altitude, 51.6 degrees inclination. Gamma offered the possibility of locating COS-B sources with a precision of a few arcminutes. The mission lasted &sim;2 years. The observatory&rsquo;s orbit decayed over time and the satellite re-entered the Earth&rsquo;s atmosphere in February 1992.",
+
+    "lifetime": "Jul 1990&ndash;1992",
+    "features":
+    [
+	"The science instrumentation included the Gamma-1 telescope (with a Telezvezda star tracker), the Disk-M telescope, and the Pulsar X-2 telescope. All 3 instruments were mounted coaxially on the observatory, allowing for simultaneous observation of any given region of the celestial sphere."
+    ],
+    "instruments": [
+	{
+	    "name" : "Gamma-1 Telescope",
+	    "energy" : "50 MeV &ndash; 6 GeV",
+	    "resolution" : "1.5&deg; at 100 MeV",
+	    "fov" : "+/- 2.5&deg;",
+	    "area" : "&sim;2000 cm<sup>2</sup>",
+	    "energy_resolution" : "12% at 100 MeV",
+	    "descript" : "The Gamma-1 telescope was the principle instrument aboard the Gamma observatory. The system consisted of 2 scintillation counters and a gas Cerenkov counter. It also included a late-mission-planning addition of a tungsten coded aperture mask which could be moved in and out of the field of view. The mask itself was made of 2 1-D masks each having a unit cell size of 1 mm. The basic resolution achieved by the mask was &sim;20&prime; for the weakest sources (4 &sigma;). Shortly after launch, the power to the spark chamber failed. This resulted in the angular resolution for most of the mission being only &sim;10&deg;. The telescope was a joint Soviet-French endeavor."
+	
+	},
+	{
+	    "name" : "Telezvezda star tracker",
+	    "fov" : " 6&deg; &times; 6&deg;",
+	    "resolution" : "2&prime;",
+	    "sensitivity" : "5 stellar magnitude lower limit",
+	    "descript" : "The Telezvezda star tracker worked together with the Gamma-1 telescope to determine pointing direction with 2&prime; accuracy."
+	},
+	{
+	    "name" : "Disk-M telescope",
+	    "energy" : "20 keV &ndash; 5 MeV",
+	    "resolution" : "&sim;25&prime;",
+	    "descript" : "The Disk-M telescope used NaI scintllation crystals and a gas Cerenkov counter. The telescope stopped working not long after launch."
+	},
+	{
+	    "name" : "Pulsar X-2 Telescope",
+	    "energy" : "2&ndash;25 keV",
+	    "fov" : "10&deg; &times; 10&deg;",
+	    "resolution" : "&sim;30&prime;",
+	    "descript" : "The Pulsar X-2 telescope was a joint Soviet-French endeavor."
+	}
+    ],
+    "highlights": [
+	"Studies were made of the Vela pulsar, the galactic center region, the Cygnus binaries, the Crab/Taurus A gamma source, and Her X-1. The observatory also gathered information about the high-energy emissions of the Sun during peak solar activity."
+    ],
+    "publications" : [
+	"<a class=\"usa-link\" href=\"https://ui.adsabs.harvard.edu/abs/1983AdSpR...3d..95B/abstract\">Ramsden 1983, <i>Adv Sp Res</i>, 3, #4, pp.31-38</a>",
+	"<a class=\"usa-link\" href=\"https://ui.adsabs.harvard.edu/abs/1991PAZh...17..501A/abstract\">Akimov et al. 1991, <i>Pis&rsquo;ma Astronomicheskiy Zhurnal</i>, 17, #6, pp.501-504</a>",
+        "<a class=\"usa-link\" href=\"https://ui.adsabs.harvard.edu/abs/1991ZemVs...3....3P/abstract\">Polezhayev and Poluektov 1991, <i>Zemlya I Vselennaya</i>, #3, pp. 2-9</a>"
+    ],
+  "archive": "",
+  "navigation": [
+    {
+      "url": "images/gamma_images.html",
+      "text": "Gallery"
+    }
+  ]
+}

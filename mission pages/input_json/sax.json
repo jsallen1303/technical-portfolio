@@ -1,0 +1,79 @@
+{
+    "title": "Satellite per Astronomia X (BeppoSAX)",
+    "name": "BeppoSAX",
+    "decade" : 1990,
+    "alttext": "Impression of BeppoSAX satellite",
+    "imagesize": 113,
+    "imageurl": "/Images/sax/sax_small.gif",
+    "descript": "<p><strong><font size=\"+2\">B</font>eppoSAX</strong> was a major program of the <a href=\"http://www.asi.it\">Italian Space Agency</a> with participation of the Netherlands Agency for Aereospace Programs (NIVR) and the Space Science Department of ESA. It was launched on April 30 1996 from Cape Canaveral and operated for 6 years. It was the first X-ray mission with a scientific payload covering more than three decades of energy &mdash; from 0.1 to 300 keV &mdash; with a relatively large effective area, medium energy resolution and imaging capabilities in the range of 0.1-10 keV.</p>\n\n<p>The ancronym SAX stands for Satellite per Astronomia X (X-ray Astronomy Satellite in Italian), and was renamed BeppoSAX to honor <a href=\"http://www.asdc.asi.it/bepposax/sax_beppo.html\">Giueppe (&ldquo;Beppo&rdquo;) Occhialini</a>. Due to degrading spacecraft conditions and rapid orbital decay, science operations ceased on April 30, 2002. BeppoSAX re-entered the Earth&rsquo;s atmosphere on April 29, 2003.</p>",
+    "lifetime": "30 Apr 1996 &ndash; 30 Apr 2002",
+    "features": [
+           "Rapid X-ray follow up to GRB detection onboard",
+           "Broad band energy coverage"
+    ],
+    "instrument_preamble" : "The BeppoSAX detectors were divided into the Narrow Field Instruments (NFI) and Wide Field Cameras (WFCs). The NFI suite (LECS, MECS, HPGSPC, and PDS) were all co-aligned along the Z axis of the satellite, allowing broad-band spectroscopy on the target source. WFCs were mounted orthogonally to NFI and opposite to each other.",
+    
+    "instruments": [
+	{
+	    "name" : "Low Energy Concentrator Spectrometer (LECS)",
+	    "energy" : "0.1&ndash;10 keV",
+	    "resolution" : "9.7&prime; FWHM at 0.28 keV",
+	    "fov" : "37&prime; diameter",
+	    "area" : "22 cm<sup>2</sup> at 6 keV",
+	    "descript" : "The single LECS unit used a Wolter Type 1 X-ray grazing incidence mirror telescope to focus soft X-ray onto the gas scintillation proportional counter with xenon gas for X-ray detection, with a few percent methane gas for quenching, to improve proportionality of the response, and reduce spurious events"
+	},
+	{
+	    "name" : "Medium Energy Concentrator Spectrometer (MECS)",
+	    "energy" : "1.3&ndash;10 keV",
+	    "resolution" : "75&Prime; at 6 keV (FWHM)",
+	    "fov" : "37&prime; diameter",
+	    "area" : "50 cm<sup>2</sup> each; 150 cm<sup>2</sup> total",
+	    "energy_resolution" : "",
+	    "descript" : "There were three MECS units each with a Wolter Type 1 X-ray grazing incidence mirror telescope. Each MECS was similar to the LECS unit, but with thicker entrance windows and operating at a higher gas pression to improve efficiency at higher energies."
+	},
+	{
+	    "name" : "High Pressure Gas Scintillation Proportion Counter (HPGSPC)",
+	    "energy" : "4&ndash;120 keV",
+	    "fov" : "&asymp;1&deg; (FWHM)",
+	    "area" : "240 cm<sup>2</sup> at 30 keV",
+	    "energy_resolution" : "4&ndash;5% at 60 keV",
+	    "descript" : "The HPGSPC instrument (often shortened to just GSPC) used hexagonal-cell collimators rather than X-ray optics to define its field of view. The collimators used a rocking design to switch on and off sources for observations of source and background, with a typical tilt angle of &plusmn;3&deg; allowing near-simultaneous background measurements, with alternating on- and off-source dwell times of roughly 96 seconds. The instrument was surrounded by lead and tungsten passive shielding to reduce off-axis signals, plus an active anti-coincidence shielding on the lateral and rear sides made from plastic scintillator. The gas mixture was maintained at 5 bar (roughly 5 times atmospheric pressure) to improve high energy sensitivity."
+	},
+	{
+	    "name" : "Phoswich Detection System (PDS)",
+	    "energy" : "15&ndash;300 keV",
+	    "fov" : "&asymp;1.3&deg; (FWHM)",
+	    "area" : "600 cm<sup>2</sup> at 80 keV",
+	    "energy_resolution" : "15&ndash;20% at 60 keV",
+	    "descript" : "The PDS used a hexagonal collimator with a rocking design similar to the GSPC. The phoswich (phosphor sandwich) detector used optically coupled NaI(Tl) and CsI(Na) crystals imaged by a photomultiplier tube. The crystals had differing decay times allowing pulse discrimination for veto selection.  The lateral CsI shields of the PDS were also used as gamma-ray burst monitors in the energy range 60&ndash;600 keV."
+	},
+	{
+	    "name" : "Wide Field Camera",
+	    "energy" : "2&ndash;30 keV",
+	    "resolution" : "&asymp;5&prime;",
+	    "fov" : "40&deg; &times; 40&deg; (full width at zero response)",
+	    "area" : "&asymp;140 cm<sup>2</sup> at 6 keV</sup>",
+	    "descript" : "There were two WFC units, each pointed orthogonally to the NFI and opposite to each other for the widest possible sky coverage. Each camera consisted of a coded mask aperature with an open element fraction of roughly 27% mounted in front of a multi-wire position sensitive proportial counter."
+	}
+    ],
+    "highlights": [
+	"First arc-minute accuracy positions of GRBs with position determine on a rapid time scale",
+	"First X-ray follow-up observations and monitoring of GRBs",
+	"Determination that GRBs are at cosmological distances",
+	"Broad band spectroscopy of different classes of X-ray sources"
+    ],
+    "archive": "The HEASARC host spectra, light curves, images, and raw data from MECS, LECS, and PDS.",
+    "publications" : [
+	""
+    ],
+    "navigation": [
+	{
+	    "url" : "/docs/sax/saxgof.html",
+	    "text" : "BeppoSAX U.S. Coordination Facility"
+	},
+	{
+	    "url" : "/docs/sax/shp_aboutsax.html",
+	    "text" : "More about BeppoSAX"
+	}
+    ]
+}

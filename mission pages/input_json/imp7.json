@@ -1,0 +1,37 @@
+{
+  "title": "The IMP 7 Satellite",
+  "name": "IMP 7",
+  "alttext": "artist concept of IMP 7",
+  "imagesize": 212,
+  "imageurl": "/Images/imp/imp7_small.gif",
+    "descript": "<p><b><font size=\"+2\">T</font>he IMP 7</b> spacecraft was launched on 23 September 1972 and placed into a roughly circular orbit (apogee &sim;200,000 km) on 12 October 1972. The 16-sided drum-shaped satellite was 157 cm high and 135 cm in diameter. The spacecraft was powered by solar cells and a chemical battery. The spin axis was normal to the ecliptic, with a spin period of 1.3 seconds. The instrument configuration was the same as for IMP 6, but the satellite spin rates, data integration intervals, and duty cycles differed. The differences resulted in IMP 7 being more effectively omni-directional, allowing for a less ambiguous interpretation of the spectra. Data collection for the gamma-ray instrument on board began on 14 October 1972. The spacecraft was turned off on 31 October 1978.",
+      "decade": 1970,
+  "lifetime": "14 Oct 1972&ndash;31 Oct 1978",
+    "features":
+    [
+	""
+    ],
+    "instruments":
+    [
+	{
+	    "name" : "Gamma-ray monitor",
+	    "energy" : "53&ndash;88 keV; 69&ndash;1150 keV",
+	    "descript" : "The gamma-ray monitor instrument consisted of a 2.25 inch diameter x 1.5 inch thick CsI(Tl) crystal surrounded by a plastic scintillator. The plastic served as a particle rejector. The crystal was viewed by a single photomultiplier. The monitor was on continuously except for the passage through the magnetotail, which occurred every 4.14 days. In addition to monitoring the rates of total intensity, particle intensity, and gamma-ray intensity, energy spectra of the incident gamma-rays were measured in 14 channels. The gain of the system was cycled through 4 positions, with changes being made roughly every week for purposes of in-flight calibration. Thus, some data were taken with a 69&ndash;1150 keV energy range, while other data were taken with a 53&ndash;88 keV range.</p>\n\n<p>The IMP 7 gamma-ray data were collected in 2 modes: a continuous accumulation of data for 40.9 s into 14 energy channels and a 40.9 s collection mode during which data are collected only when the satellite rotation caused it to face the Sun."
+	}
+    ],
+    "highlights":
+    [
+	"In the first 14 months of operation, the IMP 7 gamma-ray detector recorded 9 confirmed bursts. All 9 events had event-averaged photon number spectra from 100-1100 keV, and were statistically consistent with each having the same shape."
+    ],
+  "archive": "",
+  "navigation": [
+    {
+      "url": "images/imp_images.html",
+      "text": "Gallery"
+    },
+    {
+      "url": "biblio/imp_biblio.html",
+      "text": "Publications"
+    }
+  ]
+}

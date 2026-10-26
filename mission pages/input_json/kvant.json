@@ -1,0 +1,65 @@
+{
+    "title": "The Mir Space Station's Kvant module",
+    "name": "Kvant",
+    "decade" : 1980,
+    "alttext": "artist concept of Mir with Kvant module and space shuttle",
+    "imagesize": 282,
+    "imageurl": "/Images/kvant/mir_shuttle_small.gif",
+    "descript": "<p><b><font size=\"+2\">T</font>he Kvant</b> (&ldquo;Quantum&rdquo; in Russian) 1 module was launched on 31 March 1987 and attached to the <i>Mir</i> Space Station on 12 April 1987. After that, the Mir-Kvant observatory successfully operated until fall 1989, at which time operation was stopped for a planned reconfiguration of the <i>Mir</i> station. Kvant was restarted in October 1990 with calibration observations showing no apparent degradation in performance from the year off.</p>\n\n<p>The orbital period of the Mir station was 90 minutes. At an inclination of 57 degrees, of which 20 minutes of each orbit of each orbit were spent outside the radiation belts. The spacecraft stabilization over a 20 minute period was been better than 2 arcminutes. The Kvant module was 19 feet long and 13.6 feet across at its widest point. A cosmonaut controls the observations from a pressurized cabin inside the module.</p>\n\n<p>The module continued with astronomical observations throughout the 1990s, including restoration work on the primary processing unit in 1998. The last citation of Kvant observational data is from roughly this time: the last crew departed Mir in 1999, and the space station itself was de-orbited in 2001",
+    "lifetime": "Apr 1987&ndash;late 1989; Oct 1990&ndash;1998",
+    "features": [
+	"X-ray telescope facility attached to <i>Mir</i> Space Station"
+    ],
+    "instruments": [
+	{
+	    "name" : "Coded Mask Images Spectrometer (TTM/COMIS)",
+	    "energy" : "2&ndash;30 keV",
+	    "resolution" : "2&prime;",
+	    "fov" : "15&deg; &times; 15 &deg; (FWHM)",
+	    "area" : "655 cm<sup>2</sup>",
+	    "energy_resolution" : "18&ndash;20% at 6 keV",
+	    "temporal_resolution" : "1 s",
+	    "descript" : "A wide field X-ray telescope camera with a coded mask at the entrance aperture to deter the position of sources"
+	},
+	{
+	    "name" : "High Energy X-ray Experiment (HEXE)",
+	    "energy" : "15&ndash;200 keV",
+	    "fov" : "1.6&deg; &times; 1.6&deg; (FWHM)",
+	    "area" : "200 cm<sup>2</sup> each<br>800 cm<sup>2</sup> total",
+	    "temporal_resolution" : "0.2&ndash;25 ms",
+	    "descript" : "HEXE was an X-ray spectrometer consisting of four identical phoswich detectors with a swinging collimator which turns every two minutes to measure the X-ray background. The phoswich employed sodium iodide and cesium iodide as detection mediums."
+	},
+	{
+	    "name" : "Gas Scintillation Proportional Counter (GSPC)",
+	    "energy" : "2&ndash;100 keV",
+	    "fov" : "3&deg; &times; 3&deg; (FWHM)",
+	    "area" : "300 cm<sup>2</sup>",
+	    "temporal_resolution" : "1.25&ndash;2.5 ms",
+	    "descript" : "Also known as Sirene 2"
+	},
+	{
+	    "name" : "Pulsar X-1",
+	    "energy" : "50&ndash;800 keV",
+	    "fov" : "3&deg; &times; 3&deg; (FWHM)",
+	    "area" : "314 cm<sup>2</sup> each",
+	    "temporal_resolution" : "10 s",
+	    "descript" : "Pulsar X-1 consisted of four identical phoswich detectors"
+	}
+    ],
+    "highlights": [
+	"1000+ observation sessions of known X-ray sources (Her X-1, Cyg X-1, Cen A, etc.)",
+	"Galactic center region images with TMM/COMIS demonstrated the efficiency of coded mask telescope observations in hard X-rays",
+	"Catalog of 67 known bursts detected by TTM/COMIS plus hard X-ray spectra from HEXE"
+    ],
+  "archive": "",
+  "navigation": [
+    {
+      "url": "images/kvant_images.html",
+      "text": "Gallery"
+    },
+    {
+      "url": "biblio/kvant_biblio.html",
+      "text": "Publications"
+    }
+  ]
+}

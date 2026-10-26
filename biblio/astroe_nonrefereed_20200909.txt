@@ -1,0 +1,43 @@
+1999AAS...194.2905G|Grindlay, J;Metchev, S;Cool, A|The Faint X-ray Source Population in the Collapsed Core Globular Cluster NGC 6397|1
+1998AAS...192.1405A|Audley, M;Gendreau, K;Kelley, R;Arnaud, K;Boyce, K;Fujimoto, R;Porter, F;Stahle, C;Szymkowiak, A|The Preliminary ASTRO-E XRS Calibration|0
+1998AAS...192.3702D|David, L|Studying the Evolution of Clusters of Galaxies Through X-Ray Absorption Lines|0
+1998AAS...193.4302J|Jain, R;Bailyn, C;Orosz, J;McClintock, J;Sobczak, G;Remillard, R;Levine, A;Morgan, E|X-ray and Optical Observations of the Black Hole Candidate XTE J1550-564|0
+1998AAS...193.8001H|Holt, S|X-Ray Astronomy with Astro-E Introduction|0
+1998AAS...193.8002I|Inoue, H;Astro-E Team|The Astro-E Mission|0
+1998AAS...193.8003S|Serlemitsos, P|Foil X-Ray Mirrors for Astro-E|1
+1998AAS...193.8004K|Kelley, R|The Astro-E High Resolution X-ray Spectrometer|0
+1998AAS...193.8005T|Tsunemi, H;Koyama, K;Dotani, T;Ricker, G;XIS Team|X-ray Imaging Spectrometer (XIS) on board Astro-E|0
+1998AAS...193.8006K|Kamae, T;Fukazawa, Y;Iyomoto, N;Kaneda, H;Kawaguchi, G;Kokubun, M;Kubota, A;Isobe, N;Makishima, K;Matsumoto, Y;Matsuzaki, K;Nakazawa, K;Obayashi, H;Ohnishi, T;Sugiho, M;Tanaka, M;Tashiro, M;Terada, Y;Kataoka, J;Kubo, S;Murakami, T;Ota, N;Ozawa, H;Sugizaki, M;Takahashi, T;Tamura, T;Tanihata, C;Yamaoka, K;Uchiyama, Y;Nomachi, M;Yoshida, A;Ikeda, H;Ohsugi, T;Yoshida, S;Astro-E Hard X-ray Detector Team|Astro-E Hard X-ray Detector|0
+1998IAUC.6810....2M|Marshall, F;Middleditch, J;Zhang, W;Gotthelf, E|NGC 2060|4
+1998IAUC.6822....1K|Kuulkers, E;Dieters, S;McCollough, M;Wieringa, M;Buxton, M;Remillard, R|U 1630-47|4
+1998IAUC.6888....2T|Takahashi, T;Maegami, K;Makino, F;Ozawa, H;Kubo, H|Markarian 421|1
+1998IAUC.6987....3F|Favata, F;Sciortino, S;Micela, G;Maggio, A|EV Lacertae|1
+1998SPIE.3444..598S|Shibata, R;Ishida, M;Honda, H;Endo, T;Ishida, J;Kunieda, H;Tawara, Y;Furuzawa, A;Ogasaka, Y;Watanabe, M;Misakai, K;Yoshioka, T;Serlemitsos, P;Soong, Y;Chan, K;Terashima, Y;Akao, S|X-ray calibration of telescopes on board the ASTRO-E satellite|0
+1998SPIE.3445..143K|Kataoka, J;Nomachi, M;Takahashi, T;Kawaguti, G;Terada, Y;Murakami, T;Tanihata, C;Uchiyama, Y;Yamaoka, K;Fukazawa, Y;Kamae, T;Makishima, K;Tashiro, M;Kubo, H|Verification of the Astro-E Hard X-ray Detector based on newly developed ground support equipment|5
+1998SPIE.3445..155T|Takahashi, T;Nomachi, M;Fukazawa, Y;Tashiro, M;Ezawa, H;Hamaya, M;Horii, M;Isobe, N;Iyomoto, N;Kataoka, J;Kamae, T;Kawaguti, G;Kubo, H;Kubo, S;Kubota, A;Kokubun, M;Makishima, K;Matsuzaki, K;Matsumoto, Y;Mizuno, T;Mori, K;Morita, N;Murakami, T;Nakazawa, K;Obayashi, H;Odagi, I;Onishi, T;Ota, N;Ozawa, H;Sato, K;Sugiho, M;Sugizaki, M;Taguchi, K;Tamura, T;Tanaka, Y;Tanihata, C;Terada, Y;Uchiyama, Y;Yamaoka, K;Yoshida, A|Electronic system for the Astro-E Hard X-ray Detector|10
+1998SPIE.3445..268N|Nishiuchi, M;Koyama, K;Tsuru, T;Awaki, H;Tomida, H;Hamaguchi, K;Tsunemi, H|Response function of an x-ray CCD camera on board the Astro-E satellite|7
+1998SPIE.3445..278H|Hayashida, K;Kitamoto, S;Miyata, E;Tsunemi, H;Hashimotodani, K;Katayama, K;Kohmura, T;Asakura, R;Yoshita, K;Katayama, H;Shouho, M;Koyama, K;Tsuru, T;Awaki, H;Dotani, T;Ozaki, M;Ricker, G;Doty, J;Bautz, M;Kissel, S;Foster, R|Soft x-ray response of the prototype CCD camera (XIS) for Astro-E|10
+1998usra.rept.....A|Angelini, L|High Energy Astrophysics Research and Programmatic Support|0
+1997AAS...190.3401T|Tananbaum, H|The AXAF Mission: Status, Capabilities, Comparisons to other X-ray Facilities|0
+1997AAS...191.1702O|Oliversen, N;Massa, D;Lawton, P;van Steenberg, M|UV/Optical Archive Data Services of the GSFC Astrophysics Data Facility (ADF)|0
+1997AAS...191.6407U|Ulmer, M;Matz, S;Finley, J;Wilson, R;Pendleton, G;Cordes, J;Petrosian, V;Dixon, D|ALLEGRO: A New View of the Hard X-Ray Sky|0
+1997IAUC.6548....2S|Stark, M;Jahoda, K;Swank, J;Strohmayer, T|GRO J1744-28|1
+1997SPIE.3113..432P|Powell, F;Keski-Kuha, R;Zombeck, M;Goddard, R;Chartas, G;Townsley, L;Moebius, E;Davis, J;Mason, G|Metalized polyimide filters for x-ray astronomy and other applications|12
+1997SPIE.3115..244S|Sugizaki, M;Kubo, S;Murakami, T;Ota, N;Ozawa, H;Takahashi, T;Kaneda, H;Iyomoto, N;Kamae, T;Kokubun, M;Kubota, A;Makishima, K;Tamura, T;Tashiro, M|Development of the large-area silicon PIN diode with 2 millimeter-thick depletion layer for hard x-ray detector (HXD) on board ASTRO-E|5
+1997nasa.reptU....K|Kriss, G|Simultaneous X-ray and Far-Ultraviolet Spectra of AGN with ASCA and HUT|0
+1997nasa.reptX....A|Angelini, L|High Energy Astrophysics Research and Programmatic Support|0
+1996AAS...189.3708R|Roettiger, K;Stone, J;Mushotzky, R|Abell 754: The Evolution of an Off-axis Merger.|0
+1996SPIE.2806..314K|Kamae, T;Ezawa, H;Fukazawa, Y;Hirayama, M;Idesawa, E;Iyomoto, N;Kaneda, H;Kawaguti, G;Kokubun, M;Kubo, H;Kubota, A;Matsushita, K;Matsuzaki, K;Makishima, K;Mizuno, T;Nakazawa, K;Osone, S;Obayashi, H;Saito, Y;Tamura, T;Tanaka, M;Tashiro, M;Kataoka, J;Murakami, T;Ota, N;Ozawa, H;Sugizaki, M;Takizawa, K;Takahashi, T;Yamaoka, K;Yoshida, A;Ikeda, H;Tsukada, K;Nomachi, M|Astro-E hard x-ray detector|27
+1996usra.rept......||High Energy Astrophysics Program|0
+1995AAS...186.1602S|Stecher, T;Bohlin, R;Neff, S;O'Connell, R;Roberts, M;Smith, A|Results from the Ultraviolet Imaging Telescope on the Astro-2 Mission|0
+1995AAS...186.2013C|Cornett, R;Stecher, T;UIT Team|Astro-2/UIT Observations of Supernova Remnants|0
+1995AAS...187.7118W|White, N;Petre, R;Boldt, E;Holt, S;Serlemitsos, P;Marshall, F;Stahle, C;Kelley, R;Arnaud, K;Szymkowiak, A;Mushotzky, R;Soong, Y;Gehrels, N;Parsons, A;Jahoda, K;Swank, J;Kallman, T;Mukai, K;Drake, S;George, I|The Next Generation X-ray Observatory for Spectroscopy|1
+1995AAS...18711004S|Smith, E;Neff, S;Smith, A;Stecher, T;Bohlin, R;O'Connell, R;Roberts, M|Ultraviolet Imaging of the cD Galaxy in Abell 1795|0
+1995AAS...18712004D|Dixon, W;Davidsen, A;Ferguson, H|Observations of O VI Emission from the Galactic Corona with the Hopkins Ultraviolet Telescope|2
+1995SPIE.2518...59W|White, N;Petre, R;Boldt, E;Holt, S;Serlemitsos, P;Marshall, F;Stahle, C;Kelley, R;Arnaud, K;Szymkowiak, A;Mushotzky, R;Soong, Y;Gehrels, N;Parsons, A;Jahoda, K;Swank, J;Kallman, T;Mukai, K;Drake, S;George, I|Next-generation x-ray observatory|1
+1994lock.reptQ....C|Catura, R|A study of low mass x-ray binaries|0
+1993AAS...182.3201H|Hill, R;Smith, A;Cheng, K;Bohlin, R;O'Connell, R;Roberts, M;Stecher, T|UIT Imagery of the Field of N49 in the LMC|0
+1991S&T....81..591M|Maran, S|Astro: Science in the Fast Lane|0
+1990S&T....79..591B|Blair, W;Hopkins, J;Gull, T|Astro: Observatory in a Shuttle|9
+1987sbge.proc.....T|Thuan, T;Montmerle, T;Tran Thanh van, J|Starbursts and galaxy evolution|7
+1984IAUC.3939....1H|Heise, J;Paerels, F;van der Woerd, H;Bateson, F|VW Hydri|5

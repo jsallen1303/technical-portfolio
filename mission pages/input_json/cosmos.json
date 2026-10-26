@@ -1,0 +1,61 @@
+{
+  "title": "The Cosmos series satellites",
+  "name": "The Cosmos series satellites",
+  "alttext": "",
+  "imagesize": null,
+    "imageurl": null,
+  "descript": "",
+    "decade": 1960,
+  "lifetime": "",
+  "features": "",
+    "series": [
+	{
+	    "name" : "Cosmos 60",
+	    "descript" : "Cosmos 60 was launched by the USSR on 12 March 1965. It was in an orbit with apogee 287 km, perigee 201 km, inclination 64.8 degrees. The orbital period was 89 minutes. The satellite reentered the Earth&rsquo;s atmosphere on 17 March 1965.</p>\n<p>Cosmos 60 carried a 16-channel NaI(Tl) scintillator 40 &times; 40 mm in size. It was surrounded in a charged particle rejection scintillator. The spacecraft weighed 1600 kg and the detector was located inside the vehicle. The detector was sensitive to 0.5&ndash;2.0 MeV photons.<p>\n\n<p>Cosmos 60 measured the gamma-ray background flux density to be 1.7 &times; 10<sup>4</sup> quanta/m<sup>2</sup>/s. As was seen by Ranger 3 and Lunas 10 &amp; 12, the spectrum fell sharply up to 1.5 MeV and was flat for higher energies. Several peaks were observed in the spectra which were attributed to the inelastic interaction of cosmic protons with the materials in the satellite body."
+	},
+	{
+	    "name" : "COSMOS 135 &amp; 163",
+	    "descript" : "Cosmos 135 was launched 12 December 1966 into an orbit with 660 km apogee, 250 km perigee, and 49 degree inclination. Cosmos 163 was put into an almost identical orbit on 5 June 1967.</p>\n\n<p>Identical instruments were carried on both these missions. They consisted of a scintillation gamma-ray spectrometer with a 64 channel pulse height scintillator. The detector was a 40 &times; 40 sq-mm NaI(Tl) crystal surrounded on all sides by a 5 mm thick plastic scintillator for charged particle rejection. The crystal was viewed by a single photomultiplier tube. The equipment aboard Cosmos 135 covered the energy range 0.4&ndash;2.5 MeV, while Cosmos 163 covered 0.3&ndash;3.7 MeV. The gamma-ray detector on Cosmos 135 was located 0.5 m from the main spacecraft body, while it was 3 m away from Cosmos 163. Spectra were obtained once every 10 minutes, with a single spectrum being accumulated for 2 minutes.</p>\n\n<p>The detectors measured the spectrum and time variations of the gamma-ray intensity. The values found were significantly different than those measured by its contemporaries, such as ERS-18."
+	},
+	{
+	    "name" : "COSMOS 428",
+	    "descript" : "Cosmos 428 was launched by the USSR on 24 June 1971 and recovered 6 July 1971. The orbit was apogee/perigee/inclination 208 km, 271 km, and 51.8 degrees, respectively. It was a military satellite on which X-ray astronomy experiments had been added. There was a scintillation spectrometer sensitive to X-rays &gt;30 keV, with a 2&deg; &times; 17&deg; field of view. In addition, there was an X-ray telescope which operated in the range 2&ndash;30 keV. Though its mission was brief, it detected several X-ray sources which were correlated to already identified Uhuru point sources."
+	},
+	{
+	    "name" : "COSMOS 461",
+	    "descript" : "Cosmos 461 was put into a 500 km circular orbit on 2 December 1971. There was an omni-directional gamma-ray scintillator with a 70 &times; 70 mm NaI(Tl) crystal and an anti-coincidence plastic shield. The multi channel pulse height analyzer accumulated spectra once every 6 minutes for 2 minutes. It was sensitive over the range 28 keV &ndash; 4.1 MeV. It was known to have seen at least 1 gamma-ray burst observed by the Vela satellites. Also, it measured the diffuse gamma-ray background. The data led to 2 conclusions: the photon spectrum in the soft region was considerably steeper than was seen by Ranger 3 and above 400 keV the power law for the energy dependence breaks down."
+	},
+	{
+	    "name" : "COSMOS 208, 264, 561, &amp; 731",
+	    "descript": "These Soviet satellites were all reported to have carried X-ray and/or gamma-ray experiments. The purposes of the missions, however, were unannounced, and believed to be military reconnaissance. The science instruments were carried inside special containers known as Nauka (&ldquo;science&rdquo;) modules.</p>\n\n<table class=\"usa-table usa-table--borderles\">\n  <caption class=\"usa-sr-only\">Cosmos missions</caption>\n  <thead>\n     <tr>\n      <th scope=\"col\" class=\"text-center\">\n        <strong>Mission</strong>\n      </th>\n      <th scope=\"col\" class=\"text-center\">\n        <strong>Dates</strong>\n      </th>\n      <th scope=\"col\" class=\"text-center\">\n        <strong>Apogee (km)</strong>\n      </th>\n      <th scope=\"col\" class=\"text-center\">\n        <strong>Perigee (km)</strong>\n      </th>\n      <th scope=\"col\" class=\"text-center\">\n        <strong>Inclination (deg)</strong>\n      </th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>Cosmos 208</td>\n      <td>21 Mar&ndash;2 Apr 1968</td>\n      <td>207</td>\n      <td>305</td>\n      <td>65.0</td>\n    </tr>\n    <tr>\n      <td>Cosmos 264</td>\n      <td>23 Jan&ndash;5 Feb 1969</td>\n      <td>209</td>\n      <td>297</td>\n      <td>69.9</td>\n   </tr>\n    <tr>\n      <td>Cosmos 561</td>\n      <td>25 May&ndash;6 Jun 1973</td>\n      <td>215</td>\n      <td>317</td>\n      <td>65.4</td>\n   </tr>\n    <tr>\n      <td>Cosmos 731</td>\n      <td>21 May&ndash;2 Jun 1975</td>\n      <td>207</td>\n      <td>313</td>\n      <td>65.0</td>\n   </tr>\n  </tbody>\n</table>"
+	},
+	{
+	    "name" : "Cosmos 215",
+	    "descript" : "Cosmos 215 was launched 19 April 1968. It contained a set of 8 instruments for visible observations, 1 UV and 1 X-ray experiment. It was in a 261 &times; 426 km orbit, at an inclination of 48.5 degrees. The orbital period was &sim;91 minutes. It was intended primarily to perform solar studies, but did detect some non-solar X-ray events. It reentered the atmosphere on 30 June 1968."
+	},
+	{
+	    "name" : "Cosmos 262",
+	    "descript" : "Cosmos 262 was launched 26 December 1968. It was put into a 259 &times; 798 km, 48 degree orbit. It was primarily a military mission, but is known to have carried a scientific X-ray monitor. Cosmos 262 reentered the atmosphere on 18 July 1969."
+	},
+	{
+	    "name" : "Cosmos 856",
+	    "descript" : "Primarily a military mission, Cosmos 856 was launched on 22 September 1976. It also carried 99-2M gamma-ray spectrometers sensitive to 100&ndash;4000 MeV. It performed a survey of the diffuse gamma-ray sky. The satellite was recovered on 5 October 1976."
+	},
+	{
+	    "name" : "Cosmos 914",
+	    "descript" : "With instrumentation similar to that of Cosmos 856, Cosmos 914 was launched on 31 May 1977. It was in an orbit with apogee 210 km, perigee 327 km, at an inclination of 65 degrees. Mainly a low-resolution photographic reconnaissance satellite, it was recovered on 13 June 1977."
+	},
+	{
+	    "name" : "Cosmos 1106",
+	    "descript" : "Launched on 12 June 1979, Cosmos 1106 was put into a 222 &times; 264 km orbit at an inclination of 81.4 degrees. Intended to perform an Earth-ice study, it also carried a gamma-ray crystal scintillation spectrometer for celestial studies."
+	}
+    ],
+  "highlights": [],
+  "archive": "",
+  "navigation": [
+    {
+      "url": "biblio/cosmos_biblio.html",
+      "text": "Publications"
+    }
+  ]
+}

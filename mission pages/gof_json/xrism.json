@@ -1,0 +1,61 @@
+{
+    "title": "XRISM",
+    "name": "XRISM",
+    "alttext": "The XRISM satellite",
+    "imagesize": 300,
+    "imageurl": "https://heasarc.gsfc.nasa.gov/docs/xrism/gallery/xrism_4k_web.jpg",
+    "descript": "<p><b><font size=\"+2\">T</font>he X-Ray Imaging and Spectroscopy Mission (XRISM)</b> is an X-ray astronomy satellite collaboration between the Japanese Aerospace Exploration Agency (ISAS/JAXA), NASA and the European Space Agency (ESA). The satellite was launched from the Tanegashima Space Center at 8:42 a.m on September 7, 2023 JST in Japan. </p>\n<p>There are two primary instruments, Resolve (a Soft X-ray Spectrometer) and Xtend (Soft X-ray Imager). The spectrometer is cryogenically cooled with liquid helium, and the helium supply is anticipated to last for three years. The mission is intended to recover most of the science capability of Hitomi.</p>",
+    "decade" : 2020,
+    "gofsidebar" : "Active",
+    "lifetime": "October 2023&ndash; (three year nominal, with extended mission options)",
+    "features": [
+	"Hyperspectral X-ray microcalorimeter"
+    ],
+    "instruments": [
+	{
+	    "name" : "Telescopes",
+	    "length" : "5.6 m",
+	    "descript" : "Pair of matching X-ray telescopes, one for each of the Resolve and XTend detectors"
+	},
+	{
+	    "name": "Resolve",
+	    "energy" : "1.7&ndash;12 keV",
+	    "area" : "180 cm<sup>2</sup> at 6 keV",
+	    "fov" : "3.1&prime; &times; 3.1&prime;",
+	    "resolution" : "&lt;1.3&prime;",
+	    "energy_resolution" : "&lt; 7 ev at 6 keV",
+	    "descript" : "Resolve consists a 6 pixel x 6 pixel X-ray calorimeter spectrometer. Resolve is directly analogous to the SXS instrument on Hitomi, using many of the SXS spare components. There are 35 active pixels and one inactive corner pixel. The calorimeter is enclosed in a dewar, cooling the detector at 50 mK, with a liquid helium tank anticipated to last three years. Thereafter, the instrument is cooled via mechanic cooling with reduced sensitivity.<br>\nAdditional components of the Resolve detector include:\n<ul class=\"usa-list\" style=\"usa-list-unstyled\">\n<li>A gate valve placed on top of the dewar to protect during initial operation and removed in normal operation.</li>\n<li>A six filter wheel, mounted 90 cm from the spectrometer, to use in normal operation modes. The filters are : two empty positions (i.e. no filter), a radioactive <sup>55</sup>Fe calibration source, a molybdenum neutral density filter to attenuate X-rays for bright sources, and beryllium and polyimide-aluminum filters to exclude X-rays outside specific energy ranges.</li>\n<li>A Modulation X-ray Source (MXS) mounted below the filter wheel. When turned on, this illuminates the entire detector for calibration. It consists of 4 LEDs operating in pairs with targets composed of Cu/Cr and Al/Mg.</li>\n</ul>\n"
+	},
+	{
+	    "name": "XTend",
+	    "energy" : "0.4&ndash;12 keV",
+	    "area" : "360 cm<sup>2</sup> at 6 keV",
+	    "resolution" : "&lt;1.3&prime;",
+	    "fov" : "38&prime; &times; 38&prime;",
+	    "energy_resolution" : "&lt;200 eV at 6 keV",
+	    "descript" : "XTend consists of 4 CCDs in 2&times;2 configuration. Each CCD is an array of 640&times;640 pixels. It is directly analogous to the SXI on Hitomi."
+	    
+	}
+    ],
+  "highlights": [
+    "Insight on galaxy and cluster evolution",
+    "Diffuse gas in local environments",
+    "The physics and dynamics of cosmic plasmas",
+    "The formation and evolution of compact objects, including ultraluminous sources and magnetic cataclysmic variables"
+  ],
+  "archive": "The HEASARC hosts XRISM data, products, and catalogs.",
+  "navigation": [
+    {
+      "url": "/docs/xrism/",
+      "text": "XRISM at GSFC"
+    },
+    {
+      "url": "https://xrism.isas.jaxa.jp/en/",
+      "text": "XRISM at JAXA; English"
+    },
+    {
+      "url": "biblio/xrism_biblio.html",
+      "text": "Bibliography"
+    }
+  ]
+}

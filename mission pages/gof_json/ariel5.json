@@ -1,0 +1,83 @@
+{
+    "title": "Ariel 5",
+    "name": "The Ariel V Satellite",
+    "alttext": "Artistic impression of Ariel 5 in orbit",
+    "imagesize": 145,
+    "imageurl": "/Images/ariel/ariel_v.jpg",
+    "descript": "<p><b><font size=\"+2\">A</font>riel V</b> was launched into a low inclination (2.8&deg;) orbit from the San Marco launch platform in the Indian Ocean on 15 October 1974. The mission was a British-USA collaboration. The Science Research Council managed the project for the UK and GSFC/NASA for the USA. Ariel V was dedicated to monitoring the X-ray sky with a comprehensive payload. The mission ended in the spring of 1980.</p>",
+    "decade": 1970,
+    "gofsidebar" : "Past",
+    "lifetime": "15 Oct 1974&ndash;14 Mar 1980",
+    "features": [
+	"Monitored the X-ray sky with six different instruments. Four instruments (RMC, HRPCS, Polarimeter/Spectrometer, and Scintillation Telescope) were aligned with the spin axis and studying the region of sky within &sim;10 degree of the axis, with the other two experiments covering wide swaths of the sky."
+    ],
+    "instruments": [
+	{
+	    "name" : "Rotation Modulation Collimator (RMC)",
+	    "energy" : "0.3&ndash;30 keV",
+	    "resolution" : "&sim;2&prime;",
+	    "descript" : ""
+	},
+	{
+	    "name" : "High resolution proportional counter spectrometer",
+	    "energy" : "2&ndash;30 keV",
+	    "descript" : "128 channel pulse high analyzer"
+	},
+	{
+	    "name" : "Polarimeter/spectrometer",
+	    "energy" : "2&ndash;8 keV",
+	    "descript" : "Capable of detecting polarization of 3%"
+	},
+	{
+	    "name" : "Scintillation telescope",
+	    "energy" : "up to 40 keV",
+	    "descript" : "Devoted to temporal and spectral studies of sources"
+	},
+	{
+	    "name" : "All Sky Monitor (ASM)",
+	    "energy" : "3&ndash;6 keV",
+	    "area" : "&sim;1 cm<sup>2</sup> each",
+	    "descript" : "Pair of small pinhole cameras, viewing the entire sky outside of an &sim;8&deg; wide area around the spacecraft&rsquo;s &ldquo;south&rdquo; pole. It was intended as an early detection system for transient events, and a continuous monitor of relatively bright (&gt; 0.2 Crab) galactic sources"
+	},
+	{
+	    "name" : "Sky Survey Instrument (SSI)",
+	    "energy" : "1.2&ndash;19.8 keV",
+	    "area" : "290 cm<sup>2</sup> each",
+	    "fov" : "0.75&deg; &times; 10.6&deg; (FWHM) scanning<br>20&deg; &times; 360&deg; sky band along the satellite spin equator with each spin", 
+	    "descript" : "Pair of proportional counters with different energy coverage: 1.2&ndash;5.8 keV (LE) and 2.4&ndash;19.8 keV (HE). The primary sciences goals for the SSI was conducting a high-sensitivity survey of the sky and to obtain locations, intensities, and spectra of interesting sources."
+	}
+    ],
+    "highlights": [
+	"Long-term monitoring of numerous X-ray sources",
+	"Discovery of several long period (minutes) X-ray pulsars",
+	"Discovery of several bright X-ray transients probably containing a black hole (e.g. A0620-00, Nova Mon 1975)",
+	"Establishing that Seyfert I galaxies (AGN) are a class of X-ray emitters",
+	"Discovery of iron line emission in extragalactic sources"
+	
+    ],
+    "archive": "The HEASARC hosts lightcurves from the ASM, raw data, and the 3<sup>rd</sup> Ariel V catalog",
+    "navigation": [
+	{
+	    "url" : "/docs/ariel5/ariel5.html",
+	    "text" : "Ariel 5 at HEASARC" 
+	},
+	{
+	    "url" : "/docs/ariel5/ariel5_about.html",
+	    "text" : "More about Ariel 5" 
+	},
+	{
+	    "url" : "/docs/ariel5/ariel5_archive.html",
+	    "text" : "Archive" 
+	},
+	{
+	    "url" : "/docs/ariel5/ariel5_images.html",
+	    "text" : "Gallery" 
+	},
+	{
+	    "url" : "/docs/ariel5/ariel5_biblio.html",
+	    "text" : "Publications" 
+	}
+    ],
+        "goffooter" : "/docs/ariel5/ariel5_footer.html"
+
+}

@@ -1,0 +1,41 @@
+{
+  "title": "Stretched Rohini Satellite Series 3 & C2",
+    "name": "Stretched Rohini Satellite Series (SROSS) 3 & C2",
+    "decade" : 1990,
+  "alttext": "Line drawing of SROSS-3",
+  "imagesize": 242,
+  "imageurl": "/Images/misc_missions/sross.gif",
+    "descript": "<p><b><font size=\"+2\">T</font>he Third Stretched Rohini Satellite series mission (SROSS 3)</b> (also known as SROSS C) was one in the Indian Space Research Organization (ISRO) series of satellite to conduct various scientific experiments for applications-oriented missions, The first 2 satellites in the series did not make it into orbit due to launch vehicle failure. The third, SROSS 3 (also known as SROSS C), successfully attained an orbit on 20 May 1992. Although they decayed rapidly, the initial orbital parameters were: apogee &sim;430 km, perigee &sim;255 km, and orbital inclination &sim;46 degrees. The satellite spin period was 10.6 s. The satellite carried a gamma-ray burst (GRB) experiment and a Retarded Potential Analyzer (RPA) payloads. The spacecraft reentered the Earth's atmosphere on 14 July 1992.</p>\n\n<p>SROSS C2, launched on 4 May 1994 with an Indian Augmented Satellite Launch Vehicle (ASLV-D4), operated at 420 &times; 620 km orbit with an inclination of 42 degrees. It reentered the atmosphere in 2001.</p>",
+    "lifetime": "25 May&ndash;14 Jul 1992 (SROSS C)<br>May 1994&ndash;2001 (SROSS C2)",
+    "features": [
+	""
+    ],
+    "instruments": [
+	{
+	    "name" : "Gamma Ray Burst Experiment (SROSS C)",
+	    "energy" : "20&ndash;3000 keV",
+	    "temporal_resolution" : "2 ms, 16 ms, or 256 ms (mode dependent)",
+	    "descript" : "The GRB experiment operated from 25 May 1992 until reentry on 14 July 1992. The instrument consisted of a main and a redundant CsI(Na) scintillator. The crystals were 76 mm (main) and 37 mm (redundant) in diameter. Each had a thickness of 12.5 mm. A 'burst mode' was triggered by the 100&ndash;1024 keV count rate exceeding a preset limit during a 256 or 1024 ms time integration. In this mode, 65 s of temporal and 2 s of spectral data prior to the trigger are stored, as well as the subsequent 16 s of spectral data and 204 s of temporal data. The low resolution data consists of 2 energy channels (20&ndash;100 keV and 100&ndash;1024 keV) from 65 s before the trigger to 204 s after the trigger in 256 ms integrations. The 20&ndash;1024 keV rates are also recorded with a 2 ms resolution for 1 s prior to 1 s after trigger and a 16 ms resolution for 1s prior to 8 s after the trigger. Energy spectra are conducted with a 124 channel PHA. Four pre-trigger spectra and 32 post-trigger spectra are recorded for every burst with a 512 ms integration time.</p>\n\n<p>During the mission lifetime, 53 triggers occurred. Most of these, as expected, were false. There were 8 candidates for &ldquo;real&rdquo; bursts. One event, on 22 June, was also seen by CGRO and is believed real. Two other events could be real, as CGRO was not recording data at the time and so could not corroborate their occurrence."
+	},
+	{
+	    "name" : "Gamma Ray Burst Experiment (SROSS C2)",
+	    "energy" : "20&ndash;3000 keV",
+	    "temporal_resolution" : "2 ms, 16 ms, or 256 ms (mode dependent)",
+	    "descript" : "The GRB experiment on board SROSS-C2 were an improved version of the GRB payload flown successfully on the SROSS-C satellite. The improvements regarded enhancements of the on-board memory and a better measurement of the background spectra after a burst event. These improvements led to the discovery of twelve candidate events detected up to 15 February 1995, out of a total of 993 triggers. The SROSS-C2 spacecraft was one of the satellites included in the Interplanetary Network (<a href=\"ipn.html\">IPN3</a>)"
+	}
+    ],
+    "highlights": [
+	"Detected 53 gamma-ray bursts, of which 26 were localized via simultaenous observations"
+    ],
+  "archive": "",
+  "navigation": [
+    {
+      "url": "images/sross3_images.html",
+      "text": "Gallery"
+    },
+    {
+      "url": "biblio/sross_biblio.html",
+      "text": "Publications"
+    }
+  ]
+}

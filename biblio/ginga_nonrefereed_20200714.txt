@@ -1,0 +1,606 @@
+2019ASPC..523..325L|Lian Lim, P;Jeschke, E|stginga: Ginga Plugins for Data Analysis and Quality Assurance of HST and JWST Science Data|0
+2018ATel11780....1J|Jenke, P;Wilson-Hodge, C;Malacaria, C;Roberts, O|Fermi/GBM is Detecting Pulsations from Cep X-4|0
+2018ATel11791....1N|Nakajima, M;Negoro, H;Mihara, T;Iwakiri, W;Sakamaki, A;Maruyama, W;Nakahira, S;Yatabe, F;Takao, Y;Matsuoka, M;Sakamoto, T;Serino, M;Sugita, S;Kawakubo, Y;Hashimoto, T;Yoshida, A;Kawai, N;Sugizaki, M;Tachibana, Y;Morita, K;Ueno, S;Tomida, H;Ishikawa, M;Sugawara, Y;Isobe, N;Shimomukai, R;Ueda, Y;Tanimoto, A;Morita, T;Yamada, S;Tsuboi, Y;Sasaki, R;Kawai, H;Sato, T;Tsunemi, H;Yoneyama, T;Yamauchi, M;Hidaka, K;Iwahori, S;Kawamuro, T;Yamaoka, K;Shidatsu, M|MAXI/GSC detection of X-ray outburst from Be/X-ray binary pulsar Cep X-4|0
+2017zndo...1042809S|Sosey, M|Imexam Version 0.8.0 Release|1
+2016PJAB...92..135M|Makishima, K|X-ray studies of neutron stars and their magnetic fields|3
+2016RMxAC..48...38K|Kilic, Y;Shameoni Niaei, M;Ozeren, F;Yesilyaprak, C|MYRaf: A new Approach with IRAF for Astronomical Photometric Reduction|0
+2016pyas.confE..30J|Jeschke, E|Using the Ginga Science Viewer in Jupyter Notebooks|0
+2015ASPC..495..169J|Jeschke, E;Inagaki, T;Kackley, R|Enhancements to Ginga: a Python Package for Building Astronomical Data Viewers|0
+2015ASPC..496..299N|Niaei, M;KiliC, Y;Ozeren, F|MYRaf: An Easy Aperture Photometry GUI for IRAF|1
+2015JBAA..125..192P|Poyner, G|Variable Star Section: V404 Cygni: A black hole awakens|0
+2014ATel.6212....1N|Nakajima, M;Negoro, H;Kawagoe, A;Ueno, S;Tomida, H;Nakahira, S;Kimura, M;Ishikawa, M;Nakagawa, Y;Mihara, T;Sugizaki, M;Morii, M;Serino, M;Sugimoto, J;Takagi, T;Yoshikawa, A;Matsuoka, M;Kawai, N;Yoshii, T;Tachibana, Y;Yoshida, A;Sakamoto, T;Kawakubo, Y;Ohtsuki, H;Tsunemi, H;Uchida, D;Fukushima, K;Onodera, T;Suzuki, K;Ueda, Y;Shidatsu, M;Kawamuro, T;Hori, T;Tsuboi, Y;Yamauchi, M;Morooka, Y;Yamaoka, K|MAXI/GSC detection an onset of outburst from the Be/X-ray binary pulsar Cep X-4|5
+2014ATel.6243....1E|Evans, P;Beardmore, A;Krimm, H;Lien, A|Swift observations of Cep X-4 in outburst|4
+2013AAS...22111314H|Hebb Swank, J|Interplay Between Theory and Observation|0
+2013AAS...22111316U|Urry, C|My 35 Years in X-ray Astronomy (Not)|0
+2013ASPC..475..319J|Jeschke, E;Inagaki, T;Kackley, R|Introducing the Ginga FITS Viewer and Toolkit|2
+2013MmSAI..84..501P|Pounds, K;Watson, M|UK contributions to the development of X-ray astronomy as a major international discipline.|0
+2013MmSAI..84..547M|Makishima, K|From Sco X-1 to magnetars . Past, present, and future of X-ray studies of neutron stars|0
+2013ascl.soft03020J|Jeschke, E|Ginga: Flexible FITS viewer|1
+2012GCN.13388....1B|Barthelmy, S;Cummings, J;D'Avanzo, P;Holland, S;Kennea, J;Marshall, F;Melandri, A;Palmer, D;Sakamoto, T;Sbarufatti, B;Ukwatta, T|Swift detection of ginga 0834-430.|1
+2011HEAD...12.2105D|Drake, S;Smale, A;Staff, H|The HEASARC at 20: Highlights of the Last Two Decades and Future Prospects|0
+2011arXiv1109.5207Z|Zhilyaev, B;Andreev, M;Sergeev, A|Detection of high-frequency variability in chromospherically active stars|2
+2010AAS...21536004I|Igna, C;Leahy, D|Dips In Hz Her/Her-X1's Light Curve: The Debate Continues|0
+2010AAS...21541942G|Gou, L;McClintock, J;Liu, J;Steiner, J;Narayan, R;Remillard, R;Orosz, J;Shane, D;Ebisawa, K;Schlegel, E|The Spin of the Black Hole Primary in LMC X-1|0
+2010HEAD...11.4204G|Gou, L;McClintock, J;Steiner, J;Narayan, R;Liu, J|The Spin Of The Black Hole Primaries In LMC X-1 And A0620-00|0
+2010adap.prop..108M|McClintock, J|Measuring the Spins of Stellar-Mass Holes in X-ray Binaries, Phase 2|0
+2010fym..confP..27Y|Yamauchi, S|Ginga Observation of a Recurrent Soft X-Ray Transient Source 1RXS J170930.2-263927|1
+2010fym..confP..57M|Mihara, T;Maxi Team|Maxi/gsc|0
+2009ATel.1959....1K|Krimm, H;Barthelmy, S;Baumgartner, W;Cummings, J;Fenimore, E;Gehrels, N;Markwardt, C;Palmer, D;Parsons, A;Sakamoto, T;Skinner, G;Stamatikos, M;Tueller, J|Swift/BAT detects renewed activity from Ginga 1843+009|2
+2009ATel.1973....1K|Krimm, H;Kennea, J;Levine, A|Refined position for Ginga 1843+009 with the Swift/XRT|1
+2009ATel.1977....1R|Rodriguez, J;Chenevez, J;Hannikainen, D|The ongoing outbursts of Aql X-1 and Ginga 1843+009 as seen with INTEGRAL/IBIS-ISGRI|1
+2008HEAD...10.2620Y|Yaqoob, T;Grandi, P;Murphy, K;Malaguti, G;Miniutti, G|Suzaku and Historical X-ray Observations of the Jet and Disk in 3c 273: Constraints on Ionization and Reprocessing|0
+2008cosp...37.1470K|Kaur, R;Paul, B;Kumar, B;Sagar, R|A study of the long term evolution of quasi periodic oscillations in the accretion powered X-ray pulsar 4U 1626--67|0
+2008cosp...37.3557Y|Yoshida, A;Yamaoka, K;Nakagawa, Y;Nakahira, S;Sugita, S;Tomida, H;Torii, S|Development of wide-band GRB detectors and the GRB monitor for the CALET Experiment|0
+2007AstHe.100..264N|Nakajima, M|Changes of Magnetic Fields on Highly Magnetized Neutron Stars|0
+2007ESASP.622..319C|Cherepashchuk, A;Sunyaev, K;Seifina, E;Antokhina, E;Kosenko, D;Molkov, S;Shakura, N;Postnov, K;Timokhin, A;Panchenko, I|INTEGRAL Observations of SS433: Analysis of Precessional and Orbital X-Ray Periodicities|7
+2007PThPS.169..109K|Kokubun, M;Yuasa, T;Tamura, K;Makishima, K;Takahashi, T;Nakazawa, K;Yamasaki, N;Murakami, H;Maeda, Y;Ebisawa, K;Koyama, K;Yamauchi, S;Fukazawa, Y;Mizuno, T;Takahashi, H;Bamba, A;Senda, A;Tanaka, Y;Kamae, T;Suzaku Gc Team|Hard X-Ray Investigation of the Galactic Center Region with Suzaku|0
+2007SPIE.6688E..0FO|Okada, S;Ebara, M;Mori, H;Iizuka, R;Inoue, H;Ishida, M;Maeda, Y;Nakamura, R;Suzuki, K;Someya, K;Ishisaki, Y;Hayashi, T;Shirata, T|Establishing the response function of the x-ray telescopes onboard the Suzaku satellite|0
+2006ATel..769....1K|Krimm, H;Barbier, L;Barthelmy, S;Cummings, J;Fenimore, E;Gehrels, N;Markwardt, C;Palmer, D;Parsons, A;Sakamoto, T;Tueller, J|Hard X-ray brightening of Ginga 1843+009 seen by Swift/BAT|1
+2006cosp...36.2752T|Terada, Y;Mihara, T;Nagase, F;Suzaku Cyclotron Team|Suzaku observations of cyclotron resonances in binary X-ray pulsars|0
+2006cosp...36.2894N|Nakajima, N;Mihara, M;Makishima, M|Luminosity Dependent Changes of Cyclotron Resonance Energies in Binary X-ray Pulsars|0
+2005AAS...206.2903S|Sakamoto, T;Swift Team|First Results on X-Ray Flashes from Swift|0
+2005ATel..381....1C|Coburn, W;Kretschmar, P;Kreykenbohm, I;McBride, V;Rothschild, R;Wilms, J|Multiple Cyclotron Lines in V0332+53|21
+2005ATel..472....1L|Leyder, J;Chenevez, J;Fiocchi, M;Revnivtsev, M;Paul, J;Oosterbroek, T;Mas-Hesse, M;Strong, A|Hard X-ray brightening of Ginga 1843+009 seen by INTEGRAL|3
+2005SPIE.5898...22K|Kirsch, M;Briel, U;Burrows, D;Campana, S;Cusumano, G;Ebisawa, K;Freyberg, M;Guainazzi, M;Haberl, F;Jahoda, K;Kaastra, J;Kretschmar, P;Larsson, S;Lubinski, P;Mori, K;Plucinsky, P;Pollock, A;Rothschild, R;Sembay, S;Wilms, J;Yamamoto, M|Crab: the standard x-ray candle with all (modern) x-ray satellites|125
+2004AIPC..727..106S|Sakamoto, T;Suzuki, M;Kawai, N;Nakagawa, Y;Yoshida, A;Shirasaki, Y;Tamagawa, T;Torii, K;Matsuoka, M;Fenimore, E;Galassi, M;Lamb, D;Graziani, C;Donaghy, T;Atteia, J;Barraud, C;Boer, M;Dezalay, J;Olive, J;Ricker, G;Doty, J;Vanderspek, R;Crew, G;Villasenor, J;Butler, N;Jernigan, J;Hurley, K;Woosley, S;Hete-2 Science Team|HETE-2 Observation of the Extremely Soft X-Ray Flashes, XRF010213 and XRF020903|9
+2004ASPC..312..415D|Daigne, F;Mochkovitch, R|The expected photospheric emission of GRBs in the internal shock model|1
+2004HEAD....8.2515R|Ray, P;Dib, R;Ransom, S;Kaspi, V|Deep Searches for Coherent Pulsations from Low Mass X-ray Binaries|0
+2004PThPS.155..445Y|Yamauchi, S;Nakamura, E|An Ultrasoft Transient X-Ray Source near the Galactic Bulge Region Discovered with Ginga|0
+2003AIPC..662...59B|Barraud, C;Atteia, J;Olive, J;Dezalay, J;Lamb, D;Kawai, N;Yoshida, A;Shirasaki, Y;Sakamoto, T;Tamagawa, T;Torii, K;Matsuoka, M;Fenimore, E;Galassi, M;Tavenner, T;Donaghy, T;Graziani, C|The E-Peak Distribution of the GRBs Detected by HETE FREGATE Instrument|3
+2003AIPC..662..289D|Daigne, F;Mochkovitch, R|The Expected Thermal Precursors of Gamma-Ray Bursts in the Internal Shock Model|0
+2003ATel..179....1M|Markwardt, C;Swank, J|Detection of Orbital Period of EXO 1722-363|10
+2003HEAD....7.1723S|Saz Parkinson, P;Tournear, D;Bloom, E;Focke, W;Reilly, K;Wood, K;Ray, P;Wolff, M;Scargle, J|Long-term X-ray variability of Cir X-1|1
+2003MmSAI..74..500P|Palazzo, G;Zappala, R|Estimate of 1-100 TeV neutrino flux from X-ray flux measured in a sample of AGN blazars|0
+2003SPIE.4851..289I|Inoue, H|Astro-E2 mission: the third X-ray observatory in the 21st century|6
+2002AAS...201.5404S|Saz Parkinson, P;Bloom, E;Tournear, D;Focke, W;Ray, P;Wolff, M;Wood, K;Scargle, J|Long-term X-ray variability of Circinus X-1|0
+2002APS..APR.U7002S|Schnopper, H|X-ray Imaging and Spectroscopy in Space|0
+2002APS..APRN17099H|Hertz, P;Wolff, M;Ray, P;Wood, K;Smale, A;Bandyopadhyay, R|Eclipse Observations of EXO0748-676 and X1658-298 with USA and RXTE|0
+2002ASPC..271..309G|Gotthelf, E;Gavriil, F;Kaspi, V;Vasisht, G;Chakrabarty, D|15 Years Going Steady - Timing the Magnetar 1E 1841-045|1
+2002STIN...0241913N|Nicastro, F|Studying the Iron Line Complex in the Bright Seyfert Galaxy NGC 5506|0
+2002aprm.conf..327H|Hatsukade, I;Tsuchiko, R;Hano, H|The Gain History of the Ginga LAC|0
+2002astro.ph..2010B|Bamba, A;Murakami, H;Senda, A;Takagi, S;Yokogawa, J;Koyama, K|Diffuse X-rays in the Galactic center region -- The zoo of iron line clumps, non-thermal filaments and hot plasmas --|14
+2002luml.conf..184D|Daigne, F|The Thermal Precursors of Gamma-Ray Bursts|0
+2001AAS...198.1205S|Smale, A|A Complex Super-Eddington Burst with Radius Expansion from X2127+119 in M15|0
+2001AAS...198.5605M|Matsumoto, H;Tsuru, T;Harashima, T;Iwamuro, F;Maihara, T;Matsushita, S;Kawabe, R|Multi wavelength observations of the IMBH in M82|1
+2001AIPC..587..528S|Sturner, S;Reimer, O;Keohane, J;Olbert, C;Petre, R;Dermer, C|On the nature of the nonthermal emission from the supernova remnant IC 443|0
+2001ASPC..251..514A|Asai, K;Yamagishi, I;Yamashita, A;Watanabe, M;Dotani, T;Mitsuda, K;Nagase, F;Ebisawa, K;Yamauchi, S;Yoshida, A;Kitamoto, S;Hatsukade, I|Development of the ISAS Ginga Archive|0
+2001AnShO..22..133W|Wamsteker, W|Multi-wavelengths observations of AGN: fifteen years along|0
+2001STIN...0136661V|Vrtilek, S|X-Ray Spectral Study of a Newly Ginga-Detected DQ Her|0
+2001cxo..pres...19.||Mysterious "Twofaced" Star Explained, Scientists Say|0
+2001cxo..prop..792S|Szkody, P|Accretion in High Density and Temperature Conditions (V426 Oph)|0
+2001rxte.prop60136T|Tueller, J|Simultaneous RXTE and Infocus Measurements of AGN Compton Reflection Spectra|0
+2001tysc.confE.181W|White, N;Angelini, L|The Discovery of two Luminous Low Mass X-ray Binaries in the Globular Cluster M15|0
+2001tysc.confE.249H|Hannikainen, D;Charles, P;van Zyl, L|M15 and the nature of X2127+119|0
+2000AAS...196.5010S|Sivron, R;Franklin, T|Re-evaluation of the Temporal behavior of the Gravitationally Redshifted Fe K alpha line in MCG-6-30-15 and with Archival Ginga Data|0
+2000AIPC..510..203C|Cocchi, M;Bazzano, A;Natalucci, L;Ubertini, P;Heise, J;in't Zand, J;Muller, J;Smith, M|Clocked bursts from GS 1826-238|7
+2000ASPC..216..180M|Miura, A;Shinohara, I;Matsuzaki, K;Nagase, F;Negoro, H;Uno, S;Matsui, S;Watanabe, M;Yamashita, A;Takahashi, H;Matsui, H;Hoshino, M|ISAS Data Archive and Transmission System (DARTS)|7
+2000ESASP.445..257K|Koyama, K|X-Ray Observations of the Early Phases of Star Formation|0
+2000HEAD....5.3005P|Preece, R|Evidence for Blackbody Emission in Gamma-Ray Burst Spectra|2
+2000arxt.confE..54E|Ebisawa, K;Nishiuchi, M|RXTE and ASCA Simultaneous Observation of GRO J1744-28 in the Low State|0
+2000arxt.confE.119Z|Zycki, P|On the X-ray spectra of soft X-ray transients in the high and very high states|0
+2000arxt.confE.124Z|Zdziarski, A;Lubinski, P;Madejski, G|Fe K lines and Compton reflection in Seyfert 1s: average properties and correlations|0
+2000eaa..bookE4527.||Astro|0
+2000eaa..bookE4638.||Ginga (Astro-C)|0
+2000rxte.prop50158T|Tueller, J|Simultaneous RXTE and Infocus Measurements of AGN Compton Reflection Spectra|0
+1999AAS...19512604Y|Young, A;Fabian, A;Tanaka, Y;Ross, R|A complete relativistic ionized accretion disc in Cygnus X--1|0
+1999ASPC..157...60S|Schlegel, E|RXTE Observations of the IPs PQ GEM and AO PSC|3
+1999ASPC..159..176M|Makino, F;Tanihata, C;Takahashi, T;Kataoka, J;Kubo, H;Kawai, N;Mattox, J|ASCA Observations of BL Lacertae in 1997 Outburst|2
+1999ASPC..162...65N|Nandra, K|X-Ray Dependencies on Luminosity in AGN|3
+1999ASSL..234..231M|Maciolek-Niedzwiecki, A;Magdziarz, P|Strong gravity and X-ray spectroscopy|3
+1999ASSL..234..385M|Misra, R|A Transition disk model Fit to Cygnus X-1|0
+1999ASSL..234..389N|Negoro, H|Are the X-rays coming from the inside of the accretion disk of the black hole?|1
+1999IAUC.7324....4B|Bamba, A;Koyama, K|AX J1841.0-0535.8|3
+1999ICRC....4..127L|Leahy, D|Spectral Evolution of Her X-1 over the 35-Day Cycle|0
+1999dicb.conf..273Z|Zycki, P;Done, C;Smith, D|On Accretion Flow in Soft X-ray Transients|0
+1999rxte.prop40015S|Staubert, R|Systematic Spectral and Timing Study of Dips in HER X-1|0
+1999rxte.prop40082S|Stark, M|X-Ray Monitoring of 1e 2259+586 in the High State|0
+1999rxte.prop40191V|Valinia, A|a Search for Non-Thermal Emission in 2 Abell Clusters of Galaxies|0
+1999sf99.proc..269K|Koyama, K|Probing YSOs with Hard X-Ray Imaging and Spectroscopy|0
+1998AAS...192.3614B|Blaes, O;Magdziarz, P;Madejski, G|A Model of the Variable Optical, Ultraviolet, and X-ray Continuum of NGC 5548|0
+1998AAS...193.4102V|Vasisht, G;Gotthelf, E;Dotani, T|New Analysis of the Extreme 12-s pulsar in the SNR Kes 73|0
+1998AIPC..428..379S|Schaefer, B;Hobbeheydar, J;Bromm, V;Fenimore, E|Broad-band burst spectra: Sharp breaks and GeV bursts|0
+1998AIPC..428..461S|Strohmayer, T;Fenimore, E;Murakami, T;Yoshida, A|X-ray spectral properties of γ-ray bursts|0
+1998AIPC..428..737T|Thompson, C|Spectral variability in relativistic MHD winds|3
+1998AIPC..428..783P|Paczynski, B|Gamma-ray bursts as hypernovae|66
+1998AIPC..431...89P|Poutanen, J|Modeling X/γ-ray spectra of Galactic black holes and Seyferts|4
+1998AIPC..431..319Z|Zycki, P;Done, C;Smith, D|Geometry of accretion in Soft X-ray Transients|5
+1998IAUS..184..355Y|Yokoyama, T;Tanuma, S;Kudoh, T;Shibata, K|Magnetic reconnection as the origin of superhot plasmas in the Galactic center|1
+1998IAUS..188...13P|Pallavicini, R|X-Ray Coronae from Stars|0
+1998IAUS..188..171M|Murakarni, T|Quick Observations of the Fading X-Rays from Gamma-Ray Bursts with ASCA|0
+1998IAUS..188..256O|Ozaki, M;Koyama, K|Thermal; Non-Thermal X-Rays from SN 1006 and IC 443|2
+1998IAUS..188..300H|Hanami, H|ASCA Study of Shapley Supercluster|0
+1998IAUS..188..430M|Magdziarz, P;Blaes, O|A Model of the Broad-B; Continuum of NGC 5548|0
+1998IAUS..188..447L|Leahy, D|ROSAT X-Ray Observations of the Radio Galaxy 4C46.09|0
+1998STIN...9962746W|Wilms, J;Nowak, M;Dove, J;Pottschmidt, K;Heindl, W;Begelman, M;Staubert, R|LMC X-1 and LMC X-3 as Seen by RXTE|0
+1998astro.ph.10068P|Papathanassiou, H|Probing the Emission Sites of GRBs|0
+1998nasa.reptV....S|Stern, R|Cool Star Binaries with ALEXIS|0
+1998nasa.reptY....T|The, L|RXTE Observation of the TYCHO Supernova Remnant|0
+1998rxte.prop30017H|Hellier, C|An Orbital Period Change for the Intermediate Polar XY Ari|0
+1998rxte.prop30126B|Baykal, A|X-Ray Monitoring of 1e 2259+586 in High State|0
+1998rxte.prop30168G|Grove, J|GX339-4 in the X-Ray High, Soft State|0
+1998rxte.prop30249K|Kataoka, J|Multifrequency Study of the Most Energetic Tev Blazar - MKN501 -|0
+1998sao..reptV....G|Gorenstein, P|Spatially Resolved Spectroscopy of the SNR IC443|0
+1998tsra.conf..741E|Esin, A;McClintock, J;Narayan, R|Advection-dominated accretion model of X-ray Nova Muscae in outburst.|1
+1998tx19.confE.331B|Boirin, L;Barret, D;Olive, J;Grindlay, J|Aperiodic variability and broad band spectral properties of the X-ray burster GS1826-24|0
+1998tx19.confE.359R|Robba, N;Burderi, L;di Salvo, T;La Barbera, A|SAX Observation of the Peculiar Source 1822-371|0
+1997AAS...190.1301V|Valinia, A;Marshall, F|RXTE Measurement of the Galactic Ridge Diffuse X-ray Emission|0
+1997AAS...190.4507R|Rutledge, R|X-ray Fast Timing and Spectral Behavior of Ten Black Hole Candidates Observed with Ginga|0
+1997AAS...19111004S|Schmidtke, P;Cowley, A|RXTE Observations of LMC X-1|0
+1997AIPC..410..583C|Carraminana, A;Bennett, K;Hermsen, W;Kuiper, L;Schonfelder, V;Connors, A;Kaspi, V;Bailes, M;Manchester, R|Timing analysis of four years of COMPTEL data on PSR B1509-58|4
+1997AIPC..410..748S|Scott, D;Wilson, R;Finger, M;Leahy, D|Observations of pulse evolution in Her X-1|2
+1997AIPC..410..788K|Kretschmar, P;Kreykenbohm, I;Staubert, R;Wilms, J;Maisack, M;Kendziorra, E;Heindl, W;Gruber, D;Rothschild, R;Grove, J|Observations of Vela X-1 with RXTE|2
+1997AIPC..410..962Z|Zycki, P;Done, C;Smith, D|Relativistic effects in the X-ray spectra of the black hole candidate GS 2023+338|0
+1997AIPC..410.1288M|Magdziarz, P;Blaes, O;Zdziarski, A;Johnson, W;Smith, D|Broad-band continuum and variability of NGC 5548|2
+1997AIPC..410.1308C|Chiang, J;Dermer, C;Skibo, J|Scattered emission and the X-γ spectra of Seyfert galaxies|0
+1997ESASP.382..373Z|Zdziarski, A;Johnson, W;Poutanen, J;Magdziarz, P;Gierlinski, M|X-Rays and Gamma-Rays from Accretion Flows onto Black Holes in Seyferts and X-Ray Binaries|40
+1997ESASP.382..455R|Ryde, F;Poutanen, J;Svensson, R;Larsson, S;Ueno, S|The X/Gamma-Ray Spectral Properties of NGC 7172|0
+1997IAUC.6595....2T|Takeshima, T|GS 1843+00|3
+1997IAUC.6608....2D|dal Fiume, D;Frontera, F;Orlandini, M;Santangelo, A;del Sordo, S;Piro, L;Coletta, A;Celidonio, G;D'Andreta, G;Gandolfi, G;Spoliti, G;Ricci, D;Muller, J|LMC X-4|1
+1997IAUC.6611....1U|Ubertini, P;Bazzano, A;Cocchi, M;Natalucci, L;Heise, J;Jager, R;in 't Zand, J;Muller, J;Smith, M;Celidonio, G;Coletta, A;Ricci, R;Giommi, P;Ricci, D;Capalbi, M;Menna, M;Rebecchi, S|GS 1826-238|18
+1997IAUC.6708....3M|Makino, F;Mattox, J;Takahashi, T;Kataoka, J;Kubo, H|BL Lacertae|8
+1997IAUC.6774....1H|Harmon, B;Robinson, C|X1354-644 = GS 1354-64|2
+1997STIN...9919567H|Harmon, B;Robinson, C|X1354-644 = GS1354-64|0
+1997STIN...9939570S|Strohmayer, T;Fenimore, E;Murakami, T;Yoshida, A|X-ray spectral properties of (gamma)-ray bursts|0
+1997astro.ph..7105V|Vaughan, B;Kitamoto, S|Correlation Between Luminosity and Accretion Torque in 4U 1626-67 and GX 301-2|14
+1997astro.ph.12123P|Paczynski, B|GRBs as Hypernovae|6
+1997asxo.proc...15T|Tsunemi, H|ASM on the GINGA Satellite|0
+1997asxo.proc...49B|Borozdin, K;Alexandrovich, N;Arefeiv, V;Gilfanov, M;Revnivtsev, M;Sunyaev, R;Trudolyubov, S|Observations of bright X-ray transients by MIR-KVANT module in 1988-1996|0
+1997asxo.proc...69E|Ebisawa, K|Properties of the Black Hole Candidates Observed with GINGA and ASCA|2
+1997asxo.proc...97N|Negoro, H|Long and Short-term X-ray Variabilities of Galactic Black Hole Candidates|0
+1997asxo.proc..103K|Kitamoto, S;Vaughan, B|Correlation Between Luminosity and Accretion Torque in Persistent Accreting X-ray Pulsars|0
+1997asxo.proc..135M|Mihara, T;Makishima, K;Nagase, F|Luminosity Dependence of Cyclotron Energy in X-ray Binary Pulsars -- A New Measurement of the Distance to a Pulsar|4
+1997asxo.proc..147M|Murakami, T|Importance to Observe GRBs in Soft X-Ray Energies - Summary of the HAKUCHO, GINGA and ASCA Observations in Soft X-Ray Energies|0
+1997asxo.proc..183H|Hanami, H|Theoretical Aspects of Magnetic Fields for Gamma Ray Bursts|0
+1997jena.confE.278M|Magdziarz, P;Blaes, O;Zdziarski, A;Johnson, W;Smith, D|UV/X-ray correlation in NGC 5548|0
+1997jena.confE.289R|Revnivtsev, M;Gilfanov, M;Churazov, E;Sunyaev, R;Borozdin, K;Alexandrovich, N;Chulkov, I;Khavenson, N;Vargas, M;Paul, J;Goldwurm, A;Laurent, P;Jourdain, E;Roques, J;Borrel, V;Bouchet, L|GRANAT/SIGMA observations of 4U1705-44 and 4U1608-52 and spectral states of X-ray bursters|1
+1997rxte.prop20003C|Corcoran, M|Monitoring the Hard X-Ray Emission from Eta Carinae|0
+1997rxte.prop20010B|Beardmore, A|The Shock Temperature in AM Herculis|0
+1997rxte.prop20021S|Schlegel, E|XTE Observations of Intermediate Polars|0
+1997rxte.prop20022H|Hellier, C|Fo Aquarii -- the Key to Intermediate Polar Spin-Pulses|0
+1997rxte.prop20103A|Audley, M|a Study of Cyclotron Scattering Resonance Features in the Spectrum of CEN X-3|0
+1997rxte.prop20143T|Takeshima, T|Systematic Study of Aperiodic Time Variability from Binary X-Ray Pulsars (ii. - too -|0
+1997rxte.prop20255T|The, L|XTE Observation of the TYCHO Supernova Remnant|0
+1997rxte.prop20256D|Decourchelle, A|Determination of the Thermal and Non-Thermal Emissions in the X-Ray Spectrum of Kepler's Supernova Remnant.|0
+1997rxte.prop20260P|Petre, R|RCW86 and G156.2+5.7: Old SNR with Hard X-Ray Tails|0
+1997rxte.prop20307L|Leighly, K|X-Ray Observations of PKS 0558-504: a Test of Models for Narrow-Line Seyfert 1 Galaxies|0
+1997rxte.prop20323Z|Zdziarski, A|Searching for a Hard X-Ray State of NGC 4151 with XTE, OSSE and ASCA|0
+1997rxte.prop20330S|Smith, D|a Search for X-Ray Variability in Seyfert 2 Galaxies|0
+1997stsc.rept.....U|Urry, C|Testing the Pairs-Reflection Model with X-Ray Spectral Variability and X-Ray Properties of Complete Samples of Radio-Selected BL Lacertae Objects|0
+1997xisc.conf..465G|Gierlinski, M;Zdziarski, A|X-RAY/γ-RAY Spectra of Cygnus X-1 from GINGA and OSSE and Their Theoretical Implications|0
+1997yCat.9019....0H|Hayashida, K;Miyamoto, S;Kitamoto, S;Negoro, H;Inoue, H|VizieR Online Data Catalog: X-ray lightcurves of bright AGNs from Ginga (Hayashida+ 1998)|0
+1996AIPC..366..137H|Higdon, J|A critical review of observations of classical gamma-ray bursts|0
+1996AIPC..366..175H|Hamilton, T|Soft gamma-ray repeater spectral properties|0
+1996AIPC..366..187N|Nemiroff, R;Norris, J;Bonnell, J|Pulses in gamma ray bursts|0
+1996AIPC..366..211F|Freeman, P;Lamb, D;Wang, J;Loredo, T;Fenimore, E;Murakami, T;Yoshida, A|Cyclotron resonant scattering model fits to the spectra from gamma-ray burst GB870303|2
+1996AIPC..366..216M|Makishima, K|Unified empirical spectral model of X-ray pulsars including the cyclotron resonance effects|0
+1996AIPC..384..182H|Hua, X;Lingenfelter, R|Effects of Compton scattering on BATSE gamma ray burst spectral analysis|0
+1996AIPC..384..187I|Isenberg, M;Lamb, D;Wang, J|Cyclotron line formation in a relativistic outflow|4
+1996IAUC.6444....2C|Clark, G;Woo, J|X-Ray Transient near SMC X-1|0
+1996IAUC.6452....2S|Smale, A;Kuulkers, E;Wijnands, R|Cygnus X-2|2
+1996IAUC.6480....1P|Piro, L;Costa, E;Feroci, M;Cinti, M;Frontera, F;dal Fiume, D;Nicastro, L;Orlandini, M;Pizzichini, G;Heise, J;Jager, R;Fiore, F;Giommi, P;Matteuzzi, A;Muller, H;Parmar, A;Sacco, B;Molendi, S;Butler, R|GRB 960720|3
+1996IAUC.6510....1Z|Zhang, S;Robinson, C;Cui, W|Cygnus X-1|10
+1996IzKry..93...90K|Kotov, V;Lyutyj, V;Chanejchuk, V|Periodic P<SUB>0</SUB>-oscillations of the Sun and ten AGN's and possibility for cosmological explanation.|0
+1996MmSAI..67..551R|Ricci, R;Matt, G;Piro, L|Soft excesses of hard X-ray selected Seyfert 1 galaxies.|0
+1996S&W....35..542H|Haberl, F|Stellare Winde in massereichen Röntgen-Doppelsternsystemen.|0
+1996STIN...9670998B|Begelman, M;Madejski, G|X-ray Spectra of BAL Quasars|0
+1996asu..reptS....S|Schmidtke, P|Temporal and Spectral Variations of 2S 0921-630 and LMC X-2|0
+1996bpad.conf..153N|Negoro, H|Shot profiles of Cygnus X-1.|3
+1996euve.prop...48L|Leahy, D|EUVE Spectrometer/Deep Survey Observations of Her X-1 in the Short-On State|0
+1996hst..prop.6528G|Green, P|Pg 1416-129: the Only X-Ray Bright BAL QSO, or the Missing Link?|0
+1996rftu.proc..123B|Beardmore, A;Mukai, K;Norton, A;Osborne, J;Taylor, P|Five X-ray observations of the intermediate polar FO Aqr spanning ten years.|2
+1996rftu.proc..139G|Gierlinski, M;Zdziarski, A;Johnson, W;Phlips, B;Ebisawa, K;Done, C|The first simultaneous X-ray/γ-ray observations of Cyg X-1 by Ginga and OSSE.|2
+1996rftu.proc..197T|Taylor, P;Norton, A;Beardmore, A|Ginga and ROSAT observations of AO Psc and V1223 Sgr.|0
+1996rftu.proc..503R|Rother, F;Brunner, H;Maisack, M;Staubert, R|ROSAT observations of radio-loud AGN.|0
+1996rxte.prop10018D|Done, C|The Complex X-Ray Spectrum of EF ERI|0
+1996rxte.prop10061V|van der Klis, M|Fast Timing of Z Sources|0
+1996rxte.prop10093Z|Zhang, S|Correlated Observations of the X-Ray Burster 4u 1608-522|0
+1996rxte.prop10112P|Parmar, A|Spectroscopy of the Globular Cluster Dip Source X1746-371|0
+1996rxte.prop10133K|Klein, R|The First Theoretical Predictions of the Existence of Photon Bubble Oscillations(pbo) in Xray Pulsars: a Search with XTE|0
+1996rxte.prop10134A|Audley, M|a Study of Cyclotron Scattering Resonance Features in the Spectra of CEN X-3 and LMC X-4|0
+1996rxte.prop10141K|Kretschmar, P|Timing and Broad Band Pulse Phase Resolved Spectroscopy of VELA X-1: Confirmation of Cyclotron Lines.|0
+1996rxte.prop10180S|Schulz, N|The Transient X-Ray Pulsar CEP X-4|0
+1996rxte.prop10208R|Rots, A|Monitoring the Stable Pulsar B1509-58|0
+1996rxte.prop10252E|Ebisawa, K|Monitoring Hard-Tails of LMC X-3 and LMC X-1|0
+1996rxte.prop10263G|Giles, A|Generic Observation of all "BRIGHT" Too's with Very High Time Resolution and High Telemetry Rate|0
+1996rxte.prop10307W|Weaver, K|Investigating the X-Ray Reprocessor in MCG-5-23-16|0
+1996rxte.prop10311L|Leighly, K|Monitoring MRK 509: the Origin of the Reflection|0
+1996rxte.prop10321L|Leighly, K|The Hard X-Ray Spectrum of Two Seyfert 2s Detected during GINGA Manuevers|0
+1996rxte.prop10328B|Brandt, W|Broad Band Spectra and Variability of the Remarkable Seyfert 2 IRAS 18325-5926: AN Ionized Accretion Disk?|0
+1996rxte.prop10339M|Mushotzky, R|XTE Observations of Broad-Line Radio Galaxies|0
+1996sao..reptQ....H|Hughes, J|Analysis of LAC Observations of Clusters of Galaxies and Supernova Remnants|0
+1996stan.reptQ....M|Michelson, P|GINGA Studies of Black Hole Candidates. Multiwavelength Studies Using Temporal Lags and GINGA Archival Studies of QPOs in LMXB Z-Sources|0
+1996stan.reptR....M|Michelson, P|GINGA Studies of Black Hole Candidates: Multiwavelength Studies Using Temporal Lags and Coherence Function Analysis and GINGA Archival Studies of QPOs in LMXB Z-Sources|0
+1996uxsa.conf..163A|Arnaud, M;Rothenflug, R;Bohringer, H;Neumann, D;Yamashita, K|ROSAT/GINGA observation of the galaxy cluster A3921.|5
+1996uxsa.conf..185M|Maeda, Y;Koyama, K;Sonobe, T;Tanaka, Y|Collision-ionized and photo-ionized plasma from our Galactic Center.|0
+1996yCat..33070033S|Schartel, N;Walter, R;Fink, H;Truemper, J|VizieR Online Data Catalog: X-ray quasar spectra (Schartel+ 1996)|0
+1995AAS...186.2001Z|Zheng, W;Kriss, G;Davidsen, A;Kruk, J|The HUT Spectrum of Fairall 9|0
+1995AAS...187.1608H|Harrus, I;Hughes, J|An X-ray Synchrotron Nebula Associated with the Radio Pulsar PSR B1853+01 in the Supernova Remnant W44|0
+1995AAS...187.2602Z|Zhang, S;Harmon, B;Fishman, G;Paciesas, W;Barret, D;Grindlay, J;Bloser, P;Tavani, M;Kaaret, P;Ford, E|Hard X-ray Outbursts from the X-ray Burster 4U 1608--522 Observed by BATSE/CGRO|0
+1995AAS...187.2606I|Isenberg, M;Lamb, D;Wang, J|Cyclotron Line Formation in a Relativistic Outflow|0
+1995AAS...18710403M|Mihara, T;Makishima, K;Nagase, F|Cyclotron Lines and Continuum Spectra of X-ray Binary Pulsars with GINGA|4
+1995ASPC...77..211C|Corbet, R;Larkin, C;Butcher, J;Osborne, J;Nousek, J|Reformatting the Ginga Database to FITS and the Creation of a Data Products Archive|0
+1995ASPC...85..128O|Osborne, J;Beardmore, A;Done, C;Ishida, M;Mukai, K|GINGA and ASCA Observations of AM HER and EF ERI|2
+1995ASSL..205..471B|Beardmore, A;Done, C;Osborne, J;Ishida, M|The Ginga Hard X-Ray Spectrum of AM Herculis|0
+1995BAAS...27..901T|Townsley, L;Nousek, J;Corbet, R|Penn State University ground software support for X-ray missions.|0
+1995IAUC.6212....1A|Aschenbach, B;Voges, W;Becker, W|GRO J1735-27|2
+1995IAUC.6223....2C|Castro-Tirado, A;Birkle, K|GRO J1735-27|1
+1995IAUC.6260....1M|Misaki, K;Kamata, Y;Terashima, Y;Isobe, K;Kunieda, H;Tawara, Y;Tsuru, T;Maeda, Y;Sakano, M;Akiyama, M;Sogawa, H;Ishida, M;Fujimoto, R|AX J2315-592|3
+1995IAUC.6272....2S|Sazonov, S;Sunyaev, R|U 0115+634|6
+1995STIN...9671096L|Lewin, W|Broad Band X-Ray Spectra of Bright X-Ray Binaries|0
+1995hst..prop.5873V|Vrtilek, S|X-Ray Spectroscopy of CYG X-2|0
+1995otw..conf..179D|Done, C;Smith, D|The X-ray Spectra of Seyfert 2s Observed by GINGA|1
+1995ppc..conf..353L|Leahy, D|Spectral models for the diffuse X-ray background.|0
+1994AAS...184.6407S|Sivron, R;Kunieda, H;Tsusaka, Y;Tsuruta, S|A new model for the spectral variability of AGN which works for MCG -6-30-15.|0
+1994AAS...185.1511F|Freeman, P;Lamb, D;Wang, J;Wasserman, I;Salpeter, E;Fenimore, E;Murakami, T;Nishimura, J;Yoshida, A;Kondo, I|Cyclotron Resonant Scattering in the Spectrum of GB870303|0
+1994AAS...185.1815E|Eracleous, M;Halpern, J;Livio, M|The X-Ray Spectrum and Fe Kalpha Line of 3C 390.3, as Observed by ASCA|0
+1994AAS...185.5011H|Harrus, I;Hughes, J|An X-ray study of the supernova remnant W44|0
+1994AAS...18510206A|Anderson, A;Cowley, A;Schmidtke, P;McGrath, T|Identification of the Optical Counterpart of LMC X-1|0
+1994AAS...18510212S|Scott, D|35-Day Evolution of the HER X-1 Pulse Profile:Evidence For an Inner Disk Occultation of the Pulsar|0
+1994AAS...18510215L|Leahy, D|Spectral Variability in HER X-1|0
+1994AIPC..304..294C|Cominsky, L;Roberts, M;Finger, M|An April 1991 outburst from 4U 0115+63 observed by BATSE.|6
+1994AIPC..304..333L|Leahy, D|Pulse shape variations in the X-ray pulsar Her X-1.|1
+1994AIPC..304..515J|Johnson, W;Grove, J;Kinzer, R;Kroeger, R;Kurfess, J;Strickman, M;McNaron-Brown, K;Grabelsky, D;Purcell, W;Ulmer, M;Jung, G|The canonical Seyfert spectrum: the implications of OSSE observations.|31
+1994AIPC..307..256B|Band, D;Matteson, L;Palmer, D;Teegarden, B;Schaefer, B;Briggs, M;Paciesas, W;Pendleton, G;Preece, R|Cyclotron Line Search: BATSE-Ginga Consistency|0
+1994AIPC..308..181U|Ueda, Y;Ebisawa, K;Done, C|Spectral Study of GX339-4 in the Low Intensity State Observed with Ginga|0
+1994AIPC..308..185Y|Yoshida, K|The Dipping X-Ray Binary X1916-05 Observed with Ginga|0
+1994AIPC..308..522K|Kanetake, R;Takeuti, M|Fractal Analysis of X-Ray Emission from Centaurus X-3 Observed with Ginga|0
+1994AIPC..308..553V|Vaughan, B;van der Klis, M;Wood, K;Norris, J;Hertz, P;Michelson, P;van Paradijs, J;Lewin, W;Mitsuda, K|Searches for Millisecond Pulsations in Low-Mass X-Ray Binaries with Ginga Data|0
+1994ASIC..441..139S|Stewart, G|The mass distribution(s) in clusters of galaxies.|0
+1994ASIC..441..197A|Arnaud, M|X-ray spectroscopy of galaxy clusters.|1
+1994ASPC...56..146R|Robinson, C;Cordova, F|The X-ray Behavior of Two CVs: TT Ari and DP Leo|4
+1994ASPC...61...22G|Giommi, P;Ansari, S|The European Space Information System (ESIS)|1
+1994ASSL..187..695K|Kolman, M;Halpern, J;Shrader, C;Filippenko, A;Fink, H;Schaeidt, S|Simultaneous ROSAT, GINGA, VLA, IUE and Optical Observations of the Bright Quasar H1821 + 643|0
+1994IAUS..159...73I|Inoue, H|GINGA observations of active galactic nuclei.|7
+1994IAUS..159..123L|Lawson, A;Turner, M|The X-ray Emission of Quasars as observed by GINGA|0
+1994IAUS..159..330O|Orr, A;Walter, R;Courvoisier, T;Fink, H;Makino, F;Otani, C;Wamsteker, W|Simultaneous observations of Seyfert 1 galaxies with IUE, ROSAT and GINGA.|1
+1994IAUS..159..383T|Tashiro, M;Makishima, K;Kohmura, Y;Ohashi, T;Otani, C;Kii, T;Fujimoto, R;Makino, F;GINGA Team;ASCA Team|X-ray observations of blazars with GINGA and ASCA.|0
+1994astro.ph..4066W|White, R;Day, C;Hatsukade, I;Hughes, J|Abundance Gradients in Cooling Flow Clusters: Ginga Lac &amp; Einstein SSS Spectra of A496, A1795, A2142 &amp; A2199|0
+1994ddpn.conf..477M|Makino, F|An Overview of Observations with X-Ray Astronomy Satellite GINGA|0
+1994euve.prop....2M|Mauche, C|VW Hydri in Outburst and Quiescence|0
+1994euve.prop...26L|Leahy, D|Observation of Her X-1 During the Short-On Phase|0
+1994euve.prop...46R|Rosen, S|The Soft Spectral Component in the Exceptional Intermediate Polar Binary, REJ0751+14|0
+1994lock.reptR....S|Stern, R|Investigation of physical parameters in stellar flares observed by GINGA|0
+1994lock.reptU....S|Stern, R|Investigation of physical parameters in stellar flares observed by GINGA|0
+1994mit..reptQ....C|Clark, G|Determination of the atmospheric structure of the BO star companion of SMC X-1 by analysis of GINGA observations|0
+1994ncoa.conf..270T|Tsuruta, S;Leighly, K;Sivron, R|New Ginga Observation and Model of NGC 6814 Periodicity|0
+1994nhxr.conf..601Z|Zdziarski, A;Johnson, W;Done, C;Smith, D;McNaron-Brown, K|The Average X-ray/Gamma-ray Spectra of Seyfert Galaxies from Ginga and OSSE|0
+1994stsc.reptR....U|Urry, C|X-ray temporal and spectral studies of blazars with the GINGA satellite|0
+1993AAS...18111704F|Finley, J;Taylor, M;Cassinelli, J;Belloni, T|ROSAT/Optical Observations of the X-ray Binary 2S0114+65|0
+1993AAS...182.0705L|Leahy, D|Analysis of Pre-Eclipse Dips in Hercules X-1|0
+1993AAS...182.0707Z|Zhang, W;Swank, J|BBXRT Observation of MX0836-42|0
+1993AAS...182.3305S|Strohmayer, T;Fenimore, E;Murakami, T;Yoshida, A|A New Class of High Energy Transient?|0
+1993AAS...182.5303D|Dermer, C|Thermal Comptonization Model for the High Energy Emission of Seyfert Active Galactic Nuclei|0
+1993AAS...182.6404R|Roberts, M;Cominsky, L;Finger, M|An April 1991 Outburst from 4U0115+63 observed by BATSE|0
+1993AAS...183.3001D|Dermer, C|Thermal Comptonization Model for the High Energy Emission of Seyfert Active Galactic Nuclei|0
+1993AAS...183.3003W|Weaver, K|Seyfert Galaxy Fe Kalpha Lines and the Weakening Accretion Disk Connection|0
+1993AAS...183.5301W|White, R;Day, C;Hatsukade, I;Hughes, J|GINGA LAC and Einstein SSS X-ray Spectral Evidence of Abundance Gradients in Galaxy Clusters|0
+1993AAS...183.5504S|Shrader, C;Chen, W;Lochner, J;Livio, M|A Systematic and Statistical Study of X-Ray Novae Light Curves|0
+1993AAS...183.5515H|Hertz, P;Wood, K;Cominsky, L|The Orbital Period of EXO0748-676: Secular Change or Stochastic Jitter?|0
+1993AAS...183.5516E|Ebisawa, K;Ueda, Y;Done, C|Spectral Study of GX339-4 in the Low Intensity State Observed with GINGA|0
+1993AAS...183.6403J|Johnson, W;Grove, J;Kinzer, R;Kroeger, R;Kurfess, J;Strickman, M;McNaron-Brown, K;Grabelsky, D;Purcell, W;Ulmer, M;Jung, G;Cameron, R|OSSE Observations of Seyfert AGN|0
+1993AAS...18310711M|Madejski, G;Hartman, R;Reichert, G;Wehrle, A;Urry, C;Grandi, P;Maraschi, L;Fink, H;Thomas, H|Multifrequency Campaign for the Optically Violent Variable Quasar 3C 279: X-ray Observations|0
+1993AIPC..278...73O|Ozernoy, L;Titarchuk, L;Ramaty, R|Ultra hot gas in the Galaxy: possible origins and implications|4
+1993AIPC..280..213K|Kawai, N;Okayasu, R;Sekimoto, Y|Ginga observations of isolated pulsars: PSR 1509-58 and the Crab pulsar.|31
+1993AIPC..280..917F|Fenimore, E;Schwarz, G;Lamb, D;Freeman, P;Murakami, T|The Ginga Rate of Observing cyclotron Lines|9
+1993AIPC..280..922F|Freeman, P;Lamb, D;Fenimore, E;Loredo, T|Sensitivity of the BATSE spectroscopy detector to gamma-ray burst spectral lines like those seen in Ginga.|3
+1993AIPC..280..992F|Freeman, P;Lamb, D;Fenimore, E;Loredo, T|Sensitivity of the BATSE Spectroscopy Detector to Gamma-Ray Spectral Lines Like Those Seen in Ginga|0
+1993IAUC.5901....2S|Staubert, R;Friedrich, S;Bassgen, M;Sood, R;James, S;Kollatschny, W|RX J1940.2-1025|3
+1993ICRC....1..120B|Band, D;Ford, L;Palmer, D;Teegarden, B;Briggs, M;Matteson, J;Schafer, B;Paciesas, W;Pendleton, G|Consistency between BATSE and Ginga Detections of Absorption Lines in Gamma Ray Burst Continua|1
+1993ICRC....1..160D|Dermer, C;Schlickeiser, R|Location of the Acceleration and Emission Sites in Gamma-Ray Blazars|0
+1993SPIE.2006...78K|Kohmura, Y;Fukazawa, Y;Ikebe, Y;Ishisaki, Y;Kamijo, S;Kaneda, H;Makishima, K;Matsushita, K;Nakagawa, K;Tashiro, M;Ohashi, T;Inoue, H;Ishida, M;Makino, F;Murakami, T;Ogawara, Y;Tanaka, Y;Ueda, Y;Ebisawa, K;Mihara, T;Takeshima, T;Tsuru, T;Hiyoshi, K;Horii, M;Shomura, R;Taguchi, K|Calibrations of imaging gas scintillation proportional counters on ASTRO-D|17
+1993SRToh..13..133K|Kanetake, R|Fractal analysis of X-ray emission from Centaurus X-3 observed with Ginga.|0
+1993STIN...9427440C|Cominsky, L;Roberts, M;Finger, M|An April 1991 outburst from 4U0115+63 observed by BATSE|0
+1993cac..book.....F|Fazio, G;Silberberg, R|Currents in Astrophysics and Cosmology|0
+1993cac..book..116N|Nishimura, J|Recent gamma-ray burst studies by Ginga|0
+1993cub..rept.....D|Dulk, G|ROSAT and radio observations of stellar flares on AD Leo|0
+1993fna..conf..387K|Koyama, K;Tsuru, T|X-ray probing of the dark matter.|0
+1993foap.conf..165M|Makino, F|Overview of Ginga observations|0
+1993isoe.conf...96O|Ohashi, T|X-ray study of galaxies and clusters of galaxies.|0
+1993ispu.conf.....V|van Riper, K;Epstein, R;Ho, C|Isolated Pulsars|7
+1993uxrs.conf..407W|Wang, Z|X-rays of IC443 - remnant of Tang dynasty supernova.|1
+1992AAS...181.1107M|Meurs, E;de Kool, M|PG1416-129: a Close BALQSO with Low Intrinsic X-Ray Absorption|0
+1992AAS...181.2003S|Smale, A|No detection of the iron line in Cygnus X--3 by BBXRT|0
+1992AAS...181.2005B|Boroson, B;McCray, R;Kallman, T;Nagase, F|Pulsations in the UV and X-ray Spectra of VELA X-1|0
+1992AAS...181.3206E|Ebisawa, K;Titarchuk, L;Ozernoy, L;White, N;Mitsuda, K|Measuring Black Hole Masses from X-ray Observations of Accretion Disk Spectra|0
+1992AAS...181.7802F|Freeman, P;Lamb, D;Fenimore, E|Sensitivity of the BATSE Spectroscopy Detector to Gamma-Ray Spectral Lines Like TLike those Seen in Ginga|0
+1992AAS...181.8402S|Sivron, R;Tsuruta, S|Dense Clouds near the Center of Active Galactic Nuclei|0
+1992AAS...181.8501B|Band, D;Ford, L;Matteson, J;Palmer, D;Schaefer, B;Teegarden, B;Cline, T;Preece, R;Fishman, G;Meegan, C;Wilson, R;Briggs, M;Paciesas, W;Pendleton, G|The Search for Gamma Ray Burst Spectral Lines in BATSE Spectroscopy Detector Observations|2
+1992AAS...181.8503P|Palmer, D;Teegarden, B;Schaefer, B;Cline, T;Meegan, C;Wilson, R;Briggs, M;Paciesas, W;Pendleton, G;Band, D;Ford, L;Matteson, J|The Sensitivity of the GRO BATSE Spectroscopy Detectors to Cyclotron Lines in Gamma-Ray Bursts|2
+1992AAS...181.9804W|Wilson, A;Mulchaey, J;Colbert, E;Mushotzky, R;Weaver, K|ROSAT PSPC Observations of Seyfert 2 Galaxies|0
+1992AIPC..254...69A|Abramowicz, M|Orbital models for the periodic X-ray flares of NGC 6814|9
+1992AIPC..254...83D|Done, C;Madejski, G;Mushotzky, R;Turner, T;Koyama, K;Kunieda, H|The X-ray variability of AGN and the anomalous behavior of NGC6814|7
+1992AIPC..254...93L|Leighly, K;Kunieda, H;Tsuruta, S|Temporal and spectral X-ray variability from the Seyfert 1 galaxy NGC 6814|4
+1992AIPC..254..163N|Nandra, K;Pounds, K;Stewart, G|Hard x-ray observations of AGN: Evidence for cold matter|3
+1992AIPC..254..173M|Matsuoka, M|Hard x-ray observations of AGN - Do accretion disks exist?|0
+1992AIPC..254..196D|Done, C;Mulchaey, J;Mushotzky, R;Arnaud, K|Problems for the standard blackhole/accretion disk models in Cygnus X-1?|0
+1992AIPC..254..362M|Maisack, M;Yaqoob, T;Staubert, R;Kendziorra, E|Constraints on pairs and reflection in active galaxies|0
+1992AIPC..254..366S|Staubert, R;Fink, H;Courvoisier, T;Ulrich, M;Brunner, H;Zimmermann, U;Kendziorra, E;Otterbein, K|The X-ray spectrum of 3C 273 as observed with ROSAT|12
+1992AIPC..254..539U|Ulrich, M|The nature of the broad line region: Optical/UV/X-ray studies|0
+1992AIPC..265.....P|Paciesas, W;Fishman, G|Gamma-ray bursts|5
+1992AIPC..265...28M|Murakami, T;Ogasaka, Y;Yoshida, A;Fenimore, E|GINGA Observations of Gamma-Ray Bursts|7
+1992AIPC..265..135M|Miyaji, S;Okada, M|The Possibility of a Detonative Shell Flash on a Neutron Star and a Gamma-Ray Burst|0
+1992AIPC..265..211G|Graziani, C;Fenimore, E;Murakami, T;Yoshida, A;Lamb, D;Wang, J;Loredo, T|Line Strength Variations in Gamma-Ray Burst GB870303: Possible Evidence of Neutron Star Rotation|2
+1992AIPC..265..221L|Lamb, D|Issues in the Analysis and Interpretation of Cyclotron Lines in Gamma-Ray Bursts|2
+1992ASIC..377...37T|Tanaka, Y|Recent results from Ginga on X-ray binaries: selected topics.|7
+1992ESASP1153B....C|Courvoisier, T;Paltani, S|International Ultraviolet Explorer - Uniform low dispersion archive. Active galactic nuclei, Vol.A; Vol.B|1
+1992HiA.....9..193T|Tanaka, Y|Recent GINGA results on extragalactic x-ray sources|0
+1992HiA.....9..211T|Tanaka, Y|Recent GINGA results on galactic X-ray binaries|0
+1992IAUC.5576....1V|Vikhlinin, A;Sunyaev, R;Churazov, E;Gilfanov, M;Ballet, J;Denis, M;Laurent, P;Roques, J;Kouveliotou, C;Finger, M;Fishman, G;Meegan, C;Wilson, R;Paciesas, W|Cygnus X-1|25
+1992IAUC.5588....2A|Aoki, T;Dotani, T;Mitsuda, K|RCW 103|8
+1992NASCP3137..193L|Leahy, D;Yoshida, A;Kawai, N;Matsuoka, M|144 second periodic flux variations during X-ray turn-on of Hercules X-1.|5
+1992STIN...9223531L|Levine, A;Rappaport, S;Boynton, P;Deeter, J;Nagase, F|Discovery of orbital decay in SMC X-1|0
+1992aks..conf.....G|Greiner, J|Ginga - ein äußerst erfolgreicher japanischer Röntgensatellit.|0
+1992daia.conf...59S|Stella, L;Angelini, L|XRONOS: a timing analysis software package.|7
+1992eocm.rept...59P|Perola, G|Active galactic nuclei: the view from space.|0
+1992eocm.rept...77F|Fink, H|ROSAT: observations of active galactic nuclei.|1
+1992eocm.rept..141B|Bond, I;Matsuoka, M;Yamauchi, M|X-ray spectral structure of the Seyfert 2 galaxy NGC 5506.|0
+1992eocm.rept..163H|Haberl, F;Belloni, T;Mavromatakis, F|Soft X-ray emission from supergiant X-ray binaries detected in the ROSAT all-sky survey.|0
+1992eocm.rept..177A|Arnaud, M|A2163: an exceptionally hot cluster of galaxies.|0
+1992euve.prop...12R|Ricinski, S|Coronal Magnetic Structures of AB Doradus|0
+1992euve.prop...88S|Stern, R|The Quiescent and Flaring EUV Spectrum of Algol and it Relationship to Other Active Cool Star Binaries|0
+1992fxra.conf...49I|Iwasawa, K;Koyama, K;Halpern, J|Ginga Observations of X-Ray Pulsar 1E2259+586|0
+1992fxra.conf...93R|Robba, N;Warwick, R;Murakami, T|Ginga Observation of X-Ray Pulsar 4U 0352+30|0
+1992fxra.conf...95S|Sun, X;Kawai, N;Matsuoka, M;Yoshida, A;Yamauchi, S;Koyama, K|Ginga Observations of a Binary X-Ray Pulsar EXO2030+375|0
+1992fxra.conf..131Y|Yoshida, K;Inoue, H|Ginga Observation of X-Ray Dips from X1916-05|0
+1992fxra.conf..283I|Ishida, M;Makishima, K;Ohashi, T;Osborne, J;Watson, M|Magnetized Cataclysmic Variables Observed with Ginga|0
+1992fxra.conf..351E|Ebisawa, K;Makino, F;Mitsuda, K;Belloni, T;Cowley, A;Schmidke, P;Treves, A|Spectral Variation of LMC X-3 Observed with Ginga|0
+1992fxra.conf..385A|Asaoka, I;Hughes, J;Koyama, K|Ginga Observation of an Oxygen-Rich Supernova Remnant|0
+1992fxra.conf..387H|Hatsukade, I;Tsunemi, H|Ginga Observation of Cas A|0
+1992fxra.conf..421T|Takeshima, T;Mitsuda, K;Kawai, N|Ginga Observation of the G. C. Region|0
+1992fxra.conf..435O|Ohashi, T;Tsuru, T|Ginga Observations of Normal Galaxies|0
+1992fxra.conf..485T|Tsuru, T;Ikebe, Y;Ohashi, T;Makishima, K;Hatsukade, I;Yamashita, K;Forman, W;Arnaud, M|X-Ray Studies of Hot Gas Ejected from Galaxies Ginga Observations of Poor Clusters|0
+1992fxra.conf..553T|Turner, M;Williams, O;Saxton, R;Stewart, G;Ohashi, T;Makishima, K;Kii, T;Makino, F|High Luminosity AGN Observed by Ginga|0
+1992fxra.conf..577K|Kii, T;Makino, F;Otani, C;Ohashi, T;Tashiro, M;Hayashida, K;Kawai, N;Turner, M;Williams, O;Terasranta, H|Ginga Observations of Blazars|0
+1992fxra.conf..651C|Carrera, F;Barcons, X;Butcher, J;Fabian, A;Stewart, G;Warwick, R;Hayashida, K;Inoue, H|Small-Scale Anisotropies of the X-Ray Background from Ginga|0
+1992fxra.conf..653H|Hayashida, K;Inoue, H;Kii, T|Spatial Fluctuations in the X-Ray Background Observed with Ginga LAC|0
+1992fxra.conf..655K|Kondo, H;Dotani, T;Inoue, H;Kii, T;Mitsuda, K;Tanaka, Y;Ohashi, T;Tawara, Y;Hayashida, K;Stewart, G|An Unbiased Sky Survey at High Galactic Latitude with Ginga|1
+1992grbo.book..239M|Murakami, T;Inoue, H;van Paradijs, J;Fenimore, E;Yoshida, A|Soft X-ray observations of gamma-ray bursts by Ginga.|6
+1992grbo.book..314H|Hameury, J|Gamma-ray burst spectra and the thermonuclear model.|0
+1992grbo.book..399Y|Yoshida, A;Murakami, T;Nishimura, J;Kondo, I;Fenimore, E|Cyclotron lines observed with GINGA.|11
+1992grbo.book..407G|Graziani, C;Fenimore, E;Murakami, T;Yoshida, A;Lamb, D;Wang, J;Loredo, T|Cyclotron line strength variations in gamma-ray burst GB 870303: possible evidence of neutron star rotation.|11
+1992grbo.book..435H|Harding, A;Daugherty, J|Cyclotron resonant scattering and absorption.|0
+1992hst..prop.4285M|McCray, R|Time-Resolved UV Spectrometry of Massive X-Ray Binaries: Cycle 3 Medium|0
+1992mgm..conf..863K|Koyama, K;Awaki, H|Ginga results of X-ray spectra from galactic and extragalactic compact objects.|0
+1992mit..reptQ....C|Clark, G|The atmospheric structures of the companion stars of eclipsing binary X ray sources|0
+1992pagn.conf...82F|Fink, H;Makino, F;Warwick, R;Kawai, N;Okayasu, R;Otani, C|X-Ray Observations of MARKARIAN:501 and MARKARIAN:421 with Rosat/xrt and GINGA|1
+1992pagn.conf..100S|Sembay, S;Warwick, R;Urry, C;Sokoloski, J;George, I;Makino, T|Recent Observations of PKS:2155-304 by GINGA|0
+1992sesd.rept.....G|George, I;Nandra, K;Fabian, A;Turner, T;Done, C;Day, C|The broad-band X ray spectral variability of MKN 841|0
+1992sesd.rept.....T|Turner, T;Nandra, K;Madejski, G;Marshall, F;Mushotzky, R;Petre, R;Pounds, K;Smale, A;Serlemitsos, P;Weaver, K|BBXRT and GINGA observations of the Seyfert 1 galaxy MRK 335|0
+1992sesd.reptQ....D|Done, C;Madejski, G;Mushotzky, R;Turner, T;Koyama, K;Kunieda, H|The X ray variability of NGC6814: Power spectra|0
+1992sesd.reptR....D|Done, C;Madejski, G;Mushotzky, R;Turner, T;Koyama, K;Kunieda, H|The X ray variability of AGN and the anomalous behavior of NGC6814|0
+1992uwsa.rept.....D|Deeter, J;Boynton, P|Pulse-timing studies of X ray pulsars|0
+1992xbp..book.....B|Barcons, X;Fabian, A|The X-ray background. Proceedings.|0
+1992xrb..work.....B|Barcons, X;Fabian, A|The X-ray Background|6
+1992xrb..work..259S|Stewart, G|The Contribution of GINGA to Studies of the X-Ray Background|5
+1992xrea.conf....1P|Pounds, K;Nandra, K;Stewart, G|GINGA and ROSAT Observations of the X-Ray Spectra of SEYFERT-1 Galaxies|5
+1992xrea.conf...36B|Bond, I;Matsuoka, M;Yamauchi, M|X-Ray Spectral Structure of Seyfert Galaxies|1
+1992xrea.conf...42S|Staubert, R|Recent Results on 3C273|12
+1992xrea.conf...74K|Koyama, K|GINGA Results of TYPE-2 AGN / Active Galactic Nuclei and Their Contributions to the Cosmic X-Ray Background|8
+1992xrea.conf..303T|Tanaka, Y|Energy Spectrum of the Cosmic X-Ray Background - Some Considerations Based on the GINGA Results|3
+1992xrea.conf..358T|Toffolatti, L;Barcons, X|Clustering Properties of X-Ray Sources from the Analysis of the GINGA P D Distribution|1
+1992xrea.conf..362C|Carrera, F;Barcons, X|The GINGA Satellite and the Largescale Structure of the Universe|0
+1991AAN...143....1M|Mattei, J|Major Campaign on the Flare Star 101420 AD Leonis|0
+1991AAN...146....1M|Mattei, J|Special Multiwavelength Monitoring of 0201+14 TT Arietis|0
+1991AIPC..232..267L|Lih-Sin The,;Clayton, D|Bremsstrahlung emission of the SN1987A interior|0
+1991AIPC..232..267T|The, L;Clayton, D|Bremsstrahlung Emission of the SN1987A Interior|0
+1991AIPC..232..317V|Vedrenne, G;Jourdain, E|Gamma ray bursts and spectral features|0
+1991AIPC..232..373S|Sunyaev, R;Aref'ev, V;Borozdin, K;Churazov, E;Efremov, V;Gilfanov, M;Kaniovskiy, A;Kuznetsov, A;Melioranskiy, A;Yamburenko, N;Pietsch, W;Doebereiner, S;Englhauser, J;Reppin, C;Truemper, J;Kendziorra, E;Maisack, M;Mony, B;Staubert, R;Skinner, G;Patterson, T;Willmore, A;Al-Emam, O;Pan, H;Nottingham, M;Brinkman, A;Heise, J;In't Zand, J;Jager, R|Galactic X-Ray Sources with Extremely Hard Spectra from "KVANT" Module Observations|0
+1991AIPC..232..395H|Hartmann, D|Cyclotron lines in gamma-ray bursts and magnetic field decay|0
+1991AIPC..265..135M|Miyaji, S;Okada, M|The possibility of a detonative shell flash on a neutron star and a gamma-ray burst|0
+1991AIPC..265..211G|Graziani, C;Fenimore, E;Murakami, T;Yoshida, A;Lamb, D;Wang, J;Loredo, T|Line strength variations in gamma-ray burst GB870303: Possible evidence of neutron star rotation|0
+1991ASSL..169..325I|Inoue, H|Cosmic X-Ray Background|0
+1991ASSL..169..387K|Koyama, K|X-Ray Iron Line of Cluster of Galaxies|0
+1991IAUC.5161....1L|Lund, N;Brandt, S;Makino, F;McNaught, R;Jones, A;West, R|X-Ray Transient in Musca (GRS 1121-68 = GS 1124-683)|46
+1991IAUC.5162....2O|Ogelman, H;Hasinger, G;Trumper, J|PSR 0540-69|0
+1991IAUC.5163....2M|McNaught, R;Camilleri, P;West, R|X-Ray Transient in Musca|0
+1991IAUC.5165....1W|West, R;della Valle, M;Jarvis, B;Pizarro, G|Nova MUSCAE 1991 (X-Ray Transient in Musca)|15
+1991IAUC.5174....1G|Gonzalez-Riestra, R;Cassatella, A;Wamsteker, W;Shrader, C;Shore, S;Lund, N|Nova MUSCAE 1991|8
+1991IAUC.5180....1S|Sunyaev, R|X-Ray Outburst in the Field of GRS 0831-429|7
+1991IAUC.5255....2B|Bookbinder, J;Saar, S|Coordinated Observations of AD Leonis|0
+1991IAUC.5281....2M|Makino, F;Kii, T;Ohashi, T;Terasranta, H|3C 345|0
+1991IAUC.5294....2G|Grebenev, S;Sunyaev, R|GRS 0834-430|11
+1991IAUC.5310....2S|Sunyaev, R;Roques, J;Goldwurm, A|Nova MUSCAE 1991|0
+1991IAUC.5321....2O|Ogelman, H;Hasinger, G;Trumper, J|PSR 0540-69|2
+1991MsT..........1T|Takizawa, M|Observation of GS2000+25 by GINGA (ASTRO-C)|6
+1991Msngr..66...10B|Bignami, G;Caraveo, P;Mereghetti, S;Paul, J;Cordier, B;Goldwurm, A;Mandrou, P;Roques, J;Vedrenne, G|Optical identification of celestial high energy sources.|7
+1991S&T....82U.588.||Ginga's Mission Ends|0
+1991SPIE.1549....9O|Ohashi, T;Makishima, K;Ishida, M;Tsuru, T;Tashiro, M;Mihara, T;Kohmura, Y;Inoue, H|Imaging gas scintillation proportional counters for ASTRO-D|37
+1991SRToh..11..149K|Koyama, K|X-ray observations of supernova remnants. Birth of neutron stars and their evolution.|0
+1991csg..conf...29J|Johnstone, R;Fabian, A;Edge, A;Thomas, P|GINGA and SSS observations of A478|0
+1991csg..conf...81A|Allen, S;Fabian, A;Johnstone, R;Nulsen, P;Edge, A|Ginga and Exosat observations of the Perseus cluster of galaxies|0
+1991cuny.rept.....M|Martin, C;Halpern, J;Kolman, M|Search for correlated UV and X ray absorption of NGC 3516|0
+1991gsfc.rept.....L|Lamb, D;Wang, J;Heuter, G;Graziani, C;Loredo, T;Freeman, P|ADP study of gamma-ray bursts|0
+1991heaa.conf..297M|Mushotzky, R|X-Ray Emission from Active Galactic Nuclei|1
+1991iue..prop.3952C|Cowley, A|Long-Term Variations of the Black-Hole Binary LMC X-3|0
+1991supe.conf..269T|Tanaka, Y|X-Ray Observation of Supernova 1987A from GINGA|0
+1991vagn.conf..232K|Kaastra, J|Ginga Observations of X-ray Variability in the Broad Line Radio Galaxy 3C 382|1
+1990AIPC..211..314W|Wood, K|The X-ray large array (XLA)|0
+1990ASPC....9..224S|Stern, R;Haisch, B;Nagase, F;Uchida, Y;Tsuneta, S|GINGA Observations of a Long Duration X-Ray Flare in the Algol System|7
+1990ASPC....9..227S|Stern, R;Haisch, B;Uchida, Y;Walter, F;Veale, A;Brown, A;Vilhu, O;Hannikainen, D|Co-Ordinated GINGA IUE and VLA Observations of Flaring Activity in SIGMA-2 CRB|3
+1990ASSL..160..243O|Ohashi, T;Makishima, K;Mihara, T;Tsuru, T;Awaki, H;Koyama, K;Takano, S;Kondo, H|X-Ray Study of Normal Galaxies with GINGA|17
+1990ASSL..164..215H|Hayakawa, S|Cosmic Background Radiation: Components in Other Wavelength Ranges and Their Relevance to Microwave Background|0
+1990ASSL..166...41M|Makino, F|X-Ray Astronomy Satellite GINGA|0
+1990AstHe..83..156M|Makino, F;Nagase, F|X-ray observations by Ginga.|0
+1990AstHe..83..159M|Makishima, K;Nagase, F;Tsunemi, H;Koyama, K|Observations of X-ray pulsars with Ginga.|0
+1990AstHe..83..165M|Mitsuda, K;Dotani, T|Ginga observations of quasi-periodic oscillations in X-ray sources.|0
+1990BAAS...22..748C|Corbet, R;Day, C|Ginga Observations of the 6s X-ray Pulsar 1E1048.1-5937|0
+1990BAAS...22.1294M|Mukai, K;Smale, A;Williams, O|The Ginga Observations of the Dipping LMXB XB1916-053|0
+1990BAAS...22.1295L|Levine, A;Rappaport, S;Putney, A;Corbet, R;Nagase, F|LMC X-4: Ginga Observations and Search for Orbital Decay|0
+1990IAUC.4967....1M|Makino, F;GINGA Team|U 0115+63|5
+1990IAUC.4990....2M|Makino, F|GINGA Observations of NGC 5548|0
+1990IAUC.5017....2M|Mereghetti, S|OAO 1657-415|0
+1990IAUC.5104....1S|Sunyaev, R|GX 1+4, KS 1731-260, GRS 1741.9-2853, A1524-62|21
+1990IAUC.5139....1M|Makino, F;GINGA Team|Transient X-Ray Source near MX 0836-42|10
+1990IAUC.5142....1M|Makino, F;Hasinger, G;Pietsch, W;Belloni, T|Transient X-Ray Sources near MX 0836-42|8
+1990IAUC.5148....2M|Makino, F;GINGA Team|X-Ray Transients near MX 0836-42|6
+1990ICRC....1...57K|Kondo, I;Murakami, T;Fujii, M;Hayashida, K;Itoh, M;Nishimura, J;Yamagami, T;Yoshida, A;Conner, P;Evans, D;Fenimore, E;Klebesadel, W;Kawai, N|Cosmic Gamma-Ray Bursts Observed by GINGA Satellite GINGA GBD Team|1
+1990STIN...9116856B|Brinkmann, W;Kawai, N;Matsuoka, M;Fink, H|The X ray emission of SS433|0
+1990apcb.conf...21K|Kitamoto, S|The X-ray light curve of GS 2023+338 (=V404 Cyg).|6
+1990apcb.conf...29W|Wagner, R;Starrfield, S;Kreidl, T;Howell, S;Cassatella, A;Collins, G;Kaitchuck, R;Bertram, R;Fried, R|Optical observations of the X-ray nova V404 Cygni.|2
+1990apcb.conf...51C|Callanan, P;Naylor, T;Charles, P|The low mass X-ray binary in M15.|3
+1990apcb.conf..209N|Norton, A;Watson, M;King, A;McHardy, I;Lehto, H|A GINGA observation of FO Aqr.|6
+1990apcb.conf..225M|Mason, K;Rosen, S|The X-ray eclipse in EX Hya: emission from two poles.|2
+1990apcb.conf..251S|Szkody, P;Garnavich, P;Howell, S;Kii, T|New DQ Hers.|12
+1990hst..prop.2572M|McCray, R|Time Resolved UV Spectrometry of VELA X-1|0
+1990iue..prop.3750S|Smith, M|An IUE Investigation of Flarelike Activity in Lambda Eri|0
+1990iue..prop.3778U|Urry, C|Multifrequency Observations of Z-Ray-Bright BL Lac Objects|0
+1990nwus....2..265P|Pounds, K|X-ray spectroscopy of AGN.|0
+1990scpp.conf...43M|Makishima, K|Topics in X-ray astronomy from observations with GINGA.|0
+1989ASIC..262..267K|Kitamoto, S;Miyamoto, S|Fractal and Chaotic time variation in Cygnus X-1|0
+1989ASIC..262..305M|Mastichiadis, A|X-rays from a possible pulsar in supernova 1987A|0
+1989ASIC..262..317I|in't Zand, J;Jager, R;Heise, J;Brinkman, A;Syunyaev, R;Gilfanov, M;Pappe, N;Churazov, E;Yamburenko, N;Skinner, G;Al-Emam, O;Patterson, T;Willmore, A|X-ray observations of SN1987A with a coded mask imaging spectrometer|0
+1989ASSL..155.....C|Caffo, M;Fanti, R;Giacomelli, G;Renzini, A|Astronomy Cosmology &amp; Fundamental Physics. 3rd ESO-CERN, 1989|0
+1989ASSL..155..341T|Tanaka, Y|X-ray observation of SN1987A from GINGA|0
+1989BAAS...21..713S|Smale, A;Mason, K;Williams, O;Watson, M|Ginga Observations of the 50-min Dipping X-Ray Binary XB1916-053*|0
+1989BAAS...21.1205S|Stern, R;Haisch, B;Nagase, F;Uchida, Y;Tsuneta, S|Ginga Observations of a Long-Duration X-ray Flare in Algol|0
+1989BAAS...21.1208R|Roussel-Dupre, D;Priedhorsky, W;Kitamoto, S;Tsunemi, H|GINGA Observations of Two Globular Cluster Low Mass X-ray Binaries: NGC 6441 and NGC 6712|0
+1989ESASP.296....3T|Tanaka, Y|Black-Holes in X-Ray Binaries - X-Ray Properties of the Galactic Black-Hole Candidates|114
+1989ESASP.296...45N|Nagase, F|GINGA Observations of X-Ray Pulsars|6
+1989ESASP.296..103C|Charles, P;Casares, J;Jones, D;Broadhurst, T;Callanan, P;Carter, D;Hacking, P;Hassall, B;Lawrence, A;Naylor, T;Rutten, R;Sahu, K;Taylor, A|The Bright X-Ray Transient GS:2023+338 = V404-CYGNI in Optical Outburst and Decline|12
+1989ESASP.296..121G|Grindlay, J|Studies of the Possible X-Ray Triple 4U:1915-05|7
+1989ESASP.296..129C|Charles, P|Globular Cluster X-Ray Binaries|8
+1989ESASP.296..163S|Stewart, G;Pan, H;Kawaii, N|X-Ray Observations of SS:433 and its Jets|4
+1989ESASP.296..173M|Murakami, T|Cyclotron Absorption in Gamma-Ray Bursts Seen with GINGA|2
+1989ESASP.296..197M|Mitsuda, K|GINGA Observations of QPO|5
+1989ESASP.296..209D|Dotani, T|QPO from the Rapid Burster|1
+1989ESASP.296..231K|Kitamoto, S|Qpos from Black-Hole Candidates|5
+1989ESASP.296..237S|Shibazaki, N|The Impacts of GINGA Results on QPO Models|1
+1989ESASP.296..255A|Arefev, V;Borozdin, K;Churazov, E;Efremov, V;Gilfanov, M;Kaniovskiy, A;Kuznetsov, A;Melioranskiy, A;Sunyaev, R;Yamburenko, N;Pietsch, W;Doebereiner, S;Englhauser, J;Reppin, C;Trumper, J;Voges, W;Kendziorra, E;Maisack, M;Mony, B;Staubert, R;Skinner, G;Al-Emam, O;Patterson, T;Willmore, A;Brinkman, A;Heise, J;Int-Zand, J;Jager, R|X-Ray Observations of GS:2023+338 by the KVANT Module|3
+1989ESASP.296..439J|Jones, M;Watson, M|The X-Ray Dip Source 4U:1624-49|7
+1989ESASP.296..453K|Kawai, N|GINGA Observations of SS:433|4
+1989ESASP.296..483K|Koyama, K;Takeuchi, Y|New X-Ray Pulsars Discovered with the GINGA Satellite|1
+1989ESASP.296..525M|Melia, F|Gamma-Ray Bursts from Magnetospheric Plasma Oscillations|0
+1989ESASP.296..531M|Miyamoto, S;Kitamoto, S;Kimura, K|Is the Hard Tail of X-Rays from GX:339-4 a Compton Scattering Component|3
+1989ESASP.296..541M|Mony, B;Kendziorra, E;Maisack, M;Staubert, R;Dobereiner, S;Englhauser, J;Pietsch, W;Reppin, C;Trumper, J;Kaniovsky, V;Kuznetsov, A;Sunyaev, R|High Energy X-Ray Observations of GX:1+4 with HEXE|5
+1989ESASP.296..607S|Smale, A;Mukai, K;Williams, O;Jones, M;Parmar, A;Corbet, R|GINGA Observations of Dipping Low Mass X-Ray Binaries|2
+1989ESASP.296..661T|Tweedy, R;Warwick, R;Remillard, R|3A:1954+319 - a Possible Supergiant X-Ray Binary|5
+1989ESASP.296..671V|Vrtilek, S;Penninx, W;Raymond, J;Verbunt, F|IUE Observations of CYGNUS-X-2 and SCORPIUS-X-1 - Accretion Disks and the Z-Shaped Curve|1
+1989ESASP.296..689W|Wood, K;Hertz, P;Norris, J;Vaughan, B;Michelson, P;Mitsuda, K;Dotani, T|A Multi-Wavelength Campaign to Observe SCORPIUS-X-1 - Preliminary Results from the X-Ray Data|1
+1989ESASP.296..701Z|Zwitter, T;Calvani, M|Constraints on the SS:433 System from the GINGA Observations|2
+1989ESASP.296..753P|Pounds, K|The X-Ray Spectra of Emission Line Active Galactic Nuclei|10
+1989ESASP.296..763K|Koyama, K|Very Low Luminosity Active Galactic Nuclei|2
+1989ESASP.296..769T|Turner, M;Williams, O;Saxton, R;Stewart, G;Courvoisier, T;Ohashi, T;Makishima, K;Kii, T;Inoue, H|The Spectra 2-10-KEV of High Luminosity Quasars|12
+1989ESASP.296..783I|Inoue, H|GINGA Observations of the X-Ray Spectra of Active Galactic Nuclei / AGN|20
+1989ESASP.296..819P|Piro, L;Matsuoka, M;Yamauchi, M|2019.00COMPLEX X-Ray Spectra and Thick Matter in SEYFERT-1 Galaxies|8
+1989ESASP.296..837O|Ohashi, T;Kii, T;Makino, F;Hayashida, K;Inoue, H;Koyama, K;Makishima, K;Turner, M;Williams, O|X-Ray Spectra of Optically Violent Variable QSOS|14
+1989ESASP.296..885B|Band, D;Klein, R;Castor, J;Nash, J|Detailed Non-Lte Calculations of the Iron Emission from NGC1068|1
+1989ESASP.296..925D|Dermer, C|Ion-Heated Thermal Comptonization Models and X-Ray Spectral Correlations in Active Galactic Nuclei|0
+1989ESASP.296..945G|George, I;Fabian, A;Nandra, K;Pounds, K;Stewart, G|Iron Lines from X-Ray Illuminated Accretion Discs in Active Galactic Nuclei / AGN|4
+1989ESASP.296..985M|Matsuoka, M;Yamauchi, M;Piro, L|X-ray spectral variability in Seyfert 1 galaxies.|1
+1989ESASP.296..991M|Matt, G;Perola, G;Costa, E;Piro, L|X-ray polarization of the reprocessed emission from accretion disk in Seyfert galaxies.|8
+1989ESASP.296.1011M|Morisawa, K;Matsuoka, M;Takahara, F;Piro, L|Effect of X-ray spectra of Seyfert galaxies on the cosmic X-ray background.|0
+1989ESASP.296.1021N|Nandra, K;Pounds, K;Stewart, G;George, I;Fabian, A|The X-ray spectrum of MCG-6-30-15.|2
+1989ESASP.296.1053S|Singh, K;Westergaard, N;Schnopper, H;Awaki, H;Tawara, Y|X-ray spectrum and variability of MrK 509 as observed with EXOSAT and GINGA.|5
+1989ESASP.296.1065T|Tawara, Y;Kawada, M;Takano, S;Koyama, K;Awaki, H|Search for large scale extended diffuse X-ray emission from the Coma-A1367 supercluster.|0
+1989ESASP.296.1089Y|Yaqoob, T;Warwick, R|X-ray spectral index variability in NGC 4151.|5
+1989IAUC.4736....3M|Makino, F;Ohashi, T|3C 279|3
+1989IAUC.4739....2K|Kidger, M;Casares, J|3C 279|5
+1989IAUC.4745....1T|Takano, S;Koyama, K;Tawara, Y;Matsumoto, T;Noguchi, K;Iwata, T;Takahashi, N;Umemoto, T;Tatematsu, K;Ohashi, N;Fukui, Y;Makishima, K|X-Ray Pulsar in the Direction of LYNDS 1457|15
+1989IAUC.4768....2M|Makino, F|A0535+26|3
+1989IAUC.4769....1M|Makino, F;Cook, W;Grunsfeld, J;Heindl, W;Palmer, D;Prince, T;Schindler, S;Stone, E;Sunyaev, R|A0535+26|16
+1989IAUC.4782....1M|Makino, F|GS 2023+338|48
+1989IAUC.4783....1W|Wagner, R;Starrfield, S;Cassatella, A;Hurst, G;Mobberley, M;Marsden, B|V404 Cygni = GS 2023+338|36
+1989IAUC.4786....1M|Makino, F;Wagner, R;Starrfield, S;Buie, M;Bond, H;Johnson, J;Harrison, T;Gehrz, R|V404 Cygni = GS 2023+338|33
+1989IAUC.4802....2M|Makino, F;Kii, T;Ohashi, T|3C 279|0
+1989IAUC.4825....1M|Makino, F;Duerbeck, H;Schwarz, H|V745 Scorpii|2
+1989IAUC.4828....1G|Guinan, E;Gimenez, A|Coordinated Observations of Algol Binaries|1
+1989IAUC.4858....1M|Makino, F;GINGA Team|X0331+53|16
+1989IAUC.4872....2M|Makino, F;GINGA Team|X0331+53|3
+1989STIN...9016673R|Raubenheimer, B;Oegelman, H|EXOSAT measurements of the pulse period of VELA X-1|0
+1989STIN...9024192H|Hasinger, G;van der Klis, M;Ebisawa, K;Dotani, T;Mitsuda, K|Multifrequency observations of CYG X-2: X ray observations with GINGA|0
+1989bbag.conf..301I|Inoue, H|X-ray Satellite "Ginga" and AGN Observations|2
+1989bbag.conf..371M|Makishima, K;Ohashi, T|Ginga Observations of Near-by Normal Galaxies|4
+1989bbag.conf..379O|Ohashi, T;Makino, F|X-ray Study of BL Lac Objects from Ginga|0
+1989bbag.conf..481T|Tanaka, Y|X-ray Observation of SN1987A from Ginga|0
+1989cxxu.rept..103H|Hjellming, R;Honghan, X;Cordova, F;Hasinger, G|Radio observations of the X ray binary Cygnus X-2|0
+1989foap.conf...57M|Makino, F|Observation of X-rays from SN 1987A with Ginga.|0
+1989iue..prop.3402V|Vrtilek, S|Multiwavelength Observations of Scorpius X-1|0
+1989iue..prop.3420H|Holberg, J|Simultaneous Studies of Two W UMa Systems in the UV and X-Ray|0
+1989iue..prop.3435M|Martin, D|Search for Correlated UV and X-Ray Absorption in NGC 3516|0
+1989iue..prop.3440M|Mauche, C|Observations of U Gem in Outburst|0
+1989iue..prop.3455P|Polidan, R|Simultaneous Ginga, Voyager, and IUE Observations of Beta Lyrae|0
+1989iue..prop.3469R|Remillard, R|The High Energy Spectrum of the QSO PKS 0558-504|0
+1989iue..prop.3471S|Sun, W|UV-Bracketted X-Ray Observations of Agns|0
+1989iue..prop.3499U|Urry, C|Coordinated Multifrequency Observations of X-Ray Bright Bl Lacertae Pbjects|0
+1989lock.rept.....S|Stern, R|Investigation of X ray variability in highly active cool stars|0
+1988AIPC..170...34T|Tawara, Y|X-ray observations of SN1987A with Ginga|0
+1988ASIC..249..343T|Tanaka, Y|First Results from GINGA|0
+1988IAUC.4530....2M|Makino, F|Supernova 1987A in the Large Magellanic Cloud|16
+1988IAUC.4532....1M|Makino, F;Beresford, A|Supernova 1987A in the Large Magellanic Cloud|11
+1988IAUC.4571....2M|Makino, F|New X-Ray Source|5
+1988IAUC.4575....1M|Makino, F;GINGA Team|X-Ray Outburst|8
+1988IAUC.4577....1M|Makino, F;GINGA Team|X-Ray Pulsar|6
+1988IAUC.4583....1M|Makino, F;GINGA Team|Transient X-Ray Source|6
+1988IAUC.4585....1H|Horne, K;McCray, R|AE Aquarii|0
+1988IAUC.4587....1M|Makino, F;GINGA Team|X-Ray Sources|17
+1988IAUC.4588....1M|Makino, F;McNaught, R|X-Ray Nova in Vulpecula|3
+1988IAUC.4589....1O|Okamura, S;Noguchi, T|X-Ray Nova in Vulpecula|10
+1988IAUC.4600....2M|Makino, F;Wagner, R;Henden, A;Bertram, R;Starrfield, S|ASM 2000+25|1
+1988IAUC.4606....1S|Sunyaev, R;Kvant Team|ASM 2000+25|6
+1988IAUC.4607....1H|Hjellming, R;Calovini, T;Cordova, F|ASM 2000+25|6
+1988IAUC.4618....3M|Makino, F|3C 279|0
+1988IAUC.4626....2M|Makino, F;GINGA Team|3C 279|13
+1988IAUC.4632....1U|Urry, M;Webb, J|3C 279|2
+1988IAUC.4633....3M|Makino, F;GINGA Team|EXO 0748-676|0
+1988IAUC.4634....1P|Peterson, B;Wagner, R;Korista, K|3C 279|4
+1988IAUC.4639....2M|Makino, F;GINGA Team|MXB 1730-333|0
+1988IAUC.4653....2M|Makino, F|GS 1826-24|13
+1988IAUC.4653....3M|Makishima, K;Miyamoto, S|GX 339-4|4
+1988IAUC.4661....2M|Makino, F;GINGA Team|GS 1843-024|10
+1988IAUC.4674....2M|Makino, F;GINGA Team|PSR 1957+20|2
+1988IAUC.4675....2M|Makino, F;GINGA Team|V1333 Aquilae|1
+1988IAUC.4679....2M|Makino, F;GINGA Team|Scutum X-1|10
+1988IAUC.4687....2I|Ilovaisky, S;Chevalier, C|V1333 Aquilae|0
+1988SPIE..830..242T|Tanaka, Y;Makino, F|Grazing incidence optics for the X-ray astronomy mission SXO.|0
+1988ffnp.conf..265P|Pietsch, W|Hard X-ray emission from SN 1987A.|0
+1988iue..prop.3046B|Balbus, S|Continuum Processes in BL Lacertae Objects|0
+1988iue..prop.3133L|Linsky, J|Simultaneous Multiwavelength Observations of Stellar Flares|0
+1988iue..prop.3198U|Urry, C|Multifrequency Observations of Bl Lac Objects|0
+1988iue..prop.3227V|Vilhu, O|Simultaneous IUE-Ginga Observations of Sigma 2 CRB|0
+1988pnsb.conf....1N|Nagase, F|Observations of X-ray pulsars.|3
+1988pnsb.conf...55K|Koyama, K|Ginga view of the galactic ridge.|5
+1988pnsb.conf...67S|Shinoda, K;Koyama, K;Nagase, F;Ogawara, Y;Kawai, N|Ginga observation of the X-ray pulsar 1E2259+586 in the supernova remnant G109.1-1.0.|2
+1988pnsb.conf...71T|Tawara, Y;Yamauchi, S;Awaki, H;Kii, T;Koyama, K;Nagase, F|Transient X-ray pulsar with 414 sec period discovered by Ginga.|1
+1988pnsb.conf...83T|Tsunemi, H|ASM observations of the X-ray pulsars Vela X-1 and Cen X-3.|0
+1988pnsb.conf...87T|Tsunemi, H;Kitamoto, S|ASM observations of X-ray flares from 4U 0115+63 and ASM 1354-64.|0
+1988pnsb.conf..117M|Mitsuda, K|Energy-dependent time lags in QPO from Cyg X-2.|3
+1988pnsb.conf..133M|Mitsuda, K;Dotani, T;Yoshida, A|Characteristics of high-frequency QPO from GX 5-1.|7
+1988pnsb.conf..143D|Dotani, T;Mitsuda, K|Low-frequency QPOs observed with Ginga.|4
+1988pnsb.conf..149E|Ebisawa, K;Mitsuda, K;Inoue, H;Dotani, T|Discovery of the 0.08 Hz quasi periodic oscillation from the black hole candidate LMC X-1.|3
+1988pnsb.conf..175M|Makishima, K|Time variations of X-ray sources.|32
+1988pnsb.conf..205T|Tomizono, S;Tsunemi, H;Kitamoto, S|An observation of the ultra soft X-ray transient, ASM 1354-64, with the large area proportional counter on board Ginga.|0
+1988pnsb.conf..227M|Miyamoto, S;Kitamoto, S;Mitsuda, K;Dotani, T|Fractal and chaotic variability and hard X-ray lag time of Cygnus X-1 .|0
+1988pnsb.conf..231K|Kawai, N;Matsuoka, M;Pan, H;Stewart, G|Ginga observations of the X-ray eclipse of SS433.|0
+1988pnsb.conf..285P|Pounds, K;McHardy, I|Exploring variability timescales in the X-ray emisison of active galaxies with EXOSAT and Ginga.|31
+1988pnsb.conf..301O|Ohashi, T|X-ray spectra of active galactic nuclei.|5
+1988pnsb.conf..357M|Makino, F;Inoue, H;Murakami, T;Ohashi, T;Kii, T;Koyama, K;Takano, S;Yamauchi, M;Pounds, K;Turner, M;Warwick, R|Spectral survey of AGNs with Ginga.|2
+1988pnsb.conf..361O|Ohashi, T;Makino, F|Spectral study of BL Lac objects from Ginga.|1
+1988pnsb.conf..365T|Turner, M;Makishima, K;Ohashi, T;Inoue, H;Takano, S|The spectrum and variability of the quasar 3C 273.|0
+1988pnsb.conf..369W|Warwick, R;Yaqoob, T;Pounds, K;Bromage, G|EXOSAT and Ginga observations of NGC 4151.|0
+1988pnsb.conf..405M|Murakami, T|Recent progress in gamma-ray burst astronomy achieved by Ginga.|2
+1988pnsb.conf..413N|Nishimura, J|What are the gamma-ray bursts? - Consistency with the magnetized neutron star model.|2
+1988pnsb.conf..431T|Tanaka, Y|X-Ray observation of SN 1987A from Ginga.|12
+1988pnsb.conf..491M|Mitsuda, K;Dotani, T;Itoh, M;Tsuchiya, T;Shimizu, S|A search for pulsations in the X-ray flux of SN 1987A.|2
+1988pnsb.conf..495T|Takeshima, T;Dotani, T;Koyama, K;Mitsuda, K|An upper limit on X-ray pulsations from the SNR CTB 80.|0
+1988pnsb.conf..497H|Hatsukade, I;Tsunemi, H|The X-ray spectrum of Kepler's supernova remnant.|0
+1988pnsb.conf..503T|Takano, S;Koyama, K;Makishima, K|Ginga observation of X-ray emission from the dark cloud Lynds 1457.|0
+1988pnsb.conf..507T|Tsunemi, H;Kitamoto, S;Manabe, M;Miyamoto, S;Yamashita, K;Nakagawa, M|All Sky Monitor on board Ginga and its results; long term variation for various sources with ASM.|0
+1988slmc.proc..349T|Tanaka, Y|An unusual hard X-ray source in the region of SN 1987A.|3
+1988slmc.proc..371S|Shull, J;Xu, Y|The emergence of X-rays and gamma-rays from supernova 1987A.|1
+1988slmc.proc..398E|Ebisuzaki, T;Shibazaki, N|The effects of mixing of the ejecta on the hard X-ray emissions from SN 1987A.|2
+1988slmc.proc..413K|Kumagai, S;Itoh, M;Shigeyama, T;Nomoto, K;Nishimura, J|Hard X- and gamma-rays from supernova 1987A.|3
+1988slmc.proc..417N|Nomoto, K;Shigeyama, T;Hayakawa, S;Itoh, H;Masai, K|Thermal X-rays from SN 1987A?|0
+1988slmc.proc..421N|Nomoto, K;Tsuruta, S|Detectability of early thermal radiation from a neutron star in SN 1987A.|1
+1987AstHe..80..316M|Makishima, K|X-ray astronomy satellite "Ginga".|0
+1987BAAS...19.1067K|Koyama, K|Recent Results from Ginga|0
+1987ESOC...26..503N|Nomoto, K;Hayakawa, S;Itoh, H;Masai, K;Shigeyama, T|X-Ray Diagnosis of the Progenitor of Supernova 1987A|0
+1987ESOC...26..571N|Nomoto, K;Tsuruta, S|Neutron Star Thermal Radiation from Supernova 1987A|0
+1987IAUC.4336....1M|Makino, F;Matthews, J;Suntzeff, N;Pastoriza, M;Storchi-Bergmann, T|Supernova 1987A in the Large Magellanic Cloud|9
+1987IAUC.4342....1M|Makino, F|4U 0115+63 and X-Ray Nova|17
+1987IAUC.4357....1P|Pedersen, H;Ilovaisky, S;van der Klis, M;Pizarro, G;Bergeron, J|X-Ray Nova 1354-64|4
+1987IAUC.4362....1I|Ilovaisky, S;Pedersen, H;van der Klis, M|Nova Circini 1987|2
+1987IAUC.4424....2M|Makino, F;GINGA Team|UX ARIETIS|0
+1987IAUC.4447....1M|Makino, F;Moore, G|Supernova 1987A in the Large Magellanic Cloud|13
+1987IAUC.4459....2M|Makino, F;GINGA Team|X-Ray Pulsars|7
+1987IAUC.4466....1M|Makino, F;Beresford, A;Seargent, D;McNaught, R|Supernova 1987A in the Large Magellanic Cloud|2
+1987IAUC.4510....1M|Matz, S;Share, G;Chupp, E;Vestrand, W;Beresford, A|Supernova 1987A in the Large Magellanic Cloud|10

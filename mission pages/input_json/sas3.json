@@ -1,0 +1,66 @@
+{
+    "title": "The Third Small Astronomy Satellite (SAS-3)",
+    "name": "The Third Small Astronomy Satellite (SAS-3)",
+    "decade" : 1970,
+    "alttext": "artist concept of SAS-3",
+    "imagesize": 130,
+    "imageurl": "/Images/sas3/sas3_small2.gif",
+    "descript": "<p><b><font size=\"+2\">T</font>he third US Small Astronomy Satellite (SAS-3)</b> was launched in May 1975, with 3 major scientific objectives: 1) determine bright X-ray source locations to an accuracy of 15 arcseconds; 2) study selected sources over the energy range 0.1&ndash;55 keV; and 3) continuously search the sky for X-ray novae, flares, and other transient phenomena. It was a spinning satellite with pointing capability.</p>",
+    "lifetime": "May 1975&ndash;Apr 1979",
+    "features": [""],
+    "instrument_preamble" : "There are four X-ray experiments on SAS-3 that all used proportional counters as detectors with different collimating system. The experiments were not co-aligned.",
+    "instruments": [
+	{
+	    "name" : "Modulation Collimators",
+	    "energy" : "2&ndash;11 keV",
+	    "fov" : "12&deg; &times; 12&deg; (FWHM)",
+	    "resolution" : "4.5&prime; (FWHM)",
+	    "descript" : "2 rotating modulation collimator systems. These were composite of a modulation collimator in front of a bank of proportional counters that detect X-ray in the bands 2&ndash;6 and 6&ndash;11 keV. The collimator has a transmission band with a FWHM of 4.5 arcmin and an overall FOV of 12&deg; &times; 12&deg; centered on the direction parallel to the spin axis (satellite Z-axis)."
+	},
+	{
+	    "name" : "Slat Collimators",
+	    "energy" : "1&ndash;60 keV",
+	    "area" : "75 cm<sup>2</sup> each",
+	    "fov" : "1&deg; &times; 32&deg; (center)<br>0.5&deg &times; 32&deg; (left and right) (FWHM) ",
+	    "descript" : "3 crossed slat collimators each with proportional counter. They were designed to monitor a large portion of the sky in a wide band of directions centered on the plane perpendicular to the rotation axis of the satellite (+Z). Each detector consisted of a proportional counter and collimator with an on-axis effective area of 75 cm<sup>2</sup>. The collimators define 3 long, narrow fields of view which intersect on the +Y axis and are inclined with respect to the YZ plane of the satellite at angles of -30°, 0°, and +30°, respectively. During scanning mode, an X-ray source would appear successively in the 3 detectors. Three lines of position could then be obtained, and their intersection determined the true source position. The center collimator had a field of view with FWHM 1&deg by 32&deg; and a FW of 2&deg; by 120&deg;. The left and right collimators had narrower, but similar responses, i.e., 0.5&deg; &times; 32&deg; (FWHM) and 1.0&deg; &times; 100&deg; (FW). The proportional counters were filled with argon and were sensitive in the range 5&ndash;15 keV. In addition the center detector had also a xenon counter, located behind the argon detector, that extend the response to 60 keV. Over the energy range 1.5&ndash;6 keV, 1 count/s = 1.5 &times; 10<sup>-10</sup> ergs/cm<sup>2</sup>/s for a Crab-like spectrum. In any given orbit, &sim;60% of the sky was scanned by the center slat detector with an exposure ranging from 300&ndash;1125 cm<sup>2</sup> sec."
+	},
+	{
+	    "name" : "Tube Collimators",
+	    "energy" : "1&ndash;60 keV",
+	    "fov" : "1.7&deg; circular",
+	    "descript" : "3 tube collimators (which were located above, below, and to the left of the slat collimators). The tube collimator located above the slat collimator was inclined at an angle of 5 degrees above the Y-axis, and could therefore be used as a background reference for the other tube collimators that view along the Y-axis."
+	},
+	{
+	    "name" : "Soft X-ray Concentrator",
+	    "energy" : "0.15&ndash;1.0 keV",
+	    "fov" : "2.9&deg;",
+	    "descript" : "1 low-energy detector system to the right of the slat collimators. It consisted of a set of 4 grazing incidence, parabolic reflection concentrators with 2 independent gas-flow counters sensitive to X-rays."
+	}
+    ],
+    "highlights": [
+        "Discovery of a dozen X-ray burst sources including the Rapid Burster",
+        "First discovery of X-rays from an highly magnetic white dwarf binary system, AM Her",
+        "Discovery of X-rays from Algol and HZ 43",
+        "Precise location of about 60 X-ray sources",
+        "Survey of the Soft X-ray background (0.1&ndash;0.28 keV)"
+    ],
+    "archive": "The HEASARC hosts raw data in their native format",
+    "navigation": [
+	{
+	    "url" : "/docs/sas3/sas3.html",
+	    "text" : "SAS-3"
+	},
+	{
+	    "url" : "/docs/sas3/sas3_about.html",
+	    "text" : "More about SAS-3"
+	},
+	{
+	    "url" : "/docs/sas3/sas3_images.html",
+	    "text" : "Gallery"
+	},
+	{
+	    "url" : "/docs/sas3/bib/sas3_biblio.html",
+	    "text" : "Publications"
+	}
+    ]
+}

@@ -1,0 +1,31 @@
+2023AAS...24145704G|Goldstein, A;Burns, E|Multi-messenger and Multi-wavelength Collaborations in the Era of Time Domain and Multi-Messenger Astrophysics|0
+2023HEAD...2010360M|Myers, A|BurstCube: A CubeSat for Gravitational Wave Counterparts|0
+2023HEAD...2010366M|Martinez-Castellanos, I|The bc-tools library: an open-source software for BurstCube and other GRB satellites|0
+2023HEAD...2011523K|Kocevski, D|The StarBurst Multimessenger Pioneer|0
+2022AAS...24040907K|Kocevski, D|The StarBurst Multimessenger Pioneer|0
+2022HEAD...1910832B|Briggs, M;BurstCube Team|BurstCube Instrument Flight Software and Science Datatypes|0
+2022HEAD...1910833N|Nuessle, P;BurstCube Team|BurstCube: Operations|0
+2022HEAD...1910834A|Asercion, J;BurstCube Team|BurstCube Ground Software and Data Analysis Pipeline|0
+2022HEAD...1910835J|Joens, A;BurstCube Team|BurstCube: Calibrations|0
+2022HEAD...1910836G|Griffin, S;BurstCube Team|BurstCube: Instrument Flight Firmware|0
+2022HEAD...1920403J|Joens, A;BurstCube Team|BurstCube: A CubeSat for Gravitational Wave Counterparts|0
+2022HEAD...1930506S|Smith, J;BurstCube Team|BurstCube: Mission Overview, Status, and Testing|0
+2022MsT..........3A|Affonso, J|A Geographic Segmentation Approach for Satellite-Derived Bathymetry|0
+2022cosp...44.1954B|Burns, E|The Gravitational Wave-Gamma Ray Burst Working Group|0
+2022icrc.confE.656M|Martinez, I;Brewer, I;Briggs, M;Bruno, A;Burns, E;Caputo, R;Cenko, B;De Nolfo, G;Goldstein, A;Griffin, S;Guiriec, S;Hanlon, L;Hartmann, D;Hristov, B;Hui, M;Joens, A;Kierans, C;Kippen, M;Kocevski, D;Krizmanic, J;Laha, S;Lien, A;McBreen, S;McEnery, J;Mitchell, J;Mitchell, L;Morris, D;Murphy, D;Nuessle, P;Perkins, J;Racusin, J;Roberts, O;Shawhan, P;Smith, J;Tatoli, T;Uliyanov, A;Walsh, S;Wilson-Hodge, C|BurstCube: status and public alerts|0
+2021apra.prop...67P|Perkins, J|BurstCube Operations|0
+2020AAS...23520610W|Walters, K|CubeSat Instrument for Gamma Ray Detection|0
+2020AAS...23527107P|Perkins, J;BurstCube Team|BurstCube: A CubeSat for Gravitational Wave Counterparts|0
+2020SPIE11444E..1XP|Perkins, J;Brewer, I;Briggs, M;Bruno, A;Burns, E;Caputo, R;Cenko, B;Cucchiara, A;De Nolfo, G;Dumonthier, J;Griffin, S;Hanlon, L;Hartmann, D;Hristov, B;Hui, M;Joens, A;Kierans, C;Kippen, M;Kocevski, D;Krizmanic, J;Laha, S;Lien, A;Martinez-Castellanos, I;McBreen, S;McEnery, J;Mitchell, J;Mitchell, L;Morris, D;Murphy, D;Racusin, J;Roberts, O;Shawhan, P;Smith, J;Suarez, G;Tatoli, T;Uliyanov, A;Vazquez, C;Walsh, S;Wilson-Hodge, C|BurstCube: a CubeSat for gravitational wave counterparts|1
+2019AAS...23324806H|Husband, K|Characterization of Silicon Photomultipliers|0
+2019HEAD...1720305B|Brewer, I|The BurstCube Experiment|0
+2019ICRC...36..604S|Smith, J|BurstCube: Mission Concept, Performance, and Status|2
+2018AAS...23136114P|Perkins, J;Racusin, J;Briggs, M;de Nolfo, G;Caputo, R;Krizmanic, J;McEnery, J;Shawhan, P;Morris, D;Connaughton, V;Kocevski, D;Wilson-Hodge, C;Hui, M;Mitchell, L;McBreen, S|BurstCube: A CubeSat for Gravitational Wave Counterparts|0
+2017ICRC...35..760P|Perkins, J;Racusin, J;Briggs, M;de Nolfo, G;Krizmanic, J;Caputo, R;McEnery, J;Shawhan, P;Morris, D;Connaughton, V;Kocevski, D;Wilson-Hodge, C;Hui, M;Mitchell, L;McBreen, S|BurstCube: A CubeSat for Gravitational Wave Counterparts|4
+2017apra.prop...34G|Grove, J|Glowbug, a Gamma-Ray Telescope for Bursts and Other Transients|0
+2017arXiv170809292R|Racusin, J;Perkins, J;Briggs, M;de Nolfo, G;Krizmanic, J;Caputo, R;McEnery, J;Shawhan, P;Morris, D;Connaughton, V;Kocevski, D;Wilson-Hodge, C;Hui, M;Mitchell, L;McBreen, S|BurstCube: A CubeSat for Gravitational Wave Counterparts|28
+2017ifs..confE.188P|Perkins, J|BurstCube: A CubeSat for Gravitational Wave Counterparts|0
+2016AAS...22714726R|Racusin, J;Perkins, J;Briggs, M;De Nolfo, G;Krizmanic, J;Connaughton, V;McEnery, J|BurstCube: A CubeSat for Gravitational Wave Counterparts|0
+2016LPICo1962.4088P|Perkins, J;Racusin, J;Briggs, M;de Nolfo, G;Krizmanic, J;McEnery, J;Shawhan, P;Morris, D;Connaughton, V|BurstCube: A CubeSat for Gravitational Wave Counterparts|0
+2016apra.prop...53P|Perkins, J|BurstCube|0
+2014HEAD...1411611P|Perkins, J;Racusin, J;Krizmanic, J;McEnery, J|BurstCube: A Gamma-ray Burst Detecting Swarm of CubeSats|0

@@ -1,0 +1,41 @@
+{
+    "title": "GRBBeta",
+    "name": "GRBBeta",
+    "alttext": "Visualization of GRBBeta in orbit",
+    "imagesize": 300,
+    "imageurl": "/Images/misc_missions/grbbeta_vis_sm.jpg",
+    "descript": "<p><b><font size=\"+2\">T</font>he GRBBeta</b> mission is a 2U Cubesat proof-of-concept mission for a small gamma-ray burst detector and is a follow on from <a href=\"grbalpha.html\">GRBAlpha</a>. It was launched on July 9, 2024 on an Ariane 6 rocket from the Kourou Spaceport in French Guiana. The satellite weighs 2.26 kg and is 10 &times; 10 &times; 22.7 cm in size. GRBBeta is an international collaboration between various research institutions, including the Konkoly Observatory (Hungary), Technical University of Ko&#353;ice (Slovakia), Masaryk University (Czech Republic), and Hiroshima University (Japan). Primary funding was provided by the Ministry of Education, Research, Development and Youth of the Slovak Republic.</p>\n\n<p>It is a proving ground for the future &ldquo;Cubesats Applied for Measuring and Localizing Transients&rdquo; (CAMELOT), a planned constellation of 3U Cubesats to provide continuous all-sky coverage and accurate localization. GRBBeta carries undersized (1/8) version of the detectors intended for CAMELOT: sufficient to demonstrate the mission concept and inter-calibrate observed light curves with existing operational GRB missions. It differs from GRBAlpha in carrying some new subsystems, such as an advanced positioning module and Iridium satellite communications network through deployed antennae.",
+    "decade": 2020,
+    "lifetime": "9 Jul 2024&ndash; (one year nominal mission)",
+    "features": [
+	"Follow up undersized GRB detector from GRBAlpha"
+    ],
+    "instruments": [
+	{
+	    "name": "Gamma-ray Detector",
+	    "energy": "70&ndash;890 keV",
+	    "energy_resolution": "&sim;30%",
+	    "descript": "A single CsI(Tl) crystal measuring 75 &times; 75 &times; 5 mm. The scintillation is observed by low voltage lightweight silicon photomultipliers (SiPMs). The assembly is wrapped in Tedlar with an anodized aluminum casing and lead-alloy shielding on one edge to protect the SiPMs and crystal"
+	},
+	{
+	    "name": "LuvCAM",
+	    "descript": "A miniature UV camera for astrophysics."
+	}
+  ],
+  "highlights": [
+      "Characterization of peak intensity and time of bright burst events",
+      "Prove operational concepts of future CAMELOT satellite constellation, especially supporting sub-systems",
+      "Track instrument degradation over time due to space environment conditions",
+      "Co-observe with gravitational wave detectors and other observatories as part of multimessenger astronomy"
+  ],
+  "navigation": [
+      {
+	  "url": "https://grbbeta.tuke.sk/",
+	  "text": "GRBBeta at Technical University of Ko&#353;ice (Slovakia)"
+      },
+      {
+	  "url": "https://spacemanic.com/missions/grbbeta/",
+	  "text": "GRBBeta at SpaceManiac"
+      }
+  ]
+}

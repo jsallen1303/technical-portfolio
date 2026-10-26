@@ -1,0 +1,53 @@
+{
+    "title": "The COS-B Satellite",
+    "name": "The COS-B Satellite",
+    "alttext": "Artistic visualization of COS-B in orbit",
+    "imagesize": 171,
+    "imageurl": "/Images/cosb/cosb_sat_small2.gif",
+    "descript": "<p><b><font size=\"+2\">T</font>he ESA mission COS-B</b>, along with NASA&rsquo;s SAS-2, provided the first detailed views of the Universe in gamma rays. COS-B carried a single large experiment, the Gamma Ray Telescope, which was responsibility of a group of European research laboratories know as the <i>Caravane Collaboration</i>. Launched on the 9 August 1975, COS-B was originally projected to last two years, but it operated successfully for 6 years and 8 months. It provided the first complete map of the Galaxy in gamma rays.",
+    "decade" : 1970,
+    "lifetime": "9 Aug 1975&ndash;25 Apr 1982",
+    "features": [
+	"Observing time of 25 hours per 37 orbit, with pointing periods of four to five weeks in the early mission, extended to up to three months in later observations",
+	"Studied a broad portion of the galactic equator with deep observations",
+	"Mapping roughly 50% of the celestial sphere during the mission at gamma-ray wavelengths"
+    ],
+    "instruments": [
+	{
+	    "name" : "Gamma Ray Telescope",
+	    "energy" : "&sim; 30 MeV &ndash; 5 GeV",
+	    "area" : "50 cm<sup>2</sup> at 400 MeV",
+	    "energy_resolution" : "&sim;40% at 150 MeV (FWHM)",
+	    "descript" : "The Gamma-Ray Telescope consisted of a magnetic-core, wire-matrix, spark chamber, triggered by a three-element scintillation counter telescope. A plastic scintillator guard counter surrounding these two units served as an anti-coincidence detector to reject triggers due to incident charged particles and allow only gamma-rays to be detected. Beneath the telescope was an energy calorimeter, which absorbed the secondary particles produced by the incident photons."
+	},
+	{
+	    "name" : "Proportional Counter",
+	    "energy" : "2&ndash;12 keV",
+	    "descript" : "This detector was intended to provide synchronization of possible pulsed gamma-ray emission from pulsating X-ray sources."
+	}
+    ],
+    "highlights": [
+	"Observations of gamma-ray pulsars and binary systems",
+	"Gamma ray map of the Galaxy",
+	"Detailed observations of the Geminga gamma-ray pulsar"
+    ],
+    "archive": "The HEASARC hosts raw data, images, and exposure maps from the gamma-ray telescope",
+    "navigation": [
+	{
+	    "url": "/docs/cosb/cosb.html",
+	    "text": "COS-B at HEASARC"
+	},
+	{
+	    "url": "/docs/cosb/cosb_about.html",
+	    "text": "More about COS-B"
+	},
+	{
+	    "url": "/docs/cosb/cosb_images.html",
+	    "text": "Gallery"
+	},
+	{
+	    "url": "/docs/cosb/bib/cosb_biblio.html",
+	    "text": "Publications"
+	}
+    ]
+}

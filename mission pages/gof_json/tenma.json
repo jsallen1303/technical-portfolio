@@ -1,0 +1,71 @@
+{
+    "title": "The Tenma Satellite [Astro B]",
+    "name": "The Tenma [Astro B] Satellite",
+    "gofsidebar" : "Past",
+    "decade" : 1980,
+    "alttext": "Photograph of Tenma",
+    "imagesize": 190,
+    "imageurl": "/Images/tenma/tenma_small2.gif",
+    "descript": "<p><b><font size=\"+2\">A</font>stro B</b> was the second Japanese X-ray astronomy satellite. After launch on February 20, 1983, it was renamed <b>Tenma</b> (Japanese for &ldquo;Heavenly Horse&rdquo; or &ldquo;Pegasus&rdquo;). Tenma carried GSFC detectors which had an improved energy resolution (by a factor of 2) compared to proportional counters and performed the first sensitive measurements of the iron spectral region for many astronomical objects.</p>",
+    "lifetime": "20 Feb 1983&ndash;22 Nov 1985",
+    "features": [
+	"Suite of instruments covering a wide energy range for simultaneous observations at soft and hard X-ray wavelengths",
+	"While primarily a Japanese mission, it included contributions from U.S. and European researchers. It established Japan as a major contributor to X-ray astronomy."
+	],
+    "instruments": [
+    	{
+	    "name" : "Gas Scintllator Proportional Counter",
+	    "energy" : "2&ndash;60 keV",
+	    "fov" : "3.1&deg FWHM (SPC-A)<br>2.5&deg; FWHM (SPC-B)<br>3.8&deg; FWHM (SPC-C)",
+	    "area" : "80 cm<sup>2</sup> each",
+	    "energy_resolution" : "9.5% at 6 keV",
+	    "descript" : "This was the primary instrument on the satellite. Its main objective was the spectral and temporal study of cosmic X-ray sources. It consisted of 10 gas scintillation proportional counters (GSPC). The ten counters were divided into three groups SPC-A, B and C, with slightly different fields of view through honeycomb collimators. The A and B consisted of 4 counters each, the C instead consisted of 2 counters."
+	},
+	{
+	    "name" : "X-ray Focusing Collimator",
+	    "energy" : "0.1&ndash;2 keV",
+	    "fov" : "5&deg; &times; 0.2&deg (FWHM), divided into 7 resolution elements",
+	    "area" : "7 cm<sup>2</sup> each at 0.7 keV",
+	    "descript" : "The system consisted of 2 identical co-aligned subsystems, each with a position sensitive proportional counter."
+	},
+	{
+	    "name" : "Transient Source Monitor",
+	    "energy" : "2&ndash;10 keV",
+	    "fov" : "45&deg; radius",
+	    "descript" : "This instrument carried out continuous monitoring of a wide field of the sky. It consisted of 2 detector groups: (1) a Hadamard X-ray telescope and (2) a scanning counter."
+	},
+	{
+	    "name" : "Radiation Belt Monitor/Gamma Ray Burst Detector",
+	    "energy" : "10&ndash;100 keV",
+	    "area" : "7 cm<sup>2</sup> each",
+	    "temporal_resolution" : "1/8 s",
+	    "sensitivity" : "&sim;10<sup>-5</sup> erg/cm<sup>2</sup> detection limit at 1/8 s time resolution",
+	    "descript" : "2 sets of scintillation counters. Their primary purpose was to monitor the background variations. They were also used as alarms for satellite entry into the radiation belts, and detect gamma-ray bursts."
+	}
+    ],
+    "highlights": [
+	"Discovery of the Iron helium-like emission from the galactic ridge",
+	"Iron line discovery and/or study in many low- and high-mass x-ray binaries and active galactic nuclei",
+	"Discovery of an absorption line at 4 keV in the X1636-536 burst spectra"
+    ],
+  "archive": "No data available at the HEASARC",
+    "navigation": [
+	{
+	    "url" : "/docs/tenma/tenma.html",
+	    "text" : "Tenma"
+	},
+	{
+	    "url" : "/docs/tenma/tenma_about.html",
+	    "text" : "More about Tenma"
+	},
+	{
+	    "url" : "/docs/tenma/tenma_images.html",
+	    "text" : "Gallery"
+	},
+	{
+	    "url" : "/docs/tenma/bib/tenma_biblio.html",
+	    "text" : "Publications"
+	}
+    ],
+    "goffooter" : "/docs/tenma/tenma_footer.html"
+}

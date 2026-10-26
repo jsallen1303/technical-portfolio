@@ -1,0 +1,58 @@
+{
+  "title": "TARANIS",
+    "name": "TARANIS",
+    "decade" : 2020,
+  "alttext": "Artistic concept of TARANIS with sprites",
+  "imagesize": 244,
+  "imageurl": "/Images/misc_missions/taranis_sm.jpg",
+    "descript": "<p><b><font size=\"+2\">T</font>he Tool for the Analysis of RAdiation from lightNIng and Sprites (TARANIS)</b> was a small atmospheric physics mission to study transient luminous events (TLEs) and terrestrial gamma-ray flashes (TGFs). TLEs are various types of electrical-discharge phenomena in the upper atmosphere while TGFs are caused by intense electric fields produced above or inside thunderstorms. TARANIS would have been the first satellite designed to observe luminous, radiative and electromagnetic phenomena occurring at altitudes of 20 to 100 km over thunderstorms. It was to have been led by the National Centre for Space Studies (CNES; Centre National d&rsquo;&eacute;tudes spatiales) with several international partners with a two to four year mission. Its intended orbit would have been a polar sun-synchronous orbit at an altitude of roughly 700 km. To conserve power, the instruments would have cycled off at high latitudes; Thunderstorm activity that predicates TLEs is quite rare in the Arctic and Antarctic regions.</p>\n\n<p>TARANIS was launched from Kourou Space Center, French Guiana, on November 16, 2020 aboard a Vega rocket, but a malfunction in the upper stage resulted in the lost of both TARANIS and a co-launched satellite, SEOSat-Igneio.</p>",
+    "lifetime": "16 Nov 2020 (lost in launch failure)",
+    "features": [
+	"TARANIS was equipped with instruments for studying TLEs, TGFs, and associated emissions. While intended for terrestrial studies, these instruments would also have been able to detect gamma-ray burst sources and characterize terrestrial noise sources found in other gamma-ray celestial detectors"
+    ],
+    "instruments": [
+	{
+	    "name" : "X-ray, Gamma-ray, and Relativistic Electron (XGRE) experiment",
+	    "energy" : "20 keV &ndash; 10 MeV",
+	    "area" : "300 cm<sup>2</sup> each",
+	    "time_resolution" : "1 &micro;s",
+	    "energy_resolution" : "30% at 20 keV<br>9% at 511 keV",
+	    "descript" : "The instrument consisted of three X-ray and gamma-ray sensors. Each sensor contains four detector units made of &ldquo;sandwiches&rdquo; with a layer of lanthanum bromide scintillator (LaBr<sub>3</sub>) encased in two layers of plastic scintillator. The LaBr<sub>3</sub> layer functions as a rapid response energetic photon spectrometer, sensitive in the range 20 keV &ndash; 12 MeV (spanning hard x-ray to gamma-ray energies). The plastic scintillation layers are sensitive to relativistic electrons (1&ndash;10 MeV) and as an anti-coincidence detector for the LaBr<sub>3</sub> spectrometer. XGRE had a good time resolution (i &mciros;s accuracy with &lt;300 ns deadtime) and supported high count rates without saturation (&sim;10<sup>5</sup> cm<sup>-2</sup> s<sup>-1</sup>)"
+	},
+	{
+	    "name" : "Instrument for the Detection of high Energy Electrons (IDEE)",
+	    "energy" : "70 keV &ndash; 4 MeV",
+	    "descript" : "Two energetic electrons detectors for the measurement of high energy electrons."
+	},
+	{
+	    "name" : "Micro Cameras and Photometers (MPC)",
+	    "wavelength" : "600&ndash;800 nm (lightning)<br>762 nm (TLEs)<br>150&ndash;800 nm (photometers)",
+	    "descript" : "Two micro cameras one for lightning observation (600-800 nm), the second for TLEs observations (762 nm), and four photometers in different spectral bands (762 nm, 337 nm, 150&ndash;280 nm, and 600&ndash;800 nm) looking at the nadir."
+	},
+	{
+	    "name" : "Instrument for Electric Field and Magnetic Measurements (IME-BF/IME-HF and IMM)",
+	    "descript" : "Three electric antennas: 2 LF/MF (10 Hz &ndash; 20 kHz), and 1 HF (100 kHz &ndash; 30 MHz), and one magnetic antenna (few Hz &ndash; 20 kHz and 10 kHz &ndash; 1 MHz)"
+	}
+    ],
+    "goals": [
+	"Advance physical understanding of the links between TLEs and TGFs, in their source regions, and the environmental conditions (lightning activity, variations in the thermal plasma, occurrence of extensive atmospheric showers, etc)",
+	"Identify the generation mechanisms for TLEs and TGFs and, in particular, the particle and wave field events which are involved in the generation processes or which are produced by the generation processes",
+	"Evaluate the potential effects of TLEs, TGFs, and bursts of precipitated and accelerated electrons (in particular lightning induced electron precipitation and runaway electron beams) on the Earth atmosphere or on the radiation belts."
+    ],
+    "additional" : "The TGE high energy events were first discovered by the BATSE instrument on the Compton Gamma Ray Observatory in the early 1990s. BATSE showed a link between a TGF to an individual lightning strike occurring within a few milliseconds of the TGF demonstrating that TGFs have an atmospheric origin and located in the Earth&rsuo;s uppermost atmospheric layers, and associated to lightning.</p>\n\n<p>Similar events were detected by RHESSI, AGILE and Fermi missions. However looking at longer TGF events (&gt;1 ms), these data showed that TGF were not due to the detection of gamma-rays, but to secondary electrons and positrons produced by the TGF (known as Terrestrial Electron Beams (TEBs). These charged particles beamed by the Earth magnetic field travel thousands of km between one hemisphere to the other and may be detected in unusual locations for TGFs. These particle can be trapped by the geomagnetic field and they may provide a significant source of high-energy (&gt; 1 MeV) particles to the radiation belts. The impact of TEBs on radiation belts still needs to be quantified.",
+  "archive": "",
+  "navigation": [
+    {
+      "url": "https://taranis.cnes.fr/en/TARANIS/index.htm",
+      "text": "TARANIS (CNES; France (English language)"
+    },
+    {
+      "url": "taranis.html",
+      "text": "TARANIS"
+    },
+    {
+      "url": "images/taranis_images.html",
+      "text": "Gallery"
+    }
+  ]
+}

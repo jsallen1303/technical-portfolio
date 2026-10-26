@@ -1,0 +1,37 @@
+2021cosp...43E1642L|Liu, Y|Einstein Probe: a lobster-eye telescope for monitoring the X-ray sky|0
+2020SPIE11444E..57B|Bradshaw, M;Burwitz, V;Friedrich, P;Hartner, G;Langmeier, A;Valsecchi, G;Vernani, D;Chen, Y|X-ray testing of the Einstein Probe follow-up x-ray telescope STM at MPE's PANTER facility|0
+2020SPIE11444E..5BC|Chen, Y;Cui, W;Han, D;Wang, J;Yang, Y;Wang, Y;Li, W;Ma, J;Xu, Y;Lu, F;Chen, H;Tang, Q;Yuan, W;Friedrich, P;Meidinger, N;Keil, I;Burwitz, V;Eder, J;Hartmann, K;Nandra, K;Keereman, A;Santovincenzo, A;Vernani, D;Bianucci, G;Valsecchi, G;Wang, B;Wang, L;Wang, D;Li, D;Sheng, L;Qiang, P;Shi, R;Chao, X;Song, Z;Zhang, Z;Huo, J;Wang, H;Cong, M;Yang, X;Hou, D;Zhao, X;Zhao, Z;Chen, T;Li, M;Zhang, T;Luo, L;Xu, J;Li, G;Zhang, Q;Bi, X;Zhu, Y;Yu, N;Chen, C;Lv, Z;Lu, B;Zhang, J|Status of the follow-up x-ray telescope onboard the Einstein Probe satellite|2
+2020SPIE11444E..7RF|Feldman, C;O'Brien, P;Willingale, R;Zhang, C;Ling, Z;Yuan, W;Jia, Z;Jin, G;Li, L;Xu, Z;Zhang, Z;Lerman, H;Hutchinson, I;McHugh, M;Lodge, A|Testing of the WXT optics at the University of Leicester|0
+2020arXiv200511076T|Tong, H;Liu, M;Hu, Y;Chan, M;Hendry, M;Liu, Z;Sun, H|Following up the afterglow: strategy for X-ray observation triggered by gravitational wave events|1
+2019SPIE11119E..16B|Bradshaw, M;Burwitz, V;Hartner, G;Pelliciari, C;Langmeier, A;Liao, Y;Friedrich, P;Valsecchi, G;Barriere, N;Collon, M;Vacanti, G|Developments in testing x-ray optics at MPE's PANTER facility|2
+2018SPIE10699E..25Y|Yuan, W;Zhang, C;Ling, Z;Zhao, D;Wang, W;Chen, Y;Lu, F;Zhang, S;Cui, W|Einstein Probe: a lobster-eye telescope for monitoring the x-ray sky|15
+2018SPIE10699E..3ZY|Yang, X;Zhang, C;Ling, Z;Jin, G;Li, L;Yuan, W;Zhang, S|The finite element analysis modeling of micro pore optic plate|0
+2018SPIE10699E..5NZ|Zhao, D;Zhang, C;Ling, Z;Qiu, Y;Yuan, W;Zhang, S|Background simulations of WXT aboard the Einstein Probe Mission|0
+2018SPIE10699E..5OW|Wang, W;Ling, Z;Zhang, C;Wang, X;Wu, Q;Jia, Z;Yuan, W;Zhang, S|Developments of scientific CMOS as focal plane detector for Einstein Probe mission|1
+2018cosp...42E3784Y|Yuan, W;Jin, C;Zhang, C;Ling, Z;Chen, Y;Cui, W|The Einstein Probe mission: a lobster-eye X-ray monitor for exploring the transient X-ray sky|0
+2017SPIE10399E..0LL|Liao, Y;Shen, Z;Huang, Q;Wang, Z|Optical design and simulations of the soft x-ray telescope for Einstein Probe mission|0
+2017symm.conf..247Y|Yuan, W|Explore the Transient X-ray Sky with Einstein Probe|0
+2017xru..conf..216S|Sun, H;Zhang, B;Gao, H|X-ray counterpart of gravitational waves due to binary neutron star mergers: light curves and luminosity function|0
+2017xru..conf..240Y|Yuan, W;Zhang, C;Ling, Z;Zhao, D;Chen, Y;Lu, F;Zhang, S|Exploring transient X-ray sky with Einstein Probe|1
+2016IAUS..312...68Y|Yuan, W;Komossa, S;Zhang, C;Feng, H;Ling, Z;Zhao, D;Zhang, S;Osborne, J;O'Brien, P;Willingale, R;Lapington, J|Detecting tidal disruption events of massive black holes in normal galaxies with the Einstein Probe|4
+2016LPICo1962.4115Y|Yuan, W;Sun, J;Zhang, C;Zhang, S;Zhang, B|The Polar and the Einstein Probe Missions|0
+2015IAUGA..2256154Y|Yuan, W|Einstein Probe: a proposed small mission for exploring the transient X-ray universe in the multi-messenger era|0
+2015arXiv150607735Y|Yuan, W;Zhang, C;Feng, H;Zhang, S;Ling, Z;Zhao, D;Deng, J;Qiu, Y;Osborne, J;O'Brien, P;Willingale, R;Lapington, J;Fraser, G;the Einstein Probe team|Einstein Probe - a small mission to monitor and explore the dynamic X-ray Universe|44
+2015arXiv150607736Y|Yuan, W;Osborne, J|Exploring the Dynamic X-ray Universe (Summarising report of the ISSI-BJ Forum on monitoring the transient X-ray Universe in the multi-messenger era, Beijing, May 6-7, 2014)|1
+2014HEAD...1411610S|Su, M|Ongoing and Planned Space Missions for High Energy Astrophysics in China: How to Reduce the Cost?|0
+2014SPIE.9144E..4EZ|Zhao, D;Zhang, C;Yuan, W;Willingale, R;Ling, Z;Feng, H;Li, H;Ji, J;Wang, W;Zhang, S|Ray tracing simulations for the wide-field x-ray telescope of the Einstein Probe mission based on Geant4 and XRTG4|6
+2014styd.confE...6Y|Yuan, W;Zhang, C;Feng, H;Zhang, S;Ling, Z;Zhao, D;Deng, J;Qiu, Y;Osborne, J;O'Brien, P;Willingale, R;Lapington, J|Einstein Probe - a small mission to monitor and explore the dynamic X-ray Universe|0
+2014xru..confE.337Y|Yuan, W;Komossa, S;Zhang, C;Feng, H;Zhang, S;Osborne, J;O'Brien, P;Watson, M;Fraser, G|Detecting Tidal Disruption Events (TDEs) with the Einstein Probe|0
+2009AAS...21321703G|Grindlay, J|The Energetic X-ray Imaging Survey Telescope (EXIST)|3
+2009APS..MAR.L4001G|Gladney, L|Probing Beyond Einstein: The Joint Dark Energy Mission|0
+2006HEAD....9.1822C|Cherry, M;Bloser, P;Budden, B;Case, G;Cravens, J;Guzik, T;Hurley, K;Kippen, R;Macri, J;McConnell, M;Miller, R;Paciesas, W;Ryan, J;Schaefer, B;Stacy, J;Vestrand, W;Wefel, J|CASTER - A Scintillator-Based Black Hole Finder Probe Based on Lanthanum Halide Scintillator|0
+2005SPIE.5898...66N|Narita, T;Hong, J;Grindlay, J|Hard x-ray polarimetry with EXIST|0
+2005SPIE.5899...87W|White, N|NASA strategic roadmap: origin, evolution, structure, and density of the universe|0
+2005SPIE.5900..338V|Vadawale, S;Hong, J;Grindlay, J;Skinner, G|Monte-Carlo simulations of the expected imaging performance of EXIST high-energy telescope|1
+2004AIPC..714..413G|Grindlay, J|Hard X-ray Timing with EXIST|11
+2004HEAD....8.1620G|Garson, A;Krawczynski, H;Jung, I|A Gamma-Ray Spectrometer Shield for the Black Hole Finder Probe EXIST|0
+2004SPIE.5167...24S|Schwartz, P|NASA's Structure and Evolution of the Universe focal plane directions|0
+2003APS..APR.R4004G|Grindlay, J|EXIST: Deep Hard X-ray Imaging Survey for Black Holes|0
+2003HEAD....7.2701H|Hertz, P|Beyond Einstein|0
+2003HEAD....7.4001G|Grindlay, J;EXIST Science Working Group Team|EXIST: A Deep Hard X-ray Imaging Survey and Black Hole Finder Probe|1
+2002cosp...34E2938G|Grindlay, J;Craig, W;Gehrels, N;Harrison, F;Hong, J|A deep all-sky hard x-ray imaging and temporal survey mission: proposed to EXIST|0

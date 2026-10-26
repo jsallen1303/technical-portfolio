@@ -1,0 +1,63 @@
+1997afs..book.....D|Davies, J|Astronomy from space : the design and operation orbiting observatories|7
+1996SPIE.2805..244A|Avakyan, S|Radiometric measurements for the purposes of the permanent space patrol of the solar EUV and soft x-ray radiation|2
+1996psu..reptR....F|Feigelson, E|HRI Observations of Powerful Radio Galaxies Positional Confirmation of Optically Quiet Quasars|0
+1995hlps.rept.....P|Parnell, T;Watts, J;Akopova, A;Magradze, N;Dudkin, V;Kovalev, E;Potapov, Y;Benton, E;Frank, A;Benton, E|Linear Energy Transfer (LET) spectra of cosmic radiation in low Earth orbit|0
+1995hlps.reptV....B|Benton, E;Frank, A;Benton, E;Marenny, A;Nymmik, R;Suslov, A|Cosmic ray particles with different LET values under various thicknesses of shielding in low altitude orbits: Calculations and Cosmos-2044 measurements|0
+1991IzSSR..55.2010A|Afanas'ev, K;Gorchakov, E;Iozenas, V;Ternovskaia, M|North-south asymmetry of Galactic cosmic rays at an altitude of 500 KM|0
+1991IzSSR..55.2017G|Grigorov, N;Bobrovskaia, V;Kondrat'eva, M;Papina, L;Podgurskaia, A;Zhuravlev, D;Tret'iakova, C;Tatko, M;Tret'iakova, S|The charge state of anomalous oxygen|0
+1990AbaOB..68...69K|Kharadze, E;Kakhidze, G|Investigation of 20 - 600 keV Röntgen sources radiation by means of spectrometers installed on the satellite "Kosmos 1106".|0
+1990etpf.book.....S|Surkov, Y|Exploration of terrestrial planets from spacecraft: instrumentation, investigation, interpretation.|4
+1989RpScT...2....6G|Gorchakov, Y;Afanasyev, V;Afanasyev, K;Iozenas, V;Ignatev, P;Ternovskaya, M|Cosmic rays in near-earth space in 1977-1979 based on Cosmos-900 data|0
+1989nrl..reptQ....S|Share, G;Kurfess, J;Marlow, K;Eisele, J;Chupp, E;Strong, I|Detection of artificial sources of nuclear radiation in space, revision|0
+1988IzSSR..52.2374P|Pankov, V;Prokhin, V;Rutkovskii, A;Shkurkin, I;Shcheulov, V|Experiment on the measurement of fluxes of energetic neutrons and gamma rays on the Salyut-7/Cosmos-1686 orbital complex|0
+1988MVSFA..29...44G|Grigorov, N;Ivanenko, I;Rapoport, I;Shestoperov, V;Basina, I|Investigation of high-energy particles of primary cosmic rays with the SOKOL satellite-borne instrumentation|0
+1988PBeiO..11....5L|Li, J;Xiao, Z|Search for infrared sources in the Ara region.|0
+1987IzSSR..51.1781I|Ivanenko, I;Grigorov, N;Basina, Y;Vakulov, P;Vasil'Ev, Y;Golynskaya, R;Grigor'eva, L;Zhuravlev, D;Zatsepin, V;Kazakova, A;Kozlov, V;Kumpan, I;Laputin, Y;Mishchenko, L;Nikonorov, V;Panina, L;Platonov, V;Podorozhnyj, D;Rapoport, I;Samsonov, G;Smolenskij, L;Sobinyakov, V;Sokolov, V;Tambovtsev, G;Chikova, L;Shestoperov, V;Shiryaeva, V;Yakovlev, B;Yashin, I|Investigation of primary particles of high-energy cosmic radiation aboard the Kosmos 1543 satellite.|0
+1987IzSSR..51.1833G|Gorchakov, E;Afanas'ev, V;Afanas'ev, K;Ignat'ev, P;Iozenas, V|Peculiarities in the propagation of solar cosmic ray protons during the flares of September 19 and November 22, 1977 according to Čerenkov counter data of Kosmos 900.|0
+1987RpPhM...4...66I|Ivanenko, I;Grigorov, N;Shestoperov, V;Basina, Y;Vakulov, P;Vasilyev, Y;Golynskaya, R;Grigoryeva, L;Zhuravlev, D;Zatsepin, V|Multiply charged particles in primary cosmic rays with energy less than or equal to 2 TeV|0
+1986MVSFA..27....8G|Grigorov, N;Rapoport, I;Shestoperov, V|Problems and methods in the extraatmospheric study of high-energy particles|0
+1986MVSFA..27...13G|Gorchakov, E;Afanasev, V;Afanasev, K;Ignatev, P;Iozenas, V|Planetary distribution of secondary charged particles beyond the earth's radiation belts|0
+1985RpSpR...5...23B|Bratolyubova-Tsulukidze, L;Volodichev, N;Nechayev, O;Savenko, I;Suslov, A;Shavrin, P|Measurements of fluxes of high-energy protons and electrons by 2 oppositely oriented spectrometers aboard Cosmos-368 artificial Earth satellite|0
+1985RpSpR...6...32K|Kurnosova, L;Razorenov, L;Fradkin, M|Formation of high-energy secondary electrons in low-density medium at great altitudes|0
+1985mswr.symp..175S|Salomonovich, A|Development of MM/SMM technology for radio astronomy in P.N. Lebedev Physical Institute Academy of Sciences USSR|0
+1984RpSpR...2...67G|Gorchakov, Y;Iozenas, V;Ternovskaya, M;Afanasyev, V;Ignatyev, P|Variation of fast charged particles in event of 22 November 1977 based on Cosmos-900 satellite data|0
+1984RpSpR...6...70B|Biryukov, A;Ivanova, T;Kovrygina, L;Kuznetsov, S;Sosovets, E;Tverskaya, L;Kudela, K|Cutoff for solar cosmic rays in Earth's magnetosphere in magnetically quiet periods|0
+1983AbaOB..57....9K|Kakhidze, G;Kuleshova, L;Iakovlev, B;Medvedev, A;Karpova, G|Search for galactic sources and bursts of X-rays in the 40-290 keV energy range with the Cosmos-428 spectrometer|0
+1983AbaOB..57...17K|Kakhidze, G;Kuleshova, L;Iakovlev, B;Karpova, G|Processing of scientific telemetry data of satellite-borne X-ray spectrometers, recorded in an analog form on paper tape|0
+1983AbaOB..57...21K|Kakhidze, G;Iakovlev, B;Kuleshova, L|Scintillation spectrometers of the Cosmos 856 and 914 satellites for the study of galactic X-rays in the 20-320 keV range|0
+1983AbaOB..57...29K|Kakhidze, G;Kuleshova, L;Iakovlev, B;Medvedev, A|Observation of the CYG X-1 and CYG X-2 sources by the Cosmos-856 X-ray spectrometers in the 20-320 keV energy range|0
+1983AbaOB..57...33K|Kakhidze, G;Iakovlev, B;Kuleshova, L|Search for X-ray burst sources by the Cosmos-856 scintillation spectrometers in the 20-320 keV energy range|0
+1983AbaOB..57...37K|Kakhidze, G;Kuleshova, L;Iakovlev, B;Medvedev, A|Search for galactic X-ray sources and bursts by the Cosmos-914 spectrometers in the 20-320 keV energy range|0
+1983AbaOB..57...41K|Kakhidze, G;Kuleshova, L;Medvedev, A;Iakovlev, B|Complex of programs for processing scientific data from the X-ray spectrometers of the Cosmos 856 and 914 X-ray spectrometers on an ES computer|0
+1983AbaOB..57...49K|Kakhidze, G;Iakovlev, B;Kudrevatykh, E|The Cosmos-1106 scintillation spectrometers for the detection of hard X-rays and gamma rays|0
+1983MoIKI.........K|Kalinkin, L;Nagornykh, I|Observation of high-energy diffuse gamma-radiation by the Cosmos-856 and Cosmos-914 satellites|0
+1983asmm.work..233P|Parker, Q;MacGillivray, H;Kelly, B;Dodd, R;Cooke, J;Beard, S;Emerson, D|Objective prism radial velocities for clusters of galaxies near the South Galactic Pole|0
+1982RpBAM...3..107D|Dashin, S;Marennyy, A;Gertsen, G|Measurement of charge and energy spectra of heavy nuclei aboard Cosmos-936 artificial Earth satellite|0
+1982acp..book..216M|Mazets, E;Golenetskii, S|Investigation of cosmic gamma-bursts.|1
+1982smfe.cong..263A|Avdiushin, S;Pereiaslova, N;Svidskii, P|Investigation, evaluation and forecast of near-earth space radiation situation|0
+1981IzSSR..45..633B|Bokov, V;Bocharkin, V;Bugakov, I;Gorodinskii, G;Kruglov, E;Piatigorskii, G;Chuikin, E|Observation of diffuse cosmic gamma -radiation in the 100 - 700 MeV energy range aboard Cosmos 731.|0
+1981IzSSR..45..653B|Bokov, V;Kruglov, E|Gamma-telescope characteristics on the AES Cosmos 561 and Cosmos 731.|0
+1981heps.book.....S|Shafer, I|High-energy particles in space - Experimental methods and techniques|2
+1981heps.book...27K|Klimenko, V;Kurnosova, L;Prokopev, S;Razorenov, L;Fradkin, M;Shafer, I|Excess radiation at high altitudes /200-500 km/ above the earth|0
+1981heps.book...40K|Kurnosova, L;Matachun, A;Razorenov, L;Fradkin, M|Electron fluxes with energies greater than 150 MeV, based on Cosmos-555 satellite data|0
+1979aans.meetQ....K|Kniffen, D|A look at the universe in gamma rays|0
+1979lssr.proc..119K|Kovalev, E;Markelov, V|The Cosmos-782 and Prognoz-4 studies of cosmic radiation LET spectra|5
+1978cosp.meetQ....T|Tverskoi, B;Sosnovets, E;Dronov, A;Ivanova, T;Kovtiukh, A;Kutuzov, I;Rubinshtein, I;Reizman, S;Tverskaia, L;Khorosheva, O|Observations of the magnetospheric fluxes of protons and electrons from Cosmos-900 satellite on December 1-15, 1977|0
+1977S&T....53...92O|Oberg, J|Notes on Soviet Space Astronomy|0
+1976IzKry..55..196D|Dimov, N;Terez, E|Stellar UV-photometric equipment installed on the Cosmos 215 satellite.|0
+1976IzKry..55..200Z|Zvereva, A;Eerme, K|Results of ultraviolet photometry of stars on board the satellite Cosmos 215.|0
+1976IzSSR..40..457B|Bazilevskaia, G;Kurnosova, L;Logachev, V;Razorenov, L;Stozhkov, I;Fradkin, M|Observation of solar cosmic rays during the flare of April 29, 1973.|0
+1976IzSSR..40..546K|Kurnosova, L;Logachev, V;Razorenov, L;Fradkin, M|Some characteristics of reentrant albedo fluxes at heights between 200 and 300 KM|0
+1976IzSSR..40..549V|Vernov, S;Kuznetsov, S;Logachev, I;Riumin, S;Savenko, I;Stolpovskii, V|Composition of the penetrating radiation above the earth's atmosphere from data of Cosmos 721.|0
+1976IzSSR..40..556B|Belyaevskij, A;Bokov, V;Bocharkin, V;Bugakov, I;Gorodinskij, G;Derevitskij, Y;Kruglov, E;Myakinin, E;Pyatigorskij, G;Chujkin, E;Shibanov, Y;Yuferov, V|Continuation of the experiment "Gamma-telescope" aboard Cosmos 731.|0
+1976crsn.book..143K|Kurnosova, L|Charged-particle flux at heights of 200-300 KM above earth|0
+1976gran.book.....C|Chupp, E|Gamma-ray astronomy : nuclear transition region|20
+1975cora.nasa..247K|Kovalev, Y;Ostroumov, V;Skvortsov, S;Smirennyy, L|Measurement of proton spectra on satellites from the Cosmos series of artificial satellites|0
+1975cora.nasa..252D|Dudkin, V;Kovalev, Y;Novikova, M;Potapov, Y;Skvortsov, S;Smirennyy, L|Measurement of spectra and neutron fluxes on artificial earth satellites from the Cosmos series|0
+1975crs..book...52B|Bratoliubova-Tsulukidze, L;Grigorov, N;Kalinkin, L;Melioranskii, A;Priakhin, E;Savenko, I;Iufarkin, V|High-energy gamma quanta in primary cosmic rays|0
+1974IzSSR..38.1838B|Belyaevskij, A;Bokov, V;Bocharkin, V;Bugakov, I;Derevitskij, Y;Dmitriev, B;Gorodinskij, G;Kruglov, E;Pyatigorskij, G;Romanov, A;Chujkin, E|"Gamma-telescope" experiment. (Preliminary results).|0
+1974pmp..book..183M|Mazets, E|Investigations of cosmic dust|0
+1974pmp..book..231K|Kolchin, A;Lebedev, V;Skrebtsov, G|Investigation of corpuscular radiation on satellites and space vehicles|0
+1974pmp..book..245I|Ivanova, N|Some studies of the multiply charged component of cosmic rays carried out in satellites and automatic space probes|0
+1974stp.....2....1V|Vernov, S;Vorobev, V;Zakharov, A;Kuznetsov, S;Logachev, I;Savenko, I;Stolpovskii, V|Dynamics of the outer radiation belt during magnetic storm of December 17, 1971|0
+1974stp.....2..116I|Ivanova, T;Sosnovets, E;Tverskaia, L|Dynamics of plasma sheet and dayside polar cusp according to solar proton measurements in polar regions|0

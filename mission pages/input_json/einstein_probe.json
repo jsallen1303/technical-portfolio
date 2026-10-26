@@ -1,0 +1,56 @@
+{
+  "title": "Einstein Probe",
+    "name": "Einstein Probe",
+    "decade" : 2020,
+    "alttext": "Artistic impression of Einstein Probe",
+    "imagesize": 237,
+    "imageurl": "/Images/misc_missions/ep_cropped_sm.png",
+    "descript": "<p><b><font size=\"+2\">T</font>he Einstein Probe</b> (EP) mission is a satellite from the Chinese Academy of Sciences in collaboration with the European Space Agency and Max Planck Institute for Extraterrestrial Physics. Its primary goals are to discover transient sources and to monitor known and new variable sources. It has a very wide field of view (3600 square degrees; &sim;1.1 steridian) with modest spectral and spatial resolution. It was launched from China&rsquo;s Xichang Satellite Launch Centre on January 9, 2024, with a planned three year nominal mission and extended mission goal of five years. It operates in a low-inclination (&lt; 29&deg;) low-earth circular orbit with an altitude of 600 km which reduces radiation interference from the South Atlantic Anomaly.</p>\n<p>EP uses lobster-eye Micro-Pore Optics (MPO), a technique for focusing X-rays which gives significant improvements on signal to noise compared to traditional grazing incidence optics and a point spread function which varies only very slightly over the entire field of view. EP has twelve Wide-field X-ray Telescope (WXT) modules, each imaging different sections of the sky. WXT is complemented by two Follow-up X-ray Telescopes (FXT) which provide a much larger effective area and narrower field-of-view. FXT is used for targets of opportunity and burst observation modes for more sensitive study of desired sources.</p>\n<p>The satellite performs observations on the night side of its orbit, mapping out half the sky every three orbits (∼97 min per orbit) using a step-and-stare strategy with 20 min exposures for each of three pointings, offset by 60 degrees from each other. The three orbit cycle steps through orientations 60 deg below, above, and along the Earth&rsquo;s equator to cycle through half-sky coverage. The daylit half of each orbit is dedicated to recharging the batteries using the solar panels; no observations are taken. This operation pattern means a full sky survey is completed after six months. Operations allow for both burst observation and targets of opportunity modes (as well as calibration, energy acquisition, and &ldquo;secure&rdquo; modes as needed).</p>",
+    "lifetime": "9 Jan 2024&ndash; (Three year planned mission; five year extended mission)",
+    "features": [
+	"Lobster-eye optics for imaging.",
+	"Extremely large field of view.",
+        "Complete all-sky every six months: instantaneous half-sky every three orbits (&sim;5 hours)."
+    ],
+  "instruments": [
+      {
+	  "name": "Wide-field X-ray Telescope",
+	  "energy": "0.5&ndash;4 keV",
+	  "area": "3 cm<sup>2</sup> at 1 keV",
+	  "length": "375 mm (spherical lobster-eye micropore optics)",
+	  "fov": "300 sq. deg. per module<br>3600 sq. deg. total<br>",
+	  "resolution": "5&prime; FWHM",
+	  "sensitivity": "&sim;2.58&times;10<sup>-11</sup> erg s<sup>-1</sup> cm<sup>-2</sup> (&sim;0.8 mCrab) with 1 ks exposure at 5&sigma; confidence<br>",
+	  "energy_resolution": "170 eV at 1 keV",
+	  "descript": "The telescope consists of twelve modules, each with a 300 square degree field of view, and offset from each other. An optical baffle at the front of each MPO keeps out stray light. There also two layers for optical blocking: 150 nm Al and 100 nm Polyimide coated on the MPO elements, and an additional 50 nm Al coating on the CMOS sensors. The lobster-eye optics assembly focuses X-rays onto the detector plane, which is cooled to -30&deg; C. The detector array consists of a 2&times;2 array of back-illuminated CMOS detectors, each with 4000&times;4000 15 &micro;m pixels and a total 6&times;6 cm area. The optics focus to a spherical plane, so the CMOS detectors are each tilted with respect to each other to reduce image degradation."
+	  
+      },
+      {
+	  "name": "Follow-up X-ray Telescope",
+	  "energy": "0.3&ndash;10 keV<br>",
+	  "area": "415 cm<sup>2</sup> at 1.25 keV",
+	  "length": "1.6 m (Wolter Type-I nested shell mirrors)",
+	  "fov": "60&prime;",
+	  "resolution": "30&Prime; at 1 keV (on-axis)",
+	  "energy_resolution": "120 eV at 1.25 keV",
+	  "temporal_resolution" : "&sim;50 &micro;s",
+	  "descript": "Two modules will be dedicated to much smaller field of view with larger effective areas for burst follow-ups and targets of opportunity, with response time to follow-up observations of under 5 minutes. FXTuse Wolter-I type grazing incidence mirrors illuminating the focal plane equipped with pn-CCD detectors, based closely on the flight-proven eROSITA telescopes. The optics contains 54 nested mirror shells with an top diameter of 36 cm and bottom diameter of 7.6 cm. Each shell is coated with 100 nm of gold on a nickel substrate to focus X-rays in the 0.3&ndash;10 keV range onto the focal plane. The pn-CCD has a 450 &micro;m silicon layer for imaging, with 20 nm SiO<sub>2</sub>, 30 nm Si<sub>3</sub>N<sub>4</sub> and on-chip filter of 90 nm aluminum. The imaging array is 384 x 384 pixels, each 75 &micro;m square. There is also a filter wheel between the mirror assembly and detector with various filters for instrument background and source attenuation for brighter targets to prevent pile-up effects, plus in-orbit calibration."
+      }
+  ],
+  "goals": [
+    "Discover and characterize X-ray transients",
+    "Observe X-ray outbursts from black holes for insights into origins, evolution, and accretion physics",
+    "Search for X-ray sources associated with gravitational wave events and obtain more precise locations"
+  ],
+  "archive": "",
+  "navigation": [
+    {
+      "url": "https://ep.bao.ac.cn/",
+      "text": "EP at CAS"
+    },
+    {
+      "url": "biblio/einstein_probe_biblio.html",
+      "text": "Bibliography"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+    "title": "XPNAV-1",
+    "name": "XPNAV-1",
+    "decade" : 2010,
+    "alttext": "Diagram of the XPNAV-1 satellite X-ray instruments",
+  "imagesize": 300,
+  "imageurl": "/Images/misc_missions/xpnav1.fig.002.png",
+    "descript": "<p><b><font size=\"+2\">T</font>he X-ray Pulsar Navigation (XPNAV-1)</b> satellite is small satellite designed and developed by the China Academy of Space Technology (CAST). It aims to observe a number of X-ray pulsar sources and develop a database of timing profiles in order to use them for navigation throughout the solar system. It is a demonstration to be followed up with larger and more capable missions once the core concept has been demonstrated, and to accumulate long term X-ray pulsar measures</p>\n\n<p>XPNAV-1 was launched on November 10, 2016 from the Linquan satellite launch centre aboard a Long March 11 rocket. It was placed in a 500 km altitude low earth polar orbit (with an inclination of 97.4° and a descending node equator transit at 6 am local time). The satellite, which weighs 270 kg, is three-axis stabilized, can perform up to 90 minutes of observation on a source with one or the other of the two X-ray instruments. The mission goal is to observe as many as 26 different sources, including both isolated and binary system pulsar targets, over a five to ten year span. XPNAV-1 will demonstrate concepts, a follow-up medium sized mission will time 3&ndash;5 pulsars to develop a navigational database, with a constellation of satellites to follow thereafter.</p>\n\n<p>Operations occur in one of four modes: self-test, scanning, default target, and arbitrary target operations. In the self-test mode, a hood covers the instrument to allow measurement of instrument noise. The scanning mode views a swath of sky to assess background contributions from the sky. The two operations modes consist of up to 90 minutes of observation by one or the other of the two instruments. The arbitrary mode uses targets uploaded from ground systems.</p>\n\n<p>The satellite orbit decayed over time and the satellite has re-entered the Earth&rsquo;s atmosphere in June 2025.</p>",
+    "lifetime": "Nov 2016&ndash;Jun 2025",
+    "features": [
+	"Proof of concept to use X-ray pulsar timing for autonomous spacecraft navigation"
+    ],
+    "instruments": [
+	{
+	    "name" : "Time-resolved Soft X-ray Spectrometer (TSXS)",
+	    "area" : "2.4 cm<sup>2</sup> at 1.5 keV",
+	    "fov" : "15&prime;",
+	    "energy" : "0.5&ndash;10 keV",
+	    "energy_resolution" : "180 eV at 5.9 keV",
+	    "temporal_resolution" : "1.5 &micro;s",
+	    "descript" : "Grazing incidence Wolter-I type lens of four nested mirror shells with a collection area of 30 cm<sup>2</sup> that focus X-rays onto the silicon drift detector (SDD)"
+	},
+	{
+	    "name" : "High Time-resolution Proportional Counter (HTPC)",
+	    "fov": "2&deg;",
+	    "energy" : "1&ndash;10 keV",
+	    "area" : "1200 cm<sup>2</sup>",
+	    "time_resolution" : "100 ns",
+	    "descript" : "A collimator narrows the field of view to direct photons onto a microchannel plate (MCP) X-ray detector"
+	}
+    ],
+    
+    "goals" :
+    [
+	"Test the functionality of the instruments in space.",
+	"Detect photons from X-ray pulsars and acquire pulsar profiles.",
+	"Perform observations of an extended period of time to measure pulsar parameters via X-ray instruments."
+    ],
+  "archive": "",
+  "navigation": [
+    {
+      "url": "images/xpnav1_images.html",
+      "text": "Gallery"
+    },
+    {
+      "url": "biblio/xpnav1_biblio.html",
+      "text": "Bibliography"
+    }
+  ]
+}

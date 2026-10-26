@@ -1,0 +1,54 @@
+{
+    "title": "ASCA",
+    "name": "The Advanced Satellite for Cosmology and Astrophysics (ASCA)",
+    "alttext": "ASCA satellite on galaxy image",
+    "imagesize": 115,
+    "imageurl": "/Images/asca/asca_small.gif",
+    "descript": "<p><b><font size=\"+2\">T</font>he Advanced Satellite for Cosmology and Astrophysics (ASCA)</b>, formerly Astro-D, was Japan&rsquo;s fourth cosmic X-ray astronomy mission, and the second for which the United States is providing part of the scientific payload. The satellite was successfully launched on February 20, 1993. ASCA operated successfully till July 15 2000 when it was transferred into a safehold mode. The satellite re-entered on March 2 2001 after 7 and half years of scientific observations. ASCA was the first satellite to use CCD detectors for X-ray astronomy.",
+    "decade" : 1990,
+    "gofsidebar" : "Past",
+    "lifetime": "20 Feb 1993&ndash;2 Mar 2001",
+    "features": [
+	"First X-ray mission to combine imaging capability with broad pass band, good spectral resolution, and a large effective area",
+	"First use of CCDs for X-ray astronomy",
+	"Four X-ray telescopes each made of 120 nested gold-coasted aluminum foil surfaces working in conjunction with the detectors. Each of the four telescopes had a 1.2 m diameter with 3.5 m focal length Wolter Type 1 mirror system"
+    ],
+    "instruments": [
+	{
+	    "name" : "Gas Imaging Spectrometer (GIS)",
+	    "energy" : "0.8&ndash;12 keV",
+	    "energy_resolution" : "8% at 5.9 keV",
+	    "area" : "50 cm<sup>2</sup> at 1 keV",
+	    "resolution" : "&sim;0.5&prime; at 5.9 keV",
+	    "fov" : "50&prime;",
+	    "descript" : "The two GIS instruments were scintillation gas proportional counters based on the GPSC instrument flown on the earlier Japanese mission Tenma."
+	},
+	{
+	    "name" : "Solid-state Imaging Spectrometer (SIS)",
+	    "energy" : "0.4&ndash;10 keV",
+	    "resolution" : "30&Prime;",
+	    "energy_resolution" : "2% at 5.9 keV",
+	    "fov" : "22&prime; &times; 22&prime;",
+	    "area" : "105 cm<sup>2</sup>",
+	    "descript" : "The two identical CCD cameras were provided by a hardware team at MIT, Osaka University, and the Institute for Space and Astronomical Studies (ISAS)"
+	}
+    ],
+    "highlights": [
+	"Broad Fe lines from AGN, probing the strong gravity near the central engine",
+	"Lower than solar Fe abundance in the coronae of active stars",
+	"Spectroscopy of interacting binaries",
+	"Non-thermal X-rays from SN 1006, a site of cosmic ray acceleration",
+	"Abundances of heavy elements in clusters of galaxies, consistent with type II supernova origin"
+    ],
+  "archive": "The HEASARC hosts catalogs, spectra, lightcurves, images and raw data",
+    "navigation": [
+	{
+	    "url" : "https://heasarc.gsfc.nasa.gov/docs/asca/ascagof.html",
+	    "text" : "Guest Observer Facility for ASCA"
+	},
+	{
+	    "url" : "https://heasarc.gsfc.nasa.gov/docs/asca/asca_images.html",
+	    "text" : "Gallery"
+	}
+    ]
+}

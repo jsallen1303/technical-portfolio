@@ -1,0 +1,60 @@
+{
+  "title": "Astro-E2",
+    "name": "Suzaku (aka Astro-E2)",
+    "gofheader" : "/docs/obsheader.html",
+    "gofsidebar" : "Past",
+    "decade" : 2000,
+  "alttext": "Astro-E",
+  "imagesize": 300,
+  "imageurl": "/Images/astroe/astroe.jpg",
+    "descript": "<p><b><font size=\"+2\">A</font>stro-E2</b> was successfully launched on 12:30 pm JST on July 10, 2005 from the Uchinoura Space Center (USC) in Japan. Soon after launch, the mission was renamed <b>Suzaku</b>.<br>  Suzaku is the re-build of Astro-E, which was lost during launch (10 Feb 2000). Suzaku (as Astro-E) has been developed at the Japanese Institute of Space and Astronautical Science (ISAS) in collaboration with the US. This is Japan&rsquo;s fifth X-ray astronomy mission. Suzaku is the first satellite that carries a new type of X-ray spectrometer, the X-ray microcalorimeter, which provides unprecedented energy resolution compared to non-dispersive instruments.",
+    "lifetime": "10 Jul 2005&ndash;2 Sep 2015",
+    "features": [
+	"First X-ray microcalorimeter in space"
+    ],
+    "instruments": [
+	{
+	    "name" : "X-ray Telescope (XRT)",
+	    "energy" : "0.2&ndash;12 keV",
+	    "length" : "4.75 m (XRT-S)<br>4.5 m (XRT-I)",
+	    "resolution" : "&sim;2&prime;",
+	    "descript" : "Five nested conical thin-foil grazing incidence telescopes, all gold-coated. Four were XRT-I used for the XIS instrument, the fifth XRT-S served the XRS instrument."
+	},
+	{
+	    "name" : "X-ray Spectrometer (XRS)",
+	    "energy" : "0.3&ndash;12 keV",
+	    "fov" : "2.9&prime; &times; 2.9&prime;",
+	    "area" : "190 cm<sup>2</sup> at 1.5 kev",
+	    "energy_resolution" : "&sim;6.5 eV at 6 keV (FWHM)",
+	    "descript" : "An X-ray microcalorimeter composite of 32 pixels at the foci of the XRT-S"
+	},
+	{
+	    "name" : "X-ray Imaging Spectrometer (XIS)",
+	    "energy" : "0.2&ndash;12 keV",
+	    "fov" : "18&prime; &times; 18&prime;",
+	    "area" : "340 cm<sup>2</sup> (FI)<br>390 cm<sup>2</sup> (BI)",
+	    "energy_resolution" : "130 eV at 6 keV",
+	    "descript" : "Four 1024&times;1024 pixel CCD detectors at the foci of one of the XRT-I. Three are front illuminated (FI), one is back illuminated (BI)."
+	},
+	{
+	    "name" : "Hard X-ray Detector (HXD)",
+	    "energy" : "10&ndash;600 keV",
+	    "fov" : "34&prime; &times; 34&prime; (&lt; 100 keV)<br>4.5&deg; &times; 4.5&deg; (&gt; 100 keV)",
+	    "area" : "&sim;145 cm<sup>2</sup> at 15 keV (PIN)<br>315 cm<sup>2</sup> at 100 keV (GSO)",
+	    "energy_resolution" : "3 keV (FWHM) 7.6/(E<sub>MeV</sub>)<sup>0.5</sup> % FWHM",
+	    "descript" : "GSO crystal scintillator (&gt;30 keV) &amp; silicon PIN diodes (&lt;60 keV)"
+	}
+    ],
+    "highlights": [
+	"A comprehensive analysis of all supernova remnants (SNRs) observed by Suzaku shows the ionization state of iron in SNRs arising from thermonuclear (Type Ia) supernovae are systematically lower than that in SNRs from core-collapse explosions. This difference arises from the fact that core-collapse remnants expand into a denser local medium, significantly altered by pre-supernova mass loss, and provides the cleanest way of distinguishing the two types of remnant.",
+	"Suzaku observations show that gas flowing out at a quarter the speed of light from the central supermassive back hole in the Ultraluminous Infared Galaxy IRAS F11119+3257 is physically connected to a molecular outflow at a large distance from the nucleus. The total mass removal rate of &sim;800 solar masses is sufficient to stifle star formation near the center of the galaxy.",
+	"Suzaku detected a substantial abundance of the rare metals Mn and Ni in the spectrum of the thermonuclear (Type Ia) supernova remnant 3C 397. Only so-called &ldquo;single degenerate&rdquo; explosion scenarios can produce the high density needed in the progenitor core to synthesize these metals. As the &ldquo;double-degenerate&rdquo; scenario accounts for much of the phenomenology in other Type Ia supernovae and their remnants, this result suggests the existence of multiple Type Ia progenitor channels."
+    ],
+    "archive": "The HEASARC hosts the catalogs, lightcurves, spectra, and raw data",
+    "navigation": [
+	{
+	    "url" : "/docs/suzaku/astroegof.html",
+	    "text" : "Suzaku/Astro-E2 Guest Observer Facility"
+	}
+    ]
+}

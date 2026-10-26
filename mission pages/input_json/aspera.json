@@ -1,0 +1,40 @@
+{
+  "title": "Aspera",
+    "name": "Aspera",
+    "decade" : 2020,
+  "alttext": "Aspera satellite studying EUV halo of a galaxy for diffuse hot coronal gas",
+  "imagesize": 300,
+  "imageurl": "/Images/misc_missions/aspera_cleaned_sm.jpg",
+    "descript": "<p><b><font size=\"+2\">T</font>he Aspera</b> mission is an extreme UV (EUV) astrophysics small satellite telescope designed to map the warm-hot phase coronal gas around nearby galaxy halos. Aspera will search for faint and diffuse O<sub>VI</sub> line emission using a suite of four spectrographs based on a similar in design to the successful FUSE mission.</p><p>Aspera is funded through the inaugural 2020 NASA Astrophysics Pioneers program for small missions and has an anticipated launch date in early 2026. The SmallSat configuration will rideshare to a low Earth Sun-synchronous orbit. The satellite is 335.6 &times; 254.0 &times; 395.29 mm in size and has a &sim;24 kg mass. The optical coatings will degrade in the space environment and thus set a limit on mission operations: performance would be degraded by about 7% after nine months of operation.</p>\n<p>The 103.2,103.6 nm O<sub>VI</sub> doublet line emission is extremely faint and distributed over very wide angular areas and thus very challenging to observe with current and recent past space-based UV instruments. Aspera is fine-tuned to observe this diffuse faint spectra.</p>",
+  "lifetime": "Nine months from launch (projected early 2026)",
+    "features": [
+	"Spectrographs with coated optics to reflect EUV light and gratings to study a very narrow spectral band around the 103.2,103.6 nm O<sub>VI</sub> line."
+    ],
+  "instruments": [
+      {
+	  "name": "Spectrograph",
+	  "wavelength": "103.2 and 103.6 nm",
+	  "energy" : "12.03 and 11.99 eV",
+	  "area": "1.85 cm<sup>2</sup> at 103.5 nm (11.98 eV)<br>",
+	  "length": "171.2 mm",
+	  "fov": "60&prime; &times; 30&Prime;",
+	  "resolution": "&lt;60&Prime;",
+	  "energy_resolution": "&lt;0.07 nm at 103.5 nm (&lambda;/&Delta;&lambda; &gt;1500)",
+	  "descript" : "The sole observational instrument is a suite of four modified Rowland-Circle spectrographs with parallel channels. Each is equipped with a 6.2 cm &times; 3.7 cm off-axis parabolic mirror and a toroidal diffraction grating, a flight-proven variant similar to that used in FUSE, but with a lower spectral resolution in order to make it more sensitive to diffuse sources. The optical surfaces uses Al+LiF coatings. The detectors are micro-channel plates. Each of the four spectrographs are offset from each other by 60&prime; along the slit width direction."
+	
+    }
+  ],
+  "highlights": [
+    "Map and characterize circumgalactic medium"
+  ],
+  "navigation": [
+    {
+      "url": "https://aspera.arizona.edu/",
+      "text": "Aspera at University of Arizona"
+    },
+    {
+      "url": "biblio/aspera_biblio.html",
+      "text": "Bibliography"
+    }
+  ]
+}

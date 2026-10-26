@@ -1,0 +1,37 @@
+{
+    "title": "The Explorer-11 Satellite",
+    "name": "Explorer-11",
+    "alttext": "image of Explorer 11",
+    "imagesize": 100,
+    "imageurl": "/Images/explorer/explorer-11_small.gif",
+    "descript": "<p><b><font size\"+2\">E</font>xplorer 11</b> was the first gamma-ray detection satellite flown, weighing in at 82 pounds. It was launched on 27 April 1961 and the instrument aboard was designed to detect gamma rays above 50 MeV. The satellite operated well until early September, when power supply problems became noticeable. Useful data ceased soon thereafter. However, it made history viewing the shortest wavelengths of the electromagnetic spectrum for the first time.</p>",
+    "decade": 1960,
+    "lifetime": "May&ndash;Sep 1961",
+    "features" : [
+	"First Earth-orbiting gamma-ray telescope"
+    ],
+    "instruments" : [
+	{
+	    "name" : "Gamma Ray Detector",
+	    "energy" : "&gt; 50 MeV",
+	    "resolution" : "5&deg;",
+	    "fov" : "17&deg; half angle",
+	    "temporal_resolution" : "0.1 s", 
+	    "descript" : "The gamma-ray detector was 20 inches high, 10 inches in diameter, and weighed about 30 pounds. It consisted of a sandwich crystal scintillator (CsI and NaI) and a Lucite Cerenkov counter, surrounded by a plastic anticoincidence scintillator. The 2 detectors in coincidence served to define the solid angle of the instrument to about 17 degrees half-angle.</p>\n\n<p>The satellite could not be actively pointed, and so, was put into a tumble in order to get a &ldquo;rough&rdquo; scan of the entire celestial sphere. By 19 May 1961, the satellite, located between 300 and 1100 miles above the Earth, began to send sky survey data to the ground. Over the next 4 months, it provided &ldquo;nearly 20 miles of data on microfilm&rdquo;. Reconstruction of the data allowed gamma-ray times of arrival to be determined to 0.1 second, and where the detector was pointed to about 5 degrees."
+	}
+    ],
+    "highlights": [
+	"First glimpse of the gamma-ray universe",
+	"Over a period of 23 days, 9 hours of data from &ldquo;pointing into space&rdquo; was obtained. 22 events from gamma rays were found and 22,000 events due to charged cosmic rays. The 22 events tended to have an asymmetrical distribution in the sky, with no significant clustering near the galactic plane. The average directional intensity of the events was J = 5.5 &times; 10<sup>-4</sup>/cm<sup>2</sup>/sr/s"
+    ],
+    "publications" : [
+	"<a class=\"usa-link\" href=\"https://ui.adsabs.harvard.edu/abs/1962SciAm.206e..52K/abstract\">Kraushaar and Clark, 1962, May, <i>Scientific American</i>, p.52</a>",
+	"<a class=\"usa-link\" href=\"https://ui.adsabs.harvard.edu/abs/1962PhRvL...8..106K/abstract\">Kraushaar and Clark, 1962, <i>Phys Rev Lett</i>, Vol. 8, No. 3, p.106</a>"
+    ],
+  "navigation": [
+    {
+      "url": "images/explorer11_images.html",
+      "text": "Gallery"
+    }
+  ]
+}

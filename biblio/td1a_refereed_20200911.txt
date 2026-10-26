@@ -1,0 +1,19 @@
+1988AN....309...97H|Hempelmann, A;Schoeneich, W|Analysis of the light curve of the magnetic CP star HD 56022.|1
+1981A&A...100..138L|Llorente de Andres, F;Perez Molla, J;Morales, C;Ruiz del Arbol, J|Ultraviolet intrinsic colours of early type stars|1
+1980A&A....90..170B|Burger, M;de Jager, C;Kamperman, T;Neven, L|The ultraviolet spectrum of BET CMa stars.|3
+1979ApJ...234..669K|Kane, S;Frost, K;Donnelly, R|Relationship between hard X-ray and EUV sources in solar flares.|31
+1978SoPh...57..175E|Emslie, A;Brown, J;Donnelly, R|The inter-relationship of hard X-ray and EUV bursts during solar flares.|43
+1978SoPh...58..127D|de Jager, C;de Jonge, G|Properties of elementary flare bursts.|85
+1977A&A....54..393U|Underhill, A;van der Hucht, K|Line blocking factors in the ultraviolet spectra of 35 B6 to A0 stars.|5
+1977A&A....58..201D|Dorschner, J;Friedemann, C;Guertler, J|Correlations of the band at 2175 Å with other interstellar features.|30
+1977A&A....61..815B|Beeckmans, F;Burger, M|Ultraviolet observations of beta Canis Majoris stars with the TD-1 A satellite.|34
+1976A&A....47..429W|Willis, A;Wilson, R|Ultraviolet observations of Gamma-2 Velorum.|33
+1976A&A....50..335H|Hack, M;van den Heuvel, E;Hoekstra, R;de Jager, C;Sahade, J|An investigation of the ultraviolet spectra of beta Lyrae with the TD-1A satellite.|18
+1976PoAst..24...85J|Jarzebowski, T|Ultraviolet astrophysics.|0
+1976Ruimt..25...37D|de Graaff, W|Recent developments in astronomy|0
+1976SoPh...48..197H|Hoyng, P;Brown, J;van Beek, H|High time resolution analysis of solar hard X-ray flares observed on board the ESRO TD-1A satellite.|253
+1975Ap&SS..38..243F|Faraggiana, R;van der Hucht, K;Burger, M|Near-Ultraviolet Observation of Four Bright MN Stars|6
+1975Ap&SS..38..313D|de Jager, C;Lamers, H;van der Hucht, K|Progress in Ultraviolet Stellar Spectrophotometry with S59|4
+1975PhDT.........1H|Hoyng, P|Studies on hard X-ray emission from solar flares and on cyclotron radiation from a cold magnetoplasma|30
+1974Ap&SS..26..207D|de Jager, C;Hoekstra, R;van der Hucht, K;Kamperman, T;Lamers, H;Hammerschlag, A;Werner, W;Emming, J|The Orbiting Stellar Ultraviolet Spectrophotometer S59 in ESRO's TD-1A Satellite|41
+1973MNRAS.163..291B|Boksenberg, A;Evans, R;Fowler, R;Gardner, I;Houziaux, L;Humphries, C;Jamar, C;Macau, D;Malaise, D;Monfils, A;Nandy, K;Thompson, G;Wilson, R;Wroe, H|The ultra-violet sky-survey telescope in the TD-IA satellite.|136

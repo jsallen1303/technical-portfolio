@@ -1,0 +1,47 @@
+2022AGUFMSH45C2345R|Richardson, I;St Cyr, O;Burkepile, J;Thompson, B|Solar Energetic Particle-Associated Coronal Mass Ejections Observed by the Mk3 and Mk4 Coronagraphs of the Mauna Loa Solar Observatory|0
+2022shin.confE.189R|Richardson, I;Chris. St. Cyr, O|Solar Energetic Particle-Associated Coronal Mass Ejections Observed by the Mauna Loa Solar Observatory Mk3 and Mk4 Coronagraphs|0
+2021AGUFMSH55F1914S|St Cyr, O;Richardson, I;Thompson, B;Burkepile, J;Balmaceda, L;Fry, D;Parker, L|Acceleration in the Low Corona of CMEs Associated with Solar Energetic Particle Events|0
+2021EGUGA..2311152B|Bothmer, V|The magnetic flux rope structure of coronal mass ejections - 2021 Julius Bartels Medal Lecture at vEGU|0
+2020AGUFMSH0090006S|St Cyr, O;Richardson, I;Thompson, B;Burkepile, J;Balmaceda, L;Fry, D|Understanding Solar Energetic Particle Events and CME Dynamics in the Low Corona using MLSO and Spacebased Coronagraph Observations - Progress Report|0
+2018cosp...42E3313S|Sylwester, J;Kowalinski, M;Sylwester, B;Siarkowski, M;Kordylewski, Z;Plocieniak, S;Trzebinski, W;Phillips, K|Highly Ionized ca X-Ray Spectra from Flares Seen with the Diogeness Spectrometer|0
+2004cosp...35.1529D|Doschek, G|High Resolution Spectra of Solar Flares|0
+2004cosp...35.2442S|Schwenn, R|CMEs in the heliosphere|0
+2002AGUSMSH41A..02H|Howard, R;Plunkett, S;St. Cyr, O;Vourlidas, A|Observations of CMEs in the Rising and Declining Phases of Solar Cycle 23|0
+2002EGSGA..27.4470K|Kryakunova, O;Aushev, V;Dryn, E;Nikolaevskyi, N|Some Space Weather Disturbances By Data of Alma-ata High Altitude Neutron Monitor|0
+2001AGUSM..SH61A05L|Lara, A;Gopalswamy, N;Dasso, S;Yashiro, S|Testing the Empirical CME Arrival Model Using Earth Directed Events|0
+2000SPD....31.0283G|Gopalswamy, N;Lara, A;Kaiser, M|An Empirical Model to Predict the Arrival of CMEs at 1 AU|2
+2000xmm..pres....2.||100 and counting : SOHO's score as the world's top comet finder|0
+1999mfs..conf..301B|Bornmann, P|Chromospheric Evaporation Theory|21
+1998smc..conf.....W|Warren, G;Keenan, F;Greer, C;Phillips, K;Bruner, M|Fe XVIII Emission Lines in Solar X-Ray Spectra|0
+1996AIPC..374..343S|Sterling, A|Solar coronal abundances: Some recent X-ray flare observations|1
+1994kofu.symp..301P|Phillips, K;Pike, C;Lang, J;Watanabe, T;Zarro, D|The Photospheric-to-Coronal Iron Abundance from X-ray Lines Observed by YOHKOH and Other Satellites|1
+1993AAS...183.0904C|Cyr, O;Altrock, R|Groundbased Observations of the Sun's Corona Following the Perihelia of Sungrazing Comets|0
+1991psf..conf.....C|Culhane, J;Jordan, C|The physics of solar flares. Proceedings.|4
+1988STIN...8827141M|McKenzie, D|The properties of solar coronal active regions deduced from X-ray line spectra|0
+1988sscd.conf..547W|Wang, J;Nelson, G;Sheeley, N;Howard, R;Koomen, M;Michels, D;Kawabata, K;Ogawa, H|Two eruptive prominences and a CME on February 9, 1982.|0
+1987STIN...8816621B|Bruner, M;Crannell, C;Goetz, F;Magun, A;McKenzie, D|Dynamic evolution of the source volumes of gradual and impulsive solar flare emissions|0
+1987sici.symp...22K|Kundu, M|Radio studies of large scale structures of the Sun's corona and transient activity|0
+1987ucb..reptR....B|Bowyer, S|Satellite observations of extreme ultraviolet radiation|0
+1986ASSL..123..107H|Howard, R;Sheeley, N;Michels, D;Koomen, M|The Solar Cycle Dependence of Coronal Mass Ejections|44
+1985IAUC.4129....1S|Sheeley, N;Howard, R;Koomen, M;Michels, D;Marsden, B|Probable Sungrazing Comets|0
+1985ICRC....4...94K|Kahler, S;Cliver, E;Cane, H;McGuire, R;Stone, R;Sheeley, N|Energetic Protons from a Disappearing Solar Filament|2
+1985STIN...8528908M|McKenzie, D;Landecker, P;Feldman, U;Doschek, G|The solar coronal X-ray spectrum 5.5-12 A|0
+1985nrl..reptQ....K|Karpen, J|A search for precursor activity associated with coronal mass ejections, using white-light coronagraph observations obtained with the SOLWIND instrument on board the Air Force P78-1 satellite|0
+1984AIPC..115..378L|Laros, J;Evans, W;Fenimore, E;Klebesadel, R;Shulman, S;Fritz, G|3-10 keV and 0.1 to 2 MeV observations of four gamma-ray bursts|7
+1983ICRC...10..266P|Parsignault, D;Feynman, J;Rothwell, P|The large magnetic storm of July 1982 - A preliminary study|0
+1983STIN...8423548F|Feldman, U;Doschek, G;McKenzie, D|On the rate of energy input in thermal solar flares|0
+1982IAUC.3719....1M|Michels, D;Seal, R;Chaimson, R;Funk, W;Marsden, B|Another Probable Sungrazing Comet|2
+1982STIN...8229257L|Landecker, P;McKenzie, D|Solar observations from the P78-1 satellite|0
+1982uxsa.coll....2D|Doschek, G|Solar Flare X-Ray Spectra from the P78-1 Spacecraft.|0
+1981BAAS...13..553S|Schmahl, E;Kundu, M;Landecker, P;McKenzie, D|Interpretation of Microwave and X-Ray Bursts Observed with the VLA and P78-1|0
+1981IAUC.3640....1H|Howard, R;Koomen, N;Michels, D;Sheeley, N;Marsden, B|Probable Sungrazing Comet|4
+1981STIN...8225073D|Doschek, G;Feldman, U;Landecker, P;McKenzie, D|High resolution solar flare X-ray spectra: The temporal behavior of electron density, temperature, and emission measure for two class M flares|0
+1980COSPA..20..255L|Landecker, P;McKenzie, D;Rugge, H|Initial Results from A 3 to 25 å Solar X-Ray Spectrometer/ Spectroheliograph Experiment|0
+1980IAUS...91..387M|Michels, D;Howard, R;Koomen, M;Sheeley, N;Rompolt, B|The solar mass ejection of 8 May 1979|11
+1980S&T....60..102K|Koomen, M;Sheeley, N;Michels, D;Howard, R|Recent Satellite Observations of the Corona|1
+1980spre.conf..255L|Landecker, P;McKenzie, D;Rugge, H|Initial results from a 3 to 25 Å solar X-ray spectrometer/spectroheliograph experiment.|1
+1979BAAS...11..659I|Imhof, W;Nakano, G;Kilner, J;Datlowe, D;Reagan, J|Fast-Time and Fine-Energy Resolution Measurements of Hard Solar X-ray Events from the P78-1 Satellite|0
+1979BAAS...11..722N|Nakano, G;Imhof, W;Kilner, J;Reagan, J|Cosmic Gamma-Burst Observations from the P78-1 Satellite|0
+1979aero.reptQ....L|Landecker, P;Chater, W;Howey, C;McKenzie, D;Rugge, H|CRLS-229 solar X-ray spectrometer/spectroheliograph experiment|0
+1979emmc.reptR....B|Bellew, W;Davis, A;Hagan, M;Holeman, E;Huber, A;Pantazis, J;Parsignault, D;Rao, Y;Vesprini, R|Energetic particle studies: Instrumentation and analysis|0
+1978aero.reptR....M|McKenzie, D;Howey, C;Young, R|Compact and lightweight multigrid collimators for a satellite-borne solar X-ray spectrometer experiment|0

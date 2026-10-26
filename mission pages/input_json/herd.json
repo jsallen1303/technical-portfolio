@@ -1,0 +1,42 @@
+{
+  "title": "HERD",
+  "name": "HERD",
+  "alttext": "Schematic diagram of HERD design",
+  "imagesize": 279,
+  "imageurl": "/Images/misc_missions/herd_design_sm.png",
+    "descript": "<p><b><font size=\"+2\">T</font>he High Energy cosmic Radiation Detection facility (HERD)</b> is a module being built with a planned launch in 2027. It will be installed on China&rsquo;s Space Station as part of the Chinese Cosmic Lighthouse Program. It is intended to serve as a dark matter detector, a cosmic ray instrument, and observatory for high-energy gamma rays. The HERD detector will be launched separately from the space station and installed by a combination of robotic and space walk activities. Once installed, it would be a permanent part of the station, mounted with a zenithal pointing (upward away from the Earth) with an anticipated life span of ten years. The instrument can be upgraded or, if necessary, replaced during its lifespan.",
+    "decade": 2020,
+    "lifetime": "2027&ndash;(anticipated 10 year mission)",
+    "features": [
+	"The HERD instrument is to be mounted onto an external mounting on the space station. The station will have three axis orientation controls to keep it facing Earthward at all times, with HERD mounted with a zenithal (anti-Earthward) orientation."
+    ],
+    "instruments": [
+	{
+	    "name" : "Calorimeter (CALO)",
+	    "energy" : "TeV energy range",
+	    "descript" : "CALO will have two major components: a three dimensional stack of LYSO &ldquo;voxels&rdquo; (volume pixels), each individually 3 cm on each side, assembled as a large array 63&times;63&times;63 cm: 55 radiation lengths (3 nuclear interaction lengths) deep with roughly 7500 voxels: The array is arranged as an octogonal column with the octogon-shaped face oriented upwards (some design documents called for a cubical array design with even more voxel elements). Each voxel is read out by a Wavelength Shifting Fiber (WLSF) connected to an image intensifying CMOS (IsCMOS): readout of a fraction of the voxels with photodetectors as a parallel independent measurement is also being explored, but not finalized."
+	},
+	{
+	    "name" : "Transition Radiation Detector (TRD)",
+	    "descript" : "TRD will be mounted on the side of the main CALO unit, and will provide TeV energy range proton calibration data."
+	}
+    ],
+    "highlights": [
+	"The HERD mission intends to study extreme high-energy gamma rays, searching in particular for a &ldquo;gamma-ray smoking gun&rdquo; spectral signature anticipated from the annihilation signature of Weakly Interacting Massive Particles (WIMPs), a candidate dark matter particle candidate. It will also continue to study the steepening of the cosmic ray spectrum at or around 1 PeV, a known and unresolved issue in current cosmic-ray physics. It will also provide wide field-of-view guidance to narrow field ground-based instruments, particularly as the existing Fermi and Agile observatories are decommissioned during HERD&rsquo;s anticipated operations period. Finally, it would will make additional discoveries by opening a new window in extremely energetic gamma-rays beyond prior experiments."
+    ],
+  "archive": "",
+  "navigation": [
+    {
+      "url": "http://herd.ihep.ac.cn/",
+      "text": "HERD at IHEP (China)"
+    },
+    {
+      "url": "herd.html",
+      "text": "HERD"
+    },
+    {
+      "url": "biblio/herd_biblio.html",
+      "text": "Publications"
+    }
+  ]
+}

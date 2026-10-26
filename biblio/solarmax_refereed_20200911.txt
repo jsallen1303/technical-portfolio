@@ -1,0 +1,43 @@
+1999ApJS..120..409V|Vestrand, W;Share, G;J. Murphy, R;Forrest, D;Rieger, E;Chupp, E;Kanbach, G|The Solar Maximum Mission Atlas of Gamma-Ray Flares|59
+1998A&A...334..299C|Crosby, N;Vilmer, N;Lund, N;Sunyaev, R|Deka-keV X-ray observations of solar bursts with WATCH/GRANAT: frequency distributions of burst parameters|62
+1995ApJ...440..394A|Aschwanden, M;Montello, M;Dennis, B;Benz, A|Sequences of Correlated Hard X-Ray and Type III Bursts during Solar Flares|45
+1995ApJ...443..855L|Li, P|Directivity and Its Energy Dependence in Solar Flare Energetic Emission|12
+1995ApJ...453..973K|Kiplinger, A|Comparative Studies of Hard X-Ray Spectral Evolution in Solar Flares with High-Energy Proton Events Observed at Earth|83
+1995ApJ...455..347A|Aschwanden, M;Benz, A;Dennis, B;Schwartz, R|Solar Electron Beams Detected in Hard X-Rays and Radio Waves|114
+1994A&A...282..766H|Harris, M;Leising, M|A search for gamma-ray lines from the decay of 59Fe in supernova 1987A.|2
+1994A&A...288..647T|Trottet, G;Chupp, E;Marschhaeuser, H;Pick, M;Soru-Escaut, I;Rieger, E;Dunphy, P|A comparison of gamma-ray and radio emissions during the 11:42 UT solar flare on 1982 June 3|29
+1994ApJ...421..381L|Li, P|Searching for Hard X-Ray Directivity during the Rise, Peak, and Decay Phases of Solar Flares|7
+1994ApJ...423..709H|Hurley, K;Atteia, J;Jourdain, E;Barat, C;Niel, M;Vedrenne, G;Sunyaev, R;Kuznetsov, A;Terekhov, O|Upper Limits to the Soft Gamma Repeater Population from the LILAS Experiment Aboard the PHOBOS Mission|17
+1994ApJ...426..758L|Li, P;Hurley, K;Barat, C;Niel, M;Talon, R;Kurt, V|Directivity of 100--500 keV Solar Flare Hard X-Ray Emission|16
+1994SoPh..153..347L|Lee, J;Gary, D|Spectral evolution of microwaves and hard X-rays in the 1989 March 18 flare and its interpretation|11
+1993A&AS...98..261G|Graeter, M|Evidence for a shock front in a flare loop of June 20, 1989|4
+1993Ap&SS.208...99P|Pearce, G;Rowe, A;Yeung, J|A Statistical Analysis of Hard X-Ray Solar Flares|41
+1993ApJ...416..857A|Aschwanden, M;Benz, A;Dennis, B;Gaizauskas, V|Quasi-periodic Particle Injection into Coronal Loops|39
+1992ApJ...392..179K|Kouveliotou, C;Norris, J;Wood, K;Cline, T;Dennis, B;Desal, U;Orwig, L|Search for Soft Gamma Repeaters in the SMM/HXRBS Data|12
+1991AcASn..32...36X|Xu, A;Yin, C;Zhang, H;Wu, S|Statistical properties of solar gamma-ray flares|4
+1991AcASn..32..421H|Huang, Y;Yin, S;Fang, C|Exploration on the structure of the 1N/M7.1 flare on 30 Dec., 1982|1
+1990ApJ...358L..45S|Share, G;Leising, M;Messina, D;Purcell, W|Limits on a Variable Source of 511 keV Annihilation Radiation near the Galactic Center|45
+1990SoPh..125..333G|Gan, W;Fang, C|Combined study between the chromospheric flare models and hard X-ray observation|10
+1990SoPh..130..337G|Graeter, M|Hα Line Profile Observations of a Limb Flare with High Temporal Resolution|15
+1989ApJ...341.1088W|Wuelser, J;Marti, H|High Time Resolution Observations of H alpha Line Profiles during the Impulsive Phase of a Solar Flare|73
+1989IJRSP..18...71R|Rausaria, R;Bakaya, R;Khosa, P|Hard X-ray of solar flares - thermal versus non-thermal models: a review.|0
+1989PhDT.........8M|McTiernan, J|Numerical simulations of X rays and gamma rays from solar flares|5
+1987ApJ...322.1010V|Vestrand, W;Forrest, D;Chupp, E;Rieger, E;Share, G|The Directivity of High-Energy Emission from Solar Flares. II. Solar Maximum Mission Observations|108
+1987Natur.327..601B|Bai, T;Sturrock, P|The 152-day periodicity of the solar flare occurrence rate|79
+1986A&A...167...77H|Hernandez, A;Machado, M;Vilmer, N;Trottet, G|Spatial and temporal characteristics of flare energy release determined from X-ray and radio imaging observations|18
+1986Ap&SS.119....5L|Lokanadham, B;Subramanian, P;Kiplinger, A;Dennis, B|High energy observations of June 1980 solar flares|0
+1986ApJ...301..213N|Norris, J;Share, G;Messina, D;Dennis, B;Desai, U;Cline, T;Matz, S;Chupp, E|Spectral Evolution of Pulse Structures in Gamma-Ray Bursts|137
+1986ApJ...306..327K|Karpen, J;Doschek, G;Seely, J|High-Resolution X-Ray Spectra of Solar Flares. VIII. Mass Upflow in the Large Flare of 1980 November 7|29
+1986ChJSS...6..243S|Shi, Z;Wang, J|The Hα characteristics of hard X-ray bursts.|0
+1986ChJSS...6Q.169X|Xu, Y;Cao, Y|The coronal oscillations revealed by solar hard X-ray bursts|0
+1986ChJSS...6R.169X|Xu, Y;Cao, Y|Coronal oscillations as revealed by solar hard X-ray bursts|0
+1986PhDT.........9M|Matz, S|On the Spectra of Gamma-Ray Bursts at High Energies.|15
+1985Ap&SS.117..173L|Loran, J;Brown, J|A Lower Limit to the Field Strength in Magnetic Reconnection Sites in Solar Flares Inferred from Hard X-Ray Bursts|8
+1985PhDT........14M|Murphy, R|Gamma Rays and Neutrons from Solar Flares|30
+1984ApJ...287..917A|Antonucci, E;Gabriel, A;Dennis, B|The energetics of chromospheric evaporation in solar flares|189
+1984Natur.311..360N|Nolan, P;Share, G;Chupp, E;Forrest, D;Matz, S|Spectral feature of 31 December 1981 γ-ray burst not confirmed|16
+1983ApJ...273..783K|Kiplinger, A;Dennis, B;Frost, K;Orwig, L|Recurrent pulse trains in the solar hard X-ray flare of 1980 June 7|44
+1983PhDT.........1N|Norris, J|A Study of the Temporal and Spectral Characteristics of Gamma Ray Bursts.|13
+1983SoPh...85..313S|Svestka, Z;Schrijver, J;Somov, B;Dennis, B;Woodgate, B;Fuerst, E;Hirth, W;Klein, L;Raoult, A|Purely Coronal Flare-Like Variations|26
+1980SoPh...65...15F|Forrest, D;Chupp, E;Ryan, J;Cherry, M;Gleske, I;Reppin, C;Pinkau, K;Rieger, E;Kanbach, G;Kinzer, R;Share, G;Johnson, W;Kurfess, J|The gamma ray spectrometer for the Solar Maximum Mission.|108
+1980SoPh...65...25O|Orwig, L;Frost, K;Dennis, B|The hard X-ray burst spectrometer on the Solar Maximum Mission.|144

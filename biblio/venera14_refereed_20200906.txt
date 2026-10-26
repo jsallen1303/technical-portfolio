@@ -1,0 +1,25 @@
+1994ApJ...422..394K|Kahler, S;Daibog, E;Kurt, V;Stolpovskii, V|A Comparison of Nonrelativistic Electron Escape Efficiencies for Solar Flares with and without Coronal Mass Ejections|9
+1994ApJ...426..758L|Li, P;Hurley, K;Barat, C;Niel, M;Talon, R;Kurt, V|Directivity of 100--500 keV Solar Flare Hard X-Ray Emission|16
+1990FizAO..26..837M|Minin, I;Tarabukhina, I|To the problem of studying the optical properties of the Venusian atmosphere.|0
+1989KFNT....5Q..38D|Dlugach, Z|Angular radius of the Sun according to the observations of the eclipse on September 23, 1987.|0
+1987AVest..21..122G|Garvin, J;Bryan, W|Comparisons of Venus Surface Compositions with Terrestrial Ocean Floor Rocks|3
+1986SvAL...12..332S|Shkuratov, Y;Kreslavskii, M;Bazilevskii, A|Color Inhomogeneity on Venus - Preliminary Analysis of VENERA-13 VENERA-14 Television Imagery|0
+1985P&SS...33..109K|Krasnopolsky, V|Chemical composition of venus clouds|20
+1984Natur.307..345E|Ekonomov, A;Moroz, V;Moshkin, B;Gnedykh, V;Golovin, Y;Crigoryev, A|Scattered UV solar radiation within the clouds of Venus|13
+1984PAZh...10..685B|Bogovalov, S;Iyudin, A;Kotov, Y;Shugal, E;Dolidze, V;Zenchenko, V;Vedrenn, G;Niel, M;Barat, C;Chambon, G;Talon, R|Short-period pulsations in solar hard X-ray bursts recorded by Venera 13, 14|1
+1983AVest..16..139S|Surkov, I;Shcheglov, O;Moskaleva, L;Khariukova, V;Manvelian, O;Kirichenko, V;Dudin, A|Investigation of Venus with Venera-13 and -14 probes - First data on composition of rocks|0
+1983AVest..17...67K|Ksanfomaliti, L|The upper cloud layer of Venus and the supracloud haze (Review)|0
+1983Sci...221...57F|Florensky, C;Bazilevakii, A;Kriuchkov, V;Kuzmin, R;Nikolaeva, O;Pronin, A;Chernaia, I;Tiuflin, I;Selivanov, A;Naraeva, M;Ronca, L|Venera 13 and Venera 14: Sedimentary Rocks on Venus?|35
+1982Geokh......899B|Barsukov, V;Surkov, I;Moskaleva, L;Shcheglov, O;Khariukova, V;Manvelian, O;Perminov, V|Geochemical studies of the surface of Venus by the Venera 13 and Venera 14 probes|2
+1982PAZh....8..399M|Mukhin, L;Belman, B;Lamonov, N;Melnikov, V;Nenarokov, D;Okhotnikov, B;Rotin, V;Khokhlov, V|Venera 13 and Venera 14 gas-chromatography analysis of the Venus atmosphere composition|5
+1982PAZh....8..404M|Moroz, V;Moshkin, B;Ekonomov, A;Golovin, Y;Gnedykh, V;Grigorev, A|The Venera 13 and Venera 14 spectrophotometry experiments|5
+1982PAZh....8..411S|Surkov, Y;Ivanova, V;Pudov, A;Pavlenko, V;Davydov, N;Shejnin, D|Venera 13 and Venera 14 measurements of the water vapor content in the Venus atmosphere|3
+1982PAZh....8..429B|Bazilevskii, A;Kriuchkov, R;Kuzmin, R;Nikolaeva, O;Pronin, A;Chernaia, I;Selivanov, A;Naraeva, M;Tiuflin, I;Florenskii, K|Analysis of the panoramas of the Venera 13 and Venera 14 landing sites|0
+1982PAZh....8..429F|Florenskij, K;Basilevskij, A;Kryuchkov, V;Kuzmin, R;Nikolaeva, O;Pronin, A;Chernaya, I;Selivanov, A;Naraeva, M;Tyuflin, Y|Analysis of Panoramas of the VENERA-13 and VENERA-14 Landing Sites|4
+1982PAZh....8..437S|Surkov, Y;Moskaleva, L;Shcheglov, O;Kharyukova, V;Manvelyan, O;Smirnov, G|Element composition of Venus rocks - Preliminary results from Venera 13 and Venera 14|2
+1982PAZh....8..444K|Ksanfomaliti, L;Zubkova, V;Morozov, N;Petrova, N|Microseisms at the Venera 13 and Venera 14 landing sites|1
+1982PAZh....8..700S|Surkov, I;Kirnozov, F;Glazov, V;Dunchenko, A;Atrashkevich, V|Aerosols in the clouds on Venus - Preliminary Venera 14 data|5
+1982Prir.........2N|Nikitin, S|A notable achievement in the exploration of Venus|0
+1982Prir........10B|Barsukov, V|The study of Venus continues|0
+1982SvAL....8..209S|Sagdeev, R;Moroz, V|VENERA-13 and VENERA-14|0
+1982SvAL....8..377S|Surkov, Y;Kirnozov, F;Glazov, V;Dunchenko, A;Atrashkevich, V|Aerosols in the Clouds on Venus - Preliminary VENERA-14 Data|0

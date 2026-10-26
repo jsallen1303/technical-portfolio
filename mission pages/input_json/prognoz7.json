@@ -1,0 +1,39 @@
+{
+    "title": "The Prognoz 7 Mission",
+    "name": "Prognoz 7",
+    "alttext": "artist concept of Prognoz satellite",
+    "imagesize": 299,
+    "imageurl": "/Images/misc_missions/prognoz_small.gif",
+    "descript": "<p><b><font size=\"+2\">P</font>rognoz 7</b> was launched into a highly elliptical orbit on 30 October 1978. The orbit ranged in radius from 200,000 km to 500 km above the Earth&rsquo;s surface, at an inclination of 65 degrees. The orbital period was about 4 days. The satellite was spin stabilized, with a spin period of &sim;120 seconds. The spin axis pointed at the Sun. The mission ended in June 1979.</p>",
+    "decade": 1970,
+    "lifetime": "Oct 1978&ndash;June 1979",
+    "instrument_preamble" : "Prognoz 7 was part of the French-Soviet collaboration SIGNE 2. The SIGNE 2 project consisted of French-built gamma-ray detectors on the Soviet satellites Venera 11, Venera 12, and Prognoz 7. These 3 satellites then formed an interplanetary gamma-ray burst triangulation network. Two features made this program unique in its time: it was the first time that identical detectors had been used simultaneously for gamma-ray burst studies on separate spacecraft over interplanetary distances, and the experiments used the largest dedicated gamma-ray burst detectors put into orbit.",
+    "instruments": [
+	{
+	    "name" : "Gamma Ray Burst Detector (upper)",
+	    "energy" : "20&ndash;3000 keV",
+	    "time_resolution" : "1/512 s (max)",
+	    "descript" : "The dedicated gamma-ray burst detector, i.e. the upper detector, faced in the direction of the Sun. It was a 4.5 cm radius by 3.7 cm thick NaI(Tl) crystal, surrounded by an 8 mm thick plastic anti-coincidence jacket. The crystal and the plastic were viewed from the side by photomultipliers. The gamma-ray burst detector operated in low time resolution &ldquo;waiting&rdquo; modes in the absence of a burst; low energy resolution spectra and higher energy resolution calibration spectra were transmitted in this mode. Typically, the data were accumulated into 163.8 s time bins, 1&ndash;31 energy channels. Detection of a burst triggered the storage of high time resolution count rates and spectral data. The trigger criterion was an excess count rate 8 sigma above normal in a 250 ms interval. The maximum time resolution was 1/512 s. The energy ranges examined for burst detection ranged from 20&ndash;280 keV to 80&ndash;3000 keV, depending on the detector mode. During a burst, there were 1&ndash;6 energy channels used, and, for Prognoz 7 and a &ldquo;typical&rdquo; burst, the nominal energy range was 80&ndash;1000 keV. The total data rate for the Prognoz 7 experiment package was 6 b/s."
+	},
+	{
+	    "name" : "Gamma Ray Burst Detector (lateral)",
+	    "energy" : "30&ndash;900 keV",
+	    "temporal_resolution" : "0.25 s",
+	    "descript" : "Two collimated, lateral detectors were used primarily for the observation of discrete sources, while the upper, omnidirectional detector was used for bursts. The axis of the upper detector is parallel to the satellite spin axis. The axis of the lateral detectors was 9.5 degrees away from the spin axis, in order to create a roll modulation for discrete source observations. Data were collected in 9 energy bins."
+	}
+    ],
+    "highlights": [
+	"The experiments in the 3 satellite network were live for about 90% of the period September 1978-June 1979, detecting 30 confirmed gamma-ray bursts."
+    ],
+  "archive": "",
+  "navigation": [
+    {
+      "url": "images/prognoz_images.html",
+      "text": "Gallery"
+    },
+    {
+      "url": "biblio/prognoz7_biblio.html",
+      "text": "Publications"
+    }
+  ]
+}

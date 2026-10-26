@@ -1,0 +1,40 @@
+{
+  "title": "The European Retrievable Carrier (EURECA) mission",
+    "name": "The European Retrievable Carrier mission : EURECA",
+    "decade" : 1990,
+  "alttext": "artist concept of Eureca",
+  "imagesize": 418,
+  "imageurl": "/Images/misc_missions/eureca.gif",
+  "descript": "<p><b><font=\"+2\">T</font>he European Retrievable Carrier (EURECA)</b> was launched 31 July 1992 by the Space Shuttle <i>Atlantis</i>, and put into an orbit at an altitude of 508 km. It began its scientific mission on 7 August 1992. EURECA was retrieved on 1 July 1993 by the Space Shuttle <i>Endeavor</i> and returned to Earth. The satellite carried a number of experiments for microgravity studies, solar observations, and material technology investigations. Also on board was the WATCH or Wide Angle Telescope for Cosmic Hard X-rays instrument.",
+    "lifetime": "7 Aug 1992&ndash;1 July 1993",
+    "features": [
+	"During its 11 month lifetime, EURECA tracked the Sun and while the WATCH instrument gradually scanned across the entire sky."
+    ],
+    "instruments": [
+	{
+	    "name" : "Wide Angle Telescope for Cosmic Hard x-rays instrument (WATCH)",
+	    "energy" : "6&ndash;150 keV",
+	    "fov" : "65&deg;",
+	    "area" : "45 cm<sup>2</sup>",
+	    "sensitivity" : "100 mCrab in one day",
+	    "time_resolution" : "64 &micro;s",
+	    "descript" : "The WATCH instrument was developed at the Danish Space Research Institute and also flown on the Russian Granat mission. WATCH is a wide field monitor based on the Rotation Modulation Collimator principle. There were 2 interleaved detectors which created a phoswich of alternating strips of NaI(Tl) and CsI(Na). Each strip was 5 mm wide by 2 mm thick The diameter of the phoswich was 110 mm and it was viewed across a 10 mm air gap by a single 125 mm photomultiplier. The effective observation time for the 318 day mission was 120 days."
+	}
+    ],
+    "highlights": [
+	"Some 2 dozen known X-ray sources were monitored &mdash; some for more than 100 days",
+	"Discovered a number of new X-ray transients",
+	"Nineteen cosmic gamma-ray bursts were detected by WATCH, with 12 of these being localized to within &sim;1&deg;."
+    ],
+  "archive": "",
+  "navigation": [
+    {
+      "url": "images/eureca_images.html",
+      "text": "Gallery"
+    },
+    {
+      "url": "biblio/eureca_biblio.html",
+      "text": "Publications"
+    }
+  ]
+}

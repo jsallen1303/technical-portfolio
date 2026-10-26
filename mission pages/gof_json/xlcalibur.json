@@ -1,0 +1,61 @@
+{
+    "title": "XL-Calibur",
+    "name": "XL-Calibur",
+    "gofheader" : "/docs/xlcalibur/inc/header.html",
+    "alttext": "XL-Calibur on launcher at McMurdo Station, Dec 2018",
+    "imagesize": 300,
+    "imageurl": "/docs/xlcalibur/gallery/images/xcalibur_mcmurdo_dec2018.png",
+    "descript": "<p><b><font size=\"+2\">T</font>he XL-Calibur</b> mission is a balloon-borne X-ray telescope flown in July 2022 and again in July 2024 from Kiruna, Sweden. The first flight was compromised by ballast issues that prevent science operations whilst the second was fully successful: both flights ended after roughly 5 days with the balloon landing each time in northern Canada. The balloon circled the polar region at stratospheric attitudes (roughly 39.6 km; 130,000 feet) where atmospheric attenuation of X-rays is reasonably slight.</p?\n\n<p>A proof-of-concept mission, X-Calibur, was previously flown in the Earth&rsquo;s stratosphere from McMurdo Station in Antarctica (29 Dec 2018 - 1 Jan 2019). X-Calibur was also flown in a much shorter test flight in September 2016 from Fort Sumner, New Mexico; no astrophysical data was collected, but the instruments did characterized the high-altitude background noise environment.</p>\n\n<p>XL-Calibur uses a flight spare X-ray telescope from the Hitomi mission with a 12 m focal length, mounted in a carbon fibre tube and aluminum optical bench truss: the X-Calibur Dec 2018 flight used the smaller INFOC&micro;S mirror, which also had a shorter 8 m focal length. The detector is sensitive to the linear polarization of the incident hard X-rays. The instrument is shielded from atmospheric gamma- and cosmic rays with anti-coincidence shielding. The system is deployed in a gondola beneath a balloon and at the end the mission, the apparatus is parachuted back to the surface and recovered for re-flight. The flight program calls for a modest list of proposed targets in the northern (Kiruna) and southern (McMurdo) skies; The December 2018 flight observed GX 301-2 and Vela X-1, but was cut short on Jan 1 2019 when the balloon developed a leak.</p>",
+    "decade" : 2020,
+    "gofsidebar" : "Past",
+    "lifetime": "29 Dec 2018&ndash;1 Jan 2019 (McMurdo, Antarctica; X-Calibur)<br>July 2022 (Kiruna, Sweden)<br>July 2024 (Kiruna, Sweden)",
+    "features": [
+	"Linear polarization measurements in the hard X-ray regime"
+    ],
+    "instruments": [
+	{
+	    "name" : "Polarimeter",
+	    "energy" : "15&ndash;80 keV",
+	    "area" : "180 cm<sup>2</sup> at 30 keV (XL-Calibur)",
+	    "length" : "8 m (X-Calibur)<br>12 m (XL-Calibur)",
+	    "resolution" : "&sim;2&prime;",
+	    "energy_resolution" : "5.9 keV at 40 keV",
+	    "temporal_resolution" : "&sim;1&micro;s",
+	    "descript" : "The detector is a single beryllium rod, surrounded by Cadmium Zinc Telluride (CZT) detectors (2mm thick CZT in X-Calibur; 0.8 mm thick in XL-Calibur). A CZT detector at the rear of the scattering rod is used to monitor the position of the source within the field of view. The detector is also equipped with Bismuth Germanium Oxide (BGO) anti-coincidence detectors to shield the instrument to background radiation."
+	},
+    {
+      "name": "Mirror Assembly and Support Truss",
+	"descript": "The XL-Calibur mirror is a flight spare from the Hitomi Hard X-Ray Telescope, and originally made for the FFAST mission: the earlier X-Calibur used a shorter truss and the INFOC&micro;S mirror. The mirror and detector assembly were mounted at opposite ends of a truss (12 m for XL-Calibur; 8 m long in X-Calibur) made of aluminum-carbon fibre."
+    },
+    {
+	"name": "Wallops Arc Second Pointer (WASP)",
+      "descript": "The truss system with mirror and detector is mounted on a gondola equipped with the WASP pointing system. WASP is designed to achieve absolute pointing knowledge to 15 arcsec accuracy and pointing precision of less than 1 arcsec."
+    }
+  ],
+    "goals": [
+	"Observation of hard X-ray emission from stellar-mass black hole in X-ray binaries and constrain the property of X-ray bright coronas.",
+	"Distinguish between competing emission models of the rotation-powered Crab pulsar and cleanly separate contributions from the pulsar and from the nebula.",
+	"Measurements of highly-magnetized accreting pulsars at the energies of their Cyclotron Resonant Scattering Features, where the competition of QED and plasma birefringence is expected to give high and strongly energy-dependent polarization."
+    ],
+  "archive": "The HEASARC hosts XL-Calibur data, products, and catalogs.",
+  "navigation": [
+      {
+	  "url": "https://heasarc.gsfc.nasa.gov/docs/xlcalibur/",
+	  "text": "XL-Calibur at HEASARC"
+      },
+      {
+	  "url": "https://sites.wustl.edu/xcalibur/",
+	  "text": "XL-Calibur at Washington University (St. Louis)"
+      },
+      {
+	  "url": "https://heasarc.gsfc.nasa.gov/docs/xlcalibur/biblio/xlcalibur_biblio.html",
+	  "text": "Publications"
+      },
+      {
+	  "url": "https://heasarc.gsfc.nasa.gov/docs/xlcalibur/images/xcalibur_images.html",
+	  "text": "Gallery"
+      }
+  ],
+    "goffooter" : "/docs/xlcalibur/inc/footer.html"
+    
+}

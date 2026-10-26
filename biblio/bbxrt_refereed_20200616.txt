@@ -1,0 +1,43 @@
+2000PhDT.........7T|Thomas, B|A multi-mission study of changes in the accretion geometry of the low mass X-ray binary EXO 0748-676|0
+1999ApJ...527..683K|Kriss, G;Davidsen, A;Zheng, W;Lee, G|The Ultraviolet Peak of the Energy Distribution in 3C 273: Evidence for an Accretion Disk and Hot Corona around a Massive Black Hole|37
+1998ApJ...501..119A|Arnaud, K;Mushotzky, R|A Dusty X-Ray Absorber in the Perseus Cluster?|20
+1997ApJ...477..424C|Christian, D;Smale, A;Swank, J;Serlemitsos, P|X-Ray Observations of X2127+119/AC 211 in the Metal-poor Globular Cluster M15: An X-Ray Measure of Metallicity?|4
+1997ApJ...483..774S|Sambruna, R;George, I;Madejski, G;Urry, C;Turner, T;Weaver, K;Maraschi, L;Treves, A|An X-Ray Absorption Feature in the BL Lacertae Object H1426+428|31
+1997ApJ...484..828R|Rho, J;Petre, R|X-Ray Imaging and Spectroscopy of the Supernova Remnant CTB 109 and Its Associated Pulsar 1E 2259+586|62
+1997ApJ...486..763Y|Yamashita, A;Matsumoto, C;Ishida, M;Inoue, H;Kii, T;Makishima, K;Takahashi, T;Tashiro, M|Evidence of an Ionized Iron Emission Line from the Radio-Quiet Quasar E1821+643 by ASCA|15
+1997PhDT........13A|Audley, M|A Broad-Band Spectral and Timing Study of the X-Ray Binary System Centaurus X-3|3
+1996ApJ...457..397A|Audley, M;Kelley, R;Boldt, E;Jahoda, K;Marshall, F;Petre, R;Serlemitsos, P;Smale, A;Swank, J;Weaver, K|A High-Resolution X-Ray Spectrum of Centaurus X-3|15
+1996ApJ...468...86M|MacKenzie, M;Schlegel, E;Mushotzky, R|Broad Band X-Ray Telescope Observations of the Clusters of Galaxies Abell 262 and Abell 496|4
+1995ApJ...441..680V|Vancura, O;Gorenstein, P;Hughes, J|Evidence for Elemental Variation in the Ejecta of the TYCHO Supernova Remnant|40
+1995ApJ...442..597W|Weaver, K;Mushotzky, R;Serlemitsos, P;Wilson, A;Elvis, M;Briel, U|The Origin of the Soft X-Ray Excess in the Seyfert 2 Galaxy NGC 2110|48
+1995ApJ...443..786C|Corbet, R;Smale, A;Ozaki, M;Koyama, K;Iwasawa, K|The Spectrum and Pulses of 1E 2259+586 from ASCA and BBXRT Observations|76
+1995ApJ...446..598K|Koenigl, A;Kartje, J;Bowyer, S;Kahn, S;Hwang, C|The Extreme Ultraviolet Spectrum of the BL Lacertae Object PKS 2155-304|21
+1995ApJ...453L..81Y|Yaqoob, T;Edelson, R;Weaver, K;Warwick, R;Mushotzky, R;Serlemitsos, P;Holt, S|The Iron K alpha Line Profile in NGC 4151|55
+1995ApJS...96..303W|Weaver, K;Arnaud, K;Boldt, E;Christian, D;Corcoran, M;Holt, S;Jahoda, K;Kelley, R;Marshall, F;Mushotzky, R;Petre, R;Rawley, G;Serlemitsos, P;Schlegel, E;Smale, A;Swank, J;Szymkowiak, A;Yamauchi, S|Calibrating the Broad Band X-Ray Telescope|9
+1994A&A...283..175H|Haberl, F|ROSAT soft X-ray observations of the Be/X-ray binary X Persei.|23
+1994ApJ...423..621W|Weaver, K;Mushotzky, R;Arnaud, K;Serlemitsos, P;Marshall, F;Petre, R;Jahoda, K;Smale, A;Netzer, H|The Complex Soft X-Ray Excess in NGC 4151|39
+1994ApJ...433..577P|Pistinner, S;Sarazin, C|Predicted Optical/Ultraviolet Line Fluxes for the Warm Absorber in Abell 2256|4
+1994ApJ...435..106N|Netzer, H;Turner, T;George, I|X-Ray Color Analysis of the Spectra of Active Galactic Nuclei|23
+1994PASJ...46L.167I|Iwasawa, K;Yaqoob, T;Awaki, H;Ogasaka, Y|An ASCA Observation of the Seyfert 2 Galaxy Markarian 3|51
+1993AdSpR..13...57P|Petre, R;Serlemitsos, P;Marshall, F;Jahoda, K;Szymkowiak, A;Smale, A;Swank, J;Corcoran, M;Ptak, A;Boldt, E;Holt, S;Kelley, R;Mushotzky, R;Weaver, K|BBXRT observations of supernova remnants|0
+1993AdSpR..13..211D|Done, C|BBXRT and Ginga observations of AGN|0
+1993AdSpR..13..231J|Jahoda, K|HEAO-1 and BBXRT non-source X-ray observations|13
+1993ApJ...405..168M|Marshall, F;Netzer, H;Arnaud, K;Boldt, E;Holt, S;Jahoda, K;Kelley, R;Mushotzky, R;Petre, R;Serlemitsos, P;Smale, A;Swank, J;Szymkowiak, A;Weaver, K|A New X-Ray Spectral Observation of NGC 1068|117
+1993ApJ...407..556T|Turner, T;Nandra, K;Zdziarski, A;Jahoda, K;Madejski, G;Marshall, F;Mushotzky, R;Petre, R;Pounds, K;Smale, A;Serlemitsos, P;Weaver, K|BBXRT and GINGA Observations of the Seyfert 1 Galaxy Markarian 335|37
+1993ApJ...407..744S|Schlegel, E;Serlemitsos, P;Jahoda, K;Marshall, F;Petre, R;Boldt, E;Mushotzky, R;Swank, J;Szymkowiak, A;Smale, A;Weaver, K|A Broad-Band X-Ray Telescope Spectrum of the Massive X-Ray Binary X Persei|22
+1993ApJ...410..796S|Smale, A;Done, C;Mushotzky, R;Weaver, K;Serlemitsos, P;Marshall, F;Petre, R;Jahoda, K;Boldt, E;Swank, J;Szymkowiak, A;Kelley, R;Arnaud, K|Resolving the Iron K Line in Cygnus X-2: an Observation with BBXRT|33
+1993ApJ...411..594N|Netzer, H|Ionized Absorbers, Ionized Emitters, and the X-Ray Spectrum of Active Galactic Nuclei|137
+1993ApJ...411..869K|Kallman, T;Schlegel, E;Serlemitsos, P;Petre, R;Marshall, F;Jahoda, K;Boldt, E;Holt, S;Mushotzky, R;Swank, J;Szymkowiak, A;Kelley, R;Smale, A;Arnaud, K;Weaver, K;Paerels, F|Broad-Band X-Ray Telescope Observations of the Magnetic Cataclysmic Variable H0538+608 = BY Camelopardalis|16
+1993ApJ...418..638Y|Yaqoob, T;Serlemitsos, P;Mushotzky, R;Weaver, K;Marshall, F;Petre, R|A BBXRT Observation of the High-Luminosity Quasar H1821+643|6
+1993ApJ...418..644P|Petre, R;Mushotzky, R;Serlemitsos, P;Jahoda, K;Marshall, F|The Broad-Band X-Ray Spectrum of the Nucleus of M81|39
+1993ApJ...418..894S|Smale, A;Mushotzky, R;Schlegel, E;Weaver, K;Serlemitsos, P;Marshall, F;Petre, R;Jahoda, K|Cygnus X-3 in an ``Ultrahigh'' X-Ray State with No Detected K alpha Line Emission|6
+1993ApJ...419...66M|Miyaji, T;Mushotzky, R;Loewenstein, M;Serlemitsos, P;Marshall, F;Petre, R;Jahoda, K;Boldt, E;Holt, S;Swank, J;Szymkowiak, A;Kelley, R|Spatially Resolved X-Ray Spectroscopy of the Merging Galaxy Cluster A2256|30
+1993ApJ...419..301M|Marshall, F;Mushotzky, R;Petre, R;Serlemitsos, P|The X-Ray Spectrum of Cygnus X-1|35
+1993MNRAS.263...54S|Smith, D;Done, C;Pounds, K|Unified theories of active galactic nuclei : the hard X-ray spectrum of NGC 1068.|20
+1993PhDT.........2C|Christian, D|Spectral and Temporal Behavior of Low Mass X-Ray Binaries Observed with the Einstein SSS and MPC, and the Broad Band X-Ray Telescope|9
+1993PhDT.........3W|Weaver, K|The complex broadband x-ray spectra of Seyfert galaxies|15
+1992ApJ...401L..11W|Weaver, K;Mushotzky, R;Arnaud, K;Serlemitsos, P;Marshall, F;Petre, R;Jahoda, K;Boldt, E;Holt, S;Swank, J;Szymkowiak, A;Kelley, R;Smale, A;Done, C|Broad Band X-Ray Telescope Observations of NGC 4151: Iron Line Diagnostics|20
+1991MNRAS.252...72W|White, D;Fabian, A;Johnstone, R;Mushotzky, R;Arnaud, K|The discovery of large amounts of cold, X-ray absorbing matter in coolingflows.|214
+1988LNP...307..239M|Mushotzky, R|X-Ray Spectra of Active Galaxies|4
+1985SSRv...40..707P|Petre, R;Serlemitsos, P|The Broad Band X-Ray Telescope|2
+1984ITNS...31..786S|Serlemitsos, P;Petre, R;Glasser, C;Birsa, F|Broad band X-ray astronomical spectroscopy.|19

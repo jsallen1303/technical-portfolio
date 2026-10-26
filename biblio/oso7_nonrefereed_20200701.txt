@@ -1,0 +1,46 @@
+2013AAS...22111301B|Bradt, H|The MIT Program, Competition, and Ethics|0
+2009cfdd.confE..41P|Pooley, D|Globular Cluster X-ray Sources|0
+2000rxte.prop50079R|Remillard, R|Orbital Modulation of the New HMXB X1908+075|0
+1993AAS...182.0707Z|Zhang, W;Swank, J|BBXRT Observation of MX0836-42|0
+1989IAUC.4871....2M|Manchanda, R;Robertson, J|Radio Emission from the Region of GX 1+4|0
+1983LowOB...9..233R|Rakos, K|Present and past space programs.|0
+1979xras.proc..369R|Rothschild, R;Baity, W;Mushotzky, R;Wheaton, W;Peterson, L|Observation of 2A 1415+255 (NGC 5548) by OSO-7.|2
+1978pans.proc.....G|Giacconi, R;Ruffini, R|Physics and astrophysics of neutron stars and black holes|2
+1978pans.proc..148C|Clark, G|Recent results of X-ray observations from OSO-7 and SAS-3|0
+1977nass.book..293M|Maran, S;Thomas, R|The OSO-7 Year of Discovery|0
+1976IAUC.2936....1D|Delvaille, J;Li, F;Liller, W;Shao, C|X-Ray Sources|22
+1976STIN...7713960K|Kaluzienski, L;Holt, S;Boldt, E;Serlemitsos, P|Recurrent X-ray outbursts from Aquila X-1|0
+1975BAAS....7..461M|Mushotzky, R;Baity, W;Wheaton, W;Peterson, L|USCD OSO-7 Observations of Four Extragalactic X-Ray Sources|1
+1975IAUS...68R.209D|Datlowe, D;Hudson, H|Relationship between hard and soft X-ray sources observed by OSO-7.|0
+1975ICRC....1..159C|Crannell, C;Markert, T;Moffett, T;Spangler, S|A Search for X-Rays from UV Ceti Flare Stars|0
+1975ICRC....9.3116D|Dunphy, P;Forrest, D;Chupp, E;Dyer, C|Observation of Radioactive Background in the OSO-7 Gamma-Ray Monitor|0
+1975ICRC....9.3122D|Dyer, C;Dunphy, P;Forest, D;Chupp, E|Interpretation of the Radioactive Background Observed in the OSO-7 Gamma-Ray Monitor|0
+1975aero.reptR....W|Wolfe, R|Manned systems utilization analysis (study 2.1). Volume 1: Executive summary|0
+1975aero.reptT....M|Mayfield, E|Manned systems utilization analysis (study 2.1). Volume 2: Manned systems utilization|0
+1975cait.reptQ....M|Moore, R|Analysis of OGO-5 and OSO-7 X-ray data|0
+1975xris.conf..128U|Ulmer, M|Galactic X-ray sources|0
+1975xris.conf..172M|McClintock, J|A review of the MIT OSO-7 - X-ray astronomy results|0
+1974BAAS....6..276C|Clark, G;Ansour, M;Li, F|Observations of the Eclipsing Binary Cen X-3 by OSO-7|0
+1974BAAS....6..486M|Markert, T;Clark, G;Northridge, P;Wargo, G;Sprott, G|OSO-7 maps of the X-ray sky.|0
+1974BAAS....6R.264B|Baity, W;Ulmer, M;Wheaton, W;Peterson, L|Extended observations of &gt;7 keV X-rays from Cen X-3 by the OSO-7 satellite.|0
+1974BAAS....6R.274W|Winkler, P;Clark, G;Markert, T;Sprott, G|Comparative X-Ray Spectra of Three Supernova Remnants as Observed by OSO-7|0
+1974csgr.conf..265F|Frye, G;Albats, P;Thomson, G;Hopper, V;Mace, O;Thomas, J;Staib, J|High-energy cosmic gamma-rays in the southern hemisphere.|0
+1974ecxa.confE..11N|Neighbours, J;Clark, G|A survey of trapped low energy electrons near the inner boundary of the inner radiation zone from the OSO-7.|0
+1974tcgx.conf...33U|Ulmer, M|UCSD OSO-7 Observations Related to Cosmic Gamma-Ray Events|1
+1974tcgx.conf...61W|Wheaton, W;Ulmer, M;Baity, W;Peterson, L|Counting Rate Glitches in the UCSD Cosmic X-Ray Telescope on OSO-7|0
+1974tcgx.conf...92F|Forrest, D;Tsai, C;Chupp, E|A Search for Gamma-Ray Bursts with the Gamma-Ray Monitor on OSO-7|0
+1973IAUS...55...29C|Clark, G|Observations of Cosmic X-Ray Sources by the MIT Instrument on the OSO-7|0
+1973IAUS...55...51P|Peterson, L|Hard Cosmic X-Ray Sources|23
+1973ICRC....1...77C|Clark, G;Lewin, W;Schnopper, H;Sprott, G;McClintock, J;Canizares, C|X-ray Observations from the OSO-7 Satellite. (Abstract)|0
+1973NASSP.326....7T|Thole, J|The OSO-7 Mission|0
+1973NASSP.342..132P|Peterson, L;Datlowe, D;McKenzie, D|Thermal and Nonthermal X-ray Bursts Observed from OSO-7|18
+1973S&T....45....4M|Maran, S;Thomas, R|The OSO-7 Year of Discovery|6
+1972BAAS....4..220P|Peterson, L;Baity, W;Wheaton, W;Ulmer, M|UCSD X-Ray Observations In the Galactic Plane from OSO-7.|0
+1972BAAS....4..220U|Ulmep, M;Baity, W;Wheaton, W;Peterson, L|UCSD X-Ray Observations of the Vela Region from OSO-7.|2
+1972BAAS....4..228C|Chupp, E;Forrest, D;Higbie, P|Capabilities for Celestial Nuclear Gamma Ray Monitoring on OSO-7.|0
+1972BAAS....4Q.258C|Clark, G;Sprott, G;Lewin, W;Bradt, H;Schnopper, H|X-ray observation of Vir X-1 from 1 to 60 keV with the MIT instrument on OSO-7.|0
+1972BAAS....4R.416U|Ulmer, M;Baity, W;Peterson, L;Wheaton, W|Hard X-ray observations of Her X-1 and Vela XR-1 from OSO-7.|0
+1972BAAS....4S.261S|Sprott, G;Clark, G;Lewin, W;Schnopper, H|Observations of X-ray sources near the galactic center from 1 to 60 keV from the MIT instrument on OSO-7.|0
+1972BAAS....4S.410B|Baity, W;Peterson, L;Ulmer, M;Wheaton, W|Observations of Cyg X-1 and Cyg X-3 above 7 keV from OSO-7.|0
+1972IAUC.2466....1H|Heinz, C;Markert, T;Clark, G;Lewin, W;Schnopper, H;Sprott, G|Two X-ray sources from OSO-7 observations.|6
+1971S&T....42..346W|Watts, R|OSO 7 Begins Observations|0

@@ -1,0 +1,310 @@
+2018ApJS..235....7H|Hori, T;Shidatsu, M;Ueda, Y;Kawamuro, T;Morii, M;Nakahira, S;Isobe, N;Kawai, N;Mihara, T;Matsuoka, M;Morita, T;Nakajima, M;Negoro, H;Oda, S;Sakamoto, T;Serino, M;Sugizaki, M;Tanimoto, A;Tomida, H;Tsuboi, Y;Tsunemi, H;Ueno, S;Yamaoka, K;Yamada, S;Yoshida, A;Iwakiri, W;Kawakubo, Y;Sugawara, Y;Sugita, S;Tachibana, Y;Yoshii, T|The 7-year MAXI/GSC Source Catalog of the Low-Galactic-latitude Sky (3MAXI)|3
+2018ApJS..238...32K|Kawamuro, T;Ueda, Y;Shidatsu, M;Hori, T;Morii, M;Nakahira, S;Isobe, N;Kawai, N;Mihara, T;Matsuoka, M;Morita, T;Nakajima, M;Negoro, H;Oda, S;Sakamoto, T;Serino, M;Sugizaki, M;Tanimoto, A;Tomida, H;Tsuboi, Y;Tsunemi, H;Ueno, S;Yamaoka, K;Yamada, S;Yoshida, A;Iwakiri, W;Kawakubo, Y;Sugawara, Y;Sugita, S;Tachibana, Y;Yoshii, T|The 7-year MAXI/GSC X-Ray Source Catalog in the High Galactic Latitude Sky (3MAXI)|7
+2014SSRv..183....5P|Pounds, K|Searching for Black Holes in Space. The Key Role of X-Ray Observations|0
+2010PNAS..107.7164P|Pooley, D|Globular cluster x-ray sources|19
+2008ApJ...687..466Q|Qian, S;Liao, W;Fernandez Lajus, E|Evidence of a Massive Black Hole Companion in the Massive Eclipsing Binary V Puppis|14
+2007ApJ...663..461T|Tomsick, J;Gelino, D;Kaaret, P|Uncovering the Nature of the X-Ray Transient 4U 1730-22: Discovery of X-Ray Emission from a Neutron Star in Quiescence with Chandra|7
+2005ARA&A..43....1G|Giacconi, R|An Education in Astronomy|3
+2000ApJ...532.1119W|Wen, L;Remillard, R;Bradt, H|X1908+075: An X-Ray Binary with a 4.4 Day Period|15
+2000PKAS...15S..73C|Choi, C|Spectroscopic Studies in X-ray Astronomy|0
+1998AsNow..12...48E|English, N|Early X-ray observing.|0
+1996PhST...61....9G|Giacconi, R|X-ray astronomy: past achievements and future prospects.|1
+1993AJ....105.2079R|Remillard, R;Bradt, H;Brissenden, R;Buckley, D;Roberts, W;Schwartz, D;Stroozas, B;Tuohy, I|Twenty-Two Emission-Line AGNs From the HEAO-1 X-Ray Survey|21
+1993AdSpR..13..151V|Verbunt, F;Hasinger, G;Johnston, H;Bunk, W|ROSAT observations of X-ray sources in globular clusters|14
+1993AdSpR..13..735C|Claret, A;Ballet, J;Goldwurm, A;Lebrun, F;Roques, J;Bouchet, L;Schmitz-Fraysse, M;Mandrou, P;Sunyaev, R;Churazov, E;Gilfanov, M;Khavenson, N;Dyachkov, A;Novikov, B;Kremnev, R;Kovtunenko, V|SIGMA observations of two new hard X-ray and soft gamma-ray transients: GX 354-0 and Nova Persei|3
+1993ApJ...405..353A|Alexandreas, D;Allen, G;Berley, D;Biller, S;Burman, R;Cady, D;Cavalli-Sforza, M;Chang, C;Coyne, D;Dion, C;Dion, G;Dorfan, D;Ellsworth, R;Freedman, S;Fujikawa, B;Goodman, J;Haines, T;Hoffman, C;Kelley, L;Klein, S;Krakauer, D;Kwok, P;Lu, X;Nagle, D;Potter, M;Sandberg, V;Sinnis, C;Shoup, A;Stark, M;Vishwanath, P;Weeks, D;Williams, D;Wu, J;Yodh, G;Zhang, W;CYGNUS Collaboration|Daily Search for Emission of Ultra--High-Energy Radiation from Point Sources|18
+1991ApJ...370..670C|Cominsky, L;Moraes, F|Multimission Observations of 4U 1538-52|13
+1991Natur.351..547T|Taylor, A;Gregory, P;Duric, N;Tsutsumi, T|GT2318 + 620, a variable galactic source with a radio jet|11
+1990ApJ...350..578B|Brissenden, R;Remillard, R;Tuohy, I;Schwartz, D;Hertz, P|H1722+119: A Highly Polarized X-Ray--selected BL Lacertae Object|19
+1990ApJ...359..204T|Tuohy, I;Remillard, R;Brissenden, R;Bradt, H|1H 0709-360: A Cataclysmic Variable with an Orbital Period inside the ``Period Gap''|23
+1989ApJ...345..140R|Remillard, R;Tuohy, I;Brissenden, R;Buckley, D;Schwartz, D;Feigelson, E;Tapia, S|Two X-Ray--selected BL Lacertae Objects Observed with the HEAO 1 Scanning Modulation Collimator|57
+1989MNRAS.240...33G|Griffiths, R;Wilson, A;Ward, M;Tapia, S;Ulvestad, J|4U 1722+11 : the discovery of an X-ray selected BL Lac object.|18
+1988JASS....5..143C|Choi, C;Min, K;Kim, T|Introduction to Properties of Galactic X-Ray Sources|0
+1988NewSc.119...48H|Henbest, N|Galaxies that feed on gas.|0
+1987ComAp..12...67A|Abramowicz, M;Calvani, M;Madau, P|Thick accretion disks : theory vs. observations.|14
+1987Space...3...38D|Davies, J|X-ray astronomy - The view from orbit|0
+1986ApJS...61..353S|Shrader, C;Wood, K;Matilsky, T|An Intermediate-Sensitivity Survey at High Galactic Latitude with HEAO A-1|3
+1985AdSpR...5..137S|Schwartz, D;Bradt, H;Buckley, D;Patterson, J;Remillard, R;Roberts, W;Tuohy, I|Recent optical identifications of HEAO-1 X-ray sources|3
+1985LAstr..99..219A|Acker, A|The new face of the interstellar medium|0
+1985SSRv...40..347O|Oegelman, H;Kahabka, P;Pietsch, W;Truemper, J;Voges, W|35-DAY Cycle and the Rotation Period of HERCULES-X-1|35
+1984A&A...131..229P|Polcaro, V;Bazzano, A;La Padula, C;Ubertini, P;Manchanda, R|New evidence of hard X-ray emission from 4U 0515+38.|6
+1984AdSpR...3..211U|Ubertini, P;Bazzano, A;La Padula, C;Polcaro, V;Zambon, G;Manchanda, R|Hard X-rays emission from active galactic nuclei|0
+1984ApJ...278..137H|Hertz, P;Grindlay, J|The Einstein galactic plane survey : statistical analysis of the complete X-ray sample.|149
+1984ApJ...283..495G|Gioia, I;Maccacaro, T;Schild, R;Stocke, J;Liebert, J;Danziger, I;Kunth, D;Lub, J|The medium sensivity survey : a new sample of X-ray sources with optical identifications and the revised extragalactic log N-log S.|204
+1984ChJSS...4Q.253X|Xu, C|The anisotropy of the diffuse cosmic X-ray background|0
+1983AdSpR...3...99D|Debouzy, G|Sigma: A new gamma-ray space observatory with high angular resolution for 1985 and beyond|4
+1982AdSpR...2..177L|Long, K|The X-ray properties of normal galaxies|6
+1982Ap&SS..82..477S|Singh, K;Apparao, K;Manchanda, R|X-Ray Observation of Two Gamma-Ray Source Fields with the Einstein Observatory|1
+1982ApJ...255L..49M|Makishima, K;Inoue, H;Koyama, K;Matsuoka, M;Murakami, T;Oda, M;Ogawara, Y;Ohashi, T;Shibazaki, N;Tanaka, Y;Hayakawa, S;Kunieda, H;Makino, F;Masai, K;Nagase, F;Tawara, Y;Miyamoto, S;Tsunemi, H;Yamashita, K;Kondo, I|Hakucho observations of X-ray bursts from 4U 1702-42.|10
+1982NewSc..93..720H|Henbest, N|The Universe in X-rays.|0
+1982PASP...94..157P|Peters, G|The hard X-ray flux from GAM CAS during 1970-73.|17
+1982Prir........10S|Shklovskii, I|Twenty years of X-ray astronomy|0
+1981ApJ...251..630K|Kelley, R;Rappaport, S;Brodheim, M;Cominsky, L;Stothers, R|A search for apsidal motion in 4U 0115+63.|20
+1981AsAer..19...30F|Friedman, H|The astronomical horizon|0
+1980A&A....89..249A|Apparao, K;Naranan, S;Kelley, R;Bradt, H|2S 1417-624 : a variable galactic X-ray source near CG 312-1.|17
+1980ApJ...235..351U|Ulmer, M;Shulman, S;Evans, W;Johnson, W;McNutt, D;Meekins, J;Share, G;Yentis, D;Wood, K;Byram, E;Chubb, T;Friedman, H|An X-ray survey of distant rich clusters of galaxies with HEAO 1.|20
+1980ApJ...236....1T|Turner, E;Geller, M|The correlation of the cosmic X-ray background with the light of galaxies|11
+1980ApJ...236..263W|Weisskopf, M;Sutherland, P|On the time variability of CIR X-1 : a comparison with CYG X-1.|2
+1980ApJ...239..335E|Elsner, R;Ghosh, P;Darbro, W;Weisskopf, M;Sutherland, P;Grindlay, J|Observations of CYG X-3 with the Einstein (HEAO 2) X-ray observatory : the period derivative and the asymmetric X-ray light curve.|58
+1980MNRAS.192..445P|Protheroe, R;Wolfendale, A;Wdowczyk, J|A galactic component of the diffuse X-ray flux in the range 2-7 keV|21
+1980PhDT.......191B|Barr, P|An investigation of compact extragalactic X-ray sources|0
+1979A&A....75...61B|Bernacca, P;Bianchi, L|Copernicus observations of Theta-2 Ori A, a proposed optical counterpart to the X-ray source 4U 0531-05.|10
+1979ApJ...229L..19L|Lamb, R;Dower, R;Fickle, R|The period derivative of Cygnus X-3.|23
+1979ApJS...39..573M|Markert, T;Winkler, P;Laird, F;Clark, G;Hearn, D;Sprott, G;Li, F;Bradt, H;Lewin, W;Schnopper, H|The MIT/OSO 7 catalog of X-ray sources: intensities, spectra, and long-term variability.|84
+1979MNRAS.188..813G|Griffiths, R;Briel, U;Schwartz, D;Schwarz, J;Doxsey, R;Johnston, M|Observations of Type 1 Seyfert galaxies with the HEAO-1 scanning modulation collimator.|14
+1979MNRAS.188P...1B|Burnell, S;Culhane, J|NGC 4593 - a bright Seyfert galaxy with variable X-ray emission.|5
+1979MNRAS.189..329M|Mitchell, R;Dickens, R;Burnell, S;Culhane, J|The X-ray spectra of clusters of galaxies and their relationship to other cluster properties.|61
+1979Natur.282..486D|della Ventura, A;Perotti, F;Villa, G;Di Cocco, G;Butler, R;Dean, A;Hayles, R|Evidence for low-energy γ-ray emission close to CG135+1|5
+1979Natur.282..692S|Share, G;Bonnardeau, M;Wood, K;Meekins, J;Yentis, D;Evans, W;Johnson, W;Shulman, S;Byram, E;Chubb, T|X-ray emission from γ-ray sources in the galactic anticentre region|11
+1979PASP...91..804E|Ebbets, D|The variable emission-line spectrum of HD 50896 : WN5.|26
+1979RSPSA.366..345S|Skinner, G|The Galactic Centre|1
+1979RSPSA.366..375P|Pounds, K|Extragalactic X-Ray Observations The 2A Catalogue and Supplementary Results from the Ariel 5 Sky Survey|8
+1978A&A....62....1D|den Boggende, A;Mewe, R;Gronenschild, E;Heise, J;Grindlay, J|ANS: X-rays from the direction of the Orion Nebula (M42).|31
+1978A&A....62..127M|Maccagni, D;Tarenghi, M;Cooke, B;Maccacaro, T;Pye, J;Ricketts, M;Chincarini, G|An X-ray and optical study of seven clusters of galaxies.|17
+1978A&A....62L...5M|Meurs, E|The distribution of X-ray sources in the Milky Way.|5
+1978A&A....68..281B|Brinkman, A;den Boggende, A;Gronenschild, E;Heise, J;Mewe, R;Schrijver, J|On the low energy X-ray absorption of the Coma, Virgo and Perseus clusters.|3
+1978A&A....70..317M|Manzo, G;Molteni, D;Robba, N|Evidence of a Continuous Change in the Period of Cygnus X-3|25
+1978ApJ...219..605W|Wolff, C;Kondo, Y|Hercules X-1 = HZ Herculis: a multiperiod variable?|19
+1978ApJ...219L..77C|Chester, T|Centaurus X-3: the periodicity of the extended lows.|6
+1978ApJ...219L..89M|Murray, S;Forman, W;Jones, C;Giacconi, R|Evidence for X-ray emission from superclusters of galaxies determined from Uhuru.|37
+1978ApJ...220....8S|Schwartz, D|The X-ray luminosity function of Abell clusters.|33
+1978ApJ...220L..63K|Kellogg, E|X-ray sources in nearby superclusters.|8
+1978ApJ...221..228W|Weisskopf, M;Sutherland, P|On the physical reality of the millisecond bursts in Cygnus X-1: bursts and shot noise.|18
+1978ApJ...221..745L|Lugger, P|High-galactic-latitude X-ray sources and southern clusters of galaxies.|25
+1978ApJ...221L...7A|Auriemma, G;Angeloni, L;Belli, B;Bernardi, A;Cardini, D;Costa, E;Emanuele, A;Giovannelli, F;Ubertini, P|Hard X-ray spectrum of NGC 4151.|34
+1978ApJ...223...74T|Tananbaum, H;Peters, G;Forman, W;Giacconi, R;Jones, C;Avni, Y|Uhuru observations of X-ray emission from Seyfert galaxies.|148
+1978ApJ...224....1J|Jones, C;Forman, W|X-ray clusters of galaxies and the luminosity-richness relation.|76
+1978ApJ...224...46C|Cominsky, L;Jones, C;Forman, W;Tananbaum, H|Transient X-ray sources in the galactic plane.|56
+1978ApJ...224L.107G|Grindlay, J|Two more globular cluster X-ray sources?|27
+1978ApJ...225..994J|Joss, P;Fechner, W;Forman, W;Jones, C|Properties of the 2 - 6 keV pulse profiles of Hercules X-1.|23
+1978ApJ...225L...1F|Forman, W;Jones, C;Murray, S;Giacconi, R|The detection of large X-ray halos in clusters.|34
+1978ApJS...38..357F|Forman, W;Jones, C;Cominsky, L;Julien, P;Murray, S;Peters, G;Tananbaum, H;Giacconi, R|The fourth Uhuru catalog of X-ray sources.|619
+1978MNRAS.182..489C|Cooke, B;Ricketts, M;Maccacaro, T;Pye, J;Elvis, M;Watson, M;Griffiths, R;Pounds, K;McHardy, I;Maccagni, D;Seward, F;Page, C;Turner, M|The Ariel V (SSI) catalogue of high galactic latitude (|293
+1978MNRAS.182P..23S|Stark, J;Burnell, J;Culhane, J|X-ray spectra and variability of some Seyfert galaxies and other high latitude sources.|16
+1978MNRAS.182P..39S|Smith, A|An extended X-ray source centred on the Vela pulsar.|6
+1978MNRAS.183P..39D|Davison, P|The structure of the Virgo cluster X-ray source.|19
+1978MNRAS.183P..51R|Ricketts, M|A search for X-ray emission from Abell clusters and superclusters.|11
+1978MNRAS.184..783M|McHardy, I|X-ray sources in clusters of galaxies.|70
+1978MNRAS.185..137B|Branduardi, G;Mason, K;Sanford, P|Further Copernicus X-ray observations of 3U 1700-37.|35
+1978Natur.272..699J|Julien, P;Helmken, H|Faint X-ray sources detected near COS B γ-ray positions|25
+1978Natur.273..211G|Grindlay, J|Diffuse γ-ray background from Seyfert galaxies|19
+1978Natur.274...39P|Perrenod, S|Correlation between supercluster membership and richness for Abell clusters|2
+1978Natur.275..197D|Doi, K|Physical reality of shot noise model for the short-term variability of Cyg X-1|8
+1978Natur.275..721F|Fabbiano, G;Gursky, H;Schwartz, D;Schwartz, J;Bradt, H;Doxsey, R|SS CYG as a hard X-ray source identified with the scanning modulationcollimator on HEAO 1.|11
+1978NewSc..78..286P|Pounds, K|An X-ray map of deep space.|0
+1978PhyS...17..377G|Giacconi, R|Origin of X-ray emission from clusters.|2
+1978QJRAS..19....1C|Culhane, J|Extragalactic X-ray Astronomy|22
+1978RPPh...41..511W|Willmore, A|REVIEW: The cosmic X-ray sources|2
+1977ARA&A..15..541G|Gursky, H;Schwartz, D|Extragalactic X-ray sources.|82
+1977ApJ...211..547S|Seaquist, E|Radio continuum observations of southern emission-line stars and X-ray sources.|31
+1977ApJ...211L...9C|Cominsky, L;Forman, W;Jones, C;Tananbaum, H|Uhuru observations of the globular cluster X-ray source NGC 6712.|22
+1977ApJ...212L..13H|Henry, P;Schreier, E|A measurement of the spin-up rate of the SMC X-1 X-ray pulsar.|19
+1977ApJ...212L..67G|Grindlay, J;Gursky, H;Parsignault, D;Cohn, H;Heise, J;Brinkman, A|X-ray observations of globular clusters with ANS.|6
+1977ApJ...213L..57F|Fechner, W;Joss, P|Evidence for a 35 day precession in the orbit of Hercules X-1.|13
+1977ApJ...214...35B|Brinkman, A;Heise, J;den Boggende, A;Grindlay, J;Gursky, H;Parsignault, D|X-ray observations of the Cygnus A region with ANS.|10
+1977ApJ...214..856J|Jones, C|Energy spectra of 43 galactic X-ray sources observed by Uhuru.|98
+1977ApJ...214L..57G|Grindlay, J;Parsignault, D;Gursky, H;Brinkman, A;Heise, J;Harris, D|New X-ray and radio observations of the galaxy cluster A 2319.|25
+1977ApJ...215L..21B|Bahcall, J;Chester, T|On the mass determination of Hercules X-1.|17
+1977ApJ...217L..83M|Matilsky, T|On the true space distribution of the galactic X-ray sources.|9
+1977ApJ...217L..93K|Kendziorra, E;Staubert, R;Pietsch, W;Reppin, C;Sacco, B;Truemper, J|Hercules X-1: the 1.24 second pulsation in hard X-rays.|24
+1977ApJ...218..232P|Parsignault, D;Grindlay, J;Gursky, H;Tucker, W|Observational constraints on the models for Cygnus X-3.|38
+1977ApJ...218L...1U|Ulmer, M|Observations of NGC 4151 from Uhuru.|4
+1977ApJ...218L..49E|Epstein, A|LMC X-1: a luminous extended X-ray source.|7
+1977ApJ...218L.117G|Grindlay, J;Gursky, H|Long-term behavior of MXB 1730-335.|18
+1977ApL....19...53Y|Yentis, D;Shulman, S;McKee, J;Rose, W|A New Measurement of the Spin-Up Rate of SMC X-1|4
+1977AsAer..15...42C|Cruddace, R;Fritz, G;Shulman, S|SPEAR - Small payload ejection and recovery for the Space Shuttle|0
+1977CRASB.285..341D|Dauvillier, A|Nature of gamma-ray bursts.|0
+1977KosIs..15..321N|Novikova, G;Erokhina, E;Kurt, V;Moskalenko, E;Titarchuk, L;Sheffer, E|Observations of X-ray sources in the region of the galactic center and in Cygnus.|1
+1977Natur.265..606K|Kaluzienski, L;Holt, S;Boldt, E;Serlemitsos, P|Recurrent X-ray outbursts from Aquila X-1|29
+1977Natur.268..705R|Rappaport, S;Clark, G;Dower, R;Doxsey, R;Jernigan, G;Li, F|Variable mid-latitude X-ray source 3U0042+32|6
+1977Natur.270..158P|Pravdo, S;Mushotzky, R;Becker, R;Boldt, E;Holt, S;Serlemitsos, P;Swank, J|Absence of detectable X rays from supercluster candidate 4U0134-11|8
+1977PhDT.........1V|Vohrer, K|High-pressure multiwire proportional counter for X-ray astronomy|0
+1977Scis...17...14H|Hoffman, J|X-ray bursts|0
+1976A&A....46...81C|Cavaliere, A;Setti, G|The log N - log S relationship of extragalactic X-ray sources and the X-ray background.|10
+1976A&A....49..137C|Cavaliere, A;Fusco-Femiano, R|Reprint of 1976A&amp;A....49..137C. X-rays from hot plasma in clusters of galaxies.|997
+1976A&A....49..235G|Garavoglia, M;Treves, A|On the system 3U 0352+30 - X Persei.|12
+1976AJ.....81..172M|Matsakis, D;Evans, N;Sato, T;Zuckerman, B|Radio continuum measurements of compact H II regions and other sources.|50
+1976Ap&SS..42..143P|Pounds, K;Cooke, B;Ricketts, M;Turner, M;Peacock, A;Eadie, G|Observations of Variable and Transient X-Ray Sources with the Ariel V Sky Survey Experiment|4
+1976Ap&SS..42..223O|Oda, M;Doi, K;Ogawara, Y;Takagishi, K;Wada, M|Short-Term Variability of Cyg X-1|23
+1976ApJ...203..187L|Li, F;Sprott, G;Clark, G|OSO-7 observations of the X-ray nova 3U 1543-47.|36
+1976ApJ...204..315S|Schwartz, D;Murray, S;Gursky, H|A measurement of fluctuations in the X-ray background by Uhuru.|25
+1976ApJ...204..539S|Schreier, E;Swartz, K;Giacconi, R;Fabbiano, G;Morin, J|The long-term intensity behavior of Centaurus X-3.|65
+1976ApJ...204..548U|Ulmer, M|Studies of the average pulse shape of Centaurus X-3 in the 2 - 20 keV range.|16
+1976ApJ...205..233S|Sofia, S;Wesemael, F|The distribution of the galactic compact X-ray sources: a statistical analysis.|2
+1976ApJ...206..265M|Markert, T;Canizares, C;Clark, G;Li, F;Northridge, P;Sprott, G;Wargo, G|OSO-7 observations of high galactic latitude X-ray sources.|20
+1976ApJ...206L..23G|Grindlay, J;Schnopper, H;Schreier, E;Gursky, H;Parsignault, D|Improved position for the X-ray source associated with the globular cluster NGC 6441.|3
+1976ApJ...206L..29F|Forman, W;Jones, C;Tananbaum, H|Uhuru observations of the galactic plane in 1970, 1971, and 1972.|88
+1976ApJ...207..364U|Ulmer, M;Murray, S|Search for X-ray emission from BL Lacertae objects and nearby Seyfert galaxies.|16
+1976ApJ...207L..25F|Forman, W;Jones, C;Tananbaum, H|Uhuru observations of a transient X-ray source associated with the globular cluster NGC 6440.|37
+1976ApJ...207L.159I|Ives, J;Sanford, P;Penston, M|The variability and absorption of the X-ray emission from NGC 4151.|71
+1976ApJ...207L.177F|Forman, W;Jones, C|Uhuru observations of an X-ray burst at high galactic latitude centered on the X-ray globular cluster NGC 1851.|28
+1976ApJ...208...47U|Ulmer, M;Murray, S;Gursky, H;Bahcall, J|Search for X-ray emission from globular clusters using Uhuru data.|12
+1976ApJ...208..849F|Forman, W;Jones, C;Tananbaum, H|Survey of intensity variability of strong galactic X-ray sources from Uhuru.|47
+1976ApJ...209L..17B|Bahcall, N;Harris, D;Strom, R|Radio-optical candidates for the high-latitude X-ray sources 3U 1555+27 and 3U 1809+50.|13
+1976ApJ...209L..61G|Grindlay, J;Gursky, H|Uhuru observations of the Norma X-ray burster.|27
+1976ApJ...209L.125T|Tananbaum, H;Chaisson, L;Forman, W;Jones, C;Matilsky, T|Uhuru observations of 4U 1608-52: the "steady" X-ray source associated with the X-ray burst source in Norma.|35
+1976ApJ...209L.131J|Jones, C;Forman, W|Uhuru observations of Hercules X-1 during the low state of the 35-day cycle.|89
+1976ApJ...210..230M|Murray, S;Ulmer, M|Observations of high-latitude X-ray sources with the Uhuru satellite.|11
+1976ApJ...210L...9J|Jones, C;Forman, W;Tananbaum, H;Turner, M|Uhuru and Ariel V observations of 3U 1630-47: a recurrent transient X-ray source.|53
+1976ApJ...210L.133D|Deeter, J;Boynton, P|Orbital precession in Hercules X-1.|12
+1976IrAJ...12..193B|Byrne, P|The Binary X-ray Sources|0
+1976MNRAS.174...29W|Whelan, J;Wickramasinghe, D|Extragalactic X-ray binary systems - I. SMC X-1 ≡ Sk 160.|14
+1976MNRAS.174P..45T|Tuohy, I|Pulsed X-ray observations of Cen X-3 from Ariel-5.|19
+1976MNRAS.175P..39S|Seward, F;Page, C;Turner, M;Pounds, K|X-ray sources in the Aquila-Serpens-Scutum region.|62
+1976Natur.262..195P|Pye, J;Cooke, B;Elvis, M|Identification of Abell Cluster 754 with the X-ray source 3U0901-09 by Ariel V|8
+1976Natur.262..473Q|Quenby, J;Coe, M;Engel, A;Mills, J|Positions and evidence for a steady component for X-ray burst sources.|0
+1976Natur.263..301F|Fabian, A;Pringle, J;Rees, M|Globular clusters as a source of X-ray emission from the neighbourhood of M87|12
+1976Natur.263..484H|Holt, S;Boldt, E;Kaluzienski, L;Serlemitsos, P;Swank, J|The 35-d X-ray profile of Her X-1|5
+1976Natur.263..572G|Gull, S;Northover, K|Detection of hot gas in clusters of galaxies by observation of the microwave background radiation|63
+1976PAZh....2...10B|Bratoliubova-Tsulukidze, L;Kudriavtsev, M;Melioranskii, A;Savenko, I;Iushkov, B|Cosmos 428 observations of hard X-rays from the galactic center.|1
+1976PAZh....2..284K|Klimuk, P;Kurt, V;Moskalenko, E;Sevastianov, V;Titarchuk, L;Sheffer, E|Observations of the X-ray source Cir X-1 on board the space station Salyut 4.|0
+1976PAZh....2..482S|Shklovskii, I|On the nature of sources of bursts of hard X-ray emission.|0
+1976PhDT.......240M|Mitchell, R|Extragalactic X-ray astronomy|4
+1976RSPSA.350..491S|Sanford, P;Ives, J|Ariel Results on Extragalactic X-Ray Sources|10
+1976RSPTA.350..441P|Pounds, K|Observations of binary X-ray sources with Ariel 5|1
+1976RSPTA.350..491S|Sanford, P;Ives, J|Ariel results on extragalactic X-ray sources|27
+1976Rech....7..764L|Lequeux, J|X-ray sources and globular clusters|0
+1976Ruimt..25...37D|de Graaff, W|Recent developments in astronomy|0
+1976SSI.....2..325A|Andresen, R;Brinkman, A;Beuermann, K;Culhane, J;Griffiths, R;Manno, V;Rocchia, R;Whitcomb, G|A European X-Ray Spectroscopy and Polarimetry Payload for Spacelab|1
+1976SvAL....2....4B|Bratoliubova-Isulukidze, L;Kudriavtsev, M;Melioranskii, A;Savenko, I;Iushkov, B|Kosmos 428 observations of hard X rays from the galactic-center region|1
+1976SvAL....2..110K|Klimuk, P;Kurt, V;Moskalenko, E;Sevastianov, V;Titarchuk, L;Sheffer, E|Salyut 4 observations of CIR X-1.|0
+1976SvAL....2..188S|Shklovskii, I|The sources of hard X-ray bursts|0
+1975A&A....40..387M|Maraschi, L;Perola, G|Effects of the reheating of the intergalactic gas on the collapse of late density perturbations.|2
+1975ARA&A..13..423P|Peterson, L|Instrumental technique in X-ray astronomy.|40
+1975Ap&SS..32..197F|Frontera, F;Fuligni, F;Cavani, C|Long-Term Variability of Cyg X-1 in Hard X-Rays|4
+1975Ap&SS..33L..15B|Biswas, S;Manchanda, R;Sreekantan, B|Possible Association of a Hard X-Ray Source with a Cosmic Gamma-Ray Burst|0
+1975ApJ...195L..33G|Gottlieb, E;Wright, E;Liller, W|Optical studies of UHURU sources. XI. A probable period for Scorpius X-1 = V818 Scorpii.|139
+1975ApJ...196..827U|Ulmer, M|Observations of six binary X-ray sources with the UCSD OSO-7 X-ray telescope.|34
+1975ApJ...196L..23D|Davison, P;Culhane, J;Mitchell, R;Fabian, A|An increase in the X-ray flux from Centaurus A.|39
+1975ApJ...196L..55M|Markert, T;Clark, G|Observations of X-ray sources in the Large Magellanic Cloud by the OSO-7 satellite.|37
+1975ApJ...197..443B|Bradt, H;Braes, L;Forman, W;Hesser, J;Hiltner, W;Hjellming, R;Kellogg, E;Kunkel, W;Miley, G;Moore, G;Pel, J;Thomas, J;vanden Bout, P;Wade, C;Warner, B|The X-ray, optical, and radio behavior of Scorpius X-1: the 1971 coordinated observations.|39
+1975ApJ...197..689K|Kellogg, E|X-ray astronomy in the Uhuru epoch and beyond.|10
+1975ApJ...198L..97M|Melnick, J;Quintana, H|Southern galaxy clusters identified with 3U X-ray sources.|16
+1975ApJ...199..184L|Leach, R;Murray, S;Schreier, E;Tananbaum, H;Ulmer, M;Parsignault, D|Further observations of Cygnus X-3 with the Uhuru satellite.|43
+1975ApJ...199..299K|Kellogg, E;Baldwin, J;Koch, D|Studies of cluster X-ray sources. Energy spectra for the Perseus, Virgo, and Coma clusters.|159
+1975ApJ...199L...5B|Baity, W;Jones, T;Wheaton, W;Peterson, L|Hard X-ray observations of NGC 4251.|49
+1975ApJ...199L...9B|Bahcall, J;Bahcall, N;Murray, S;Schmidt, M|Optical studies of 10 high galactic latitude X-ray sources.|42
+1975ApJ...199L..89B|Bahcall, J;Bahcall, N|The unidentified high galactic latitude X-ray sources: bright galaxies or rich clusters?|22
+1975ApJ...199L.143C|Clark, G|X-ray binaries in globular clusters.|310
+1975ApJ...199L.147W|Weisskopf, M;Kahn, S;Sutherland, P|Short-term time variability of Cygnus X-1.|66
+1975ApJ...200..171W|Wright, E;Gottlieb, E;Liller, W|Optical studies of Uhuru sources. XII. The light curve of Scorpius X-1 = V818 Scorpii, 1889 - 1974.|19
+1975ApJ...200L...5M|Mitchell, R;Charles, P;Culhane, J;Davison, P;Fabian, A|X-ray emission from the Centaurus cluster.|26
+1975ApJ...201L.121K|Kaluzienski, L;Holt, S;Boldt, E;Serlemitsos, P;Eadie, G;Pounds, K;Ricketts, M;Watson, M|The light curve of a transient X-ray source.|43
+1975ApJ...202L..13G|Gottlieb, E;Wright, E;Liller, W|Optical studies of UHURU sources. XIII. A photometric analysis of X Persei (= 3U 0352+30?).|15
+1975ApL....16...39M|McDonald, G|Search for Millimeter-Wave Emission from UHURU X-Ray Sources and Radio Binary Stars|1
+1975JBIS...28..299J|Jagoda, N;Antrim, W|An evolution of X-ray astronomy instrumentation.|1
+1975JBIS...28..343F|Fabian, A|UHURU - the first X-ray astronomy satellite.|0
+1975MNRAS.170..569T|Thomas, R;Davison, P;Clancy, M;Buselli, G|Southern hard X-ray sources.|5
+1975MNRAS.171P..41B|Bahcall, J;Charles, P;Davison, P;Sanford, P;Kellogg, E;York, D|Copernicus - X-ray observations of 3U 9759-49.|3
+1975MNRAS.172..149F|Fabian, A|X-ray source counts and the X-ray background from Uhuru.|25
+1975MNRAS.172..313P|Penston, M;Penston, M;Murdin, P;Martin, W|Optical observations of stars near southern galactic X-ray sources.|15
+1975NCimR...5..255H|Horstman, H;Cavallo, G;Moretti-Horstman, E|The X and gamma diffuse background.|13
+1975Natur.254..577E|Eyles, C;Skinner, G;Willmore, A;Rosenberg, F|Variable X-ray source near Cen X-3.|53
+1975Natur.256..107H|Heise, J;Mewe, R;Brinkman, A;den Boggende, A;Schrijver, J;Gronenschild, E;Parsignault, D;Grindlay, J;Schreier, E;Schnopper, H|X-ray observations of CYG X-1 with ANS|27
+1975Natur.256..712C|Cooke, B;Page, C|Anomalous temporal behaviour of Her X-1|15
+1975Natur.257..110B|Byrne, P|Candidate for LMC X-5|3
+1975Natur.257..660M|Matilsky, T|Galactic superhaloes, globular clusters and high latitude X-ray sources|2
+1975PASAu...2..327V|Vidal, N|Synchrotron and Inverse Compton Processes in X-Ray Clusters of Galaxies|3
+1975PASP...87..141B|Bahcall, J;Bahcall, N;Herczeg, T;Joss, P;Leibowitz, E;Segalovitz, A;Stolero, S;Veron, M;Veron, P;Wehinger, P;Weistrop, D;Wyckoff, S|Further optical observations of HZ Herculis.|2
+1975PAZh....1....9B|Bratoliubova-Tsulukidze, L;Kudriavtsev, M;Melioranskii, A;Savenko, I;Iushkov, B|Observations of hard X-ray emission of 3U 1700-37 by the satellite Cosmos 428.|3
+1975PoAst..23...55K|Kwast, T|Extragalactic X-ray sources.|0
+1975Rech....6...25K|Koch-Miramond, L|High-energy astronomy.|0
+1975SciAm.232c..24G|Gursky, H;van den Heuvel, E|X-ray emitting double stars.|5
+1974A&A....30..161P|Pizzichini, G;Spizzichino, A;Vespignani, G|A Search for Hard X-rays from the Transient Source 2 U 1543-47|0
+1974A&A....37..101O|Ogelman, H;Swank, J|Neutron stars with main sequence binary companions as low luminosity X-ray sources.|4
+1974ARA&A..12...23B|Blumenthal, G;Tucker, W|Compact X-ray sources.|51
+1974ApJ...188..209H|Harris, D;Romanishin, W|Inverse Compton Radiation and the Magnetic Field in Clusters of Galaxies|61
+1974ApJ...188L..35A|Avni, Y;Bahcall, J;Joss, P;Lamb, D;Schreier, E;Tananbaum, H|Upper Limit on 2.5-SECOND Pulsations from Hercules X-1|2
+1974ApJ...188L..45S|Sofia, S|The Bright Stars Associated with Galactic X-Ray Sources|10
+1974ApJ...188L..97H|Holt, S;Boldt, E;Serlemitsos, P;Murray, S;Giacconi, R;Kellogg, E;Matilsky, T|On the Nature of the Unidentified High-Latitude UHURU Sources|35
+1974ApJ...190L...1J|Jones, C;Chetin, T;Liller, W|Optical studies of UHURU sources.8 Observations of 92 possible counterparts of X-ray sources.|35
+1974ApJ...191..593U|Ulmer, M;Baity, W;Wheaton, W;Peterson, L|4.8-SECOND Pulsed X-Rays from Centaurus X-3 at Energy Greater than 7 KEV|5
+1974ApJ...191L..71J|Jones, C;Giacconi, R;Forman, W;Tananbaum, H|Observations of Circinus X-1 from UHURU|40
+1974ApJ...191L.113R|Rapley, C;Tuohy, I|X-Ray Observations of the Large Magellanic Cloud by the Copernicus Satellite|31
+1974ApJ...192L..61C|Canizares, C;Neighbours, J;Matilsky, T|A Search for X-Rays from Supernova 1972e with UHURU and OSO-7|13
+1974ApJ...192L..89L|Liller, W|Optical Studies of UHURU Sources. X. The Photometric History of he 2-177(=3U 1639-62?)|6
+1974ApJ...193L..67F|Forman, W;Giacconi, R;Jones, C;Schreier, E;Tananbaum, H|UHURU Observations of Short-Time Variations of the Crab|14
+1974ApJ...194L.139S|Schwartz, D|Can the Constraint of Finite Mass Smooth Fluctuations in the Background Radiation?|2
+1974ApJS...27...37G|Giacconi, R;Murray, S;Gursky, H;Kellogg, E;Schreier, E;Matilsky, T;Koch, D;Tananbaum, H|The Third UHURU Catalog of X-Ray Sources|499
+1974MNRAS.167..419R|Rowan-Robinson, M;Fabian, A|Fluctuations in the integrated X-ray background|22
+1974Natur.249..746P|Parkinson, J;Mason, K;Sanford, P|New position of Cen X-3 from Copernicus|13
+1974Natur.251..400A|Albats, P;Frye, G;Thomson, G|Pulsed 10-30 MeV gamma rays from PSR0833-45|33
+1974Natur.251..471R|Rappaport, S;Bradt, F;Doxsey, R;Levine, A;Spada, G|Search for pulsed X rays from 3U0833-45 (Vela pulsar)|15
+1974Natur.252..661B|Bahcall, N|Positional agreement between 3U1706+32 and the cluster of galaxies A2241|6
+1974PASAu...2..290T|Thomas, R;Davison, P|A Comment on X-Ray Source Identifications|1
+1974PoAn....7...79K|Kuchowicz, B|Cosmic gamma-radiation sources|0
+1974PoAst..22..283R|Rucinski, S|HZ Her = Her X-1.|0
+1974RSPSA.340..423C|Culhane, J|Studies of the X-Ray Emission from Supernova Remnants|0
+1973A&A....23..433M|Moffat, A;Haupt, W;Schmidt-Kaler, T|On X-Persei as a stellar X-ray source: Comparison with gamma Cassiopeiae.|41
+1973A&A....28...71D|Dilworth, C;Maraschi, L;Reina, C|On the Luminosity Function of Galactic X-ray Sources|18
+1973Ap&SS..25..355C|Cahn, J|Planetary Nebulae and Uhuru-2 Catalog|1
+1973ApJ...179..615B|Burginyon, G;Hill, R;Palmieri, T;Scudder, J;Seward, F;Stoering, J;Toor, A|A Soft X-Ray Survey from the Galactic Center to Cassiopeia|36
+1973ApJ...180..715T|Tucker, W;Kellogg, E;Gursky, H;Giacconi, R;Tananbaun, H|X-Ray Observations of NGC 5128 (centaurus a) from UHURU|55
+1973ApJ...181..753M|Matilsky, T;Gursky, H;Kellogg, E;Tananbaum, H;Murray, S;Giacconi, R|The Number-Intensity Distribution of X-Ray Sources Observed by UHURU|47
+1973ApJ...181L..43J|Jones, C;Forman, W;Tananbaum, H;Schreier, E;Gursky, H;Kellogg, E;Giacconi, R|Evidence for the Binary Nature of 2u 1700-37|157
+1973ApJ...182L.103F|Forman, W;Jones, C;Tananbaum, H;Gursky, H;Kellogg, E;Giacconi, R|UHURU Observations of the Binary X-Ray Source 2u 0900-40|78
+1973ApJ...182L.109J|Jones, C;Forman, W;Liller, W|Optical Studies of UHURU Sources.IV. The Long-Term Behavior of HZ HERCULIS=HERCULES X-1|77
+1973ApJ...183..357T|Tucker, W;Kellog, E;Gursky, H;Tananbaum, H|X-Ray Observations of NGC 5128 (Centaurus A) from Uhuru: Erratum|4
+1973ApJ...183..935K|Kellogg, E;Tananbaum, H;Harnden, F;Gursky, H;Giacconi, R;Grindlay, J|The X-Ray Structure of the VELA X Region Observed from UHURU|33
+1973ApJ...183L..57G|Gorenstein, P;Bjorkholm, P;Harris, B;Harnden, F|Soft X-Ray Flux of the Coma Cluster of Galaxies|36
+1973ApJ...183L.117F|Forman, W;Liller, W|Optical Studies of UHURU Sources. V. a Prime Candidate for the "transient" X-Ray Source 2u 1543-47|12
+1973ApJ...184..227G|Giacconi, R;Gursky, H;Kellogg, E;Levinson, R;Schreier, E;Tananbaum, H|Further X-ray observations of Hercules X-1 from Uhuru.|255
+1973ApJ...184..323M|Margon, B|Effect of Gaunt Factors on Analysis of X-Ray Spectra: Viability of a Thermal Intergalactic Medium in the Coma Cluster|18
+1973ApJ...184L..37L|Liller, W|Optical Studies of UHURU Sources.VI. The Identification of the Optical Counterpart of 2u 0115-73= SMC X-1|43
+1973ApJ...184L..65J|Jones, C;Liller, W|Optical Studies of UHURU Sources.VI. Photoelectric Photometry of HD 153919 = 2u 1700-37.|20
+1973ApJ...184L.121J|Jones, C;Liller, W|Optical Studies of UHURU Sources. VII. Photoelectric Photometry of HD 77581 = 2u 0900-40|34
+1973ApJ...185L..13K|Kellogg, E;Murray, S;Giacconi, R;Tananbaum, T;Gursky, H|Clusters of Galaxies with a Wide Range of X-Ray Luminosities|99
+1973ApJ...185L.121C|Coleman, P;Bunner, A;Kraushaar, W;McCammon, D;Williamson, F;Kellogg, E;Koch, D|X-Ray Spectrum of the TYCHO Supernova|27
+1973ApJ...185L.121K|Kellogg, E;Koch, D|X-ray spectrum of the TYCHO supernova.|0
+1973ApJ...186L.111R|Ricker, G;Gerassimenko, M;McClintock, J;Ryckman, S;Lewin, W|Upper Limits to the High-Energy X-Ray Flux from 16 X-Ray Sources and 10 Pulsars|22
+1973NPhS..241...28C|Canizares, C;McClintock, J;Clark, G;Lewin, W;Schnopper, H;Sprott, G|Observations of Periodic Variations in the X-ray Intensity of Cygnus X-3|33
+1973NPhS..241..124M|Manchanda, R;Sreekantan, B|Hard X-ray Emission from Uhuru Sources|2
+1973NPhS..242..121U|Ulmer, M;Baity, W;Wheaton, W;Peterson, L|Observations of the Binary X-ray Source SMC X-1 from OSO-7|21
+1973NPhS..243....5T|Thompson, L|X-ray Cluster of Galaxies Identified in Error Box 2U2358-29|0
+1973NPhS..244....6B|Byrne, P;Butler, C|Possible Candidate for LMC X-1|6
+1973NPhS..244...59M|Manchanda, R;Iyengar, V;Durgaprasad, N;Gokhale, G;Kunte, P;Sreekantan, B|Hard X-ray Spectrum of Hercules X-1|9
+1973NPhS..244..135B|Bahcall, J;Kellogg, E|Radio Stars and X-ray Sources|3
+1973NPhS..245...37K|Kunte, P;Durgaprasad, N;Gokhale, G;Iyengar, V;Manchanda, R;Sreekantan, B|Hard X Rays from the Region of Aquila XR-1|5
+1973NPhS..245..116K|Kurfess, J;Crosa, L|Upper Limit for the Pulsed Emission above 100 keV from Hercules X-1|5
+1973NPhS..246..108D|Degregoria, A;Woltjer, L|White Dwarfs as X-ray Sources|11
+1973NW.....60..532R|Reinhardt, M|X-ray sources in binary systems|4
+1973Natur.244..212F|Fabian, A|Long-term Behaviour of Hercules X-1|19
+1973PASAu...2..188P|Perry, M;Peterson, B;Wickramasinghe, D;Vidal, N|The Search for Cen X-3|0
+1973PhDT.........3F|Ficht, B|Test and optimization of a control and alignment system for an X-ray astronomy balloon experiment|0
+1972ApJ...172L..79S|Schreier, E;Levinson, R;Gursky, H;Kellogg, E;Tananbaum, H;Giacconi, R|Evidence for the Binary Nature of Centaurus X-3 from UHURU X-Ray Observations.|293
+1972ApJ...173L.151S|Schreier, E;Levinson, R;Gursky, H;Kellogg, E;Tananbaum, H;Giacconi, R|Errata: Evidence for the Binary Nature of Centaurus X-3 from UHURU X-Ray Observations; and Further Observations of the Pulsating X-Ray Source Cygnus X-1 from UHURU|6
+1972ApJ...174L..53M|Matilsky, T;Giacconi, R;Gursky, H;Kellogg, E;Tananbaum, H|A New Transient Source Observed by UHURU|57
+1972ApJ...174L.143T|Tananbaum, H;Gursky, H;Kellogg, E;Levinson, R;Schreier, E;Giacconi, R|Discovery of a Periodic Pulsating Binary X-Ray Source in Hercules from UHURU|445
+1972ApJ...175L..15C|Costain, C;Bridle, A;Feldman, P|Decametric Radio Identification of an Extragalactic X-Ray Source|32
+1972ApJ...175L..69E|Elliot, J;Liller, W|Optical Studies of UHURU Sources. II. im Normae, a Possible X-Ray Soruce|14
+1972ApJ...177L...5T|Tananbaum, H;Gursky, H;Kellogg, E;Giacconi, R;Jones, C|Observation of a Correlated X-Ray Transition in Cygnus X-1|230
+1972ApJ...177L.103F|Forman, W;Jones, C;Liller, W|Optical Studies of UHURU Sources. III. Optical Variations of the X-Ray Eclipsing System HZ Herculis|98
+1972ApJ...178..281G|Giacconi, R;Murray, S;Gursky, H;Kellogg, E;Schreier, E;Tananbaum, H|The Uhuru catalog of X-ray sources.|303
+1972ApJ...178..309F|Forman, W;Kellogg, E;Gursky, H;Tananbaum, H;Giacconi, R|Observations of the Extended X-Ray Sources in the Perseus and Coma Clusters from UHURU|120
+1972ApJ...178L..71S|Schreier, E;Giacconi, R;Gursky, H;Kellogg, E;Tananbaum, H|Discovery of the Binary Nature of SMC X-1 from UHURU|132
+1972ITNS...19..579J|Jagoda, N;Austin, G;Mickiewicz, S;Goddard, R|The UHURU X-Ray Instrument|5
+1972NPhS..235..168B|Bridle, A;Feldman, P|Radio Identifications of Weak Extragalactic X-ray Sources|35
+1972NPhS..237..104M|Margon, B;Bowyer, S;Lampton, M;Cruddace, R|Anomalous Minima in Cen X-3|4
+1972NPhS..238..131R|Richer, H;Auman, J;Isherwood, B;Steele, J;Ulrych, T|Search for High Frequency Optical Variability in X-Ray Sources|11
+1972NPhS..239..123P|Parsignault, D;Gursky, H;Kellogg, E;Matilsky, T;Murray, S;Schreier, E;Tananbaum, H;Giacconi, R;Brinkman, A|Observations of Cygnus X-3 by Uhuru|120
+1972NPhS..240...43G|Guthrie, B|Possible Identification of an Uhuru X-ray Source in the Southern Sky|4
+1972NPhS..240..182B|Barbon, R;Bernacca, P;Tarenghi, M;Treves, A|Identification of 2U0525 - 06 with <SUP>2</SUP>Orionis|8
+1972Natur.235..273B|Braes, L;Miley, G|X Persei an X-ray Source?|65
+1972Natur.235..273V|van den Bergh, S|Possible Identification of X Persei with an X-ray Source|42
+1972Natur.237..369A|A. Correspondent,|X-ray Astronomy: Uhuru Dominates Madrid Meeting|0
+1972Natur.240Q..76.||Identification of a Southern Sky Uhuru Source|0
+1971ApJ...165L..27G|Giacconi, R;Kellogg, E;Gorenstein, P;Gursky, H;Tananbaum, H|An X-Ray Scan of the Galactic Plane from UHURU|129
+1971ApJ...165L..37T|Tananbaum, H;Kellogg, E;Gursky, H;Murray, S;Schreier, E;Giacconi, R|Measurement of the Location of the X-Ray Sources Cygnus X-1 and Cygnus X-2 from UHURU|22
+1971ApJ...165L..43G|Gursky, H;Kellogg, E;Leong, C;Tananbaum, H;Giacconi, R|Detection of X-Rays from the Seyfert Galaxies NGC 1275 and NGC 4151 by the UHURU Satellite|83
+1971ApJ...165L..49K|Kellogg, E;Gursky, H;Leong, C;Schreier, E;Tananbaum, H;Giacconi, R|X-Ray Observations of the Virgo Cluster, NGC 5128, and 3c 273 from the UHURU Satellite|102
+1971ApJ...166L...1O|Oda, M;Gorenstein, P;Gursky, H;Kellogg, E;Schreier, E;Tananbaum, H;Giacconi, R|X-Ray Pulsations from Cygnus X-1 Observed from UHURU|132
+1971ApJ...166L..65H|Holt, S;Boldt, E;Schwartz, D;Serlemitsos, P;Bleach, R|Evidence for Multiple Periodicity in the X-Ray Emission from Cygnus X-1|30
+1971ApJ...167L..67G|Giacconi, R;Gursky, H;Kellogg, E;Schreier, E;Tananbaum, H|Discovery of Periodic X-Ray Pulsations in Centaurus X-3 from UHURU|257
+1971ApJ...167L..81G|Gursky, H;Kellogg, E;Murray, S;Leong, C;Tananbaum, H;Giacconi, R|A Strong X-Ray Source in the Coma Cluster Observed by UHURU|136
+1971ApJ...168L..11M|Miyamoto, S;Fujii, M;Matsuoka, M;Nishimura, J;Oda, M;Ogawara, Y;Ohta, S;Wada, M|Measurement of the Location of the X-Ray Source Cygnus X-1|10
+1971ApJ...168L..15T|Toor, A;Price, R;Seward, F;Scudder, J|X-Ray Source Positions for Cygnus X-1, Cygnus X-2, and Cygnus X-3|3
+1971ApJ...168L..25T|Tananbaum, H;Gursky, H;Kellogg, E;Giacconi, R|X-Ray Observations of GX 17+2 from UHURU|18
+1971ApJ...169L..99K|Kellogg, E;Gursky, H;Murray, S;Tananbaum, H;Giacconi, R|X-Ray Sources Near the Galactic Center Observed by UHURU|74
+1971ApJ...170L..21S|Schreier, E;Gursky, H;Kellogg, E;Tananbaum, H;Giacconi, R|Further Observations of the Pulsating X-Ray Source Cygnus X-1 from UHURU|77
+1971ApJ...170L..67L|Leong, C;Kellogg, E;Gursky, H;Tananbaum, H;Giacconi, R|X-Ray Emission from the Magellanic Clouds Observed by UHURU|98
+1971Natur.231..437C|Cavaliere, A;Gursky, H;Tucker, W|Extragalactic X-ray Sources and Associations of Galaxies|31

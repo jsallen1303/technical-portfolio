@@ -1,0 +1,46 @@
+1998ApJ...502...75L|Loredo, T;Wasserman, I|Inferring the Spatial and Energy Distribution of Gamma-Ray Burst Sources. II. Isotropic Models|36
+1998ApJS..118..391L|Laros, J;Hurley, K;Fenimore, E;Klebesadel, R;Briggs, M;Kouveliotou, C;McCollough, M;Fishman, G;Meegan, C;Cline, T;Boer, M;Niel, M|Gamma-Ray Burst Arrival Time Localizations: Simultaneous Observations by Pioneer Venus Orbiter, Compton Gamma-Ray Observatory, and ULYSSES|19
+1997ApJ...484..720D|Duncan, R;Li, H|The Halo Beaming Model for Gamma-Ray Bursts|6
+1997ApJS..110..157L|Laros, J;Boynton, W;Hurley, K;Kouveliotou, C;McCollough, M;Fishman, G;Meegan, C;Palmer, D;Cline, T;Starr, R;Trombka,;J. I.,;Boer, M;Niel, M;Metzger, A|Gamma-Ray Burst Arrival Time Localizations: Simultaneous Observations by Mars Observer, Compton Gamma Ray Observatory, and ULYSSES|20
+1995ApJ...440L...9U|Ulmer, A;Wijers, R;Fenimore, E|Constraints on the Gamma-Ray Burst Luminosity Function from Pioneer Venus Orbiter and BATSE Observations|26
+1995ApJ...453..583W|Woods, E;Loeb, A|Empirical Constraints on Source Properties and Host Galaxies of Cosmological Gamma-Ray Bursts|105
+1993JGR....98.3079H|Huba, J;Grebowsky, J|Small-scale density irregularities in the nightside Venus ionosphere: Comparison of theory and observations|7
+1992ApJ...388L..45M|Mao, S;Paczynski, B|On the Cosmological Origin of Gamma-Ray Bursts|174
+1992ApJ...391..242C|Chuang, K;White, R;Klebesadel, R;Laros, J|The Spatial Distribution of Gamma-Ray Bursts from Pioneer Venus Orbiter|21
+1992Natur.357..140F|Fenimore, E;Epstein, R;Ho, C;Klebesadel, R;Laros, J|Necessity of evolution in cosmological γ-ray bursts|45
+1992Natur.359..514L|Li, H;Dermer, C|Gamma-ray bursts from high-velocity neutron stars|83
+1992PhDT.........6M|Mao, S|Gravitational Lensing and Gamma-Ray Bursts|0
+1990PhDT.........2C|Chuang, K|Identification and Analysis of Cosmic Gamma Ray Bursts from Pioneer Venus Orbiter|5
+1988ApJ...326.1017K|Kane, S;Fenimore, E;Klebesadel, R;Laros, J|Directivity of 100 keV--1 MeV Photon Sources in Solar Flares|45
+1988ApJ...329L..85S|Schmidt, M;Higdon, J;Hueter, G|Application of the V/V max Test to Gamma-Ray Bursts|109
+1988ApJ...330L.101K|Kouveliotou, C;Desai, U;Cline, T;Dennis, B;Fenimore, E;Klebesadel, R;Laros, J|A 2.2 Second Period in the 1984 August 3 Gamma-Ray Burst|16
+1987ApJ...313..231B|Brainerd, J;Lamb, D|Synchrotron Emission and Gamma-Ray Bursts|38
+1987ApJ...317..846S|Schwartz, R;Ling, J;Mahoney, W;Jacobson, A|Gamma-Ray Burst Localization by HEAO 3|4
+1987ApJ...320L.111L|Laros, J;Fenimore, E;Klebesadel, R;Atteia, J;Boer, M;Hurley, K;Niel, M;Vedrenne, G;Kane, S;Kouveliotou, C;Cline, T;Dennis, B;Desai, U;Orwig, L;Kuznetsov, A;Sunyaev, R;Terekhov, O|A New Type of Repetitive Behavior in a High-Energy Transient|122
+1985PAZh...11..906G|Golenetskij, S;Mazets, E;Aptekar, R;Guryan, Y;Ilinskij, V|Comparative evidence on the 1979 June 13 gamma-ray burst|0
+1985SpFl...27..445C|Craig, R|The Pioneer Venus extended mission.|0
+1984ApJ...286..681L|Laros, J;Evans, W;Fenimore, E;Klebesadel, R;Shulman, S;Fritz, G|3 keV to 2 MeV observations of four gamma-ray bursts|62
+1984ApJ...286L..15C|Cline, T;Desai, U;Teegarden, B;Barat, C;Hurley, K;Niel, M;Vedrenne, G;Evans, W;Klebesadel, R;Laros, J|Three precise gamma-ray burst source locations|24
+1984JBIS...37..453C|Craig, R;Colin, L;Fimmel, R|Pioneer to Venus: the multiprobe and orbiter missions.|1
+1984LAstr..98..493I|Israel, G|Vénus.|0
+1983Ap&SS..96..213L|Laros, J;Evans, W;Fenimore, E;Klebesadel, R|Further Comments on the KONUS Catalog|4
+1982M&P....27...63B|Bazilevski, A;Bobina, N;Shashkina, V;Shkuratov, Y;Kornienko, Y;Usikov, A;Stankevich, D|On Geological Processes on Venus. Analysis of the Relationship between Altitude and Degree of Surface Roughness|9
+1981Ap&SS..75......||Symposium on Cosmic Gamma-Ray Bursts, Toulouse, France, November 26-29, 1979, Proceedings|0
+1981Ap&SS..75....5K|Klebesadel, R;Evans, W;Laros, J|The LASL Gamma-Ray Burst Astronomy Program|5
+1981Ap&SS..75...35E|Evans, W;Fenimore, E;Klebesadel, R;Laros, J;Terrell, N|Gamma-Burst Observations from the Pioneer Venus Orbiter|10
+1981ApJ...245L..63L|Laros, J;Evans, W;Fenimore, E;Klebesadel, R;Barat, C;Hurley, K;Niel, M;Vedrenne, G;Estulin, I;Zenchenko, V|Location of the 1979 April 6 gamma-ray burst|34
+1981GeoRL...8..517L|Luhmann, J;Elphic, R;Russell, C;Slavin, J;Mihalov, J|Observations of large scale steady magnetic fields in the nightside Venus ionosphere and near wake|43
+1981Natur.289...42F|Fenimore, E;Evans, W;Klebesadel, R;Laros, J;Terrell, J|Spectral evolution of the 5 March 1979 γ burst|17
+1980GeoRL...7..917L|Luhmann, J;Elphic, R;Russell, C;Mihalov, J;Wolfe, J|Observations of large scale steady magnetic fields in the dayside Venus ionosphere|80
+1980ITGRS..18...76K|Klebesadel, R;Evans, W;Glore, J;Spalding, R;Wymer, F|The Pioneer Venus Orbiter Gamma Burst Detector|8
+1980JGR....85.7575C|Colin, L|The Pioneer Venus Program|96
+1980Natur.285..383T|Terrell, J;Evans, W;Klebesadel, R;Laros, J|Periodicity of the γ-ray transient event of 5 March 1979|37
+1980Natur.286..784E|Evans, W;Klebesadel, R;Laros, J;Terrell, J;Kane, S|γ-Ray burst observations from the UCB/LASL experiment on ISEE-3|8
+1979GeoRL...6..341C|Cravens, T;Nagy, A;Brace, L;Chen, R;Knudsen, W|The energetics of the ionosphere of Venus: A preliminary model based on Pioneer Venus observations|36
+1979PAZh....5..588V|Vedrenne, G;Zenchenko, V;Kurt, V;Niel, M;Hurley, K;Estulin, I|Observations of the X-ray burster 0525.9-66.1|5
+1979Sci...205...41D|Donahue, T|Pioneer Venus Results: An Overview|11
+1979Sci...205...59S|Stewart, A;Barth, C|Ultraviolet Night Airglow of Venus|57
+1979Sci...205..119E|Evans, W;Glore, J;Klebesadel, R;Laros, J;Tech, E;Spalding, R|Gamma-Ray Burst Observations by Pioneer Venus Orbiter|17
+1977SSRv...20..265H|Hunten, D;McGill, G;Nagy, A|Current Knowledge of Venus|10
+1977SSRv...20..451.||Pioneer Venus experiment descriptions|0
+1974LAstr..88..285D|Dragesco, J|L'actualité astronomique. Nouvelles conquêtes de l'astronomie spatiale : premiers résultats de Pioneer 10 et de Mariner 10|0

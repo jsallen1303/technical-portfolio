@@ -1,0 +1,10 @@
+1998ApJ...493..404A|Aptekar, R;Butterworth, P;Cline, T;Frederiks, D;Golenetskii, S;Il'inskii, V;Mazets, E;Stilwell, D;Terekhov, M|Hard X-Ray Bursts from GRO J1744-28. I. Observations by the Konus-Wind and Konus-A Experiments|11
+1998ApJ...493..408A|Aptekar, R;Butterworth, P;Cline, T;Frederiks, D;Golenetskii, S;Il'inskii, V;Mazets, E;Stilwell, D;Terekhov, M|Hard X-Ray Bursts from GRO J1744-128. II. Statistical Studies|3
+1997ApJ...491..697S|Seifert, H;Teegarden, B;Cline, T;Gehrels, N;Zand, J;Palmer, D;Ramaty, R;Hurley, K;Madden, N;Pehl, R|Transient Gamma-Ray Spectrometer Observation of the Bright Gamma-Ray Burst GRB 950822|3
+1997AstL...23..147A|Aptekar, R;Butterworth, P;Golenetskii, S;Il'Inskii, V;Cline, T;Mazets, E;Stillwell, D;Terekhov, M;Frederiks, D|Long-term activity of the bursting x-ray pulsar GRO J1744-28 from Konus-Wind and Konus-A observations|4
+1996A&AS..120C.283T|Teegarden, B;Cline, T;Gehrels, N;Hurley, K;Owens, A;Palmer, D;Ramaty, R;Seifert, H|TGRS occultation analysis of the Galactic center region.|1
+1996A&AS..120C.653S|Seifert, H;Teegarden, B;Cline, T;Gehrels, N;Hurley, K;Madden, N;Owens, A;Palmer, D;Pehl, R;Ramaty, R|Gamma-ray observations with the Transient Gamma-Ray Spectrometer (TGRS).|2
+1996ApJ...463L..75T|Teegarden, B;Cline, T;Gehrels, N;Palmer, D;Ramaty, R;Seifert, H;Hurley, K;Landis, D;Madden, N;Malone, D;Pehl, R;Owens, A|TGRS Observation of the Galactic Center Annihilation Line|20
+1995SSRv...71..265A|Aptekar, R;Frederiks, D;Golenetskii, S;Ilynskii, V;Mazets, E;Panov, V;Sokolova, Z;Terekhov, M;Sheshin, L;Cline, T;Stilwell, D|Konus-W Gamma-Ray Burst Experiment for the GGS Wind Spacecraft|161
+1991ITNS...38..559O|Owens, A;Baker, R;Cline, T;Gehrels, N;Jermakian, J;Nolan, T;Ramaty, R;Smith, G;Stilwell, D;Teegarden, B|The transient gamma-ray spectrometer|15
+1986AdSpR...6d..93T|Teegarden, B|Gamma-ray burst and spectroscopy instrumentation development at the goddard space flight center|0

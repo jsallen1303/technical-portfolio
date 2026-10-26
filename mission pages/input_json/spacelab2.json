@@ -1,0 +1,37 @@
+{
+  "title": "The Spacelab 2 Mission",
+  "name": "Spacelab 2",
+  "alttext": "artist concept of Spacelab 2",
+    "imagesize": 261,
+  "imageurl": "/Images/spacelab/spacelab_small.gif",
+    "descript": "<p><b><font size=\"+2\">S</font>pacelab 2</b> was flown aboard the Space Shuttle <i>Challenger</i> (STS-51F) from 29 July&ndash;6 August 1985. One of the scientific experiments aboard the pallet was an X-ray telescope (XRT). While the Shuttle failed to get to the intended orbit because of a premature main engine shutdown, this did not seem to affect the XRT performance.</p>",
+    "lifetime": "29 Jul&ndash;6 Aug 1985",
+    "decade" : 1980,
+    "features": [
+	"First orbiting instrument to make images directly at high energies"
+    ],
+    "instruments": [
+	{
+	    "name" : "X-ray Telescope",
+	    "energy" : "2.5&ndash;25 keV",
+	    "fov" : "6&deg; &times; 6&deg;",
+	    "length" : "3 m",
+	    "resolution" : "3&prime; FWHM (high resolution mask)<br>12&prime; FWHM (low resolution mask)",
+	    "descript" : "The Spacelab XRT, developed by the University of Birmingham, used a coded mask technique to make images. The instrument consisted of 2 co-aligned telescopes mounted together on an alt- azimuth system carried in the Space Shuttle payload bay. The main elements of each telescope were a gold coated coded mask in which the opaque elements occupied &sim;50% of the mask area, supported about 3 m from a position sensitive proportional counter. The 2 masks had different sized holes, producing different angular resolutions of the sky. The higher resolution telescope was used to make detailed studies of the brighter sources and the other telescope was used to look at fainter regions of diffuse emission."
+	}
+    ],
+    "highlights": [
+	"Over 75 hours of data were obtained including observations of 8 galactic clusters, the galactic center region, and the Vela SNR."
+    ],
+  "archive": "",
+  "navigation": [
+    {
+      "url": "images/spacelab_images.html",
+      "text": "Gallery"
+    },
+    {
+      "url": "biblio/spacelab_biblio.html",
+      "text": "Publications"
+    }
+  ]
+}

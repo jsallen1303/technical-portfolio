@@ -1,0 +1,64 @@
+1996AdSpR..17b..47T|Tylka, A;Boberg, P;Adams, J|Let spectra of trapped anomalous cosmic rays in low-Earth orbit|7
+1996AdSpR..17b.133G|Gorchakov, E;Mineev, Y|The connection of solar wind velocity with an intensity of energetic electrons trapped by geomagnetic field|1
+1996AdSpR..17b.175M|Mineev, Y;Elizarov, S|A study of radial diffusion of energetic electrons in the earth's radiation belts: data satellite ``cosmos-1686''|0
+1996AdSpR..17j.141D|Deminov, M;Karpachev, A;Annakuliev, S;Afonin, V;Smilauer, Y|Dynamics of the ionization troughs in the night-time subauroral F-region during geomagnetic storms|12
+1996AdSpR..18f.221K|Karpachev, A;Deminov, M;Afonin, V|Model of the mid-latitude ionospheric trough on the base of Cosmos-900 and Intercosmos-19 satellites data|28
+1995AdSpR..15a..69B|Beaujean, R|Temporal variation of the oxygen flux in the inner magnetosphere.|0
+1995AdSpR..15l..95B|Baranets, N;Gladyshev, V;Afonin, V|Effect of HF emission of the topside sounder transmitter aboard the COSMOS-1809 satellite on the ionospheric plasma|0
+1995Sci...270..734H|Hellemans, A|Satellite Offers a View of the Coolest Objects in the Cosmos|0
+1992CeMDA..54..363G|Gilthorpe, M;Moore, P|A combined theory for zonal harmonic and resonance perturbations of a near-circular orbit with applications to COSMOS 1603 (1984-106A)|3
+1992P&SS...40..847B|Brookes, C|Variation in eccentricity for the orbit of cosmos 373, 1970-87A|2
+1991ApJ...375L..45A|Adams, J;Garcia-Munoz, M;Grigorov, N;Klecker, B;Kondratyeva, M;Mason, G;McGuire, R;Mewaldt, R;Panasyuk, M;Tretyakova, C;Tylka, A;Zhuravlev, D|The Charge State of the Anomalous Component of Cosmic Rays|56
+1991ApJ...379..621H|Hodge, P;Smith, T;Eskridge, P;MacGillivray, H;Beard, S|A COSMOS Study of the Structure and Content of NGC 6822|40
+1991Ge&Ae..31.1096G|Grafodatskii, O;Darchieva, L;Ivanova, T;Rubinshtein, I;Sosnovets, E;Tverskaia, L|Observation of a diffusion wave of energetic electrons of the outer radiation belt in June 1986|0
+1990Ge&Ae..30.1039G|Gorchakov, E;Afanas'ev, K;Iozenas, V;Ternovskaia, M|Flux variations of high-energy electrons and protons in the stratosphere and at a height of 500 KM|1
+1989Ge&Ae..29.1018G|Grigorov, N;Zhuravlev, D;Kondrat'eva, M;Tret'iakova, C|The charge state of anomalous oxygen of cosmic rays.|1
+1989PZETF..49..192I|Ivanenko, I;Rapoport, I;Shestoperov, V;Basina, I;Vakulov, P|Energy spectrum of primary cosmic ray particles with energies of 1-100 TeV from the SOKOL instrument data|2
+1989PZETF..49..246G|Grigorov, N|Charge distribution of cosmic rays at an energy above 1 TeV|0
+1988PAZh...14..594B|Bachilova, R;Bloch, G;Pankov, V;Prohin, V;Rutkovsky, A;Rumin, S|The search for gamma-rays of supernova 1987A in the experiment on orbital complex "SALUT-7" - "COSMOS 1686".|1
+1988PZETF..48..468I|Ivanenko, I;Rapoport, I;Shestoperov, V;Basina, I;Vakulov, P|Energy spectrum and charge composition of primary cosmic rays with energies greater than 2 TeV|2
+1987A&A...182L...8A|Albers, H;MacGillivray, H;Beard, S;Chromey, F|Detection of shell-like features in the north-eastern halo of the Small Magellanic Cloud.|7
+1987A&A...183L...9C|Corso, G;Harris, R;Ringwald, F|Status of the Perseus optical flasher|3
+1987ApJ...317L..39M|Maley, P|Specular Satellite Reflection and the 1985 March 19 Optical Outburst in Perseus|17
+1987Ge&Ae..27..492V|Voronov, S;Gal'Per, A;Kirillov-Ugriumov, V;Koldashov, S;Popov, A|High-energy electrons and positrons in the earth's radiation belt.|0
+1986ZhPmR..44..200I|Ivanenko, I;Grigorov, N;Shestoperov, V;Basina, I;Vakulov, P|Multiply charged particles of the primary cosmic rays with energies greater than about 2 TeV|0
+1985Ge&Ae..25..738G|Gorchakov, E;Iozenas, V;Ternovskaia, M;Ignatev, P;Afanasev, V|Injection of hard electrons into the outer radiation belt during magnetic storms|5
+1984ApJ...284...98R|Reid, N;Mould, J|The evolution of asymptotic giant branch stars in the Large Magellanic Cloud.|68
+1984Ge&Ae..24..812B|Bratoliubova-Tsulukidze, L;Volodichev, N;Nechaev, O;Savenko, I;Suslov, A;Shavrin, P|Measurement of the streams of energetic protons and electrons at two oppositely directed spectrometers at the Cosmos 368 artificial earth satellite.|0
+1984JBIS...37..320C|Clark, D|The cosmos from space.|0
+1983AN....304..317M|Mioc, V|Values of the atmospheric density at 280 KM obtained from spin drag data of COSMOS 54 rocket|0
+1983BAICz..34...54S|Sehnal, L|Upper atmosphere density from the motion of the ANS satellite.|3
+1983Ge&Ae..23..407I|Ilin, V;Ilina, A|On stochastic instability of high-energy protons of the inner radiation belt at low altitudes.|0
+1983Ge&Ae..23..894B|Bratoliubova-Tsulukidze, L;Volodichev, N;Nechaev, O;Savenko, I;Suslov, A;Shavrin, P|Observations of protons with energies E<SUB>p</SUB> ≥ 100 MeV and electrons with E<SUB>e</SUB> ≥ 20 MeV at the oriented ASE Cosmos 208 and Cosmos 228.|0
+1982Ge&Ae..22..129B|Basilova, R;Kogan-Laskina, E;Pugacheva, G|Energy spectrum of quasi-trapped electrons in E approximately equal to or greater than 100 MeV determined on the basis of Cosmos-490 data|0
+1981M&P....24..349M|McCanney, J|Saturn's Sweeper Moons Predicted|2
+1980Ge&Ae..20..413I|Ilin, V;Ilina, A|Streams of high-energy protons in the earth's magnetosphere defined by a nonadiabatic loss mechanism.|0
+1980Ge&Ae..20..595K|Kuznetsov, S;Riumin, S;Terebukhovskaia, G|Surplus radiation from data of an experiment at the artificial earth satellite Cosmos 721.|1
+1979Ge&Ae..19..623G|Grigorian, O;Kuznetsov, S;Kovrygina, L;Sosnovets, E;Tverskaia, L|Experimental determination of the life time of electrons in the outer radiation belt.|0
+1979PAZh....5..317G|Galper, A;Luchkov, B|On the gamma-ray energy spectrum of the Seyfert galaxy NGC 4151.|2
+1978MNRAS.182..241B|Braid, M;MacGillivray, H|A finding list of southern clusters of galaxies - I.|22
+1978PAZh....4..349M|Mazets, E;Golenetskii, S;Aptekar, R;Iiinskii, V;Panov, V|On the intensity distribution of cosmic gamma-ray bursts.|10
+1977ApL....18..155M|Mazets, E;Golenetskii, S;Ilinskii, V|The Isotropic Metagalactic Background and the Galactic Gamma-Radiation in the 0.03-4.1 MeV Range from Kosmos 461|5
+1977CosRe..14..553B|Bakhshiian, B|Combinatorial method for the solution of the optimal correction of trajectory problem with a constraint on pulse count|0
+1977Ge&Ae..17..403K|Kuznetsov, S;Lopatina, G;Stolpovskii, V|The outer boundary of radiation belts from data of satellite Cosmos 426.|1
+1976PAZh....2...10B|Bratoliubova-Tsulukidze, L;Kudriavtsev, M;Melioranskii, A;Savenko, I;Iushkov, B|Cosmos 428 observations of hard X-rays from the galactic center.|1
+1976PAZh....2..182B|Bratoliubova-Tsulukidze, L;Kudriavtsev, M;Melioranskii, A;Savenko, I;Iushkov, B|Correlation of positions of hard X-ray sources with globular clusters.|0
+1976PAZh....2..482S|Shklovskii, I|On the nature of sources of bursts of hard X-ray emission.|0
+1976PAZh....2..563M|Mazets, E;Golenetskii, S;Ilinskii, V|The isotropic metagalactic background and galactic gamma-radiation in the 0.03 - 4.1 MeV range from Cosmos 461 measurements.|3
+1976SvAL....2....4B|Bratoliubova-Isulukidze, L;Kudriavtsev, M;Melioranskii, A;Savenko, I;Iushkov, B|Kosmos 428 observations of hard X rays from the galactic-center region|1
+1976SvAL....2...71B|Bratoliubova-Tsulukidze, L;Kudriavtsev, M;Melioranskii, A;Savenko, I;Iushkov, B|Correlation of hard X-ray source positions with globular clusters.|1
+1976SvAL....2..223M|Mazets, E;Golenetskii, S;Ilinskii, V|The isotropic metagalactic background and galactic gamma rays in the 0.03-4.1 MeV range from Kosmos 461 measurements|1
+1975Ap&SS..33..347M|Mazets, E;Golenetskii, S;Ilinskii, V;Gurian, I;Kharitonova, T|Diffuse Cosmic Gamma-Ray Background in the 28 keV-4. 1 MeV Range from Kosmos 461 Observations|36
+1975Ge&Ae..15..733S|Shafer, I;Prokopev, S;Skriabin, N;Salimzibarov, R|Secondary-particle flux in spacecraft material|0
+1975Ge&Ae..15..930P|Petrova, I|The spectrum of generation of high-energy particles on the sun during the flare of September 1, 1971.|0
+1975Ge&Ae..15..970O|Odintsova, I;Leshchenko, L;Firsov, V|On streams of short-wave radiation of the quiet sun.|0
+1975Ge&Ae..15.1083G|Gorchakov, E;Timofeev, G;Morozova, T|Energetic dependence of the mean free path for scattering of cosmic rays.|2
+1975KosLu..15...15G|Golynskaia, R;Belenkaia, B;Skorokhod, E;Savun, O|Detection of the periods of particle oscillations in the radiation belts from Cosmos 137 data.|1
+1975PAZh....1....6B|Babushkina, O;Bratoliubova-Tsulukidze, L;Izrailovich, R;Kudriavtsev, M;Melioranskii, A;Savenko, I;Shamolin, V|Hard X-ray bursts in the energy range of 40 - 290 keV.|3
+1975PAZh....1....9B|Bratoliubova-Tsulukidze, L;Kudriavtsev, M;Melioranskii, A;Savenko, I;Iushkov, B|Observations of hard X-ray emission of 3U 1700-37 by the satellite Cosmos 428.|3
+1975PAZh....1...20B|Babushkina, O;Bratoliubova-Tsulukidze, L;Kudriavtsev, M;Melioranskii, A;Savenko, I;Iushkov, B|Bursts of hard X-ray radiation on June 25 and 26, 1971.|5
+1975SvAL....1...32B|Babushkina, O;Kudriavtsev, M;Melioranskii, A;Savenko, I;Iushkov, B;Bratoliubova-Tsulukidze, L|Hard X-ray bursts in June 1971|29
+1975SvAL....1..115B|Babushkina, O;Bratoliubova-Tsulukidze, L;Izrailovich, R;Kudriavtsev, M;Melioranskii, A;Savenko, I;Shamolin, V|Hard X-ray bursts at 40-290 keV|3
+1975SvAL....1..236B|Bratoliubova-Tsulukidze, L;Kudriavtsev, M;Melioranskii, A;Savenko, I;Iushkov, B|Hard X-rays from 3U 1700-37 observed with Kosmos 428.|4
+1975ZhPmR..21..729B|Beliaevskii, A;Bokov, V;Bocharkin, V;Bugakov, I;Gorodinskii, G;Derevitskii, I;Kruglov, E;Piatigorskii, G;Chuikin, E|Search for flashes of cosmic gamma rays at photon energies of at least 100 MeV|0
+1974ZhPmR..20...77M|Mazets, E;Golenetskii, S;Ilinskii, V;Gurian, I;Kharitonova, T|Investigations of diffuse cosmic gamma radiation in the range 28 keV-4.1 MeV|0

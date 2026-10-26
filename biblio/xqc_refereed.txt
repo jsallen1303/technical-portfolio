@@ -1,0 +1,23 @@
+2017ApJ...834...33L|Liu, W;Chiao, M;Collier, M;Cravens, T;Galeazzi, M;Koutroumpa, D;Kuntz, K;Lallement, R;Lepri, S;McCammon, D;Morgan, K;Porter, F;Snowden, S;Thomas, N;Uprety, Y;Ursino, E;Walsh, B|The Structure of the Local Hot Bubble|22
+2016ApJ...829...83U|Uprety, Y;Chiao, M;Collier, M;Cravens, T;Galeazzi, M;Koutroumpa, D;Kuntz, K;Lallement, R;Lepri, S;Liu, W;McCammon, D;Morgan, K;Porter, F;Prasai, K;Snowden, S;Thomas, N;Ursino, E;Walsh, B|Solar Wind Charge Exchange Contribution to the ROSAT All Sky Survey Maps|4
+2015ApJ...806..119S|Snowden, S;Heiles, C;Koutroumpa, D;Kuntz, K;Lallement, R;McCammon, D;Peek, J|Revisiting the Local Leo Cold Cloud and Revised Constraints on the Local Hot Bubble|9
+2014ApJ...791L..14S|Snowden, S;Chiao, M;Collier, M;Porter, F;Thomas, N;Cravens, T;Robertson, I;Galeazzi, M;Uprety, Y;Ursino, E;Koutroumpa, D;Kuntz, K;Lallement, R;Puspitarini, L;Lepri, S;McCammon, D;Morgan, K;Walsh, B|Pressure Equilibrium between the Local Interstellar Clouds and the Local Hot Bubble|17
+2014PhRvA..89d2705F|Fogle, M;Wulf, D;Morgan, K;McCammon, D;Seely, D;Draganic, I;Havener, C|X-ray-emission measurements following charge exchange between C<SUP>6+</SUP> and H2|16
+2013PhRvA..88e2702D|Defay, X;Morgan, K;McCammon, D;Wulf, D;Andrianarijaona, V;Fogle, M;Seely, D;Draganic, I;Havener, C|X-ray emission measurements following charge exchange between C<SUP>6+</SUP> and He|10
+2012AN....333..383G|Galeazzi, M;Collier, M;Cravens, T;Koutroumpa, D;Kuntz, K;Lepri, S;McCammon, D;Porter, F;Prasai, K;Robertson, I;Snowden, S;Thomas, N;Uprety, Y|Solar wind charge exchange and local hot bubble X-ray emission with the DXL sounding rocket experiment|6
+2011ExA....32...83G|Galeazzi, M;Chiao, M;Collier, M;Cravens, T;Koutroumpa, D;Kuntz, K;Lepri, S;McCammon, D;Porter, F;Prasai, K;Robertson, I;Snowden, S;Uprety, Y|DXL: a sounding rocket mission for the study of solar wind charge exchange and local hot bubble X-ray emission|12
+2008ApJ...674..258E|Everett, J;Zweibel, E;Benjamin, R;McCammon, D;Rocks, L;Gallagher, J|The Milky Way's Kiloparsec-Scale Wind: A Hybrid Cosmic-Ray and Thermally Driven Outflow|188
+2003JAP....93.4856G|Galeazzi, M;McCammon, D|Microcalorimeter and bolometer model|50
+2002AIPC..605..473G|Galeazzi, M;Becchetti, F;Guimaraes, V;Kolata, J;Lee, M;McCammon, D;O'Donnell, T;Peterson, D;Santi, P;Roberts, D;Shaheen, S;Ternovan, C;Voytas, P|Direct measurement of the L/K ratio in the electron capture decay of <SUP>7</SUP>Be with cryogenic micro-calorimeters|0
+2002AIPC..605..551P|Piro, L;Colasanti, L;Costa, E;Gandolfi, G;Soffitta, P;Gatti, F;Pergolesi, D;Razeti, M;Vaccarone, R;Testera, G;Pallavicini, M;Ferrari, A;Trussoni, E;Orio, M;McCammon, D;Sanders, W;Galeazzi, M;Szymkowiak, A;Porter, F;Kelley, R|High resolution spectroscopy of the X-ray emission of GRBs by IMXS-BOSS on the ISS|1
+2000ApJ...545..290A|Almy, R;McCammon, D;Digel, S;Bronfman, L;May, J|Distance Limits on the Bright X-Ray Emission Toward the Galactic Center: Evidence for a Very Hot Interstellar Medium in the Galactic X-Ray Bulge|37
+1997ApJ...485..125S|Snowden, S;Egger, R;Freyberg, M;McCammon, D;Plucinsky, P;Sanders, W;Schmitt, J;Trumper, J;Voges, W|ROSAT Survey Diffuse X-Ray Background Maps. II.|466
+1996ApJ...463..224P|Plucinsky, P;Snowden, S;Aschenbach, B;Egger, R;Edgar, R;McCammon, D|ROSAT Survey Observations of the Monogem Ring|38
+1996ApJ...468..102C|Cui, W;Sanders, W;McCammon, D;Snowden, S;Womble, D|Diffuse Soft X-Ray Emission from Several Nearby Spiral Galaxies|21
+1996NIMPA.370..266M|McCammon, D;Almy, R;Deiker, S;Morgenthaler, J;Kelley, R;Marshall, F;Moseley, S;Stahle, C;Szymkowiak, A|A sounding rocket payload for X-ray astronomy employing high-resolution microcalorimeters|39
+1994ApJ...430..601S|Snowden, S;Hasinger, G;Jahoda, K;Lockman, F;McCammon, D;Sanders, W|Soft X-Ray and H i Surveys of the Low N H Region in Ursa Major|62
+1986ApJ...311L..57J|Jahoda, K;McCammon, D;Lockman, F|Small-Scale H i Structure and the Soft X-Ray Background|18
+1985ApJ...290..229J|Jahoda, K;McCammon, D;Dickey, J;Lockman, F|High-latutude HI structure and the soft X-ray background.|39
+1984ApJ...287..167M|McCammon, D;Sanders, W|Limits on diffuse X-ray emission from M 101.|40
+1983ApJ...269..107M|McCammon, D;Burrows, D;Sanders, W;Kraushaar, W|The soft X-ray diffuse background.|305
+1971ApJ...167L...3B|Bunner, A;Coleman, P;Kraushaar, W;McCammon, D|Low-Energy Diffuse X-Rays|60

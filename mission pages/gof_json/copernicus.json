@@ -1,0 +1,65 @@
+{
+    "title": "The Copernicus Satellite",
+    "name": "The Copernicus Satellite (OAO-3)",
+    "alttext": "Photograph of Copernicus satellite in the clean room",
+    "imagesize": 136,
+    "imageurl": "/Images/oao3/oao3_small2.gif",
+    "descript": "<p><b><font size=\"+2\">C</font>opernicus, or Orbiting Astronomical Observatory 3 (OAO-3)</b> was a collaborative effort between the USA (NASA) and the UK (SERC). The main experiment on board was the Princeton University UV telescope, but it also carried an X-ray astronomy experiment developed by the University College London/Mullard Space Science Laboratory.</p>",
+    "decade" : 1970,
+    "gifsidebar" : "Past",
+    "lifetime": "21 Aug 1972&ndash;Feb 1981",
+    "features": [
+	"The three proportional counters were also equipped with a six channel pulse height analyzer for obtaining coarse X-ray spectra. All instruments (X-ray and UV) were co-aligned.",
+	"First multi-wavelength NASA mission (UV and X-ray instruments on the same satellite)"
+    ],
+    "instruments": [
+	{
+	    "name" : "University College London X-ray Experiment (UCLXE) telescope",
+	    "energy" : "0.7&ndash;1.5 keV (low energy)<br>1.4&ndash;4.2 keV (high energy)",
+	    "wavelength" : "6&ndash;18 &Aring; (low energy)<br>3&ndash;9 &Aring; (high energy)",
+	    "fov" : "1&ndash;12&prime; (variable)",
+	    "area" : "1.0&ndash;12.3 cm<sup>2</sup> (variable)", 
+	    "descript" : "Two proportional counters (one each of low and high energy) and a channel photomultipier (&ldquo;channeltron&rdquo;), each with Wolter type 0 grazing incidence X-ray mirrors."
+	},
+	{
+	    "name" : "University College London X-ray Experiment (UCLXE) proportional counter",
+	    "energy" : "2.5&ndash;10 keV",
+	    "wavelength" : "1&ndash;5 &Aring;",
+	    "fov" : "2.5&deg; &times; 3.5&deg; (collimator)",
+	    "area" : "17.8 cm<sup>2</sup>",
+	    "sensitivity" : "&sim;3 mCrab",
+	    "descript" : "The primary X-ray instrument was a proportional counter with collimator and no X-ray optics"
+	},
+	{
+	    "name" : "Princeton Experiment Package",
+	    "wavelength" : "900&ndash;1560 &Aring; (near UV)<br>1650&ndash;3150 &Aring; (far UV)",
+	    "descript" : "An 80 cm diameter UV telescope built by Princeton University under the supervision of Lyman Spitzer"
+	}
+    ],
+    "highlights": [
+	"Discovery of several long period pulsars (e.g. &Chi; Per)",
+	"Discovery of absorption dips in Cyg X-1",
+	"Long-term monitoring of pulsars and other bright X-ray binaries",
+	"Observed rapid intensity variability from Cen A"
+    ],
+  "archive": "The HEASARC hosts the raw data in FITS format from UCLXE.",
+    "navigation": [
+	{
+	    "url" : "https://heasarc.gsfc.nasa.gov/docs/copernicus/copernicus.html",
+	    "text" : "Copernicus at HEASARC"
+	},
+	{
+	    "url" : "https://heasarc.gsfc.nasa.gov/docs/copernicus/copernicus_about.html",
+	    "text" : "More about Copernicus"
+	},
+	{
+	    "url" : "https://heasarc.gsfc.nasa.gov/docs/copernicus/copernicus_images.html",
+	    "text" : "Gallery"
+	},
+	{
+	    "url" : "https://heasarc.gsfc.nasa.gov/docs/copernicus/bib/copernicus_biblio.html",
+	    "text" : "Publications"
+	}
+    ]
+    "goffooter" : "/docs/copernicus/copernicus_footer.html"
+}

@@ -1,0 +1,24 @@
+This directory contains python code for make HTML mission pages from template and .json format descriptors
+
+write_html.py           Python code. Reads all .json files in input_json/ and uses
+                        a Jinga Flash template to generate HTML files. All files
+                        are written to static_output/
+
+missions_template.html  Jinga Flask template file for placing .json settings into HTML
+
+templates/              Other example Flash HTML templates for rapid prototyping
+
+blank.json              Example .json with all supported settings (no content)
+
+input_json/             Complete set of all mission (except GOF pages) .json settings
+
+gof_json/               Complete set of all mission GOF page .json settings
+
+
+HOW TO USE
+
+Clone to your local system, then run the code
+
+% python ./write_html.py
+
+The resulting output files can be copied to the SED gitlab for uswds-static-output.

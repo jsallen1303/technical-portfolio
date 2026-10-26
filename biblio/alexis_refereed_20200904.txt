@@ -1,0 +1,3 @@
+1998PhDT........14W|Warren, J|The Extreme Ultraviolet Problem of Cataclysmic Variables|1
+1997PhDT........28C|Cully, S|Extreme Ultraviolet Observations of Stellar Flares|1
+1990OptEn..29..592S|Smith, B;Bloch, J;Roussel-Dupre, D|Metal multilayer mirrors for EUV/ultrasoft X-ray wide-field telescopes.|10

@@ -1,0 +1,12 @@
+1995sowi.conf...46G|Gosling, J;Birn, J;McComas, D;Phillips, J;Hesse, M|Open and disconnected magnetic field lines within coronal mass ejections in the solar wind: Evidence for 3-dimensional reconnection|2
+1992AAS...180.4102L|Lee, T;Petrosian, V|The Distribution of Flare Parameters and Coronal Heating|1
+1992AAS...180.4107B|Bromund, K;McTiernan, J;Kane, S;Loran, J;Asztalos, B|Variation of Hard X-Ray Flare Characteristics Observed by ISEE-3/ICE during Solar Cycle 21|0
+1991ucb..rept.....A|Anderson, K|Measurements of the spatial structure and directivity of 100 KeV photon sources in solar flares using PVO and ISEE-3 spacecraft|0
+1990cpmd.rept.....I|Ipavich, F|The Joint NASA/Goddard-University of Maryland Research Program in Charged Particle and High Energy Photon Detector Technology|0
+1986sfcp.nasa..146L|Lin, H;Lin, R|The heating of the thermal plasma with energetic electrons in small solar flares|0
+1983ICRC...10..361T|Trottet, G;Kerdraon, A;Klein, L;Lantos, P;Pick, M;Vilmer, N|Observational evidence of continuous input of energetic electrons in the corona during large solar flares.|0
+1982MmSAI..53.1049F|Ferrari, A|Magnetic fields in galactic jets|0
+1982sofl.symp...89K|Kane, S|Solar Flare Results from the ISEE-3 X-Ray Spectrometer|0
+1980IAUS...91..227K|Kane, S|Recent observations of energetic electrons in solar flares|0
+1979IAUC.3356....1E|Evans, D;Kiebesadel, R;Baros, J;Cline, T;Desai, U;Teegarden, B;Pizzichini, G;Hurley, K;Niel, M;Vedrenne, G;Estulin, I;Mazets, E|Gamma-ray Burst 79-03-05|14
+1975esm..meet...93B|Bonnet, R|Future programs in solar physics from space|0

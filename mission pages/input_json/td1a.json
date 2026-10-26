@@ -1,0 +1,50 @@
+{
+    "title": "The Thor-Delta rocket system satellite 1A",
+    "name": "TD-1A",
+    "decade": 1970,
+    "alttext": "Photo of TD-1A",
+    "imagesize": 300,
+    "imageurl": "/Images/misc_missions/td-1a_small.gif",
+    "descript": "<p><b><font size=\"+2\">T</font>he Thor-Delta 1A (TD-1A)</b> satellite was the first of a series of rocket system mission that became known as the TD satellites. TD-1A was successfully launched on 11 March 1972 from Vandenberg Air Force Base. It was put in a nearly circular polar sun-synchronous orbit, with apogee 545 km, perigee 533 km, and inclination 97.6 degrees. It was Europe&rsquo;s first 3-axis stabilized satellite, with one axis pointing to the Sun to within &plusmn; degrees. The optical axis was maintained perpendicular to the solar pointing axis and to the orbital plane. It scanned the entire celestial sphere every 6 months, with a great circle being scanned every satellite revolution. After about 2 months of operation, both of the satellite's tape recorders failed. A network of ground stations was put together so that real-time telemetry from the satellite was recorded for about 60% of the time. After 6 months in orbit, the satellite entered a period of regular eclipses as the satellite passed behind the Earth -- cutting off sunlight to the solar panels. The satellite was put into hibernation for 4 months, until the eclipse period passed, after which systems were turned back on and another 6 months of observations were made. TD-1A was primarily a UV mission however it carried both a cosmic X-ray and a gamma-ray detector. </p>",
+    "lifetime": "1972&ndash;1973",
+    "features": [],
+    "instruments": [
+	{
+	    "name" : "X-ray Detector",
+	    "energy" : "3&ndash;30 keV",
+	    "area" : "100 cm<sup2</sup>",
+	    "descript" : "When switched on, the X-ray detector caused abnormal readouts in the satellite&rsquo;s telemetry. Therefore it was switched off and remained that way for the duration of the remaining mission."
+	},
+	{
+	    "name" : "MIMOSA",
+	    "energy" : "70&ndash;300 MeV",
+	    "descript" : "A small spark chamber experiment  for observations of gamma-rays. The instrument was equipped with a stereoscopic TV system viewing through the chamber portholes to record the particle tracks. It operated from March-October 1972. There was a significant particle-induced background, despite an anti-coincidence system. Numerous gamma-rays were detected, but no gamma-ray point sources could be identified."
+	},
+	{
+	    "name" : "The Utrecht Orbiting Ultraviolet Stellar Spectrometer S59 ",
+	    "wavelength" : "2100&ndash;2800 &Aring;",
+	    "descript" : "S59 used a small telescope and a three-slit scanner covering three UV spectral bands. About 200 bright stars were observed by the instrument and were later published in a catalog. "
+	},
+	{
+	    "name" : "S2/68 Spectrophotometric Sky Survey Telescope",
+	    "wavelength" : "1350&ndash;2550 &Aring;",
+	    "descript" : "The sky survey telescope was developed jointly by the UK and Belgium. This experiment used an off-axis reflecting telescope to focus radiation onto a set of entrance slits. These in turn fed a photometer and a three-channel spectrophotometer. The light falling on the spectrophotometer entrance slit was reflected onto a diffraction grating, and the dispersed light then passed through one of three slits and then onto individual photomultipliers. The orbital motion of the satellite caused the dispersed beam to scan across the exit slits."
+	}
+    ],
+  "highlights": [],
+  "archive": "",
+  "navigation": [
+    {
+      "url": "images/td1a_images.html",
+      "text": "Gallery"
+    },
+    {
+      "url": "biblio/td1a_biblio.html",
+      "text": "Publications"
+    },
+    {
+      "url": "biblio/browse_archive.html",
+      "text": "HEASARC TD-1A Catalog"
+    }
+  ]
+}

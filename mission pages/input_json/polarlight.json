@@ -1,0 +1,32 @@
+{
+  "title": "PolarLight",
+  "name": "PolarLight",
+  "alttext": "Diagram of PolarLight in its Cubesat",
+  "imagesize": 279,
+  "imageurl": "/Images/misc_missions/20181229a_sm.jpg",
+    "descript": "<p><b><font size=\"+2\">T</font>he Polarimeter Light (PolarLight)</b> mission was a technology demonstration instrument on-board a CubeSat named Tongchuan-1 (or Zhaojin 1 (TY 4&ndash;02)). It used a gas pixel detector sensitive to polarized X-ray light. The satellite was launched into a sun synchronous polar orbit on October 28, 2018. The mission was led by the China Center for Astrophysics at Tsinghua University in Beijing, China.</p>\n\n<p>The satellite reentered the Earth&rsquo;s atmosphere in early January 2025.",
+      "decade": 2010,
+  "lifetime": "Oct 2018&ndash;Jan 2025",
+  "features": "",
+    "instruments": [
+	{
+	    "name" : "Gas Pixel Detector (GPD)",
+	    "energy" : "2&ndash;8 keV",
+	    "energy_resolution" : "&sim;16% E/&Delta;E at 6 keV (FWHM)",
+	    "fov" : "&sim;2.3&deg (FWHM)",
+	    "area" : "1.64 mm<sup>2</sup> (1.4&times;1.4 mm)",
+	    "time_resolution" : "1&micro;s",
+	    "descript" : "The GPD instrument was filled with dimethyl ether at approximately 0.8 atmosphere pressure, and sealed with a 100 micron thick beryllium window. It used a capillary plate collimator made of lead glass. The detector was mounted on a 6U size Cubesat for supporting electronics, power supply, data recording, and solar panels."
+	}
+    ],
+    "highlights": [
+	"The GPD instrument produced preliminary results from observations of the Crab and Sco X-1 sources."
+    ],
+  "archive": "",
+  "navigation": [
+    {
+      "url": "biblio/polarlight_biblio.html",
+      "text": "Publications"
+    }
+  ]
+}

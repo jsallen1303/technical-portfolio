@@ -1,0 +1,19 @@
+2019ApJ...884..120W|Wulf, D;Eckart, M;Galeazzi, M;Jaeckel, F;Kelley, R;Kilbourne, C;Morgan, K;Porter, F;McCammon, D;Szymkowiak, A|A High Spectral Resolution Study of the Soft X-Ray Background with the X-Ray Quantum Calorimeter|0
+2018JCAP...10..007M|Mahdawi, M;Farrar, G|Constraints on Dark Matter with a moderately large and velocity-dependent DM-nucleon cross-section|33
+2018PhDT........80W|Wulf, D|A Spectral Study of the Soft X-Ray Background with the X-Ray Quantum Calorimeter|0
+2018SSRv..214...44L|Lopez, L;Fesen, R|The Morphologies and Kinematics of Supernova Remnants|18
+2017JCAP...12..004M|Mahdawi, M;Farrar, G|Closing the window on ~GeV Dark Matter with moderate (~μb) interaction with nucleons|24
+2014PhRvA..89d2705F|Fogle, M;Wulf, D;Morgan, K;McCammon, D;Seely, D;Draganic, I;Havener, C|X-ray-emission measurements following charge exchange between C<SUP>6+</SUP> and H2|16
+2013PhRvA..88e2702D|Defay, X;Morgan, K;McCammon, D;Wulf, D;Andrianarijaona, V;Fogle, M;Seely, D;Draganic, I;Havener, C|X-ray emission measurements following charge exchange between C<SUP>6+</SUP> and He|10
+2012ApJ...758..143C|Crowder, S;Barger, K;Brandl, D;Eckart, M;Galeazzi, M;Kelley, R;Kilbourne, C;McCammon, D;Pfendner, C;Porter, F;Rocks, L;Szymkowiak, A;Teplin, I|Observed Limits on Charge Exchange Contributions to the Diffuse X-Ray Background|10
+2008JLTP..151..715M|McCammon, D;Barger, K;Brandl, D;Brekosky, R;Crowder, S;Gygax, J;Kelley, R;Kilbourne, C;Lindeman, M;Porter, F;Rocks, L;Szymkowiak, A|The X-ray Quantum Calorimeter Sounding Rocket Experiment: Improvements for the Next Flight|15
+2008PhRvD..77f5002K|Khlopov, M;Kouvaris, C|Strong interactive massive particles from a strong coupled theory|87
+2007APh....28..303B|Boyarsky, A;den Herder, J;Neronov, A;Ruchayskiy, O|Search for the light dark matter with an X-ray spectrometer|74
+2007PhRvD..76d2007E|Erickcek, A;Steinhardt, P;McCammon, D;McGuire, P|Constraints on the interactions between dark matter and baryons from the x-ray quantum calorimetry experiment|59
+2003JAP....93.4856G|Galeazzi, M;McCammon, D|Microcalorimeter and bolometer model|50
+2002AIPC..605..473G|Galeazzi, M;Becchetti, F;Guimaraes, V;Kolata, J;Lee, M;McCammon, D;O'Donnell, T;Peterson, D;Santi, P;Roberts, D;Shaheen, S;Ternovan, C;Voytas, P|Direct measurement of the L/K ratio in the electron capture decay of <SUP>7</SUP>Be with cryogenic micro-calorimeters|0
+2002ApJ...576..188M|McCammon, D;Almy, R;Apodaca, E;Bergmann Tiest, W;Cui, W;Deiker, S;Galeazzi, M;Juda, M;Lesser, A;Mihara, T;Morgenthaler, J;Sanders, W;Zhang, J;Figueroa-Feliciano, E;Kelley, R;Moseley, S;Mushotzky, R;Porter, F;Stahle, C;Szymkowiak, A|A High Spectral Resolution Observation of the Soft X-Ray Diffuse Background with Thermal Detectors|255
+2000NIMPA.444..175P|Porter, F;Almy, R;Apodaca, E;Figueroa-Feliciano, E;Galeazzi, M;Kelley, R;McCammon, D;Stahle, C;Szymkowiak, A;Sanders, W|Observations of the soft X-ray background with the XQC microcalorimeter sounding rocket|7
+1999PhDT.........2D|Deiker, S|High-resolution spectroscopy of the diffuse x-ray background using an array of microcalorimeters|1
+1996NIMPA.370..266M|McCammon, D;Almy, R;Deiker, S;Morgenthaler, J;Kelley, R;Marshall, F;Moseley, S;Stahle, C;Szymkowiak, A|A sounding rocket payload for X-ray astronomy employing high-resolution microcalorimeters|39
+1989NIMPA.277..657S|Silver, E;Labov, S;Goulding, F;Madden, N;Landis, D;Beeman, J|A new microcalorimeter concept for photon counting x-ray spectroscopy|12

@@ -1,0 +1,38 @@
+{
+    "title": "The Spartan 1 Mission",
+    "name": "Spartan 1",
+    "alttext": "photo of Spartan 1 in the shuttle bay",
+    "imagesize": 242,
+    "imageurl": "/Images/spartan/spartan1_cargo_small.gif",
+    "descript": "<p><b><font size=\"+2\">S</font>partan 1</b> was the first in NASA&rsquo;s Spartan program based on the idea of a simple, low-cost platform deployed from a space shuttle in orbit for a 2&ndash;3 day flight, then recovered and returned to Earth. The platform allows the experiments to get out of the complex shuttle environment and frees it of any shuttle pointing constraints.</p>\n\n<p>Spartan 1 was deployed from the Space Shuttle <i>Discovery</i> (STS-51G) on 20 June 1985 and retrieved 45.5 hours later.</p>",
+    "decade": 1980,
+    "lifetime": "20&ndash;22 Jun 1985",
+    "features": [
+	"Free flying instrument released from Space Shuttle and recovered a day and a half later"
+    ],
+    "instruments": [
+	{
+	    "name" : "Spartan 1 X-ray Detectors",
+	    "energy" : "1&ndash;12 keV",
+	    "fov" : "5&prime; &times; 3&deg; collimators",
+	    "area" : "&sim;660 cm<sup>2</sup> each (2 GSPCs)",
+	    "energy_resolution" : "16% at 6 keV",
+	    "temporal_resolution" : "0.812 s",
+	    "descript" : "The X-ray detectors aboard the Spartan platform scanned targets with narrowly collimated gas scintillation proportional counters. There were 2 identical sets of counters. Counts were accumulated for 0.812 s into 128 energy channels."
+	}
+    ],
+    "highlights": [
+	"Observed the Perseus cluster of galaxies and galactic center region."
+    ],
+  "archive": "",
+  "navigation": [
+    {
+      "url": "images/spartan1_images.html",
+      "text": "Gallery"
+    },
+    {
+      "url": "biblio/spartan_biblio.html",
+      "text": "Publications"
+    }
+  ]
+}

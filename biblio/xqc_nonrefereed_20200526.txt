@@ -1,0 +1,7 @@
+2016AAS...22744308G|Goldfinger, David;XQC Collaboration|Searches for Decaying Sterile Neutrinos with the X-Ray Quantum Calorimeter Sounding Rocket|0
+2016AAS...22714729O|O'Neill, Laura;X-ray Astrophysics Group at the University of Wisconsin-Madison|Data Collection and Recording on the Wisconsin/GSFC X-ray Quantum Calorimeter|0
+2015AAS...22544308G|Goldfinger, David;Figueroa-Feliciano, Enectali;Castro, Daniel;Anderson, Adam|Sensitivity of a Dark Matter Search with the Micro-X and XQC Rocket Payloads|0
+2014HEAD...1410403M|Morgan, Kelsey;Jaeckel, Felix;McCammon, Dan;Wulf, Dallas;Szymkowiak, Andrew E.;Betancourt-Martinez, Gabriele;Uprety, Youaraj|Studying the Hot ISM with the X-ray Quantum Calorimeter Sounding Rocket|0
+2009AAS...21347530C|Crowder, Sarah;Barger, K. A.;Brandl, D. E.;Eckart, M. E.;Galeazzi, M.;Kelley, R. L.;Kilbourne, C. A.;Kripps, K. L.;McCammon, D.;Porter, F. S.;Szymkowiak, A. E.|Preliminary Results from the Fourth Flight of the X-ray Quantum Calorimeter|0
+2008JLTP..151..715M|McCammon, D.;Barger, K.;Brandl, D. E.;Brekosky, R. P.;Crowder, S. G.;Gygax, J. D.;Kelley, R. L.;Kilbourne, C. A.;Lindeman, M. A.;Porter, F. S.;Rocks, L. E.;Szymkowiak, A. E.|The X-ray Quantum Calorimeter Sounding Rocket Experiment: Improvements for the Next Flight|15
+1990BAAS...22R.889J|Juda, M.;Cui, W.;McCammon, D.;Plucinsky, P.;Snedecker, C.;Zhang, J.;Kelley, R.;Madejski, G.;Moseley, H.;Szymkowiak, A.|X-Ray Quantum Calorimeter (XOC): A Sounding Rocket Instrument for High Spectral Resolution Studies of the ISM|0

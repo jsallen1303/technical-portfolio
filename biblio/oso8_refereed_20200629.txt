@@ -1,0 +1,157 @@
+2015A&A...582A..32I|Iaria, R;Di Salvo, T;Gambino, A;Del Santo, M;Romano, P;Matranga, M;Galiano, C;Scarano, F;Riggio, A;Sanna, A;Pintore, F;Burderi, L|Signature of the presence of a third body orbiting around XB 1916-053|10
+2010ApJ...718L.122G|Gou, L;McClintock, J;Steiner, J;Narayan, R;Cantrell, A;Bailyn, C;Orosz, J|The Spin of the Black Hole in the Soft X-ray Transient A0620-00|61
+2008ApJ...680.1405H|Hu, C;Chou, Y;Chung, Y|A Parameterization Study of the Properties of the X-Ray Dips in the Low-Mass X-Ray Binary X1916-053|17
+2001ApJ...549.1135C|Chou, Y;Grindlay, J;Bloser, P|Timing Analysis of the Light Curve of the Dipping-Bursting X-Ray Binary X1916-053|37
+1999ApJ...510..974S|Scott, D;Leahy, D|Rossi X-Ray Timing Explorer All-Sky Monitor Observations of the 35 Day Cycle of Hercules X-1|68
+1996A&A...313..949B|Bocchialini, K;Gouttebroze, P|Solar chromospheric structures as observed simultaneously in strong UV lines. II. Network and cell modelling.|3
+1994ApJ...429..356F|Finley, J;Taylor, M;Belloni, T|ROSAT/Optical Observations of 2S 0114+65: A Study of the 2.8 Hour Periodic Outbursts|15
+1993A&AS...97..257B|Brandt, S;Castro-Tirado, A;Lund, N;Dremin, V;Lapshov, I;Siuniaev, R|Two transient X-ray sources observed with the WATCH experiment.|4
+1993ApJ...418..894S|Smale, A;Mushotzky, R;Schlegel, E;Weaver, K;Serlemitsos, P;Marshall, F;Petre, R;Jahoda, K|Cygnus X-3 in an ``Ultrahigh'' X-Ray State with No Detected K alpha Line Emission|6
+1992A&A...262L..15B|Brandt, S;Castro-Tirado, A;Lund, N;Dremin, V;Lapshov, I;Syunyaev, R|Detection of a type-I X-ray burst from 4U 0614+09.|61
+1990VA.....33...83P|Pounds, K|Astronomical X-ray spectroscopy—ten years on|1
+1988ApJ...329..276V|Vrtilek, S;Swank, J;Kelley, R;Kahn, S|Long-Term Temporal Variability of Cygnus X-2|21
+1986ApJ...300..551C|Cutler, E;Dennis, B;Dolan, J|An Elliptical Binary Orbit Model of GX 1+4|37
+1986ApJ...302..287H|Henriksen, M;Mushotzky, R|The X-Ray Spectrum of the Coma Cluster of Galaxies|59
+1986ApJ...307..545B|Boynton, P;Deeter, J;Lamb, F;Zylstra, G|VELA X-1 Pulse Timing. I. Determination of the Neutron Star Orbit|30
+1985A&A...143....1D|Dolan, J;Caraveo, P;Crannell, C;Dennis, B;Frost, K;Orwig, L|High energy X-ray observations of COS-B gamma-ray sources from OSO-8.|1
+1984AdSpR...3j..63H|Hasinger, G;Pietsch, W;Reppin, C;Truemper, J;Voges, W;Kendziorra, E;Staubert, R|Hard X-ray observations of the Crab Pulsar|6
+1984ApJ...277..274S|Swank, J;Taam, R;White, N|MXB 1916-053/4U 1915-05 : burst properties and constraints on a 50 minute binary secondary.|29
+1984ApJ...280..255H|Hughes, J;Long, K;Novick, R|A search for X-ray polarization in cosmic X-ray sources.|28
+1984ApJ...287..856W|White, N;Swank, J|The 41.5 day binary X-ray pulsar 4U 1223-62 (GX 301-2).|51
+1984SoPh...90...63L|Lemaire, P;Choucq-Bruston, M;Vial, J|Simultaneous H and K Ca  ii, h and k Mg  ii, Lα and Lβ H  i profiles of the April 15, 1978 solar flare observed with the OSO-8/L.P.S.P. experiment|28
+1983A&A...121..155H|Heinzel, P;Vial, J|OSO-8 observations of a quiescent prominence - A comparison of Lyman-alpha with theoretical intensities|8
+1983ApJ...268..782K|Koenigsberger, G;Swank, J;Szymkowiak, A;White, N|X-ray properties of the Be/X-ray system 2S 0114+650 = LSI +65 010.|34
+1983PhDT.........5R|Robinson-Saba, J|Circinus X-1: a Laboratory for Studying the Accretion Phenomenon in Compact Binary X-Ray Sources.|8
+1982A&A...106....9U|Ulmschneider, P;Stein, R|Heating of stellar chromospheres when magnetic fields are present.|68
+1982ApJ...258..414D|Dolan, J;Ellison, D;Crannell, C;Dennis, B;Frost, K;Orwig, L|Erratum - the High Energy Spectrum of 4U0900-40 Observed from OSO-8|0
+1982ApJ...258..846N|November, L;Toomre, J;Gebbie, K;Simon, G|Vertical flows of supergranular and mesogranular scale observed on the sun with OSO 8|14
+1982ApJ...259..869S|Skelton, D;Shine, R|Formation of the O I resonance triplet and intercombination doublet in the solar chromosphere|24
+1982ApJ...261..625J|Jensen, K;Nousek, J;Nugent, J|H 409-45 : a recurrent soft X-ray transient.|27
+1982ApJS...49..293L|Lites, B;Skumanich, A|A model of a sunspot chromosphere based on OSO 8 observations|78
+1982ApL....22..147D|Dolan, J;Crannell, C;Dennis, B;Frost, K;Orwig, L|High Energy X-ray Observations of Cyg X-3 from OSO-8: Further Evidence of a 34.1 Day Period?|11
+1982SoPh...77..329R|Roussel-Dupre, D;Shine, R|Evidence of redshifts in the average solar line profiles of C  iv and Si  iv from OSO-8 observations|45
+1982SoPh...78...71D|Dumont, S;Mouradian, Z;Pecker, J|Structure and Physics of Solar Faculae - Part One - Principles and Observational Procedures from Ground-Based Instruments and OSO-8 Satellite|6
+1981ApJ...246..369L|Lea, S;Reichert, G;Mushotzky, R;Baity, W;Gruber, D;Rothschild, R;Primini, F|HEAO 1 high energy X-ray observations of the Virgo cluster and A 2142.|39
+1981ApJ...246..484P|Pravdo, S;Serlemitsos, P|X-ray spectra of the Crab pulsar and nebula.|51
+1981ApJ...247..317B|Bruner, E|OSO 8 observational limits to the acoustic coronal heating mechanism|19
+1981ApJ...247..458B|Beall, J;Rose, W;Dennis, B;Crannell, C;Dolan, J;Frost, K;Orwig, L|Concurrent radio, infrared, optical, and X-ray observations of the nucleus of the Seyfert galaxy NGC 4151.|23
+1981ApJ...250..355D|Dolan, J;Crannell, C;Dennis, B;Frost, K;Orwig, L;Ellison, D|The high energy X-ray spectrum of 4U 0900-40 observed from OSO 8.|8
+1981PhDT.........3L|Linfield, R|Studies of Compact Extragalactic Radio Sources.|0
+1981PhDT.........4L|Lemen, J|Solar X-Ray Flares: Spectroscopic Results from the Eighth Orbiting Solar Observatory and the Development of a Space Shuttle Borne Polarimeter.|3
+1981SSRv...29..131B|Bonnet, R|The Contribution of OSO-8 to Our Knowledge of the Chromosphere and Transition Region|15
+1981SoPh...69..289K|Kneer, F;Scharmer, G;Mattig, W;Wyller, A;Artzner, G;Lemaire, P;Vial, J|OSO-8 Observations of CAII H and K MGII H and K Lyman-Alpha and Lyman-Beta above a Sunspot|22
+1981SoPh...69..373L|Lites, B;Bruner, E;Wolfson, C|OSO-8 Observations of the Impulsive Phase of Solar Flares in the Transition Zone and Corona|6
+1981SoPh...70..325V|Vial, J;Martres, M;Salm-Platzer, J|Lα, Lβ (of H i), k and h (of Mg ii), K and H (of Ca  ii) observations in a quiescent prominence with the OSO-8 LPSP instrument|8
+1981SoPh...71..329L|Lites, B|Transition-Zone Observations of Rapid Flare Events as Observed by OSO-8|10
+1980ApJ...236..280L|Lites, B;Hansen, E;Shine, R|Line formation in the solar chromosphere. II - an optically thick region of the chromosphere-corona transition region observed with OSO 8|11
+1980ApJ...236..738J|Johnson, H;Schnopper, H;Delvaille, J|SAS 3 and related observations of Abell 2029.|6
+1980ApJ...236L..49D|Dennis, B;Beall, J;Cutler, E;Crannell, C;Dolan, J;Frost, K;Orwig, L|Detection of high-energy X-rays from the galactic center region.|15
+1980ApJ...237..148C|Coe, M;Dennis, B;Dolan, J;Crannell, C;Maurer, G;Frost, K;Orwig, L;Graf, W;Price, K|High energy X-ray and radio studies of Scorpius X-1.|9
+1980ApJ...238..238D|Dolan, J;Coe, M;Crannell, C;Dennis, B;Frost, K;Maurer, G;Orwig, L|The high energy X-ray spectrum of 4U 1700-37 observed from OSO 8.|19
+1980ApJ...238..710L|Long, K;Chanan, G;Novick, R|The X-ray polarization of the CYG sources.|43
+1980ApJ...239..316I|Iwan, D|X-ray observations of the North Polar Spur|69
+1980ApJ...239..655W|White, N;Pravdo, S;Becker, R;Boldt, E;Holt, S;Serlemitsos, P|The X-ray pulsars 4U 1145-61 and 1E 1145-6141.|37
+1980ApJ...240..306A|Athay, R;White, O|Temporal and spatial fluctuations in strengths and widths of C IV and SI II lines observed with OSO 8|22
+1980ApJ...240..421W|Worrall, D;Boldt, E;Holt, S;Serlemitsos, P|The X-ray spectrum of QSO 0241+622.|38
+1980ApJ...240L..33B|Becker, R;Szymkowiak, A;Boldt, E;Holt, S;Serlemitsos, P|Is the remnant of SN 1006 crablike ?|61
+1980ApOpt..19.3994B|Brueckner, G|Solar physics in the VUV: the importance of high resolution observations.|10
+1980SoPh...66..357A|Athay, R;White, O;Lites, B;Bruner, E|Impulsive EUV bursts observed in C iv with OSO-8|29
+1980SoPh...68..327L|Lites, B|Steady Flows in the Chromosphere and Transition-Zone above Active Regions as Observed by OSO-8|28
+1979ApJ...227...37S|Smith, B;Mushotzky, R;Serlemitsos, P|OSO 8 X-ray spectra of clusters of galaxies. II. Discussion.|51
+1979ApJ...227..600N|November, L;Toomre, J;Gebbie, K;Simon, G|The height variation of supergranular velocity fields determined from simultaneous OSO 8 satellite and ground-based observations.|19
+1979ApJ...227..816W|Weller, C;Meier, R|Analysis of the helium component of the local interstellar medium.|29
+1979ApJ...227L..21B|Becker, R;Boldt, E;Holt, S;Pravdo, S;Robinson-Saba, J;Serlemitsos, P;Swank, J|X-ray spectra of X Persei.|25
+1979ApJ...228..322B|Bruner, E;Lites, B|Mass motions in impulsive flarelike brightenings as observed by OSO 8.|24
+1979ApJ...228L..19B|Bunner, A;Sanders, W|Detection of soft X-ray emission from SMC X-1.|14
+1979ApJ...228L..29B|Bunner, A;Sanders, W;Nousek, J|On the lack of absorption of 1 keV diffuse X-rays by the Small Magellanic Cloud.|9
+1979ApJ...229.1147A|Athay, R;White, O|Chromospheric oscillations observed with OSO 8. IV. Power and phase spectra for C IV.|65
+1979ApJ...230..551D|Dolan, J;Crannell, C;Dennis, B;Frost, K;Orwig, L|High-energy X-ray spectra of Cygnus XR-1 observed from OSO 8.|37
+1979ApJ...231..551P|Parkinson, J;Veck, N;Ashfield, M;Culhane, J;Ku, W;Lemen, J;Novic, R;Acton, L;Wolfson, C|An investigation of the 1.9 Å feature in solar-flare X-ray spectra.|2
+1979ApJ...231..557B|Bruner, E;McWhirter, R|The observation and interpretation of the profile of C IV lambda 1548 emitted from a quiet region of the Sun.|30
+1979ApJ...231..906M|Maurer, G;Dennis, B;Coe, M;Crannell, C;Cutler, E;Dolan, J;Frost, K;Orwig, L|The high-energy pulsed X-ray spectrum of Hercules X-1 as observed with OSO 8.|15
+1979ApJ...232..248S|Silver, E;Weisskopf, M;Kestenbaum, H;Long, K;Novick, R;Wolff, R|The first search for X-ray polarization in the Centaurus X-3 and Hercules X-1 pulsars.|17
+1979ApJ...232..683W|Worrall, D;Mushotzky, R;Boldt, E;Holt, S;Serlemitsos, P|The X-ray spectrum of 3C 273.|81
+1979ApJ...232L..17M|Mushotzky, R;Boldt, E;Holt, S;Serlemitsos, P|A change in the X-ray spectrum of Markarian 421.|41
+1979ApJ...232L.107L|Long, K;Chanan, G;Ku, W;Novick, R|The linear X-ray polarization of Scorpius X-1.|18
+1979ApJS...39..317W|White, O;Athay, R|Chromospheric oscillations observed with OSO 8. I. Basic measurements and analytical methods.|25
+1979ApL....20...63C|Coe, M;Dennis, B;Dolan, J;Crannell, C;Frost, K;Orwig, L;Engel, A|High Energy X-Ray Observations of BL Lacertae Objects|5
+1979MNRAS.187....9R|Roussel-Dupre, R;Billings, D;Francis, M|Limb broadening of quiet Sun transition zone lines from OSO-8 observations.|21
+1979MNRAS.187P..17B|Berthelsdorf, R;Culhane, J|Cluster iron lines and the X-ray spectrum of SC 0627-544.|8
+1979Natur.279..509C|Coe, M;Dennis, B;Dolan, J;Crannell, C;Frost, K;Orwig, L|X-ray observations of AM Herculis from OSO 8|5
+1979Natur.280..126D|Dolan, J;Caraveo, P;Coe, M;Crannell, C;Dennis, B;Frost, K;Orwig, L|The 78.4-day period of Cygnus XR-1|2
+1979PhDT.........2M|Mueller, E|A magnetohydrodynamic supernova model|5
+1979PhDT.........5M|MacFarlane, M|Galaxy Population Analysis.|2
+1979PhDT.........7M|Maurer, G|Satellite Observations of Rapidly Varying Cosmic X-Ray Sources.|3
+1979PhDT.........8B|Beall, J|On the Physical Environment in Galactic Nuclei.|6
+1979SoPh...61...39V|Vial, J;Gouttebroze, P;Artzner, G;Lemaire, P|Profiles of H I (Lalpha ), Mg II (h and k), Ca II (H and K) lines of an active filament at the limb, with the LPSP instrument aboard the OSO-8 satellite.|27
+1979SoPh...64..109M|Mosher, J|The Height Structure of Solar Active Regions at X-Ray Wavelengths as Deduced from OSO-8 Limb Crossing Observations|12
+1978A&A....68..281B|Brinkman, A;den Boggende, A;Gronenschild, E;Heise, J;Mewe, R;Schrijver, J|On the low energy X-ray absorption of the Coma, Virgo and Perseus clusters.|3
+1978ApJ...220..261B|Bunner, A|Soft X-ray results from the Wisconsin experiment on OSO-8.|52
+1978ApJ...220..790M|Mushotzky, R;Serlemitsos, P;Becker, R;Boldt, E;Holt, S|The X-ray emitting galaxy Centaurus A.|96
+1978ApJ...220L.117W|Weisskopf, M;Silver, E;Kestenbaum, H;Long, K;Novick, R|A precision measurement of the X-ray polarization of the Crab Nebula without pulsar contamination.|187
+1978ApJ...221..912B|Becker, R;Rothschild, R;Boldt, E;Holt, S;Pravdo, S;Serlemitsos, P;Swank, J|Extended observations of Vela X-1 by OSO 8.|62
+1978ApJ...221.1032B|Bonnet, R;Lemaire, P;Vial, J;Artzner, G;Gouttebroze, P;Jouchoux, A;Leibacher, J;Skumanich, A;Vidal-Madjar, A|The LPSP instrument on OSO 8. II. In-flight performance and preliminary results.|84
+1978ApJ...221L..13W|Weisskopf, M;Kestenbaum, H;Long, K;Novick, R;Silver, E|An upper limit to the linear X-ray polarization of Scorpius X-1.|8
+1978ApJ...222..333L|Lites, B;Shine, R;Chipman, E|Line formation in the solar chromosphere. I. The C II resonance lines observed with OSO 8.|43
+1978ApJ...222..537K|Kestenbaum, H;Long, K;Novick, R;Weisskopf, M;Wolff, R|Search for X-ray line emission from Cassiopeia A.|0
+1978ApJ...223..537P|Pravdo, S;Becker, R;Boldt, E;Holt, S;Serlemitsos, P;Swank, J|Observations of low-luminosity X-ray sources in Vela-Puppis.|11
+1978ApJ...224..247S|Shine, R;Lites, B;Chipman, E|Overlapping emission peaks in the solar C I multiplet at lambda 1560 and lambda 1657.|21
+1978ApJ...224..671C|Chipman, E|OSO 8 observations of wave propagation in the solar chromosphere and transition region.|15
+1978ApJ...224L.113B|Becker, R;Robinson-Saba, J;Boldt, E;Holt, S;Pravdo, S;Serlemitsos, P;Swank, J|A 4.8 hour periodicity in the spectra of Cygnus X-3.|33
+1978ApJ...225...21M|Mushotzky, R;Serlemitsos, P;Smith, B;Boldt, E;Holt, S|OSO 8 X-ray spectra of clusters of galaxies. I. Observations of twenty clusters: physical correlations.|229
+1978ApJ...225..221S|Silver, E;Weisskopf, M;Kestenbaum, H;Long, K;Novick, R;Wolff, R|Search for X-ray polarization in the Crab pulsar.|22
+1978ApJ...225L...1F|Forman, W;Jones, C;Murray, S;Giacconi, R|The detection of large X-ray halos in clusters.|34
+1978ApJ...225L..53P|Pravdo, S;Boldt, E;Holt, S;Rothschild, R;Serlemitsos, P|Discovery of iron line emission in the Hercules X-1 low-state spectrum with HEAO 1.|18
+1978ApJ...225L.113S|Staubert, R;Kendziorra, E;Pietsch, W;Reppin, C;Truemper, J;Voges, W|The hard X-ray spectrum of AM Herculis.|17
+1978ApJ...225L.115M|Mushotzky, R;Holt, S;Serlemitsos, P|X-ray observations of a flare in NGC 4151 from OSO 8.|83
+1978ApJ...226..271L|Long, K;Kestenbaum, H|X-ray spectra of A 0620-00 obtained with a Bragg crystal spectrometer.|4
+1978ApJ...226..276L|Long, K;Kestenbaum, H|Extended X-ray observations of Scorpius X-1 with a Bragg crystal spectrometer.|11
+1978ApJ...226..282K|Kestenbaum, H;Ku, W;Long, K;Silver, E;Novick, R|Measurement of X-ray iron line emission from Cygnus X-3 with the OSO 8 crystal spectrometer.|11
+1978ApJ...226.1140B|Bruner, E|Dynamics of the solar transition zone.|43
+1978ApJ...226L..65M|Mushotzky, R;Boldt, E;Holt, S;Pravdo, S;Serlemitsos, P;Swank, J;Rothschild, R|X-ray observations of BL Lacertae objects.|68
+1978ApJ...226L.133S|Swank, J;Boldt, E;Holt, S;Rothschild, R;Serlemitsos, P|Hard X-rays form U Geminorum.|39
+1978MNRAS.182..349S|Swank, J;Becker, R;Boldt, E;Holt, S;Serlemitsos, P|The case for a burst from 3U 0614+09.|51
+1978Natur.272...37C|Coe, M;Engel, A;Quenby, J|Hard X-ray observations of white dwarf binary systems|18
+1978Natur.275..195D|Dennis, B;Maurer, G;Cutler, E;Crannell, C;Dolan, J;Frost, K;Orwig, L|High energy X-ray spectrum of Her X-1|9
+1978PhDT.........7M|Maurer, G;Dennis, B;Coe, M;Crannell, C;Cutler, E;Dolan, J;Frost, K;Orwig, L|The high-energy pulsed X-ray spectrum of HER X-1 as observed with OSO-8|0
+1978PhDT........10S|Silver, E|X-Ray Polarization Measurements of the Crab Nebula and Pulsar and Centaurus X-3 and Hercules X-1 Pulsars.|2
+1978SoPh...60..123P|Parkinson, J;Wolff, R;Kestenbaum, H;Ku, W;Lemen, J;Long, K;Novick, R;Suozzo, R;Weisskopf, M|Silicon X-ray line emission from solar flares and active regions.|23
+1977AmSci..65..605L|Lewin, W|X-ray outbursts in our galaxy|10
+1977ApJ...211L..63S|Serlemitsos, P;Smith, B;Boldt, E;Holt, S;Swank, J|X-radiation from clusters of galaxies: spectral evidence for a hot evolved gas.|223
+1977ApJ...212L..73S|Swank, J;Becker, R;Boldt, E;Holt, S;Pravdo, S;Serlemitsos, P|Spectral evolution of a long X-ray burst.|151
+1977ApJ...215L..65W|Weisskopf, M;Silver, E;Kestenbaum, H;Long, K;Novick, R;Wolff, R|Search for X-ray polarization in Cygnus X-1.|11
+1977ApJ...216L..11B|Becker, R;Swank, J;Boldt, E;Holt, S;Pravdo, S;Saba, J;Serlemitsos, P|A 1540-53, an eclipsing X-ray binary pulsator.|46
+1977ApJ...216L..19K|Kestenbaum, H;Long, K;Novick, R;Weisskopf, M;Wolff, R|Evidence for X-ray iron line emission in Cygnus X-3 obtained with a crystal spectrometer.|13
+1977ApJ...216L..27K|Kestenbaum, H;Wolff, R;Long, K;Novick, R;Weisskopf, M|Search for thermal X-ray line emission from the Crab Nebula.|8
+1977ApJ...216L..71S|Swank, J;Lampton, M;Boldt, E;Holt, S;Serlemitsos, P|OSO-8 X-ray observations of AM Herculis.|55
+1977ApJ...216L.101B|Becker, R;Smith, B;Swank, J;Boldt, E;Holt, S;Pravdo, S;Serlemitsos, P|Spectral characteristics of 3U 1915-05, a burst source candidate.|33
+1977ApJ...217..809D|Dolan, J;Crannell, C;Dennis, B;Frost, K;Maurer, G;Orwig, L|The high-energy X-ray spectrum of the Crab Nebula observed from OSO-8.|32
+1977ApJ...217L..93K|Kendziorra, E;Staubert, R;Pietsch, W;Reppin, C;Sacco, B;Truemper, J|Hercules X-1: the 1.24 second pulsation in hard X-rays.|24
+1977ApJ...218..511B|Borken, R;Iwan, D|Spatial structure in the soft X-ray background as observed from OSO-8, and the North Polar Spur as a reheated supernova remnant.|40
+1977ESAJ....1..145M|Manno, V|A Spacelab facility for spectroscopy and polarimetry of X-ray sources (EXSPOS).|0
+1977MNRAS.181..149G|Gillespie, A|Observations of the NGC 7331/Stephan's Quintet area at 1421 MHz|2
+1977MNRAS.181P..73D|Davison, P;Watson, M;Pye, J|The binary X-ray pulsar 3U 1538-52.|33
+1977Natur.267...28L|Lewin, W;Hoffman, J;Doty, J;Clark, G;Swank, J;Becker, R;Pravdo, S;Serlemitsos, P|Galactic distribution of X-ray burst sources.|21
+1977Natur.267..813D|Dolan, J;Crannell, C;Dennis, B;Frost, K;Orwig, L|Intensity transitions in Cyg XR-1 observed at high energies from OSO 8|19
+1977Natur.270..158P|Pravdo, S;Mushotzky, R;Becker, R;Boldt, E;Holt, S;Serlemitsos, P;Swank, J|Absence of detectable X rays from supercluster candidate 4U0134-11|8
+1977SSI.....3..325D|Dennis, B;Frost, K;Lencho, R;Orwig, L|The high-energy celestial X-ray instrument on board OSO-8.|17
+1977SoPh...52..337J|Jones, H;Brown, D|A possible edge effect in enhanced network.|0
+1977SoPh...53..465F|Francis, M;Roussel-Dupre, R|The Si IV λ 1393 line in a coronal hole compared to the quiet Sun from OSO-8 observations|4
+1977SoPh...55..181W|Wolfson, C;Acton, L;Leibacher, J;Roethig, D|Early evolution of an X-ray emitting solar active region.|16
+1977SoPh...55..277C|Chipman, E|Chromospheric oscillations observed in the line C ii λ1336 with OSO-8|16
+1977SoPh...55..287B|Billings, D;Roussel-Dupre, R;Francis, M|Dynamical implications of Si IV line profiles from OSO-8 observations.|8
+1977SoPh...55..347L|Lites, B;Hansen, E|Ultraviolet brightenings in active regions as observed from OSO-8.|18
+1976ApJ...206L..41P|Pravdo, S;Becker, R;Boldt, E;Holt, S;Rothschild, R;Serlemitsos, P;Swank, J|Iron line emission from a high-temperature plasma in Cassiopeia A.|44
+1976ApJ...207L.167B|Becker, R;Boldt, E;Holt, S;Pravdo, S;Rothschild, R;Serlemitsos, P;Swank, J|Spectral variability in the X-ray pulsar GX 1+4.|39
+1976ApJ...208L..27K|Kestenbaum, H;Cohen, G;Long, K;Novick, R;Silver, E;Weisskopf, M;Wolff, R|Search for X-ray line emission from A 0620-00.|9
+1976ApJ...208L..67P|Pravdo, S;Becker, R;Boldt, E;Holt, S;Rothschild, R;Serlemitsos, P;Swank, J|X-ray observations of the Vela pulsar: statistics and spectrum.|14
+1976ApJ...208L.125W|Weisskopf, M;Cohen, G;Kestenbaum, H;Long, K;Novick, R;Wolff, R|Measurement of the X-ray polarization of the Crab nebula.|106
+1976ApJ...209L..57S|Swank, J;Becker, R;Boldt, E;Holt, S;Pravdo, S;Rothschild, R;Serlemitsos, P|Variations in the spectra and pulse period of GX 301-2.|36
+1976ApJ...209L..65B|Becker, R;Boldt, E;Holt, S;Pravdo, S;Rothschild, R;Serlemitsos, P;Swank, J|X-ray emission from the supernova remnant G 287.8-0.5.|31
+1976ApJ...210..805K|Kestenbaum, H;Cohen, G;Long, K;Novick, R;Silver, E;Weisskopf, M;Wolff, R|The graphite crystal X-ray spectrometer on OSO-8.|16
+1976ApJ...210L..97B|Bruner, E;Chipman, E;Lites, B;Rottman, G;Shine, R;Athay, R;White, O|Preliminary results from the Orbiting Solar Observatory 8: transition-zone dynamics over a sunspot.|48
+1976ApJ...210L.103C|Chipman, E;Bruner, E;Shine, R;Lites, B;Rottman, G;Athay, R;White, O|Preliminary results from the Orbiting Solar Observatory 8: velocities in the solar chromosphere observed in the Si II lambda 1816 line.|13
+1976ApJ...210L.107S|Shine, R;Roussel-Dupre, D;Bruner, E;Chipman, E;Lites, B;Rottman, G;Athay, R;White, O|Preliminary results from the Orbiting Solar Observatory 8: observations of optically thin lines.|29
+1976ApJ...210L.111L|Lites, B;Bruner, E;Chipman, E;Shine, R;Rottman, G;White, O;Athay, R|Preliminary results from the Orbiting Solar Observatory 8: persistent velocity fields in the chromosphere and transition region.|70
+1976ITNS...23..480M|Mitchell, D;Rochwarger, I;Sackson, M;Bischoff, G;Bodine, O|Crystal X-ray spectroscopy and polarimetry on OSO-8.|0
+1976PhDT.........6P|Pravdo, S|Hercules X-1: Spectral Variability of an X-Ray Pulsar in a Stellar Binary System.|14

@@ -1,0 +1,31 @@
+{
+  "title": "The Fourth Orbiting Solar Observatory (OSO-4)",
+  "name": "OSO-4",
+  "alttext": "Photograph of OSO 4 in the clean room",
+  "imagesize": 212,
+  "imageurl": "/Images/oso/oso4_small.gif",
+    "descript": "<p><b><font size=\"+2\">T</font>he Fourth Orbiting Solar Observatory (OSO 4)</b> was launched on 18 October 1967. The objectives of the OSO-4 satellite were to perform solar physics experiments above the atmosphere and to measure the direction and intensity over the entire celestial sphere in UV, X, and gamma radiation. The OSO 4 platform consisted of a sail section (which pointed 2 instruments continuously toward the Sun) and a wheel section which spun about an axis perpendicular to the pointing direction of the sail (which contained 7 experiments). The spacecraft performed normally until a second tape recorded failed in May 1968. OSO-4 was put into a &ldquo;standby&rdquo; mode in November 1969. It could be turned on only for recording special events in real-time. One such event occurred on March 7, 1970 during a solar eclipse. The spacecraft became totally inoperable on 7 December 1971.",
+      "decade": 1960,
+  "lifetime": "Oct 1967&ndash;7 Dec 1971",
+    "features": [""],
+    "instruments": [
+	{
+	    "name" : "X-ray telescope",
+	    "energy" : "&sim;8&ndash;200 keV",
+	    "energy_resolution" : "45% at 30 keV (6 channel resolution)",
+	    "descript" : "The X-ray telescope consisted of a single thin NaI(Tl) scintillation crystal plus phototube assembly enclosed in a CsI(Tl) anti-coincidence shield."
+	}
+    ],
+  "highlights": [],
+  "archive": "",
+  "navigation": [
+    {
+      "url": "images/oso_images.html",
+      "text": "Gallery"
+    },
+    {
+      "url": "biblio/oso_biblio.html",
+      "text": "Publications"
+    }
+  ]
+}

@@ -1,0 +1,1159 @@
+2020AAS...23530433G|Garcia, G;Moran, E|From Einstein to Chandra: Dramatic long-term X-ray variability in AGNs|0
+2014SPIE.9144E..0SS|Schwartz, D|Lessons from the development and operation of the Chandra x-ray observatory|4
+2010cosp...38.2803D|de Ona Wilhelmi, E;Terrier, R;Chaves, R;de Jager, O;Djannati-Atai, A;Abramowski, A;Acero, F;Aharonian, F;Akhperjanian, A;Anton, G;Barres de Almeida, U;Bazer-Bachi, A;Becherini, Y;Behera, B;Bernluhr, K;Bochow, A;Boisson, C;Bolmont, J;Borrel, V;Brucker, J;Brun, F;Brun, P;Buhler, R;Bulik, T;Busching, I;Boutelier, T;Chadwick, P;Charbonnier, A;Chaves, R;Cheesebrough, A;Conrad, J;Chounet, L;Clapson, A;Coignet, G;Dalton, M;Daniel, M;Davids, I;Degrange, B;Deil, C;Dickinson, H;Domainko, A;Drury, L;Dubois, F;Dubus, G;Dyks, J;Dyrda, M;Egberts, K;Eger, P;Espigat, P;Fallon, L;Farnier, C;Fegan, S;Feinstein, F;Fernandes, M;Fiasson, A;Furster, A;Fontaine, G;Fussling, M;Gabici, S;Gallant, Y;Gerard, L;Gerbig, D;Giebels, B;Glicenstein, J;Gluck, B;Goret, P;Guring, D;Hampf, D;Hauser, M;Heinz, S;Heinzelmann, G;Henri, G;Hermann, G;Hinton, J;Hoffmann, A;Hofmann, W;Hofverberg, P;Holleran, M;Hoppe, S;Horns, D;Jacholkowska, A;de Jager, O;Jahn, C;Jung, I;Katarzynski, K;Katz, U;Kaufmann, S;Kerschhaggl, M;Khangulyan, D;Khalifi, B;Keogh, D;Klochkov, D;Kluzniak, W;Kneiske, T;Komin, N;Kosack, K;Kossakowski, R;Lamanna, G;Lenain, J;Lohse, T;Lu, C;Marandon, V;Marcowith, A;Masbou, J;Maurin, D;McComb, T;Medina, M;Mehault, J;Moderski, R;Moulin, E;Naumann-Godo, M;de Naurois, M;Nedbal, D;Nekrassov, D;Nguyen, N;Nicholas, B;Niemiec, J;Nolan, S;Ohm, S;Olive, J;de Ona Wilhelmi, E;Opitz, B;Orford, K;Ostrowski, M;Panter, M;Paz Arribas, M;Pedaletti, G;Pelletier, G;Petrucci, P;Pita, S;Puhlhofer, G;Punch, M;Quirrenbach, A;Raubenheimer, B;Raue, M;Rayner, S;Reimer, O;Renaud, M;de Los Reyes, R;Rieger, F;Ripken, J;Rob, L;Rosier-Lees, S;Rowell, G;Rudak, B;Rulten, C;Ruppel, J;Ryde, F;Sahakian, V;Santangelo, A;Schlickeiser, R;Schuck, F;Schunwald, A;Schwanke, U;Schwarzburg, S;Schwemmer, S;Shalchi, A;Sushch, I;Sikora, M;Skilton, J;Sol, H;Stawarz, L;Steenkamp, R;Stegmann, C;Stinzing, F;Szostek, A;Tam, P;Tavernet, J;Terrier, R;Tibolla, O;Tluczykont, M;Valerius, K;van Eldik, C;Vasileiadis, G;Venter, C;Venter, L;Vialle, J;Viana, A;Vincent, P;Vivier, M;Vulk, H;Volpe, F;Vorobiov, S;Wagner, S;Ward, M;Zdziarski, A;Zech, A;Zechlin, H|Observations of the supernova remnant SNR G284.3-1.8 from X-rays to VHE gamma-rays with XMM-Newton, Fermi and H.E.S.S.|6
+2009ASSL..357..181Z|Zavlin, V|Theory of Radiative Transfer in Neutron Star Atmospheres and Its Applications|22
+2008xng..conf...32H|Haberl, F;Pietsch, W|X-ray source populations in the Magelanic Clouds|9
+2007JPhCS..81a2026B|Besson, D|Radiowave neutrino detection (ARENA06 Conference Summary talk, Newcastle, UK, June 28 July 1, 2006)|6
+2006ASPC..350..191P|Perlman, E;Daugherty, T;Georganopoulos, M;Koratkar, A;Madejski, G;Andersson, K;Krolik, J;Rector, T;Stocke, J;Wagner, S;Aller, M;Aller, H;Allen, M|Intrinsic Curvature in the X-ray Spectra of BL Lacertae Objects|3
+2005SPIE.5898...22K|Kirsch, M;Briel, U;Burrows, D;Campana, S;Cusumano, G;Ebisawa, K;Freyberg, M;Guainazzi, M;Haberl, F;Jahoda, K;Kaastra, J;Kretschmar, P;Larsson, S;Lubinski, P;Mori, K;Plucinsky, P;Pollock, A;Rothschild, R;Sembay, S;Wilms, J;Yamamoto, M|Crab: the standard x-ray candle with all (modern) x-ray satellites|125
+2004SPIE.5168..420G|Gendreau, K;Cash, W;Shipley, A;White, N|MAXIM x-ray interferometry mission|1
+2004SPIE.5491..199C|Cash, W;Gendreau, K|MAXIM science and technology|2
+2004mas..conf..295P|Perlman, E;Daugherty, T;Koratkar, A;Madejski, G;Andersson, K;Krolik, J;Aller, H;Aller, M;Stocke, J;Rector, T;Padovani, P;Marscher, A;Allen, M;Wagner, S|Bl Lac X-Ray Spectra:. Simpler than we thought|1
+2003csss...12..906S|Stern, R;Alexander, D;Acton, L|Do Stellar X-ray Observations Provide Evidence For Solar-like Cycles?|4
+2003yCat.9008....0A|Amnuel, P;Gusenov, O;Rakhamimov, S|VizieR Online Data Catalog: Second Catalogue of X-ray Sources (Amnuel+ 1982)|0
+2002ASPC..262...31G|Gagne, M;Cohen, D;Owocki, S;Ud-Doula, A|Mass Loss and Magnetospheres: X-rays from Hot Stars and Young Stellar Objects|5
+2002ATel...89....1W|Wijnands, R|XTE J1901+014 is 1RXS J190141.0+012618 ?|4
+2002HiA....12..501B|Buote, D|X-ray observations of cluster mergers before 2000 AD|0
+2002astro.ph.12037K|Kahabka, P|Super Soft Sources|5
+2002eaa..bookE4626B|Bond, P|Einstein Observatory (HEAO-2)|0
+2000AAS...197.1701C|Chambers, S;Melott, A;Miller, C|EINSTEIN Cluster Alignments Revisited|0
+2000AAS...19712405L|Lewis, A|Clusters of Galaxies at Intermediate Redshift: The EMSS Sample Revisited|0
+2000STIN...0064087H|Harris, D;Biretta, J;Junor, W|X-Ray Variability in M87|0
+2000adnx.conf....1H|Holt, S|Spectroscopy and X-Ray Astronomy|0
+2000exun.conf...17T|Tucker, W;Tananbaum, H|X-Ray Astronomy from UHURU to Einstein|0
+1999AAS...195.1601P|Perlman, E;Schachter, J;Stocke, J|The Blazar Content of the Einstein Surveys|4
+1999AAS...19510503S|Sowell, J|The Einstein Observatory: A New Public/Private Observatory Complex for Community Education and Scientific Research|0
+1999ASPC..159..301R|Rector, T;Stocke, J|A Multiwavelength Study of BL Lacs: Implications for Unification|0
+1999ASPC..179...46C|Corcoran, M;Swank, J;Petre, R;Ishibashi, K;Davidson, K;Damineli, A;Viotti, R;Schmitt, J|Resolving X-ray Spectral Variations in η Carinae|2
+1999yCat..20730781S|Seward, F|VizieR Online Data Catalog: X-ray observations of galactic Supernova Remnants (Seward, 1990)|0
+1999yCat..20800531F|Fabbiano, G;Kim, D;Trinchieri, G|VizieR Online Data Catalog: An X-ray catalog and atlas of galaxies. (Fabbiano+, 1992)|0
+1999yCat.9022....0P|Primini, F;Murray, S;Huchra, J;Schild, R;Burg, R;Giacconi, R|VizieR Online Data Catalog: Einstein extended deep survey (Primini+, 1991)|0
+1999yCat.9024....0G|Giacconi, R;et al.,|VizieR Online Data Catalog: The Einstein Observatory HRI Source List (Giacconi+, 1979)|0
+1999yCat.9025....0G|Giacconi, R;et al.,|VizieR Online Data Catalog: Einstein Observatory IPC Parameters (HEAO-2, 1978-1981)|0
+1998AAS...193.4309M|Morgan, W;Garcia, M|Position and X-ray Variability of 2A 1704+241|0
+1998AAS...19310713R|Rector, T;Stocke, J;Perlman, E;Morris, S;Gioia, I|Properties of the EMSS Sample of X-Ray-Selected BL Lacertae Objects|0
+1998ASPC..136..299W|White, R;Davis, D|X-Ray Properties of a Complete Sample of Elliptical Galaxies: Implications for Dark Matter Halos|2
+1998IAUC.6999....1I|Israel, G;Stella, L;Campana, S;Covino, S;Ricci, D;Oosterbroek, T|1SAX J0103.2-7209, AX J0051-722, and XTE J0055-724|25
+1998IAUS..188..185B|Bowyer, S;Lieu, R;Mittaz, J|Diffuse EUV Emission from Clusters of Galaxies|14
+1998IAUS..188..284M|Mizuno, T;Ohbayashi, H;Iyomoto, N;Makishima, K|X-Ray Observation of the Normal Spiral Galaxies NGC2903 and NGC628 with ASCA|4
+1998STIN...9909048H|Helfand, D|ASCA Observations|0
+1998yCat..21110163B|Burstein, D;Jones, C;Forman, W;Marston, A;Marzke, R|VizieR Online Data Catalog: Einstein X-ray survey of galaxies. I. (Burstein+ 1997)|0
+1997AAS...18912022M|Martin, A|What is the Nature of 1E-1740.7-2942?|0
+1997AAS...190.0201E|Eskridge, P;White, R|The Nature of the X-Ray Point Source in the Bar of NGC 6822|0
+1997AAS...191.0315C|Chisholm, J;Harnden, F;Schachter, J;Micela, G;Sciortino, S|Identifications of Selected Einstein Slew Survey Sources with the ROSAT HRI|0
+1997AAS...191.3103K|Kuraszkiewicz, J;Wilkes, B;Green, P;Marthur, S;McDowell, J|Clues to Quasar Structure from Emission Line/Continuum Correlations|0
+1997AAS...191.4909P|Primini, F;Magnier, E;Hasinger, G|Revised Position of the X-ray Source near the Nucleus of M31|1
+1997AAS...191.7701S|Shapley, A;Fabbiano, G;Eskridge, P|A Multivariate Statistical Analysis of Spiral Galaxy Luminosities|0
+1997AIPC..410..524K|Kniffen, D;Gehrels, N|The COMPTON Observatory: Reflections on its origins and history|3
+1997ASPC..113..126W|Wilkes, B;Green, P;Mathur, S;McDowell, J|Emission Lines and the Spectral Energy Distributions of Quasars.|2
+1997ASPC..115..210W|White, D|The Effect Of Cooling Flows On General Cluster Properties - an X-Ray Image Deprojection Analysis Of 207 Cluster Of Galaxies|0
+1997ASPC..115..217W|White, R;Davis, D|X-Ray Properties of a Complete Sample of Elliptical Galaxies: Implications for Cooling Flow Models|7
+1997yCat.9018....0O|Oppenheimer, B;Helfand, D;Gaidos, E|VizieR Online Data Catalog: EINSTEIN extended source survey (EXSS) (Oppenheimer+ 1997)|0
+1996AAS...188.2304M|Moran, E;Helfand, D|The 3--53 keV spectrum of the quasar 1508+5714: X-rays from Z = 4.3|0
+1996AAS...188.6506D|Dickel, J|Supernova remnants in the Magellanic Clouds|0
+1996AAS...189.0901T|Thompson, R;Arning, C;Shelton, R|A Comprehensive Ultra-Soft Survey of the Einstein IPC Database: Initial Results|0
+1996AAS...189.3102H|Harris, D;Biretta, J;Junor, W|X-ray Variability in M87|0
+1996AAS...189.3711C|Cox, C;Sarazin, C|ROSAT HRI X-Ray Observations of the Elliptical Galaxy NGC 4636|0
+1996AAS...189.4002S|Sadun, A;Harris, D;Vestergaard, M;Hjorth, J|A ROSAT Observation of the Jet and Nucleus of 3C 120|0
+1996AAS...189.4104W|White, R;Davis, D|X-ray Properties of a Complete Sample of Elliptical Galaxies|4
+1996ASPC...88..213H|Henricksen, M;Silk, J|The Contribution of Galaxies to the X-ray Spectra of Clusters of Galaxies|2
+1996ASPC..109..279O|Ortolani, A;Pallavicini, R;Tagliaferri, G|X-ray spectroscopy of RS CVn binaries: the EXOSAT and SSS spectra revisited|1
+1996BAAS...28..931D|Dickel, J|Supernova remnants in the Magellanic Clouds.|0
+1996IAUC.6368....2D|Dotani, T;Ueda, Y;Nagase, F;Inoue, H;Kouveliotou, C|GRO J1744-28|6
+1996cuny.reptT....H|Helfand, D|A Complete Public Archive for the Einstein Imaging Proportional Counter|0
+1996cuny.reptU....H|Helfand, D|Origin of High X-Ray Luminosities in Optically Passive Galaxies and Resolving the Source of X-Rays in IC1613|0
+1996rftu.proc...25C|Corcoran, M;Rawley, G;Swank, J;Petre, R;Schmitt, J|η Carinae: variability in a new light.|1
+1996rftu.proc..337R|Refregier, A;Helfand, D;McMahon, R|Isolating the foreground of the X-ray background.|2
+1996rftu.proc..603N|Norci, L;Ebeling, H;Bohringer, H;Voges, W;Treumann, R|ROSAT survey: the Einstein EMSS galaxy clusters revisited.|0
+1996rftu.proc..621W|White, D|Cooling flows and general properties of 207 galaxy clusters.|5
+1996uxsa.conf..327A|Awaki, H;Tsuru, T;Koyama, K|ASCA observations of starburst galaxies.|4
+1996yCat..20970141E|Eskridge, P;Fabbiano, G;Kim, D|VizieR Online Data Catalog: Einstein sample multiparametric analysis. I. (Eskridge+ 1995)|0
+1996yCat.9013....0H|Harris, D;Forman, W;Gioa, I;Hale, J;Harnden, F;Jones, C;Karakashian, T;Maccacaro, T;McSweeney, J;Primnini, F;Schwarz, J;Tananbaum, H;Thurman, J|VizieR Online Data Catalog: The 2E Catalogue (Harris+ 1994)|14
+1995AAS...186.1504K|Koupelis, T|A Model for the NGC 6251 Jet|0
+1995AAS...186.5602T|Tucker, W;Tananbaum, H;Remillard, R|A Search for ``Failed Clusters'' of Galaxies|0
+1995AAS...187.3304Y|Yancopoulos, S|Panning for Galactic Old Local Dead Stars in the Einstein Database|0
+1995AAS...187.4701R|Refregier, A;Helfand, D;Loeb, A;McMahon, R|The Spatial Structure of the Cosmic X-Ray Background: Correlation with Local Galaxies and Gravitational Lensing by Clusters.|0
+1995AAS...187.7802B|Banas, K;Hughes, J|The Association of Supernova Remnants and Molecular Clouds in the Large Magellanic Cloud|0
+1995AAS...187.8210S|Swank, J;Christian, D;Smale, A|X-ray Observations of X2127+119 in the Metal-poor Globular Cluster M15: an X-ray Measure of Metallicity?|1
+1995AAS...187.8407S|Schachter, J;McDowell, J;Barret, D;Theran, R|Long-Term IPC Light Curves of X-ray Binaries, AGN, and Other Variable Sources|0
+1995ASPC...77...28E|Eichhorn, G;Murray, S;Kurtz, M;Accomazzi, A;Grant, C|The New Astrophysics Data System|12
+1995ASPC...77...48H|Harris, D;Grant, C;Andernach, H|The EINSTEIN On-Line Service|1
+1995ASPC...77..418V|van Stone, D;Garcia, M;McDowell, J|Recreating Einstein Level One Processing Exposure Masks and Background Maps in IRAF|0
+1995ASSL..203...37H|Harris, D;Grant, C|The Einstein On-Line Service|0
+1995BAAS...27R1395B|Banas, K;Hughes, J|The association of supernova remnants and molecular clouds in the Large Magellanic Cloud.|0
+1995cuny.reptQ....R|Ruderman, M|GRO: Studies of high energy pulsars with EGRET|0
+1995deps.rept....1H|Halpern, J;Helfand, D;Moran, E|No x-ray-luminous starbursts in the Einstein Medium Sensitivity Survey, either|0
+1995sao..rept.....F|Fabbiano, G|A long-term space astrophysics research program: an x-ray perspective of the components and structure of galaxies|0
+1995yCat..20950535G|Goorvitch, D|VizieR Online Data Catalog: Infrared CO line list for X 1Σ+ state (Goorvitch, 1994)|0
+1995yCat..41090267G|Giommi, P;Ansari, S;Micol, A|VizieR Online Data Catalog: Radio to X-Ray distribution of BL Lac Objects (Giommi+, 1995)|0
+1995yCat.9015....0G|Gioia, I;Maccacaro, T;Schild, R;Wolter, A|VizieR Online Data Catalog: Einstein EMSS Survey (Gioia+ 1990, Stocke+ 1991)|1
+1994AAS...185.1904S|Schwartz, D;Hively, R;Tucker, W|Maximum Likelihood Models for the X-ray Luminosity Function of Active Galactic Nuclei|0
+1994AAS...185.2112R|Richman, H;Patterson, J|X-Ray Absorption Dips in WZ Sagittae|1
+1994AAS...185.5011H|Harrus, I;Hughes, J|An X-ray study of the supernova remnant W44|0
+1994AAS...185.7001M|Moran, E|X-ray--luminous, IR-selected H II Galaxies and the X-ray Background|0
+1994AAS...185.7406G|Gardner, J;Annis, J|K-Band Galaxy Luminosity Functions in X-Ray Selected Clusters at z=1/3|0
+1994AAS...185.7414L|Ledlow, M;Burns, J|Cluster X-Ray Substructure and Radio Galaxy Correlations|0
+1994AAS...18511902M|Mohr, J;Fabricant, D;Geller, M;Evrard, A|Cosmological Constraints from Cluster X-ray Morphologies|0
+1994AIPC..308..193C|Christian, D|The Einstein Solid State Spectrometer and Monitor Proportional Counter Survey of Low Mass X-ray Binaries|0
+1994ASPC...54...41W|Wilkes, B|AGN in X- and r-Rays: A View of the Heart|3
+1994ASPC...54..325B|Burns, J;Rhee, G;Roettiger, K;Pinkney, J;Loken, C;Owen, F;Voges, W|On the Effects of X-Ray Subclumps and Cluster/Subcluster Mergers on Extended Radio Sources|11
+1994ASPC...61..379R|Rhode, K;Harnden, F|Einstein Hardness Ratios from a User-Developed IRAF Script|0
+1994ASPC...62..291D|Damiani, F;Micela, G;Sciortino, S|X-ray 0bservatiotus of Herbig Ae/Be stars|1
+1994ASPC...64..140S|Sciortino, S;Micela, C;Kashyap, V;Harnden, F;Rosner, R|A Variability Study of X-Ray Emission of Pleiades Stars|3
+1994ASPC...64..276F|Favata, F;Barbera, M;Micela, G;Sciortino, S|The Correlation Between Lithium and Activity in Late-Type Main Sequence Stars|0
+1994ASPC...64..408G|Gagne, M;Caillault, J|The Einstein Observatory Survey of the Orion Nebula|0
+1994ASPC...64..492W|Walter, F|The Rest of Orion: Low Mass Pre-Main Sequence Stars Outside the Orion Nebula|0
+1994HEAO2.C.......M|McDowell, J|The Einstein Observatory Soft X-ray Source List.|0
+1994IAUJD..20..277H|Harris, D;Stern Grant, C;Andernach, H|The EINSTEIN On-Line Service (EOLS)|0
+1994IAUS..159..370C|Cappi, M;Palumbo, G;Della Ceca, R;Maccacaro, T|ROSAT observations of Einstein EMSS AGNs.|0
+1994RMxAA..29...41K|Krautter, J;Alcala, J;Wichmann, R;Neuhauser, R;Schmitt, J|ROSAT observations of star forming regions.|22
+1994astro.ph..4066W|White, R;Day, C;Hatsukade, I;Hughes, J|Abundance Gradients in Cooling Flow Clusters: Ginga Lac &amp; Einstein SSS Spectra of A496, A1795, A2142 &amp; A2199|0
+1994nhxr.conf..565W|White, D;Fabian, A|Einstein Observatory Evidence for a Widespread Baryon Overdensity in Clusters of Galaxies|0
+1994yCat..20920053W|Wilkes, B;Tananbaum, H;Worrall, D;Avni, Y;Oey, M;Flanagan, J|VizieR Online Data Catalog: Einstein database of quasars. I. (Wilkes+, 1994)|0
+1993AAS...182.0212V|Vancoura, O;Hughes, J;Gorenstein, P|Comparative X-ray Studies of the Tycho and Cas A Supernova Remnants|0
+1993AAS...182.0302M|McDowell, J;Prestwich, A;Garcia, M;Plummer, D;van Stone, D;Manning, K|The Einstein IPC Unscreened Data Archive|0
+1993AAS...182.1204C|Chartas, G;Falco, E;Forman, W;Jones, C;Schild, R;Shapiro, L|ROSAT images of the double quasar 0957+561|0
+1993AAS...182.2706C|Chu, Y|Diffuse X-Ray Emission from HII Complexes - Scent of SNRs|3
+1993AAS...182.6314R|Remillard, R;Silber, A;Schachter, J;Slane, P|1ES1113+432: Luminous, Soft X-ray Outburst from a Nearby Cataclysmic Variable|0
+1993AAS...182.6901R|Rappaport, S;Di Stefano, R|Formation and Evolution of Supersoft X-Ray Sources|1
+1993AAS...182.7007B|Bloom, S;Marscher, A;Gear, W|Multiwavelength Observations of Flat Radio Spectrum Quasars and Active Galaxies|0
+1993AAS...183.0310R|Refregier, A;Helfand, D;Moran, E;McMahon, R|Is There a Foreground to the X-ray Background?|0
+1993AAS...183.1503M|Mullan, D;Johnson, M|Periodic X-ray Emission in Flare Stars: Resonant MHD Absorption?|0
+1993AAS...183.3701S|Schroeder, P;Ulmer, M;Matz, S;Grabelsky, D;Purcell, W;Strickman, M;Johnson, W;Kinzer, R;Kurfess, J;Jung, G|A CGRO/OSSE Survey of Pulsars|0
+1993AAS...183.4603G|Green, P;Wu, X;Anderson, S|UV Emission Lins vs. X-Rays in QSOs|0
+1993AAS...183.5301W|White, R;Day, C;Hatsukade, I;Hughes, J|GINGA LAC and Einstein SSS X-ray Spectral Evidence of Abundance Gradients in Galaxy Clusters|0
+1993AAS...183.5304H|Henriksen, M;Merrill, W|Non-isothermal X-ray Emitting Gas in Clusters of Galaxies|0
+1993AAS...183.6406T|Thompson, R|A Survey of the Broadband 0.1 to 3.5 keV Spectra of X-ray-Selected AGN|0
+1993AAS...183.9304Z|Zepka, A;Lundgren, S;Cordes, J;Wasserman, I;Camilo, F;Thompson, D|High Energy Emission from Four New Radio Pulsars|0
+1993AAS...183.9902G|Gagne, M;Caillault, J;Stauffer, J|Stellar X-ray Emission in the Orion Nebula Region|0
+1993AAS...18310501J|Junkkarinen, V;Barlow, T;Cohen, R|An X-ray Loud Low Redshift QSO Near the BALQSO UM 232|1
+1993AAS...18310602S|Schacter, J;Elvis, M;Szentgyorgyi, A|Methods for Determination of the Slew Survey logN-logS|3
+1993ASPC...35..416S|Schlegel, E;Colbert, E;Petre, R|A Possible LBV in NGC 1313?|0
+1993ASPC...40..648M|Maggio, A;Sciortino, S;Bianchi, L;Harnden, F;Rosner, R|Evolution of stellar activity in early post-main-sequence phases|0
+1993ASPC...51...43D|Dalcanton, J;Canizares, C;Granados, A;Stocke, J;Steidel, C|Measuring Omega in Compact Objects: Equivalent Widths of Quasar Emission Lines and Gravitational Microlensing|0
+1993ASPC...51..296F|Fruscione, A;Griffiths, R;MacKenty, J|Search for Starbursts among X-Ray-Selected Galaxies|3
+1993ASPC...51..354G|Gioia, I|X-Ray Selected Clusters of Galaxies|2
+1993ASPC...51..377B|Buote, D;Canizares, C|X-Ray Constraints on the Shape of the Dark Matter in Five Abell Clusters|0
+1993ASPC...51..407B|Burns, J;Rhee, G;Roettiger, K;Owen, F|Radio Galaxies, X-Ray Subclumps, and Mergers within Clusters of Galaxies|5
+1993ASPC...51..414R|Rhee, G;Burns, J;Owen, F|Correlative Studies of X-Ray and Radio Emission in Abell Clusters of Galaxies|0
+1993ASPC...51..475S|Schachter, J;Elvis, M;Voges, W|Cosmological Implictions of Slew Survey Source Samples|2
+1993ASSL..183..283D|Damiani, F;Micela, G|The X-ray Emission of T Tauri Stars in Taurus-Auriga as Seen from the EINSTEIN Observatory IPC|0
+1993ASSL..183..287F|Favata, F;Micela, G;Sciortino, S|An Analysis of the Stellar Content of the EINSTEIN Extended Medium Sensitivity Survey Using Age-Homogeneous X-ray Luminosity Functions|1
+1993BAAS...25Q.812M|Madejski, G|Soft X-ray spectrum of BL Lac object AO 0235+164 as a tracer of elemental abundances in an intervening galaxy at z = 0.524.|0
+1993ESOC...45..617F|Fabbiano, G|X-ray Properties of Early-Type Galaxies|2
+1993MmSAI..64..637C|Collura, A;Micela, G;Sciortino, S;Harnden, F;Rosner, R|A multi-color method for the classification of low resolution X-ray spectra|2
+1993NASSP.507..261H|Hack, M;Selvelli, P;Duerbeck, H|Classical novae and recurrent novae: General properties|1
+1993egte.conf...99T|Tolstoy, E;Griffiths, R|Correlation between low level fluctuations in the X ray background and faint galaxies|0
+1993egte.conf..104E|Eskridge, P;Fabbiano, G|Analysis of the Einstein sample of early-type galaxies|0
+1993egte.conf..279W|Wang, Q;Stocke, J|The detection of large amounts of cool, X ray absorbing gas in distant clusters of galaxies. What does this mean?|0
+1993egte.conf..285M|Mohr, J;Fabricant, D;Geller, M|Using X ray images to detect substructure in a sample of 40 Abell clusters|3
+1993egte.conf..287R|Rhee, G;Burns, J;Owen, F|A study of the X ray environment of radio galaxies|0
+1993egte.conf..299W|Wurtz, R;Stocke, J;Ellingson, E;Yee, H|The environment of X ray selected BL Lacs: Host galaxies and galaxy clustering|1
+1993fna..conf..387K|Koyama, K;Tsuru, T|X-ray probing of the dark matter.|0
+1993stbl.book.....C|Christian, D|Spectral and temporal behavior of low mass X-ray binaries observed with the Einstein Solid State Spectrometer (SSS) and Monitor Proportional Counter (MPC), and the broad band X-ray telescope|1
+1992AAS...179.9313M|Morariu, B;Kahn, S;Liedahl, D;Paerels, F|Soft X-ray Line Emission from X-ray Photoionized Gas in Accretion-powered Sources: the Einstein OGS Spectrum of GX9+9.|0
+1992AAS...180.0210T|Thompson, R;Cordova, F;Puchnarewicz, E;Mason, K|Multiwavelength Observations of Ultrasoft X-Ray Emitting Active Galactic Nuclei|0
+1992AAS...180.2804B|Brown, T;Cordova, F;Ciardullo, R;Bond, H|Einstein Observatory of Ultrasoft X-Ray Sources in the Magellanic Clouds|2
+1992AAS...180.3909R|Rho, J;Petre, R;Hester, J|X-Ray and Optical Study of the Supernova Remnant W44|0
+1992AAS...180.4911P|Primini, F;Forman, W;Jones, C|ROSAT HRI X-Ray Observations of the Bulge of M31|0
+1992AAS...180.5808B|Buote, D;Canizares, C|X-Ray Constraints on the Shape of the Dark Matter in Five Abell Clusters|0
+1992AAS...181.1506D|dell'Antonio, I;Geller, M;Fabricant, D|Optical and X-ray Properties of Groups of Galaxies|0
+1992AAS...181.1512R|Rhee, G;Burns, J;Owen, F|Correlative Studies of Cluster X-ray and Radio Emission|0
+1992AAS...181.1804M|Moran, E;Helfand, D;Hamilton, T;Becker, R;White, R|A Search for New Classes of X-ray Background Contributors|0
+1992AAS...181.3204C|Christian, D;Swank, J|Spectral and Temporal Behavior of Low Mass X-ray Binaries Observed by the Einstein SSS and MPC, and the Broad Band X-ray Telescope|0
+1992AAS...181.3205D|Drake, S;White, N|A Re-Analysis of Einstein SSS Spectra of Active Binary Stars|0
+1992AAS...181.3501G|Giommi, P;Ansari, S|Radio to X-ray Energy Distribution of samples of AGN|0
+1992AAS...181.4013E|Eskridge, P;Fabbiano, G|Analysis of the EINSTEIN Sample of Early-Type Galaxies|0
+1992AAS...181.7905H|Hamilton, T|Measurement of Degree Scale Clustering of Faint X-Ray Sources|0
+1992AAS...181.9901Z|Zepka, A;Cordes, J;Wasserman, I|An New Method for Source Detection from Photon-limited Imaging Data|0
+1992AAS...181.9910S|Singh, J;Swank, J|EINSTEIN SSS Observations of Two Intermediate Polars|0
+1992AAS...18110503A|Annis, J;Henry, J;Gioia, I|The Evolution of X-ray Selected Clusters of Galaxies|0
+1992AAS...18111106B|Burns, J;Rhee, G;Pinkney, J;Roettiger, K;Owen, F|The Gaseous Environs of Galaxy Clusters with Wide-Angle Tailed Radio Sources|0
+1992ASPC...25...44K|Karakashian, T;Harris, D;Garcia, M;Fabbiano, G;Flanagan, J;Stern, C|The Einstein On-Line System|3
+1992ASPC...25..100G|Giommi, P;Angelini, L;Jacobs, P;Tagliaferri, G|XIMAGE a Multi-Mission X-ray Image Analysis Package|31
+1992ASPC...25..356E|Elvis, M;Plummer, D;Schachter, J;Fabbiano, G|Einstein Slew Survey: Data Analysis Innovations|0
+1992ASPC...25..513O|Orszak, J;Kim, D;Kronenfeld, N;Manning, K|Conversion of the Einstein Observatory Level 1 Processing Systems|0
+1992ASSL..174..353G|Gursky, H;Cruddace, R;Stuart, B;Yentis, D;MacGillivray, H;Collins, C|The ROE / NRL Cluster Catalog - Part Two - Correlation with Serendipitous Einstein X-Ray Sources|0
+1992ASSL..174..441S|Schachter, J;Elvis, M;Plummer, D;Fabbiano, G;Huchra, J|The Einstein Slew Survey Catalog|0
+1992BAAS...24.1073R|Rho, J;Petre, R;Hester, J|X-ray and optical study of the supernova remnant W44.|0
+1992ESOC...43..491S|Schachter, J;Elvis, M;Stocke, J;Voges, W|New Heavily Absorbed AGN and BL Lac Objects Identified from X-Ray/Radio/Optical Databases|0
+1992MmSAI..63..545V|Vaiana, G;Maggio, A;Micela, G;Sciortino, S|Coronal emission and stellar evolution.|9
+1992MmSAI..63..681M|Mewe, R|X-ray spectroscopy of solar &amp; stellar coronae.|1
+1992MmSAI..63..735J|Jordan, C;Montesinos, B|Stellar coronae and their relation to convection zones and rotation rates|0
+1992MmSAI..63..739G|Grillo, F;Sciortino, S;Micela, G;Vaiana, G;Harnden, F|Results from an extensive Einstein Observatory survey of B-type stars|1
+1992MmSAI..63..743B|Barbera, M;Micela, G;Sciortino, S;Vaiana, G;Harnden, F;Rosner, R|X-ray emission at low-mass end of the MS - Results from an extensive Einstein Observatory survey|0
+1992NASCP3137..317H|Helfand, D;Gotthelf, E;Hamilton, T|Ultrasoft X-ray bursts: a clue to the origin of gamma-ray bursts?|1
+1992STIN...9224975T|Tsai, J;Bertschinger, E|Reanalysis of X ray emission from M87 II: Multiphase models|0
+1992daec.conf...67D|Durret, F;Gerbal, D;Lima Neto, G;Lachieze-Rey, M|X-ray emitting gas and binding matter distribution in two galaxy clusters|1
+1992ersf.meet...23M|Masnou, J;Wilkes, B;Elvis, M;McDowell, J;Arnaud, K|The soft X-ray excess in Einstein quasar spectra.|0
+1992fxra.conf..695S|Schachter, J;Elvis, M;Plummer, D;Fabbiano, G|Identifications of Einstein Slew Survey Sources|0
+1992pagn.conf..102S|Shastri, P;Wilkes, B;Elvis, M;McDowell, J|Quasar X-Ray Spectra Revisited|2
+1992sao..reptR....M|Maccacaro, T|ROSAT all-sky survey on the Einstein EMSS sample|0
+1992sao..reptR....N|Nisenson, P;Standley, C;Hughes, J|Iterative deconvolution of x ray and optical SNR images|0
+1992slew.rept.....S|Schachter, J;Elvis, M;Plummer, D;Fabbiano, G;Stocke, J;Perlman, E;Luu, J;Huchra, J;Humphreys, R;Remillard, R;Wallin, J|The Einstein All-Sky Slew Survey|0
+1992slew.reptQ....S|Schachter, J;Elvis, M;Plummer, D;Fabbiano, G|Identifications of Einstein Slew Survey sources|0
+1992xrea.conf...81M|Margon, B;Anderson, S;Xu, X;Green, P;Foltz, C|The X-Ray Properties of a Large Uniform QSO Sample - Einstein Observations of the LBQS|4
+1992xrea.conf...85S|Schachter, J;Elvis, M;Plummer, D;Remillard, R|Extragalactic Counterparts to Einstein Slew Survey Sources|0
+1992xrea.conf..198B|Brunner, H;Friedrich, P;Zimmermann, H;Staubert, R|Spectra of Radio-Loud Quasars Observed in the Rosat/xrt All-Sky Survey|17
+1992xrea.conf..210W|Wilkes, B;Elvis, M;Tananbaum, H;McDowell, J;Lawrence, A|ROSAT X-Ray Spectra of Quasars with a Range of Continuum Properties and Redshift|1
+1992xrea.conf..216M|Molendi, S;Brinkmann, W;Maccacaro, T|Preliminary Results on the Properties of the EMSS AGN / Active Galactic Nuclei as Derived from the RASS|2
+1992xrea.conf..231B|Boller, T;Meurs, E;Brinkmann, W;Fink, H;Zimmermann, U;Adorf, H|ROSAT All-Sky Survey Observations of IRAS Galaxies|7
+1992xrea.conf..238M|Mas-Hesse, J;Mirabel, I;Zimmermann, H|Soft X-Ray Segregation of Seyfert Galaxies|3
+1992xrea.conf..291M|Maccacaro, T;Della Ceca, R;Gioia, I;Stocke, J;Wolter, A|The Evolution of AGN / Active Galactic Nuclei at X-Ray Wavelengths|1
+1992xrea.conf..315H|Helfand, D;Hamilton, T|Where have all the Sources Gone|1
+1992xrea.conf..373A|Anderson, S;Wu, X|QSOS to B&lt;22 and the Cosmic X-Ray Background Radiation - a Fluctuation Correlation Approach|0
+1991ASPC...18..135F|Fabbiano, G|X-ray and radio continuum correlation in late-type galaxies.|0
+1991ASPC...21..150D|della Ceca, R;Maccacaro, T|The cosmological evolution and luminosity function of X-ray selected active galactic nuclei.|5
+1991BAAS...23..885W|Walter, F;Barden, S|How Many Naked T Tauri Stars are There? The First Results of an Unbiased Optical Search|0
+1991BAAS...23..913H|Harnden, F;Grillo, F;Sciortino, S;Micela, G;Vaiana, G|An Einstein Observatory Catalog of B-Type Stars|0
+1991BAAS...23..932W|Worrall, D;Birkinshaw, M;Murray, S|Are the Eridanus Einstein Deep Survey X-Ray Sources Unusual?|0
+1991BAAS...23..945C|Christian, D;Swank, J|X-Ray Observations of X2127 + 119 (AC211) Located in the Globular Cluster M15|0
+1991BAAS...23..957S|Slane, P;Plummer, D;Elvis, M|A Study of Time Variability in Einstein Slew Survey Sources|1
+1991BAAS...23..957W|Wu, X;Anderson, S;Margon, B;Schechter, P;White, S|The Cosmic X-Ray Background and QSOs to B &lt; 22: A Search for Correlated Fluctuations|0
+1991BAAS...23..965P|Primini, F;Garcia, M|High Resolution X-Ray Observations of the Central Region of M31|1
+1991BAAS...23.1007W|Worrall, D|PROS, Smithsonian Astrophysical Observatory. Report for the period Feb 1990 - Jan 1991.|0
+1991BAAS...23.1320H|Hamilton, T;Gotthelf, E;Helfand, D|Ultrasoft X-ray bursts: a clue to the origin of gamma-ray bursts?|0
+1991BAAS...23.1337M|Mohr, J;Fabricant, D;Geller, M|An Optical and X-Ray Determination of Substructure for a Large Sample of Abell Clusters|0
+1991BAAS...23.1338J|Jones, C;Forman, W|Einstein X-Ray Images of the Hot Intracluster Medium|4
+1991BAAS...23.1352H|Helfand, D;Hamilton, T|Where Have all the Sources Gone?|0
+1991BAAS...23.1375G|Gagne, M;Caillault, J|The Complete EINSTEIN Observatory X-Ray Survey of the Orion Nebula Region|0
+1991BAAS...23.1379S|Swank, J;Corcoran, M;Petre, R;Serlemitsos, P;Itoh, M|The Hot Gas in η Carina and the Carina Nebula|0
+1991BAAS...23.1401G|Griffiths, R|Discrete Sources of the Extragalactic X-Ray Background (XRB)|1
+1991BAAS...23Q.886W|Wang, Q|LMC-2 as the Blow-Out of a Hot Superbubble|0
+1991BAAS...23R.918H|Hughes, J;Singh, K|Elemental Abundances in the Supernova Remnant G292.0 + 1.8: Evidence for a Massive Progenitor|1
+1991BAAS...23R.957G|Green, P;Anderson, S;Ward, M|The Observed Relationship of X-Ray and Infrared Emission in Active and Normal Galaxies|0
+1991BAAS...23R.958S|Schachter, J;Elvis, M;Plummer, D|Counterparts of Sources in the Einstein Slew Survey|0
+1991BAAS...23R1335M|Moran, E;Helfand, D;Hamilton, T;Becker, R;White, R|Silver Needles in the 2σ Haystack|0
+1991BAAS...23R1431S|Schachter, J;Elvis, M;Plummer, D;Remillard, R|Identifications of Sources in the Einstein Slew Survey: Results and Methods|0
+1991BAAS...23R1469S|Schwartz, D;Tucker, W|The Shape of the X-Ray Luminousity Function of AGN|0
+1991IAUC.5252....1P|Prince, T;Skinner, G;Kulkarni, S;Matthews, K;Neugebauer, G|Galactic Center|25
+1991IAUS..143..105P|Pollock, A|More Einstein Views of Wolf-Rayet Stars|8
+1991IAUS..143..397M|Montmerle, T|Massive Stars and Giant HII Regions: the High-Energy Picture (review)|3
+1991IAUS..148...37H|Helfand, D|An X-Ray Image of the Large Magellanic Cloud: Detection of the Hot Interstellar Medium|3
+1991IAUS..148..285H|Hutchings, J;Cowley, A|Binary X-Ray Sources in the LMC|0
+1991Msngr..66...10B|Bignami, G;Caraveo, P;Mereghetti, S;Paul, J;Cordier, B;Goldwurm, A;Mandrou, P;Roques, J;Vedrenne, G|Optical identification of celestial high energy sources.|7
+1991S&T....81..574V|van Speybroeck, L|Sharing Praise - X-Ray Optics / Einstein and AXAF|0
+1991STIA...9325725M|Malina, R;Bowyer, S|Extreme ultraviolet astronomy|2
+1991atq..conf..245M|Murray, S;Jones, C;Forman, W|Einstein Deep Surveys|0
+1991csg..conf..113F|Forman, W;Jones, C|An Einstein survey of clusters of galaxies|0
+1991cuny.reptR....H|Hamilton, T|Absorption of the X ray background by the large magellanic cloud|0
+1991cuny.reptS....H|Helfand, D|A complete database for the Einstein imaging proportional counter|0
+1991edso.book.....B|Barron, C|The EXOSAT database system. On-line user's guide.|7
+1991eisw.book.....D|Dayal, G|The Einstein Swindle|0
+1991eoss.book.....P|Plummer, D|Einstein Observatory slew survey|2
+1991eua..coll...30C|Cordova, F;Kartje, J;Rodriguez-Bell, T;Mason, K;Harnden, F|An Ultrasolf Einstein X-Ray Survey|5
+1991heaa.conf..174H|Helfand, D|On the Origin of the Diffuse X-Ray Background|0
+1991heaa.conf..297M|Mushotzky, R|X-Ray Emission from Active Galactic Nuclei|1
+1990AIPC..211...11R|Rosner, R|X-ray emission from normal stars|8
+1990AIPC..211...74F|Fabbiano, G|Future X-ray observations of `normal' galaxies|2
+1990ASPC....9..301C|Caillault, J;Magnani, L|A Search for Pre-Main Sequence Stars in the High-Latitude Molecular Clouds - Part Two - a Survey of the Einstein Database|0
+1990BAAS...22..755W|White, D;Fabian, A;Forman, W;Jones, C;Stern, C|Ram-Pressure Stripping of the Multiphase ISM of the Giant Elliptical Galaxy M86|0
+1990BAAS...22..803C|Christian, D;Swank, J|Spectral and Temporal Behavior of Low Mass X-ray Binaries Observed with the SSS and MPC|0
+1990BAAS...22..805K|Kim, L;Fabbiano, G;Elvis, M|The X-Ray Spectrum of 3C264|0
+1990BAAS...22..858H|Harnden, F;Schmitt, J;Rosner, R;Collura, A;Vaiana, G|Coronal Temperatures of Late-type Stars|0
+1990BAAS...22.1067W|Waite, J;Curran, D;Cravens, T|Bremsstrahlung from the Jovian Aurora|0
+1990BAAS...22.1192M|McDowell, J;Elvis, M;Wilkes, B|An Atlas of Quasar Energy Distributions|0
+1990BAAS...22.1193W|Wilkes, B;Elvis, M;McDowell, J;Shastri, P|The Relation Between Radio and X-Ray Emission in Quasars|0
+1990BAAS...22.1195F|Forman, W;Jones, C;Stern, C;Falco, E;Shapiro, I|Einstein X-Ray Observations of the Lensed Quasar 0957+561|0
+1990BAAS...22.1195S|Schachter, J;McDowell, J;Plummer, D;Elvis, M|First Identifications of Einstein IPC Slew Survey Sources|0
+1990BAAS...22.1227K|Kellogg, E;Mathur, S|X-Ray Properties of Distant Galaxy Clusters|0
+1990BAAS...22.1243F|Fruscione, A;Griffiths, R;MacKenty, J|Multi-Wavelength Study of a Sample of X-Ray Starburst Galaxy Candidates|0
+1990BAAS...22.1255G|Gagne, M;Caillault, J;Scollick, K|Analysis of the Complete EINSTEIN X-Ray Survey of the Orion Nebula Region Using PROS|0
+1990BAAS...22.1288K|Kidder, K;Holberg, J|Some New and Old Soft X-Ray Observations of Hot DA White Dwarfs|0
+1990BAAS...22.1317K|Kim, D;Fabbiano, G;Trinchieri, G|The X-Ray Spectra of Normal Galaxies and Their Emission Mechanism|0
+1990BAAS...22.1320H|Hamilton, T|The Einstein Observatory All Data Sky Map|0
+1990BAAS...22.1339E|Eracleous, M;Halpern, J;Patterson, J|X-Ray Spectra of Cataclysmic Variables from the Einstein Observatory|0
+1990BAAS...22Q.883K|Kellogg, E;Falco, E;Slane, P|Structure of Einstein X-ray Sources in Distant Clusters|0
+1990BAAS...22Q1304F|Flanagan, K|Non-Equilibrium Ionization in Three Regions of Puppis A|0
+1990BAAS...22R.802T|Tsai, J;Bertschinger, E|Reanalysis of X-Ray Emission from M87|0
+1990EObsC...1.....H|Harris, D;Forman, W;Gioia, I;Hale, J;Harnden, F;Jones, C;Karakashian, T;Maccacaro, T;McSweeney, J;Primini, F|The Einstein Observatory catalog of IPC X ray sources. Volume 1E: Documentation|0
+1990EObsC...2.....H|Harris, D;Forman, W;Gioia, I;Hale, J;Harnden, F;Jones, C;Karakashian, T;Maccacaro, T;McSweeney, J;Primini, F|The Einstein Observatory catalog of IPC X ray sources. Volume 2E: Right ascension range 00h 00m to 03h 59m|0
+1990EObsC...3.....H|Harris, D;Forman, W;Gioia, I;Hale, J;Harnden, F;Jones, C;Karakashian, T;Maccacaro, T;McSweeney, J;Primini, F|The Einstein Observatory catalog of IPC X ray sources. Volume 3E: Right ascension range 04h 00m to 07h 59m|0
+1990EObsC...4.....H|Harris, D;Forman, W;Gioia, I;Hale, J;Harnden, F;Jones, C;Karakashian, T;Maccacaro, T;McSweeney, J;Primini, F|The Einstein Observatory catalog of IPC X ray sources. Volume 4E: Right ascension range 08h 00m to 11h 59m|0
+1990EObsC...5.....H|Harris, D;Forman, W;Gioia, I;Hale, J;Harnden, F;Jones, C;Karakashian, T;Maccacaro, T;McSweeney, J;Primini, F|The Einstein Observatory catalog of IPC X ray sources. Volume 5E: Right ascension range 12h 00m to 15h 59m|0
+1990EObsC...6.....H|Harris, D;Forman, W;Gioia, I;Hale, J;Harnden, F;Jones, C;Karakashian, T;Maccacaro, T;McSweeney, J;Primini, F|The Einstein Observatory catalog of IPC X ray sources. Volume 6E: Right ascension range 16h 00m to 19h 59m|0
+1990EObsC...7.....H|Harris, D;Forman, W;Gioia, I;Hale, J;Harnden, F;Jones, C;Karakashian, T;Maccacaro, T;McSweeney, J;Primini, F|The Einstein Observatory catalog of IPC X ray sources. Volume 7E: Right ascension range 20h 00m to 23h 59m|0
+1990ESASP.310..535R|Reichert, G;Puchnarewicz, E;Mason, K|IUE and Einstein observations of the Liner galaxy NGC 4579|1
+1990IAUC.5032....1M|Mandrou, P|Galactic Center|34
+1990IAUS..137..159C|Caillault, J;Zoonematkermani, S|X-Ray Variability in the Orion Nebula|1
+1990IAUS..140..482C|Crusius-Watzel, A;Biermann, P;Lerche, I;Schlickeiser, R|Properties of the Medium Causing Asymmetric Depolarization in Strong Double Radio Sources with One Jet|0
+1990ICRC....1....1P|Pizzichini, G;Belardi, M;Cristallo, R;Palazzi, E;Rebecchi, S;Marshall, E|Identification of Serendipitously Discovered Extragalactic X-Ray Sources with Catalogued Astronomical Objects|0
+1990ICRC....1...27P|Pizzichini, G;Belardi, M;Cristallo, R;Palazzi, E|Identification of Serendipitously Discovered X-Ray Sources with Catalogued Galactic Objects and the Correlation Between X-Ray and Optical Luminosity in Normal Stars|0
+1990NASCP3084..185F|Forman, W;Jones, C;Tucker, W;David, L|The Onset of Galactic Winds in Early Type Galaxies|0
+1990Natur.347..437E|Elvis, M;White, N|Book-Review - Imaging X-Ray Astronomy - a Decade of Einstein Observatory Achievements|0
+1990S&T....80..345.||Einstein's Greatest Hits|0
+1990S&T....80Q.591.||Hubble Meets Einstein|0
+1990SCSMP..33..720Z|Zhou, Y;Cheng, F;Yan, M;Su, Y|Extra-soft X-ray excess of quasars|0
+1990STIN...9210724W|White, R|IPC two-color analysis of X ray galaxy clusters|0
+1990Sci...249.1314E|Elvis, M|Book-Review - Imaging X-Ray Astronomy - a Decade of Einstein Observatory Achievements|0
+1990eoci.book.....H|Harris, D|The Einstein Observatory Catalog of IPC X-ray Sources|36
+1990eodh.book.....G|Garcia, M|The Einstein Observatory database of HRI X-ray images|1
+1990hrxr.conf..172F|Fischbach, K;Bateman, L;Canizares, C;Markert, T;Saez, P|A comparison of three regions of Puppis A|3
+1990ixra.conf.....E|Elvis, M|Imaging X-Ray Astronomy. A Decade of Einstein Observatory Achievements.|6
+1990ixra.conf....3R|Rossi, B;Gursky, H;Boldt, E;Clark, G;Giacconi, R|Personal recollections on the origins of the Einstein Observatory.|0
+1990ixra.conf...15T|Tananbaum, H|From Einstein to AXAF|1
+1990ixra.conf...39L|Linsky, J|EINSTEIN and Stellar Sources|5
+1990ixra.conf..109H|Hertz, P|Accreting Galactic X-Ray Sources|0
+1990ixra.conf..191G|Gioia, I|Sky Surveys with Einstein|0
+1990ixra.conf..227S|Sciortino, S;Vaiana, G;Harnden, F;Ramella, M;Morossi, C;Rosner, R;Schmitt, J|The Einstein Survey of O-Stars|1
+1990ixra.conf..241S|Seward, F|A New Boundary for the VELA Supernova Remnant|3
+1990ixra.conf..247M|Micela, G;Sciortino, S;Vaiana, G;Harnden, F;Rosner, R|Largescale Structures of the Soft X-Ray Background|2
+1990ixra.conf..273C|Cordova, F;Kartje, J;Mason, K;Mittaz, J|The Softest Einstein Active Galactic Nuclei|7
+1990ixra.conf..307F|Fabbiano, G|The Einstein Observatory Data Bases|0
+1990ixra.conf..309H|Harris, D;Forman, W;Gioia, I;Hale, J;Harnden, F;Jones, C;Maccacaro, T;McSweeney, J;Primini, F;Schwarz, J;Tananbaum, H|The Einstein Observatory Source Catalog|3
+1990ixra.conf..313H|Harnden, F;Sciortino, S;Micela, G;Maggio, A;Vaiana, G;Schmitt, J|The Einstein Observatory Stella X-Ray Database|4
+1990ixra.conf..319S|Seward, F|Einstein Observations of Supernova Remnants|0
+1990ixra.conf..323F|Fabbiano, G;Trinchieri, G;Hazelton, S;Kim, D|The Einstein Normal Galaxy Database|0
+1990ixra.conf..327W|Wilkes, M;Tananbaum, H;Avni, Y;Oey, M;Worrall, D|The Einstein Database of Optically and Radio Selected Quasars|1
+1990ixra.conf..331E|Elvis, M;Plummer, D;Fabbiano, G|The Einstein All-Sky Slew Survey Data Base|1
+1990ixra.conf..333G|Gioia, I;Maccacaro, T;Morris, S;Schild, R;Stocke, J;Wolter, A|The Einstein Extended Medium Sensitivity Survey Database|0
+1990ixra.conf..337P|Primini, F|The Einstein Observatory Deep Survey Database|1
+1990lsss.conf...37G|Gioia, I;Maccacaro, T;Morris, S;Schild, R;Stocke, J;Wolter, A|The EINSTEIN Observatory Extended Medium Sensitivity Survey: An X-Ray Survey at Low Fluxes|0
+1989ASIC..262..225A|Auriere, M;Koch-Miramond, L;Ortolani, S|The X-ray source in the core of 47 Tucanae|0
+1989ASIC..262..243C|Caraveo, P;Bignami, G;Goldwurm, A|A new 60-msec X-ray pulsar and its massive Early-Type companion|0
+1989ASIC..262..257G|Garcia, M|X-ray spectral variability of low-mass X-ray binaries|0
+1989BAAS...21..718W|Webb, J|Analysis of Nearly Simultaneous X-Ray and Optical Observations of Active Galactic Nuclei|0
+1989BAAS...21..720M|Murray, S;Stoll, C|Einstein Source Information System|0
+1989BAAS...21..721S|Stoll, C;Schwarz, J|X-Ray Data Archive on Compact Discs|0
+1989BAAS...21..754L|Lum, K;Canizares, C|Probing the Intercloud Medium with AXAF|0
+1989BAAS...21..772S|Soltan, A;Fabricant, D|Small Spatial Scale Fluctuations in the X-ray Surface Brightness of Clusters of Galaxies|0
+1989BAAS...21..775G|Gregorich, D;Neugebauer, G;Soifer, B;Herter, T;Houck, J;Helfand, D;Gunn, J|An IRAS Deep Far-Infrared Survey|1
+1989BAAS...21..785W|Worrall, D;Conroy, M;Deponte, J;Mandel, E;Murray, S;Schwarz, J;Szczypek, A;Vanhilst, M;Arnaud, K;Pisarski, R|PROS - an X-ray astronomy analysis software package.|0
+1989BAAS...21.1074P|Plummer, D;Elvis, M;Fabbino, G|The Einstein "All-Sky" IPC Slew Survey|0
+1989BAAS...21.1079H|Hertz, P;Bailyn, C;Grindlay, J;Cohn, H;Lugger, P|A Survey for X-ray Selected Cataclysmic Variables in the Galactic Bulge|0
+1989BAAS...21.1100E|Elvis, M|The Einstein "All-Sky" IPC Slew Survey|0
+1989BAAS...21.1155M|Mac Low, M;Chu, Y|Diffuse X-Ray Emission Around OB Associations in the Large Magellanic Cloud|0
+1989BAAS...21.1168G|Griffiths, R;Ewald, S|Correlated Deep X-Ray and Optical Imaging in Pavo|0
+1989BAAS...21.1169H|Harris, D;Stern, C;Dewdney, P;Costain, C;McHardy, I;Willis, A|A New Radio Halo in a Distant Cluster of Galaxies|0
+1989BAAS...21.1177W|Wang, Q|A Comprehensive Study of the X-Ray Emisson from the LMC|0
+1989BAAS...21.1195G|Guetter, H;Ables, H;Harris, H;Monet, D;Pier, J|A Search for QSO's Near Globular Clusters|0
+1989BAAS...21.1207W|White, N;van der Woerd, H|Low Energy Line Emission from Low Mass X-ray Binaries|0
+1989BAAS...21.1220W|Wu, X|The Intensity and Spectrum of the Diffuse X-ray Background|0
+1989BAAS...21.1225W|Wilkes, B;Elvis, M;McDowell, J;Masnou, J;Arnaud, K|Soft X-ray/XUV Excesses in Einstein Quasar Spectra|0
+1989BAAS...21Q.747C|Corcoran, M;Heap, S|Structure of the Wind from the Massive X-ray Binary 4U 1700-37|0
+1989BAAS...21Q1220H|Helfand, D;Hamilton, T;Rich, R;Becker, R;White, R|Faint Radio Galaxies and the Origin of the X-Ray Background|1
+1989BAAS...21R1130M|Madejski, G;Arnaud, K;Mushotzky, R;Weaver, K|X-ray Spectra of BL Lac Objects from Combined Einstein Observatory SSS and MPC Data|0
+1989BAAS...21R1168M|Malumuth, E;Smith, E;Kriss, G|The Centers of X-Ray Clusters with cD Galaxies|0
+1989BAAS...21R1220H|Hamilton, T;Helfand, D|The Spectrum of Arcminute Scale Fluctuations in the Cosmic X-Ray Background|0
+1989BAAS...21R1221G|Grindlay, J;Cool, A;Bailyn, C;Kuhn, O;Hertz, P|The Brighest Low Luminosity X-ray Sources in Globulars: CV's or LMXB's?|0
+1989BiWis..25..132B|Buhrke, T|Ein Pulsar für Einstein.|0
+1989ESASP.296..359C|Collura, A;Reale, F;Peres, G|Variability of the X-Ray Sources in M31|0
+1989ESASP.296..459K|Kelley, R;Christian, D;Schoelkopf, R;Swank, J|Einstein SSS and MPC Observations of AQUILAE-X-1 and 4U:1820-30|2
+1989ESASP.296..505L|Liedahl, D;Kahn, S;Osterheld, A;Goldstein, W|Spectral Signatures of X-Ray Photoionized Nebulae|4
+1989ESASP.296..573P|Pietsch, W;Dennerl, K;Rosso, C|EXOSAT Deep Exposure of the Large Magellanic CLOUD-X-4 Region|4
+1989ESASP.296..727W|Warwick, R;Stewart, G|Spatial Fluctuations in the Diffuse X-Ray Background|18
+1989ESASP.296..733B|Barcons, X;Fabian, A|Einstein IPC Observations of the 1-3-KEV X-Ray Background|1
+1989ESASP.296..743G|Griffiths, R;Padovani, P|Active Star-Forming Galaxies in the X-Ray Foreground|1
+1989ESASP.296..843C|Cordova, F;Kartje, J|Ultrasoft Components in X-Ray Active Galactic Nuclei / AGN|2
+1989ESASP.296..847E|Elvis, M;Plummer, D;Fabbiano, G|The Einstein All-Sky IPC Slew Survey|0
+1989ESASP.296..865A|Abraham, R;McHardy, I|Long Timescale X-Ray Variability in Active Galactic Nuclei / AGN|5
+1989ESASP.296..905B|Brunner, H;Worrall, D;Wilkes, B;Elvis, M|The Dependence of the Soft X-Ray Spectral Slope with Radio Property Luminosity and Redshift for a Large Sample of Active Galactic Nuclei / AGN from the Einstein IPC Data Base|6
+1989ESASP.296..909C|Chokshi, A;Turner, E;Ostriker, J|QSO Optical Counts and Constraints on the X-Ray Background|1
+1989ESASP.296.1005M|Micela, G;Sciortino, S;Vaiana, G;Harnden, F;Rosner, R|Spatial and spectral features of soft diffuse X-ray background seen by the Einstein Observatory.|1
+1989ESASP.296.1043S|Schwartz, D;Qian, Y;Tucker, W|Comparing measurements of AGN X-ray spectra with the shape of the diffuse X-ray background spectrum.|4
+1989ESASP.296.1081W|Wilkes, B;Elvis, M;McDowell, J;Masnou, J;Arnaud, K|The soft X-ray excess in Einstein quasar spectra.|13
+1989ESASP.296.1105H|Holt, S;Turner, T;Mushotzky, R;Weaver, K|Einstein SSS+MPC observations of Seyfert type galaxies.|5
+1989ESOC...32..243E|Elvis, M;Fassnacht, C;Wilson, A;Briel, U|Extended X-Ray Emission in Seyfert Galaxies|0
+1989ESOC...32..325F|Fabbiano, G|X-Ray Emission and Extranuclear Activity in Galaxies|0
+1989IAUS..131..304T|Tarafdar, S;Apparao, K|Einstein X-ray observations of planetary nebulae and their implications.|2
+1989IAUS..134..106B|Beall, J;Snyder, W;Wood, K|Short Time Scale Variability of Active Galactic Nuclei: Einstein IPC Observations of PKS 2155-304 - a Report of Rapid Variations of Instrumental Origin|0
+1989IAUS..134..161C|Canizares, C;White, J|The X-Ray Spectra of High Redshift Quasars|0
+1989IAUS..134..173U|Urry, C;Kruper, J;Canizares, C|Soft X-Ray Spectra of Seyfert Galaxies|0
+1989IAUS..134..175S|Schwartz, D;Qian, Y;Tucker, W|The Shape of Soft X-Ray Spectra of Quasars|0
+1989IAUS..134..184E|Elvis, M;McDowell, J;Wilkes, B|The Infrared and X-Ray Continua of Quasars: is There a Connection?|1
+1989IAUS..134..203G|Gioia, I;Maccacaro, T;Morris, S;Schild, R;Stocke, J;Wolter, A|X-Ray Selected AGN from the Extended Medium Sensitivity Survey|1
+1989IAUS..134..205B|Boldt, E|X-Ray Background Constraints on the Log N-Log S Relation for AGN|0
+1989IAUS..134..517F|Fabbiano, G|Low-Activity Nuclei in Spiral Galaxies|0
+1989IAUS..136..567S|Skinner, G|X-Ray Observations of the Galactic Center (review)|11
+1989MmSAI..60...33P|Pallavicini, R|Recent advances in stellar coronal physics.|0
+1989MmSAI..60..125S|Sciortino, S;Favata, F;Micela, G;Vaiana, G;Harnden, F|Nearby and bright star samples from the Einstein Observatory stellar X-ray catalog|2
+1989MmSAI..60..217M|Maggio, A;Vaiana, G;Harnden, F;Rosner, R|A magnitude limited X-ray survey of late-type evolved stars with the Einstein Observatory|0
+1989MmSAI..60..221P|Peres, G;Reale, F;Collura, A;Fabbiano, G|Variability of the X-ray sources in M 33.|2
+1989MmSAI..60..239M|Micela, G;Sciortino, S;Vaiana, G;Harnden, F;Rosner, R|An Einstein Observatory view of large-scale (equal to or greater than 1 deg) soft X-ray background structures - A status report|0
+1989SPIE.1159..495B|Brinkman, A;Aarts, H;Branduardi-Raymont, G;Hailey, C;Jansen, F;Kahn, S;de Korte, P;Zehnder, A|Spectroscopic investigations with a reflection-grating spectrometer|10
+1989SPIE.1160..362S|Sumner, T|Soft electron background in x-ray telescopes using grazing incidence optics in near-Earth orbits|0
+1989STIN...8926784M|Marazas, B|The search for absorption of 1 keV X-rays by the Small Magellanic Cloud|0
+1989STIN...8929288O|Oegelman, H;Koch-Miramond, L;Auriere, M|Measurement of the VELA pulsar's proper motion and detection of the optical counterpart of its compact X-ray nebula|0
+1989STIN...9015020C|Cordova, F;Kartje, J;Mason, K;Mittaz, J|The softest Einstein AGN (Active Galactic Nuclei)|0
+1989bbag.conf..175W|Wolter, A|Properties of a Large Sample of X-ray Selected Active Galactic Nuclei from the Einstein Observatory Extended Medium Sensitivity Survey|0
+1989ipwa.book.....B|Bork, T|On the interaction of a pulsar with the ambient medium utilizing X-ray images of the Crab nebula.|24
+1989pig..conf..141K|Kellogg, E;Falco, E;Forman, W;Jones, C;Slane, P|X-ray observations of gravitational lenses.|0
+1989woga.conf..492G|Gioia, I;Garilli, B;Maccacaro, T;Maccagni, D;Vettolani, G;Wolter, A|An unusual red envelope galaxy in an X-ray selected cluster.|0
+1988ASIC..229.....F|Fabian, A|Cooling flows in clusters and galaxies|1
+1988ASIC..229...17F|Forman, W|Clusters of Galaxies and Cooling Hot Gas|10
+1988ASIC..229...31A|Arnaud, K|a Catalog (ue) of Cooling Flows|88
+1988ASIC..229...53M|Mushotzky, R;Szymkowiak, A|Einstein Observatory Solid State Detector Observations of Cooling Flows in Clusters of Galaxies|97
+1988ASIC..229...63C|Canizares, C;Markert, T;Donahue, M|X-Ray Emission Lines from Cooling Flows|95
+1988ASIC..229..235T|Thomas, P|Cooling Flows in Galaxies|8
+1988ASIC..229..273T|Trinchieri, G|Radio and X-Ray Emission in Early-Type Galaxies|1
+1988ASIC..229..343W|White, R|The Current Evolution of X-Ray Cluster Cooling Flows|5
+1988ASPC....2..300M|Maccacaro, T;Gioia, I;Morris, S;Schild, R;Stocke, J;Wolter, A|Quasar Sample|1
+1988ASPC....2..311S|Stocke, J;Morris, S;Gioia, I;Maccacaro, T;Schild, R;Wolter, A|Sensitivity Survey Sample of BL Lacertae Objects|7
+1988ASPC....2..351G|Griffiths, R;Tuohy, I;Brissenden, R;Ward, N;Murray, S;Burg, R|A Joint Deep X-Ray and UV-Excess Survey in Pavo Quasars at Z 1 Contributing to the Extragalactic X-Ray Flux|3
+1988BAAS...20..648A|Agrawal, P;Vaidya, J|X-ray Flaring Activity and Binary Phase Correlated Intensity Variations in the RS CVn Binary HR 1099|0
+1988BAAS...20..734W|Worrall, D;Wilkes, B|X-ray Spectra of Compact Extragalactic Radio Sources with the Einstein Observatory IPC|0
+1988BAAS...20..735S|Schwartz, D;Remillard, R;Bradt, H;Brissenden, R;Tuohy, I;Buckley, D|Initial Results of An Einstein Observatory "Shallow Survey" Near HEAO-1X-ray Source Locations|0
+1988BAAS...20..969L|Lum, K;Canizares, C;Markert, T;Arnaud, K|High Resolution X-Ray Spectroscopy of Four Active Galaxies: Upper Limits on Oxygen Line Emission and Gas Density|0
+1988BAAS...20..971M|Marshall, F;Madejski, G;Pravdo, S;Henry, J|E1326+12: A New X-ray Selected BL Lac|0
+1988BAAS...20..974P|Plummer, D;Elvis, M;Fabbiano, G|The Einstein Slew Survey|0
+1988BAAS...20..974W|Wu, X;Hamilton, T;Helfand, D|Imaging Diffuse X-rays with the Einstein IPC|0
+1988BAAS...20..980H|Hamilton, T;Helfand, D;Wu, X;Wang, Q|Determination of the Absolute Flux of the Cosmic X-ray Background in the 1-3 keV Band|0
+1988BAAS...20.1019S|Stanford, J;Caillault, J;Zoonematkermani, S|An EINSTEIN Survey of the Soft X-Ray Background at Low Galactic Latitudes|0
+1988BAAS...20.1024E|Elvis, M;Giommi, P;McDowell, J;Wilkes, B|Variability in the Steep X-ray Spectrum of the Quasar PG1211+143|1
+1988BAAS...20.1034W|Wolter, A;Gioia, I;Maccacaro, T|The Extended Medium Sensitivity Survey|0
+1988BAAS...20.1042.||The Einstein Observatroy Source Catalog CfA Einstein Catalog Committee (CfA)|0
+1988BAAS...20.1046K|Kelley, R;Christian, D;Swank, J;Rangarajan, G|A Search for Quasi-Periodic Oscillations from X-Ray Binaries in the Energy Range 0.6 - 4.5 ke V|1
+1988BAAS...20.1067M|Maccacaro, T|Searching for Quasars and Other Kinds of Active Galactic Nuclei at X-ray Wavelengths|0
+1988BAAS...20.1086D|Dixon, W;Kriss, G;Ferguson, H;Malumuth, E|The Mass and Dynamics of Clusters of Galaxies from Optical and X-ray Observations|0
+1988BAAS...20.1088J|Jones, C;Porter, A|Einstein X-ray Observations of High Redshift Clusters|0
+1988BAAS...20.1099S|Schoelkopf, R;Kelley, R|Detection of Coherent 7.6 Hz Oscillations During a Burst from Aql X-1|1
+1988BAAS...20.1101H|Harnden, F;Schmitt, J;Collura, A;Vaiana, G|A Survey of the X-ray Spectra of Stars|0
+1988BAAS...20Q.719B|Birkinshaw, M;Arnaud, K;Hughes, J|The Gas Content of Abell 665|0
+1988BAAS...20Q.974H|Helfand, D;Hamilton, T|Faint Radio Source Counts and the Origin of the X-ray Background|0
+1988BAAS...20Q1025B|Bloom, S;Marscher, A|Comparison of VLBI Radio Core and X-Ray Flux Densities of Extragalactic Radio Sources|0
+1988BAAS...20Q1104W|Wang, Q;Helfand, D|X-rays from OB Associations, Bubbles, and Superbubbles in the LMC|1
+1988ESOC...28....3B|Brugel, E;Domik, G;Voels, S|A Multi-Spectral Analysis System Using Large Databases|0
+1988ESOC...28..483S|Sciortino, S;Harnden, F;Maggio, A;Micela, G;Vaiana, G;Schmitt, J;Rosner, R|The Einstein Observatory Stellar X-ray Database: an overview.|4
+1988IAUS..126..685H|Hertz, P|Low Luminosity Globular Cluster X-Ray Sources|1
+1988IAUS..130..542G|Gioia, I;Maccacaro, T;Morris, S;Schild, R;Stocke, J;Wolter, A|X-Ray Selected Clusters of Galaxies|0
+1988MmSAI..59...33G|Giommi, P;Tagliaferri, G;Angelini, L|Serendipitous sources in EXOSAT images.|10
+1988STIA...9350512S|Stocke, J;Morris, S;Gioia, I;Maccacaro, T;Schild, R;Wolter, A|The Einstein Observatory extended medium sensitivity survey sample of BL Lacertae objects|0
+1988feta.conf......||From Einstein to AXAF|0
+1988feta.conf....1C|Cfa Einstein Catalog Committee,|The Einstein Observatory Source Catalog|0
+1988feta.conf....2H|Harnden, F;Sciortino, S;Micela, G;Maggio, A;Vaiana, G;Schmitt, J|The Einstein Observatory Stellar X-ray Database|0
+1988feta.conf....3E|Elvis, M;Plummer, D;Fabbiano, G|The Einstein Slew Survey|0
+1988feta.conf....5P|Primini, F|The Einstein Deep X-ray Survey Database|0
+1988feta.conf....6S|Seward, F|The Einstein Supernova Remnant Catalog|0
+1988feta.conf....7F|Fabbiano, G;Trinchieri, G;Hazelton, S;Kim, D|The Einstein Galaxy Database|0
+1988feta.conf....9W|Walter, F|The Unanticipated Impact of Einstein Observations on Our Understanding of Low Mass Star Formation|0
+1988feta.conf...11F|Fleming, T|Studies of Stellar X-ray Emission using the Einstein Extended Medium Sensitivity Survey|0
+1988feta.conf...12M|Maggio, A;Vaiana, G;Haisch, B;Stern, R;Harnden, F;Rosner, R|The X-ray Emission of Late-Type Giant and Supergiant Stars: Results of the Einstein Observatory Magnitude-Limited X-ray Survey|0
+1988feta.conf...13S|Sciortino, S;Harnden, F;Ramella, M;Morossi, C;Rosner, R;Schmitt, J;Vaiana, G|Relationship between Optical and X-ray Properties of O-type Stars Surveyed by Einstein|0
+1988feta.conf...28M|Micela, G;Sciortino, S;Vaiana, G;Harnden, F;Rosner, R;Schmitt, J|An Einstein Observatory View of Large-Scale Soft X-ray Background Structures: A Status Report|0
+1988pnsb.conf....1N|Nagase, F|Observations of X-ray pulsars.|3
+1988prun.proc...91G|Griffiths, R;Tuohy, I;Brissenden, R;Ward, M;Murray, S;Burg, R|Quasars contributing to the extragalactic X-ray flux: the deep X-ray survey in Pavo.|4
+1988smbh.proc..131E|Elvis, M|An X-Ray Perspective on Quasar Continua|2
+1988smbh.proc..169W|Wilkes, B;Elvis, M|Ultra-Soft Excesses in the Soft X-Ray Spectra of Quasars|0
+1988srim.conf...99A|Aschenbach, B|Recent X-Ray Observations of Supernova Remnants and Their Interpretation|8
+1988srim.conf..115S|Seward, F|X-Ray Images of Supernova Remnants|6
+1988srim.conf..129M|Markert, T;Blizzard, P;Canizares, C;Hughes, J|Einstein Bragg Crystal Spectrometer Observations of CAS a - a Nonequilibrium Ionization Interpretation|2
+1988srim.conf..153F|Fischbach, K;Canizares, C;Markert, T;Coyne, J|Plasma Diagnostics with X-Ray Lines of Oxygen in Puppis a|1
+1988srim.conf..157M|Matsui, Y;Long, K;Tuohy, I|X-Ray Images of PKS1209-52 and its Central Compact X-Ray Source|4
+1988sscd.conf...19P|Pallavicini, R|Stellar coronae.|2
+1987ASSL..132..283M|Milone, E;Leahy, D;Fry, D|Broadband Multicolour Photometry of Ch-Cygni|4
+1987BAAS...19..644F|Fabbiano, G;Trinchieri, G|The X-ray Emission of Spiral Galaxies|0
+1987BAAS...19..647L|Leahy, D|Einstein IPC Imaging and Spectral Observations of HB9 and HB21|0
+1987BAAS...19..682W|White, J;Canizares, C|Are Elliptical Galaxies Really Round?|2
+1987BAAS...19..703C|Chlebowski, T|An Analysis of X-Ray Fluxes of O-Type Stars|1
+1987BAAS...19..717Z|Zoonematkermani, S;Caillault, J|The EINSTEIN Survey of the Young Stars in the Orion Nebula|1
+1987BAAS...19..721F|Fischbach, K;Canizares, C;Markert, T;Coyne, J|Ionization Structure of the X-Ray Emitting Plasma in Puppis A|0
+1987BAAS...19..729H|Hughes, J;Kirshner, R;Winkler, P|Morphological Studies of the Supernova Remnant E0102.2-72.2|0
+1987BAAS...19..731H|Harris, D;Bohlen, E|The Hot Gas Surrounding Cygnus A|0
+1987BAAS...19..733L|Lee, M;Balick, B;Halpern, J;Heckman, T|X-ray Variability of Mrk 335|0
+1987BAAS...19..755H|Hammond, G|Composition and Einstein Redshift for the White Dwarf van Maanen 2|0
+1987BAAS...19.1027Q|Quillen, A;Golub, L;Harnden, F;Saar, S|Comparison of Predicted vs. Measured Stellar Magnetic Fields|0
+1987BAAS...19.1040H|Harnden, F;Rosner, R;Sciortino, S;Maggio, A;Micela, G;Vaiana, G;Schmitt, J|An Einstein Observatory Stellar X-ray Catalog|0
+1987BAAS...19.1049H|Hamilton, T|The Integrated Spectrum of Faint Structure in the Extragalactic X-ray Background|1
+1987BAAS...19.1056H|Holt, S;Kelley, R|Absorption Edges in Galactic X-Ray Binaries|0
+1987BAAS...19.1066D|Davis, M|On-Orbit Contamination of the EINSTEIN and EXOSAT Mirrors: AXAF Performance Implications|0
+1987BAAS...19.1067H|Halpern, J;Tytler, D|The Geminga X-ray Counterpart and a Blue Optical Identification|0
+1987BAAS...19.1076V|Vrtilek, S;Wargelin, B;McClintock, J;Kahn, S;Seward, F|Survey of Column Densities to Galactic X-ray Sources Using the Einstein OGS|0
+1987BAAS...19.1080M|McMillan, S;Kowalski, M;Ulmer, M|The Determination of Orientations and Ellipticities of X-ray Images of Galaxy Clusters|0
+1987BAAS...19.1080U|Ulmer, M;McMillan, S;Kowalski, M|Orientations, Ellipticities and Nearest-Neighbor Correlations in Abell Clusters|0
+1987BAAS...19.1095F|Feigelson, E;Kriss, G|X-ray Study of Pre-Main Sequence Stars in the Chamaeleon Dark Cloud|0
+1987BAAS...19R.680G|Geldzahler, B;Hertz, P|The Einstein Galactic Plane Survey Extension: Source Counts and the X-ray Number-Flux Relation|0
+1987BAAS...19R.720M|Margon, B;Bolte, M|The Low Luminosity X-ray Sources in Omega Centauri|0
+1987BAAS...19R1047B|Biretta, J;Stern, C;Harris, D|Radio, Optical and X-ray Characteristics of the M87 Jet|0
+1987BAAS...19S.696W|Wolter, A;Gioia, I;Maccacaro, T;Stocke, J;Zamorani, G|The X-Ray Spectra of Faint Extragalactic Sources|0
+1987IAUC.4490....1C|Cordova, F;Hjellming, R;Mason, K;Middleditch, J|PSR 0656+14|6
+1987IAUS..117..201F|Fabian, A;Arnaud, K;Thomas, P|Cooling Flows and the Formation of Dark Matter|18
+1987IAUS..121..329G|Gioia, I;Maccacaro, T;Schild, R;Wolter, A;Stocke, J;Morris, S;Danziger, I|Active Galactic Nuclei from the Extended Einstein Medium Survey|2
+1987IAUS..121..469M|Maccacaro, T;Gioia, I;Schild, R;Maccagni, D;Stocke, J|X-Ray Emission as Evidence of Activity in Otherwise "normal" Galaxies|3
+1987IAUS..122...61A|Andre, P;Montmerle, T;Feigelson, E;Stine, P|Radio emission from young stellar objects in the Rho Ophiuchi cloud.|3
+1987IAUS..122..119C|Caillault, J;Zoonematkermani, S|The Einstein Survey of the Young Stars in the Orion Nebula|4
+1987IAUS..122..373S|Schmitt, J;Fink, H;Harnden, F|What can be learnt from full disk X-ray observations of stellar flares?|0
+1987IAUS..124..579S|Setti, G|The Distribution of X-Ray Emitting Quasars in Space /|9
+1987IAUS..124..593G|Gioia, I;Maccacaro, T;Wolter, A|X-Ray Surveys as Tools to Investigate the Cosmological Evolution of Quasars, BL Lac Objects and Clusters of Galaxies /|16
+1987IAUS..124..597M|Maccacaro, T;Romaine, S;Schmitt, H|Log N - Log S Slope Determination in Imaging X-Ray Astronomy /|3
+1987IAUS..124..601G|Giommi, P;Tagliaferri, G|The EXOSAT High Galactic Latitude Survey /|3
+1987IAUS..124..611B|Boldt, E|The Cosmic X-Ray Background /|86
+1987IAUS..125...99S|Seward, F|Neutron Stars in Twelve Supernova Remnants|4
+1987IAUS..125..439I|Itoh, N|Neutron Star Cooling: Criticical Test of Dense Matter Physics|0
+1987IAUS..125..457H|Harnden, F|Einstein Observatory Limits on Neutron Star Surface Temperatures (abstract)|0
+1987IAUS..127..155F|Fabian, A;Thomas, P|X-rays from elliptical galaxies.|9
+1987IAUS..127..431C|Canizares, C;Fabbiano, G;Trinchieri, G|Properties of the X-ray emitting gas in early type galaxies.|1
+1987MmSAI..58...49S|Shipman, H|Hot DA white dwarfs seen with Einstein, an ultrahot H- and HE-poor white dwarf and Zanstra temperatures of planetary nebula nuclei.|0
+1987NASCP2464..379H|Holt, S|X-ray astronomical spectroscopy.|0
+1987NASCP2466..485R|Rohan, M;Morrison, P;Sadun, A|A Dust Scattered Halo in the Starburst Galaxy M82|1
+1987RALR..109...20E|Elvis, M|The ionizing X-ray to ultraviolet continuum of quasars.|0
+1987STIN...8811579F|Feigelson, E;Kriss, G|Soft X-ray observations of pre-main sequence stars in the chamaeleon dark cloud|0
+1987STIN...8817563A|Aschenbach, B|Recent X-ray observations of supernova remnants and their interpretation|0
+1987STIN...8823704B|Beuermann, K|The X-ray properties of AM HER stars|0
+1987fbs..conf..329K|Koester, D|Evolution of surface abundances in cool white dwarfs.|13
+1987hrpg.work..231G|Gioia, I;Maccacaro, T;Morris, S;Schild, R;Stocke, J;Wolter, A|X-ray selected high redshift clusters of galaxies.|6
+1987penm.conf..123F|Feigelson, E|X-Ray Emission from Pre-Main Sequence Stars|16
+1987txra.symp..382L|Leventhal, M|X-ray and gamma-ray observations of the galactic center.|12
+1987vgex.conf...15U|Urry, C;Kruper, J;Canizares, C;Rohan, M;Oberhardt, M|Soft X-ray variability and spectra of Seyfert galaxies.|9
+1987vgex.conf...43B|Barr, P;Clavel, J;Giommi, P;Mushotzky, R;Madejski, G|Rapid X-ray variability in the Seyfert galaxy NGC 4593.|4
+1987vgex.conf...65S|Schwartz, D;Madejski, G|X-ray variability of high luminosity AGN.|3
+1986ASNYN...2...29C|Caillault, J;Helfand, D|The Einstein soft X-ray survey of the Pleiades.|0
+1986BAAS...18..693L|Leahy, D|Einstein Imaging Proportional Counter Observations of the Supernova Remnant HB9|0
+1986BAAS...18..697T|Takalo, L|Rotation and Activity in X-ray Selected Late Type Stars|0
+1986BAAS...18..902K|Killeen, N;Bicknell, G|Mass Models for NGC 1399 from Optical and X-Ray Data|0
+1986BAAS...18..906W|Westergaard, N;Singh, K;Schnopper, H|A Study of X-ray Emitting Gas in 2A0335+096 and A1060 Clusters of Galaxies|1
+1986BAAS...18..917R|Rogers, R;Kahn, S;Paerels, F|EXOSAT Observations of the Hot DA White Dwarf LB 1663|0
+1986BAAS...18..919V|Vrtilek, S;Swank, J;Kelley, R|Long Term Variability of Cygnus X-2|1
+1986BAAS...18..925E|Elvis, M;Wilkes, B|QED: The Radio/X-ray Connection|0
+1986BAAS...18..925W|Wilkes, B;Elvis, M|QED: Widespread Ultra-soft Excesses|2
+1986BAAS...18..985A|Ambruster, C;Sciortino, S;Golub, L|Rapid X-ray Variability of Quiescent Late-Type Dwarfs: Implications for Coronal Heating|0
+1986BAAS...18..995W|Worrall, D|Correlation of X-ray and Infrared Emission of Radio-Quiet QSOs|0
+1986BAAS...18.1000U|Urry, C;Canizares, C;Kruper, J;Rohan, M;Oberhardt, M|X-Ray Variability of Seyfert Galaxies Observed with the Einstein Observatory|0
+1986BAAS...18.1001K|Kruper, J;Urry, C;Canizares, C|Soft X-Ray Spectra of Seyfert Galaxies|0
+1986BAAS...18.1046G|Griffiths, R;Brissenden, R;Hewitt, P;Murray, S;Tuohy, I;Ward, M|The Deep X-ray Survey in Pavo: Optical Identifications|0
+1986BAAS...18.1046S|Schwartz, D;Madejski, G|Einstein Observations of the X-ray Variability of BL LAC Objects|0
+1986BAAS...18Q.923H|Halpern, J;Patterson, J|A Hard X-ray Source in the Nearest Molecular Cloud|0
+1986BAAS...18Q.950S|Singh, K;Westergaard, N;Schnopper, H;Helfand, D|Study of X-ray Emission from Some Young Supernova Remnants|0
+1986BAAS...18Q1004B|Boldt, E|The Extragalactic Diffuse X-ray Background|0
+1986ESASP.263..303A|Altamore, A;Baratta, G;Cassatella, A;Rossi, L;Viotti, R|Study of the Ultraviolet Spectra of Eta-Carinae|8
+1986ESASP.263..523U|Ulrich, M|Observations of active galactic nuclei with IUE and comparison with X-ray data|3
+1986IAIss..18..105Y|Yavelov, B|Einstein and sunspots.|0
+1986IAUC.4169....1V|Viotti, R;Rossi, L;Cassatella, A;Piro, L|R Aquarii|3
+1986IAUC.4207....1C|Cordova, F;Hudec, R;Wenzel, W;Rosen, S|EXO 020528+1454.8|2
+1986IAUC.4259....1G|Garcia, M;Burg, R;Grindlay, J|4U 1820-30|4
+1986IAUS..119...73E|Elvis, M|X-Ray to IR Continua of Optically Selected Quasars|1
+1986IAUS..119..223Z|Zamorani, G|Results from X-Ray Satellites|1
+1986IAUS..119..233G|Gioia, I;Maccacaro, T;Schild, R;Stocke, J;Danziger, J|The Medium Sensitivity Survey and the X-Ray Selected Quasar Sample|0
+1986IAUS..119..239K|Kembhavi, A|Radio Induced X-Ray Emission in Radio Quasars|2
+1986IAUS..119..247A|Anderson, S;Margon, B|The X-Ray Properties of High Redshift Quasi-Stellar Objects|2
+1986IAUS..119..253C|Canizares, C;Kriss, G;Kruper, J;Urry, C|X-Ray Studies of Seyfert Galaxies and Quasars|2
+1986IAUS..119..261W|Wilkes, B;Elvis, M|The Diverse Soft X-Ray Slopes of QSOs|2
+1986IAUS..119..263W|Worrall, D;Giommi, P;Tananbaum, H;Zamorani, G|A Statistical Study of the Relationship Between X-Ray Optical and Radio Luminosity for a Sample of QSOs|1
+1986IAUS..119..265M|Maccagni, D;Barr, P;Garilli, B;Gioia, I;Giommi, P;Maccacaro, T;Schild, R|X-Ray Selected BL Lac Objects : Time Variability and X-Ray Spectrum|0
+1986IAUS..119..273A|Agrawal, P;Singh, K;Riegler, G|X-Ray Intensity Variations in BL Lac Sources H2155-304 &amp; PKS 0548-322|1
+1986IAUS..119..275H|Harris, D;Stern, C|The X-Ray Jet in 3c 273|1
+1986IAUS..119..489D|Danese, L;de Zotti, G;Fasano, G;Franceschini, A|Constraints on the cosmological evolution of AGNs from X-ray data|0
+1986NRAOW..16..113F|Feigelson, E;Wood, P;Schreier, E;Harris, D;Reid, M|Radio and X-ray observations of M87.|0
+1986SPIE..640...45G|Glenn, P;Slomba, A;Babish, R|Technology Mirror Assembly mirror quality requirements and achievements.|0
+1986STIN...8713365T|Teske, R|Observational study of ion-electron equilibration and of cloud evaporation in supernova remnants under the HEAO-2 guest investigator program|0
+1986STIN...8717575V|Verbunt, F;Shafer, R;Jansen, F;Arnaud, K;van Paradijs, J|A soft X-ray observation of omega Centauri with EXOSAT|0
+1986ceag.work...56W|Wilkes, B;Elvis, M|The diverse soft X-ray slopes of QSOs.|0
+1986ceag.work...91U|Urry, C|X-ray spectra of BL Lacertae objects.|0
+1986cimt.book.....T|Tucker, W;Tucker, K|The cosmic inquirers : modern telescopes and their makers|2
+1986cuny.reptQ....H|Helfand, D|A program of ground-based astronomy to complement Einstein observations|0
+1986uwsa.rept.....M|Margon, B|A study of the discrepant QSO X-ray luminosity function from the HEAO-2 data archive|0
+1985ASSL..113...79G|Grindlay, J;Hertz, P|Galactic Bulge X-Ray Burst Sources From Disrupted Globular Clusters?|18
+1985ASSL..116..237D|Doyle, J;Butler, C|Flare Activity and the Quiescent X-ray Emission in dMe Stars|0
+1985BAAS...17..546M|McCollough, M;Mufson, S;Dickel, J;White, R;Petrie, R;Chevalier, R|Multiwavelength Investigation of the Adolescent Supernova Remnant IC443|0
+1985BAAS...17..546V|Vedder, P;Canizares, C;Markert, T;Pfafman, T;Pradhan, A|High Resolution X-Ray Spectroscopy of the Cygnus Loop|0
+1985BAAS...17..548F|Fabbiano, G;Trinchieri, G|The Link Between the X-ray and the Radio Emission of Spiral and Irregular Galaxies|0
+1985BAAS...17..554C|Czerny, M;Czerny, B;Grindlay, J|EINSTEIN Observations of Aql X-1|1
+1985BAAS...17..565G|Garcia, M;Grindlay, J|Discovery of the First X-ray Burst from 4U2129+470|1
+1985BAAS...17..576E|Elvis, M;Bechtold, J;Green, R|X-ray to IR Continua of PG Quasars|0
+1985BAAS...17..578B|Burg, R;Shafer, R;Fabian, A;Murray, S;Primini, F|Fluctuation Analysis of High Sensitivity IPC Images|0
+1985BAAS...17..586F|Forman, W;Jones, C|Hot Gas and Massive Halos Around Early Type Galaxies]|2
+1985BAAS...17..590V|Vrtilek, S;Chanan, G;Helfand, D;Kahn, S;Seward, F|High-Resolution X-ray Spectroscopy of Three Galactic Bulge Sources|0
+1985BAAS...17..608F|Feigelson, E;Bradt, H;McClintock, J;Remillard, R;Tapia, S;Geldzahler, B;Johnston, K;Romanishin, W;Wehinger, P;Wyckoff, S;Madejski, G;Schwartz, D;Thorstensen, J;Schaefer, B|H0323+022: A Remarkably Variable BL Lac Object|0
+1985BAAS...17..829A|Avni, Y;Tananbaum, H|Are There Optically-Selected X-ray-Quiet QSOs?|0
+1985BAAS...17..831H|Harris, D;Dewdney, P;Costain, C;McHardy, I;Willis, A|X-ray and Radio Observations of Steep Spectrum Radio Sources: I. 4 Fields from Clark Lake Observatory 26 MHz Survey|0
+1985BAAS...17..831S|Stern, C;Harris, D|X-ray Emission from the Jet in 3C273|1
+1985BAAS...17..854E|Elsner, R;Weisskopf, M;Darbro, W;Miyaji, S;Ramsey, B;Williams, A;Sutherland, P;Grindlay, J|Observations of Quasi-Periodic Oscillations from GX 5-1 with the Einstein (HEAO-2) Observatory|0
+1985BAAS...17..879C|Caillault, J;Helfand, D;Nousek, J;Takalo, L|X-Ray Selected M Dwarfs and the Diffuse X-Ray Background|0
+1985BAAS...17..883P|Petre, R;Szymkowiak, A;Seward, F;Canizares, C;Willingale, R;Rolf, D;Woods, N|The X-Ray Structure and Spectrum of IC 443|0
+1985BAAS...17..889F|Fabbiano, G;Klein, U;Trinchieri, G;Wielebinski, R|Radio and X-ray Properties of Elliptical and SO Galaxies|0
+1985BAAS...17..889M|Madejski, G|Interpretation of the Einstein X-ray Spectra of BL Lac Objects|0
+1985BAAS...17..893H|Helfand, D;Hamilton, T|An X-ray Image of the Large Magellanic Cloud|0
+1985BAAS...17..906C|Cordova, F;Bell, T;Kolb, E|Using an X-ray color-color diagram to search for hot neutron stars and set a limit on the magnetic monopole flux.|0
+1985BAAS...17..907S|Sarazin, C|Cooling Flows and the X-ray Emission of Elliptical Galaxies|1
+1985BAAS...17R.576W|Wilkes, B;Elvis, M|Further Results on QSO Soft X-ray Spectra|0
+1985BAAS...17R.596M|Marshall, F;Reichert, G;White, R|An X-Ray Survey of the North Ecliptic Pole Region|1
+1985BAAS...17R.611S|Schwarz, J;Trinchieri, G;Stanger, V|Extended X-Ray Emission from Early Type Galaxies|0
+1985BAAS...17R.857H|Hamilton, T;Helfand, D|Structure of the X-ray Background on Arc-minute Scales|1
+1985BAAS...17R.862H|Harnden, F;Rosner, R;Ramella, M;Morossi, C|On the Properties of Well-studied, Early Type Stars Observed with the Einstein X-ray Observatory|0
+1985BAAS...17S.867M|Mereghetti, S;Bignami, G;Caraveo, P;Goldwurm, A|EXOSAT and Einstein Observations of the X-ray Pulsar 2S 1145-61|0
+1985ESASP.239...33F|Fabbiano, G|The X-ray properties of normal galaxies. What do we know and what canwe learn with the next generation of X-ray telescopes?|2
+1985ESASP.239...59S|Serio, S|Stellar activity: the X-ray picture.|6
+1985ESASP.239..137G|Gabriel, A;Acton, L;Bely-Dubau, F;Faucher, P|Interpretation of the oxygen VII soft X-ray spectrum from the Puppis-A supernova remnant.|1
+1985ESASP.239..141M|Majer, P;Schmitt, J;Golub, L;Harnden, F;Rosner, R|X-ray spectra and the rotation-activity connection of RS CVn binaries.|0
+1985ESASP.239..159W|Westergaard, N;Noorgaard-Nielsen, H;Hansen, L;Joergensen, H;Rasmussen, I;Schnopper, H|The Hyades: EXOSAT broad band spectroscopy.|1
+1985ESASP.239..201B|Balucinska, M;Chlebowski, T|Einstein OGS observations of Cyg X-1.|0
+1985IAPPP..21...15S|Soder, J|The Einstein Astrophysical Observatory|0
+1985IAUC.4044....2B|Barr, P;Giommi, P|NGC 3031|4
+1985IAUC.4060....2B|Biermann, P;Strom, R;Bartel, N|NGC 6212|0
+1985IAUC.4083....3S|Smale, A;Charles, P;Corbet, R;Seward, F|1E 1048.1-5937|2
+1985NASCP2358...86S|Swank, J|Coronal temperatures.|0
+1985S&W....24...76B|Brinkmann, W|Der Krebs-Nebel - ein Prüfstein für Supernova-Modellvorstellungen.|0
+1985STIN...8521089H|Hendriksen, M;Mushotzky, R|The physical implications of an isothermal model for the hot intracluster medium|0
+1985STIN...8521090K|Kallman, T;Mushotzky, R|Consequences of hot gas in the broad line region of active galactic nuclei|0
+1985STIN...8528895M|Mook, D|Optical observations of HEAO-B objects|0
+1985STIN...8535840R|Rybicki, G|The HEAO-2 Guest Investigator Program: Non-linear growth of instabilities in line-driven stellar winds|0
+1985STIN...8613285.||X-rays from the radio halo of Virgo A = M87|0
+1985cnrs.work...81M|Mauche, C;Gorenstein, P|Search for a shock wave around the Crab Nebula.|13
+1985cnrs.work..159R|Reynolds, S|An introduction to SNR 0540-693.|1
+1985cnrs.work..165S|Seward, F;Harnden, F;Elsner, R|The 50 millisecond pulsar in the Large Magellanic Cloud and the X-raypulse emission mechanism.|7
+1985cnrs.work..187B|Becker, R|X-ray observations of Crablike remnants.|0
+1985cnrs.work..197B|Brinkmann, W|X-ray observations of the Crab Nebula.|0
+1985cnrs.work..203H|Harnden, F;Grant, P;Seward, F|The X-ray morphology of the Vela X region.|0
+1985cnrs.work..211M|Matsui, Y;Long, K|X-ray images of W28 and 3C400.2: two radio-shell supernova remnants with centrally-peaked X-ray emission.|13
+1985eico.book.....G|Gorelik, G|Einstein collection, 1980 - 1981.|0
+1985gecx.conf..175S|Swank, J;Serlemitsos, P|The Spectra of Sco X-1 and Similar Bulge Sources|12
+1985gecx.conf..207H|Helfand, D|The Creation of Compact Objects in the Local Group|1
+1985gecx.conf..239H|Harnden, F|X-Ray from Non-Accreting Pulsars|0
+1985gecx.conf..291E|Elvis, M|Einstein IPC Spectra of Quasars: First Results|6
+1985ntvh.book...17G|Grindlay, J|Studies of Galactic X-ray Sources|0
+1985ntvh.book..147M|Maccacaro, T;Gioia, I|Extragalactic X-ray Source Counts and Optical Identifications|0
+1985sao..reptR....G|Golub, L|Solar and stellar coronal plasmas|0
+1985xra..conf...17S|Schmitt, J|X-ray coronae of late-type stars: theoretical implications.|1
+1985xra..conf...39M|Maggio, A;Bookbinder, J;Harnden, F;Golub, L;Majer, P;Rosner, R;Vaiana, G|X-ray emission from solar-type stars: X-ray luminosity function of late F and G stars.|0
+1985xra..conf...81L|Leahy, D;Kwok, S|X-rays and colliding winds in symbiotic novae.|0
+1985xra..conf..275C|Canizares, C|Supernovae and supernova remnants.|1
+1985xra..conf..309L|Leahy, D;Venkatesan, D;Naranan, S;Long, K|Einstein observation of supernova remnant HB 3.|0
+1985xra..conf..377S|Stanger, V;Warwick, R;Schwarz, J|High resolution X-ray and radio observations of NGC 4636 and NGC 4649.|0
+1985xra..conf..399C|Cowley, A;Crampton, D;Hutchings, J;Helfand, D;Hamilton, T;Thorstensen, J;Thompson, I|Identifications of X-ray point sources in the LMC.|0
+1984ASSL..111..297F|Forman, W;Jones, C;Tucker, W|Hot Gaseous Coronae around Early-Type Galaxies|7
+1984ASSL..111..307U|Ulmer, M;Kowalski, M;Cruddace, R;Wood, K;Fritz, G|Implications of HEAO-A-1 and Einstein Satellite Observations of Clusters of Galaxies|1
+1984ASSL..111..313K|Kriss, G|Dark Matter in Poor Clusters of Galaxies|1
+1984ASSL..111..319J|Jones, C;Forman, W|Einstein Images of Clusters of Galaxies - Galaxy Haloes the Intracluster Medium and the Intercluster Gas|4
+1984BAAS...16..466H|Hughes, J;Helfand, D|Kepler's Supernova Remnant - Self-consistant Models for the X-Ray Emission|0
+1984BAAS...16..469C|Caillault, J;Helfand, D|Further Analysis of the Pleiades X-Ray Data|1
+1984BAAS...16..471V|Vrtilek, S;Kahn, S;Seward, F;Grindlay, J|Dramatic Variability in the X-Ray Flux of Hercules X-1 Preceding the Binary Eclipse|1
+1984BAAS...16..472J|Johnson, H|Survey for Cataloged Stars within 25 Parsecs of the Sun that were not Targeted in the Einstein Data Bank|1
+1984BAAS...16..514J|Jensen, K;Swank, J|Einstein X-ray Observations of dMe Stars|0
+1984BAAS...16..515B|Bookbinder, J;Schmitt, J;Golub, L;Rosner, R|An X-ray Survey of Late-Type Dwarf Stars|3
+1984BAAS...16..515G|Gioia, I;Maccacaro, T;Schild, R;Stocke, J;Liebert, J;Danziger, I;Kunth, D;Lub, J|The Einstein Observatory Medium Sensitivity Survey: Toward a Sample of 1000 Sources|2
+1984BAAS...16..542H|Harnden, F;Seward, F|Period Behavior of the New LMC Pulsar|0
+1984BAAS...16..727W|Webb, J;Smith, A;Leacock, R|Effects of Optical Variability on X-ray Optical Correlations|0
+1984BAAS...16..874H|Helfand, D|Endpoints of stellar evolution: X-ray surveys of the Local Group.|0
+1984BAAS...16..880K|Kahn, S|Objective Grating X-Ray Spectroscopy of Compact Sources|0
+1984BAAS...16..880M|Maccacaro, T|The Einstein Observatory Medium Sensitivity Survey: Present Results and Future Prospects|1
+1984BAAS...16..913E|Elsner, R;Darbro, W;Ramsey, B;Weisskopf, M;Williams, A;Naranan, S;Hardee, P;Leahy, D;Sutherland, P;Grindlay, J|On Fast X-ray Rotators with Long Term Periodicities|0
+1984BAAS...16..926B|Bignami, G;Caraveo, P;Mereghetti, S;Palumbo, G|EXOSAT Observations of the X-Ray SNR 1E1149.6+6209, First Seen with the Einstein IPC|0
+1984BAAS...16..926M|Mauche, C;Gorenstein, P|X-ray Halos around Supernova Remnants|5
+1984BAAS...16..927H|Hughes, J;Helfand, D|A Statistical Study of the Supernova Remnants in the Large Magellanic Cloud|2
+1984BAAS...16..931B|Bechtold, J;Elvis, M;Green, R;Fabbiano, G|Multifrequency Observations of the QSO PG 1211+143|0
+1984BAAS...16..931K|Kruper, J;Canizares, C|Soft X-Ray Spectra of Optically Selected Seyfert Galaxies|0
+1984BAAS...16..931M|Madejski, G;Schwartz, D|Einstein X-ray Spectra of BL Lac Objects|0
+1984BAAS...16..931U|Urry, C;Mushotzky, R;Holt, S|X-Ray Spectroscopy of BL Lacertae Objects|0
+1984BAAS...16..931W|Wilkes, B;Elvis, M;Tananbaum, H|First Einstein IPC Results on X-ray Spectra of Quasars|0
+1984BAAS...16..932P|Petre, R;Mushotzky, R;Kallman, T|X-Ray Line Emission From 3C 120|0
+1984BAAS...16..948H|Harnden, F|X-ray Spectra of Stars in the Cygnus OB-2 Association|1
+1984BAAS...16..964P|Primini, F;Burg, R;Huchra, J;Schild, R;Murray, S;Giacconi, R|The CFA Einstein Observatory High-Sensitivity X-ray Survey: Imaging Proportional Counter Results|5
+1984BAAS...16..981C|Caillault, J;Kahn, S|EINSTEIN Observations of the Soft X-Ray Background Close to the Galactic Plane|0
+1984BAAS...16..981G|Gorenstein, P;Mauche, C;Fabricant, D|Measurement of X-ray Scattering from Interstellar Grains|0
+1984BAAS...16..983H|Harris, D;Johnson, H|High Resolution X-ray Observations of Nearby Binary Systems: Flaring and Evidence for Unseen Companions|0
+1984BAAS...16..990T|Trinchieri, G;Fabbiano, G|The X-ray Emission from Normal Early Type Galaxies: A Statistical Analysis|0
+1984BAAS...16Q.481M|Maccacaro, T;Gioia, I;Maccagni, D;Stocke, J|X-ray Selected BL Lacs Objects: Where Are They?|0
+1984BAAS...16Q.880S|Stern, R|X-Ray Observations of Late-Type Stars|0
+1984BAAS...16Q.940B|Bookbinder, J;Majer, P;Golub, L;Rosner, R|An X-ray Survey of Solar-Type Stars|0
+1984BAAS...16Q.983S|Seward, F;Charles, P|A Six-Second Periodic X-ray Source in Carina|0
+1984BAAS...16R.439F|Fabbiano, G;Trinchieri, G|The Complex X-ray Emission of NGC 253|0
+1984BAAS...16R.481H|Henriksen, M;Marshall, F;Mushotzky, R|An X-Ray Survey of Variable Radio Bright Quasars|0
+1984BAAS...16R.882H|Haynes, M;Magri, C;Giovanelli, R|HI Deficient Galaxies in X-ray Clusters|1
+1984ESASP.207..159C|Canizares, C|X-Ray Astronomy &amp;PLASMA Astrophysics|0
+1984ESASP.207..223M|Michalec, A|Plasma in the Clusters of Galaxies|1
+1984ESASP.213..157B|Biermann, P|VLBI in space and X-ray observations of compact sources in active galactic nuclei.|0
+1984ESASP.218...25H|Hammer, R;Linsky, J|Corona models tested with IUE and Einstein observations.|5
+1984IAUC.3928....2S|Seward, F;Harnden, F;Helfand, D|X-Ray Pulsar in Large Magellanic Cloud|3
+1984IAUS..105..101M|Micela, G;Sciortino, S;Serio, S;Vaiana, G;Golub, L;Harnden, F;Rosner, R|X-Ray Survey of the Pleiades - Dependence of X-Ray Luminosity on Stellar Age|2
+1984IAUS..108..293H|Helfand, D|X-ray surveys of the Magellanic Clouds|2
+1984IAUS..108..305H|Hutchings, J|Spectroscopy of stellar X-ray sources in the Magellanic Clouds|7
+1984MPERp.184...63M|Maccacaro, T|X-ray surveys of quasars with the Einstein Observatory.|0
+1984NASCP2349...51R|Rahe, J|Interacting binary systems.|0
+1984NASCP2349..133K|Kinney, A;Huggins, P;Bregman, J;Glassgold, A|The UV spectra of intermediate redshift quasars.|0
+1984NASCP2349..143M|Mufson, S;Hutter, D;Hackney, K;Hackney, R;Kondo, Y;Urry, C;Wisniewski, W;Aller, M;Aller, H|Coordinated multifrequency observations of the BL Lac objects Mrk 180, Mrk 421, and Mrk 501.|0
+1984NASCP2349..454G|Giampapa, M;Golub, L;Peres, G;Serio, S;Vaiana, G|Active late-type stars and the applicability of coronal loop models.|0
+1984NASCP2349..472D|Drake, S;Brown, A;Linsky, J|Ultraviolet, radio and X-ray observations of hybrid stars.|0
+1984S&T....68...24S|Stern, R|Stellar Coronas, X-rays, and Einstein|0
+1984SAOSR.393.....H|Harnden, F;Fabricant, D;Harris, D;Schwarz, J|Scientific Specification of the Data Analysis System for the EINSTEIN Observatory (HEAO-2) Imaging Proportional Counter|121
+1984STIN...8424512H|Henriksen, M;Marshall, F;Mushotzky, R|An X-ray survey of variable radio bright quasars|0
+1984apoa.conf..125M|Montmerle, T|X-Ray and Radio Evidence for Activity in Very Young Objects Associated with the Rho-Ophiuchi Cloud|2
+1984cuny.rept.....H|Helfand, D|A program of ground-based astronomy to complement einstein observations|0
+1984iue..prop.1812G|Giampapa, M|The Transition Regions of X-Ray Emitting Main-Sequence A Stars|0
+1984prnc.reptR....B|Bahcall, N|V-V compact group of galaxies|0
+1984sao..reptS....G|Gorenstein, P|Research relative to high energy astrophysics|0
+1984uwsa.rept.....M|Margon, B|A study of the discrepant QSO X-ray luminosity function from the HEAO-2 data archive|0
+1984xras.rept....1B|Brinkmann, W;Aschenbach, B;Langmeier, A;Hasinger, G;Bork, T|The X-ray structure of the Crab Nebula|1
+1984xras.rept....1S|Schmitt, J|X-ray coronae of late type stars: Theoretical implications|2
+1984xras.rept....8A|Asenbach, B;Brinkmann, W;Langmeier, A;Hasinger, G;Bork, T|The X-ray structure of the Crab Nebula|0
+1984xue..conf...28P|Pakull, M|Optical studies of X-ray selected Active Galactic Nuclei (AGN) in the direction of the Large Magellanic Cloud (LMC)|2
+1984xue..conf...40B|Boisson, C|Preliminary results on the ultraviolet observations of a complete X-ray selected sample of Active Galactic Nuclei (AGN)|0
+1984xue..conf...63M|Maccacaro, T|X-ray surveys of quasars with the Einstein observatory|7
+1984xue..conf...92M|Maccagni, D|Soft X-ray emission from BL Lac objects|0
+1984xue..conf..132A|Anderson, S|The X-ray properties of high-redshift, optically selected QSOs|1
+1984xue..conf..135G|Gioia, I|On the surface density of X-ray selected BL Lacertae objects|0
+1983AIPC..101..152C|Caraveo, P;Bignami, G;Lamb, R|The Quest for Elusive Geminga: a Unique Object Proposed as the Counterpart of 2CG 195+04|0
+1983ASSL..102...83G|Golub, L|Quiescent coronae of active chromosphere stars|55
+1983ASSL..102..109J|Johnson, H|Einstein and IUE observations of nearby red dwarfs|7
+1983ASSL..102..125A|Agrawal, P;Rao, A;Sreekantan, B|X-Ray Emission from Flare Stars|2
+1983ASSL..102..131S|Stern, R;Zolcinski, M|Stellar X-ray activity in the Hyades|4
+1983ASSL..102..255H|Haisch, B|X-ray observations of stellar flares|69
+1983ASSL..102..415C|Charles, P|RS CVn systems - The high energy picture|21
+1983ASSL..103..165F|Feigelson, E|X-rays from jets and lobes|0
+1983ASSL..103..173B|Biermann, P|X-ray jets in BL Lac objects?|0
+1983ASSL..103..183B|Briel, U;Elvis, M;Henry, J|Extended Soft X-Ray Emission from NGC4151|0
+1983ASSL..105..271B|Bennett, K|High energy satellite surveys|0
+1983BAAS...15..636V|Vrtilek, S;Kahn, S;Seward, F;Grindlay, J|Einstein OGS/MPC Observations of Cygnus X-2|0
+1983BAAS...15..637W|Wang, Z;Seward, F|X-Rays from the SNR 3C391|0
+1983BAAS...15..647Z|Zolcinski, M;Stern, R|X-Ray Variability in the Hyades Star Cluster|1
+1983BAAS...15..668H|Hughes, J;Helfand, D|The Number-Diameter Relationship for the Supernova Remnants|1
+1983BAAS...15..675R|Reichert, G;Petre, R;Mushotzky, R;Holt, S|X-Ray Absorption in Active Galactic Nuclei|4
+1983BAAS...15..953L|Leahy, D;Venkatesan, D;Galas, C;Naranan, S;Long, K|Einstein Imaging Proportional Counter (I. P. C. ) Observations of the Supernova Remnant HB3|0
+1983BAAS...15..956F|Forman, W|X-Rays from Clusters of Galaxies|0
+1983BAAS...15..974C|Chanan, G;Abramopoulos, F|The Radial X-Ray Brightness Profile of the Coma Cluster|0
+1983BAAS...15..974J|Jones, C;Forman, W;Mitchell, M|Einstein Observations of the Southern Supercluster Around SC0627-54|0
+1983BAAS...15..989B|Bode, M;Norwell, G;Priedhorsky, W|Search for Scattered X-Ray Haloes Around Variable Sources|0
+1983BAAS...15.1004G|Grindlay, J;Hertz, P|Optical Studies of the Einstein Galactic Plane Survey|2
+1983BAAS...15.1004J|Johnson, H|Pleiades X-Ray Sources in HRI Fields of the Einstein Data Bank|0
+1983BAAS...15.1005M|Marshall, F;White, N|The Unusually Soft X-Ray Spectra of the Black Hole Candidates LMC X-3 and LMC X-1|0
+1983BAAS...15Q.665S|Slovak, M;Anderson, C;Cassinelli, J;Lambert, D|Combined X-ray, Ultraviolet and Ground-based Observations of the Symbiotic Star AG Draconis at Quiescence|0
+1983BAAS...15Q.670C|Culver, J;Canizares, C;Markert, T;Donahue, M|Optical and X-Ray Studies of Cooling Flows in Clusters of Galaxies|1
+1983BAAS...15Q.948S|Schmitt, J;Golub, L;Harnden, F;Maxson, C;Rosner, R|X-ray Emission from A and F Stars - What Do We Learn About Convection and Dynamos?|0
+1983BAAS...15Q.978H|Harris, D;Bahcall, N;Rood, H|An X-ray Detection of Stephan's Quintet and Upper Limits for Four Other Compact Groups|0
+1983BAAS...15Q1006H|Harnden, F;Grant, P|X-ray Spectra and Pulsation Upper Limits for the Vela Pulsar|0
+1983BAAS...15R.914B|Burg, R;Huchra, J;Primini, F;Schild, R;Murray, S;Giacconi, R|The Einstein X-ray Observatory HRI Deep Survey in Ursa Minor|1
+1983HiA.....6..499S|Schwartz, D;Madejski, G;Ku, W|X-ray variability of active galactic nuclei.|9
+1983HiA.....6..643V|Vilhu, O|What can we learn about contact binaries with the help of far UV and X-ray observations?|3
+1983HiA.....6..651W|White, N;Kallman, T|X-ray observations of the stellar winds of OB supergiants with compact secondaries.|0
+1983IAUS..101.....D|Danziger, J;Gorenstein, P|Supernova remnants and their X-ray emission : symposium no. 101, held in Venice, Italy, 30 August-2 September 1982|21
+1983IAUS..101....1G|Gorenstein, P;Seward, F;Tucker, W|The mass and structure of the remnant of Tycho's supernova|13
+1983IAUS..101...17H|Holt, S|X-ray spectra of young supernova remnants|8
+1983IAUS..101...59S|Stewart, G;Fabian, A;Seward, F|An X-ray halo around Cassiopeia A|17
+1983IAUS..101...99S|Shull, J|Non-equilibrium ionization X-ray emission from supernova remnants|1
+1983IAUS..101..119F|Fabian, A;Stewart, G;Brinkmann, W|The evolution of young supernova remnants|17
+1983IAUS..101..131H|Harnden, F|X-ray study of the Crab Nebula and the Crab and VELA pulsars|10
+1983IAUS..101..153C|Clark, D;Tuohy, I|The Peculiar X-Ray Morphology of the Supernova Remnant G292.0+1.8 - Evidence for an Asymmetric Supernova Explosion|3
+1983IAUS..101..205C|Canizares, C;Winkler, P;Markert, T;Berg, C|High resolution X-ray spectra of supernova remnants|13
+1983IAUS..101..245W|Winkler, P;Bromley, B;Canizares, C|Non-equilibrium ionization in Puppis A|10
+1983IAUS..101..253K|Ku, W;Long, K;Pisarski, R;Vartanian, M|Detalied X-ray observations of the Cygnus Loop|5
+1983IAUS..101..273W|Watson, M;Willingale, R;Pye, J;Rolf, D;Wood, N;Thomas, N;Seward, F|Einstein observations of the SNRs IC443, W44 and W49B|22
+1983IAUS..101..281H|Higgs, L;Landecker, T;Seward, F|The X-ray structure of the supernova remnant G78.2 + 2.1|7
+1983IAUS..101..289P|Petre, R;Winkler, P;Seward, F;Willingale, R;Rolf, D;Woods, N;Canizares, C|High resolution X-ray images of Puppis A and IC 443|8
+1983IAUS..101..417S|Seward, F;Harnden, F;Murdin, P;Wood, R;Gilmozzi, R;Clark, D;Danziger, I;Furr, A|Supernova remnants with compact X-ray sources|0
+1983IAUS..101..418C|Clark, D;Murdin, P;Danziger, I;Furr, A|Supernova Remnants with Compact X-Ray Sources - Part Two - the Crab Nebula|0
+1983IAUS..101..429G|Gregory, P;Fahlman, G|Precessing jet model for the supernova remnant G109.1-1.0.|23
+1983IAUS..101..437G|Gregory, P;Braun, R;Fahlman, G;Gull, S|Comparison of radio and X-ray observations of SNR G109.1 - 1.0|29
+1983IAUS..101..445F|Fahlman, G;Gregory, P|The pulsation period and possible orbit of 1E2259+586.|45
+1983IAUS..101..459G|Grindlay, J;Band, D;Seward, F;Stella, L;Watson, M|X-ray studies of SS433|3
+1983IAUS..101..471H|Helfand, D|X-rays from radio pulsars - The portable supernova remnants|45
+1983IAUS..101..525L|Long, K|The X-ray properties of supernova remnants in the Large Magellanic Cloud|16
+1983IAUS..101..535I|Inoue, H;Koyama, K;Tanaka, Y|Soft X-ray observation of Supernova Remnants in the Small Magellanic Cloud.|49
+1983IAUS..101..573P|Pizzichini, G;Cline, T;Desai, U;Teegarden, B;Evans, W;Fenimore, E;Klebesadel, R;Laros, J;Hurley, K;Niel, M|N49: The site of a gamma-ray burst - Preliminary results from X-ray observations|3
+1983IAUS..101..579B|Blair, W;Raymond, J;Kirshner, R;Winkler, P;Fesen, R;Gull, T|X-ray, optical and UV observations of the young supernova remnant in the irregular galaxy NGC 4449|0
+1983IAUS..101..591H|Heeschen, D;Heidmann, J|The X-ray emission of a clumpy irregular galaxy from thousands of supernova remnants?|5
+1983IAUS..102..165V|Vaiana, G|Stellar X-ray emission as an indicator of stellar magnetic activity|45
+1983IAUS..102..193W|Walter, F|The coronal rotation-activity relations in late-type stars|0
+1983IAUS..102..205M|Mewe, R;Schrijver, C;Gronenschild, E;Zwaan, C|Coronal activity in F-, G-, and K-type stars - Empirical relations between stellar parameters|5
+1983IAUS..102..313L|Linsky, J|The role of magnetic fields in stellar chromospheres and transition regions|18
+1983IAUS..102..369G|Gibson, D;Walter, F;Basri, G|Coronal and chromospheric structures in AR Lac. I - Data and models|0
+1983IAUS..104....7M|Maccacaro, T;Gioia, I|X-ray sources of cosmological relevance|8
+1983IAUS..104..347U|Urry, C;Mushotzky, R;Tennant, A;Boldt, E;Holt, S|X-Ray Observations of Active Galactic Nuclei|0
+1983ICRC....1....3A|Agrawal, P;Singh, K;Riegler, G|X-Ray Variability of BL Lac Objects : H2155-304 Amd PKS 0548-322|4
+1983ICRC....1....7A|Agrawal, P;Rao, A;Riegler, G;Stern, R|Detection of AN X-Ray Flare in the RS CVN Binary Sigma Corona Borealis|1
+1983ICRC....1...35C|Coradini, A;Giovannelli, F;Polimene, M|a Statistical X-Ray Osos Classification|4
+1983LIACo..24...63G|Gioia, I;Maccacaro, T|The Einstein observatory medium sensitivity survey - The quasars sample|4
+1983LIACo..24..260M|Maccacaro, T;Gioia, I|Luminosity function and cosmological evolution of X-ray selected quasars|1
+1983LIACo..24..307A|Arp, H|Groups, concentrations and associations of quasars|11
+1983LIACo..24..430W|Worrall, D;Marshall, F|QSO X-ray spectra and the contribution of QSOs to the X-ray background radiation|1
+1983LIACo..24..451Z|Zamorani, G;Giommi, P;Maccacaro, T;Tananbaum, H|X-Ray Variability of Quasars|1
+1983MmSAI..54..659Z|Zamorani, G|X-ray observations of quasars|1
+1983Obs...103..175L|Lawrence, A|Book-Review - X-Ray Astronomy with the Einstein Satellite|0
+1983RMxAA...7..230M|Montmerle, T;Koch-Miramond, L;Falgarone, E;Grindlay, J|Einstein observations of the rho Ophiuchi dark cloud : an X-ray Xmas tree.|0
+1983S&T....65....6F|Feigelson, E;Schreier, E|X-Ray Jets of Centaurus A and M87|3
+1983S&T....65..223R|Reid, P;Seward, F;White, R;Long, K;Dennefeld, M;Leibowitz, E;Danziger, I|TYCHO Kepler and Einstein / Supernova Remnants|0
+1983S&T....66R.216.||10000 White Dwarfs Per Globular Cluster / Einstein X-Ray Satellite / HEAO-2 Data|0
+1983STIN...8323265M|Marshall, F;Holt, S;Mushotzky, R;Becker, R|Rapid X-ray variability from the Seyfert 1 Galaxy NGC 4051|0
+1983STIN...8414082P|Petre, R;Mushotzky, R;Krolik, J;Holt, S|Soft X-ray spectral observations of quasars and high X-ray luminosity Seyfert galaxies|0
+1983STIN...8433333W|Worrall, D;Marshall, F|The broad-band X-ray spectrum of a QSO sample|0
+1983STIN...8435238R|Rothenflug, R;Vigroux, L;Mushotzky, R;Holt, S|Temperature and elemental abundances in the Abell cluster A 576 derived from X-ray observations|0
+1983adsx.conf..117L|Long, K;van Speybroeck, L|X-ray emission from normal galaxies|73
+1983ards.proc..125A|Agrawal, P;Rao, A;Sreekantan, B|X-Ray Emission from Flare Stars|5
+1983axrs.book.....A|Abramopoulos, F|An X-Ray Survey of Clusters of Galaxies with the Einstein Observatory and a Study of Iron Sedimentation in the Intracluster Gas|0
+1983clun.proc..275F|Forman, W;Jones, C|Dynamical evolution of clusters of galaxies|1
+1983clun.proc..287J|Jones, C;Forman, W|The X-ray structure of clusters|2
+1983clun.proc..307R|Rothenflug, R;Vigroux, L;Mushotzky, R;Holt, S|The X-ray spectrum of the cluster A 576|0
+1983heac.book...64T|Tsuruta, S|X-ray observations by the Einstein satellite and neutron star cooling.|0
+1983iue..prop.1445G|Glassgold, A|Quasar Emission Lines and Ionizing Radiation|0
+1983nssl.conf..433Z|Zolcinski, M;Stern, R|The Hyades Star Cluster X-Ray Luminosity Function and its Variation|1
+1983obvf.proc..285K|Kuhi, L|The T Tauri stars|0
+1983sao..reptQ.....||High Resolution Imager (HRI) for the Roentgen Satellite (ROSAT) definition study|0
+1983ssst.book..141G|Grindlay, J|An X-ray portrait of our Galaxy|0
+1982ASIC...90..483D|Dopita, M|Optical supernova remnants in external galaxies|4
+1982ASIC...90..501W|Winkler, P;Canizares, C;Markert, T;Szymkowiak, A|X-ray spectroscopy and imagery of supernova remnants with the Einstein Observatory|6
+1982ASIC...90..519S|Seward, F|Einstein observations of supernova remnants|1
+1982ASIC...90..529H|Helfand, D;Long, K|An X-ray survey of supernova remnants in the Large Magellanic Cloud|3
+1982ASSL...95..117A|Anderson, C;Cassinelli, J;Oliversen, N;Myers, R;Sanders, W|X-ray detection of the symbiotic star AG Draconis.|7
+1982ASSL...97..243V|Vette, J|Data and data retrieval in space astronomy|1
+1982ASSL...98..321K|Kondo, Y;McCluskey, G|The very unusual ultraviolet spectra of R Arae|0
+1982ASSL...98..457K|Kruszewski, A;Mewe, R;Heise, J;van Dijk, W;Chlebowski, T;Bakker, R|Variability of soft X-ray emission of EX Hydrae observed with Einstein Observatory|10
+1982ASSL...99..203Z|Zamorani, G|The origin of the X-ray background|7
+1982BAAS...14..602M|Markert, T;Rallis, A;Canizares, C;Kriss, G;Ricker, G|The X-ray Source in the Nucleus of M33|1
+1982BAAS...14..632F|Fabbiano, G|X-ray Observations of AM Her in Its Low State|0
+1982BAAS...14..636W|Winkler, P;Bromley, B;Markert, T;Peter, R|X-Ray Line Spectra of the Puppis A Supernova Remnant: Spatial Variations|0
+1982BAAS...14..644G|Gioia, I;Danziger, J;Griffiths, R;Maccacaro, T;Stocke, J|The Einstein Observatory Medium Sensitivity Survey|0
+1982BAAS...14..648B|Bregman, J;Huggins, P;Glassgold, A|X-Ray Observations of Supernova-Like Quasars|2
+1982BAAS...14..659B|Burns, J;Balonek, T|The Curvature of Radio Jets and Tails in the Intracluster Media of Abell 1440 and 2220|0
+1982BAAS...14..659M|MacDonald, A;Fabbiano, G;Trinchieri, G;van Speybroeck, L|X-ray Images of Late Type Galaxies|0
+1982BAAS...14..661F|Fried, P;Nousek, J;Garmire, G|HEAO-1 and HEAO-2 Observations of Features in the 0.5-1.5 keV Diffuse Background near the Galactic Center|0
+1982BAAS...14..664G|Gavazzi, G;Trinchieri, G|Radio and X-ray Observations of the Halo Source in A1367|0
+1982BAAS...14..664J|Jones, C;Forman, W|Einstein Observations of the Size and Structure of Clusters of Galaxies|0
+1982BAAS...14..864D|Dupree, A;Rosner, R|Chromospheres and Coronae of Cool Stars|0
+1982BAAS...14..888H|Hertz, P;Grindlay, J|The Einstein Globular Cluster Survey|0
+1982BAAS...14..893C|Catura, R|Observation of X-Ray Scattering by Interstellar Dust|3
+1982BAAS...14..915V|Vedder, P;Clark, G|X-Ray Observations of the Central Stars of Planetary Nebulae|3
+1982BAAS...14..933K|Kruper, J;Canizares, C|A Sharp X-ray Absorption Feature in the BL Lac Object PKS 2155-304|2
+1982BAAS...14..933M|Maccacaro, T;Maccagni, D;Tarenghi, M|X-Ray Observations of BL Lac Objects|0
+1982BAAS...14..935M|Markert, T;Canizares, C;Donahue, M|Measurements of the Physical Parameters of the X-ray Emitting Gas in Tyoho's SNR|0
+1982BAAS...14..935P|Pisarski, R;Helfand, D;Becker, R|An X-Ray Image of the Remnant of SN185|0
+1982BAAS...14..936H|Hughes, J;Helfand, D;Long, K;White, R|Kepler's Supernova Remnant - Nonequilibrium Ionization Effects|1
+1982BAAS...14..936S|Schattenburg, M;Canizares, C|Measurement of the Interstellar Oxygen Absorption Edge in the X-ray Spectrum of the Crab Nebula|0
+1982BAAS...14..944W|White, N;Kallman, T;Swank, J|The Discovery of Short Timescale X-ray Absorption Variation from 4U1700-37|0
+1982BAAS...14..948F|Fabbiano, G;Trinchieri, G;MacDonald, A|X-ray Observations of Spiral Galaxies|2
+1982BAAS...14..961M|McCammon, D|Limits on Diffuse X-ray Emission from M101|0
+1982BAAS...14Q.659G|Griffiths, R;Maccacaro, T;Gioia, I;Stocke, J;Liebert, J;Danziger, J;Lub, J|The Optical Identification Content of the Medium-Sensitivity X-ray Survey with the Einstein Observatory|1
+1982BAAS...14Q.909M|Marshall, H;Tananbaum, H;Huchra, J;Bracessi, A;Zitelli, V;Zamorani, G;Avni, Y|Optical and X-ray Observations of a Faint, Complete Quasar Sample|0
+1982BAAS...14Q.965W|Weisskopf, M;Darbro, W;Elsner, R;Naranan, S;Williams, A;Grindlay, J;Sutherland, P;White, N|X-Ray Pulse Timing Measurements of X-Perseus|0
+1982BAAS...14R.944K|Kahn, S;Seward, F;Chebowski, T|High Resolution Soft X-Ray Spectra of Scorpius X-1: The Structure of Circumsource Accreting Material|0
+1982BAAS...14S.629S|Sanders, W;Cassinelli, J;Anderson, C|X-ray Emission from Herbig Ae/Be Stars|3
+1982BAAS...14S.932F|Feigelson, E;Berg, C|X-Ray Observations of 20 Bright Radio Galaxies|0
+1982IAUC.3671....2S|Skinner, G;Leahy, D;Elsner, R;Weisskopf, M;Grindlay, J|A0538-66|6
+1982IAUC.3680....1B|Biermann, P;Kuhr, H;Liebert, J;Stockman, H;Strittmatter, P;Tapia, S;Kronberg, P;Madore, B|Eclipsing AM Herculis-Type Magnetic Binary|12
+1982IAUC.3687....1M|McHardy, I;Pye, J;Fairall, A;Warner, B;Allen, S;Cropper, M;Ward, M|3A 0729+103|12
+1982IAUS...97...97J|Jones, C;Forman, W|A morphological classification of clusters of galaxies from Einstein images|8
+1982IAUS...97..107F|Feigelson, E|Radio and X-ray structure of Centaurus A|6
+1982IAUS...97..269T|Tananbaum, H;Marshall, H|X-Ray and Optical Observations of Quasars|4
+1982IAUS...97..383S|Schwartz, D;Madejski, G;Ku, W|X-ray emission from BL Lac objects - Comparison to the synchrotron self-Compton models|7
+1982IAUS...99..577M|Moffat, A;Firmani, C;McLean, I;Seggewiss, W|Time-dependent X-ray observations of Wolf-Rayet binaries with O-type and with suspected compact companions.|57
+1982IAUS...99..589S|Sanders, W;Cassinelli, J;van der Hucht, K|X-rays from Wolf-Rayet stars observed by the Einstein Observatory|22
+1982JBAA...92..287G|Giacconi, R;Fabian, A|Book-Review - X-Ray Astronomy with the Einstein Satellite|0
+1982NASCP2238..145F|Fabbiano, G;Panagia, N|IUE and Einstein observations of NGC 5204.|1
+1982NASCP2238..205E|Elvis, M;Fabbiano, G|X-ray and UV spectra of two quasars: PKS 0637-75 and PKS 1004+13 (4C 13.41).|2
+1982NASCP2238..615T|Tanzi, E;Bignami, G;Caraveo, P;Maraschi, L;Sormani, F;Treves, A|On the UV variability of LSI+61 303 (≡ GT 0236).|1
+1982S&T....64..317G|Greenstein, J|Perspectives on Space Astronomy|0
+1982SAOSR.392B.253V|Vaiana, G;Golub, L;Maxson, C;Rosner, R;Zombeck, M|STCOEX: The stellar X-ray coronal Explorer.|0
+1982SPIE..316..187A|Aschenbach, B;Braeuninger, H;Ondrusch, A;Predehl, P|X-ray scattering of superpolished flat mirror samples|2
+1982STIN...8234314L|Lea, S;Mushotzky, R;Holt, S|Einstein Observatory solid state spectrometer observations of M87 and the Virgo cluster|0
+1982STIN...8315235M|Marshall, F;White, N;Becker, R|A 2 component X-ray spectrum from SMC X-1|0
+1982STIN...8319666H|Holt, S;Petre, R;Shafer, R;Urry, C;Mushotzky, R|Goddard X-ray astronomy contributions to the IAU/COSPAR (1982)|0
+1982STIN...8320879G|Gibson, D;Walter, F|X-ray eclipses in AR Lac: Preliminary results|0
+1982STIN...8335956K|Koenigsberger, G;Swank, J;Szymkowiak, A;White, N|X-ray properties of the Be/X-ray systems 2S0114+650 = LSI+65 deg 010|0
+1982STIN...8512843S|Swank, J;Johnson, H|Einstein solid state spectrometer observation of the peculiar red dwarf Wolf 630 AB|0
+1982Sci...215.1232C|Chanan, G|Imaging from Space. (Book Reviews: X-Ray Astronomy with the Einstein Satellite)|0
+1982Sci...215.1232G|Chanan, G|Imaging from Space. (Book Reviews: X-Ray Astronomy with the Einstein Satellite)|0
+1982SvA....26..741L|Lipunov, V;Sil'chenko, O|Book Review: X-Ray Astronomy with the Einstein Satellite|0
+1982ans..conf...29W|White, N|The observed properties of X-ray pulsars|2
+1982ans..conf...75P|Pakull, M|Compact X-ray sources in the Large Magellanic Cloud|0
+1982ans..conf..107H|Hall, R|Pulse phase spectroscopy of 0115+63 and an observation of 4U1223-62|0
+1982ans..conf..237P|Pizzichini, G;Cline, T;Desai, U;Teegarden, B;Hurley, K;Niel, M;Vedrenne, G;Evans, W;Fenimore, E;Klebesadel, R|Neutron stars as sources of gamma-ray bursts: Constraints from X-ray observations of source locations|3
+1982chcn.conf...87F|Forman, W|Einstein X-Ray Observations of Clusters of Galaxies|0
+1982coas.conf..111H|Helfand, D|On seeing a neutron star|0
+1982cuny.rept.....H|Helfand, D;Chanan, G|A program of ground-based astronomy to complement Einstein observations|0
+1982gxrs.conf..381S|Schreier, E|Galactic X-Ray Sources as Observed with the Einstein Observatory|0
+1982gxrs.conf..393H|Heise, J;Brinkman, A|High Resolution Soft X-Ray Spectra with the Objective Rating Spectrometer Aboard Einstein Observatory|4
+1982gxs..conf..381S|Schreier, E|Galactic X-ray sources as observed with the Einstein observatory|0
+1982gxs..conf..393H|Heise, J;Brinkman, A|High resolution soft X-ray spectra with the objective grating spectrometer aboard Einstein Observatory|0
+1982icc.....1....1R|Roberts, C|Scientific satellite data communications|0
+1982iue..prop.1100G|Glassgold, A|The Efeect of X-Ray &amp; UV Ionizing Radiation on Quasas Emission Lines|0
+1982lock.rept.....J|Johnson, H|IUE studies of X-ray K-M dwarfs|0
+1982xray.symp...19M|Markert, T;Canizares, C;Winkler, P|High Resolution X-Ray Spectroscopy from the Einstein Observatory|0
+1982xray.symp...33F|Fabbiano, G|X-Ray Observations of Peculiar Galaxies with the Einstein Observatory|0
+1982xray.symp...43E|Elvis, M|Einstein Observations of Active Galactic Nuclei|0
+1981ASIC...68...99L|Linsky, J|Evidence for chromospheres and coronae in stars: recent observations, some unanswered theoretical questions, and a speculative scenario.|8
+1981ASSL...87.....G|Giacconi, R|X-ray astronomy with the Einstein satellite : proceedings of the High Energy Astrophysics Division of the American Astronomical Society meeting on x-ray astronomy held at the Harvard/Smithsonian Center for Astrophysics, Cambridge, Massachusetts, U.S.A., January 28-30, 1980|2
+1981ASSL...87....1V|Vaiana, G|The Einstein/CFA stellar survey - Overview of the data and interpretation of results|6
+1981ASSL...87...19L|Linsky, J|Theory of stellar coronae - an interpretation of X-ray emission from non-degenerate stellar sources|7
+1981ASSL...87...39H|Helfand, D|X-ray imaging - Supernova remnants|5
+1981ASSL...87...79G|Grindlay, J|X-ray sources in globular clusters|21
+1981ASSL...87..153V|van Speybroeck, L;Bechtold, J|X-ray emission from normal galaxies|15
+1981ASSL...87..187F|Forman, W;Bechtold, J;Blair, W;Jones, C|Einstein imaging observations of clusters of galaxies|5
+1981ASSL...87..215C|Canizares, C|X-ray spectra of clusters of galaxies|16
+1981ASSL...87..241L|Longair, M|Extragalactic radio sources and X-ray astronomy|0
+1981ASSL...87..261H|Henry, J|X-ray imaging observations of active galactic nuclei and quasars|7
+1981ASSL...87..281M|Murray, S|The number-intensity distribution for extragalactic X-ray sources|3
+1981ASSL...89....1C|Conti, P|Observations of stellar winds in early type stars|13
+1981ASSL...89...87D|Dupree, A|Mass loss from cool stars|13
+1981ASSL...89..187L|Linsky, J|Winds in late-type stars - Mechanisms of mass outflow|10
+1981BAAS...13..512C|Chlebowski, T;Seward, F|New Einstein Observations of the Eta Carinae Nebula|1
+1981BAAS...13..515H|Haisch, B;Linsky, J;Slee, O|The Corona and Chromosphere of Proxima Centauri during Flare and Quiescent Times|0
+1981BAAS...13..547S|Schindler, M;Stencel, R;Linsky, J;Helfand, D;Basri, G|The unusual outer atmosphere of 56 Pegasi (K0 IIp).|2
+1981BAAS...13..549K|Kriss, G;Canizares, C;Berg, C;Remillard, R;Winkler, P|Optical Studies of X-Ray Selected Quasars and Active Galaxies|1
+1981BAAS...13..550B|Bechtold, J;Forman, W;Jones, C;Schwarz, J;Tucker, W;van Speybroeck, L;Giacconi, R|Einstein Observations of A1367|0
+1981BAAS...13..550E|Elvis, M;van Speybroeck, L|The Nuclear X-ray Source in M81|3
+1981BAAS...13..558M|McClintock, J;London, R;Bond, H;Grauer, A|Einstein X-ray Observations of the 5.2 Hour X-ray Binary 4U2129+47|0
+1981BAAS...13..795B|Blair, W;Raymond, J;Kirshner, R;Winkler, P|X-ray Optical and UV Observations of the Supernova Remnant in NGC 4449|2
+1981BAAS...13..796B|Berg, C;Canizares, C;Winkler, P;Markert, T;Waite, C;Perkins, F|High Resolution X-Ray Spectroscopy of the Supernova Remnant N132D in the Large Magellanic Cloud|0
+1981BAAS...13..799T|Trinchieri, G;Fabbiano, G|X-ray Maps of Peculiar Galaxies|0
+1981BAAS...13..811A|Ayres, T;Simon, T;Linsky, J|High-Resolution Studies of Arcturus with IUE &amp;Einstein: A Sensitive Search for High-Temperature Emission|0
+1981BAAS...13..818J|Jensen, K;Cordova, F;Middleditch, J;Mason, K;Grauer, A;Horne, K;Gomer, R|Simultaneous X-Ray and Optical Photometry of the Cataclysmic Variable TT Arietis|1
+1981BAAS...13..834G|Grindlay, J;Band, D;Seward, F;Leahy, D;Weisskopf, M|X-ray Variability of SS433|1
+1981BAAS...13..834W|Watson, M;Grindlay, J;Seward, F|The X-ray Lobes of SS433|1
+1981BAAS...13..848C|Chanan, G;Margon, B;Helfand, D;Downes, R;Chance, D|Two X-Ray-Selected BL Lacertae-Type Objects|1
+1981BAAS...13..848K|Kriss, G;Canizares, C|Deep X-Ray Surveys of Two Quasar Grism Fields|1
+1981BAAS...13..849G|Griffiths, R;Huchra, J;Davis, M|X-ray Observations of Emission-Line Galaxies with the Einstein Observatory|0
+1981BAAS...13..849H|Halpern, J;Grindlay, J|X-ray Spectra of Active Galactic Nuclei with the Einstein Observatory|5
+1981BAAS...13..850E|Elvis, M;Briel, U;Henry, J|Extended Soft X-ray Emission from NGC4151|0
+1981BAAS...13..865K|Kahn, S;Seward, F;Chlebowski, T;Dijkstra, J|The EINSTEIN Objective Grating X-ray Spectrum of the Crab Nebula|0
+1981BAAS...13..866L|Leahy, D;Darbro, W;Elsner, R;Naranan, S;Weisskopf, M;Sutherland, P;Ghosh, P;Grindlay, J;Kahn, S|Search for Periodic Pulsation in Four Globular Cluster X-Ray Sources|0
+1981BAAS...13..866N|Naranan, S;Darbro, W;Elsner, R;Leahy, D;Weisskopf, M;Sutherland, P;Grindlay, J;Kahn, S|A Study of Pulsing X-Ray Sources|0
+1981BAAS...13..869R|Richstone, D;Jones, C;Forman, W|Mass Distribution in cD Galaxies from Einstein Observations|0
+1981BAAS...13..900P|Petro, L;Canizares, C;Kriss, G;McClintock, J;Remillard, R|Observations of the Transient Cen X-4 During Quiescence|3
+1981BAAS...13Q.550F|Fabbiano, G;van Speybroeck, L|X-ray Observations of Late Type Galaxies with the Einstein Observatory|0
+1981BAAS...13R.822M|Madejski, G;Schwartz, D;Ku, W|Can Relativistic Beaming Reconcile X-ray Data with Self-Compton Predictions?|0
+1981BAAS...13R.847M|Margon, B|The luminosity of serendipitous X-ray QSOs: implications for the diffuse X-ray background radiation.|0
+1981CIBu...90Q..96.||"Einstein" Observatory HEAO-2 resumes operation|0
+1981CIBu...91...53.||3.20. HEAO-2 completes flight mission|0
+1981ESASP.162..109S|Schreier, E|X-ray observations of jets|8
+1981ESASP.162..115T|Tarenghi, M;Maccagni, D|X-ray emission from the radio galaxy 3C 66B|3
+1981IAUC.3585....2S|Stern, R;Underwood, J;Antiochos, S;McClure, R|X-Ray Flare in HD 27130|1
+1981IAUC.3611....2W|Walter, F;White, N;Swank, J|4U 1916-05|7
+1981IAUC.3624....1O|Oda, M;Kahn, S;Grindlay, J;Halpern, J;Ladd, E|GX 17+2|5
+1981IAUC.3649....2A|Agrawal, P;Rao, A;Riegler, G;Pickles, A;Visvanathan, N|H0139-68|11
+1981ICRC....1..158B|Bignami, G;Caraveo, P;Paul, J;Marano, B;Vettolani, G|On the Search for X-Ray Sources and Their Optical Counterparts in the Error Box of the Cos-B Source 2CG 135+01|2
+1981ICRC....1..162M|Montmerle, T;Koch, L;Grindlay, J|Constraints Set by "einstein" X-Ray Observations on a Possible Compact Counterpart to the Cos-B Gamma-Ray Source Associated with the Rho OPH Cloud|2
+1981ICRC....1..166M|Montmerle, T;Grindlay, J;Koch, L|Variable X-Ray Sources in the Rho Ophiuchi Dark Cloud|3
+1981ICRC....9...40P|Pizzichini, G;Cline, T;Desai, U;Mushotzky, R;Teegarden, B;Evans, W;Klebesadel, R;Laros, J;Barat, C;Hurley, K|Einstein observations of the 1978 November 19 gamma ray burst source field|1
+1981ICRC...12...99G|Gorenstein, P|X-rays associated with high energy particles|7
+1981Msngr..26....5D|Danziger, J|X-ray surveys with the Einstein Observatory.|0
+1981NASCP2171..501F|Fabbiano, B;Steiner, J;Hartmann, L;Raymond, J|Coordinated IUE, Einstein and optical observations of accreting degenerate dwarfs.|2
+1981Natur.293..767G|Giacconi, R|Book-Review - X-Ray Astronomy with the Einstein Satellite|0
+1981STIA...8231574V|Vaiana, G|X-ray emission from stars|0
+1981Sci...214..690G|Giacconi, R|Book-Review - X-Ray Astronomy with the Einstein Satellite|0
+1981SciN..119R.312.||HEAO-2 - the End at Las|0
+1981guco.proc..339R|Rose, R;Nakano, H;Stafa, J;Brady, W|The recovery of the HEAO-2 observatory|0
+1981iue..prop..724B|Bowyer, C|Magnetic Variability in Zeta Bootes A|0
+1981iue..prop..732B|Bowyer, C|A Study of RS CVN Stars in the Ultraviolet|0
+1981iue..prop..751G|Giampapa, M|The Transition Regions &amp; Coronae of Solar-Type Stars|0
+1981iue..prop..763H|Hackney, R|Spectral Characteristics and Behavior Intrinsic to the Compact Variable in BL Lac Objects|0
+1981iue..prop..778J|Johnson, H|IUE Studies of X-Ray K-M Dwarfs|0
+1981iue..prop..780K|Kondo, Y|Quasi-Simultaneous Observations of BL LAC Objects in Several Wavelength Regions|0
+1981scyr.book.....M|Murray, S|The Einstein Observatory - An X-ray Eye in the Sky|1
+1981siwn.conf..180L|Linsky, J|Stellar Chromosphere, Coronae and Winds: Present Status and Implications for Solar Astrophysics|2
+1981tesc.book.....B|Burbidge, G;Hewitt, A|Telescopes for the 1980s|2
+1981tesc.book..195G|Giacconi, R;Gorenstein, P;Murray, S;Schreier, E;Seward, F;Tananbaum, H;Tucker, W;van Speybroeck, L|The Einstein Observatory and future X-ray telescopes.|2
+1981uhur.symp...44T|Tananbaum, H|X-Ray Astronomy with the Einstein Observatory|0
+1981xras.nasa..133F|Fabian, A|X-ray emission from galaxies and the universe|0
+1981xray.symp....1C|Chanan, G|Einstein Observations of Pre-Main Sequence Stars in the Orion Nebula|1
+1981xray.symp...19M|Markert, T;Canizares, C;Winkler, P|High Resolution X-Ray Spectroscopy from the Einstein Observatory|0
+1981xray.symp...33F|Fabbiano, G|X-Ray Observations of Peculiar Galaxies with the Einstein Observatory|0
+1980ASIC...60.....G|Giacconi, R;Setti, G|X-ray astronomy|0
+1980ASIC...60...15F|Fabbiano, G|Observations of Supernova Remnants with the Einstein Observatory|0
+1980ASIC...60...35H|Holt, S|X-Ray Spectra of Supernova Remnants|2
+1980ASIC...60...47H|Helfand, D;Long, K|Observations of Supernova Remnants in the Large Magellanic Cloud with the Einstein Observatory|1
+1980ASIC...60...61W|Winkler, P;Canizares, C;Clark, G;Markert, T;Berg, C;Jernigan, J;Schattenburg, M|High Resolution X-Ray Spectroscopy from the Einstein Observatory|2
+1980ASIC...60...73T|Tsuruta, S|X-Rays from the Surface of Neutron Stars|3
+1980ASIC...60..103G|Giacconi, R|Study of High Luminosity X-Ray Sources in External Galaxies (M-31)|0
+1980ASIC...60..115V|van den Heuvel, E|X-Ray Sources and Stellar Evolution|9
+1980ASIC...60..129R|Rosner, R;Vaiana, G|Stellar Coronae from Einstein: Observations and Theory|9
+1980ASIC...60..153J|Jones, C|The Structure and Evolution of X-Ray Clusters of Galaxies|0
+1980ASIC...60..171M|Mushotzky, R|The X-Ray Spectra of Clusters of Galaxies|4
+1980ASIC...60..181F|Forman, W|Einstein Observations of the Virgo Cluster|0
+1980ASIC...60..291T|Tananbaum, H|Einstein Observations of Active Galaxies|3
+1980ASIC...60..311T|Tananbaum, H|Einstein Observations of Quasars|1
+1980ASIC...60..327H|Holt, S|X-Ray Spectra of Active Galactic Nuclei|1
+1980ASIC...60..385G|Giacconi, R|Deep Surveys with the Einstein Observatory|2
+1980ASNYN...1f..11H|Helfand, D|X-ray astronomy with the Einstein Observatory.|0
+1980BAAS...12..450M|Metzger, A;Gilman, D;Luthey, J;Hurley, K;Sullivan, J;Seward, F;Schnopper, H|Observation of X-Rays from the Jovian System|3
+1980BAAS...12..486M|McKee, J;Mushotzky, R;Boldt, E;Holt, S;Marshall, F;Pravdo, S;Serlemitsos, P|The HEAO A-2 Survey of Abell Clusters and the X-Ray Luminosity Function|0
+1980BAAS...12..487M|Marscher, A;Broderick, J|Einstein X-ray and VLBI Radio Observations of the Variable Quasars NRAO 140 and NRAO 530|0
+1980BAAS...12..500B|Becker, R|On X-Ray Survey of Nine Nearby Historical Novae|0
+1980BAAS...12..513B|Berg, C;Canizares, C;Markert, T;Clark, G|Implications of the Absence of Narrow X-Ray Line Emission from Scorpius X-1|0
+1980BAAS...12..514H|Helfand, D;Chanan, G;Novick, R|X-Rays From Radio Pulsars|1
+1980BAAS...12..526K|Kahler, S;Golub, L;Harnden, F;Seward, F;Vaiana, G|Coordinated X-Ray, Optical, and Radio Observations of Flares from the dMe Star YZ Canis Minoris|0
+1980BAAS...12..532W|Winkler, P;Canizares, C;Markert, T;Clark, G|X-Ray Line Emission from LMC Supernova Remnants|0
+1980BAAS...12..541S|Schattenburg, M;Canizares, C;Clark, G;Markert, T;Winkler, P|Upper Limits on X-ray Line Emission from the Crab Nebula|0
+1980BAAS...12..542M|Markert, T;Winkler, P;Canizares, C;Jernigan, J|Measurements of the Extent of Ionization Dis-Equilibrium in Supernova Remnants|0
+1980BAAS...12..799H|Harnden, F;Giacconi, R;Grindlay, J;Hertz, P;Schreier, E;Seward, F;Tananbaum, H;van Speybroeck, L|X-ray Images of the Crab Nebula|2
+1980BAAS...12..799W|Winkler, P;Canizares, C;Clark, G;Markert, T|X-Ray Line Emission from Puppis A: Evidence for Enrichment by a Type II Supernova|0
+1980BAAS...12..801S|Stern, R;Underwood, J;Zolcinski, M;Antiochos, S|Stellar Coronae in the Hyades|2
+1980BAAS...12..821M|McCray, R;Shull, J;Boynton, P;Deeter, J;Holt, S;White, N|Spectroscopy of the X-ray Pulsations from Her X-1 with the Einstein Observatory|0
+1980BAAS...12..852H|Holt, S|INVITED TALK X-Ray Spectroscopy from the Einstein Observatory|0
+1980BAAS...12..871B|Bookbinder, J;Rosner, R;Vaiana, G|Stellar Contribution to Galactic Component of Diffuse Soft X-ray Background|1
+1980BAAS...12..871H|Helfand, D;Caillault, J|The X-Ray Luminosity Function of Normal Stars|0
+1980BAAS...12..872G|Golub, L;Vaiana, G;Snow, T;Cash, W|Einstein Observations of A-Stars|2
+1980BAAS...12..873F|Fabbiano, G;Feigelson, E|X-ray Observations of Peculiar Galaxies with the Einstein Observatory|0
+1980BAAS...12..873S|Schwartz, D;Ku, W|An Einstein Observatory Survey of X-ray Emission from BL Lac Objects|7
+1980BAAS...12..873W|Watson, M;Griffiths, R|Einstein Observations of M82|5
+1980BAAS...12..874M|Maccacaro, T;Fener, M;Giacconi, R;Griffiths, R;Murray, S;Zamorani, G|Medium Sensitivity Survey with the Einstein Observatory|0
+1980BAAS...12Q.527C|Crannell, C;Hobbs, R|Coordinated Meter-Wavelength Observations of the X-ray Flare from YZ Canis Minoris|0
+1980BAAS...12Q.795G|Griffiths, R;Bechtold, J;Danziger, J;Giacconi, R;Macgillvray, H;Malin, D;Murdin, P;Murray, S;Peterson, B;Smith, M;Ward, M|The Optical Identification Content of the Einstein Deep Survey of a Region in Pavo|0
+1980BAAS...12Q.874P|Palumbo, G;Maccacaro, T;Panagia, N;Vettolani, G;Zamorani, G|Observations of M100 with the Einstein Observatory Shortly After the Explosion of its Fourth Supernova, SN 1979c|0
+1980BAAS...12R.795H|Halpern, J;Elvis, M|X-Ray Spectra of Quasars with the Einstein Monitor Proportional Counter|0
+1980BAAS...12R.796M|Marshall, F;Becker, R;Holt, S;Mushotzky, R|An X-Ray Flare from NGC4051|6
+1980BAAS...12R.819S|Szkody, P|IUE and Einstein Observations of Cataclysmic Variables|0
+1980BAAS...12R.820J|Jensen, K;Nousek, J|Observations of the Fast Soft X-Ray Transient, H1409-45|2
+1980HiA.....5..419V|Vaiana, G|Stellar coronae.|11
+1980HiA.....5..623W|Weedman, D|X-ray properties of galactic nuclei.|4
+1980HiA.....5..641G|Griffiths, R|Recent X-ray observations of Seyfert and emissionline galaxies.|1
+1980HiA.....5..653E|Elvis, M;Feigelson, E;Griffiths, R;Henry, J;Tananbaum, H|X-ray variability in active galaxy nuclei and quasars in less than one day.|2
+1980HiA.....5..657C|Canizares, C;Berg, C;Clark, G;Jernigan, J;Kriss, G;Markert, T;Schattenburg, M;Winkler, P|High resolution X-ray spectroscopy of the gas surrounding M87 and NGC 1275: emission line detection and evidence for radiatively regulated accretion.|4
+1980HiA.....5..677K|Ku, W|X-ray studies of quasars and active galaxies with the Einstein Observatory.|10
+1980HiA.....5..689F|Fabricant, D;Lecar, M;Gorenstein, P|X-ray observations of M87's halo.|0
+1980HiA.....5..695F|Feigelson, E;Schreier, E|Observations of three radio galaxies with the Einstein X-ray Observatory.|6
+1980HiA.....5..727M|Murray, S|Review of recent observations of cluster X-ray sources using the Einstein Observatory.|0
+1980HiA.....5..735M|Mushotzky, R;Smith, B|X-ray spectra of clusters of galaxies.|26
+1980HiA.....5..741G|Grindlay, J;Branduardi, G;Fabian, A|X-ray imaging studies of NGC 1275 and the core of the Perseus Cluster|5
+1980HiA.....5..747H|Helfand, D;Ku, W;Abramopoulos, F|X-ray studies of clusters of galaxies with the Einstein Observatory.|12
+1980HiA.....5..763G|Gorenstein, P;Schwartz, D|Implications of results from the Einstein Observatory for the X-ray background.|2
+1980HiA.....5..771H|Henry, J;Soltan, A;Tananbaum, H;Zamorani, G|Constraint on quasar number counts from their contribution to the X-ray background.|0
+1980HiA.....5..853S|Swank, J|X-ray observations of stellar coronae and winds.|1
+1980IAUC.3471....3M|Mufson, S;Wisniewski, W;McMillan, R|KR Aurigae|10
+1980IAUC.3482....2W|White, N;Holt, S;Boldt, E;Serlemitsos, P|HEAO Observations of X-Ray Sources|3
+1980IAUC.3514....2W|White, N;Marshall, F;Patterson, J;Garcia, M|H 2252-035|14
+1980IAUC.3518....2B|Bignami, G;Caraveo, P;Lamb, R;Markert, T|X-Ray Emission from LSI+61 303|8
+1980IAUC.3529....1S|Steiner, J;Watson, M;McHardy, I;Pye, J;Jablonski, F;Busko, I|4U 1849-31 = V1223 Sagittarii|6
+1980IAUC.3529....2C|Chlebowski, T;Halpern, J;Steiner, J|1E 0643.0-1648|4
+1980IAUC.3543....1K|Kriss, G;Cominsky, L;Remillard, R;Rappaport, S|4U 0115+63|7
+1980IAUS...92..187G|Giacconi, R|X-ray observations of objects at cosmological distances from the 'Einstein' Observatory|1
+1980MmSAI..51..713S|Serio, G;Vaiana, G|Einstein observations of X-ray emission from variable stars|0
+1980NTNA...46...32H|Heise, J|The Einstein Observatory for high-energy astrophysics.|0
+1980NYASA.336..550M|Margon, B|Optical counterparts of compact galactic X-ray sources|15
+1980S&W....19..214R|Roser, M|Das Einstein-Röntgenobservatorium.|0
+1980SAOSR.389..127S|Stern, R;Underwood, J;Zolcinski, M;Antiochos, S|The Einstein Central Hyades Survey - a Progress Report|3
+1980SAOSR.389..195V|Vaiana, G|Stellar Coronae - Overview of the Einstein / CFA Stellar Survey|7
+1980STIN...8022147L|Lamb, R;Markert, T;Hartman, R;Thompson, D;Bignami, G|Two X-ray pulsars: 2S 1145-619 and 1E 1145.1-6141|0
+1980STIN...8023228P|Pravdo, S;White, N;Kondo, Y;Becker, R;Boldt, E;Holt, S;Serlemitsos, P;McCluskey, B|X-ray and UV spectroscopy of Cygnus X-1 = HDE226868|0
+1980STIN...8023229W|White, N;Holt, S;Becker, R;Boldt, E;Serlemitsos, P|X-ray observations of Algol|0
+1980STIN...8025268W|Weisskopf, M;Darbro, W;Ghosh, P;Sutherland, P;Grindlay, J|High time resolution observation of the transient event of 5 March 1979|0
+1980STIN...8026230C|Cline, T;Desai, U;Teegarden, B|The Goddard program of gamma ray transient astronomy|0
+1980STIN...8026251B|Becker, R;Szymkowiak, A;Boldt, E;Holt, S;Serlemitsos, P|Is the remnant of SN1006 crab-like?|0
+1980STIN...8033332H|Holt, S|Spectroscopy of compact extragalactic X-ray sources|0
+1980STIN...8112958M|Mushotzky, R;Holt, S;Smith, B;Boldt, E;Serlemitsos, P|Observation of the core of the Perseus cluster with the Einstein solid state spectrometer: Cooling gas and elemental abundances|0
+1980STIN...8112961B|Becker, R;Marshall, F|An X-ray survey of nine historical novae|0
+1980STIN...8115935S|Swank, J;White, N;Holt, S;Becker, R|Two component X-ray emission from RS CVn binaries|0
+1980aas..meet.....R|Rappaport, S;Joss, P|Binary X-ray pulsars|0
+1980hias.book..101M|Murray, S|Review of Recent Observation of Cluster X-ray Sources Using the Einstein Observatory|0
+1980iue..prop..417B|Bowyer, C|Eclipse Coverage of the RS CVN Star: AR LAC|0
+1980iue..prop..463K|Kondo, Y|Simultaneous Observations of BL Lac Objects with the IUE and HEAO-2|0
+1980iue..prop..465K|Kuhi, L|A Study of Chromospheric Activity in Spectroscopic Binary Systems|0
+1980iue..prop..529W|Walker, A|Determination of Interstellar Abundance by Correlated X-Ray and Ultraviolet Observations|1
+1980tsup.work...20H|Helfand, D|X-ray imaging of supernova remnants and neutron stars - Can we distinguish Type I remnants|5
+1980tsup.work...32S|Szymkowiak, A|X-ray spectroscopy of supernova remnants|10
+1979BAAS...11..408C|Canizares, C|High Resolution Spectroscopy on the Einstein Observatory|1
+1979BAAS...11..424H|Harnden, F;Hertz, P;Gorenstein, P;Grindlay, J;Schreier, E;Seward, F|Observations of the Vela Pulsar from the Einstein Observatory|26
+1979BAAS...11..424K|Kelley, R;Bradt, H;Petre, R;Rappaport, S|Observations of the X-ray Pulsar GX301-2 with SAS-3|0
+1979BAAS...11..424T|Tananbaum, H;Epstein, A;Forman, W;Giacconi, R;Grindlay, J;Harden, F;Jones, C;Schreier, E;Seward, F;van Speybroeck, L|X-Ray Observations of the Crab Nebula with the Einstein Observatory|0
+1979BAAS...11..442M|Marshall, H;Seward, F;Schwartz, D;Giacconi, R|X-ray Surveys Using Einstein: A Medium Sensitivity Survey and Spectra of "Deep Survey" Sources|1
+1979BAAS...11..442N|Nugent, J;Jensen, K;Garmire, G;Cordova, F;Riegler, G;Agrawal, P;Charles, P;Mason, K;Bowyer, S|Progress on the Soft X-Ray Catalogue from HEAO A-2|1
+1979BAAS...11..445G|Grindlay, J;Marshall, H;Hertz, P;Darbro, W;Elsner, R;Ghosh, P;Weisskopf, M|Studies of an X-ray Burst Imaged by the Einstein X-ray Observatory|0
+1979BAAS...11..445N|Novick, R;Helfand, D;Chanan, G;Ku, W;Long, K|Search for Thermal Emission from Neutron Stars with the Einstein Observatory|1
+1979BAAS...11..446R|Rosner, R;Grindlay, G;Harnden, R;Seward, F;Vaiana, G|X-Ray Sources from O Star Associations|2
+1979BAAS...11..446V|Vaiana, G;Forman, W;Giacconi, R;Gorenstein, P;Pye, J;Rosner, R;Seward, F;Topka, K|Initial Results from the Einstein Survey of Stellar Low-Luminosity X-ray Sources|4
+1979BAAS...11..459F|Forman, W;Liller, W;Jones, C;Bechtold, J;Schwarz, J;Fabricant, D|X-Ray Observations of the Virgo Cluster of Galaxies with the Einstein Observatory|0
+1979BAAS...11..459M|Mushotzky, R;Becker, R;Boldt, E;Holt, S;Serlemitsos, P;White, N|Solid State Spectrometer Observations of Clusters of Galaxies|0
+1979BAAS...11..460A|Abramopoulos, F;Chanan, G;Helfand, D;Ku, W;Long, K|Einstein Observations of Clusters of Galaxies|0
+1979BAAS...11..460B|Bechtold, J;Forman, W;Jones, C;Liller, W;Marshall, H;Murray, S;Pye, J;Tananbaum, H;Giacconi, R|Einstein Observations of Deep Survey Fields|0
+1979BAAS...11..462C|Chanan, G;Helfand, D;Ku, W;Long, K|Observations of Galactic Supernova Remnants with HEAO-2|0
+1979BAAS...11..462G|Gorenstein, P;Murray, S;Epstein, A;Griffiths, R;Fabbiano, G;Seward, F|A High Resolution X-Ray Image of the Remnant of Tycho's Supernova from the Einstein Observatory|2
+1979BAAS...11..462M|Murray, S;Epstein, A;Fabbiano, P;Gorenstein, P;Griffiths, R;Madejski, G;Fabian, A|Observations of the Supernova Remnant Cas A with the Einstein Observatory|1
+1979BAAS...11..465S|Soltan, A;Branduardi, G;Fabbiano, G;Feigelson, E;Giacconi, R;Murray, S;Pye, J;Tananbaum, H;Zamorani, G|X-Ray Properties of QSO's from Einstein Observations|0
+1979BAAS...11..466F|Feigelson, A;Schreier, E;Delvaille, J;Grindlay, J;Schwartz, D;Giacconi, R|The X-ray Structure of Centaurus|0
+1979BAAS...11..466G|Griffiths, R;Feigelson, E;van Speybroeck, L|X-ray Observations of Emission-line Galaxies with the Einstein Observatory|7
+1979BAAS...11..467E|Epstein, A;Mandel, E;Forman, W;Jones, C;Pye, J;van Speybroeck, L|Observations of the Galactic Center with the Einstein Observatory|3
+1979BAAS...11..467L|Long, K;Chanan, G;Helfand, D;Ku, W|Observations of the Large Magellanic Cloud with the Imaging Proportional Counter Aboard the Einstein Satellite|1
+1979BAAS...11..609N|Nugent, J;Jensen, K;Garmire, G;Cordova, F;Riegler, G;Agrawal, P;Charles, P;Mason, K;Bowyer, S|Preliminary results from the HEAO A-2 soft X-ray survey.|0
+1979BAAS...11..609V|van Speybroeck, L;Bechtold, J;Epstein, A;Forman, W;Giacconi, R;Grindlay, J;Jones, C;Murray, S;Schreier, E;Seward, F|Observations of X-ray sources in M31 with the Einstein Observatory.|1
+1979BAAS...11..623C|Chanan, G;Ku, W;Simon, M;Charles, P|Further Einstein Observations of the Orion Nebula|5
+1979BAAS...11..633J|Jones, C|Einstein Observations of Clusters of Galaxies|0
+1979BAAS...11..636H|Helfand, D;Morris, M;Lucy, L;Romanishin, W|Rich Cluster Evolution: An Observational Approach|0
+1979BAAS...11..642M|Murray, S|Extragalactic X-ray Source Counts Obtained with the Einstein Observatory|1
+1979BAAS...11..651G|Gibson, D|Simultaneous X-ray/Radio Flaring in RSCVn Binaries|5
+1979BAAS...11..652S|Schwartz, D;Giacconi, R;Griffiths, R;Maccacaro, T;Murray, S;Zamorani, G|The Slope of the Faint X-ray Source Counts and Models of Cosmological Evolution|0
+1979BAAS...11..655C|Canizares, C;Clark, G;Jernigan, J;Markert, T;Schattenburg, M|Further High Resolution X-ray Spectroscopy of M87|1
+1979BAAS...11..694S|Shapiro, P;Bahcall, J|The Effects of X-ray Absorption on the Spectra of Distant Objects|0
+1979BAAS...11..702V|van Riper, K;Lamb, D|Neutron Star Cooling: Today's Surface Temperatures Compared with the Einstein Observatory Results|1
+1979BAAS...11..771F|Farmer, E;Bechtold, J;Giacconi, R;Griffiths, R;Maccacaro, T;Murray, S|Preliminary Results of an Extremely High Sensitivity X-Ray Survey of the Ursa Minor Region Using the EINSTEIN Observatory.|0
+1979BAAS...11..773D|Darbro, W;Elsner, R;Ghosh, P;Weisskopf, M;Grindlay, J;Sutherland, P|Observations of SMC X-1 with the Monitor Proportional Counter on the EINSTEIN (HEAO-2) Observatory.|0
+1979BAAS...11..773W|Weisskopf, M;Darbro, W;Elsner, R;Ghosh, P;Sutherland, P;Grindlay, J|Observations of 4U1626-67 with the Monitor Proportional Counter on the EINSTEIN (HEAO-2) Observatory.|0
+1979BAAS...11..774H|Heise, J|High Resolution Soft X-ray Spectra of Her X-1 with the Objective Grating Spectrometer Aboard Einstein Observatory.|0
+1979BAAS...11..775G|Golub, L;Harnden, F;Rosner, R;Topka, K;Vaiana, G|X-ray Observations of the α Cen System from EINSTEIN.|1
+1979BAAS...11..775H|Harnden, F;Golub, L;Rosner, R;Seward, F;Topka, K;Vaiana, G|On Stars and OB Associations Observed from EINSTEIN.|4
+1979BAAS...11..775J|Johnson, H|HEAO-2 Observations of Wolf 630.|2
+1979BAAS...11..776K|Ku, W|X-Ray Studies of Quasars With the EINSTEIN OBSERVATORY.|0
+1979BAAS...11..776R|Rosner, R;Giacconi, R;Golub, L;Harnden, F;Topka, K;Vaiana, G|X-ray Observations of Very Late-Type Dwarf Stars from the EINSTEIN Observatory.|3
+1979BAAS...11..776Z|Zamorani, G;Elvis, M;Fabbiano, G;Feigelson, E;Giacconi, R;Grindlay, J;Henry, J;Maccacaro, T;Murray, S;Schwartz, D;Soltan, A;Steiner, J;Tananbaum, H|X-ray Properties of QSO's from EINSTEIN Observations.|1
+1979BAAS...11..777C|Chanan, G;Margon, B;Downes, R|An Optical Identification Program for Serendipitous EINSTEIN X-Ray Sources.|0
+1979BAAS...11..777K|Kriss, G;Canizares, C;Winkler, P|The MIT Survey of Seyfert Galaxies with the EINSTEIN Observatory IPC.|0
+1979BAAS...11..779L|Lamb, D;van Riper, K|Neutron Star Evolution: Confronting Theoretical Cooling Curves with Results from the EINSTEIN Observatory.|4
+1979BAAS...11..781S|Stern, R;Underwood, J;Zolcinski, M;Antiochos, S|The EINSTEIN Central Hyades Survey: A Progress Report.|0
+1979BAAS...11..781T|Topka, K;Golub, L;Harnden, F;Gorenstein, P;Rosner, R;Vaiana, G|A Magnitude Limited Stellar Survey with EINSTEIN.|2
+1979BAAS...11..782A|Agrawal, P;Riegler, G|Discovery of X-Ray Emission Lines from σ Cr B with the EINSTEIN Observatory.|0
+1979BAAS...11..783R|Riegler, G;Agrawal, P|Observations of the Soft, Variable Source H0137-68 from HEAO-1 and HEAO-2.|0
+1979BAAS...11..784A|Abramopoulos, F;Ku, W|EINSTEIN Observations of Clusters of Galaxies.|0
+1979BAAS...11..784S|Schwarz, J;Forman, W;Jones, C;Fabian, A|X-ray Observations of the Centaurus Cluster with the Imaging Instruments on the EINSTEIN Observatory.|0
+1979BAAS...11..788C|Cordova, F;Mason, K;Nelson, J|An X-Ray Survey of Selected Cataclysmic Variable Stars Using the EINSTEIN Observatory.|0
+1979BAAS...11..788M|Marshall, H;Grindlay, J;Weisskopf, M|Observations of the Rapid Burster (MXB1730-335) Using the EINSTEIN Observatory.|1
+1979BAAS...11..789H|Harnden, F;Buehler, B;Giacconi, R;Grindlay, J;Hertz, P;Schreier, E;Seward, F;Tananbaum, H;van Speybroeck, L|X-Ray Observations of the Crab Nebula with the Einstein Observatory.|18
+1979BAAS...11..790P|Pye, J;Pounds, K;Rolf, D;Seward, F;Smith, A;Willingale, R|An X-ray Map of SN 1006 with the EINSTEIN Observatory.|2
+1979BAAS...11..791V|Venkatesan, D;Gallas, C;Naranan, S;Long, K|X-Ray Observations of HB3 with the EINSTEIN Observatory.|1
+1979BAAS...11..792H|Harris, D;Dewdney, P;Costain, C|Attempts to Detect Non-Thermal Sources with the EINSTEIN Observatory.|0
+1979BAAS...11..794E|Elsner, R;Ghosh, P;Darbro, W;Weisskopf, M;Sutherland, P|Observations of Cygnus X-3 with the EINSTEIN (HEAO-2) X-Ray Observatory.|0
+1979BAAS...11..794G|Ghosh, P;Elsner, R;Weisskopf, M;Sutherland, P|EINSTEIN (HEAO-2) Observations of Cygnus X-3: Model X-Ray Light Curves and Binary Orbit Determination.|1
+1979BAAS...11..796R|Rolf, D;Harnden, F;Gorenstein, P;Pye, J;Seward, F;Willingale, R|An X-ray Map of the W44 Supernova Remnant from the EINSTEIN Observatory.|0
+1979BAAS...11..797F|Fabbiano, G;Feigelson, E;Elvis, M;Griffiths, R;Schreier, E|A Study of the X-Ray Properties of A Sample of Late Type Peculiar Galaxies with Data from the EINSTEIN Observatory.|2
+1979BAAS...11Q.408G|Gorenstein, P|Observations of Clusters of Galaxies with the Einstein Observatory|0
+1979BAAS...11Q.408L|Long, K|Observations of Extragalactic Sources with the Imaging Proportional Counter aboard the Einstein Observatory|1
+1979BAAS...11Q.425W|White, N;Becker, R;Pravdo, S;Holt, S;Mushotzky, R;Boldt, E;Serlemitsos, P|SSS Observations of Binary X-Ray Pulsars|0
+1979BAAS...11Q.466K|Ku, W;Chanan, G;Helfand, D;Long, K|Einstein Observations of Active Galaxies|3
+1979BAAS...11Q.785B|Bechtold, J;Jones, C;Forman, W|Observations of Clusters of Galaxies with the EINSTEIN Observatory.|0
+1979BAAS...11R.426F|Fabricant, D;Harnden, R;Schreier, E;Gorenstein, P|A Study of the X-ray Structure of Extended Emission from M87 with the Einstein Observatory|3
+1979IAUC.3349....1O|Oda, M;Kaluzienski, L;Holt, S|4U 1608-52|5
+1979IAUC.3351....1R|Riegler, G;Agrawal, P;Garmire, G|H 0622-529|0
+1979IAUC.3356....1E|Evans, D;Kiebesadel, R;Baros, J;Cline, T;Desai, U;Teegarden, B;Pizzichini, G;Hurley, K;Niel, M;Vedrenne, G;Estulin, I;Mazets, E|Gamma-ray Burst 79-03-05|14
+1979IAUC.3374....2V|Viotti, R;Giangrande, A;Cassatella, A|Eta Carinae|0
+1979IAUC.3382....1J|Jensen, K|CP Puppis|2
+1979IAUS...83..201C|Cassinelli, J|The corona plus cool wind model for Of stars and OB supergiants.|3
+1979ICRC...14...19G|Giacconi, R|Recent Advances in X-Ray Astronomy|0
+1979NASCP2080...63B|Brissette, R;Allard, P;Keller, F;Strizhak, E;Wester, E|Focal Plane Transport Assembly for the Heao-B X-Ray Telescope|0
+1979S&T....57..527O|Overbye, D|The X-Ray Eyes of Einstein|4
+1979S&W....18....8T|Trumper, J|HEAO-B - das Einstein-Observatorium - auf Umlaufbahn.|0
+1979SPIE..184....2V|van Speybroeck, L|Einstein Observatory /HEAO-B/ mirror design and performance|12
+1979SPIE..184...96D|Davis, J;Krieger, A;Silk, J;Chase, R|Quest for ultrahigh resolution in X-ray optics|6
+1979SPIE..184..131Y|Young, P|Fabrication of the high-resolution mirror assembly for the HEAO-2 X-ray telescope|3
+1979STIN...7917767R|Rasche, R|Research study entitled advanced X-ray astrophysical observatory (AXAF)|0
+1979STIN...7920947R|Rose, L;Pravdo, S;Kaluzienski, L;Marshall, F;Holt, S;Boldt, E;Rothschild, R;Serlemitsos, P|Observations of the transient X-ray source 4U0115+63|0
+1979STIN...7923858M|Marshall, F;Swank, J;Boldt, E;Holt, S;Serlemitsos, P|X-ray observations of H1908+050 (=SS433?)|0
+1979STIN...7928092P|Pravdo, S;Boldt, E;Marshall, F;McKee, J;Mushotzky, R;Smith, B;Reichert, G|A search for X-ray emission from rich clusters, extended halos around clusters, and superclusters|0
+1979STIN...7934132B|Becker, R;Holt, S;Smith, B;White, N;Boldt, E;Mushotzky, R;Serlemitsos, P|Elemental abundances in a type I SNR|0
+1979STIN...8014995W|Weisskopf, M|Monitor proportional counter|0
+1979cgxs.work...80S|Swank, J|Degenerate dwarfs in future hard X-ray experiments|0
+1979haob.rept..738K|Kristian, J;Westphal, J;Perryman, M;Gunn, J;Longair, M;Giacconi, R;Sargent, W;Kowal, C|Optical Identifications - Optical Candidate for the Binary Pulsar 1913+16 - Identification of 3c Sources - HEAO-2 Deep X-Ray Survey|0
+1979iue..prop..194F|Fabbiano, G|A Comparative Study of the UV and X-Ray Line Spectra of Four Binary X-Ray Sources|0
+1979iue..prop..263W|Wu, C|Ultraviolet Observations of Cataclysmic Variables and Related Objects|0
+1979msfc.symp..262G|Giacconi, R|A high energy astronomy overview|0
+1979msfc.symp..292H|Holt, S|Nondispersive spectroscopy of celestial X-ray sources|1
+1979msfc.symp..329C|Clark, G|High resolution X-ray spectroscopy on the Einstein Observatory|0
+1979msfc.symp..368S|Seward, F|Einstein observations of extended galactic X-ray sources|2
+1979msfc.symp..390S|Schreier, E|Einstein observations of active galaxies and quasars|1
+1979msfc.symp..409J|Jones, C|The structure and evolution of X-ray clusters of galaxies|0
+1979msfc.symp..422L|Long, K|Columbia/Einstein observations of galactic X-ray sources|3
+1979msfc.symp..439K|Ku, W|Columbia/Einstein observations of extragalactic X-ray sources|1
+1979snsa.conf...71W|Weisskopf, M|X-Ray Astronomy|0
+1979wdvd.coll..135S|Swank, J|Hard X-Ray Properties of Cataclysmic Variables|28
+1979xras.proc..381F|Fabian, A;Rees, M|X-ray emission from clusters of galaxies and galactic nuclei.|27
+1979xras.proc..479F|Fabian, A;Rees, M|The content of a typical HEAO-B field (|0
+1978BAAS...10..515S|Swank, J;Boldt, E;Holt, S;Rothschild, R;Serlemitsos, P|HEAO A-2 Observations of X-Ray Bursts.|0
+1978IAUC.3309....2G|Giacconi, R;Seward, F|HEAO 2|0
+1978MmSAI..49..599W|Winkler, P|What can X-rays tell us about SNR's ?|3
+1978S&T....56..396O|Overbye, D|Waiting for HEAO B|0
+1978STIA...7829795M|Miller, R;Defuria, A;Hebert, T;Davulis, V;Sawicki, R|Structural design, analysis, and testing of the High Energy Astronomy Observatory X-ray telescope|0
+1978STIN...7923859P|Prilutskij, O;Usov, V|X-ray radiation of the close binaries with non-compact components|0
+1978aans.meet.....T|Tananbaum, H;Giacconi, R|Advanced missions for X-ray astronomy in the Shuttle ERA|0
+1978aiaa.meetR....D|Dailey, C|HEAO-B and -C engineering design and scientific objectives|0
+1978easy.conf..610R|Rosendhal, J|Future activity in astrophysics|0
+1978nisa.symp.....V|van der Hucht, K;Vaiana, G|New instrumentation for space astronomy|0
+1978nisa.symp..189S|Schreier, E|The HEAO-B X-Ray Observatory|1
+1977SPIE..106..136V|van Speybroeck, L|Design, fabrication and expected performance of the HEAO-B X ray telescope|7
+1977SPIE..106..154C|Canizares, C;Clark, G;Bardas, D;Markert, T|The curved crystal X-ray spectrometer for the HEAO-B satellite|10
+1977guco.conf...33F|Farrenkopf, R;Hoffman, D|Guide star targeting success for the HEAO-B observatory|0
+1977hbxr.book.....G|Giacconi, R;Schreier, E|HEAO-B x-ray observatory consortium observing program|1
+1977xri..conf..136V|van Speybroeck, L|Design, fabrication and expected performance of the HEAO-B X-ray telescope.|0
+1977xri..conf..154C|Canizares, C;Clark, G;Bardas, D;Markert, T|The curved crystal X-ray spectrometer for the HEAO-B satellite.|0
+1976BAAS....8..548G|Giacconi, R;Tananbaum, H|The HEAO-B X-ray observatory.|0
+1976BAAS....8R.548G|Giacconi, R;Tananbaum, H|The HEAO-B X-Ray Observatory.|0
+1976STIN...7628123.||HEAO Block 2 study executive summary|0
+1976STIN...7719141.||Technical assessment of high energy astronomy Observatory-B (HEAO-B) Attitude Control and and Determination Subsystem (ACDS)|0
+1976STIN...7820027M|Murray, B|Proposal to National Aeronautics and Space Administration for continuation of a grazing incidence imaging telescope for X-ray astronomy using sounding rockets|0
+1976xrtc.book.....B|Boldt, E|An X-ray red-shift test for clusters of galaxies up to z_geq _1.|0
+1975STIA...7540957A|Antrim, W;Hall, R;Larson, R;Defuria, A|The HEAO-B optical bench|0
+1975sxas.book.....H|Holt, S|Si(Li) X-ray astronomical spectroscopy.|1
+1975xris.conf.1146B|Boldt, E;Garmire, G|The HEAO A-2 experiment on the spatial and spectral structure of the X-ray sky /0.2-60 keV/|0
+1972xanf.conf..155A|Angel, J;Woodgate, B|Bragg Crystal Spectrometer for Heao-B X-Ray Astronomy Experiment|0
+1972xanf.conf..163B|Boldt, E|Heao-B X-Ray Experiments. Non Dispersive Spectroscopy|0

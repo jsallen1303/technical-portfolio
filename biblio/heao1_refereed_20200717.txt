@@ -1,0 +1,263 @@
+2019JHEP...02..171D|DeRocco, W;Graham, P;Kasen, D;Marques-Tavares, G;Rajendran, S|Observable signatures of dark photons from supernovae|17
+2019RAA....19..138A|Agrawal, P|Journey through the birth, growth and maturity of X-ray astronomy|0
+2018A&A...616A.161P|Perdelwitz, V;Navarrete, F;Zamponi, J;Mennickent, R;Volschow, M;Robrade, J;Schneider, P;Schleicher, D;Schmitt, J|Long-term variations in the X-ray activity of HR 1099|4
+2014MNRAS.437.2845B|Ballantyne, D|The average 0.5-200 keV spectrum of local active galactic nuclei and a new determination of the 2-10 keV luminosity function at z ≈ 0|23
+2013JHEP...11..193E|Essig, R;Kuflik, E;McDermott, S;Volansky, T;Zurek, K|Constraining light dark matter with diffuse X-ray and gamma-ray observations|153
+2012A&A...548A..99W|Warwick, R;Saxton, R;Read, A|The XMM-Newton slew survey in the 2-10 keV band|25
+2011Ap&SS.332...57B|Bisnovatyi-Kogan, G;Pozanenko, A|About the measurements of the hard X-ray background|4
+2011PASJ...63S.677H|Hiroi, K;Ueda, Y;Isobe, N;Hayashida, M;Eguchi, S;Sugizaki, M;Kawai, N;Tsunemi, H;Matsuoka, M;Mihara, T;Yamaoka, K;Ishikawa, M;Kimura, M;Kitayama, H;Kohama, M;Matsumura, T;Morii, M;Nakagawa, Y;Nakahira, S;Nakajima, M;Negoro, H;Serino, M;Shidatsu, M;Sootome, T;Sugimori, K;Suwa, F;Toizumi, T;Tomida, H;Tsuboi, Y;Ueno, S;Usui, R;Yamamoto, T;Yamazaki, K;Yoshida, A|The First MAXI/GSC Catalog in the High Galactic-Latitude Sky|21
+2011PASJ...63S.937U|Ueda, Y;Hiroi, K;Isobe, N;Hayashida, M;Eguchi, S;Sugizaki, M;Kawai, N;Tsunemi, H;Mihara, T;Matsuoka, M;Ishikawa, M;Kimura, M;Kitayama, H;Kohama, M;Matsumura, T;Morii, M;Nakagawa, Y;Nakahira, S;Nakajima, M;Negoro, H;Serino, M;Shidatsu, M;Sootome, T;Sugimori, K;Suwa, F;Toizumi, T;Tomida, H;Tsuboi, Y;Ueno, S;Usui, R;Yamamoto, T;Yamaoka, K;Yamazaki, K;Yoshida, A|Revisit of Local X-Ray Luminosity Function of Active Galactic Nuclei with the MAXI Extragalactic Survey|26
+2010A&A...509A..38G|Georgantopoulos, I;Akylas, A|Comparison between the luminosity functions of X-ray and [OIII] selected AGN|16
+2010A&A...512A..49T|Turler, M;Chernyakova, M;Courvoisier, T;Lubinski, P;Neronov, A;Produit, N;Walter, R|INTEGRAL hard X-ray spectra of the cosmic X-ray background and Galactic ridge emission|47
+2010AIPC.1248..149C|Capitanio, F;Belloni, T;Del Santo, M;Ubertini, P|A Failed outburst of H1743-322|0
+2010AIPC.1248..507S|Saxton, R;Read, A;Warwick, R;Esquej, M|XMM-Newton slew survey hard band sources|0
+2010ApJS..186..378T|Tueller, J;Baumgartner, W;Markwardt, C;Skinner, G;Mushotzky, R;Ajello, M;Barthelmy, S;Beardmore, A;Brandt, W;Burrows, D;Chincarini, G;Campana, S;Cummings, J;Cusumano, G;Evans, P;Fenimore, E;Gehrels, N;Godet, O;Grupe, D;Holland, S;Kennea, J;Krimm, H;Koss, M;Moretti, A;Mukai, K;Osborne, J;Okajima, T;Pagani, C;Page, K;Palmer, D;Parsons, A;Schneider, D;Sakamoto, T;Sambruna, R;Sato, G;Stamatikos, M;Stroh, M;Ukwata, T;Winter, L|The 22 Month Swift-BAT All-Sky Hard X-ray Survey|187
+2009A&A...493..501M|Moretti, A;Pagani, C;Cusumano, G;Campana, S;Perri, M;Abbey, A;Ajello, M;Beardmore, A;Burrows, D;Chincarini, G;Godet, O;Guidorzi, C;Hill, J;Kennea, J;Nousek, J;Osborne, J;Tagliaferri, G|A new measurement of the cosmic X-ray background|112
+2008ApJ...689..666A|Ajello, M;Greiner, J;Sato, G;Willis, D;Kanbach, G;Strong, A;Diehl, R;Hasinger, G;Gehrels, N;Markwardt, C;Tueller, J|Cosmic X-Ray Background and Earth Albedo Spectra with Swift BAT|133
+2008ChJAS...8..297F|Frontera, F;Orlandini, M;Landi, R;Comastri, A;Setti, G|The Cosmic X-ray Background at the Peak of its Emission: An Accurate Measurement with BeppoSAX and its Consequences|1
+2008MNRAS.384..230K|Kharb, P;Gabuzda, D;Shastri, P|Parsec-scale magnetic field structures in HEAO-1 BL Lacs|17
+2007A&A...467..529C|Churazov, E;Sunyaev, R;Revnivtsev, M;Sazonov, S;Molkov, S;Grebenev, S;Winkler, C;Parmar, A;Bazzano, A;Falanga, M;Gros, A;Lebrun, F;Natalucci, L;Ubertini, P;Roques, J;Bouchet, L;Jourdain, E;Knodlseder, J;Diehl, R;Budtz-Jorgensen, C;Brandt, S;Lund, N;Westergaard, N;Neronov, A;Turler, M;Chernyakova, M;Walter, R;Produit, N;Mowlavi, N;Mas-Hesse, J;Domingo, A;Gehrels, N;Kuulkers, E;Kretschmar, P;Schmidt, M|INTEGRAL observations of the cosmic X-ray background in the 5-100 keV range via occultation by the Earth|144
+2007ApJ...666...86F|Frontera, F;Orlandini, M;Landi, R;Comastri, A;Fiore, F;Setti, G;Amati, L;Costa, E;Masetti, N;Palazzi, E|The Cosmic X-Ray Background and the Population of the Most Heavily Obscured AGNs|72
+2007MNRAS.377.1295J|Jonker, P;Bassa, C;Wachter, S|The quasi-persistent neutron star soft X-ray transient 1M 1716-315 in quiescence|13
+2006AJ....131.2843S|Shinozaki, K;Miyaji, T;Ishisaki, Y;Ueda, Y;Ogasaka, Y|Spectral Statistics and Local Luminosity Function of a Complete Hard X-Ray Sample of the Brightest Active Galactic Nuclei|49
+2006AdSpR..38.2816C|Capitanio, F;Bazzano, A;Ubertini, P;de Cesare, G;Del Santo, M;Tarana, A;Joinet, A|Two years of INTEGRAL observation of the BHC IGR J17464-3213|1
+2006MNRAS.370..213B|Boyarsky, A;Neronov, A;Ruchayskiy, O;Shaposhnikov, M|Constraints on sterile neutrinos as dark matter candidates from the diffuse X-ray background|175
+2006PASP..118..797J|Johnson, E;Imamura, J;Steiman-Cameron, T|X-Ray Spectral and Timing Observations of AO Piscium|4
+2005A&A...444..381R|Revnivtsev, M;Gilfanov, M;Jahoda, K;Sunyaev, R|Intensity of the cosmic X-ray backgound from HEAO1/A2 experiment|39
+2005MNRAS.360.1013B|Boughn, S;Crittenden, R|The cross-correlation between the microwave and X-ray backgrounds: foregrounds and systematics|29
+2005NewAR..49...75B|Boughn, S;Crittenden, R|A detection of the integrated Sachs Wolfe effect|45
+2005PhDT........15A|Atanassova, M|Optimizing the performance of as-manufactured grazing incidence x-ray telescopes using mosaic detector arrays|0
+2004A&A...418..927R|Revnivtsev, M;Sazonov, S;Jahoda, K;Gilfanov, M|RXTE all-sky slew survey. Catalog of X-ray sources at |b|&gt;10<SUP>o</SUP>|98
+2004A&A...418.1187S|Shaw, S;Westmore, M;Hill, A;Bird, A;Dean, A;Ferguson, C;Knodlseder, J;Lockley, J;Willis, D|Gamma-ray all-sky imaging with the Burst and Transient Source Experiment|14
+2003A&A...411..329R|Revnivtsev, M;Gilfanov, M;Sunyaev, R;Jahoda, K;Markwardt, C|The spectrum of the cosmic X-ray background observed by RTXE/PCA|84
+2003AN....324...36U|Ueda, Y;Akiyama, M;Ohta, K;Miyaji, T|The hard X-ray luminosity function from ASCA surveys|4
+2003MNRAS.346..897B|Barcons, X;Carrera, F;Ceballos, M|The warm absorber of the type 1 Seyfert galaxy H1419+480|8
+2003NewA....8..141N|Nakar, E;Piran, T|On-axis orphan afterglows|36
+2002A&A...394..801M|Malizia, A;Malaguti, G;Bassani, L;Cappi, M;Comastri, A;Di Cocco, G;Palazzi, E;Vignali, C|BeppoSAX/PDS identification of the true counterpart of the Piccinotti source H0917-074|10
+2001AIPC..599..734M|MacDonald, D;Gruber, D;Boldt, E|Measurements of fluctuations in the hard X-ray background with RXTE|1
+2001ApJ...562..499G|Gruber, D;Heindl, W;Rothschild, R;Coburn, W;Staubert, R;Kreykenbohm, I;Wilms, J|Stability of the Cyclotron Resonance Scattering Feature in Hercules X-1 with RXTE|32
+2000A&A...353..440P|Pompilio, F;La Franca, F;Matt, G|The X-ray background and the evolution of AGN|27
+2000ApJ...532.1119W|Wen, L;Remillard, R;Bradt, H|X1908+075: An X-Ray Binary with a 4.4 Day Period|15
+2000ApJ...541.1026C|Chaput, C;Bloom, E;Cominsky, L;Godfrey, G;Hertz, P;Scargle, J;Shabad, G;Wen, H;Wood, K;Yentis, D|A Search for Aperiodic Millisecond Variability in Cygnus X-1|2
+2000MNRAS.316L..13B|Barcons, X;Mateos, S;Ceballos, M|On the intensity of the extragalactic X-ray background|38
+1999A&A...349L..73V|Vecchi, A;Molendi, S;Guainazzi, M;Fiore, F;Parmar, A|The BeppoSAX 1-8 keV cosmic background spectrum|95
+1999ApJ...518..656U|Ueda, Y;Takahashi, T;Inoue, H;Tsuru, T;Sakano, M;Ishisaki, Y;Ogasaka, Y;Makishima, K;Yamada, T;Akiyama, M;Ohta, K|LOG N-LOG S Relations and Spectral Properties of Sources from the ASCA Large Sky Survey: Their Implications for the Origin of the Cosmic X-Ray Background (CXB)|135
+1999ApJ...520..124G|Gruber, D;Matteson, J;Peterson, L;Jung, G|The Spectrum of Diffuse Cosmic Hard X-Rays Measured with HEAO 1|289
+1999MNRAS.306..112P|Plionis, M;Georgantopoulos, I|The ROSAT X-ray background dipole|9
+1999MNRAS.309..421S|Stevens, J;Coe, M;Buckley, D|The optical counterparts to Be/X-ray binaries in the Magellanic Clouds|41
+1999NuPhS..69..625G|Gruber, D;MacDonald, D;Rothschild, R;Boldt, E;Mushotzky, R;Fabian, A|Granularity of the diffuse background observed|1
+1999PhDT........26M|MacDonald, D|Measuring the granularity of the diffuse hard X-ray background|3
+1998A&A...331L..37S|Shakura, N;Postnov, K;Prokhorov, M|On some features of free precession of a triaxial body: the case of HER X-1|23
+1998A&A...339..337G|Guainazzi, M;Piro, L;Capalbi, M;Parmar, A;Yamauchi, M;Matsuoka, M|Evidence for ionized reprocessing in the X-ray spectrum of the Seyfert 1 Galaxy 1E 1615+061|4
+1998NewA....3..275B|Boughn, S;Crittenden, R;Turok, N|Correlations between the cosmic X-ray and microwave backgrounds: constraints on a cosmological constant|69
+1998PASJ...50..389H|Henriksen, M|X-Ray Constraints on Cluster Magnetic Fields|21
+1997A&A...319...74P|Piro, L;Balucinska-Church, M;Fink, H;Fiore, F;Matsuoka, M;Perola, G;Soffitta, P|The ultraviolet to X-ray spectrum of the Seyfert 1 galaxy E 1615+061: accretion disk and reflection models.|15
+1997A&A...320..696S|Schartel, N;Schmidt, M;Fink, H;Hasinger, G;Truemper, J|The Piccinotti AGN sample observed in the ROSAT All-Sky Survey.|33
+1997ApJ...475..361K|Kinzer, R;Jung, G;Gruber, D;Matteson, J;Peterson,;L. E.,|Diffuse Cosmic Gamma Radiation Measured by HEAO 1|72
+1997MNRAS.284..499L|Lahav, O;Piran, T;Treyer, M|The X-ray background as a probe of density fluctuations at high redshift|32
+1996A&A...312....1M|Miyaji, T;Hasinger, G;Egger, R;Truemper, J;Freyberg, M|A large-area cross-correlation study of high galactic latitude soft and hard X-ray skies.|8
+1996A&AS..120C.249B|Borrel, V;Bouchet, L;Jourdain, E;Roques, J;Vargas, M;Goldwurm, A;Denis, M;Paul, J;Churazov, E;Gilfanov, M;Finoguenov, A;Sunyaev, R;Dyachkov, A;Khavenson, N;Chulkov, I;Novikov, B|A persistent hard X-ray source observed in the Terzan 1 globular cluster by the SIGMA telescope.|4
+1996ApJ...461..198G|George, I;Turner, T|The X-Ray Spectrum of the BL Lacertae Object EXO 055625-3838.6|3
+1996MNRAS.282..493C|Ceballos, M;Barcons, X|Soft versus hard X-ray emission in active galactic nuclei: partial-covering and warm-plus-cold absorber models|25
+1996MNRAS.282..646G|Gondek, D;Zdziarski, A;Johnson, W;George, I;McNaron-Brown, K;Magdziarz, P;Smith, D;Gruber, D|The average X-ray/gamma-ray spectrum of radio-quiet Seyfert 1s|88
+1996PASP..108..459B|Brown, A|Stellar Content and Evolution of OB Associations|1
+1995A&A...300...91R|Rephaeli, Y;Gruber, D;Persic, M|X-ray study of starburst galaxies.|36
+1995A&A...300..732V|Verbunt, F;Bunk, W;Hasinger, G;Johnston, H|The ROSAT XRT Sky Survey of X-ray sources in globular clusters.|69
+1995Ap&SS.230..131B|Buckley, D|Magnetic Cataclysmic Variables: Optical Counterparts of X-Ray and EUV Sources|1
+1995Ap&SS.231...43B|Belli, B|Analysis of the Log N-Log P of the BATSE Gamma-Ray Bursts|16
+1994A&A...281L..17V|van Paradijs, J;van der Klis, M|Luminosity dependence of the hardness of the 13-80 keV X-ray spectra of low-mass X-ray binaries.|47
+1994ApJ...436..762M|Maciolek-Niedzwiecki, A;Zdziarski, A|Models of Pair Annihilation in 1E 1740.7-2942 and the HEAO 1 A-4 Annihilation Source|11
+1994MNRAS.268..405N|Nandra, K;Pounds, K|GINGA observations of the X-ray spectra of Seyfert galaxies.|810
+1994MNRAS.269..913R|Rosen, S;Clayton, K;Osborne, J;McGale, P|ROSAT constraints on the intermediate polar candidates V426 Oph, SW UMa and 1H 0709-360.|20
+1994PhDT........14A|Annis, J|The Evolution of X-Ray Selected Clusters of Galaxies.|5
+1993A&AS...97..329C|Castro-Tirado, A;Brandt, S;Lund, N;Dremin, V;Lapshov, I;Siuniaev, R|WATCH observations of the X-ray pulsar GX 301-2.|1
+1993AJ....105.2079R|Remillard, R;Bradt, H;Brissenden, R;Buckley, D;Roberts, W;Schwartz, D;Stroozas, B;Tuohy, I|Twenty-Two Emission-Line AGNs From the HEAO-1 X-Ray Survey|21
+1993AJ....106..875L|Laurent-Muehleisen, S;Kollgaard, R;Moellenbrock, G;Feigelson, E|Radio Morphology and Parent Popultion of X-Ray Selected BL Lacertae Objects|71
+1993AdSpR..13l.151V|Verbunt, F;Hasinger, G;Johnston, H;Bunk, W|ROSAT observations of X-ray sources in globular clusters|14
+1993AdSpR..13l.231J|Jahoda, K|HEAO-1 and BBXRT non-source X-ray observations|13
+1993AdSpR..13l.709B|Briggs, M;Gruber, D;Matteson, J;Peterson, L|Observations of diffuse galactic positron annihilation radiation|0
+1993MNRAS.264...35F|Franceschini, A;Martin-Mirones, J;Danese, L;de Zotti, G|Hard and soft X-ray selected active galactic nuclei two distinct populations ?|11
+1993MNRAS.264..411Y|Yaqoob, T;Ebisawa, K;Mitsuda, K|Is X1957+11 a black hole candidate ?|23
+1993MNRAS.265..926B|Buckley, D;Remillard, R;Tuohy, I;Warner, B;Sullivan, D|1H 0551-819 : discovery of a new cataclysmic variable from the HEAO-1 survey.|15
+1993PASJ...45L...7I|Iwasawa, K;Kunieda, H;Awaki, H;Koyama, K|Possible X-Ray Emission from a New Southern QSO HE 1029-1401|1
+1993PhDT.........3W|Weaver, K|The complex broadband x-ray spectra of Seyfert galaxies|15
+1992A&A...253..145S|Salotti, L;Ballet, J;Cordier, B;Lambert, A;Bonazzola, S;Mereghetti, S;Mandrou, P;Roques, J;Sunyaev, R;Gilfanov, M;Churazov, E;Chulkov, I;Kuznetsov, A;Dyachkov, A;Khavenson, N;Novikov, B|Soft gamma ray observations of Cygnus X-1 with the coded-aperture SIGMA telescope.|30
+1992ARA&A..30..391B|Bradt, H;Ohashi, T;Pounds, K|X-ray astronomy missions.|24
+1992ApJ...385..561L|Leahy, D;Nousek, J;Garmire, G|Discovery of X-Ray Emission Associated with the GUM Nebula|13
+1992ApJ...399..694G|Garmire, G;Nousek, J;Apparao, K;Burrows, D;Fink, R;Kraft, R|The Soft X-Ray Diffuse Background Observed with the HEAO 1 Low-Energy Detectors|66
+1992MNRAS.258..285B|Buckley, D;O'Donoghue, D;Kilkenny, D;Stobie, R;Remillard, R|EC 19314-5915 : a bright, eclipsing cataclysmic variable from the Edinburgh-Cape Blue Object Survey.|10
+1992PhDT.........1V|Vaughan, B|Temporal and Spectral Variability in Luminous X-Ray Binaries|0
+1992PhDT........12G|Grossan, B|A Multi-Frequency Study of an X-Ray Selected Sample of Active Galactic Nuclei|21
+1992PhDT.......119S|Silber, A|Studies of an X-Ray Selected Sample of Cataclysmic Variables.|28
+1991A&A...249...25M|Maisack, M;Yaqoob, T|A search for reflection features in the X-ray spectrum of NGC 4151.|32
+1991ApJ...374..218L|Leahy, D;Nousek, J;Hamilton, A|HEAO 1 A-2 Low-Energy Detector X-Ray Spectra of the Lupus Loop and SN 1006|19
+1991ApJ...379..507M|Martin-Mirones, J;de Zotti, G;Boldt, E;Marshall, F;Danese, L;Franceschini, A;Persic, M|Small-Scale Fluctuations and Angular Correlations of the X-Ray Background in the HEAO 1 A-2 Energy Band: Constraints on Clustering of X-Ray Sources|13
+1990A&A...234...60N|Nesci, R;Altamore, A|Search for cooling flows in southern X-ray clusters of galaxies.|6
+1990AJ.....99.1435K|Kirhakos, S;Steiner, J|X-Ray and Infrared Selected Active Galactic Nuclei. I. The Missing Edge-On Galaxies|31
+1990AdSpR..10b....B|Bleeker, J;Hermsen, W|X-ray and gamma-ray astronomy|0
+1990AdSpR..10b..99S|Soong, Y;Gruber, D;Rothschild, R;Peterson, L|15-100 keV variability in her X-1 observed by HEAO-1|0
+1990ApJ...363..547L|Leahy, D;Fink, R;Nousek, J|HEAO 1 A-2 Low-Energy Detector X-Ray Spectra of the Cygnus Loop|7
+1990MNRAS.244P..39H|Hellier, C;Mason, K;Smale, A;Kilkenny, D|The ephemeris of X 1822-371.|47
+1990MNRAS.245..268D|Davies, S;Wood, K;Coe, M|HEAO-1 observations of the X-ray pulsar 1E 2259+586.|20
+1990PhDT.........3F|Fink, R|Application of the HEAO-1 A-2 Low Energy Detector Data to the Diffuse X-Ray Sky Background|6
+1990PhDT.........4J|Johnson, M|HEAO A-1 Observations of X-Ray Emitting Clusters of Galaxies.|1
+1989A&A...223..179B|Beuermann, K;Schwope, A|One-pole and two-pole X-ray emission in the AM Herculis binary BL Hyi.|32
+1989ApJ...345..140R|Remillard, R;Tuohy, I;Brissenden, R;Buckley, D;Schwartz, D;Feigelson, E;Tapia, S|Two X-Ray--selected BL Lacertae Objects Observed with the HEAO 1 Scanning Modulation Collimator|57
+1989LNP...334..209S|Schwartz, D;Brissenden, R;Tuohy, T;Feigelson, E;Hertz, P;Remillard, R|Bl-Lacertae Objects Detected in the HEAO-1 all Sky X-Ray Survey|34
+1989LNP...334..231G|Giomm, P;Tagliaferri, G;Beuermann, K;Branduardi-Raymont, G;Brissenden, R;Grasers, U;Mason, K;Murdins, P;Pooley, G;Thomas, H;Tuohy, I|Bl-Lacertae Objects from the EXOSAT High Galactic Latitude Survey - Constraints on the Logn-Logs and on the Cosmological Evolution|16
+1989MNRAS.236..375G|Giommi, P;Beuermann, K;Barr, P;Schwope, A;Tagliaferri, G;Thomas, H|Discovery of a BL Lacertae object (EXO 055625-3838.6) in the error box of H 0557-385.|14
+1989MNRAS.238..917W|Warwick, R;Barstow, M;Yaqoob, T|The X-ray spectrum of QSO 1821+643.|24
+1989MNRAS.240...33G|Griffiths, R;Wilson, A;Ward, M;Tapia, S;Ulvestad, J|4U 1722+11 : the discovery of an X-ray selected BL Lac object.|18
+1989PhDT.........6D|Davies, S|The Supernova Remnant G109.1-1.0 and the X-Ray Pulsar 1E2259+586.|1
+1988A&A...194...99R|Rephaeli, Y;Schlickeiser, R|The energy density of the cosmic infrared background.|0
+1988AdSpR...8b.503G|Gruber, D;Soong, Y;Rothschild, R|A rapid change to double pulsing in Her X-1|1
+1988ApJ...327...25M|Meszaros, A;Meszaros, P|Large-Scale Structure of the Universe: Constraints from the X-Ray Background|19
+1988ApJ...333..133R|Rephaeli, Y;Gruber, D|HEAO 1 Hard X-Ray Observations of Clusters of Galaxies and Intracluster Magnetic Fields|47
+1988PhDT.........4S|Soong, Y|A Study of Temporal-Spectral Behavior of Hercules X-1: a Binary X-Ray Pulsar.|5
+1987A&A...182L...1D|Damle, S;Kunte, P;Naranan, S;Sreekantan, B;Venkatesan, D|Hard X-ray observations of the quasar 3C 273.|12
+1987ApJ...315..273B|Buckley, D;Tuohy, I;Remillard, R;Bradt, H;Schwartz, D|Discovery of Three New RS Canum Venaticorum--like Counterparts to HEAO 1 X-Ray Sources|12
+1987ApJ...320..139R|Rephaeli, Y;Gruber, D;Rothschild, R|HEAO 1 Hard X-Ray Observations of Three Abell Clusters of Galaxies|51
+1987MNRAS.227..525A|Agrawal, P;Singh, K;Riegler, G|X-ray intensity and spectral variations in the BL Lac sources H 2155-304 and PKS 0548-322.|8
+1987PASAu...7..151B|Buckley, D;Tuohy, I|A spectroscopic and photometric study of 1H 0542-407 : a new magneticvariable.|2
+1987PhDT.........3H|Hueter, G|HEAO-1 Observations of Gamma-Ray Bursts|17
+1986A&A...161....1D|Danese, L;de Zotti, G;Fasano, G;Franceschini, A|Cosmological evolution of AGNs in the X-ray band.|30
+1986AJ.....92..585S|Schmelz, J;Feigelson, E;Schwartz, D|A VLA survey of unidentified HEAO-1 X-ray sources.|7
+1986ApJ...301..742R|Remillard, R;Bradt, H;Buckley, D;Roberts, W;Schwartz, D;Tuohy, I;Wood, K|The Discovery of Eight Bright Active Galactic Nuclei Observed with the HEAO 1 Scanning Modulation Collimator|83
+1986ApJ...311..258A|Ambruster, C;Wood, K|The HEAO A-1 all-sky survey of fast X-ray transients.|17
+1986ApJS...61..353S|Shrader, C;Wood, K;Matilsky, T|An Intermediate-Sensitivity Survey at High Galactic Latitude with HEAO A-1|3
+1986PhDT.........3J|Jung, G|The Hard X-Ray to Low-Energy Gamma-Ray Spectrum of the Crab Nebula|6
+1986PhDT........25S|Silber, A|Studies of an X ray selected sample of cataclysmic variables|3
+1985A&A...151..427M|Mebold, U;Cernicharo, J;Velden, L;Reif, K;Crezelius, C;Goerigk, W|The Draco nebula : a molecular cloud in the galactic halo ?|75
+1985A&A...153..106F|Fleischman, J|Detection of a new X-ray burst source.|18
+1985A&A...153..249H|Hirth, W;Mebold, U;Mueller, P|H I-high velocity features in Draco and their X-ray counterparts.|37
+1985AdSpR...5c.137S|Schwartz, D;Bradt, H;Buckley, D;Patterson, J;Remillard, R;Roberts, W;Tuohy, I|Recent optical identifications of HEAO-1 X-ray sources|0
+1985ApJ...292...49K|Kallman, T;Mushotzky, R|Consequences of hot gas in the broad-line region of active galactic nuclei|35
+1985ApJ...292..441H|Henriksen, M;Mushotzky, R|The physical implications of an isothermal model for the hot intracluster medium.|45
+1985MNRAS.217..685L|Lawrence, A;Watson, M;Pounds, K;Elvis, M|Continuous rapid X-ray variability and spectral changes in NGC 4051.|86
+1985PASAu...6..147B|Buckley, D;Tuohy, I;Remillard, R|Optical counterparts of HEAO-1 X-ray sources.|6
+1985PASAu...6..186G|Greenhill, J;Fenton, K;Sood, R;Tuohy, I|An australian broad-band satellite for X-ray astronomy.|1
+1985PhDT.........5S|Shrader, C|Extra-Galactic X-Ray Sources and the Diffuse X - Background.|0
+1985SSRv...40..675M|Mason, K;Rosen, S|EXOSAT observations of NGC 1399 and NGC 1404: Two elliptical galaxies in the center of the Fornax cluster|13
+1984A&A...139....7M|Morfill, G;Truemper, J;Tenorio-Tagle, G;Bodenheimer, P|Nonstationary accretion onto neutron stars - Some constraints and consequences|18
+1984AdSpR...3j..63H|Hasinger, G;Pietsch, W;Reppin, C;Truemper, J;Voges, W;Kendziorra, E;Staubert, R|Hard X-ray observations of the Crab Pulsar|8
+1984ApJ...277..274S|Swank, J;Taam, R;White, N|MXB 1916-053/4U 1915-05 : burst properties and constraints on a 50 minute binary secondary.|29
+1984ApJ...278..278J|Jensen, K|Boundary layers in cataclysmic variables : the HEAO 1 X-ray constraints.|15
+1984ApJ...278..288M|Meekins, J;Wood, K;Hedler, R;Byram, E;Yentis, D;Chubb, T;Friedman, H|Millisecond variability of Cygnus X-1.|50
+1984ApJ...278..739C|Cordova, F;Chester, T;Mason, K;Kahn, S;Garmire, G|Observations of quasi-coherent soft X-ray oscillations in U Geminorumand SS Cygni.|77
+1984ApJ...279..555B|Baity, W;Mushotzky, R;Worrall, D;Rothschild, R;Tennant, A;Primini, F|Observations of NGC 4151 at 2 keV to 2 MeV from HEAO 1.|58
+1984ApJ...280..688S|Steiner, J;Ferrara, A;Garcia, M;Patterson, J;Schwartz, D;Warwick, R;Watson, M;McClintock, J|Identification of two hard X-ray emitting Be stars using the HEAO 1 scanning modulation collimator.|24
+1984ApJ...283..546G|Gruber, D;Rothschild, R|SMC X-1 variability observed from HEAO 1.|45
+1984ApJ...285..258C|Cooke, B;Levine, A;Lang, F;Primini, F;Lewin, W|HEAO 1 high-energy X-ray observations of three bright transient X-ray sources H 1705-250 (nova Ophiuchi), H 1743-322 and H 1833-077 (Scutum X-1).|25
+1984ApJS...54..581L|Levine, A;Lang, F;Lewin, W;Primini, F;Dobson, C;Doty, J;Hoffman, J;Howe, S;Scheepmaker, A;Wheaton, W;Matteson, J;Baity, W;Gruber, D;Knight, F;Nolan, P;Pelling, R;Rothschild, R;Peterson, L|The HEAO1 A-4 catalog of high-energy X-ray sources.|159
+1984ApJS...56..507W|Wood, K;Meekins, J;Yentis, D;Smathers, H;McNutt, D;Bleach, R;Byram, E;Chupp, T;Friedman, H;Meidav, M|The HEAO A-1 X-ray source catalog.|381
+1984ChA&A...8..340X|Xu, C|The anisotropy of the diffuse cosmic X-ray background|0
+1984ChJSS...4Q.253X|Xu, C|The anisotropy of the diffuse cosmic X-ray background|0
+1984ChJSS...4R.253X|Xu, C|The anisotropy of the diffuse cosmic X-ray background|0
+1984MNRAS.208..679S|Singh, K;Agrawal, P;Riegler, G|Binary modulation and transient periodic variations in X-ray emissionfrom the AM HER binary H 0139-68.|12
+1984MNRAS.210P...1S|Sherrington, M;Jameson, R;Bailey, J|Simultaneous infrared and optical observations of H 2215-086.|25
+1984PhDT.........1U|Urry, C|X-Ray and Ultraviolet Observations of BL Lacertae Objects|42
+1984PhDT.........2A|Ambruster, C|A Survey of Fast X-Ray Transients Using the HEAO A-1 Sky Survey Experiment.|2
+1984PhST....7..157M|Mushotzky, R|X-ray emission from clusters of galaxies.|174
+1983A&A...126...70A|Agrawal, P;Riegler, G;Singh, K|Detection of an extended soft X-ray source H 2326-79 in the southern sky.|0
+1983ApJ...266..425J|Johnson, M;Cruddace, R;Ulmer, M;Kowalski, M;Wood, K|A survey by HEAO 1 of clusters of galaxies. III. The complete Abell catalog.|45
+1983ApJ...268..540K|Kowalski, M;Ulmer, M;Cruddace, R|Redshift modifications to HEAO A-1 cluster X-ray luminosities.|26
+1983ApJ...269..423R|Rothschild, R;Mushotzky, F;Baity, W;Gruber, D;Matteson, J;Peterson, L|2-165 keV observations of active galaxies and the diffuse background.|258
+1983ApJ...272..381T|Tsikoudi, V|Erratum - HEAO-1 Observations of Quiescent X-Ray Emission from Flare Stars|1
+1983ApJ...272..678H|Howe, S;Primini, F;Bautz, M;Lang, F;Levine, A;Lewin, W|HEAO 1 high-energy X-ray observations of Centaurus X-3.|15
+1983ApJ...274..327S|Soong, Y;Rothschild, R|Long-term, hard X-ray observations of Scorpius X-1 from HEAO 1.|16
+1983PASP...95..370M|Mason, K;Cordova, F;Middleditch, J;Reichert, G;Bowyer, S;Murdin, P;Clark, D|Identification of the soft X-ray source H1011-47 (= E1013-477): a newmagnetic variable?|10
+1983PhDT.........3J|Jensen, K|X-Ray Observations of Cataclysmic Variables.|0
+1982AJ.....87..972Q|Quintana, H;Melnick, J|The correlation between X-ray luminosity and velicity dispersion in clusters of galaxies.|110
+1982ApJ...253..485P|Piccinotti, G;Mushotzky, R;Boldt, E;Holt, S;Marshall, F;Serlemitsos, P;Shafer, R|A complete X-ray sample of the high-latitude (b)-20 sky from HEAO 1 A-2 : log N-log S and luminosity functions.|614
+1982ApJ...255..111W|Worrall, D;Marshall, F;Boldt, E;Swank, J|HEAO 1 measurements of the galactic ridge.|157
+1982ApJ...256..234G|Gorecki, A;Levine, A;Bautz, M;Lang, F;Primini, F;Lewin, W;Baity, W;Gruber, D;Rothschild, R|HEAO 1 observations of the long-term variability of HER X-1.|31
+1982ApJ...262..263T|Tsikoudi, V|HEAO 1 observations of quiescent X-ray emission from flare stars.|19
+1982JATP...44..499M|McKenzie, D;Rugge, H;Charles, P|Soft X-rays from the sunlit earth's atmosphere.|10
+1982NewSc..93..720H|Henbest, N|The Universe in X-rays.|0
+1982PASP...94..157P|Peters, G|The hard X-ray flux from GAM CAS during 1970-73.|17
+1982PASP...94..757R|Rothschild, R;Mushotzky, R|2 - 165 keV observations of active galaxies from HEAO-1.|0
+1982PhDT........10N|Nolan, P|Hard X-Ray Emission from Galactic Black Hole Candidates.|5
+1981AJ.....86.1585H|Hutter, D;Mufson, S|An optical and X-ray survey of s-type Markarian galaxies.|13
+1981AdSpR...1m.215N|Nolan, P;Cruber, D;Matteson, J;Peterson, L;Rothschild, R;Doty, J;Levine, A;Primini, F|Rapid variability of 10-140 keV X-rays from Cygnus X-1|0
+1981AdSpR...1m.247H|Hudson, H|X-ray and gamma-ray observations of a white-light flare|0
+1981Ap&SS..75...21K|Knight, F;Matteson, J;Peterson, L|The Spectra and Light Curves of Two Gamma-Ray Bursts|5
+1981ApJ...243...53W|Worrall, D;Boldt, E;Holt, S;Mushotzky, R;Serlemitsos, P|Variable X-ray spectra of BL Lac objects : HEAO 1 observations of PKS0548-322 and 2A 1219+305.|76
+1981ApJ...243..681U|Ulmer, M;Kowalski, M;Cruddace, R;Johnson, M;Meekins, J;Smathers, H;Yentis, D;Wood, K;McNutt, D;Chubb, T;Byram, E;Friedman, H|A survey of rich clusters of galaxies with HEAO 1. II.|33
+1981ApJ...243L..13P|Primini, F;Basinska, E;Howe, S;Lang, F;Levine, A;Lewin, W;Rothschild, R;Baity, W;Gruber, D;Knight, F;Matteson, J;Lea, S;Reichert, G|HEAO 1 observations of the Perseus cluster above 10 keV.|51
+1981ApJ...244..429B|Baity, W;Rothschild, R;Lingenfelter, R;Stein, W;Nolan, P;Gruber, D;Knight, F;Matteson, J;Peterson, L;Primini, F;Levine, A;Lewin, W;Mushotzky, R;Tennant, A|Centaurus A (NGC 5128) at 2 keV-2.3 MeV : HEAO 1 observations and implications.|87
+1981ApJ...245..183T|Tuohy, I;Mason, K;Garmire, G;Lamb, F|Pointed soft X-ray observations of AM Her.|47
+1981ApJ...246..369L|Lea, S;Reichert, G;Mushotzky, R;Baity, W;Gruber, D;Rothschild, R;Primini, F|HEAO 1 high energy X-ray observations of the Virgo cluster and A 2142.|39
+1981ApJ...250..216G|Galas, C;Venkatesan, D;Garmire, G|Soft X-ray observation of supernova remnant IC 443|7
+1981ApJ...250..513D|Dil, S;Primini, F;Basinska, E;Bautz, M;Howe, S;Lang, F;Levine, A;Lewin, W;Worrall, D;Nolan, P;Matteson, J|HEAO 1 observations of high-energy X-rays from the Seyfert 1 galaxy MKN 509.|14
+1981AsAer..19...30F|Friedman, H|The astronomical horizon|0
+1981MNRAS.194..219D|Dean, A;Dipper, N|An evaluation of the background effects in actively shielded hard X-ray telescopes at balloon altitudes|6
+1981MNRAS.196....1C|Cordova, F;Jensen, K;Nugent, J|The Heao-1 soft X-ray survey of cataclysmic variable stars.|59
+1981Natur.292..133P|Perotti, F;Delle Ventura, A;Villa, G;Di Cocco, G;Butler, R;Carter, J;Dean, A|Soft γ-ray emission from the region of MCG8 -11 -11|58
+1981PhDT.........1T|Tennant, A;Mushotzky, R;Boldt, E;Swank, J|Rapid X-ray variability in the Seyfert galaxy NGC 6814|1
+1981PhDT.........3K|Knight, F|X-Ray and Gamma-Ray Observations of Pulsed Emission from Radio Pulsars.|8
+1981PhDT........54W|Walter, F|X-Ray and Optical Studies of Late-Type Stellar Coronae and Chromospheres.|12
+1981PhDT........95P|Parmar, A|Studies of X-ray emission from Hercules X-1 OAO1653-40 and X-ray spectroscopy of solar flares|2
+1981Prir........33I|Imshennik, V|The huge bubble of hot gas in the galactic interstellar medium|0
+1981TecN....9...32G|Geril, N|X-ray astronomy and the AXAF space observatory|0
+1980AJ.....85..549S|Schwartz, D;Griffiths, R;Thorstensen, J;Charles, P;Bowyer, S|Optical identification of 4U 1907+09 using the HEAO-1 Scanning modulation collimator position.|35
+1980AJ.....85..668M|Marscher, A;Shaffer, D|VLBI observations at 18 and 2.8 CM - 0133 + 47, 0735 + 178, OH 471, OQ 172, 1633 + 38, and NRAO 667 /2147 + 145/|29
+1980AJ.....85.1062R|Reid, C;Johnston, M;Bradt, H;Doxsey, R;Griffiths, R;Schwartz, D|Unidentified galactic X-ray sources positioned with the HEAO-1 scanning modulation collimator.|34
+1980ApJ...235....4M|Marshall, F;Boldt, E;Holt, S;Miller, R;Mushotzky, R;Rose, L;Rothschild, R;Serlemitsos, P|The diffuse X-ray background spectrum from 3 to 50 keV.|377
+1980ApJ...235..163C|Cordova, F;Chester, T;Tuohy, I;Garmire, G|Soft X-ray pulsations from SS Cyg.|86
+1980ApJ...235..351U|Ulmer, M;Shulman, S;Evans, W;Johnson, W;McNutt, D;Meekins, J;Share, G;Yentis, D;Wood, K;Byram, E;Chubb, T;Friedman, H|An X-ray survey of distant rich clusters of galaxies with HEAO 1.|20
+1980ApJ...235..355D|Dower, R;Bradt, H;Doxsey, R;Johnston, M;Griffiths, R|Seyfert Type 1 galaxies observed with the HEAO 1 scanning modulation collimator|46
+1980ApJ...235..377M|Mushotzky, R;Marshall, F;Boldt, E;Holt, S;Serlemitsos, P|HEAO 1 spectra of X-ray emitting Seyfert 1 galaxies|207
+1980ApJ...235L.163F|Fabbiano, G;Griffiths, R;Doxsey, R;Johnston, M|Study of the structure of the TYCHO SNR with the HEAO 1 scanning modulation collimator experiment|6
+1980ApJ...236..212W|Walter, F;Cash, W;Charles, P;Bowyer, C|X-rays from RS CVn systems : a HEAO 1 survey and the development of a coronal model.|195
+1980ApJ...236.1056J|Johnston, M;Bradt, H;Doxsey, R|Erratum - a 6-MONTH X-Ray Survey of the Large Magellanic Cloud with the HEAO-1 Scanning Modulation Collimator|0
+1980ApJ...236L..91H|Hudson, H;Bai, T;Gruber, D;Matteson, J;Nolan, P;Peterson, L|HEAO 1 observations of gamma-ray lines from a solar flare|65
+1980ApJ...236L.137W|Walter, F;Linsky, J;Bowyer, S;Garmire, G|HEAO 1 observations of active coronae in main-sequence and subgiant stars.|28
+1980ApJ...238L..53S|Schwartz, D;Davis, M;Doxsey, R;Griffiths, R;Huchra, J;Johnston, M;Mushotzky, R;Swank, J;Tonry, J|HEAO 1 identification of the X-ray emitting poor cluster of galaxies,AWM 7.|29
+1980ApJ...240L.127G|Gruber, D;Matteson, J;Nolan, P;Knight, F;Baity, W;Rothschild, R;Peterson, L;Hoffman, J;Scheepmaker, A;Wheaton, W;Primini, F;Levine, A;Lewin, W|Hercules X-1 hard X-ray pulsations observed from HEAO 1.|67
+1980MNRAS.190...87C|Cordova, F;Nugent, J;Klein, S;Garmire, G|The HEAO-aA2 soft X-ray survey of dwarf novae in outburst.|25
+1980MNRAS.190..853A|Agrawal, P;Riegler, G;Garmire, G|Soft X-ray observations of the binary SIG CrB with HEAO-1.|11
+1980MNRAS.191..887N|Nulsen, P;Fabian, A|The large-scale structure of X-ray clusters of galaxies. II|16
+1980MNRAS.191P..33S|Stickland, D;Dworetsky, M|Does phi Herculis have a corona ?|3
+1980MNRAS.193P..25G|Griffiths, R;Lamb, D;Ward, M;Wilson, A;Charles, P;Thorstensen, J;McHardy, I;Lawrence, A|The optical identification of H 2252-035 with a cataclysmic variable.|14
+1980PhDT.......191B|Barr, P|An investigation of compact extragalactic X-ray sources|0
+1980PhDT.......192B|Blissett, R|Spectral studies of cosmic X-ray sources|0
+1979AJ.....84.1560S|Schwartz, D;Bradt, H;Briel, U;Doxsey, R;Fabbiano, G;Griffiths, R;Johnston, M;Margon, B|Location of three stellar X-ray sources at high galactic latitudes with the HEAO 1 scanning modulation collimator.|27
+1979ApJ...228L..67D|Doxsey, R;Grindlay, J;Griffiths, R;Bradt, H;Johnston, M;Leach, R;Schwartz, D;Schwarz, J|Identification of the variable X-ray sources GX 339-4 and MXB 1659-29 by scanning modulation collimator on HEAO 1.|62
+1979ApJ...229L..53S|Schwartz, D;Doxsey, R;Griffiths, R;Johnston, M;Schwarz, J|X-ray emitting BL Lacertae objects located by the scanning modulation collimator experiment on HEAO 1.|88
+1979ApJ...230L..11J|Johnston, M;Bradt, H;Doxsey, R;Griffiths, R;Schwartz, D;Schwarz, J|Location of the recurrent (LMC?) X-ray transient A0538-66 with the HEAO 1 scanning modulation collimator.|34
+1979ApJ...230L..21G|Griffiths, R;Doxsey, R;Johnston, M;Schwartz, D;Schwarz, J;Blades, J|X-ray observations of high-excitation emission-line galaxies with the HEAO 1 scanning modulation collimator.|46
+1979ApJ...230L..67F|Fabbiano, G;Doxsey, R;Johnston, M;Schwartz, D;Schwarz, J|HEAO 1 scanning modulation collimator discovery of an extended X-ray source at Cygnus A.|45
+1979ApJ...231..912P|Pravdo, S;White, N;Boldt, E;Holt, S;Serlemitsos, P;Swank, J;Szymkowiak, A;Tuohy, I;Garmire, G|HEAO 1 observations of the X-ray pulsar 4U 1626-67.|89
+1979ApJ...231L.105S|Schwarz, J;Briel, U;Doxsey, R;Fabbiano, G;Griffiths, R;Johnston, M;Schwartz, D;McKee, J;Mushotzky, R|X-ray locations and sizes of clusters of galaxies observed with the HEAO 1 scanning modulation collimator.|10
+1979ApJ...232L.117A|Ayres, T;Linsky, J;Garmire, G;Cordova, F|A search for coronal soft X-ray emission from cool stars with HEAO 1.|12
+1979ApJ...233..514J|Johnston, M;Bradt, H;Doxsey, R|A six-month X-ray survey of the Large Magellanic Cloud with the HEAO 1 scanning modulation collimator.|49
+1979ApJ...233L..51H|Hoffman, J;Lewin, W;Primini, F;Wheaton, W;Swank, J;Boldt, E;Holt, S;Serlemitsos, P;Share, G;Wood, K;Yentis, D;Evans, W;Matteson, J;Gruber, D;Peterson, L|HEAO 1 observations of a type I burst from MXB 1728-34.|33
+1979ApJ...234..566K|Klein, R;Chevalier, R;Charles, P;Bowyer, S|A search for X-ray bursts from extragalactic supernovae using HEAO 1 satellite.|5
+1979ApJ...234L.107K|Kahn, S;Linsky, J;Mason, K;Haisch, B;Bowyer, C;White, N;Pravdo, S|HEAO 1 observations of X-ray emission from flares in dMe stars.|61
+1979GeoRL...6...25L|Luhmann, J;Rugge, H;Blake, J;Christopher, L|Low latitude atmospheric X-rays observed by HEAO-1|5
+1979MNRAS.188..813G|Griffiths, R;Briel, U;Schwartz, D;Schwarz, J;Doxsey, R;Johnston, M|Observations of Type 1 Seyfert galaxies with the HEAO-1 scanning modulation collimator.|14
+1979MNRAS.188P...5P|Pravdo, S;Bussard, R;White, N|Pulse-phase spectroscopy of Hercules X-1.|10
+1979MNRAS.189..183N|Nulsen, P;Fabian, A;Mushotzky, R;Boldt, E;Holt, S;Marshall, F;Serlemitsos, P|Large-scale structure of X-ray clusters of galaxies.|7
+1979MNRAS.189P..59T|Tuohy, I;Clark, D;Garmire, G|Observation of soft X-ray emission from the SNR HB 9.|9
+1979Natur.278..234P|Primini, F;Cooke, B;Dobson, C;Howe, S;Scheepmaker, A;Wheaton, W;Lewin, W;Baity, W;Gruber, D;Matteson, J|HEAO 1 observations of high-energy X-rays from 3C273|58
+1979Natur.280..568M|Mason, K;Kahn, S;Bowyer, C|Soft X-ray emission from the vicinity of MV Lyr|13
+1979Natur.281..462B|Bhavsar, S;Ulmer, M;Cruddace, R;Wood, K;Meekins, J;Yentis, D;Evans, W;Smathers, H;Byram, E;Chubb, T|HEAO 1 observations of 4U1232+07|1
+1979PhDT.........5D|Decordova, F|X-Ray Observations of Dwarf Novae.|0
+1979PhDT.......205C|Cordova, F|X-ray observations of dwarf novae|0
+1979RSPSA.366..423F|Friedman, H|A Survey of the X-Ray Sky with HEAO A-1|9
+1979SSI.....4..269R|Rothschild, R;Boldt, E;Holt, S;Serlemitsos, P;Garmire, G;Agrawal, P;Riegler, G;Bowyer, S;Lampton, M|The cosmic X-ray experiment aboard HEAO-1.|118
+1979SSRv...24..101M|Mewe, R|Stellar coronae—Evidence for their existence from X- and UV observations|39
+1978A&A....70..431A|Ayres, T;Linsky, J;Margon, B;Bowyer, S|Upper limits on extreme ultraviolet radiation from nearby main sequence and subgiant stars.|5
+1978ApJ...221L..49F|Fabbiano, G;Bradt, H;Doxsey, R;Gursky, H;Schwartz, D;Schwarz, J|Location of the Norma transient with the HEAO-1 scanning modulation collimator.|15
+1978ApJ...221L..53D|Doxsey, R;Bradt, H;Gursky, H;Johnston, M;Schwartz, D;Schwarz, J|Position for the rapid burster MXB 1730-335 determined with the scanning modulation collimator on HEAO-1.|8
+1978ApJ...223..973G|Gursky, H;Bradt, H;Doxsey, R;Schwartz, D;Schwarz, J;Dower, R;Fabbiano, G;Griffiths, R;Johnston, M;Leach, R;Ramsey, A;Spada, G|Measurements of X-ray source positions by the scanning modulation collimator on HEAO 1.|80
+1978ApJ...224L.103S|Schwartz, D;Bradt, H;Doxsey, R;Griffiths, R;Gursky, H;Johnston, M;Schwarz, J|Identification of 4U 1651+39 with the BL Lacertae object Markarian 501 with the modulation collimator on HEAO 1.|29
+1978ApJ...225L..53P|Pravdo, S;Boldt, E;Holt, S;Rothschild, R;Serlemitsos, P|Discovery of iron line emission in the Hercules X-1 low-state spectrum with HEAO 1.|18
+1978ApJ...225L..59J|Johnston, M;Bradt, H;Doxsey, R;Gursky, H;Schwartz, D;Schwarz, J;van Paradijs, J|LMC X-1, X-2, and X-3: precise positions from the HEAO 1 modulation collimator.|16
+1978ApJ...226L..17T|Tuohy, I;Lamb, F;Garmire, G;Mason, K|New evidence on the nature of the soft X-ray source in AM Herculis from HEAO 1.|67
+1978AsAer..16...50F|Friedman, H|High-energy astronomy with HEAO|0
+1978JAVSO...7...57C|Cordova, F|Highlights from the HEAO-1 Survey of Cataclysmic Variable Stars|0
+1978Natur.275..517S|Schwartz, D;Gursky, H;Schwarz, J;Bradt, H;Doxsey, R|Location of pulsating binary X-ray source 4U 1538-52 with the HEAO-1 scanning modulation collimator.|2
+1978Natur.275..721F|Fabbiano, G;Gursky, H;Schwartz, D;Schwartz, J;Bradt, H;Doxsey, R|SS CYG as a hard X-ray source identified with the scanning modulationcollimator on HEAO 1.|11
+1978PhDT........35J|Johnston, M|X-Ray Observations of the Large Magellanic Cloud with the HEAO-1 Modulation Collimator.|1
+1975ARA&A..13..423P|Peterson, L|Instrumental technique in X-ray astronomy.|40

@@ -1,0 +1,38 @@
+{
+  "title": "The Vela 5A satellite",
+  "name": "Vela 5A",
+  "alttext": "Vela 5A in the clean room",
+  "imagesize": 200,
+  "imageurl": "/Images/vela5b/vela5b_2sm.gif",
+    "descript": "<p><b><font size=\"+2\">T</font>he Vela-5A</b> nuclear test detection satellite was part of a program run jointly by the Advanced Research Projects of the U.S. Department of Defense and the U.S. Atomic Energy Commission, managed by the U.S. Air Force. It and its twin, Vela-5B, were placed &sim;180 degrees apart in nearly circular orbits at a geocentric distance of &sim;118,000 km on 23 May 1969. The orbital period was &sim;112 hours. The satellite rotated about its spin axis with a &sim;64-sec period. The X-ray detector was located &sim;90 degrees from the spin axis, and so covered the celestial sphere twice per satellite orbit. Data were telemetered in 1-sec count accumulations. The X-ray detectors on Vela 5A failed on 24 July 1970.</p>",
+    "decade": 1960,
+    "lifetime": "May 1969&ndash;1979",
+     "instruments": [
+	{
+	    "name" : "Scintillation X-ray Detector (XC)",
+	    "energy" : "3&ndash;12 keV",
+	    "fov" : "&sim;6.1&deg; &times 6.1&deg;",
+	    "area" : "&sim;26 cm<sup>2</sup>",
+	    "descript" : "The XC aboard Vela 5A consisted of two 1-mm- thick NaI(Tl) crystals mounted on photomultiplier tubes and covered by a 5-mil-thick beryllium window. Electronic thresholds provided two energy channels, 3&ndash;12 keV and 6&ndash;12 keV. In front of each crystal was a slat collimator to define the field of view. Sensitivity to celestial sources was severely limited by the high intrinsic detector background."
+	},
+	{
+	    "name" : "Gamma Ray Detectors",
+	    "energy" : "150&ndash;750 keV",
+            "descript" : "Both Vela 5A and 5B carried 6 gamma-ray detectors. They had a total volume of &sim;60 cm<sup>3</sup> of CsI and were intended to verify compliance with the Partial Test Ban Treaty of 1963. An unintentional results was the discovery of gamma-ray bursts. The gamma-ray detectors continued to function until at least 1979."
+	}
+    ],
+    "highlights": [
+	"The four Vela satellites (5A & B, 6A & B) recorded 73 gamma-ray bursts in the ten year interval July 1969&ndash;April 1979."
+    ],
+  "archive": "",
+  "navigation": [
+    {
+      "url": "images/vela_images.html",
+      "text": "Gallery"
+    },
+    {
+      "url": "biblio/vela5a_biblio.html",
+      "text": "Publications"
+    }
+  ]
+}

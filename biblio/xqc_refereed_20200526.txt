@@ -1,0 +1,4 @@
+2019ApJ...884..120W|Wulf, Dallas;Eckart, Megan E.;Galeazzi, Massimiliano;Jaeckel, Felix;Kelley, Richard L.;Kilbourne, Caroline A.;Morgan, Kelsey M.;Porter, F. Scott;McCammon, Dan;Szymkowiak, Andrew E.|A High Spectral Resolution Study of the Soft X-Ray Background with the X-Ray Quantum Calorimeter|0
+2018PhDT........80W|Wulf, Dallas W.|A Spectral Study of the Soft X-Ray Background with the X-Ray Quantum Calorimeter|0
+2007PhRvD..76d2007E|Erickcek, Adrienne L.;Steinhardt, Paul J.;McCammon, Dan;McGuire, Patrick C.|Constraints on the interactions between dark matter and baryons from the x-ray quantum calorimetry experiment|58
+2000NIMPA.444..175P|Porter, F. S.;Almy, R.;Apodaca, E.;Figueroa-Feliciano, E.;Galeazzi, M.;Kelley, R.;McCammon, D.;Stahle, C. K.;Szymkowiak, A. E.;Sanders, W. T.|Observations of the soft X-ray background with the XQC microcalorimeter sounding rocket|7

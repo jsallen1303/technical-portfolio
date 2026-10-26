@@ -1,0 +1,33 @@
+1998sfsu.rept.....B|Benton, E;Frank, A;Benton, E|Environmental Radiation Measurements on the MIR Space Station|0
+1997asxo.proc...49B|Borozdin, K;Alexandrovich, N;Arefeiv, V;Gilfanov, M;Revnivtsev, M;Sunyaev, R;Trudolyubov, S|Observations of bright X-ray transients by MIR-KVANT module in 1988-1996|0
+1997jena.confE.247A|Alexandrovich, N;Arefiev, V;Borozdin, K;Sunyaev, R;Skinner, J|Observations of the X-ray burster-pulsar GRO J1744-28 with the TTM telescope onboard the "MIR-KVANT" space observatory|0
+1997jena.confE.275L|Lavrov, S;Borozdin, K;Alexandrovich, N|Observations of the Black Hole candidate GX339-4 with the TTM telescope of the "KVANT" module on board the "MIR" orbital station|0
+1997jena.confE.289R|Revnivtsev, M;Gilfanov, M;Churazov, E;Sunyaev, R;Borozdin, K;Alexandrovich, N;Chulkov, I;Khavenson, N;Vargas, M;Paul, J;Goldwurm, A;Laurent, P;Jourdain, E;Roques, J;Borrel, V;Bouchet, L|GRANAT/SIGMA observations of 4U1705-44 and 4U1608-52 and spectral states of X-ray bursters|1
+1996IAUC.6350....1B|Borozdin, K;Alexandrovich, N;Sunyaev, R|GRS 1739-278 and GRO J1744-28|11
+1996IAUC.6383....1D|Durouchoux, P;Smith, I;Hurley, K;Schultz, A;Waters, L;van Paradijs, J;Wallyn, P;Hjellming, R;Rupen, M;Marti, J;Mirabel, F;Rodriguez, L|GRS 1739-278|19
+1995IAUC.6141....2B|Borozdin, K;Alexandrovich, N;Sunyaev, R|X-Ray Nova 1993 in Ophiuchus|5
+1995IAUC.6143....3A|Alexandrovich, N;Borozdin, K;Sunyaev, R|X-Ray Nova 1994 in Scorpius|5
+1995IAUC.6147....1H|Harmon, B;Zhang, S;Paciesas, W;Fishman, G;Sunyaev, R|X-Ray Nova 1994 in Scorpius|4
+1995IAUC.6216....2G|Grebenev, S;Borozdin, K;Sunyaev, R|GRO J1735-27|1
+1995IAUC.6223....2C|Castro-Tirado, A;Birkle, K|GRO J1735-27|1
+1994IAUC.6080....1S|Sazonov, S;Sunyaev, R;Alexandrovich, N;Borozdin, K|GRS 1915+105|5
+1994IAUC.6083....1B|Borozdin, K;Alexandrovich, N;Arefiev, V;Sunyaev, R;Churazov, E;Gilfanov, M;Ballet, J;Jourdain, E|KS 1730-312|13
+1994IAUC.6087....2A|Alexandrovich, N;Borozdin, K;Efremov, V;Sunyaev, R|X-Ray Nova in Scorpius|8
+1994IAUC.6088....2B|Borozdin, K;Alexandrovich, N;Sunyaev, R|KS 1730-312|4
+1993IAUC.5878....1K|Kaniovsky, A;Borozdin, K;Sunyaev, R;Arefiev, V|X-Ray Novae|11
+1993IAUC.5886....1B|Borozdin, K;Sunyaev, R;Alexandrovich, N|X-Ray Nova in VELA|7
+1991supe.conf..767S|Sunyaev, R;Kaniovsky, A;Efremov, V;Grebenev, S;Kuznetsov, A;Englhauser, J;Doebereiner, S;Pietsch, W;Reppin, C;Truemper, J;Kendziorra, E;Maisack, M;Mony, B;Staubert, R|Hard X-Ray Radiation from Supernova 1987A - the Results of KVANT Module in 1987-1989|0
+1990IAUC.5104....1S|Sunyaev, R|GX 1+4, KS 1731-260, GRS 1741.9-2853, A1524-62|21
+1989IAUC.4769....1M|Makino, F;Cook, W;Grunsfeld, J;Heindl, W;Palmer, D;Prince, T;Schindler, S;Stone, E;Sunyaev, R|A0535+26|16
+1989IAUC.4800....2S|Sunyaev, R;Kvant Team|V404 Cygni|4
+1989IAUC.4839....1S|Sunyaev, R;Kwant Team|Transient X-Ray Burster KS 1731-260|35
+1989IAUC.4850....2S|Skinner, G|KS 1947+300|6
+1989IAUC.4879....2S|Skinner, G|GX 1+4|2
+1989imse.book..192M|Melioranskii, A;Siuniaev, R;Sinaiko, E;Golubev, S;Efendiev, K|Detectors of the X-ray spectrometer Pulsar X-1 which is part of the Rentgen complex of the Kvant module|0
+1989imse.book..200I|Iunin, S;Stepanov, D;Chulkov, I|Physical calibration of the Pulsar X-1/Spektr-3/IRA X-ray spectrometer of the international orbital observatory Rentgen on the KVANT module|1
+1989xras.rept....1E|Englhauser, J;Doebereiner, S;Pietsch, W;Reppin, C;Truemper, J;Kendziorra, E;Maisack, M;Mony, B;Staubert, R;Efremov, V|Mir-Kvant-Hexe hard X ray light curve of SN 1987A|12
+1988IAUC.4606....1S|Sunyaev, R;Kvant Team|ASM 2000+25|6
+1988IAUC.4691....2S|Sunyaev, R;KVANT Team|Supernova 1987A in the Large Magellanic Cloud|1
+1988slmc.proc..355T|Trumper, J;Reppin, C;Pietsch, W;Englhauser, J;Voges, W;Kendziorra, E;Bezler, M;Staubert, R;Sunyaev, R;Syunyaev, R;Kaniovskiy, A;Kaniovskij, A;Efremov, V;Grevenev, M;Kuznetsov, A;Melioranskiy, A;Melioranskij, A;Stepanov, D;Chulkov, I|The hard X-ray spectrum of SN 1987A.|0
+1988slmc.proc..361S|Skinner, G;Al-Emam, O;Brinkman, A;Churazov, E;Gilfanov, M;Gil'Fanov, M;Heise, J;Jager, R;Mels, W;Pappe, N;Patterson, T;Sunyaev, R;Syunyaev, R;Willmore, A;Yamburenko, N|Coded mask X-ray observations of SN 1987A from Mir.|0
+1987S&T....74..599B|Beatty, J|The High-Flying KVANT Module|3

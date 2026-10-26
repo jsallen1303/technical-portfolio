@@ -1,0 +1,10 @@
+1985RpSpR...9...31B|Bogovalov, S;Iyudin, A;Kotov, Y;Shugal, Y;Dolidze, V;Zenchenko, V;Vedrenne, G;Niel, M;Barat, C;Shambon, C|Analysis of short-period changes in intensity of hard X-radiation of solar flares registered aboard Venera-13 and Venera-14 spacecraft|0
+1985pggp.rept...97W|Wilson, L;Garvin, J;Head, J|Characteristics of basaltic lava flows on Venus|1
+1984pggp.rept...76G|Garvin, J;Head, J;Zuber, M;Helfenstein, P|Venus: the nature of the surface from Venera panoramas.|0
+1983RpSpR..19...40S|Selivanov, A;Narayeva, M|Television on Venus|0
+1983vens.book...45M|Moroz, V|Summary of preliminary results of the Venera 13 and Venera 14 missions.|2
+1982RpSpR..18...65M|Mukhin, L;Gelman, V|Sigma-2 chromatograph data on Venus's atmosphere|0
+1982S&T....63..452B|Beatty, J|Report from a Torrid Planet|1
+1982S&W....21..282K|Koehler, H|Results of the Venus sondes Venera 13 and 14|0
+1982SciN..121..197E|Eberhart, J|The Eyes of VENERA-13 and VENERA-14 - New Views of Venus|0
+1982SciN..121..245.||The Other Side of Venera 14: Capturing Venusian Evolution?|0

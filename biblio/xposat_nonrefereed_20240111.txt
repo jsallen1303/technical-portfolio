@@ -1,0 +1,2 @@
+2022cosp...44.1853P|Paul, B|The X-ray Polarimetry Satellite XPoSat|0
+2022cosp...44.1854M|Manikantan, H;Mate, S;Rana, V;Puthiya Veetil, R;Paul, B;Gopala Krishna, M;Krishnamurthy, S;Irshad, M;Verma, P;Sahu, H;Rikame, K;Mamatha T., S;Sandhya, P;Rajagopala, G;Vissom, S;Dedhia, D;Meena, G;Iyer, N;Bahal, V|Tests, calibration and simulations of the X-ray polarimeter POLIX|0

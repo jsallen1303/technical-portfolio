@@ -1,0 +1,48 @@
+2020arXiv200810746L|Lan, M;Wu, X;Dai, Z|Polarization of GRB Prompt Emission and its Application to POLAR's Data|0
+2019ICRC...36..572K|Kole, M|POLAR-2: The First Large Scale Gamma-ray Polarimeter|0
+2019ICRC...36..577L|Li, H|High Energy Persistent Pulsars Monitoring with POLAR|0
+2019ICRC...36..605S|Sun, J|Overview of the POLAR mission|0
+2019ICRC...36..611W|Wu, B|Localization of Gamma-Ray Bursts Using the polarimeter POLAR|0
+2018arXiv180404864K|Kole, M|Polarimetry with POLAR|2
+2017AIPC.1792g0024Z|Zwolinska, A|Development of the POLAR experiment for the gamma-ray bursts polarimetry|0
+2017EGUGA..1918147H|Hajdas, W;Zhang, P;Xiao, H;Marcinkowski, R|Observation of solar events using hard X-ray polarimeter POLAR|0
+2017ICRC...35..640X|Xiong, S;Wang, Y;Li, Z;Sun, J;Zhao, Y;Li, H;Huang, Y;Polar Collaboration|Overview of the GRB observation by POLAR|0
+2017ICRC...35..668X|Xiao, H;Hajdas, W;Marcinkowski, R;Polar Collaboration|Optimization of the final settings for the Space-borne Hard X-ray Compton Polarimeter POLAR|1
+2017ICRC...35..820L|Li, H;Ge, M;Wu, B;Polar Collaboration|POLAR measurements of the Crab pulsar|0
+2017ICRC...35..841W|Wang, Y;Polar Collaboration|Cross-Calibration of POLAR: A Method to Correct the Detection Efficiencies in 1600 Pixels|0
+2017ICRC...35..852K|Kole, M;Polar Collaboration|First Results of POLAR: A dedicated Gamma-Ray Burst Polarimeter|0
+2017ICRC...35..858X|Xiao, H;Hajdas, W;Marcinkowski, R|Space-borne Hard X-ray Compton Polarimeter POLAR Data Center at PSI|0
+2017arXiv170304210Z|Zhang, X;Hajdas, W;Xiao, H;Wen, X;Wu, B;Bao, T;Batsch, T;Bernasconi, T;Cadoux, F;Cernuda, I;Chai, J;Dong, Y;Gauvin, N;He, J;Kole, M;Kong, M;Lechanoine-Leluc, C;Li, L;Li, Z;Liu, J;Liu, X;Marcinkowski, R;Orsi, S;Pohl, M;Rapin, D;Rybka, D;Shi, H;Song, L;Sun, J;Szabelski, J;Wang, R;Wang, Y;Wu, X;Xiong, S;Xu, M;Zhang, L;Zhang, L;Zhang, P;Zhang, S;Zhang, Y;Zwolinska, A|Gain factor and parameter settings optimization of the new gamma-ray burst polarimeter POLAR|0
+2017arXiv170406173X|Xiao, H;Hajdas, W;Socha, P;Marcinkowski, R;Wu, B;Bao, T;Chai, J;Dong, Y;Kong, M;Li, L;Li, Z;Liu, J;Shi, H;Song, L;Sun, J;Wang, R;Wang, Y;Wen, X;Xiong, S;Zhang, J;Zhang, L;Zhang, S;Zhang, X;Zhang, Y;Cadoux, F;Pohl, M;Wu, X;Batsch, T;Rybka, D;Rutczynska, A;Szabelski, J;Zwolinska, A;Gauvin, N;Produit, N;Bernasconi, T|Calibration of the Space-borne Compton Polarimeter POLAR flight model with 100% polarized X-ray beams|0
+2017mbhe.confE..68K|Kole, M;Polar Collaboration|Polarimetry with POLAR|0
+2017symm.conf..283Z|Zhang, S|POLAR - The gamma-ray burst polarimetry experiment onboard China's TG-2 spacelab|0
+2016LPICo1962.4115Y|Yuan, W;Sun, J;Zhang, C;Zhang, S;Zhang, B|The Polar and the Einstein Probe Missions|0
+2016SPIE.9905E..2PS|Sun, J;Wu, B;Bao, T;Batsch, T;Bernasconi, T;Britvitch, I;Cadoux, F;Cernuda, I;Chai, J;Dong, Y;Gauvin, N;Hajdas, W;He, J;Kole, M;Kong, M;Kong, S;Lechanoine-Leluc, C;Li, L;Liu, J;Liu, X;Marcinkowski, R;Orsi, S;Pohl, M;Produit, N;Rapin, D;Rutczynska, A;Rybka, D;Shi, H;Song, L;Szabelski, J;Wang, R;Wen, X;Xiao, H;Xiong, S;Xu, H;Xu, M;Zhang, L;Zhang, L;Zhang, S;Zhang, X;Zhang, Y;Zwolinska, A|Performance study of the gamma-ray bursts polarimeter POLAR|2
+2016cosp...41E1152L|Li, M|The activities and prospect of planetary protection research in China|0
+2016cosp...41E2077X|Xiao, H|Realistic simulation of the Space-borne Compton Polarimeter POLAR|0
+2016cosp...41E2168Z|Zhang, S|Scientific capabilities of POLAR and its coordinated observation program|0
+2015IAUGA..2249579S|Sun, J;BAO, T;BATSCH, T;BRITVITCH, I;CADOUX, F;DONG, Y;GAUVIN, N;HAJDAS, W;KOLE, M;LECHANOINE-LELUC, C;LI, L;MARCINKOWSKI, R;ORSI, S;POHL, M;PRODUIT, N;RAPIN, D;RUTCZYNSKA, A;RYBKA, D;SZABELSKI, J;WANG, R;WU, B;XIAO, H;ZHANG, S;ZHANG, Y;ZWOLINSKA, A|The Gamma-Ray Burst Polarimeter - POLAR onboard the China’s Spacelab “Tiangong-2”|0
+2015ICRC...34..820P|Pretz, J;HAWC Collaboration|Prospects for Measuring the Isotropic Diffuse Gamma-Ray Emission in HAWC above 1 TeV|0
+2015ICRC...34..999K|Kole, M;Polar Collaboration|POLAR: Gamma-Ray Burst Polarimetry onboard the Chinese Spacelab|0
+2015arXiv151202784X|Xiao, H;Hajdas, W;Bao, T;Batsch, T;Bernasconi, T;Cernuda, I;Chai, J;Dong, Y;Gauvin, N;Kole, M;Kong, M;Kong, S;Li, L;Liu, J;Liu, X;Marcinkowski, R;Orsi, S;Pohl, M;Produit, N;Rapin, D;Rutczynska, A;Rybka, D;Shi, H;Song, L;Sun, J;Szabelski, J;Wu, B;Wang, R;Wen, X;Xu, H;Zhang, L;Zhang, L;Zhang, S;Zhang, X;Zhang, Y;Zwolinska, A|Calibration of Gamma-ray Burst Polarimeter POLAR|1
+2014HEAD...1411610S|Su, M|Ongoing and Planned Space Missions for High Energy Astrophysics in China: How to Reduce the Cost?|0
+2014xru..confE.232B|Bonnet-Bidaud, J;Mouchet, M;Busschaert, C;Falize, E;Michaut, C|Constraints on QPOs in accreting magnetic white dwarfs from XMM observations and simulations|0
+2013ICRC...33..623V|von Ballmoos, P;Santangelo, A;Adams, J;Barrillon, P;Bayer, J;Bertaina, M;Blin-Bondil, S;Cafagna, F;Casolino, M;Dagoret-Campagne, S;Danto, P;Ebersoldt, A;Ebisuzaki, T;Evrard, J;Gorodetzky, P;Haungs, A;Jung, A;Kawasaki, Y;Lim, H;Medina-Tanco, G;Omori, T;Osteria, G;Parizot, E;Park, I;Picozza, P;Prevot, G;Prieto, H;Ricci, M;Rodriguez Frias, M;Szabelski, J;Takizawa, Y;Tsuno, K;Jem-Euso Collaboration|EUSO-BALLOON : A Pathfinder for Observing UHECR's from Space|0
+2013ICRC...33.2360R|Rybka, D;Hajdas, W;Britvitch, I;Marcinkowski, R;Produit, N;Gauvin, N;Rapin, D;Pohl, M;Orsi, S;Lechanoine-Leluc, C;Paniccia, M;Batsch, T;Rutczynska, A;Szabelski, J;Zwolinska, A;Krakowski, T;Bao, T;Chai, J;Dong, Y;Kong, M;Li, L;Liu, J;Liu, X;Shi, H;Sun, J;Wang, R;Wen, X;Wu, B;Xiao, H;Xu, H;Zhang, L;Zhang, L;Zhang, S;Zhang, Y;Polar Collaboration|Realisation of Events Trigger System for Space-borne Gamma-Ray Burst Polarimeter, POLAR|0
+2012SPIE.8443E..4QB|Bao, T;Batsch, T;Britvitch, I;Cadoux, F;Chai, J;Dong, Y;Gauvin, N;Hajdas, W;Kong, M;Lechanoine-Leluc, C;Li, L;Liu, J;Liu, X;Marcinkowski, R;Orsi, S;Pohl, M;Produit, N;Rapin, D;Rutczynska, A;Rybka, D;Shi, H;Sun, J;Szabelski, J;Wang, R;Wen, X;Wu, B;Xiao, H;Xu, H;Zhang, L;Zhang, L;Zhang, S;Zhang, Y;Zwolinska, A|POLAR: the first dedicated gamma-ray burst polarization experiment|2
+2012cosp...39.1540P|Produit, N|POLAR on board of the Tiangong 2 Chinese space station: measuring the polarization of hard X-rays photons, in particular the polarization of prompt photons from gamma ray bursts.|0
+2012hcxa.confE.151M|Marchinkowski, R;Bao, T;Batsch, T;Britvitch, I;Chai, J;Dong, Y;Gauvin, N;Hajdas, W;Kong, M;Lechanoine-Leluc, C;Li, L;Liu, J;Liu, X;Orsi, S;Pohl, M;Produit, N;Rapin, D;Rutczynska, A;Rybka, D;Shi, H;Sun, J;Szabelski, J;Wang, R;Wen, X;Wu, B;Xiao, H;Xu, H;Zhang, L;Zhang, L;Zhang, S;Zhang, Y;Zwolinska, A|POLAR - GRB Space Polarimeter|0
+2011ICRC....6..403O|ORSI, S|POLAR: a Gamma-Ray Burst Polarimeter onboard the Chinese Spacelab|0
+2011ICRC....6..419S|SUN, J|Qualification Tests of the Space-Based POLAR X-Ray Polarimeter|0
+2010xpnw.book..322P|Produit, N|POLAR: an instrument dedicated to GRB polarization measurement|1
+2009AAS...21310901Z|Zhao, G|Large Astronomical Facilities in China - Current Status and Future Projects|0
+2009ecrs.conf..605H|Haas, D|POLAR: Design of a novel X-ray polarimeter based on plastic seintillators and multi-anode photomultipliers|0
+2008HEAD...10.2816M|Mizuno, T;Katsuta, J;Yoshida, H;Takahashi, H;Iwahara, T;Kano, Y;Sasaki, N;Ogasaka, Y;Kamae, T;Takahashi, T;Hayashida, K;Uesugi, K|Polarization Characteristics of Multi-layer Mirror for Hard X-ray Observations of Astrophysical Objects|0
+2008ICRC....3.1301L|Lamanna, G;Gierlik, M;Haas, D;Hajdas, W;Leluc, C;Marcinkowski, R;Mchedlishvili, A;Pohl, M;Produit, N;Rapin, D;Suarez, E;Vialle, J|POLAR, an instrument to measure GRB polarization. Design and laboratory tests|1
+2008cosp...37.1159H|Hajdas, W|POLAR - novel hard X-ray polarimeter for Gamma Ray Bursts|0
+2008crab.confE..22L|Lamanna, G;Fouque, N;Hermel, R;Vialle, J;Hofer, H;Lechanoine-Leluc, C;Orsi, S;Pohl, M;Rapin, D;Suarez-Garcia, E;Gierlik, S;Marcinkowski, R;Courvoisier, T;Haas, D;Produit, N;Hajdas, W;Mitchedlishvili, A|The POLAR Experiment|0
+2007NuPhS.166..273V|Vialle, J;Barao, F;Casella, C;Deiters, K;Deluit, S;Leluc, C;McHedlishvili, A;Pohl, M;Produit, N;Rapin, D;Suarez-Garcia, E;Tao, C;Walter, R;Wigger, C;Zehnder, A|POLAR: A compact detector for GRB polarization measurements|0
+2006SPIE.6266E..2WH|Hajdas, W;Produit, N;Suarez-Garcia, E;Barao, F;Casella, C;Deiters, K;Deluit, S;Leluc, C;Mschedlishvilli, A;Pohl, M;Rapin, D;Tao, C;Vialle, J;Walter, R;Wigger, C;Zehnder, A|Wide-field compact detector for hard x-ray polarization measurements|1
+2006cosp...36.3189S|Suarez-Garcia, E;Polar Team|POLAR: a new polarimeter for X and gamma rays|0
+2005ESASP.588..283P|Produit, N;Hajdas, W;Barao, F;et al.,|POLAR - a compact detector for GRB photon polarization measurements|0
+2005ICRC....3..385P|Produit, N;Hajdas, W;Barao, F;Deluit, S;Leluc, C;Mschedlishvili, A;Pohl, M;Rapin, D;Suarez-Garcia, E;Vialle, J;Walter, R;Wigger, C|POLAR a compact detector for measuring GRB polarization|0

@@ -1,0 +1,66 @@
+{
+    "title": "The EXOSAT Satellite",
+    "name": "The EXOSAT Observatory",
+    "gofheader" : "/docs/obsheader.html",
+    "alttext": "Visualization of EXOSAT in space",
+    "imagesize": 145,
+    "imageurl": "/Images/exosat/exosat.jpg",
+    "descript": "<p><b><font size=\"+2\">T</font>he European Space Agency&rsquo;s X-ray Observatory, EXOSAT</b>, was operational from May 1983 to April 1986. During that time, EXOSAT made 1780 observations of a wide variety of objects, including active galactic nuclei, stellar coronae, cataclysmic variables, white dwarfs, X-ray binaries, clusters of galaxies, and supernova remnants.</p>\n\n<p>EXOSAT was launched on 1983 May 26 from the Vandenberg complex in the USA on a Thor-Delta rocket and put in a highly eccentric orbit (e &sim;0.93) with a 90.6 hr period and an inclination of 73 degrees. The mission lifetime was ultimately limited by orbital decay, which was projected to occur within 3 yr. The spacecraft performed within specifications for almost three years. On 1986 April 9 a failure in the attitude control system caused the loss of the spacecraft. The natural decay of the orbit caused EXOSAT to re-enter on 1986 May 6.",
+    "decade" : 1980,
+    "gofsidebar" : "Past",
+    "lifetime": "26 May 1983&ndash;9 Apr 1986",
+    "features": [
+	"90 hour highly-eccentric Earth orbit. The science instruments were operated above 50,000 km, outside the earth&rsquo;s radiation belts. This allowed scientific operations for up to 76 hr per 90 hr orbit, without interruption. EXOSAT was visible from the ground station at Villafranca in Spain for almost the entire time that the science instruments were operated and there was no need for any onboard data storage."
+    ],
+    "instruments": [
+	{
+	    "name" : "Low Energy Imaging Telescope",
+	    "energy" : "0.05&ndash;2 keV",
+	    "area" : "0.4&ndash;10 cm<sup>2</sup> each",
+	    "fov" : "&sim;2&deg;",
+	    "resolution" : "&sim;18&Prime;",
+	    "descript" : "2 Wolter Type I grazing incidence telescopes with Channel Multiplier Array (CMA), Position Sensitive Detector (PSD), and two Transmission Gratings (TGS) which had 500 lines mm<sup>-1</sup>(LE2) or 1000 lines mm<sup>-1</sup>(LE1) which were used in conjunction with the CMA detectors. The peak effective area of the CMA was 10 cm<sup>2</sup>, but this was reduced by roughly a factor of ten when using the TGS."
+	},
+	{
+	    "name" : "Medium Energy Proportional Counter (ME)",
+	    "energy" : "1&ndash;50 keV",
+	    "fov" : "45&prime;",
+	    "area" : "1600 cm<sup>2</sup>",
+	    "descript" : "The Medium Energy (ME) instrument consisted of an array of eight proportional counter. Each proportional counter had two gas chambers separated by a 1.5 mm beryllium window with argon in the top layer and xenon in the lower. Each proportional counter used a multi-wire design with a delta E/E of 21(E/6 keV)<sup>-0.5</sup> % FWHM for the argon chambers and 18(E/22 keV)<sup>-0.5</sup> % FWHM for the xenon chambers. The argon and xenon spectra were pulse height analyzed into 128 channels each, sensitive to 1&ndash;20 keV and 5&ndash;50 keV energy range respectively."
+	},
+	{
+	    "name" : "Gas Scintillation Proportional Counter (GSPC)",
+	    "energy" : "2&ndash;20 keV",
+	    "area" : "100 cm<sup>2</sup>",
+	    "descript" : "GSPC provided improved spectral resolution in the 2 &ndash; 30 keV band, but with much less effective area than the ME."
+	}
+    ],
+    "instrument_postscript" : "The optical axis of the four instruments (LE1, LE2, ME, and GSPC) were co-aligned",
+    "highlights": [
+	"Discovered Quasi-period Oscillations in low mass x-ray binaries and x-ray pulsars",
+	"Comprehensive study of AGN variability",
+	"Observed low mass x-ray binaries and cataclysmic variables over many orbital periods",
+	"Measured iron line in galactic and extra galactic sources",
+	"Obtained low-energy high-resolution spectra"
+    ],
+  "archive": "The HEASARC hosts catalogs, spectra, lightcurves, images and raw data",
+    "navigation": [
+	{
+	    "url" : "https://heasarc.gsfc.nasa.gov/docs/exosat/exosat.html",
+	    "text" : "EXOSAT at HEASARC"
+	},
+	{
+	    "url" : "https://heasarc.gsfc.nasa.gov/docs/exosat/exosat_about.html",
+	    "text" : "More about EXOSAT"
+	},
+	{
+	    "url" : "https://heasarc.gsfc.nasa.gov/docs/exosat/exosat_images.html",
+	    "text" : "Gallery"
+	},
+	{
+	    "url" : "https://heasarc.gsfc.nasa.gov/docs/exosat/bib/exosat_biblio.html",
+	    "text" : "Publications"
+	}
+    ],
+    "goffooter" : "/docs/exosat/exosat_footer.html"
+}

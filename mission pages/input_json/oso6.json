@@ -1,0 +1,42 @@
+{
+    "title": "The Sixth Orbit Solar Observatory (OSO-6)",
+    "name": "OSO-6",
+    "alttext": "photo of OSO mission",
+    "imagesize": 300,
+    "imageurl": "/Images/oso/oso7.gif",
+    "descript": "<p><b><font size=\"+2\">T</font>he Sixth Orbiting Solar Observatory (OSO 6)</b> operated from August 1969 until January 1972. The orbital period was &sim;95 minutes, with the orbital day lasting ~ 60 minutes of each orbit. The spin rate was 30 rpm.</p>",
+    "decade": 1960,
+    "lifetime": "Aug 1969&ndash;Jan 1972",
+    "features": [""],
+    "instruments": [
+	{
+	    "name" : "Hard X-ray Detector",
+	    "energy" : "27&ndash;189 keV",
+	    "energy_resolution" : "four channels",
+	    "area" : "5.1 cm<sup>2</sup>",
+	    "fov" : "17&deg; &times; 23&deg; collimator (FWHM)",
+	    "descript" : "The hard X-ray detector NaI(Tl) scintillator with 4 energy channels (separated 27&ndash;49&ndash;75&ndash;118&ndash;189 keV). The detector spun with the spacecraft on a plane containing the Sun direction within &plusmn;3.5&deg;. Data were read with alternate 70 ms and 30 ms integrations for 5 intervals every 320 ms."
+	},
+	{
+	    "name" : "NRL experiment",
+	    "energy" : "23&ndash;500 keV",
+	    "time_resolution" : "2.56 s",
+	    "area" : "1.3 cm<sup>2</sup>",
+	    "descript" : "The NRL experiment meant primarily to monitor solar flares. This X-ray detector operated from August 1969 until January 1972. The NaI(Tl) scintillator was 2.54 cm thick, and operated during daylight periods only (&sim;70% of each 99.8 minute orbit). It had 6 energy channels covering 23&ndash;82 keV, and an integral channel for &lt;82 keV out to about 500 keV. Spectra were accumulated for 2.56 s."
+	}
+    ],
+    "highlights": [
+	"Intended primarily to study bursts and flares from the Sun, the instrument was also used to search for hard X-ray coincidences with known gamma-ray bursts (primarily those seen by the Vela satellites). Three such coincidences were observed. The NRL instrument, when combined with data from the OGO-5 satellite, confirmed 5 hard X-ray bursts (they detected 12 altogether)."
+    ],
+  "archive": "",
+  "navigation": [
+    {
+      "url": "images/oso_images.html",
+      "text": "Gallery"
+    },
+    {
+      "url": "biblio/oso_biblio.html",
+      "text": "Publications"
+    }
+  ]
+}

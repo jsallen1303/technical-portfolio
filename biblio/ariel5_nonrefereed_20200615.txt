@@ -1,0 +1,190 @@
+2015yCat.9016....0W|Warwick, R;Marshall, N;Fraser, G;Watson, M;Lawrence, A;Page, C;Pounds, K;Ricketts, M;Sims, M;Smith A.,;McHardy, I;Lawrence, A;Pye, J;Pounds, K|VizieR Online Data Catalog: Third Ariel X-Ray Catalogue (3A) (Warwick+ 1981)|1
+2013AAS...22111304E|Elvis, M|The Discovery of X-ray Emission from Active Galactic Nuclei|0
+2013MmSAI..84..501P|Pounds, K;Watson, M|UK contributions to the development of X-ray astronomy as a major international discipline.|0
+2010AAS...21541910H|Hoffman, L;Mason, P|RXTE/ASM Observations Of SS 433 And Cygnus X-2|0
+2007BAAS...39.1055P|Parmar, A|Obituary: Paul Barr, 1955-2005|0
+2006ASPC..350...94M|McHardy, I|Long Timescale X-Ray Variability of 3C273: Similarity to Seyfert Galaxies and Galactic Binary Systems|4
+2005ATel..567....1S|Swank, J;Markwardt, C|New Outburst of A1744-36 = XTE J1748-361|1
+2005yCat.9002....0C|Cooke, B;Ricketts, M;Maccacaro, T;Pye, J;Elvis, M;Watson, M;Griffiths, R;Pounds, K;McHardy, I;Maccagni, D;Seward, F;Page, C;Turner, M|VizieR Online Data Catalog: Second Ariel X-Ray Catalogue (2A) (Cooke+ 1978)|0
+2003ATel..197....1R|Remillard, R;Marshall, F|New Outburst in Recurrent X-ray transient (MX0656-072 = XTEJ0658-073)|4
+2003ATel..204....1R|Remillard, R;Levine, A;Lin, D;Smith, D|New X-ray Transient XTE J1748-361 (may be A1744-36)|11
+2003ATel..205....1M|McClintock, J;Murray, S;Garcia, M;Jonker, P|Precise X-ray position of A1744-36 (=XTE J1748-361?)|6
+2003HEAD....7.1723S|Saz Parkinson, P;Tournear, D;Bloom, E;Focke, W;Reilly, K;Wood, K;Ray, P;Wolff, M;Scargle, J|Long-term X-ray variability of Cir X-1|1
+2002AAS...201.5404S|Saz Parkinson, P;Bloom, E;Tournear, D;Focke, W;Ray, P;Wolff, M;Wood, K;Scargle, J|Long-term X-ray variability of Circinus X-1|0
+2002hrxs.confE..20K|Kahn, S|Astrophysical X-Ray Spectroscopy: Then, Then Again, and Now|0
+2000eaa..bookE4522.||Ariel|0
+1999ASPC..159..155M|McHardy, I|X-Ray Variability of BL Lac Objects|3
+1999HEAD....4.1514W|Wilson, C;Finger, M;Scott, D|Outbursts from 4U 1145--619: A Transient X-ray Pulsar|0
+1998ATel...36....1S|Smith, D;Takeshima, T|XTE J1946+274 Transient 15.8-s Pulsar (= 3A 1942+274 ?)|8
+1998IAUC.7014....1S|Smith, D;Takeshima, T;Wilson, C;Finger, M;Wilson, R;Scott, D|XTE J1946+274 = GRO J1944+26|10
+1998IAUC.7016....2T|Takeshima, T;Chakrabarty, D|XTE J1946+274 and 3A 1942+274|6
+1996IAUC.6452....2S|Smale, A;Kuulkers, E;Wijnands, R|Cygnus X-2|2
+1996IAUC.6508....2C|Corbet, R|GX 13+1|7
+1996IAUC.6524....2P|Peele, A;White, N|Scorpius X-1|4
+1996IzKry..93...90K|Kotov, V;Lyutyj, V;Chanejchuk, V|Periodic P<SUB>0</SUB>-oscillations of the Sun and ten AGN's and possibility for cosmological explanation.|0
+1995AAS...186.1302P|Pascu, D;Rohde, J;Seidelmann, P;Currie, D;Dowling, D;Wells, E;Kowal, C;Zellner, B;Storrs, A|HST Astrometry of the Uranian Inner Satellite System|2
+1992AAS...181.2003S|Smale, A|No detection of the iron line in Cygnus X--3 by BBXRT|0
+1992IAUC.5448....1L|Lund, N;Brandt, S;Castro-Tirado, A|A1118-61|10
+1991IAUC.5278....1P|Predehl, P;Schmitt, J;Trumper, J;O'Brien, T;Lloyd, H;Bode, M;Watson, M;Pounds, K|Nova Herculis 1991|2
+1989ESASP.296..865A|Abraham, R;McHardy, I|Long Timescale X-Ray Variability in Active Galactic Nuclei / AGN|5
+1988BCrAO..79..130K|Kotov, V;Lyutyi, V|160.01-Min oscillations of compact extragalactic objects and plausible cosmological consequences|0
+1988IzKry..79..139K|Kotov, V;Lyutyj, V|The 160.01 minutes oscillations of compact extragalactic objects and plausible cosmological consequences.|0
+1986STIN...8711679P|Priedhorsky, W;Holt, S|Search for orbital X-ray variation in SCO X-1|0
+1985ESASP.236..239F|Falomo, R;Charles, P;Corbet, R;Maraschi, L;Tagliaferri, G;Treves, A;Tanzi, E|Ultraviolet and Optical Observations of the Intermediate Polar 3A:0729+103|2
+1983LowOB...9..233R|Rakos, K|Present and past space programs.|0
+1983S&T....65..497C|Charles, P|A0538-66: The Most Powerful X-ray Star|0
+1983heac.book..351T|Tsuruta, S|Quasar and related problems - some recent developments.|0
+1982ASSL...99..189P|Pounds, K|Prospects for X-ray observations of cosmological significance|0
+1982BAAS...14R.618P|Priedhorsky, W;Terrell, J|Evidence for a Periodicity of ~300 Days in Cyg X-1|1
+1982S&T....64...25M|Mason, K;Cordova, F|Satellite Observations of Cataclysmic Variables|0
+1982ang..proc.....W|Ward, M|Seyfert and active galaxies.|0
+1982ans..conf..100R|Ricketts, M;Stanger, V;Page, C|HER X-1: Ariel-5 and Ariel-6 observations|10
+1982ans..conf..117P|Polcaro, F|Hard X-ray measurements of A0535+26 during low state|0
+1982gxrs.conf..145P|Parmar, A|Ariel-V Observations of HERCULES-X-1|0
+1982gxrs.conf..411B|Blissett, R|Ariel-V Observations of a 4.8-HOUR Periodicity in the High-State X-Ray Spectra of CYGNUS-X-3|0
+1982gxs..conf..145P|Parmar, A|Ariel V observations of Hercules X-1|0
+1982gxs..conf..411B|Blissett, R|Ariel V observations of a 4.8 hour periodicity in the "high-state" X-ray spectrum of Cyg X-3|0
+1982src..rept.....P|Perola, G;Boksenberg, A;Bromage, G;Clavel, J;Elvis, M;Elvius, A;Gondhalekar, P;Lind, J;Lloyd, C;Penston, M|Detailed observations of NGC 4151 with IUE (International Ultraviolet Explorer). Paper 2: Variability of the continuum from 1978 February to 1980 May, including X-ray and optical observations|0
+1981STIN...8219129P|Piazza, L;Kaufmann, P;Pardo, P|V.L.F. ionosonde and long-distance propagation anomalies produced by galactic CEN X-4 X-ray burst in May 1979|0
+1981STIN...8220089.||Data announcement bulletin: The Ariel V SSI 3A X-ray Catalogue|0
+1980BAAS...12..486W|Watson, M|The Ariel 5 Sky Survey has ended|0
+1980BAAS...12..513S|Schwartz, D;Garcia, M;Conroy, M;Ralph, E;Roberts, W;Griffiths, R;Johnston, M;McHardy, I;Lawrence, A;Pye, J|Precise Location of 3A 2352+28: The High Galactic Latitude Transient A0000+28|7
+1980BAAS...12Q.835M|McHardy, I;Pye, J;Lawrence, A;Warwick, R;Marshall, N|The Ariel V SSI 3A X-ray Catalogue|0
+1980ESASP.157..289B|Barr, P;Willis, A;Wilson, R|IUE observations of X-ray emitting Seyfert galaxies.|3
+1980HiA.....5..623W|Weedman, D|X-ray properties of galactic nuclei.|4
+1980IAUC.3452....1M|Marshall, N;Watson, M;Oda, M|4U 1907+09|3
+1980IAUC.3529....1S|Steiner, J;Watson, M;McHardy, I;Pye, J;Jablonski, F;Busko, I|4U 1849-31 = V1223 Sagittarii|6
+1980NYASA.336..496P|Pounds, K;Fabian, A|Extragalactic X-ray sources|0
+1980STIN...8022147L|Lamb, R;Markert, T;Hartman, R;Thompson, D;Bignami, G|Two X-ray pulsars: 2S 1145-619 and 1E 1145.1-6141|0
+1980STIN...8121005K|Kaufmann, P;Strauss, F;Coe, N;Carpenter, G|MM-wave and X-ray observations of a Cen-A flare|0
+1980stun.book...93P|Pounds, K|The X-ray Universe.|0
+1980vasg.meet...C5P|Pounds, K|Short term variability (and a characteristic time-scale?) in the X-ray emission of active galaxies.|0
+1979BAAS...11..463B|Blissett, R;Culhane, J;Mason, K|Ariel V. Observations of Spectral Variability in Cygnus X-3 during a High Intensity State|0
+1979BAAS...11..787B|Bell Burnell, S;Bibbo, G|Observations of Globular Clusters with the Ariel V 2-20 keV X-ray Spectrometer.|2
+1979IAUC.3318....2M|Marshall, N;Watson, M|Cygnus X-2|7
+1979IAUC.3320....1K|Kaluzienski, L;Holt, S|Circinus X-1|4
+1979IAUC.3328....1K|Kaluzienski, L;Holt, S|X-Ray Flare in Norma|3
+1979IAUC.3339....1S|Sims, M;Fraser, G|A0535+26 = HDE 245770|8
+1979IAUC.3342....2K|Kaluzienski, L;Holt, S|Aquila X-1|2
+1979IAUC.3349....1O|Oda, M;Kaluzienski, L;Holt, S|4U 1608-52|5
+1979IAUC.3360....1K|Kaluzienski, L;Holt, S|X-Ray Transient in Centaurus|6
+1979IAUC.3362....1K|Kaluzienski, L;Holt, S;Canizares, C;McClintock, J;Grindlay, J;Liller, M;Stryker, L|Novalike Object in Centaurus|6
+1979IAUC.3415....1W|West, R;Sterken, C;Grosboel, P|ESO 012-G21|2
+1979IAUC.3420....1K|Kaluzienski, L;Holt, S|X-Ray Flare in Lupus|0
+1979IAUC.3422....2K|Kaluzienski, L;Holt, S|X-Ray Nova in Sagittarius|0
+1979ICRC....1....4P|Page, C|Recent X-Ray Observations with Ariel V and VI|0
+1979STIN...7916789C|Cline, T;Trainor, J;Desai, U;Klebesadel, R;Ricketts, M;Heluken, H|Helios-2 Vela-Ariel-5 gamma-ray burst source position|0
+1979STIN...7920947R|Rose, L;Pravdo, S;Kaluzienski, L;Marshall, F;Holt, S;Boldt, E;Rothschild, R;Serlemitsos, P|Observations of the transient X-ray source 4U0115+63|0
+1979cgxs.work..255P|Petterson, J|Transients, and long-term periodicities in X-ray sources|0
+1979cgxs.work..264H|Holt, S|X-ray all-sky monitors|0
+1979xras.proc..101W|Watson, M;Ricketts, M;Fraser, G;Sims, M|Recent results on galactic X-ray sources from the Ariel V sky survey instrument.|0
+1979xras.proc..105L|Long, K;Chanan, G;Helfand, D;Ku, W;Novick, R|X-ray polarimetry.|0
+1979xras.proc..229W|Wilson, A|Ariel V RMC (rotation modulation collimator) observations of the galactic plane.|0
+1979xras.proc..233E|Eyles, C|Ariel V RMC observations of the galactic centre.|0
+1979xras.proc..351P|Pounds, K|Observational properties of extragalactic X-ray sources.|1
+1979xras.proc..405U|Ulmer, M;Kinzer, R;Cruddace, R;Wood, K;Byram, E;Chubb, T;Friedman, H|X-ray observations of the lunar occultation of Abell 401.|0
+1979xras.proc..423S|Shulman, S|Faint extragalactic objects and the unidentified high latitude X-ray sources.|0
+1979xras.proc..439W|Warwick, R;Pye, J|Ariel V measurements of the X-ray background in the 2 - 18 keV energy range.|0
+1979xras.proc..519C|Coe, M;Greenhill, J;Bell-Burnell, S;Strong, K|Hard X-Ray Shoulders in the Spectra of Three ScoX-1 Like Objects as observed by Ariel V|0
+1978BAAS...10..506H|Holt, S;Kaluzienski, L;Holt, E;Serlemitsos, P|Long-Term Studies with the Ariel-5 ASM.|0
+1978BAAS...10..507M|Mason, K;White, N;Sanford, P|Recent Observations of X-Ray Pulsars with Copernicus and Ariel V.|0
+1978BAAS...10..516R|Ricketts, M;Cooke, B;Pye, J|High Latitude Transient X-Ray Sources Discovered with the Ariel V Sky Survey.|5
+1978BAAS...10..674P|Pye, J;Warwick, R;Fabian, A|The Isotropy of the X-ray Background in the 2-18 keV Energy Range|1
+1978ESASP.135..293P|Pietsch, W;Reppin, C;Truemper, J;Voges, W;Kendziorra, E;Staubert, R|Balloon Observation of the Binary X-Ray Source HER X-1 1.24 SEC Pulsation and Cyclotron Line Emission|5
+1978IAUC.3161....1H|Holt, S;Kaluzienski, L;Clark, G;Cominsky, L|X-Ray Flare|17
+1978IAUC.3161....2P|Pounds, K|X-Ray Observations of Galaxies|0
+1978IAUC.3174....1K|Kaluzienski, L;Robinson-Saba, J;Boldt, E;Holt, S;Swank, J;Serlemitsos, P;Rothschild, R|Brief X-Ray Transient|15
+1978IAUC.3197....3S|Share, G;Wood, K;Byram, E;Meekins, J;Shulman, S;Griffiths, R;Kaluzienski, L;Boldt, E;Holt, S;Mushotzky, R;Serlemitsos, P;Rothschild, R|4U 1630-47|6
+1978IAUC.3227....3S|Sims, M;Watson, M|4U 1630-47|12
+1978IAUC.3235....3C|Charles, P;Holt, S;Sanford, P|Aquila X-1|4
+1978IAUC.3238....3R|Ricketts, M;Gowan, R;Warwick, R|A0327+43|2
+1978IAUC.3259....2K|Kaluzienski, L;Holt, S|A0535+26|7
+1978IAUC.3292....1H|Holt, S;Kaluzienski, L;Mushotzky, R;Boldt, F;Serlemitsos, P|4U 1630-47|2
+1978STIN...7830018H|Holt, S;Kaluzienski, L;Boldt, E;Serlemitsos, P|Long-term studies with the Ariel-5 asm. 1: HER X-1, VELA X-1 and CEN X-3|0
+1978STIN...7910994S|Shklovskiy, I|On the nature of the sources of hard pulse X-ray radiation|0
+1978cosp.meetT....S|Stark, J|The X-ray spectra and variability of active galaxies|0
+1978pans.proc.....G|Giacconi, R;Ruffini, R|Physics and astrophysics of neutron stars and black holes|2
+1978pans.proc..230P|Pounds, K|Observations of compact X-ray sources with the Ariel V sky survey experiment|0
+1977BAAS....9..558P|Pye, J;Elvis, M;Lawrence, A;Warwick, R|Recent Extragalactic Results from the Ariel V SSI.|0
+1977BAAS....9R.592K|Kaluzienski, L;Holt, S;Swank, J;Boldt, E;Serlemitsos, P|X-Ray Observations of the Transient Sources H1743-32 and H1705-25 (Nova Ophiuchi 1977).|3
+1977IAUC.3031....2H|Holt, S;Kaluzienski, L;Watson, M|Aquila X-1|7
+1977IAUC.3039....1R|Ricketts, M;Cooke, B;Davison, P;Becker, R;Pravdo, S;Saba, J;Serlemitsos, P;McClintock, J;Li, F;Nugent, J;Rappaport, S;Lewin, W;Hoffman, J;Doty, J|X-Ray Sources|16
+1977IAUC.3054....3M|Mason, K;Murdin, P;Visvanathan, N;Bradt, H;Apparao, K;Markert, T;Li, F;McClintock, J;Rappaport, S;Coe, M;Engel, A;Quenby, J;Cooke, B|X-Ray Sources|7
+1977IAUC.3067....4W|White, N;Burnell, S;Carpenter, G|X-Ray Bursts|5
+1977IAUC.3078....1L|Lewin, W;Ricker, G;Primini, F;Watson, M;Pye, J;Davison, P|X-Ray Sources|17
+1977IAUC.3095....3W|White, N;Davison, P|LMC X-4|3
+1977IAUC.3099....3K|Kaluzienski, L;Holt, S|Variable X-Ray Sources|59
+1977IAUC.3100....2W|White, N;Davison, P;Carpenter, G|A0538-66|1
+1977IAUC.3104....3K|Kaluzienski, L;Holt, S|X-Ray Flare|13
+1977IAUC.3104....4G|Grindlay, J;Kaluzienski, L;Holt, S|4U 1630-47|7
+1977IAUC.3106....3K|Kaluzienski, L;Holt, S;Glass, I|Circinus X-1|13
+1977IAUC.3108....2K|Kaluzienski, L;Holt, S|Circinus X-1|3
+1977IAUC.3108....3D|Duldig, M;Greenhill, J;Thomas, R;Haynes, R;Simons, L;Murdin, P;Kaluzienski, L;Holt, S|4U 1608-52|2
+1977IAUC.3118....1W|White, N|4U 1145-61|5
+1977IAUC.3144....1K|Kaluzienski, L;Holt, S|X-Ray Flare|11
+1977ICRC....1..145C|Coe, M;Engel, A;Quenby, J|Ariel 5 Measurements of Sources with Power Law Spectra and Fast Time Variations|0
+1977ICRC....1..151C|Coe, M;Engel, A;Quenby, J|Ariel V Measurements of Sources with Power Law Spectra and Fast Time Variations (Abstract)|0
+1977ICRC....1..152D|Dyer, C;Coe, M;Engel, A;Quenby, J|Ariel 5 Observations of Extra Galactic X-Ray Sources and Implications of Hard X-Ray Galactic Source Measurements for the Galactic Disc Gamma Ray Emission|2
+1977ICRC....1..157Q|Quenby, J;Coe, M;Engel, A|Recent Ariel V Measurements on Hard X-Ray Bursts and the Implications for γ-Burst Origin (Abstract)|2
+1977ICRC...10...39S|Sanford, P|X-Ray Astronomy and Collapsed Objects|0
+1977ICRC...11...20Q|Quenby, J;Coe, M;Engel, A|Recent Ariel V Measurements on Hard X-Ray Bursts and the Implications for γ Burst Origin|0
+1977Msngr...9....4C|Chevalier, C;Sergio, A|Probable Optical Identification of LMC X-4|0
+1977Msngr..10Q..24.||Ariel 5 Confirms LMC X-4 Optical Identification!|0
+1977NYASA.302..361P|Pounds, K|The Ariel V High-Latitude Catalogue|17
+1977NYASA.302..386S|Sanford, P|Recent X-Ray Results from Ariel V and Copernicus|13
+1977cosp.meetS....C|Catura, R;Culhane, J;Rapley, C;Gabriel, A;Walker, A;Woodgate, B|A focussing iron line crystal spectrometer for Spacelab|0
+1977stxr.book.....K|Kaluzienski, L|Studies of transient x-ray sources with the Ariel 5 All-Sky Monitor|1
+1976BAAS....8..441D|Davison, P;Fabian, A|Copernicus and Ariel 5 Observations of Her X-1|0
+1976BAAS....8..448D|Davison, P;Culhane, J;Mitchell, R|X-Ray Spectra of Cas A and Tycho's Supernova observed with Ariel-5|0
+1976BAAS....8..541K|Kaluzienski, L;Holt, S;Boldt, E;Serlemitsos, P|Long-Term Variability of Cir X-1 and Aql X-1 as Observed by the Ariel-5 All-Sky Monitor.|1
+1976BAAS....8Q.443T|Turner, M;Villa, G;Cooke, B;Page, C;Pounds, K;Ricketts, M|Ariel V Sky Survey - a new Source map of the Milky Way|0
+1976BAAS....8Q.445C|Cooke, B;Elvis, M;Page, C;Pounds, K;Pye, J;Ricketts, M;Turner, M|Ariel V Sky Survey - results on high latitude sources|0
+1976BAAS....8R.438P|Pounds, K;Peacock, A;Elvis, M;Ricketts, M;Turner, M;Watson, M|Ariel V Sky Survey - extended observations of the x-ray binaries Cen X-3, Vel XR-1, Cyg X-1 and Cyg X-3|0
+1976IAUC.2918....3K|Kaluzienski, L;Holt, S;Boldt, E;Serlemitsos, P|Cygnus X-1|2
+1976IAUC.2929....1H|Heise, J;Grindlay, J;Liller, W|X-Ray Bursts from Galactic Center Region|16
+1976IAUC.2932....1M|Mason, K;Bell Burnell, S;White, N;Clark, G;Grindlay, J;Gursky, H|X-Ray Bursts|8
+1976IAUC.2934....3W|Watson, M|X-Ray Sources|1
+1976IAUC.2935....4K|Kaluzienski, L;Holt, S;Boldt, E;Serlemitsos, P;Bortle, J|V616 Monocerotis (A0620-00)|13
+1976IAUC.2938....1C|Coe, M;Engel, A;Quenby, J|X-Ray Bursts|1
+1976IAUC.2939....3K|Kaluzienski, L;Holt, S;Boldt, E;Serlemitsos, P|Circinus X-1|3
+1976IAUC.2965....1W|Wilson, A;Carpenter, G;Kaluzienski, L;Holt, S;Esfandiari, M;Boldt, E;Serlemitsos, P|X-Ray Sources|9
+1976IAUC.2977....2C|Cooke, B;Ricketts, M|A1919+43|1
+1976IAUC.2980....2S|Smith, A|3U 0833-45|1
+1976IAUC.2985....1P|Pye, J;Elvis, M;Eadie, G|A1707-27|1
+1976IAUC.2995....3W|Watson, M;Pounds, K|Galactic Plane Study by Ariel 5|0
+1976IAUC.3003....2C|Coe, M;Engel, A;Quenby, J|Gamma-Ray Source near 3U 0258+60|3
+1976IAUC.3013....1W|Watson, M;Pye, J;Elvis, M;Lawrence, A|X-Ray Sources|3
+1976NASSP.389..219T|Tuohy, I|Pulsed X-ray observations of Cen X-3 from Ariel-5.|3
+1976NASSP.389..245H|Holt, S;Boldt, E;Serlemitsos, P;Kaluzienski, L;Pravdo, S;Peacock, A;Elvis, M;Watson, M;Pounds, K|Evidence for a 17d periodicity from Cyg X-3.|2
+1976NASSP.389..255M|Mason, K;Sanford, P;Ives, J|Some features of the X-ray source Cyg X-3.|11
+1976NASSP.389..311K|Kaluzienski, L;Holt, S;Boldt, E;Serlemitsos, P|The early light curve of A 0620-00.|1
+1976NASSP.389..373C|Canizares, C;Bradt, H;Buff, J;Laufer, B|SAS-3 observations of an X-ray flare from Cygnus X-1.|2
+1976NASSP.389..391H|Holt, S;Boldt, E;Serlemitsos, P;Kaluzienski, L|New results from long-term observations of Cyg X-1.|0
+1976NASSP.389..703H|Holt, S;Boldt, E;Serlemitsos, P;Kaluzienski, L|Long-term X-ray studies of Sco X-1.|0
+1976STIN...7616989H|Holt, S;Boldt, E;Serlemitsos, P;Kaluzienski, L|Evidence for an 11.2d periodicity from CYG X-2|0
+1976STIN...7628120K|Kaluzienski, L;Holt, S;Boldt, E;Serlemitsos, P|All-sky monitor observations of the decay of A0620-00 (Nova monocerotis 1975)|0
+1976STIN...7631109H|Holt, S;Boldt, E;Kaluzienski, L;Serlemitsos, P;Swank, J|The 35-D X-ray profile of HER X-1|0
+1976STIN...7633102K|Kaluzienski, L;Holt, S;Boldt, E;Serlemitsos, P|All-sky monitor observations of flares from Aquila X-1|0
+1976STIN...7713960K|Kaluzienski, L;Holt, S;Boldt, E;Serlemitsos, P|Recurrent X-ray outbursts from Aquila X-1|0
+1976aiaa.meet.....F|Friedman, H|Recent advances and near future prospects in high energy astronomy|0
+1975BAAS....7..336I|Ives, J;Sanford, P|Observations of X-ray sources with Ariel 5 experiment C.|0
+1975BAAS....7..336R|Rosenberg, F;Newton, A;Willmore, A|The X-ray rotation modulation collimator onboard Ariel 5.|0
+1975IAUC.2808....4W|Watson, M|A1524-61|1
+1975IAUC.2814....1E|Elvis, M;Griffiths, C;Turner, M;Page, C|A0601-00|18
+1975IAUC.2822....1E|Eyles, C;Skinner, G;Willmore, A;Craft, H;Lequeux, J;Bottinelli, L;Encrenaz, P;Gouguenheim, L;Lucas, R;Feldman, P;Kojoian, G;Purton, C;Davis,;Edwards,;Morison,;Spencer,|A0620-00|17
+1975IAUC.2829....1W|Wright, E;Racine, R;Irwin, A;Fehrenbach, C;Andrillat, Y;Strittmatter, P;Bolton, T;Gulliver, A;McCrosky, R;Schwartz, G;Neff, J;Pesch, P;Stephenson, C;Chen, P;Gallagher, J;Ney, E;Kleinmann, S;Turner, M|Nova Cygni 1975|7
+1975IAUC.2852....2C|Carpenter, G;Eyles, C;Skinner, G;Willmore, A;Wilson, A|MX0656-07|6
+1975IAUC.2859....2K|Kaluzienski, L;Holt, S;Boldt, E;Serlemitsos, P|X-Ray Flare in Norma|14
+1975IAUC.2863....2K|Kaluzienski, L;Holt, S;Boldt, E;Serlemitsos, P;Grindlay, J;Schreier, E;den Boggende, A;Brinkman, A|Cygnus X-1|4
+1975IAUC.2870....1W|White, N;Huckle, H;Mason, K;Charles, P;Pollard, G;Culhane, J;Sanford, P|X-Ray Sources|17
+1975IAUC.2873....1P|Pounds, K|B 1101+38|1
+1975IAUC.2876....1W|Willmore, A;Penston, M|Transient High-Latitude X-Ray Source|4
+1975IAUC.2879....2H|Holt, S;Kaluzienski, L;Boldt, E;Serlemitsos, P|Cygnus X-1|2
+1975ICRC....1..174C|Carpenter, G;Coe, M;Engel, A;Quenby, J|Ariel-5 Hard X-Ray Measurements of Galactic and Extra-Galactic Source Spectra|1
+1975ICRC....1..180C|Carpenter, G;Coe, M;Engel, A;Quenby, J;Ives, J;Sanford, P|Some Ariel 5 Measurements on Time Variations of X-Ray Sources in the Range 2 KeV - 1. 2 MeV. (Abstract)|0
+1975ICRC...12.4085C|Carpenter, G;Coe, M;Engel, A;Quenby, J;Bell-Burnell, S;Davison, P;Ives, J;Mason, K;Sanford, P;Murdin, P|Some Ariel-5 Measurements on Time Variations of X-Ray Sources in the Range 2 keV - 1.2 MeV|0
+1975STIN...7612932H|Holt, S|Results from the Ariel-5 all-sky X-ray monitor|0
+1975STIN...7616009H|Holt, S;Boldt, E;Serlemitsos, P;Kaluzienski, L;Pravdo, S;Peacock, A;Elvis, M;Watson, M;Pounds, K|Evidence for a 17-day periodicity from Cyg-X-3|0
+1975lctx.book.....K|Kaluzienski, L;Holt, S;Boldt, E;Serlemitsos, P;Eadie, G;Pounds, K;Ricketts, M;Watson, M|The light curve of a transient X-ray source.|0
+1975txaw.book.....H|Holt, S|Temporal X-ray astronomy with a pinhole camera.|1
+1975xrat.rept...25S|Sanford, P|The Ariel 5 and UK 6 satellites|0

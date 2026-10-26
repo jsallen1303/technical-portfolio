@@ -1,0 +1,18 @@
+1998AJ....116.2023M|Michel, P;Farinella, P;Froeschle, C|Dynamics of Eros|32
+1997Icar..129..440V|Vilas, F;Jensen, E;McFadden, L|Extracting Spectral Information about 253 Mathilde Using the NEAR Photometry|9
+1997JGR...10223695C|Cheng, A;Santo, A;Heeres, K;Landshof, J;Farquhar, R;Gold, R;Lee, S|Near-Earth Asteroid Rendezvous: mission overview|29
+1997SSRv...82....3C|Cheng, A|Near Earth Asteroid Rendezvous: Mission Overview|14
+1997SSRv...82...31H|Hawkins, S;Darlington, E;Murchie, S;Peacock, K;Harris, T;Hersman, C;Elko, M;Prendergast, D;Ballard, B;Gold, R;Veverka, J;Robinson, M|Multi-Spectral Imager on the Near Earth Asteroid Rendezvous Mission|20
+1997SSRv...82..101W|Warren, J;Peacock, K;Darlington, E;Murchie, S;Oden, S;Hayes, J;Bell, J;Krein, S;Mastandrea, A|Near Infrared Spectrometer for the Near Earth Asteroid Rendezvous Mission|14
+1997SSRv...82..169G|Goldsten, J;McNutt, R;Gold, R;Gary, S;Fiore, E;Schneider, S;Hayes, J;Trombka, J;Floyd, S;Boynton, W;Bailey, S;Brueckner, J;Squyres, S;Evans, L;Clark, P;Starr, R|The X-ray/Gamma-ray Spectrometer on the Near Earth Asteroid Rendezvous Mission|48
+1997SSRv...82..217C|Cole, T;Boies, M;El-Dinary, A;Cheng, A;Zuber, M;Smith, D|The Near-Earth Asteroid Rendezvous Laser Altimeter|15
+1996AdSpR..17c..21M|McNutt, R;Reynolds, E;McAdams, J;Bokulic, R;Bhatnagar, V;Williams, B;Willey, C;Myers, R;Gefert, L|Mission to the sun: the Solar Pioneer|2
+1996Icar..119..447B|Binzel, R;Burbine, T;Bus, S|NOTE: Groundbased Reconnaissance of Asteroid 253 Mathilde: Visible Wavelength Spectrum and Meteorite Comparison|16
+1995Metic..30..566R|Robinson, M;Bell, J;Chapman, C;Cheng, A;Gold, R;Malin, M;McFadden, L;Murchie, S;Thomas, P;Veverka, J;Warren, J|Near MSI and NIS: High-Resolution Orbital Imaging and Spectroscopy of the Asteroid 433 Eros|1
+1995Metic..30R.496C|Chapman, C|Galileo Observations of Gaspra, Ida, and Dactyl: Implications for Meteoritics|0
+1995Metic..30R.589T|Trombka, J;Boynton, W;Bruckner, J;Squyres, S;Clark, P;Evans, L;Floyd, S;Starr, R;Fiore, E;Gold, R;Goldsten, J;McNutt, R|Observation of 433 Eros with the X-Ray/Gamma-Ray Remote Sensing Spectrometer on the NEAR Mission|0
+1989SpFl...31..227.||Near-Earth Asteroids Observed|0
+1987JGCD...10..225L|Lau, C;Hulkower, N|Accessibility of Near-Earth Asteroids|19
+1986SpWd....6...29P|Pine, D|The Lunar Geosciences Orbiter mission|0
+1984Icar...57...42H|Helin, E;Hulkower, N;Bender, D|The discovery of 1982 DB, the most accessible asteroid known|14
+1984JBIS...37..355B|Blume, W|The Planetary Observer Program.|0

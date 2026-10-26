@@ -1,0 +1,454 @@
+2020AAS...23521807L|Leahy, D|The AstroSat FUV light curve of Hercules X-1|0
+2020AAS...23544405L|Leahy, D|ASTROSAT UVIT Observations of M31: Properties of the Bulge|0
+2020ATel13538....1C|Chakraborty, S;Banerjee, S|AstroSat detection of two Type-I X-ray bursts from the accreting neutron star XTE J1739-285|0
+2020ATel13976....1B|Bhargava, Y;Bhalerao, V;amp,;Bhattacharya, D|AstroSat observation of AT2019wey|0
+2020GCN.26632....1G|Gaikwad, R;Gupta, S;Sharma, V;Bhattacharya, D;Vadawale, S;AstroSat CZTI Collaboration|GRB 200101A : AstroSat CZTI detection|0
+2020GCN.26635....1H|K. Hurley,;IPN Collaboration;I. G. Mitrofanov,;D. V. Golovin,;A. S. Kozyrev,;M. L. Litvak,;A. B. Sanin,;HEND-Odyssey GRB Team;A. Ridnaia,;S. Golenetskii,;R. Aptekar,;D. Frederiks,;D. Svinkin,;T. Cline,;Konus-Wind Team;A. Goldstein,;M. S. Briggs,;C. Wilson-Hodge,;Fermi GBM Team;W. Boynton,;C. Fellows,;K. Harshman,;H. Enos,;R. Starr,;GRS-Odyssey GRB Team|IPN triangulation of GRB 200101A|0
+2020GCN.26637....1T|Tsvetkova, A;Golenetskii, S;Aptekar, R;Frederiks, D;Ulanov, M;Svinkin, D;Lysenko, A;Ridnaia, A;Cline, T;Konus-Wind Team|Konus-Wind observation of GRB200101A|0
+2020GCN.26652....1S|Shenoy, V;AstroSat CZTI Collaboration|LIGO/Virgo S200105ae: AstroSat CZTI upper limits|0
+2020GCN.26663....1K|Kawakubo, Y;Yoshida, A;Sakamoto, T;Pal'Shin, V;Sugita, S;Yamaoka, K;Nakahira, S;Asaoka, Y;Torii, S;Shimizu, Y;Tamura, T;Cannady, N;Cherry, M;Ricciarini, S;Marrocchesi, P;Calet Collaboration|GRB 200101A: CALET Gamma-Ray Burst Monitor detection|0
+2020GCN.26729....1G|Gaikwad, R;Sharma, V;Vibhute, A;Bhattacharya, D;Vadawale, S;AstroSat CZTI Collaboration|GRB 200112A: AstroSat CZTI detection|0
+2020GCN.26746....1G|Gaikwad, R;Gupta, S;Sharma, V;Bhattacharya, D;Vadawale, S;AstroSat CZTI Collaboration|GRB 200114A: AstroSat CZTI detection|0
+2020GCN.26754....1P|Pereyra, M|GRB 200114A: DDOTI/OAN optical observations report|0
+2020GCN.26783....1G|Gaikwad, R;Gupta, S;Sharma, V;Bhattacharya, D;Vadawale, S;AstroSat CZTI Collaboration|GRB 200111A: AstroSat CZTI detection|0
+2020GCN.26795....1T|Torii, S;Yoshida, A;Sakamoto, T;Pal'Shin, V;Sugita, S;Kawakubo, Y;Yamaoka, K;Nakahira, S;Asaoka, Y;Shimizu, Y;Tamura, T;Cannady, N;Cherry, M;Ricciarini, S;Marrocchesi, P;Calet Collaboration|GRB 200111A: CALET Gamma-Ray Burst Monitor detection|0
+2020GCN.26851....1G|Gaikwad, R;Gupta, S;Sharma, V;Bhattacharya, D;Vadawale, S;AstroSat CZTI Collaboration|GRB 200120A: AstroSat CZTI detection|0
+2020GCN.26856....1H|Hurley, K;Mitrofanov, I;Golovin, D;Kozyrev, A;Litvak, M;Sanin, A;Ridnaia, A;Golenetskii, S;Aptekar, R;Frederiks, D;Cline, T;Goldstein, A;Briggs, M;Wilson-Hodge, C;von Kienlin, A;Zhang, X;Rau, A;Savchenko, V;Bozzo, E;Ferrigno, C;Barthelmy, S;Cummings, J;Krimm, H;Palmer, D;Boynton, C;Fellows, C;Harshman, K;Enos, H;Starr, R;Ipn Collaboration;Hend-Odyssey Grb Team;Konus-Wind Team;Fermi Gbm Team;INTEGRAL SPI-ACS Grb Team;Swift-Bat Team;Grs-Odyssey Grb Team|IPN Triangulation of GRB 200120A|0
+2020GCN.26866....1S|Shenoy, V;AstroSat CZTI Collaboration|LIGO/Virgo S200114f: AstroSat CZTI upper limits|0
+2020GCN.26867....1S|Shenoy, V;AstroSat CZTI Collaboration|LIGO/Virgo S200112r: AstroSat CZTI upper limits|0
+2020GCN.26868....1S|Shenoy, V;AstroSat CZTI Collaboration|LIGO/Virgo S191222n: AstroSat CZTI upper limits|0
+2020GCN.26871....1G|Gaikwad, R;Gupta, S;Sharma, V;Bhattacharya, D;Vadawale, S;AstroSat CZTI Collaboration|GRB 200122A: AstroSat CZTI detection|0
+2020GCN.27025....1H|Hamburg, R;Meegan, C;Fermi GBM Team|GRB 200120A: Fermi GBM observation|0
+2020GCN.27029....1G|Gaikwad, R;Gupta, S;Sharma, V;Bhattacharya, D;Vadawale, S;AstroSat CZTI Collaboration|GRB 200207A: AstroSat CZTI detection|0
+2020GCN.27046....1G|Gaikwad, R;Gupta, S;Sharma, V;Vibhute, A;Bhattacharya, D;Vadawale, S;AstroSat CZTI Collaboration|GRB 2002011A: AstroSat CZTI detection|0
+2020GCN.27111....1S|Shenoy, V;AstroSat CZTI Collaboration|LIGO/Virgo S200213t: AstroSat CZTI upper limits|0
+2020GCN.27281....1S|Shenoy, V;Aarthy, E;Bhalerao, V;Bhattacharya, D;Rao, A;Vadawale, S;AstroSat CZTI Collaboration|LIGO/Virgo S200219ac: AstroSat CZTI upper limits|0
+2020GCN.27282....1S|Shenoy, V;Aarthy, E;Bhalerao, V;Bhattacharya, D;Rao, A;Vadawale, S;AstroSat CZTI Collaboration|LIGO/Virgo S200225q: AstroSat CZTI upper limits|0
+2020GCN.27302....1G|Gupta, S;Sharma, V;Bhattacharya, D;Bhalerao, V;Rao, A;Vadawale, S;AstroSat CZTI Collaboration|GRB 200228A: AstroSat CZTI detection|0
+2020GCN.27305....1G|Gupta, S;Sharma, V;Bhattacharya, D;Bhalerao, V;Rao, A;Vadawale, S;AstroSat CZTI Collaboration|GRB 200219A: AstroSat CZTI detection|0
+2020GCN.27313....1A|Antia, H;Katoch, T;Shah, P;Dedhia, D;Gupta, S;Gaikwad, R;Sharma, V;Vibhute, A;Bhattacharya, D;Laxpc, T;Czti Collaboration|GRB200210A AstroSat observations|0
+2020GCN.27315....1S|Shenoy, V;Aarthy, E;Bhalerao, V;Bhattacharya, D;Rao, A;Vadawale, S;AstroSat CZTI Collaboration|LIGO/Virgo S200302c: AstroSat CZTI upper limits|0
+2020GCN.27340....1G|Gupta, S;Sharma, V;Vibhute, A;Bhattacharya, D;Bhalerao, V;Rao, A;Vadawale, S;AstroSat CZTI Collaboration|GRB 200306A: AstroSat CZTI detection|0
+2020GCN.27371....1G|Gupta, S;Sharma, V;Vibhute, A;Bhattacharya, D;Bhalerao, V;Rao, A;Vadawale, S;AstroSat CZTI Collaboration|GRB 200311A: AstroSat CZTI detection|0
+2020GCN.27381....1S|Svinkin, D;Golenetskii, S;Aptekar, R;Frederiks, D;Ridnaia, A;Cline, T;Hurley, K;Goldstein, A;Briggs, M;Wilson-Hodge, C;von Kienlin, A;Zhang, X;Rau, A;Savchenko, V;Bozzo, E;Ferrigno, C|IPN triangulation of GRB 200311A|0
+2020GCN.27398....1R|Ridnaia, A;Golenetskii, S;Aptekar, R;Frederiks, D;Ulanov, M;Svinkin, D;Tsvetkova, A;Lysenko, A;Cline, T;Konus-Wind Team|Konus-Wind observation of GRB 200311A|0
+2020GCN.27425....1G|Gupta, S;Sharma, V;Vibhute, A;Bhattacharya, D;Bhalerao, V;Rao, A;Vadawale, S;AstroSat CZTI Collaboration|GRB 200317A: AstroSat CZTI detection|0
+2020GCN.27426....1G|Gupta, S;Sharma, V;Bhattacharya, D;Bhalerao, V;Rao, A;Vadawale, S;AstroSat CZTI Collaboration|GRB 200318A : AstroSat CZTI detection|0
+2020GCN.27438....1G|Gupta, S;Sharma, V;Bhattacharya, D;Bhalerao, V;Rao, A;Vadawale, S;AstroSat CZTI Collaboration|GRB 200325A: AstroSat CZTI detection|0
+2020GCN.27444....1D|DeLaunay, J;Tohuvavohu, A;Kennea, J|GRB 200325A: Swift/BAT detection and probable arcminute localization of a short GRB from GUANO|0
+2020GCN.27449....1H|Hurley, K;Mitrofanov, I;Golovin, D;Litvak, M;Sanin, A;Kozlova, A;Golenetskii, S;Aptekar, R;Frederiks, D;Svinkin, D;Cline, T;Goldstein, A;Briggs, M;Wilson-Hodge, C;von Kienlin, A;Zhang, X;Rau, A;Savchenko, V;E. Bozzo, E;Ferrigno, C;Barthelmy, S;Cummings, J;Krimm, H;Palmer, D;Boynton, W;Fellows, C;Harshman, K;Enos, H;Starr, R|IPN triangulation of 200325A (short)|0
+2020GCN.27454....1A|Antia, H;Katoch, T;Shah, P;Dedhia TIFR, D;Mumbai,;India.,|GRB 200326B: AstroSat LAXPC detection|0
+2020GCN.27462....1G|Gupta, S;Sharma, V;Bhattacharya, D;Bhalerao, V;Rao, A;Vadawale, S;AstroSat CZTI Collaboration|GRB 200326B: AstroSat CZTI detection|0
+2020GCN.27492....1G|Gupta, S;Sharma, V;Bhattacharya, D;Bhalerao, V;Rao, A;Vadawale, S;AstroSat CZTI Collaboration|GRB 200403A: AstroSat CZTI detection|0
+2020GCN.27563....1G|Gupta, S;Sharma, V;Vibhute, A;Bhattacharya, D;Bhalerao, V;Rao, A;Vadawale, S;AstroSat CZTI Collaboration|GRB 200412B : AstroSat CZTI detection|0
+2020GCN.27588....1G|Gupta, S;Sharma, V;Bhattacharya, D;Bhalerao, V;Rao, A;Vadawale, S;AstroSat CZTI Collaboration|GRB 200412A : AstroSat CZTI detection|0
+2020GCN.27630....1G|Gupta, S;Sharma, V;Vibhute, A;Bhattacharya, D;Bhalerao, V;Rao, A;Vadawale, S;AstroSat CZTI Collaboration|GRB 200422A: AstroSat CZTI detection|0
+2020GCN.27635....1S|Svinkin, D;Golenetskii, S;Aptekar, R;Frederiks, D;Ulanov, M;Tsvetkova, A;Lysenko, A;Ridnaia, A;Cline, T;Konus-Wind Team|Konus-Wind observation of GRB 200422A|0
+2020GCN.27642....1G|Gupta, S;Sharma, V;Bhattacharya, D;Bhalerao, V;Rao, A;Vadawale, S;AstroSat CZTI Collaboration|GRB 200424A: AstroSat CZTI detection|0
+2020GCN.27653....1K|Kumar, A;Pandey, S;Aryan, A;Kumar, B;Misra, K;a larger GRB Collaboration.|Gagarin-day GRB 200412B: observations with the 3.6m Devasthal Optical Telescope|0
+2020GCN.27664....1M|Marathe, A;Shenoy, V;Bhalerao, V;Bhattacharya, D;Vadawale, S;Rao, A;CZTI Collaboration|SGR 1935+2154: AstroSat CZTI detections|0
+2020GCN.27667....1R|Ridnaia, A;Golenetskii, S;Aptekar, R;Frederiks, D;Ulanov, M;Svinkin, D;Tsvetkova, A;Lysenko, A;Cline, T;Konus-Wind Team|Konus-Wind observation of a very intense bursting activity of SGR 1935+2154|0
+2020GCN.27680....1G|Gupta, S;Sharma, V;Vibhute, A;Bhattacharya, D;Bhalerao, V;Rao, A;Vadawale, S;AstroSat CZTI Collaboration|AstroSat CZTI detection : GRB200503A|0
+2020GCN.27685....1U|Ursi, A;Verrecchia, F;Tavani, M;Casentini, C;Pilia, M;Pittori, C;Argan, A;Cardillo, M;Evangelista, Y;Piano, G;Lucarelli, F;Bulgarelli, A;Fioretti, V;Fuschino, F;Parmiggiani, N;Marisaldi, M;Trois, A;Donnarumma, I;Longo, F;Giuliani, A;Agile Team|GRB 200503A: AGILE observations|0
+2020GCN.27686....1G|Gupta, S;Sharma, V;Bhattacharya, D;Bhalerao, V;Rao, A;Vadawale, S;AstroSat CZTI Collaboration|GRB 200502A: AstroSat CZTI detection|0
+2020GCN.27697....1G|Gupta, S;Sharma, V;Vibhute, A;Bhattacharya, D;Bhalerao, V;Rao, A;Vadawale, S;AstroSat CZTI Collaboration|GRB 200506C: AstroSat CZTI detection|0
+2020GCN.27698....1G|Gupta, S;Sharma, V;Bhattacharya, D;Bhalerao, V;Rao, A;Vadawale, S;AstroSat CZTI Collaboration|GRB 200506A: AstroSat CZTI detection|0
+2020GCN.27716....1G|Gupta, S;Sharma, V;Bhattacharya, D;Bhalerao, V;Rao, A;Vadawale, S;AstroSat CZTI Collaboration|GRB 200510A: AstroSat CZTI detection|0
+2020GCN.27724....1G|Gupta, S;Sharma, V;Bhattacharya, D;Bhalerao, V;Rao, A;Vadawale, S;AstroSat CZTI Collaboration|SGR 1935+2154: AstroSat CZTI detection|0
+2020GCN.27753....1G|Gupta, S;Sharma, V;Bhattacharya, D;Bhalerao, V;Rao, A;Vadawale, S;AstroSat CZTI Collaboration|GRB 200514A: AstroSat CZTI detection|0
+2020GCN.27766....1G|Gupta, S;Sharma, V;Bhattacharya, D;Bhalerao, V;Rao, A;Vadawale, S;AstroSat CZTI Collaboration|GRB 200519A: AstroSat CZTI detection|0
+2020GCN.27773....1M|Marrocchesi, P;Yoshida, A;Sakamoto, T;Pal'Shin, V;Sugita, S;Kawakubo, Y;Yamaoka, K;Nakahira, S;Asaoka, Y;Torii, S;Shimizu, Y;Tamura, T;Cannady, N;Cherry, M;Ricciarini, S;Calet Collaboration|GRB 200519A: CALET Gamma-Ray Burst Monitor detection|0
+2020GCN.27818....1G|Gupta, S;Sharma, V;Bhattacharya, D;Bhalerao, V;Rao, A;Vadawale, S;AstroSat CZTI Collaboration|GRB 200524A: AstroSat CZTI detection|0
+2020GCN.27864....1G|Gupta, S;Sharma, V;Bhattacharya, D;Bhalerao, V;Rao, A;Vadawale, S;AstroSat CZTI Collaboration|GRB 200530A: AstroSat CZTI detection|0
+2020GCN.27867....1S|Svinkin, D;Golenetskii, S;Aptekar, R;Frederiks, D;Ulanov, M;Tsvetkova, A;Lysenko, A;Ridnaia, A;Cline, T;Konus-Wind Team|Konus-Wind observation of GRB 200524A|0
+2020GCN.27890....1G|Gupta, S;Sharma, V;Bhattacharya, D;Bhalerao, V;Rao, A;Vadawale, S;AstroSat CZTI Collaboration|GRB 200604A: AstroSat CZTI detection|0
+2020GCN.27896....1S|Sugita, S;Yoshida, A;Sakamoto, T;Pal'Shin, V;Kawakubo, Y;Yamaoka, K;Nakahira, S;Asaoka, Y;Torii, S;Shimizu, Y;Tamura, T;Cannady, N;Cherry, M;Ricciarini, S;Marrocchesi, P;Calet Collaboration|GRB 200530A: CALET Gamma-Ray Burst Monitor detection|0
+2020GCN.27905....1G|Gupta, S;Sharma, V;Bhattacharya, D;Bhalerao, V;Rao, A;Vadawale, S;AstroSat CZTI Collaboration|GRB 200607B: AstroSat CZTI detection|0
+2020GCN.27994....1G|Gupta, S;Sharma, V;Bhattacharya, D;Bhalerao, V;Rao, A;Vadawale, S;AstroSat CZTI Collaboration|GRB 200619B: AstroSat CZTI detection|0
+2020GCN.28045....1G|Gupta, S;Sharma, V;Bhattacharya, D;Bhalerao, V;Rao, A;Vadawale, S;AstroSat CZTI Collaboration|GRB 200629A: AstroSat CZTI detection|0
+2020GCN.28060....1G|Gupta, S;Sharma, V;Bhattacharya, D;Bhalerao, V;Rao, A;Vadawale, S;AstroSat CZTI Collaboration|GRB 200703B: AstroSat CZTI detection|0
+2020GCN.28061....1L|Luo, Q;Zheng, Y;Cai, C;Xiao, S;Yi, Q;Xue, W;Huang, Y;Li, C;Li, G;Li, X;Liao, J;Xiong, S;Liu, C;Li, X;Li, Z;Chang, Z;Zhang, A;Zhang, Y;Lu, X;Zou, C;Jin, Y;Zhang, Z;Li, T;Lu, F;Song, L;Wu, M;Xu, Y;Zhang, S;Insight-HXMT Team|GRB 200703B: Insight-HXMT/HE detection|0
+2020GCN.28117....1G|Gupta, S;Sharma, V;Bhattacharya, D;Bhalerao, V;Rao, A;Vadawale, S;AstroSat CZTI Collaboration|GRB 200716A: AstroSat CZTI detection|0
+2020GCN.28118....1G|Gupta, S;Sharma, V;Bhattacharya, D;Bhalerao, V;Rao, A;Vadawale, S;AstroSat CZTI Collaboration|GRB 200716B: AstroSat CZTI detection|0
+2020GCN.28120....1M|Malacaria, C;Bissaldi, E;Dunwoody, R;Mangan, J;Meegan, C|GRB 200716A: Fermi GBM detection|0
+2020GCN.28121....1H|Hurley, K;Mitrofanov, I;Golovin, D;Litvak, M;Sanin, A;Kozlova, A;Golenetskii, S;Aptekar, R;Frederiks, D;Svinkin, D;Cline, T;Goldstein, A;Briggs, M;Wilson-Hodge, C;von Kienlin, A;Zhang, X;Rau, A;Savchenko, V;E. Bozzo, E;Ferrigno, C;Barthelmy, S;Cummings, J;Krimm, H;Palmer, D;Boynton, W;Fellows, C;Harshman, K;Enos, H;Starr, R|IPN triangulation of GRB 200716A|0
+2020GCN.28137....1X|Xiao, S;Cai, C;Du, Y;Zheng, Y;Luo, Q;Yi, Q;Huang, Y;Li, C;Li, G;Li, X;Liao, J;Xiong, S;Liu, C;Li, X;Li, Z;Chang, Z;Zhang, A;Zhang, Y;Lu, X;Zou, C;Jin, Y;Zhang, Z;Li, T;Lu, F;Song, L;Wu, M;Xu, Y;Zhang, S;Insight-HXMT Team|GRB 200716B: Insight-HXMT/HE detection|0
+2020GCN.28197....1G|Gupta, S;Sharma, V;Bhattacharya, D;Bhalerao, V;Rao, A;Vadawale, S;AstroSat CZTI Collaboration|GRB 200801B: AstroSat CZTI detection|0
+2020GCN.28207....1G|Gupta, S;Sharma, V;Bhattacharya, D;Bhalerao, V;Rao, A;Vadawale, S;AstroSat CZTI Collaboration|GRB 200803A: AstroSat CZTI detection|0
+2020GCN.28216....1G|Gupta, S;Sharma, V;Vibhute, A;Bhattacharya, D;Bhalerao, V;Rao, A;Vadawale, S;AstroSat CZTI Collaboration|GRB 200806A: AstroSat CZTI detection|0
+2020GCN.28218....1B|Belkin, S;Pozanenko, A;Inasaridze, R;Pankov, N;Kamyshnikov, K;Ayvazian, V;Kapanadze, G;Mazaeva, E;Volnova, A;Molotov, I;IKI FuN GRB,|GRB 200806A: AbAO optical upper limit|0
+2020GCN.28234....1S|Shimizu, Y;Yoshida, A;Sakamoto, T;Pal'Shin, V;Sugita, S;Kawakubo, Y;Yamaoka, K;Nakahira, S;Asaoka, Y;Torii, S;Akaike, Y;Kobayashi, K;Tamura, T;Cannady, N;Cherry, M;Ricciarini, S;Marrocchesi, P;Calet Collaboration|GRB 200806A: CALET Gamma-Ray Burst Monitor detection|0
+2020GCN.28238....1G|Gupta, S;Sharma, V;Bhattacharya, D;Bhalerao, V;Rao, A;Vadawale, S;AstroSat CZTI Collaboration|GRB 200809B: AstroSat CZTI detection|0
+2020GCN.28244....1D|Dunwoody, R;Fletcher, C;Mangan, J;Meegan, C;Fermi GBM Team|GRB 200809B: Fermi GBM detection|0
+2020GCN.28288....1G|Gupta, S;Sharma, V;Vibhute, A;Bhattacharya, D;Bhalerao, V;Rao, A;Vadawale, S;AstroSat CZTI Collaboration|GRB 200826A: AstroSat CZTI detection|0
+2020GCN.28291....1H|Hurley, K;Mitrofanov, I;Golovin, D;Litvak, M;Sanin, A;Kozlova, A;Golenetskii, S;Aptekar, R;Frederiks, D;Svinkin, D;Cline, T;Goldstein, A;Briggs, M;Wilson-Hodge, C;von Kienlin, A;Zhang, X;Rau, A;Savchenko, V;E. Bozzo, E;Ferrigno, C;Barthelmy, S;Cummings, J;Krimm, H;Palmer, D;Boynton, W;Fellows, C;Harshman, K;Enos, H;Starr, R|IPN triangulation of GRB 200826A (short/bright)|0
+2020GCN.28294....1R|Ridnaia, A;Golenetskii, S;Aptekar, R;Frederiks, D;Ulanov, M;Svinkin, D;Tsvetkova, A;Lysenko, A;Cline, T;Konus-Wind Team|Konus-Wind detection of GRB 200826A|0
+2020GCN.28354....1S|Shenoy, V;Bhalerao, V;Gupta, S;Sharma, V;Vibhute, A;Bhattacharya, D;Rao, A;Vadawale, S;AstroSat CZTI Collaboration|GRB200817B: AstroSat CZTI detection|0
+2020GCN.28355....1S|Shenoy, V;Bhalerao, V;Andreoni, I;Kasliwal, M;Bhattacharya, D;Rao, A;Vadawale, S;Astrosat Czti Collaboration;GROWTH Collaboration|ZTF20abtxwfx/AT2020sev : AstroSat CZTI non-detection of a transient|0
+2020IAUGA..30..455S|Shah, P|Standardization in the UV with Astrosat and its issues related to star cluster studies|0
+2020IAUGA..30..487L|Leahy, D;Postma, J;Hutchings, J;Tandon, S|The Calibration of the UVIT Detectors for the ASTROSAT Observatory|0
+2020IAUS..351..464K|Kumar, R;Pradhan, A;Parthasarathy, M;Ojha, D;Mohapatra, A;Murthy, J|UVIT observations of UV-Bright stars in four Galactic Globular Clusters|0
+2020IAUS..351..498S|Sahu, S;Subramaniam, A|Radial distribution of Blue Stragglers in NGC 5466 using AstroSat|0
+2020arXiv200102502R|Rubinur, K;Das, M;Kharb, P;T, R|Understanding Galaxy Mergers &amp; AGN Feedback with UVIT|0
+2020arXiv200404930D|Deo Chandra, A;Roy, J;Agrawal, P;Choudhury, M|Study of Recent outburst in the Be/X-ray binary RX J0209.6-7427 with AstroSat: A new ultraluminous X-ray pulsar in the Magellanic Bridge?|0
+2020arXiv200412372R|Roy, J;Agrawal, P;Singari, B;Misra, R|AstroSat observation of the Be/X-ray binary Pulsar 3A 0726-260 (4U 0728-25)|0
+2020arXiv200609077C|Chatterjee, D;Debnath, D;Banerjee, A;Bhattacharjee, A;Jana, A;Chatterjee, K;Bhowmick, R;Nath, S;Shang, J;Chakrabarti, S;Chang, H|AstroSat Observation of Non-Resonant Type-C QPOs in MAXI J1535-571|1
+2020arXiv200610934B|Bogensberger, D;Ponti, G;Jin, C;Belloni, T;Pan, H;Nandra, K;Russell, T;Miller-Jones, J;Munoz-Darias, T;Vynatheya, P;Vincentelli, F|An underlying clock in the extreme flip-flop state transitions of the black hole transient Swift J1658.2-4242|0
+2020arXiv200705273B|Banerjee, A;Bhattacharjee, A;Chatterjee, D;Debnath, D;Chakrabarti, S;Katoch, T;Antia, H|Accretion Flow Properties of GRS 1915+105 During Its $\theta$ Class Using AstroSat Data|0
+2020arXiv200806468G|Garg, A;Misra, R;Sen, S|Identifying the radiative components responsible for Quasi-Periodic Oscillations of black hole systems|0
+2020arXiv200902465C|Chakraborty, S;Navale, N;Ratheesh, A;Bhattacharyya, S|A spectral study of the black hole X-ray binary MAXI J1820+070 with AstroSat and NuSTAR|0
+2020arXiv200903104K|Kumar, V;Srivastava, M;Banerjee, D;Joshi, V|UV spectroscopy confirms SU Lyn to be a symbiotic star|0
+2020bugm.conf...42G|Groves, B|Tracing star formation (and not) on resolved galactic scales|0
+2020yCat..18710244A|Antokhin, I;Cherepashchuk, A|VizieR Online Data Catalog: Times of X-ray minima &amp; orbit numbers of Cyg X-3 (Antokhin+, 2019)|0
+2020yCat..22470047L|Leahy, D;Postma, J;Chen, Y;Buick, M|VizieR Online Data Catalog: Ultraviolet survey of M31 with UVIT on AstroSat (Leahy+, 2020)|0
+2020yCat..51580229M|Mondal, C;Subramaniam, A;George, K|VizieR Online Data Catalog: Properties of FUV bright SFRs in IC 2574 (Mondal+, 2019)|0
+2020yCat..74713028R|Rahna, P;Murthy, J;Safonova, M;Sutaria, F;Gudennavar, S;Bubbly, S|VizieR Online Data Catalog: UVIT and GALEX count rates (Rahna+, 2017)|0
+2019AAS...23323402S|Stevens, A;Uttley, P;Altamirano, D|A changing boundary layer in a lower kHz quasi-periodic oscillation|0
+2019AAS...23333505P|Perley, D;Ho, A|Multiwavelength Observations of the Extreme Transient AT2018cow|0
+2019AAS...23346802L|Leahy, D;Chen, Y|New X-ray observations of Hercules X-1 with AstroSat|0
+2019ATel12370....1A|Anumarlapudi, A;Aarthy, E;Bhalerao, V;Bhattacharya, D;Rao, A;Vadawale, S|FRB181228: AstroSat CZTI upper limits|1
+2019ATel12741....1C|Choudhury, M;Roy, J;Bhargav, Y;Bhattacharya, D;Rao, A|Astrosat Observation of Cygnus X-3 in the Flaring State|0
+2019ATel12805....1J|Jithesh, V;Maqbool, B;Dewangan, G;Misra, R|Large Flares from GRS 1915+105 in its Unusual Low State as Observed by Astrosat|1
+2019ATel12818....1S|Svinkin, D;Golenetskii, S;Aptekar, R;Frederiks, D;Ulanov, M;Tsvetkova, A;Lysenko, A;Kozlova, A;Cline, T|Konus-Wind observations of Galactic transient GRS 1915+105 in outburst|0
+2019ATel13102....1S|Singh, K;Girish, V;Anupama, G;Pavana, M|AstroSat SXT observations of V3890Sgr|0
+2019ATel13145....1S|Singh, K;Girish, V;Anupama, G;Pavana, M|A long look at V3890 Sgr during its SSS phase with the AstroSat SXT|0
+2019ATel13264....1P|Paice, J;Gandhi, P;Belloni, T;Rao, A;Pahari, M;Maqbool, B;Beri, A;Bhattacharya, D;Buckley, D;Casella, P;Charles, P;Fender, R;Lewis, F;Misra, R;Motta, S;Russell, D|Swift and AstroSat monitoring of GX339-4 during its 2019 activity|0
+2019ATel13296....1T|Thomas, N;Gudennavar, S;Misra, R;Bubbly, S|AstroSat observation of the newly discovered transient X-ray binary source: MAXI J0637-430|0
+2019GCN.23609....1K|Khanam, T;Sharma, V;Vibhute, A;Bhalerao, V;Bhattacharya, D;Rao, A;Vadawale, S|GRB 190103A: AstroSat CZTI detection.|0
+2019GCN.23667....1A|Anumarlapudi, A;Aarthy, E;Bhalerao, V;Bhattacharya, D;Rao, A;Vadawale, S|IceCube-190104A: AstroSat CZTI counterpart search.|0
+2019GCN.23791....1K|Khanam, T;Sharma, V;Bhattacharya, D;Vibhute, A;Bhalerao, V;Rao, A;Vadawale, S|GRB 190122B: AstroSat CZTI detection.|0
+2019GCN.23792....1K|Khanam, T;Sharma, V;Bhattacharya, D;Vibhute, A;Bhalerao, V;Rao, A;Vadawale, S|GRB 190117A: AstroSat CZTI detection.|0
+2019GCN.23817....1K|Khanam, T;Sharma, V;Bhattacharya, D;Vibhute, A;Bhalerao, V;Rao, A;Vadawale, S|GRB 190129B: AstroSat CZTI detection.|0
+2019GCN.23826....1K|Khanam, T;Sharma, V;Bhattacharya, D;Vibhute, A;Bhalerao, V;Rao, A;Vadawale, S|GRB 190126A: AstroSat CZTI detection.|0
+2019GCN.23827....1K|Khanam, T;Sharma, V;Bhattacharya, D;Vibhute, A;Bhalerao, V;Rao, A;Vadawale, S|GRB 190131A: AstroSat CZTI detection.|0
+2019GCN.23856....1K|Khanam, T;Sharma, V;Bhattacharya, D;Vibhute, A;Bhalerao, V;Rao, A;Vadawale, S|GRB 190204A: AstroSat CZTI detection.|0
+2019GCN.23866....1K|Khanam, T;Sharma, V;Bhattacharya, D;Bhalerao, V;Rao, A;Vadawale, S|GRB 190203A: AstroSat CZTI detection.|0
+2019GCN.23875....1S|Sharma, V;Khanam, T;Bhattacharya, D;Bhalerao, V;Rao, A;Vadawale, S|GRB 190202A: AstroSat CZTI detection.|0
+2019GCN.23892....1S|Sharma, V;Bhattacharya, D;Khanam, T;Vibhute, A;Bhalerao, V;Rao, A;Vadawale, S|GRB 190206A: AstroSat CZTI detection.|0
+2019GCN.23901....1S|Sharma, V;Khanam, T;Bhattacharya, D;Vibhute, A;Bhalerao, V;Rao, A;Vadawale, S|GRB 190215A: AstroSat CZTI detection.|0
+2019GCN.23972....1S|Sharma, V;Ghumatkar, P;Bhattacharya, D;Khanam, T;Vibhute, A;Bhalerao, V;Rao, A;Vadawale, S|GRB 190315A: AstroSat CZTI detection.|0
+2019GCN.24025....1S|Sharma, V;Bhattacharya, D;Vibhute, A;Khanam, T;Bhalerao, V;Rao, A;Vadawale, S|GRB 190323A: AstroSat CZTI detection.|0
+2019GCN.24042....1S|Sharma, V;Bhattacharya, D;Vibhute, A;Khanam, T;Bhalerao, V;Rao, A;Vadawale, S|GRB 190326B: AstroSat CZTI detection.|0
+2019GCN.24053....1S|Sharma, V;Bhattacharya, D;Vibhute, A;Khanam, T;Bhalerao, V;Rao, A;Vadawale, S|GRB 190331C: AstroSat CZTI detection.|0
+2019GCN.24118....1K|Khanam, T;Sharma, V;Bhattacharya, D;Vibhute, A;Bhalerao, V;Rao, A;Vadawale, S|GRB 190411A: AstroSat CZTI detection.|0
+2019GCN.24121....1S|Sharma, V;Bhattacharya, D;Vibhute, A;Khanam, T;Bhalerao, V;Rao, A;Vadawale, S|GRB 190407B: AstroSat CZTI detection.|0
+2019GCN.24297....1K|Khanam, T;Sharma, V;Bhattacharya, D;Vibhute, A;Bhalerao, V;Rao, A;Vadawale, S|GRB 190419A: AstroSat CZTI detection.|0
+2019GCN.24352....1K|Khanam, T;Sharma, V;Bhattacharya, D;Vibhute, A;Bhalerao, V;Rao, A;Vadawale, S|GRB 190429A: AstroSat CZTI detection.|0
+2019GCN.24373....1G|Ghumatkar, P;Khanam, T;Sharma, V;Bhattacharya, D;Vibhute, A;Bhalerao, V;Rao, A;Vadawale, S|GRB 190501BA: AstroSat CZTI detection.|0
+2019GCN.24374....1G|Ghumatkar, P|Correction in name: GRB 190501B (not GRB 190501BA) : AstroSat CZTI detection.|0
+2019GCN.24415....1A|Anumarlapudi, A;Ghumatkar, P;Bhalerao, V;Bhattacharya, D;Rao, A;Vadawale, S|LIGO/Virgo S190503bf: AstroSat CZTI upper limits.|0
+2019GCN.24536....1S|Sharma, Y;Bhalerao, V;Khanam, T;Sharma, V;Vibhute, A;Bhattacharya, D;Rao, A;Vadawale, S|GRB 180416D: AstroSat CZTI detection.|0
+2019GCN.24538....1G|Ghumatkar, P;Sharma, V;Khanam, T;Bhattacharya, D;Vibhute, A;Bhalerao, V;Rao, A;Vadawale, S|GRB 190510B: AstroSat CZTI detection.|0
+2019GCN.24613....1G|Ghumatkar, P;Sharma, V;Khanam, T;Bhattacharya, D;Vibhute, A;Bhalerao, V;Rao, A;Vadawale, S|GRB 190519A: AstroSat CZTI detection.|0
+2019GCN.24667....1G|Ghumatkar, P;Sharma, V;Khanam, T;Bhattacharya, D;Vibhute, A;Bhalerao, V;Rao, A;Vadawale, S|GRB 190525A: AstroSat CZTI detection.|0
+2019GCN.24668....1A|Anumarlapudi, A;Saraogi, D;Bhalerao, V;Bhattacharya, D;Rao, A;Vadawale, S|LIGO/Virgo S190519bj: AstroSat CZTI upper limits.|0
+2019GCN.24669....1A|Anumarlapudi, A;Saraogi, D;Bhalerao, V;Bhattacharya, D;Rao, A;Vadawale, S|LIGO/Virgo S190517h: AstroSat CZTI upper limits.|0
+2019GCN.24670....1A|Anumarlapudi, A;Saraogi, D;Bhalerao, V;Bhattacharya, D;Rao, A;Vadawale, S|LIGO/Virgo S190521g: AstroSat CZTI upper limits.|0
+2019GCN.24671....1A|Anumarlapudi, A;Saraogi, D;Bhalerao, V;Bhattacharya, D;Rao, A;Vadawale, S|LIGO/Virgo S190518bb: AstroSat CZTI upper limits.|0
+2019GCN.24694....1G|Ghumatkar, P;Sharma, V;Bhattacharya, D;Khanam, T;Vibhute, A;Bhalerao, V;Rao, A;Vadawale, S|GRB 190530A: AstroSat CZTI detection.|0
+2019GCN.24715....1F|Frederiks, D;Golenetskii, S;Aptekar, R;Kozlova, A;Lysenko, A;Svinkin, D;Tsvetkova, A;Ulanov, M;Cline, T;Konus-Wind Team|Konus-Wind observation of extremely bright GRB 190530A|0
+2019GCN.24736....11|Bhalerao, V|LIGO/Virgo S190602aq: AstroSat CZTI upper limits|0
+2019GCN.24736....1B|Bhalerao, V|LIGO/Virgo S190602aq: AstroSat CZTI upper limits.|0
+2019GCN.24753....1G|Ghumatkar, P;Sharma, V;Bhattacharya, D;Khanam, T;Vibhute, A;Vadawale, S;AstroSat CZTI Collaboration|GRB 190604A: AstroSat CZTI detection|0
+2019GCN.24771....1G|Ghumatkar, P;Sharma, V;Bhattacharya, D;Khanam, T;Vibhute, A;Vadawale, S;AstroSat CZTI Collaboration|GRB 190605A: AstroSat CZTI detection|0
+2019GCN.24789....1G|Ghumatkar, P;Sharma, V;Bhattacharya, D;Khanam, T;Vibhute, A;Vadawale, S;AstroSat CZTI Collaboration|GRB 190610B: AstroSat CZTI detection|0
+2019GCN.24804....1G|Ghumatkar, P;Sharma, V;Bhattacharya, D;Khanam, T;Vibhute, A;Vadawale, S;AstroSat CZTI Collaboration|GRB 190609A: AstroSat CZTI detection|0
+2019GCN.24845....1G|Ghumatkar, P;Sharma, V;Bhattacharya, D;Khanam, T;Vibhute, A;Vadawale, S;AstroSat CZTI Collaboration|GRB 190611B: AstroSat CZTI detection|0
+2019GCN.24846....1G|Ghumatkar, P;Sharma, V;Bhattacharya, D;Khanam, T;Vibhute, A;Vadawale, S;AstroSat CZTI Collaboration|GRB 190613B: AstroSat CZTI detection|0
+2019GCN.24870....1G|Ghumatkar, P;Sharma, V;Bhattacharya, D;Bhalerao, V;Rao, A;Vadawale, S|GRB 190615B: AstroSat CZTI detection.|0
+2019GCN.24879....1A|Anumarlapudi, A;Bhalerao, V;Bhattacharya, D;Rao, A;Vadawale, S|IceCube-190619A: prompt emission upper limits from AstroSat-CZTI.|0
+2019GCN.24883....1G|Ghumatkar, P;Sharma, V;Bhattacharya, D;Vibhute, A;Bhalerao, V;Rao, A;Vadawale, S|GRB 190619B: AstroSat CZTI detection.|0
+2019GCN.24939....1S|Sharma, V;Gaikwad, R;Bhattacharya, D;Vibhute, A;Vadawale, S;AstroSat CZTI Collaboration|GRB 190630C: AstroSat CZTI detection|0
+2019GCN.24972....1M|Marathe, A;Sharma, Y;Bhalerao, V;Bhattacharya, D;Rao, A;Vadawale, S;AstroSat CZTI Collaboration|GRB 190628B - AstroSat CZTI detection|0
+2019GCN.25227....1A|Anumarlapudi, A;Aarthy, E;Bhalerao, V;Bhattacharya, D;Rao, A;Vadawale, S;AstroSat CZTI Collaboration|LIGO/Virgo S190720a: AstroSat CZTI upper limits|0
+2019GCN.25228....1A|Anumarlapudi, A;Aarthy, E;Bhalerao, V;Bhattacharya, D;Rao, A;Vadawale, S;AstroSat CZTI Collaboration|LIGO/Virgo S190727h: AstroSat CZTI upper limits|0
+2019GCN.25229....1A|Anumarlapudi, A;Aarthy, E;Bhalerao, V;Bhattacharya, D;Rao, A;Vadawale, S;AstroSat CZTI Collaboration|LIGO/Virgo S190718y: AstroSat CZTI upper limits|0
+2019GCN.25230....1A|Anumarlapudi, A;Aarthy, E;Bhalerao, V;Bhattacharya, D;Rao, A;Vadawale, S;AstroSat CZTI Collaboration|LIGO/Virgo S190707q: AstroSat CZTI upper limits|0
+2019GCN.25247....1G|Ghumatkar, P;Sharma, V;Bhattacharya, D;Bhalerao, V;Rao, A;Vadawale, S;AstroSat CZTI Collaboration|GRB 190726B: AstroSat CZTI detection|0
+2019GCN.25254....1G|Ghumatkar, P;Sharma, V;Bhattacharya, D;Bhalerao, V;Rao, A;Vadawale, S;AstroSat CZTI Collaboration|GRB 190720B: AstroSat CZTI detection|0
+2019GCN.25258....1G|Ghumatkar, P;Sharma, V;Bhattacharya, D;Vibhute, A;Bhalerao, V;Rao, A;Vadawale, S;AstroSat CZTI Collaboration|GRB 190731A: AstroSat CZTI detection|0
+2019GCN.25274....1T|Tsvetkova, A;Golenetskii, S;Aptekar, R;Frederiks, D;Ulanov, M;Svinkin, D;Lysenko, A;Kozlova, A;Cline, T;Konus-Wind Team|Konus-Wind observation of GRB 190731A|0
+2019GCN.25287....1G|Ghumatkar, P;Sharma, V;Bhattacharya, D;Vibhute, A;Bhalerao, V;Rao, A;Vadawale, S;AstroSat CZTI Collaboration|GRB 190805B: AstroSat CZTI detection|0
+2019GCN.25289....1G|Ghumatkar, P;Sharma, V;Bhattacharya, D;Bhalerao, V;Rao, A;Vadawale, S;AstroSat CZTI Collaboration|GRB 190804A: AstroSat CZTI detection|0
+2019GCN.25541....1G|Gaikwad, R;Chavan, M;Sharma, V;Bhattacharya, D;Vibhute, A;Bhalerao, V;Rao, A;Vadawale, S;AstroSat CZTI Collaboration|GRB 190823A: AstroSat CZTI detection|0
+2019GCN.25687....1G|Gaikwad, R;Sharma, V;Bhattacharya, D;Bhalerao, V;Rao, A;Vadawale, S;AstroSat CZTI Collaboration|GRB 190901A: AstroSat CZTI detection|0
+2019GCN.25719....1A|Anumarlapudi, A;Shenoy, V;Aarthy, E;Bhalerao, V;Bhattacharya, D;Rao, A;Vadawale, S;AstroSat CZTI Collaboration|LIGO/Virgo S190910d: AstroSat CZTI upper limits|0
+2019GCN.25745....1G|Gaikwad, R;Sharma, V;Bhattacharya, D;Bhalerao, V;Rao, A;Vadawale, S;AstroSat CZTI Collaboration|GRB 190828C: AstroSat CZTI detection|0
+2019GCN.25746....1G|Gaikwad, R;AstroSat CZTI Team|Correction in name: GRB 190828C (not GRB 190928C) : AstroSat CZTI detection|0
+2019GCN.25771....1G|Gaikwad, R;Sharma, V;Bhattacharya, D;Vibhute, A;Bhalerao, V;Rao, A;Vadawale, S;AstroSat CZTI Collaboration|GRB 190828B: AstroSat CZTI detection|0
+2019GCN.25935....1G|Gaikwad, R;Sharma, V;Bhattacharya, D;Vibhute, A;Bhalerao, V;Rao, A;Vadawale, S;AstroSat CZTI Collaboration|GRB 190919A: AstroSat CZTI detection|0
+2019GCN.25965....1G|Gaikwad, R;Sharma, V;Bhattacharya, D;Bhalerao, V;Rao, A;Vadawale, S;AstroSat CZTI Collaboration|GRB 190928A: AstroSat CZTI detection|0
+2019GCN.26004....1G|Gaikwad, R;Sharma, V;Bhattacharya, D;Bhalerao, V;Rao, A;Vadawale, S;AstroSat CZTI Collaboration|GRB 191009A: AstroSat CZTI detection|0
+2019GCN.26058....1G|Gaikwad, R;Gupta, S;Sharma, V;Bhattacharya, D;Bhalerao, V;Rao, A;Vadawale, S;AstroSat CZTI Collaboration|GRB 191019B: AstroSat CZTI detection|0
+2019GCN.26077....1G|Gaikwad, R;Gupta, S;Sharma, V;Bhattacharya, D;Vibhute, A;Bhalerao, V;Rao, A;Vadawale, S;AstroSat CZTI Collaboration|GRB 191026B: AstroSat CZTI detection|0
+2019GCN.26106....1G|Gaikwad, R;Gupta, S;Sharma, V;Bhattacharya, D;Bhalerao, V;Rao, A;Vadawale, S;AstroSat CZTI Collaboration|GRB 191025B: AstroSat CZTI detection|0
+2019GCN.26129....1G|Gaikwad, R;Gupta, S;Sharma, V;Bhattacharya, D;Bhalerao, V;Rao, A;Vadawale, S;AstroSat CZTI Collaboration|GRB 191031D: AstroSat CZTI detection|0
+2019GCN.26196....1S|Shenoy, V;Anumarlapudi, A;Gaikwad, R;Gupta, S;Aarthy, E;Bhalerao, V;Bhattacharya, D;Rao, A;Vadawale, S;AstroSat CZTI Collaboration|LIGO/Virgo S191105e: AstroSat CZTI upper limits|0
+2019GCN.26201....1G|Gaikwad, R;Gupta, S;Sharma, V;Bhattacharya, D;Bhalerao, V;Rao, A;Vadawale, S;AstroSat CZTI Collaboration|GRB 191106A: AstroSat CZTI detection|0
+2019GCN.26212....1S|Shenoy, V;Anumarlapudi, A;Aarthy, E;Bhalerao, V;Bhattacharya, D;Rao, A;Vadawale, S;AstroSat CZTI Collaboration|LIGO/Virgo S191109d: AstroSat CZTI upper limits|0
+2019GCN.26240....1S|Shimizu, Y;Yoshida, A;Sakamoto, T;Pal'Shin, V;Sugita, S;Kawakubo, Y;Yamaoka, K;Nakahira, S;Asaoka, Y;Torii, S;Tamura, T;Cannady, N;Cherry, M;Ricciarini, S;Marrocchesi, P;Calet Collaboration|GRB 191031D: CALET Gamma-Ray Burst Monitor detection|0
+2019GCN.26268....1S|Shenoy, V;Sharma, Y;Bhalerao, V;Bhattacharya, D;Rao, A;Vadawale, S;AstroSat CZTI Collaboration|GRB191116A: AstroSat CZTI detection of a short GRB|0
+2019GCN.26316....1G|Gaikwad, R;Gupta, S;Sharma, V;Bhattacharya, D;Bhalerao, V;Rao, A;Vadawale, S;AstroSat CZTI Collaboration|GRB 191129A: AstroSat CZTI detection|0
+2019GCN.26322....1G|Gaikwad, R;Gupta, S;Sharma, V;Vibhute, A;Bhattacharya, D;Bhalerao, V;Rao, A;Vadawale, S;AstroSat CZTI Collaboration|GRB 191201A: AstroSat CZTI detection|0
+2019GCN.26326....1G|Gaikwad, R;Gupta, S;Sharma, V;Bhattacharya, D;Bhalerao, V;Rao, A;Vadawale, S;AstroSat CZTI Collaboration|GRB 191202A: AstroSat CZTI detection|0
+2019GCN.26344....1T|Tsvetkova, A;Golenetskii, S;Aptekar, R;Frederiks, D;Ulanov, M;Svinkin, D;Lysenko, A;Ridnaia, A;Cline, T;Konus-Wind Team|Konus-Wind observation of GRB191202A|0
+2019GCN.26370....1Z|Zheng, Y;Cai, C;Luo, Q;Xiao, S;Yi, Q;Huang, Y;Li, C;Li, G;Li, X;Liao, J;Xiong, S;Liu, C;Li, X;Li, Z;Chang, Z;Zhang, A;Zhang, Y;Lu, X;Zou, C;Jin, Y;Zhang, Z;Li, T;Lu, F;Song, L;Wu, M;Xu, Y;Zhang, S;Insight-HXMT Team|GRB 191202A: Insight-HXMT/HE detection|0
+2019GCN.26375....1S|Shenoy, V;Aarthy, E;Bhalerao, V;Bhattacharya, D;Rao, A;Vadawale, S;AstroSat CZTI Collaboration|LIGO/Virgo S191205ah: AstroSat CZTI upper limits|0
+2019GCN.26376....1S|Shenoy, V;Sharma, Y;Bhalerao, V;Bhattacharya, D;Rao, A;Vadawale, S;AstroSat CZTI Collaboration|GRB191105B: AstroSat CZTI detection|0
+2019GCN.26378....1S|Shenoy, V;Sharma, Y;Bhalerao, V;Bhattacharya, D;Rao, A;Vadawale, S;AstroSat CZTI Collaboration|GRB191102A: AstroSat CZTI discovery of a burst|0
+2019GCN.26425....1S|Shenoy, V;Aarthy, E;Bhalerao, V;Bhattacharya, D;Rao, A;Vadawale, S;AstroSat CZTI Collaboration|LIGO/Virgo S191213g: AstroSat CZTI upper limits|0
+2019GCN.26449....1S|Shenoy, V;Aarthy, E;Bhalerao, V;Bhattacharya, D;Rao, A;Vadawale, S;AstroSat CZTI Collaboration|LIGO/Virgo S191215w: AstroSat CZTI upper limits|0
+2019GCN.26482....1G|Gaikwad, R;Gupta, S;Sharma, V;Vibhute, A;Bhattacharya, D;Bhalerao, V;Rao, A;Vadawale, S;AstroSat CZTI Collaboration|GRB 191218A: AstroSat CZTI detection|0
+2019GCN.26506....1R|Ridnaia, A;Golenetskii, S;Aptekar, R;Frederiks, D;Ulanov, M;Svinkin, D;Tsvetkova, A;Lysenko, A;Cline, T;Konus-Wind team|Konus-Wind observation of GRB 191218A|0
+2019GCN.26511....1S|Shenoy, V;AstroSat CZTI Collaboration|LIGO/Virgo S191216ap: AstroSat CZTI upper limits|0
+2019GCN.26567....1G|Gaikwad, R;Gupta, S;Sharma, V;Vibhute, A;Bhattacharya, D;Vadawale, S;AstroSat CZTI Collaboration|GRB 191221B: AstroSat CZTI detection|0
+2019GCN.26568....1G|Gaikwad, R;Gupta, S;Sharma, V;Bhattacharya, D;Vadawale, S;AstroSat CZTI Collaboration|GRB 191220.59: AstroSat CZTI detection|0
+2019GCN.26576....1F|Frederiks, D;Golenetskii, S;Aptekar, R;Lysenko, A;Ridnaia, A;Svinkin, D;Tsvetkova, A;Ulanov, M;Cline, T;Konus-Wind Team|Konus-Wind observation of GRB 191221B|0
+2019GCN.26610....1G|Gaikwad, R;Gupta, S;Sharma, V;Bhattacharya, D;Vadawale, S;AstroSat CZTI Collaboration|GRB 191225A : AstroSat CZTI detection|0
+2019GCN.26616....1S|Sugita, S;Yoshida, A;Sakamoto, T;Pal'Shin, V;Kawakubo, Y;Yamaoka, K;Nakahira, S;Asaoka, Y;Torii, S;Shimizu, Y;Tamura, T;Cannady, N;Cherry, M;Ricciarini, S;Marrocchesi, P;Calet Collaboration|GRB 191221B: CALET Gamma-Ray Burst Monitor detection|0
+2019HEAD...1710816L|Leahy, D|AstroSat UV and X-ray Obserations of M31|0
+2019HEAD...1711102B|Beri, A;Altamirano, D;Remillard, R;Steiner, J;Arzoumanian, Z;Arnaud, K;Homan, J|Nicer and AstroSat Observations of Swift J1658.2-4242 during its 2017 Outburst|0
+2019HEAD...1711115N|Nowak, M;Wilms, J;Pottschmidt, K|RXTE Revisited - Open Questions in Black Hole Timing for the Age of Astrosat and NICER|0
+2019HEAD...1720503S|Steiner, J|Spectral Mapping of Black Hole Accretion Disks at Critical, Fast Timescales|0
+2019IAUS..339..117H|Hutchings, J|Time-Domain Studies with Astrosat|0
+2019IAUS..346...59I|Islam, N|Orbital resolved spectroscopy of GX 301-2: wind diagnostics|0
+2019arXiv190602917B|Bahal, V;Pradhan, P;Maitra, C;Raichur, H;Paul, B|Pulse Phase Variation of Cyclotron Line in HMXB 4U 1907+09 with ASTROSAT LAXPC|0
+2019arXiv190609670A|Abraham, S;Mukund, N;Vibhute, A;Sharma, V;Iyyani, S;Bhattacharya, D;Rao, A;Vadawale, S;Bhalerao, V|A machine learning approach for GRB detection in AstroSat CZTI data|1
+2019arXiv191203547P|Paul, D|Detection and Characterisation of Cosmic Rays in AstroSat-CZT Imager data|0
+2019sros.confE..38S|Sutaria, F;Singh, K;Murthy, J;Rao, N;Ray, A|A deep, UV, imaging study of the Cygnus Supernova Remnant|0
+2018ATel11375....1B|Beri, A;Belloni, T;Vincentelli, F;Gandhi, P;Altamirano, D|Swift J1658.2-4242 as observed by AstroSat LAXPC|4
+2018ATel11413....1A|Anumarlapudi, A;Aarthy, E;Arvind, B;Bhalerao, V;Bhattacharya, D;Rao, A;Vadawale, S|FRB180301: AstroSat CZTI upper limits|2
+2018ATel11417....1A|Anumarlapudi, A;Aarthy, E;Arvind, B;Bhalerao, V;Bhattacharya, D;Rao, A;Vadawale, S|FRB180311: AstroSat CZTI upper limits and correction to FRB180301 upper limits|2
+2018ATel11566....1C|Chakraborty, M;Bhattacharyya, S|Astrosat broadband characterization of the 2018 outburst of Swift J1756.9-2508|1
+2018ATel11809....1S|Sharma, Y;Bhalerao, V;Bhattacharya, D;Rao, A;Vadawale, S|AT2018cow - AstroSat CZTI limits on prompt emission|2
+2018ATel11822....1S|Singh, A;Bhalerao, V;Anupama, G;Mondal, C;Sahu, S|AstroSat UVIT Observations of AT2018cow|0
+2018GCN.22310....1S|Sharma, V;Bhattacharya, D;Bhalerao, V;Rao, A;Vadawale, S|GRB 180103A: AstroSat CZTI detection.|0
+2018GCN.22312....1S|Sharma, V;Bhattacharya, D;Bhalerao, V;Rao, A;Vadawale, S|GRB 171223A: AstroSat CZTI detection.|0
+2018GCN.22313....1S|Sharma, V;Bhattacharya, D;Bhalerao, V;Rao, A;Vadawale, S|GRB 171227A: AstroSat CZTI detection.|0
+2018GCN.22363....1S|Sharma, V;Bhalerao, V;Bhattacharya, D;Rao, A;Vadawale, S|GRB 180113A: AstroSat CZTI detection.|0
+2018GCN.22364....1S|Sharma, V;Bhattacharya, D;Bhalerao, V;Rao, A;Vadawale, S|GRB 180113B: AstroSat CZTI detection.|0
+2018GCN.22370....1S|Sharma, V;Bhalerao, V;Bhattacharya, D;Rao, A;Vadawale, S|GRB 180120A: AstroSat CZTI detection.|0
+2018GCN.22421....1S|Sharma, Y;Sharma, V;Bhalerao, V;Bhattacharya, D;Rao, A;Vadawale, S|GRB 180112A: AstroSat CZTI detection.|0
+2018GCN.22441....1S|Sharma, V;Bhattacharya, D;Bhalerao, V;Rao, A;Vadawale, S|GRB 180218A: AstroSat CZTI detection.|0
+2018GCN.22476....1S|Sharma, V;Bhattacharya, D;Bhalerao, V;Rao, A;Vadawale, S|GRB 180305A: AstroSat CZTI detection.|0
+2018GCN.22515....1S|Sharma, V;Bhattacharya, D;Bhalerao, V;Rao, A;Vadawale, S|GRB 180314A: AstroSat CZTI detection.|0
+2018GCN.22557....1S|Sharma, V;Bhalerao, V;Bhattacharya, D;Rao, A;Vadawale, S|GRB180325A: AstroSat CZTI detection.|0
+2018GCN.22645....1S|Sharma, V;Bhalerao, V;Bhattacharya, D;Rao, A;Vadawale, S|GRB 180404B: AstroSat CZTI detection.|0
+2018GCN.22900....1S|Sharma, V;Vibhute, A;Bhattacharya, D;Bhalerao, V;Rao, A;Vadawale, S|GRB 180703A: AstroSat CZTI detection.|0
+2018GCN.22901....1S|Sharma, V;Vibhute, A;Bhattacharya, D;Bhalerao, V;Rao, A;Vadawale, S|GRB 180704A: AstroSat CZTI detection.|0
+2018GCN.23002....1S|Sharma, V;Bhattacharya, D;Bhalerao, V;Rao, A;Vadawale, S|GRB 180711A: AstroSat CZTI detection.|0
+2018GCN.23012....1S|Sharma, V;Bhattacharya, D;Bhalerao, V;Rao, A;Vadawale, S|GRB 180715A: AstroSat CZTI detection.|0
+2018GCN.23013....1S|Sharma, V;Bhattacharya, D;Bhalerao, V;Rao, A;Vadawale, S|GRB 180715B: AstroSat CZTI detection.|0
+2018GCN.23099....1S|Sharma, V;Bhattacharya, D;Bhalerao, V;Rao, A;Vadawale, S|GRB 180723A: AstroSat CZTI detection.|0
+2018GCN.23100....1S|Sharma, V;Bhattacharya, D;Bhalerao, V;Rao, A;Vadawale, S|GRB 180724A: AstroSat CZTI detection.|0
+2018GCN.23102....1S|Sharma, V;Bhattacharya, D;Bhalerao, V;Rao, A;Vadawale, S|GRB 180728A: AstroSat CZTI detection.|0
+2018GCN.23122....1S|Sharma, V;Vibhute, A;Bhattacharya, D;Bhalerao, V;Rao, A;Vadawale, S|GRB 180806A: AstroSat CZTI detection.|0
+2018GCN.23144....1S|Sharma, V;Bhalerao, V;Bhattacharya, D;Rao, A;Vadawale, S|GRB 180809B: AstroSat CZTI detection.|0
+2018GCN.23191....1K|Khanam, T;Sharma, V;Bhattacharya, D;Bhalerao, V;Rao, A;Vadawale, S|GRB 180828A: AstroSat CZTI detection.|0
+2018GCN.23248....1S|Sharma, V;Khanam, T;Bhattacharya, D;Bhalerao, V;Rao, A;Vadawale, S|GRB 180914A: AstroSat CZTI detection.|0
+2018GCN.23250....1K|Khanam, T;Sharma, V;Bhattacharya, D;Bhalerao, V;Rao, A;Vadawale, S|GRB 180914B: AstroSat CZTI detection.|0
+2018GCN.23304....1S|Sharma, V;Khanam, T;Bhalerao, V;Bhattacharya, D;Rao, A;Vadawale, S|GRB 180925A: Astrosat CZTI detection.|0
+2018GCN.23395....1K|Khanam, T;Bhalerao, V;Sharma, V;Vibhute, A;Bhattacharya, D;Rao, A;Vadawale, S|GRB 181026A: AstroSat CZTI detection.|0
+2018GCN.23436....1S|Sharma, V;Khanam, T;Bhattacharya, D;Bhalerao, V;Rao, A;Vadawale, S|GRB 181020A: AstroSat CZTI detection.|0
+2018GCN.23438....1S|Sharma, V;Bhattacharya, D;Bhalerao, V;Rao, A;Vadawale, S|GRB 181119A: AstroSat CZTI detection.|0
+2018GCN.23447....1S|Sharma, V;Bhattacharya, D;Bhalerao, V;Rao, A;Vadawale, S|GRB 181121A: AstroSat CZTI detection.|0
+2018GCN.23501....1K|Khanam, T;Sharma, V;Vibhute, A;Bhalerao, V;Bhattacharya, D;Rao, A;Vadawale, S|GRB 181201A: AstroSat CZTI detection.|0
+2018GCN.23511....1S|Sharma, Y;Bhalerao, V;Khanam, T;Sharma, V;Vibhute, A;Bhattacharya, D;Rao, A;Vadawale, S|GRB 180112B: AstroSat CZTI detection.|0
+2018GCN.23566....1S|Sharma, V;Bhattacharya, D;Bhalerao, V;Rao, A;Vadawale, S|GRB 181222A: AstroSat CZTI detection.|0
+2018IAUS..337..309B|Basu, A;Joshi, B;Bhattacharya, D|Simultaneous Radio and X-Ray observations of Crab Pulsar|1
+2018NatAs...2...50V|Vadawale, S;Chattopadhyay, T;Mithun, N;Rao, A;Bhattacharya, D;Vibhute, A;Bhalerao, V;Dewangan, G;Misra, R;Paul, B;Basu, A;Joshi, B;Sreekumar, S;Samuel, E;Priya, P;Vinod, P;Seetha, S|Phase-resolved X-ray polarimetry of the Crab pulsar with the AstroSat CZT Imager|17
+2018NatAs...2..428V|Vadawale, S;Chattopadhyay, T;Mithun, N;Rao, A;Bhattacharya, D;Vibhute, A;Bhalerao, V;Dewangan, G;Misra, R;Paul, B;Basu, A;Joshi, B;Sreekumar, S;Samuel, E;Priya, P;Vinod, P;Seetha, S|Author Correction: Phase-resolved X-ray polarimetry of the Crab pulsar with the AstroSat CZT Imager|0
+2018arXiv180206782H|Hasan, P|The Enigma of Star Formation at High Galactic Latitudes|0
+2018arXiv181003187S|Shah, P|Standardization in the UV with Astrosat and its issues related to star cluster studies|0
+2018cosp...42E.260B|Belloni, T|Fast variability in black-hole binaries: accretion and General Relativity|0
+2018cosp...42E.261B|Belloni, T;Rao, A;Bhattacharya, D|GRS 1915+105 and MAXI J1535-571 observed by Astrosat|0
+2018cosp...42E.299B|Beri, A;Gandhi, P;Charles, P;Ho, W;Altamirano, D;Raichur, H;Maitra, C;Middleton, M|Super-Eddington X-ray pulsar Swift J0243.6+6124 as seen with AstroSat|0
+2018cosp...42E.333B|Bhattacharya, D|Multi-wavelength facilities for Neutron Star research|0
+2018cosp...42E.575C|Chang, H;Liu, C;Shang, J|Search for serendipitous Trans-Neptunian Object occultation in X-rays|0
+2018cosp...42E.583C|Charles, P;Maccarone, T;Dewangan, G;Buckley, D;Odendaal, A;Rajoelimanana, A|Transient supersoft X-ray binaries in the Magellanic Clouds observed with SALT and ASTROSAT|0
+2018cosp...42E1567I|Islam, N;Paul, B|Orbital resolved spectroscopy of GX 301-2: wind diagnostics|0
+2018cosp...42E1568I|Islam, N;Paul, B|A curious case of HMXB 4U 1700-37|0
+2018cosp...42E2127M|Maitra, C;Paul, B;Haberl, F;Vasilopoulos, G;Sreenandini, A|Timing and Spectral studies of SXP 15.3 near its Eddington luminosity|0
+2018cosp...42E2776R|Raman, G;Paul, B;Bahal, V;Iyer, N|Detection of type-1 bursts from the Galactic Center using Astrosat-LAXPC|0
+2018cosp...42E2804R|Rawat, D|Study of Timing Evolution from Non-Variable to Structered Large-Amplitude Variability Transition in GRS 1915+105 Using AstroSat/LAXPC|0
+2018cosp...42E3258S|Stevens, A;Uttley, P;Altamirano, D|Phase-resolved spectroscopy of the lower kHz QPO in 4U1608-52|0
+2018mgm..conf.3283D|Debnath, D;Chakrabarti, S;Mondal, S;Jana, A;Molla, A;Chatterjee, D|Possible ASTROSAT observation of transient black hole candidates to study spectral and timing properties with TCAF solution|0
+2018vels.confE..43R|Rampazzo, R;Mazzei, P;Marino, A;Cattapan, A;Ciroi, S;Iodice, E;Grado, A;Held, E;Limatola, L;Spavone, M|In the Shade of Dorado Group Giants: Tracing the Eventful Life of Member Galaxies in Optical and Far UV|1
+2017AAS...22923816R|Remillard, R;Steiner, J;Miller, J;Homan, J;Eikenberry, S;Kara, E;Pasham, D;Uttley, P;Nicer Science Team|Science Advancements for Black Hole Binaries from Observations with NICER|0
+2017ATel10452....1R|Ramadevi, M;Ravishankar, B;Sarwade, A;Vaishali, S;Hasan, M;Agarwal, V;Baby, B;Bhattacharya, D;Seetha, S;Agarwal, A|SSM on AstroSat detects neutron star X-ray transient, Aql_X-1 in its outburst|0
+2017ATel10501....1M|Misra, K;George, K;Dastidar, R;Gangopadhyay, A|AstroSat UVIT FUV detection of SN 2017eaw|0
+2017CSci..113..579S|Seetha, S;Megala, S|Overview of the AstroSat mission|0
+2017CSci..113..583T|Tandon, S;Ghosh, S;Hutchings, J;Stalin, C;Subramaniam, A|Ultraviolet Imaging Telescope on AstroSat|0
+2017CSci..113..587S|Singh, K;Dewangan, G;Chandra, S;Bhattacharayya, S;Chitnis, V;Stewart, G;Westergaard, N|Soft X-ray focusing Telescope aboard AstroSat: early results|1
+2017CSci..113..591Y|Yadav, J;Agrawal, P;Antia, H;Manchanda, R;Paul, B;Misra, R|Large Area X-ray Proportional Counter instrument on AstroSat|1
+2017CSci..113..595R|Rao, A;Bhattacharya, D;Bhalerao, V;Vadawale, S;Sreekumar, S|Cadmium─Zinc─Telluride Imager on-board AstroSat: a multi-faceted hard X-ray instrument|2
+2017CSci..113..599R|Ramadevi, M;Seetha, S;Bhattacharya, D;Ravishankar, B;Sitaramamurthy, N;Meena, G;Ramakrishna Sharma, M;Kulkarni, R;Chandra Babu, V;Kumar,;Singh, B;Jain, A;Yadav, R;Vaishali, S;Ashoka, B;Agarwal, A;Balaji, K;Kumar, M;Kulshresta, P;Agarwal, P;Sebastian, M|Scanning Sky Monitor on-board AstroSat|0
+2017CSci..113..602S|Singh, K;Bhattacharya, D|Multi-colour hues of the Universe observed with AstroSat|0
+2017CSci..113..682O|Omar, A;Kumar, B;Gopinathan, M;Sagar, R|Scientific capabilities and advantages of the 3.6 meter optical telescope at Devasthal, Uttarakhand|6
+2017GCN.20351....1K|Kumar, V;Bhattacharya, D;Bhalerao, V;Rao, A;Vadawale, S|GRB 170101B: Astrosat CZTI detection.|0
+2017GCN.20368....1S|Sharma, V;Bhalerao, V;Bhattacharya, D;Rao, A;Vadawale, S|GRB 170102A: Astrosat CZTI detection.|0
+2017GCN.20389....1S|Sharma, V;Bhalerao, V;Bhattacharya, D;Rao, A;Vadawale, S|GRB 170105A: AstroSat CZTI detection.|4
+2017GCN.20412....1B|Bhalerao, V;Bhattacharya, D;Rao, A;Vadawale, S|GRB170105A: AstroSat CZTI localisation.|1
+2017GCN.20466....1S|Sharma, V;Bhalerao, V;Bhattacharya, D;Rao, A;Vadawale, S|GRB 170115B: AstroSat CZTI (Veto) detection.|0
+2017GCN.20511....1S|Sharma, V;Bhattacharya, D;Bhalerao, V;Rao, A;Vadawale, S|GRB 170121B: AstroSat CZTI detection.|0
+2017GCN.20537....1S|Sharma, V;Bhattacharya, D;Bhalerao, V;Rao, A;Vadawale, S|GRB 170126A: AstroSat CZTI detection.|0
+2017GCN.20561....1S|Sharma, V;Bhattacharya, D;Bhalerao, V;Rao, A;Vadawale, S|GRB 170127C: AstroSat CZTI detection.|0
+2017GCN.20642....1S|Sharma, V;Bhattacharya, D;Bhalerao, V;Rao, A;Vadawale, S|GRB 170207A: AstroSat CZTI detection.|0
+2017GCN.20670....1S|Sharma, V;Bhattacharya, D;Bhalerao, V;Rao, A;Vadawale, S|GRB 170209A: AstroSat CZTI detection.|0
+2017GCN.20671....1S|Sharma, V;Bhattacharya, D;Bhalerao, V;Rao, A;Vadawale, S|GRB 170208A: AstroSat CZTI detection.|0
+2017GCN.20788....1S|Sharma, V;Bhalerao, V;Bhattacharya, D;Rao, A;Vadawale, S|GRB 170228A: AstroSat CZTI detection.|0
+2017GCN.20872....1S|Sharma, V;Bhattacharya, D;Bhalerao, V;Rao, A;Vadawale, S|GRB 170311B: AstroSat CZTI detection.|0
+2017GCN.20969....1S|Sharma, V;Bhalerao, V;Bhattacharya, D;Rao, A;Vadawale, S|GRB 170330A: AstroSat CZTI detection.|0
+2017GCN.21006....1S|Sharma, V;Bhalerao, V;Bhattacharya, D;Rao, A;Vadawale, S|GRB 170402A: AstroSat CZTI detection.|0
+2017GCN.21327....1S|Sharma, V;Bhalerao, V;Bhattacharya, D;Rao, A;Vadawale, S|GRB 170705A: AstroSat CZTI detection.|0
+2017GCN.21339....1S|Sharma, V;Bhalerao, V;Bhattacharya, D;Rao, A;Vadawale, S|GRB 170712A: AstroSat CZTI detection.|0
+2017GCN.21348....1S|Sharma, V;Bhattacharya, D;Bhalerao, V;Rao, A;Vadawale, S|GRB 170702A: AstroSat CZTI detection.|0
+2017GCN.21397....1S|Sharma, V;Bhattacharya, D;Bhalerao, V;Rao, A;Vadawale, S|GRB 170726A: AstroSat CZTI detection.|0
+2017GCN.21502....1S|Sharma, V;Bhalerao, V;Bhattacharya, D;Rao, A;Vadawale, S|GRB 170805A: AstroSat CZTI detection.|0
+2017GCN.21702....1S|Sharma, V;Bhalerao, V;Bhattacharya, D;Rao, A;Vadawale, S|GRB 170822A: AstroSat CZTI detection.|0
+2017GCN.21773....1B|Bhalerao, V;Sharma, V;Bhattacharya, D;Rao, A;Vadawale, S|GRB 170830A: Astrosat CZTI detection.|0
+2017GCN.21856....1S|Sharma, V;Bhalerao, V;Bhattacharya, D;Rao, A;Vadawale, S|GRB 170906A: AstroSat CZTI(Veto) detection.|0
+2017GCN.21922....1S|Sharma, V;Bhattacharya, D;Bhalerao, V;Rao, A;Vadawale, S|GRB 170921B: AstroSat CZTI detection.|0
+2017GCN.21990....1S|Sharma, V;Bhattacharya, D;Bhalerao, V;Rao, A;Vadawale, S|GRB171010A: AstroSat CZTI detection.|0
+2017GCN.22103....1S|Sharma, V;Bhattacharya, D;Bhalerao, V;Rao, A;Vadawale, S|GRB 171103A: AstroSat CZTI detection.|0
+2017GCN.22143....1S|Sharma, V;Bhattacharya, D;Bhalerao, V;Rao, A;Vadawale, S|GRB 171120A: AstroSat CZTI detection.|0
+2017GCN.22163....1S|Sharma, V;Bhattacharya, D;Bhalerao, V;Rao, A;Vadawale, S|GRB 171119A: AstroSat CZTI detection.|0
+2017GCN.22168....1S|Sharma, V;Bhattacharya, D;Bhalerao, V;Rao, A;Vadawale, S|GRB 171124A: AstroSat CZTI detection.|0
+2017GCN.22176....1S|Sharma, V;Bhalerao, V;Bhattacharya, D;Rao, A;Vadawale, S|GRB 171126A: AstroSat CZTI detection.|0
+2017arXiv170806364G|Gandhi, P;Degenaar, N;Done, C;Watson, M|Realising the full potential of X-ray astronomy in the UK|0
+2017arXiv171105422P|Pandey, S;Yadav, R;Nanjappa, N;Yadav, S;Krishna Reddey, B;Sahu, S;Srinivasan, R|First-light instrument for the 3.6m DOT: 4Kx4K CCD Imager|0
+2017symm.conf..323P|Paul, B|Some early results from Astrosat|0
+2017yCat..18330244S|Stevens, A;Fiege, J;Leahy, D;Morsink, S|VizieR Online Data Catalog: Pulse profiles for simulated thermonuclear bursts (Stevens+, 2016)|0
+2016ATel.9515....1Y|Yadav, J;Chauhan, J;Agrawal, P;Antia, H;Pahari, M;Chitnis, V;Misra, R;Dedhia, D;Katoch, T;Madhwani, P;Manchanda, R;Paul, B;Shah, P;Altamirano, D;Gandhi, P;Navalgund, K;Sarma, K;Seetha, S;Subbarao, K|AstroSat/LAXPC observed 4U 1630-472 on very first day of a new outburst|2
+2016GCN.19011....1V|Vadawale, S;Chattopadhyay, T;Mithun, N;Rao, A;Bhattacharya, D;Bhalerao, V|GRB160131A: detection of polarisation by Astrosat CZTI.|2
+2016GCN.19519....1B|Bhalerao, V;Kumar, V;Bhattacharya, D;Rao, A;Vadawale, S|GRB 160508A: Astrosat CZTI detection.|0
+2016GCN.19520....1B|Bhalerao, V;Kumar, V;Bhattacharya, D;Rao, A;Vadawale, S|GRB 160525C: Astrosat CZTI detection.|0
+2016GCN.19661....1B|Bhalerao, V;Kumar, V;Bhattacharya, D;Rao, A;Vadawale, S|GRB 1600623A: Astrosat CZTI detection.|0
+2016GCN.19739....1B|Bhalerao, V;Kumar, V;Bhattacharya, D;Rao, A;Vadawale, S|GRB160703A: Astrosat CZTI detection.|0
+2016GCN.19740....1B|Bhalerao, V;Kumar, V;Bhattacharya, D;Rao, A;Vadawale, S|GRB160709A: Astrosat CZTI detection of short GRB.|1
+2016GCN.19741....1B|Bhalerao, V;Kumar, V;Bhattacharya, D;Rao, A;Vadawale, S|GRB160720A: Astrosat CZTI detection.|0
+2016GCN.19782....1B|Bhalerao, V;Kumar, V;Bhattacharya, D;Rao, A;Vadawale, S|GRB160802A - Astrosat CZTI detection.|0
+2016GCN.19867....1B|Bhalerao, V;Kumar, V;Bhattacharya, D;Rao, A;Vadawale, S|GRB160821A: Astrosat CZTI (veto) detection.|1
+2016GCN.19942....1B|Bhalerao, V;Kumar, V;Bhattacharya, D;Rao, A;Vadawale, S|GRB160917A: AstroSat CZTI detection.|0
+2016GCN.19943....1B|Bhalerao, V;Kumar, V;Bhattacharya, D;Rao, A;Vadawale, S|GRB160824B: AstroSat CZTI detection.|0
+2016GCN.19949....1B|Bhalerao, V;Kumar, V;Bhattacharya, D;Rao, A;Vadawale, S|GRB160910A: AstroSat CZTI detection.|0
+2016GCN.19996....1K|Kumar, V;Sharma, V;Bhattacharya, D;Bhalerao, V;Rao, A;Vadawale, S|GRB161004B: AstroSat CZTI detection.|0
+2016GCN.20060....1K|Kumar, V;Sharma, V;Bhattacharya, D;Bhalerao, V;Rao, A;Vadawale, S|GRB161015A: AstroSat CZTI detection.|0
+2016GCN.20114....1S|Sharma, V;Kumar, V;Bhattacharya, D;Bhalerao, V;Rao, A;Vadawale, S|GRB161023A: AstroSat CZTI detection.|0
+2016GCN.20213....1S|Sharma, V|GRB161129A : Astrosat CZTI detection.|0
+2016GCN.20214....1S|Sharma, V;Bhattacharya, D;Bhalerao, V;Rao, A;Vadawale, S|GRB161129A : Astrosat CZTI detection.|0
+2016GCN.20235....1S|Sharma, V;Bhalerao, V;Bhattacharya, D;Rao, A;Vadawale, S|GRB 161202A: Astrosat CZTI detection.|0
+2016GCN.20241....1S|Sharma, V;Bhattacharya, D;Bhalerao, V;Rao, A;Vadawale, S|GRB 161203A: Astrosat CZTI (Veto) detection.|0
+2016GCN.20324....1K|Kumar, V;Bhattacharya, D;Bhalerao, V;Rao, A;Vadawale, S|GRB 161218B: Astrosat CZTI detection.|0
+2016SPIE.9905E..1DY|Yadav, J;Agrawal, P;Antia, H;Chauhan, J;Dedhia, D;Katoch, T;Madhwani, P;Manchanda, R;Misra, R;Pahari, M;Paul, B;Shah, P|Large Area X-ray Proportional Counter (LAXPC) instrument onboard ASTROSAT|27
+2016SPIE.9905E..1ES|Singh, K;Stewart, G;Chandra, S;Mukerjee, K;Kotak, S;Beardmore, A;Chitnis, V;Dewangan, G;Bhattacharyya, S;Mirza, I;Kamble, N;Navalkar, V;Shah, H;Vishwakarma, S;Koyande, J|In-orbit performance of SXT aboard AstroSat|20
+2016SPIE.9905E..1FS|Subramaniam, A;Tandon, S;Hutchings, J;Ghosh, S;George, K;Girish, V;Kamath, P;Kathiravan, S;Kumar, A;Lancelot, J;Mahesh, P;Mohan, R;Murthy, J;Nagabhushana, S;Pati, A;Postma, J;Rao, N;Sankarasubramanian, K;Sreekumar, P;Sriram, S;Stalin, C;Sutaria, F;Sreedhar, Y;Barve, I;Mondal, C;Sahu, S|In-orbit performance of UVIT on ASTROSAT|15
+2016SPIE.9905E..1GV|Vadawale, S;Rao, A;Bhattacharya, D;Bhalerao, V;Dewangan, G;Vibhute, A;Mithun, N;Chattopadhyay, T;Sreekumar, S|In-orbit performance AstroSat CZTI|5
+2016SPIE.9905E..4DC|Chattopadhyay, T;Vadawale, S;Rao, A;Bhattacharya, D;Mithun, N;Bhalerao, V|Line profile modelling for multi-pixel CZT detectors|3
+2016acps.confE...7S|Singh, K|The Impact of the Indian X-ray satellite, AstroSat, on Accretion Processes in Cosmic Sources|0
+2016arXiv160806051R|Rao, A;Singh, K;Bhattacharya, D|AstroSat - a multi-wavelength astronomy satellite|7
+2016arXiv161202535A|Annapurni, S;Sindhu, N;Tandon S., N;Kameswara, R;Postma, J;Patrick, C;Hutchings, J;Ghosh S., K;K., G;Girish, V;Mohan, R;Murthy, J;Sankarasubramanian, K;Stalin C., S;Sutaria, F;Mondal, C;Sahu, S|A Hot Companion to a Blue Straggler in NGC188 as Revealed by the Ultra-violet Imaging Telescope (UVIT) on ASTROSAT|0
+2016ascl.soft07007M|Murthy, J;Rahna, P;Safonova, M;Sutaria, F;Gudennavar, S;Bubbly, S|JUDE: An Utraviolet Imaging Telescope pipeline|2
+2016cosp...41E..68A|Altamirano, D|The future of High-Frequency QPOs and the Spectral-timing Revolution|0
+2016cosp...41E.191B|Bhattacharya, D|Cyclotron Resonance in Accreting Pulsars|0
+2016cosp...41E.261B|Buckley, D;Marsh, T;Revnivtsev, M;Bonnet-Bidaud, J;Mouchet, M;Pal Singh, K;Semena, A;Dhillon, V;Breytenbach, H;Irawati, P;Potter, S|Probing Accretion in Magnetic Cataclysmic Variables from High Time Resolution Optical Photometry and X-ray Observations from ASTROSAT|0
+2016cosp...41E1126L|Laurent, P;Rodriguez, J;Gotz, D;Limousin, O;Jourdain, E;Roques, J;Savchenko, V;Gouiffes, C|Overview of recent INTEGRAL polarimetric observations|0
+2016cosp...41E1227M|Mallick, L;Dewangan, G;Misra, R|RMS Spectral Modelling - a powerful tool to probe the origin of variability in Active Galactic Nuclei|0
+2016cosp...41E1495P|Pahari, M;Singh Yadav, J;Antia, H;Misra, R|ASTROSAT/LAXPC observations of X-Ray binaries: A new window to hard X-Ray science aspects|0
+2016cosp...41E1588P|Pradhan, P;Paul, B;Manchanda, R;Jain, C;Islam, N;Maitra, C;Pahari, M;Singh Yadav, J;Katoch, T;Antia, H;Beri, A;Madhwani, P;Raman, G;Bahal, V;Mate, S;Agrawal, P;Dedhia, D;Chauhan, J;Shah, P|Timing and spectral properties of Vela X-1 with ASTROSAT-LAXPC|0
+2016cosp...41E1817S|Sinha, A;Sahayanathan, S;Chitnis, V|Constraining the particle spectrum in blazar jets: importance of the hard X-ray spectrum|0
+2016cosp...41E1833S|Somasundaram, S|The ASTROSAT mission and study of X-ray binaries.|0
+2016cosp...41E1970V|Vadawale, S|Exploring hard X-ray polarimetry with Astrosat-CZTI|0
+2016int..workE.....||The 11th INTEGRAL Conference: Gamma-Ray Astrophysics in Multi-Wavelength Perspective|0
+2016pyas.confE...6S|Stevens, A;Huppenkothen, D|STINGRAY: Time Series Methods For Astronomical X-ray Data That Aren't Fishy At All!|0
+2016xnnd.confE..98L|Laycock, S;Yang, J;Cappallo, R;Christodoulou, D;Steiner, J|Highlighting XMM-Newton's Role in Time Domain Studies of Neutron Star and Black Hole X-ray binaries in Nearby Galaxies|0
+2015ASInC..12...17R|Rao, A|Hard X-ray spectro-polarimetry of Black Hole sources?|0
+2015ASInC..12...29S|Singh, K|Multi-wavelength studies of Magnetic Cataclysmic Variables|0
+2015ASInC..12..159V|Vadawale, S|Understanding galactic black hole binary systems in the era of Astrosat and beyond|0
+2015ATel.8185....1R|Ramadevi, M;Ravishankar, B;Nandi, A;Girish, V;Singh, B;Jain, A;Agrawal, V;Agarwal, A;Bhattacharya, D;Seetha, S;Sharma, M;Sharan, V;Babu, V;Yadav, R;Meena, G;Murthy, N;Kumar,;Ashoka, B;Kulkarni, R;Iyer, N;Radhika, D;Kushwaha, A;Balaji, K;Nagesh, G;Kumar, M;Gaan, D;Kulshresta, P;Agarwal, P;Sebastin, M;Rajarajan, A;Rao, S;Pandiyan,;R.,;Rao, K;Rao, C;Sarma, K|Detection of beta-class variability in Black Hole source GRS 1915+105 by Astrosat Scanning Sky Monitor|4
+2015GCN.18422....1B|Bhalerao, V;Bhattacharya, D;Rao, A;Vadawale, S|GRB 151006A: Astrosat CZTI detection.|5
+2015MmSAI..86...54B|Buckley, D;Pal Singh, K|Multi-wavelength studies of accretion phenomena with SALT and ASTROSAT|2
+2015cxo..prop.5042B|Bhattacharyya, S|Probing disk wind and other properties of 4U 1630-47|0
+2015ebha.confE..98L|Leiter, K;Kadler, M;Wilms, J;Braatz, J;Grossberger, C;Krauss, F;Kreikenbohm, A;Langejahn, M;Litzinger, E;Markowitz, A|Highlighting XMM-Newton's Role in Time Domain Studies of Neutron Star and Black Hole X-ray binaries in Nearby Galaxies|0
+2014ASPC..485...69L|Leahy, D|The ASTROSAT/UVIT Exposure Time Calculator|0
+2014SPIE.9144E..07H|Hutchings, J|The UVIT telescopes on board the ISRO Astrosat Observatory|0
+2014SPIE.9144E..0WL|Laurin, D;Ouellet, A;Dupuis, J;Chicoine, R|Space astronomy and astrophysics program by CSA|0
+2014SPIE.9144E..1SS|Singh, K;Tandon, S;Agrawal, P;Antia, H;Manchanda, R;Yadav, J;Seetha, S;Ramadevi, M;Rao, A;Bhattacharya, D;Paul, B;Sreekumar, P;Bhattacharyya, S;Stewart, G;Hutchings, J;Annapurni, S;Ghosh, S;Murthy, J;Pati, A;Rao, N;Stalin, C;Girish, V;Sankarasubramanian, K;Vadawale, S;Bhalerao, V;Dewangan, G;Dedhia, D;Hingar, M;Katoch, T;Kothare, A;Mirza, I;Mukerjee, K;Shah, H;Shah, P;Mohan, R;Sangal, A;Nagabhusana, S;Sriram, S;Malkar, J;Sreekumar, S;Abbey, A;Hansford, G;Beardmore, A;Sharma, M;Murthy, S;Kulkarni, R;Meena, G;Babu, V;Postma, J|ASTROSAT mission|66
+2014cosp...40E1941M|Maitra, C;Paul, B|Understanding Cyclotron Resonance Scattering Features (CRSFs) in accretion powered pulsars through correlated timing and spectral studies|0
+2014nss..confE...1V|Vadawale, S;Chattopadhyay, T;Rao, A|Prospects of hard X-ray polarimetry with Astrosat-CZTI|0
+2013ASInC...8...63R|Rao, A|Observing galactic black hole sources in hard X-rays|0
+2013ASInC...9...80S|Sreejith, A;Safanova, M;Mohan, R;Murthy, J|Modelling UV sky for future UV missions|0
+2013ASInC...9...96S|Sreekumar, P|Concept for a near-term low-energy X-ray Spectroscopy and timing mission (XSPECT)|0
+2013ASInC...9...97R|Radhika, D;Jain, A;Signh, B;Singh,;Yadav, R;Ravishankar, B;Ramadevi, M;Seetha, S|Spectral response of scanning sky monitor flight module|0
+2013ASInC...9...98K|Kumar, B|Factory verification results and status of 3.6 m Devasthal Optical Telescope|0
+2013ASInC...9..123R|Ravichandran, S;Preethi, K;Safonova, M;Murthy, J|Extinction maps with UVIT and related work|0
+2013arXiv1304.0235S|Sagar, R;Kumar, B;Omar, A|Optical Astronomical Facilities at Nainital, India|2
+2012AAS...21921805C|Chakrabarty, D|Future Opportunities for X-ray Timing After RXTE|0
+2012AAS...22013507L|Leahy, D;Postma, J;Hutchings, J|Characterization of the Ultraviolet Imaging Telescope (UVIT) Detector Performance at the University of Calgary|0
+2012ASInC...4..165S|Subramaniam, A|Upcoming Indian facility: UVIT on ASTROSAT|0
+2012ASPC..465..392R|Robert, C;Couture, P;Goulet, M;Drissen, L|The Ultraviolet Imaging Telescope Onboard ASTROSAT to Study Young Stellar Populations|0
+2012IAUS..285..159W|White, N|Next-Generation X-Ray Astronomy|0
+2012SPIE.8443E..1NK|Kumar, A;Ghosh, S;Hutchings, J;Kamath, P;Kathiravan, S;Mahesh, P;Murthy, J;Nagbhushana, S;Pati, A;Rao, M;Rao, N;Sriram, S;Tandon, S|Ultra Violet Imaging Telescope (UVIT) on ASTROSAT|25
+2012SPIE.8443E..4RK|Kumar, A;Ghosh, S;Kamath, P;Postma, J;Kathiravan, S;Mahesh, P;Nagbhushana, S;Navalgund, K;Rajkumar, N;Rao, M;Sarma, K;Sriram, S;Stalin, C;Tandon, S|Tests and calibration on ultra violet imaging telescope (UVIT)|2
+2012cosp...39...92B|Balman, S;Revnivtsev, M|Accretion Flow in the inner Accretion Discs of Cataclysmic Variables|0
+2012cosp...39...98B|Barret, D|Maximum Likelihood fitting of Fourier spectra: Application to ASTROSAT data|0
+2012cosp...39..127B|Belloni, T|On the path to strong gravity through timing accreting compact objects|0
+2012cosp...39..128B|Belloni, T|Black Hole X-ray Binary variability|0
+2012cosp...39..171B|Bhattacharya, D|Studies of Accreting Neutron Stars with ASTROSAT|0
+2012cosp...39..172B|Bhattacharya, D|Cyclotron Lines in Accretion Powered Pulsars|1
+2012cosp...39..295C|Chakrabarty, D|Understanding the Spin Distribution of Neutron Stars in LMXBs|0
+2012cosp...39..312C|Charles, P|Long-term variability of X-ray binaries and the role of ASTROSAT|0
+2012cosp...39..351C|Cocchi, M|Characterising the low/hard spectral states of Neutron-Star low-mass X-ray binaries.|0
+2012cosp...39..365C|Cote, P|Galaxy Clusters, Near and Far: The Ultraviolet Perspective|0
+2012cosp...39..474D|Dotani, T|What ASTROSAT and ASTRO-H together can do to understand accreting neutron stars and black holes?|0
+2012cosp...39..902K|Kawai, N|Multiwavelength observations of black hole binaries discovered by MAXI|0
+2012cosp...39.1050L|Leahy, D|The UVIT Count Rate Calculator and its Applications for Observation Planning with ASTROSAT/UVIT|0
+2012cosp...39.1289M|Mukherjee, A;Bhattacharyya, S|Energy dependence of kilohertz quasi-periodic oscillations|0
+2012cosp...39.1361N|Ng, S|Pulsar Wind Nebulae from Radio to Hard X-rays|0
+2012cosp...39.1463P|Pati, A|UVIT on ASTROSAT: Science Prospects|0
+2012cosp...39.1468P|Paul, B;Saripalli, L;Archana, M|Simultaneous X-ray and optical observations of thermonuclear bursts in the LMXB EXO 0748-676 and prospects with ASTROSAT|0
+2012cosp...39.1574R|Rao, A|Studies of AGN and accreting stellar-mass black holes with Astrosat|0
+2012cosp...39.1592R|Ravindranath, S|Deep UV imaging Surveys with HST: Cosmic Star Formation, UV escape fraction, and Galaxy Growth|0
+2012cosp...39.1671S|Santangelo, A;Schonherr, G;Pottschmidt, K;Kretschmar, P;Caballero, I;Kreykenbohm, I;Ferrigno, C;Doroshenko, V;Klochkov, D;Wilms, J|Broad band spectra and time variability of accreting X-ray pulsars|0
+2012cosp...39.1827P|Pal Singh, K|Studies of Accreting White Dwarfs with Astrosat|0
+2012cosp...39.1859S|Somasundaram, S|ASTROSAT instruments, capabilities and status|0
+2012cosp...39.1902S|Subramaniam, A;Kasiviswanathan, S;Tandon, S;Sutaria, F;Cheliah Subramonian, S;Girish, V|In orbit calibration plan for the UVIT on ASTROSAT|0
+2012cosp...39.1914S|Sutaria, F;Hutchings, J;Ghosh, S|Multi waveband science with UVIT &amp; X-ray instruments on Astrosat.|0
+2012cosp...39.1939T|Tandon, S;Subramaniam, A;Hutchings, J;Kasiviswanathan, S;Sangal, A;Ghosh, S;Subramanya, N;Postma, J;Sriram, S;Cheliah Subramonian, S|UVIT on ASTROSAT: Performance|0
+2012cosp...39.1958T|Thakkar, N;Moorthi, M;Gopala Krishna, B;Prashar, A;Srinivasan, T|Archive &amp; Data Management Activities for ISRO Science Archives|0
+2012cosp...39.2040U|Uttley, P|Decoding black hole X-ray variability using spectral-timing|0
+2012cosp...39.2043V|Vadawale, S;Rao, A|'pseudo' Phase resolved spectroscopy of "Hear-beat" oscillations in IGR J17091-3624 with simultaneous XMM-Newton and RXTE observations|0
+2012cosp...39.2062V|Vasudevan, R|Multi-wavelength studies of Active Galactic Nuclei|0
+2012cosp...39.2158W|Wilms, J|Broad Band Spectrum of Accreting X-ray Pulsars|0
+2012hcxa.confE.104S|Stewart, G|Astrosat|0
+2011AIPC.1381..208T|Takahashi, T|Future X-ray Missions to Study Relativistic Astrophysics|1
+2011ASInC...3...25B|Bhattacharya, D;Mukherjee, D|Probing neutron star evolution using cyclotron lines|0
+2011ASInC...3...53M|Manchanda, R|ASTROSAT: status and science|0
+2011SPIE.8147E..0YW|Westergaard, N|MT_RAYOR: a versatile raytracing tool for x-ray telescopes|4
+2011xru..conf...24S|Stewart, G;Astrosat Team|Astrosat|0
+2010ASInC...1..177M|Manchanda, R|Space astronomy in India: 43 years and counting|0
+2010ASInC...1..203S|Sagar, R;Kumar, B;Omar, A;Pandey, A|New initiatives in optical astronomy at ARIES|1
+2010ASInC...1..245T|Todmal, S;Ghosh, S;Ojha, D;Robin, A|Study of Galactic structure using ultra-violet surveys|0
+2010fym..confE..30P|Paul, B;Laxpc Team|Astrosat-Laxpc|0
+2009aaxo.conf..362P|Paul, B;LAXPC Team|ASTROSAT-LAXPC observations of MAXI transient sources|7
+2009essu.confE..80P|Paul, B|ASTROSAT prospects for a hard X-ray Survey|0
+2009rxte.prop95013.||Transient Millisecond X-Ray Pulsars in Outburst (core Program)|0
+2008AIPC.1053..201K|Kalemci, E;Tomsick, J;Migliari, S;Corbel, S;Markoff, S|Galactic black holes in the hard state, a multi-wavelength view of accretion and ejection|1
+2008BASIP..25...38N|Nath Goswami, J|Chandrayaan-1: India's first planetary science mission|0
+2008BASIP..25...80G|Gupta, K;Bangia, T;Kumar, T;Snehlata,;Sharma, N;Shukla, V|Development of 50 cm B-N Schmidt telescope at ARIES|0
+2008BASIP..25...83S|Sarkar, R;Mandal, S;Nandi, A;Debnath, D;Chakrabarti, S;Rao, A|Background simulation of the X-ray detectors using Geant4 toolkit|0
+2008ESASP.660E..54M|Maliet, E;Pawlak, D;Koeck, C;Beaufume, E|The AstroSat Production Line: From AstroSat 100 to AstroSat 1000|0
+2008cosp...37.2060M|Misra, R|Multi-wavelength temporal study of LMXB with ASTROSAT|0
+2008mqw..confE.....||VII Microquasar Workshop: Microquasars and Beyond|0
+2008rxte.prop94013.||Transient Millisecond X-Ray Pulsars in Outburst (core Program)|0
+2008rxte.prop94341M|McHardy, I|Continued Monitoring of MCG-6-30-15|0
+2007rxte.prop93013C|Chakrabarty, D|Transient Millisecond X-Ray Pulsars in Outburst|0
+2006ESASP.604..907A|Agrawal, P|Broad X-ray Spectral Band Studies with Astrosat|2
+2005ICRC....4..171A|Agrawal, P|Astrosat: The First Indian Astronomy Satellite with Multiwavelength Capability|1
+2004PThPS.155..305A|Agrawal, P|ASTROSAT: A Multiwavelength Indian Astronomy Satellite|2
+2004cosp...35.1203C|Chakravarty, S|Indian Space Science and Exploration Missions|0
+2004cosp...35.1419A|Agrawal, P;Dedhia, D;Madhwani, P;Manchanda, R;Paul, B;Shah, M;Shah, P|A Balloon-Borne Hard X-ray Astronomy Instrument|0
+2004cosp...35.1420A|Agrawal, P|ASTROSAT : A Broad Spectral Band Indian Astronomy Satellite|0
+2002APS..APRN17015B|Burrows, D;Schnopper, H;Turner, M;Singh, K|The soft X-ray telescope (SXT) on the Indian satellite, ASTROSAT|0
+2002cosp...34E.593A|Agrawal, P|ASTROSAT : A Broad Spectral Band Indian Astronomy Satellite|1
+2001ASPC..251..512A|Agrawal, P|ASTROSAT: A Broad Spectral Band Indian Astronomy Satellite|2

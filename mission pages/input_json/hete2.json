@@ -1,0 +1,57 @@
+{
+    "title": "The HETE-2 Satellite",
+    "name": "The HETE-2 Satellite",
+    "alttext": "Illustration of HETE-2",
+    "imagesize": 300,
+    "imageurl": "/Images/hete2/Hete_om3b.jpg",
+    "descript": "<p><b><font size=<\"+2\">H</font>ETE-2</b>, also known as the <b>High Energy Transient Explorer</b> was an international collaboration between USA, Japan, France, and Italy, headed by the Center for Space Research at MIT. It was successfully launched with a Pegasus launcher, on October 9 2000 from the Kwajalein missile range facility, an atoll in the Pacific ocean.</p>\n\n<p>HETE-2 was designed to detect and localize gamma-ray bursts (GRBs). The suite of instruments onboard allowed simultaneous observations of GRBs to be made in soft and medium X-ray and gamma-ray energies. HETE-2 computed the location of the GRB and transmitted the coordinates as soon as they were calculated. These coordinates were quickly distributed to ground-based observers to allow detailed studies of the initial phases of GRBs. HETE-2 also performed a survey of the X-ray sky.</p>",
+    "decade" : 2000,
+    "lifetime": "9 Oct 2000&ndash;Mar 2008",
+    "features":
+    [
+	"All instruments pointed in the anti-solar direction and shared a common field of view of &sim;1.5 steradians"
+    ],
+    "instruments":
+    [
+	{
+	    "name" : " Soft X-ray Camera (SXC)",
+	    "energy" : "0.5&ndash;14 keV",
+	    "resolution" : "&lt;30&Prime;",
+	    "fov" : "&sim;0.9 sr",
+	    "area" : "7.4 cm<sup>2</sup> each",
+	    "energy_resolution" : "46 eV at 525 eV<br>129 eV at 5.9 keV",
+	    "descript" : "Two CCD-based one-dimensional coded-aperture X-ray imagers, one along spacecraft X-direction, the other parallel to Y-direction."
+	},
+	{
+	    "name" : "Wide Field X-ray Monitor (WXM)",
+	    "energy" : "2&ndash;25 keV",
+	    "resolution" : "&lt;10&prime;",
+	    "area" : "175 cm<sup>2</sup>",
+	    "energy_resolution" : "&sim;22% at 8 keV",
+	    "descript" : "Two coded-mask one-dimensional position sensitive X-ray detectors oriented orthogonally to each other to measure X and Y positions independently."
+	},
+	{
+	    "name" : "French Gamma Ray Telescope (FREGATE)",
+	    "energy" : "6&ndash;400 keV",
+	    "fov" : "&sim;3 sr",
+	    "area" : "120 cm<sup>2</sup>",
+	    "energy_resolution" : "&sim;25% at 20 keV<br>&sim;9% at 662 keV",
+	    "descript" : "4 NaI(Tl) gamma-ray detectors"
+	}
+	    
+    ],
+    "highlights":
+    [
+	"Real-time localizations of &gt;80 GRBs with arcminute accuracy, enabling ground-based follow-up in optical, IR, and radio wavelengths. Prior to HETE-2, very few GRBs had identified optical counterparts",
+	"Confirmed that long GRBs are associated with the collapse of massive stars (&ldquo;collapsars&rdquo;)",
+	"Provided an observational bridge between BATSE on CGRO and later missions such as Swift"
+	
+    ],
+    "archive": "The HEASARC hosts the FREGATE GRB lightcurves and raw telemetry data",
+    "navigation": [
+	{
+	    "url" : "http://space.mit.edu/HETE/",
+	    "text" : "HETE-2 at MIT"
+	}
+    ]
+}

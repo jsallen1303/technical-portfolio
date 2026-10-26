@@ -1,0 +1,10 @@
+1990BAAS...22..751E|Edwards, B;Juda, M;McCammon, D;Plucinsky, P;Sanders, W;Zhang, J|Possible Absorption of the Diffuse X-Ray Background by a Nearby Interstellar Cloud|0
+1986wisc.reptR....M|McCammon, D;Cox, D;Kraushaar, W;Sanders, W|Cosmic X-ray physics|0
+1984NASCP2345..195M|McCammon, D|The Soft X-Ray Diffuse Background: Implications for the Nature of the Local Interstellar Medium|8
+1982STIN...8314033S|Sanders, W;Burrows, D;McCammon, D;Kraushaar, W|Possible contributions of supernova remnants to the soft X-ray diffuse background (0.1 - 1keV)|0
+1982STIN...8320892M|McCammon, D;Burrows, D;Sanders, W;Kraushaar, W|The soft X-ray diffuse background|0
+1979BAAS...11..776S|Sanders, W;Burrows, D;Kraushaar, W;McCammon, D|Spatial Distribution and Spectral Characteristics of the Soft X-Ray Diffuse Background|1
+1979BAAS...11R.723M|McCammon, D;Kraushaar, W;Sanders, W;Burrows, D|Spatial Distribution and Broad-Band Spectral Characteristics of the Diffuse X-ray Background, 0.1-1.0 keV|1
+1979BAAS...11S.723M|McCammon, D|Spatial Distribution and Broad-Band Spectral Characteristics of the Diffuse X-ray Background, 0.1-1.0 keV|0
+1972BAAS....4..220C|Coleman, P;Bunner, A;Kraushaar, W;McCammon, D;Williamson, F|Observations of the Soft Diffuse X-Ray Flux Near the Galactic Plane, l<SUP>Π</SUP> = 150° to 220°.|1
+1972BAAS....4S.260K|Kraushaar, W;Bunner, A;Coleman, P;McCammon, D|Diffuse soft cosmic X-ray.|0

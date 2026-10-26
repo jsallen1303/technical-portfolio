@@ -1,0 +1,3 @@
+2024ApJ...969..138C|Colosimo, J;Fox, D;Falcone, A;Palmer, D;Hancock, F;Betts, M;Bevidas, W;Buffington, J;Burrows, D;Catlin, Z;Emeigh, T;Forstmeier, T;Nizam, K;Reichard, C;Scigliani, A;Stone, L;Thornton, I;Wages, M;Washington, D;Zugger, M|Expected Gamma-Ray Burst Detection Rates and Redshift Distributions for the BlackCAT CubeSat Mission|0
+2023JATIS...9d6002C|Colosimo, J;Grzybowski, H;Jennerjahn, E;Stone, L;Falcone, A;Wages, M;Buffington, J;Burrows, D;Catlin, Z;Emeigh, T;Hancock, F|Initial characterization of the first Speedster-EXD550 event-driven X-ray hybrid CMOS detectors|2
+2016A&A...587A..61C|Corral-Santana, J;Casares, J;Munoz-Darias, T;Bauer, F;Martinez-Pais, I;Russell, D|BlackCAT: A catalogue of stellar-mass black holes in X-ray transients|428

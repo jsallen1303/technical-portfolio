@@ -1,0 +1,37 @@
+{
+  "title": "The Fifth Orbiting Solar Observatory (OSO-5)",
+  "name": "OSO-5",
+  "alttext": "Photograph of the OSO 7 satellite",
+  "imagesize": 298,
+  "imageurl": "/Images/oso/oso7.gif",
+    "descript": "<p><b><font size=\"+2\">T</font>he Fifth Orbiting Solar Observatory (OSO 5)</b> was launched on 22 January 1969, and lasted until July 1975. It was the 5th satellite put into orbit as part of the Orbiting Solar Observatory program. This program was intended to launch a series of nearly identical satellites to cover an entire 11-year solar cycle. The circular orbit had an altitude of 555 km and an inclination of 33 degrees. The spin rate of the satellite was 1.8 s.",
+      "decade": 1960,
+  "lifetime": "22 Jan 1969&ndash;Jul 1975",
+    "features": [
+	"The wheel of the satellite carried, amongst other experiments, a CsI crystal scintillator. "
+    ],
+    "instruments": [
+	{
+	    "name" : "CsI crystal scintillator",
+	    "energy" : "14&ndash;254 keV",
+	    "energy_resolution" : "14 keV first channel<br>&sim;28 keV in other 8 channels",
+	    "area" : "70 cm<sup>2</sup>",
+	    "fov" : "&sim;40 &deg;",
+	    "descript" : "The central crystal was 0.635 cm thick, had a sensitive area of 70 cm<sup>2</sup>, and was viewed from behind by a pair of photomultiplier tubes. The shield crystal had a wall thickness of 4.4 cm and was viewed by 4 photomultipliers.  There were 9 energy channels: the first covering 14&ndash;28 keV and the others equally spaced from 28&ndash;254 keV. In-flight calibration was done with an <sup>241</sup>Am source. The instrument was designed primarily for observation of solar X-ray bursts. A secondary interest was the measurement of the intensity, spectrum, and spatial distribution of the diffuse cosmic background."
+	}
+    ],
+    "highlights": [
+	"The data produced a spectrum of the diffuse background over the energy range 14&ndash;200 keV."
+    ],
+  "archive": "",
+  "navigation": [
+    {
+      "url": "images/oso_images.html",
+      "text": "Gallery"
+    },
+    {
+      "url": "biblio/oso_biblio.html",
+      "text": "Publications"
+    }
+  ]
+}

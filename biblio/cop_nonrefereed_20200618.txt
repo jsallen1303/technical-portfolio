@@ -1,0 +1,59 @@
+2007xmm..prop...80G|Guinan, E|The Secret (X-ray) Lives of Cepheids: Probing the "Warm" Coronae of Cepheids|0
+1999AAS...194.8301A|Angelini, L;Breedon, L;Garcia, L;Hilton, G;Stollberg, M;White, N|Recent data restoration additions to the HEASARC archive|0
+1987pbes.coll..250S|Snow, T|High-Energy Phenomena in STARS Stars (review Paper)|13
+1983ssst.book....1G|Goldberg, L|Prologue - Astronomy before the space age|0
+1983ssst.book..193F|Field, G|The future of space astronomy|0
+1982ucb..rept.....B|Bowyer, C|Long term X-ray observations of systems with unusual optical counterparts and modulation measurement of selected astronomical sources|0
+1981CIBu...90...93.||OAO-3 (Copernicus) ends Scientific Investigations|0
+1979BAAS...11..425A|Armstrong, T;Johnston, M;Bradt, H;Doxsey, R;Schwartz, D|Improved Position of the 38 sec-X-ray Pulsar near OAO 1653-40 Obtained with the HEAO-1 Modulation Collimator|0
+1979IAUC.3342....1W|White, N;Pravdo, S;Swank, J;Johnston, M;Armstrong, T|OAO 1653-40|12
+1979IAUC.3368....1B|Byrne, P;Levine, A;Lang, F;Dobson, C;Doty, J;Howe, S;Primini, F;Wheaton, W;Lewin, W|OAO 1653-40|7
+1979IAUS...83..169H|Hearn, A|The theory of mass loss from hot stars.|2
+1979cait.reptR.....||Support for joint infrared and Copernicus X-Ray observations of Cygnus X-3|0
+1978IAUC.3234....1P|Polidan, R;Sanford, P;White, N;Pollard, G;Locke, M;Peters, G;Dobias, J|V861 Scorpii = OAO 1653-40|8
+1978IAUC.3235....3C|Charles, P;Holt, S;Sanford, P|Aquila X-1|4
+1977NYASA.302..386S|Sanford, P|Recent X-Ray Results from Ariel V and Copernicus|13
+1976BAAS....8..440K|Kestenbaum, H;Cohen, G;Novick, R;Weisskopf, M;Wolff, R|Stellar Crystal X-Ray Spectroscopy on OSO-8|0
+1976BAAS....8..443M|Mason, K;Charles, P;White, N;Culhane, J;Sanford, P;Strong, K|Four Sources which show X-ray Behaviour similar to Sco X-1|1
+1976BAAS....8Q.293W|White, N;Mason, K;Sanford, P;Chevalier, C;Ilovaisky, S|X-ray and optical observations of Sco X-1.|0
+1976BAAS....8Q.439C|Canizares, C;Laufer, B;Primini, F|The X-Ray Behavior of Cygnus X-1 on Short Timescales|2
+1976BAAS....8Q.441W|White, N;Huckle, H;Mason, K;Charles, P;Pollard, G;Culhane, J;Sanford, P|Periodic Modulation of the X-ray Flux from Four Galactic X-ray sources|0
+1976BAAS....8R.445C|Culhane, J|The Spectra and Structure of Extra Galactic X-ray Sources|1
+1976NASSP.389....1C|Culhane, J;Mason, K;Sanford, P;White, N|Copernicus observations of a number of galactic X-ray sources.|2
+1976NASSP.389..179M|Mauder, H|The interpretation of optical light variations of Centaurus X-3.|0
+1976NASSP.389..255M|Mason, K;Sanford, P;Ives, J|Some features of the X-ray source Cyg X-3.|11
+1976NASSP.389..425M|Murdin, P|Absorption dips at low X-ray energies in Cygnus X-1.|5
+1976NASSP.389..559M|Mason, K;Branduardi, G;Sanford, P|X-ray observations of 3U 1700-37.|3
+1976NASSP.389..629C|Charles, P;Mason, K;Culhane, J;Sanford, P;White, N|The X-ray variability of Vela X-1 (3U 0900-40).|6
+1976NASSP.389..719M|Margon, B|Simultaneous X-ray and optical observations of X Persei.|2
+1976STIN...7713960K|Kaluzienski, L;Holt, S;Boldt, E;Serlemitsos, P|Recurrent X-ray outbursts from Aquila X-1|0
+1976tse..rept.....B|Brandt, J;Maran, S|Telescopes and space exploration|0
+1975ASSL...52..245V|Vesecky, J;Culhane, J;Hawkins, F|Upper Limits for X-Ray Emission from Jupiter as Measured from the Copernicus Satellite|2
+1975BAAS....7Q.246C|Charles, P;Culhane, J;Rapley, C;Zarnecki, J;Fabian, A|Recent Copernicus Results on the X-ray Emission from Supernova Remnants.|0
+1975BAAS....7R.505C|Charles, P;Culhane, J|Extended Soft X-Ray Emission from the Crab Nebula|0
+1975IAUC.2793....1D|Davidson, A;Sanford, P;Davison, P;Mason, K|Aquila X-1|4
+1975IAUC.2859....5C|Chevalier, C;Ilovaisky, S;Branduardi, G;Sanford, P|Cygnus X-2|6
+1975IAUC.2870....1W|White, N;Huckle, H;Mason, K;Charles, P;Pollard, G;Culhane, J;Sanford, P|X-Ray Sources|17
+1975STIN...7516432.||Space science|0
+1975spre.conf..663P|Parkinson, J;Culhane, J;Hawkins, F;Sanford, P|X-ray astronomy with Copernicus.|1
+1974ASSL...45..243A|Adams, D;Zarnecki, J|X-Ray Observations of Supernova Remnants by Copernicus|0
+1974BAAS....6..271C|Cruise, A;Culhane, J;Rapley, C;Hawkins, F|Low Energy X-ray Observations of PSR 0833-45|0
+1974HiA.....3..565Z|Zarnecki, J;Culhane, J;Fabian, A;Rapley, C;Boyd, R;Parkinson, J;Silk, R|Soft X-ray observations of supernova remnants|0
+1974MmSAI..45..851H|Hawkins, F;Sanford, P|Position measurement and identification of cosmic X-ray sources with the Copernicus satellite|1
+1974ecxa.confE...2D|Davison, P|The particle background observed by the X-ray detectors onboard Copernicus.|0
+1973NASSP.326...22M|Moore, J|Fine Pointing Control, OAO-3|0
+1973NASSP.326...28T|Taylor, T|The Onboard Processor on OAO-3|0
+1973NYASA.224..285S|Sanford, P;Hawkins, F|X-Ray Observations with OAO Copernicus|2
+1972inas.conf....3O|Osler, S|Observing from Space with the Orbiting Astronomical Observatory|0
+1972xanf.conf...19S|Sanford, P|The Oao-C X-Ray Experiment|0
+1970BAAS....2R.190D|Davis, R|Summary of the Smithsonian Observatory's Results from the Orbiting Astronomical Observatory|0
+1970IAUS...37..176B|Bless, R;Code, A;Houck, T;Lillie, C;McNall, J|OAO Observations of SCO X-1|2
+1970NASSP.233...41P|Purcell, J|The OAO Series of Space Telescopes|0
+1970S&T....40..349W|Watts, R|Another Orbiting Astronomical Observatory|0
+1969ATi.....2..190N|Nissen, P|De første resultater fra OAO (Orbiting Astronomical Observatory).|0
+1969sts..conf..653N|Nozawa, Y|Technical Results of the Sky-Mapping Experiment on Board the Orbiting Astronomical Observatory|0
+1964S&T....28...78W|Watts, R|More About the OAO|1
+1963NASSP..30...45Z|Ziemer, R;Kupperian, J|The Mission of the Orbiting Astronomical Observatory|0
+1963sts..conf..515S|Stroup, R;Imgram, D|The NASA Orbiting Astronomical Observatory|0
+1962S&T....24..339.||The Orbiting Astronomical Observatory|0
+1962saa..conf...55S|Scott, W|The Orbiting Astronomical Observatory|0

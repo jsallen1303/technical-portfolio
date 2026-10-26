@@ -1,0 +1,11 @@
+1990IAUS..142..445R|Rausaria, R;Bakaya, R;Khosa, P|Analysis of PROGNOZ-9 Solar Flare Hard X-Ray Data Support for the Non-Thermal Thick Target Model|0
+1990llnl.reptQ....H|Hurley, K;Dermer, C|Analysis of gamma-ray burst energy spectra|0
+1989RpScT...1...17F|Frolova, N|Meeting of intercosmos space physics group|0
+1988RpScT...6...19S|Strukov, I;Skulachev, D|Measurement of galactic radio emission at frequency 37 GHz from aboard spacecraft|0
+1987IzSSR..51.1830K|Kolesov, G;Kudryavtsev, M;Logachev, Y;Podorol'Skij, A;Sladkova, A;Bazilevskaya, G|Characteristics of solar cosmic ray events of 2 and 4 October 1983 according to data of the Prognoz 9 artificial earth satellite.|0
+1987RpScT...1...41G|Gringauz, K;Bezrukikh, V;Verigin, M;Kotova, G|Observations of recurrent high-velocity solar wind streams in declining phase of solar activity cycle 21 using wide-angle ion energy spectrometer aboard Prognoz-9 satellite|0
+1987RpScT...1...42K|Kotova, G;Gringauz, K;Bezrukikh, V;Verigin, M;Shvachunova, L;Riedler, W;Shvingenshu, K|Dependence of solar wind velocity on distance to heliospheric current sheet according to Prognoz-9 satellite data|0
+1987brig.iafcQ....S|Strukov, I;Skulachev, D;Klypin, A|The anisotropy of the microwave background - Space experiment 'Relict'|0
+1986INTSA..31...37S|Strukov, I;Skulachev, D|Investigation of the anisotropy of background radiation aboard AES. Experiment "Relikt".|6
+1986MVSFA..27...23B|Beliakov, S;Gordeev, I;Denisov, I;Kolesov, G;Podorolskii, A|Experiment on the study of the nuclear component and energy spectra of solar cosmic rays on the Prognoz-9 satellite|0
+1984MVSFA..25...81K|Kudriavtsev, M;Svertilov, S|The X-ray experiment on the Prognoz-9 satellite|0

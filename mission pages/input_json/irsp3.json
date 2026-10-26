@@ -1,0 +1,40 @@
+{
+  "title": "The Indian Remote-sensing Satellite P3",
+  "name": "IRS-P3",
+  "alttext": "IRS-P3 logo",
+  "imagesize": 162,
+  "imageurl": "/Images/misc_missions/irs-p3_logo_small.gif",
+    "descript": "<p><b><font size=\"+2\">T</font>he Indian Remote Sensing Satellite (IRS-P3)</b> was launched with the third test launch of the Indian Polar Satellite Launch Vehicle PSLV at March 21st 1996. It is an experimental mission mainly oriented on earth remote sensing. The launcher and the satellite bus was provided by the Indian Space Research Organization ISRO, a part of the payload has been provided by German Aerospace Research Establishment DLR in the frames of the Indian-German Agreement on scientific and technological cooperation.</p>\n\n<p>It was launched into a polar sun-synchronous circular orbit at an altitude of 817 km and 101.35 minute orbital period.</p>\n\n<p>The principle objective of the X-ray Astronomy Instrument is to carry out timing studies of X-ray pulsars, X-ray binaries, and other rapidly varying X-ray sources. The XSM detects transient X-ray sources and monitors the light intensity of bright X-ray binaries.<p>\n\n<p>Since the primary objective of the satellite was to carry out remote sensing, the time for stellar mode observation was limited to 2 months in a year. The stellar mode observations were made using a star tracker and gas jets for moving the satellite from earth pointing to stellar pointing mode and for correction due to drift of gyros. The satellite and the x-ray instrument is still healthy and working. However the x-ray observations came to an end on June 30, 2000 because the gas necessary to carry out any pointed observations was almost depleted. The satellite is therefore, carrying out only remote sensing observations of earth since June 2000.",
+      "decade": 1990,
+  "lifetime": "Jul 1996&ndash;Jun 2000 (X-ray instruments)",
+    "features": [
+	"Primarily a remote sensing satellite, instruments did carry out sky observations with the X-ray instruments for roughly two months in each year while fuel for satellite re-orientation was available."
+	],
+    "instruments": [
+	{
+	    "name" : "Pointed-mode Proportional Counters (PPC)",
+	    "energy" : "2&ndash;18 keV",
+	    "fov" : "2&deg; &times; 2&deg;",
+	    "area" : "400 cm<sup>2</sup> each",
+	    "descript" : "Three identical co-aligned multi-layer proportional counters. The viewing axes were aligned with the roll axis of the satellite."
+	},
+	{
+	    "name" : "X-ray Sky Monitor (XSM)",
+	    "energy" : "3&ndash;8 keV",
+	    "fov" : "90&deg; &times; 90&deg;",
+	    "area" : "1 cm<sup>2</sup>",
+	    "descript" : "The XSM was a pinhole camera with a small opening above a position sensitive proportional counter. The viewing axes of the XSM was offset by 35 degrees in the roll-pitch plane."
+	}
+    ],
+    
+    "highlights": [
+	"IRS-P3 observed Cyg X-1 during system checks, plus a follow-up observation in July 4-9 1996 after the source underwent a transition to its bright state. Other sources observed include GRS 1915+105, GX 1+4, and 4U 1907+09. Cyg X-1 was found to show pronounced variability on time scales of 100 ms, with some lesser variability on 10 ms time scales. QPOs of 0.22 Hz were also clearly detected. The 121 second X-ray pulsar GX 1+4 failed to show X-ray pulsations when observed, contrary to expectations. The 437 second X-ray pulsar 4U 1907+09 was then observed to verify that the lack of pulsations was not due to instrument failures. 4U 1907+09 clearly showed the expected pulse periods. GRS 1915+105 observations produced similar results to Cyg X-1."
+    ],
+  "archive": "",
+  "navigation": [
+    {
+      "url": "biblio/irsp3_biblio.html",
+      "text": "Publications"
+    }
+  ]
+}

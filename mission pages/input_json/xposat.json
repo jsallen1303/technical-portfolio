@@ -1,0 +1,48 @@
+{
+  "title": "XPoSat",
+    "name": "XPoSat",
+    "decade" : 2020,
+    "alttext": "Assembled XPoSat prior to launch",
+    "imagesize": 300,
+    "imageurl": "/Images/misc_missions/xposat_sm.png",
+    "descript": "<p><b><font size=\"+2\">T</font>he X-ray Polarimetry Satellite (XPoSat)</b> mission was launched on January 1, 2024 on the ISRO’s PSLV rocket from India&rsquo;s Satish Dhawan Space Centre. It has been placed in its final circular 350 km orbit for observations. The XPoSat mission carries two instruments: the Polarimeter Instrument in X-rays (POLIX) made by the Raman Research Institute, and the X-ray Spectroscopy and Timing (XSPECT) from the Space Astronomy Group at U R Rao Satellite Centre (USRC).</p>\n\n<p>The observatory will perform pointed polarimetry measurements of about 50 of the brightest astronomical X-ray sources using POLIX. The secondary XSPECT instrument will conduct timing and spectroscopy studies, with its soft X-ray detections complementing the higher energy range Large Area X-ray Proportional Counter (LAXPC) on <a class=\"usa-link\" href=\"astrosat.html\">AstroSat</a>.</p>",
+    "lifetime": "1 Jan 2024&ndash; (operating)",
+    "features": [
+	"Polarimetry measurements for bright sources in the medium energy range",
+	"Long duration observations"
+    ],
+  "instruments": [
+      {
+	  "name": "Polarimeter Instrument in X-rays (POLIX)",
+	  "energy": "8&ndash;30 keV",
+	  "area": "650 cm<sup>2</sup>",
+	  "fov": "3&deg; &times; 3&deg;",
+	  "polarization" : "2&ndash;3% (linear)", 
+	  "descript": "(POLIX) is the primary scientific payload with a Thompson scattering X-ray polarimeter. It consists of a collimator, a central low-Z (lithium/beryllium) target to scatter incident X-ray photons, and a set of four Xenon-filled wire frame X-ray detectors mounted around the instrument assembly. The entire satellite is rotated around the viewing axis to observe the source at different azimuthal angles, spinning at approximately 0.2 RPM with long (1 &ndash; 4 weeks) observations on each source."
+      },
+      {
+	  "name": "X-ray Spectroscopy and Timing (XSPECT)",
+	  "energy": "0.8&ndash;15 keV",
+	  "area": "64 cm<sup>2</sup>",
+	  "fov": "1&deg; &times; 1&deg;",
+	  "energy_resolution": "&lt;200 eV at 5.9 keV",
+	  "temporal_resolution" : "&sim;2 ms",
+	  "descript": "XSPECT is co-aligned with POLIX, observing the same source to provide timing and spectral measurements with long duration observations. The detectors consist of large area Swept Charge Devices (SCD), a variant of traditional X-ray CCDs. SCDs permit fast readout times (10-100 kHz) and passive cooling."
+      }
+  ],
+    "goals": [
+	"Observe accreting galactic black holes to test aspects of General Relativity",
+	"Characterize the strength, distribution, and orientation of magnetic field structures in extreme astronomical objects (SNRs, AGN jets, micro-quasars)"
+    ],
+    "archive": "",
+  "navigation": [
+    {
+      "url": "https://www.isro.gov.in/PSLV_C58_XPoSat_Mission.html",
+      "text": "XPoSat at ISRO"
+    },
+    {
+      "url": "biblio/xposat_biblio.html",
+      "text": "Publications"
+    }
+  ]
+}

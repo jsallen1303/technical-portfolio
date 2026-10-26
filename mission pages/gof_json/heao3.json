@@ -1,0 +1,52 @@
+{
+    "title": "The High Energy Astrophysics Observatory-3 (HEAO-3)",
+    "name": "The HEAO-3 Satellite",
+    "gofsidebar" : "Past",
+    "alttext": "photo of HEAO-3 in the clean room",
+    "imagesize": 110,
+    "imageurl": "/Images/heao3/heao3_small2.gif",
+    "descript": "<p><b><font size=\"+2\">T</font>he HEAO-3</b> satellite carried three high-energy-astrophysics instruments, one instrument surveying the sky in hard X-rays and gamma rays, and two measuring the composition of cosmic rays.  The High Resolution Gamma-Ray Spectrometer Experiment built by the Jet Propulsion Laboratory was the largest germanium spectrometer placed in orbit at that time.  The cosmic-ray instruments, one built by a Danish-French collaboration and the other built as a collaboration among Washington University in St. Louis, Caltech, and University of Minnesota were the largest cosmic-ray detectors to have flown in space.</p>\n\n<p>HEAO-3, like HEAO-1, was a survey mission involving several independent but complementary instruments. This satellite was launched by NASA on September 20, 1979 into an orbit of 500 km altitude, 43.6 degrees inclination. The mission included two cosmic ray experiments, the Heavy Nuclei Experiment, the Cosmic Ray Isotope Experiment, and the Gamma-Ray Spectroscopy Experiment.</p>",
+    "decade" : 1970,
+    "lifetime": "20 Sep 1979&ndash;29 May 1981",
+    "features": [
+	""
+    ],
+    "instruments": [
+	{
+	    "name" : "C1 &ndash; High Resolution Gamma Ray Spectrometer (HRGRS)",
+	    "energy" : "50 keV &ndash; 10 MeV",
+	    "fov" : "30&deg;",
+	    "area" : "75 cm<sup>2</sup> at 100 keV",
+	    "energy_resolution" : "3 keV at 1.46 MeV",
+	    "descript" : "The Gamma Ray Spectroscopy Experiment on HEAO-3 consisted of four p-type, high purity germanium detectors, each with a volume of &sim;100 cm<sup>3</sup>. The detectors were surrounded by a large CsI shield in electronic anti-coincidence, which was segmented in order to provide crude directionality. The instrument, under favorable background conditions, could independently detect bursts with fluences as low as 2 &times; 10<sup>-6</sup> ergs/cm<sup>2</sup> above the lower energy limit. For unfavorable background conditions, the lower limit might be 5&ndash;10 times higher than this."
+	},
+	{
+	    "name" : "C2 &ndash; Cosmic Ray Isotope Experiment",
+	    "descript" : "The C2 experiment consisted of multiple components to measure the isotopic compsition of cosmic-ray nuclei over the Gev/nuclean range. Nuclei detectable ranged from <sup>7</sup>Be to <sup>58</sup>Fe. Detectors included Cerenkov counters and hodoscope, with time-of-flight and geometric trajectory analysis."
+	},
+	{
+	    "name" : "C3 &ndash; Heavy Nuclei Experiment",
+	    "descript" : "The C3 experiments used ion chambers and Cerenkov counters to perform time-of-flight and geomagnetic trajectory analysis. It was designed to measure charge spectra for heavy cosmic-ray nuclei with higher Z values (&ge;20&ndash;&sim;120 in the &sim;0.3&ndash;10 GeV/n range. "
+	}	
+    ],
+    "highlights": [
+	"Sky survey of gamma-ray narrow-line emission"
+    ],
+  "archive": "The HEASARC hosts the HRGRS raw data in their native format. Other HEAO-3 data sets are at the <a href=\"http://nssdc.gsfc.nasa.gov/nmc/spacecraftDisplay.do?id=1979-082A\">NSSDC</a> in their native format.",
+    "navigation": [
+    	{
+	    "url" : "/docs/heao3/heao3.html",
+	    "text" : "HEAO-3 at HEASARC"
+	},
+	{
+	    "url" : "/docs/heao3/heao3_images.html",
+	    "text" : "Gallery"
+	},
+	{
+	    "url" : "/docs/heao3/bib/heao3_biblio.html",
+	    "text" : "Publications"
+	}
+
+    ],
+    "goffooter" : "/docs/heao3/heao3_footer.html"
+}

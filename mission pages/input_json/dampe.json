@@ -1,0 +1,47 @@
+{
+    "title": "DAMPE",
+    "name": "DAMPE",
+    "alttext": "Artistic impression of DAMPE in order",
+    "imagesize": 279,
+    "imageurl": "/Images/dampe/DAMPE_AutoB_sm.jpg",
+    "descript": "<p><b><font size=\"+2\">T</font>he Dark Matter Particle Explorer (DAMPE)</b> satellite, also known as &ldquo;Wukong&rdquo; (a reference to the Monkey King hero in the Chinese story &ldquo;Journey to the West&rdquo;), is a Chinese Academy of Science mission to measure highly energetic electrons and photons with high resolution in order to identify possible dark matter signatures.</p>\n<p>The satellite was launched into a polar, sun-synchronous orbit with an altitude of 500 km on December 17, 2015. The Long March-2D rocket carrying DAMPE to orbit was launched from the Jiuquan Satellite Launch Center in China. At the start of operations, the mission was planned to have a three year service lifetime, but that was extended for a further two years in December 2018.</p>",
+    "decade": 2010,
+    "lifetime": "17 Dec 2015&ndash;present",
+    "features":
+    [
+	"DAMPE observes the direction, charge, and energy of electrons and high-energy photons which would be generated when Weakly Interacting Massive Particles (WIMPs, one of the candidate dark matter particles) annihilate: previous observations by other instruments have suggested this is a likely candidate for dark matter."
+    ],
+    "instrument_preamble" : "DAMPE is a single instrument mission. The detector contains multiple elements, stacked vertically atop each other along the Z (observational direction) axis of the spacecraft",
+    "instruments": [
+	{
+	    "name": "Plastic Scintillator Detector (PSD)",
+            "descript" : "The PSD consists of a double layer of 1 &times; 2.8 &times; 82 cm staggered strips laid out in alternating layers of X and Y orientation. with a 82 &times; 82 cm total area. The PSD detects the charge of cosmic rays and also serves as an anti-coincidence detector for energetic photons. It has a position resolution of 6 mm and charge resolution of 0.25 for Z = 1&ndash;20. It also serves as a backup to the STK element."
+	},
+	{
+	    "name" : "Silicon-Tungsten Tracker (STK)",
+	    "descript" : "The STK consists of multiple layers of silicon micro-strip detectors with interleaving tungsten converter plates. STK tracks the direction of gamma-rays by their conversion to charged particles in the tungsten plates, then tracking the particles through the instrument. STK has 6 tracking planes, each with two layers in X and Y planes, orthogonal to the instrument pointing. Cumulatively, this makes a sensor with 0.2&deg; angular resolution at 10 GeV and the total silicon area is roughly 7 m<sup>2</sup>."
+	},
+	{
+	    "name" : "Bismuth-Germanium Oxide (BGO)",
+	    "descript" : "The BGO calorimeter contains 308 bismuth germanate crystal bars, 2.5 &times; 2.5 &times; 60 cm, stacked in 14 layers in alternating X and Y direction orientations. A 0.5 mm gap around each crystal is filled with a silicone elastomer to hold each crystal in place and to prevent damage from launch vibrations. Incident particles interact with the crystals, generating a pulse of optical light which is detected by photomultipliers and each layer edge. The calorimeter is sensitive to energies between 5 GeV to 10 TeV."
+	},
+	{
+	    "name" : "Neutral Detector (NUD)",
+	    "descript" : "The NUD consists of four large boron-doped plastic scintillation detectors, 30 &times; 30 &times; 1 cm in size. Each detector is equipped with a photomultiplier tube to measure light flashes causes by incident neutral particles exciting the boron and generating alpha particles and gamma-rays. The gamma-rays are converted to light pulses recorded by the instrument."
+	}
+	
+    ],
+    "goals": [
+	"Detect possible spectral features at gamma-ray energies indiciative of dark matter annihilation or decay ",
+	"Study high-energy cosmic rays to obtain spectra and composition, with a focus on orgin and acceleration mechanisms",
+	"Observe high-energy gamma rays from astrophysical sources",
+	"Look for anisotropies in the arrival directions of cosmic-ray electrons and nuclei"
+    ],
+  "archive": "",
+  "navigation": [
+    {
+      "url": "http://dpnc.unige.ch/dampe/",
+      "text": "DAMPE at University of Geneva (English)"
+    }
+  ]
+}

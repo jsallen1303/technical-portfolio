@@ -1,0 +1,65 @@
+{
+    "title": "The Enhanced X-ray Timing and Polarimetry (eXTP) mission",
+    "name": "eXTP",
+    "alttext": "Impression of eXTP in orbit",
+    "imagesize": 279,
+    "imageurl": "/Images/misc_missions/ca_0309NID_eXTP_sm.jpg",
+    "descript": "<p><b><font size=\"+2\">T</font>he enhanced X-ray Timing and Polarimetry (eXTP)</b> mission is a future satellite designed to study extreme states of matter density, gravity, and magnetism. The program is to be led by the Chinese Academy of Sciences and universities in China, with partnerships with various European institutions. It is intended to be launched in 2027.",
+    "decade": 2020,
+    "lifetime": "2027&ndash;",
+    "instruments": [
+	{
+	    "name" : "Spectroscopic Focusing Array (SFA)",
+	    "energy" : "0.5&ndash;10 keV",
+	    "resolution" : "1&prime;",
+	    "fov" : "12&prime;",
+	    "area" : "&sim;0.8 m<sup>2</sup> at 2 keV<br>0.5 m<sup>2</sup> at 6 keV",
+	    "energy_resolution" : "&lt;180 eV",
+	    "descript" : "The SFA will consist of a set of 9 X-ray telescopes equipped with Silicon Drift Detectors. The optics are Wolter-I type nested mirrors with coated glass focal elements."
+	},
+	{
+	    "name" : "Polarimetry Focusing Array (PFA)",
+	    "energy" : "2&ndash;10 keV",
+	    "resolution" : "30&Prime;",
+	    "fov" : "12&prime;",
+	    "area" : "900 cm<sup>2</sup> at 2 keV",
+	    "descript" : "The PFA will consist of a set of 4 X-ray telescopes equipped with imaging gas pixel photoelectric polarimeters."
+	},
+	{
+	    "name" : "Wide Field Monitor (WFM)",
+	    "energy" : "2&ndash;50 keV",
+	    "resolution" : "1&prime;",
+	    "fov" : "70&deg; &times; 70&deg;",
+	    "temporal_resolution" : "1 &micro;s",
+	    "energy_resolution" : "&sim;300 eV at 6 keV",
+	    "descript" : "The WFM will have 3 pairs of coded mask wide field units, equipped with position-sensitive Silicon Drift Detectors. The two cameras in each pair are sensitive to location on one dimension, and only coarsely in the orthogonal direction: mounting the cameras at right angles provide accurate 2-D targeting for the pair. The WFM will include on-board detection for bright events to trigger Burst Alerts."
+	},
+	{
+	    "name" : "Large Area Detector (LAD)",
+	    "energy" : "2&ndash;30 keV (up to 80 keV for bright sources)",
+	    "resolution" : "&lt; 250 ev",
+	    "fov" : "&lt;1&deg; (FWHM)",
+	    "area" : "&sim;3.4 m<sup>2</sup> between 6&ndash;10 keV",
+	    "descript" : "LAD will be a deployable set of 640 Silicon Drift Detectors (SDDs) with have 40 modules, each with 4&times;4 detectors and matching collimators"
+	}
+    ],
+ 
+    "goals": [
+	"Study ultra-dense matter in neutron stars",
+	"Explore exotic matter states that exist in neutron stars due to intense gravitational fields",
+	"Study physics of strong magnetic field in magnetars, accreting X-ray pulsars, and rotation-powered pulsars",
+	"Discover new magnetar candidates from flaring observations approximately once a year",
+	"Study the accretion processing in the strong-field limit of gravity around super-massive black holes seen at the core of active galactic nuclei."
+    ],
+  "archive": "",
+  "navigation": [
+    {
+      "url": "https://www.isdc.unige.ch/extp/",
+      "text": "eXTP at University of Geneva"
+    },
+    {
+      "url": "biblio/extp_biblio.html",
+      "text": "Publications"
+    }
+  ]
+}

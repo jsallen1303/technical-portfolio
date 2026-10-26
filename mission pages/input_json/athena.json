@@ -1,0 +1,64 @@
+{
+    "title": "ATHENA",
+    "name": "ATHENA",
+    "alttext": "Artistic impression of ATHENA mission",
+    "imagesize": 249,
+    "imageurl": "/Images/misc_missions/portada_mission_cropped_sm.jpg",
+    "descript": "<p><b><font size=\"+2\">T</font>he Advanced Telescope for High ENergy Astrophysics (ATHENA)</b> is an X-ray observatory planned for launch in 2034 aboard an Ariane 6 expendable launch vehicle. The mission was selected and now under development by the European Space Agency (ESA) as part of their Cosmic Vision program to address the Hot and Energetic Universe science theme. The mission is an ESA led project with contributions from institutes in Europe, United States, and Japan.</p>\n<p>ATHENA has a 12 m focal length X-ray telescope with a large effective area. X-rays are collected by two focal plane instruments: the Wide Field Imager (WFI) and X-ray Integral Field Unit (X-IFU). The observatory will be placed in a halo orbit around the Earth-Sun L2 Lagrange point with a nominal mission lifetime of 5 years with possible extension of a further 5 years. The L1 orbit is being evaluated as back-up option.</p>\n<p>ATHENA is a down-sized version of the abandoned NASA/JAXA/ESA International X-ray Observatory (IXO), which itself was a merger of the ESA XEUS and NASA Constellation-X mission proposals.</p>",
+    "decade": 2030,
+    "lifetime": "2034 launch with 5 year nominal mission; additional 5 year extended mission option",
+    "features":
+    [
+	"Two detectors sharing a single telescope, with large area high spatial resolution capabilties"
+    ],
+    "instruments": [
+	{
+	    "name" : "Telescope",
+	    "length" : "12 m",
+	    "resolution" : "5&Prime; (HEW)",
+	    "area" : "&ge; 1.4 m<sup>2</sup> at 1 keV<br>&le; 0.25 m<sup>2</sup> at 6 keV",
+	    "descript" : "The telescope uses grazing incidence silicone pore optics with an instrument switching mechanism, based on a set of hexapods, allows each of the two detectors to be located at the mirror focus at any given time. The same mechanism allows to defocus the mirror Point Spread Function (PSF), permitting the X-IFU to observe bright X-ray sources."
+	},
+	{
+	    "name": "Wide Field Imager (WFI)",
+	    "energy" : "0.2&ndash;15 keV",
+	    "energy_resolution" : "&le;170 eV at 7 keV",
+	    "resolution" : "5&Prime;",
+	    "fov" : "40&prime; &times; 40&prime;",
+	    "temporal_resolution" : "5 ms (LDA)<br>80 &micro;s (FD)",
+	    "descript" : "The WFI detector comprises a Large Detector Array (LDA) and a Fast Detector (FD) both using depleted p-channel field-effect transistors (DEPFET). The LDA is an array of 2&times;2 detectors, each with 512&times;512 pixels. The FD is optimized for bright point sources with an array of 64&times;64 pixels."
+	},
+	{
+	    "name" : "X-ray Integral Field Unit (X-IFU)",
+	    "energy" : "0.2&ndash;12 keV",
+	    "energy_resolution" : "4 eV (design goal 3 eV) at 7 keV",
+	    "fov": "5&prime;",
+	    "resolution": "&sim;5&Prime;",
+	    "temporal_resolution" : "10 &micro;s",
+	    "area" : "&sim;5800 cm <sup>2</sup> at 1 keV<br>&sim;880 cm<sup>2</sup> at 7 keV",
+	    "descript": "X-ray calorimeter with an array of cryogenically cooled transition edge detectors. Current design anticipates &sim;1500 pixels (versus 36 pixels in the current XRISM Resolve calorimeter)."
+	}
+    ],
+    "goals": [
+	"Study how matter assembles within galaxies and galaxy clusters",
+	"Measure the history of the chemical composition of the Universe through time",
+	"Study acceretion processing in compact objects",
+	"Find the earliest super-massive black holes and tracing their growth despite the obscuration of heavy dust and gas",
+	"Study transient phenomena such as gamma-ray burst sources with a fast target of opportunity system"
+    ],
+  "archive": "",
+  "navigation": [
+    {
+      "url": "https://sci.esa.int/web/athena",
+      "text": "ATHENA at ESA"
+    },
+    {
+      "url": "https://www.the-athena-x-ray-observatory.eu",
+      "text": "ATHENA at EU"
+    },
+    {
+      "url": "biblio/athena_biblio.html",
+      "text": "Bibliography"
+    }
+  ]
+}

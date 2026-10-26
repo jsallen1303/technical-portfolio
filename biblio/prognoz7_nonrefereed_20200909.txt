@@ -1,0 +1,13 @@
+1995sowi.conf...73Y|Yermolaev, Y|Solar wind helium observations on the Prognoz 7 satellite|0
+1995sowi.conf...89Y|Yermolaev, Y|Large-scale structure of solar wind as observed on the Prognoz 7 satellite|0
+1987RpScT...1...39B|Bezrodnykh, I;Morozova, Y;Shafer, Y|Influence of large-scale solar wind disturbances on dynamics of outer radiation belt relativistic electrons|0
+1984isap.book.....S|Sagdeev, R|Investigations of solar activity and the Prognoz space system|0
+1984isap.book...67R|Romanov, S;Temnyi, V;Omelchenko, A;Stiazhkin, V;Eismont, N|Investigation of the electron component of the solar wind.|0
+1984isap.book...73V|Vaisberg, O;Yermolaev, Y;Zastenker, G;Omelchenko, A|Heavy ion streams in the solar wind and their use for solar corona diagnostics.|0
+1984isap.book..131P|Pisarenko, N;Morozova, E;Mikriukova, N;Likin, O;Klimenko, V|Propagation of charged particles in the solar corona|0
+1984psfc.book...45K|Kocharov, G;Matveev, G;Melnikov, V;Naidenov, V;Podstrigach, T|Correlation of X-ray and microwave emission from solar flares according to observations during March-April 1979|0
+1983igrt.book...62B|Bisnovatyi-Kogan, G;Kurt, V;Mersov, G;Novikov, I;Khavenson, N;Estulin, I|Identification of the coordinates of a transient gamma-ray source with star-catalog coordinates|0
+1983igrt.book..137V|Vedrenne, G;Diachkov, A;Zabiiakin, G;Zenchenko, V;Kuznetsov, A;Niel, M;Chambon, G;Hurley, K;Estulin, I|Investigation of gamma-ray transients on Venera 11 and 12 and Prognoz 7|0
+1982IzSSR..46.1702K|Klimenko, V;Morozova, E;Mikriukova, N;Pisarenko, N;Shafer, I|Peculiarities of propagation of charged particles in the solar corona.|0
+1982grap.symp..211D|Diyachkov, A;Estulin, I;Havenson, N;Kuznetsov, A;Zenchenko, V;Barat, C;Chambon, G;Hurley, K;Niel, M|Catalogue of Gamma-Bursts Detected by the Soviet-French Experiment Signe 2m VENERA-11 VENERA-12 and PROGNOZ-7|0
+1980nsgr.symp..141C|Chambon, G;Hurley, K;Niel, M;Vedrenne, G;Zenchenko, V;Kuznetsov, A;Estulin, I|Gamma ray burst observations by the 3 Satellite Signe network|0

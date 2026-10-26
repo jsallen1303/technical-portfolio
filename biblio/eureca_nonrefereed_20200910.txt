@@ -1,0 +1,20 @@
+1997jena.confE.253B|Burenin, R;Terekhov, O;Sunyaev, R;Sazonov, S;Vikhlinin, A|Search of the correlation between locations of gamma-ray bursts sources and Abell clusters|0
+1996LPI....27..113B|Bibring, J;Borg, J;Chardin, A;Salvetat, P;Vassent, B;Stevenson, T;McDonnell, J;Jolly, H;Mandeville, J;Maag, C;Bunch, T|The European Space Exposure Facility|0
+1995ldef.symp...37R|Reitz, G|Dosimetric results on EURECA|0
+1995ldef.symp...43B|Benton, E;Frank, A|Preliminary results of radiation measurements on EURECA|0
+1994LPI....25..183B|Brownlee, D;Horz, F;Hrubsch, L;McDonnell, J;Tsou, P;Williams, J|Eureka!! Aerogel Capture of Meteoroids in Space|10
+1994aidp.work...43N|Nishioka, K;Carle, G;Bunch, T;Mendez, D;Ryder, J|Status Report-Small Particles Intact Capture Experiment (SPICE)|0
+1994pcrv.work...29B|Borg, J;Bibring, J;Maag, C|Main Characteristics of the COMET/COMRADE Experiments|0
+1993IAUC.5710....1B|Brandt, S;Lund, N;Castro-Tirado, A|U 0614+09|2
+1993IAUC.5717....2B|Brandt, S;Lund, N;Castro-Tirado, A|4U 0614+09 = V1055 Orionis|2
+1993IAUC.5759....2B|Brandt, S;Lund, N;Castro-Tirado, A;Green, D|GRB J0444-0700|0
+1993IAUC.5779....2B|Brandt, S;Castro-Tirado, A;Lund, N|GRS 1915+105 and Hercules X-1|1
+1993IAUC.5785....1B|Brandt, S;Castro-Tirado, A;Lund, N|GRS 0834-43|0
+1993IAUC.5830....1M|Mirabel, I;Duc, P;Teyssier, R;Paul, J;Rodriguez, L;Marti, J;Golombek, D;Auriere, M;Castro-Tirado, A;Davies, J;Brandt, S;Lund, N;Everall, C|GRS 1915+105|16
+1993lsbe.book.....M|Minster, O;Innocenti, L;Mesland, D|Looking at science on board EURECA - (European Retrievable Carrier)|1
+1992IAUC.5643....1B|Brandt, S;Castro-Tirado, A;Lund, N|EU 1737-132|1
+1992IAUC.5659....1B|Brandt, S;Castro-Tirado, A;Lund, N|EU 1902+20 and EU 2017-01|0
+1992IAUC.5664....1B|Brandt, S;Castro-Tirado, A;Lund, N|X-Ray Activity in Cygnus and Aquila|1
+1992eocm.rept...51B|Bonnet, R|Horizon 2000 and European national programmes.|0
+1991rsk..nasa...63M|Mugellesi, R;Kerridge, D|Prediction of solar and geomagnetic activity for ESA low-flying spacecraft|0
+1986SPIE..597...95L|Lund, N|The WATCH gamma-burst detector for Eureca-I|25

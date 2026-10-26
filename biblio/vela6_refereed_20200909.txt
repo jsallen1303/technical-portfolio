@@ -1,0 +1,7 @@
+1979JGR....84..109P|Palmer, I;Jackson, J;Hones, E|The solar proton event of April 16, 1970. 3. Evolution of pitch angle distribution as &lt;~1-MeV protons propagate into the high-latitude magnetotail|3
+1977JGR....82.2657P|Palmer, I;Higbie, P;Hones, E|The solar proton event of April 16, 1970, 1. Features in interplanetary space and in the magnetosheath|5
+1977JGR....82.2665H|Higbie, P;Palmer, I|The solar proton event of April 16, 1970, 2. Transformation of proton pitch angle distributions from the solar wind into the magnetosheath|8
+1976JGR....81.1725H|Hones, E;Akasofu, S;Wolcott, J;Bame, S;Fairfield, D;Meng, C|Correlated observations of several auroral substorms on February 17, 1971|15
+1974ApJ...194L..19M|Metzger, A;Parker, R;Gilman, D;Peterson, L;Trombka, J|Observation of a Cosmic Gamma-Ray Burst on Apollo 16. I. Temporal Variability and Energy Spectrum|67
+1974ApJ...194L..27T|Trombka, J;Eller, E;Schmadebeck, R;Adler, I;Metzger, A;Gilman, D;Gorenstein, P;Bjorkholm, P|Observation of a Cosmic Gamma-Ray Burst on Apollo 16. II. X-Ray Time Profile and Source Location|25
+1974JGR....79.1981R|Rich, F;Reasoner, D;Burke, W;Hones, E|Plasma sheet at lunar distance during magnetospheric substorms|10

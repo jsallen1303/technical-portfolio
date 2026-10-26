@@ -1,0 +1,45 @@
+{
+    "title": "The Diffuse X-ray Spectrometer shuttle package",
+    "name": "The Diffuse X-ray Spectrometer shuttle package",
+    "alttext": "Photograph of DXS in the shuttle bay",
+    "imagesize": 141,
+    "imageurl": "/Images/dxs/sts-54_cargo_small2.gif",
+    "descript": "<p><b><font size=\"+2\">T</font>he Diffuse X-Ray Spectrometer (DXS)</b> experiment was built by the University of Wisconsin-Madison and flown as an attached payload in the January 1993 flight of Space Shuttle <i>Endeavor</i> (STS-54). The DXS&rsquo;s main scientific goal was to obtain spectra of the diffuse soft X-ray background.",
+    "decade" : 1990,
+    "gofsidebar" : "Past",
+    "lifetime": "13&ndash;19 Jan 1993",
+    "features": [
+	"Measured all portions of the spectrum simultaneously, eliminating the problem in conventional Bragg spectrometers of false features being introduced by a time-varying background."
+	],
+   "instruments": [
+	{
+	    "name" : "Bragg crystal spectrometer",
+	    "energy" : "0.15&ndash;0.28 keV",
+	    "wavelength" : "43&ndash;84 &Aring;",
+	    "spectral_resolution" : "2.7 &Aring;",
+	    "fov" : "15&deg; (FWHM)",
+	    "descript" : "2 large area spectrometers each backed onto a position-sensitive proportional counter. The detectors were mounted on opposite sides of the shuttle cargo bay. During the 80 orbit nights, the detectors repeatedly scanned the same arc on the sky &mdash; within 10&deg; of the galactic plane from longitudes 150&ndash;300&deg;."
+	}
+    ],
+    "highlights": [
+	"First-ever high resolution spectra of the diffuse soft X-ray background in the energy band from 0.15&ndash;0.28 keV (43&ndash;84 &Aring;)."
+    ],
+  "archive": "The HEASARC hosts raw data in FITS format",
+    "navigation": [
+	{
+	    "url" : "/docs/dxs/dxs_about.html",
+	    "text" : "More about DXS"
+	},
+	{
+	    "url" : "/docs/dxs/dxs_images.html",
+	    "text" : "Gallery"
+	},
+	{
+	    "url" : "/docs/dxs/bib/dxs_biblio.html",
+	    "text" : "Publications"
+	}
+    ],
+    "goffooter" : "/docs/dxs/dxs_footer.html"    
+
+    
+}

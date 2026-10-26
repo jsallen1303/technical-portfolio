@@ -1,0 +1,37 @@
+{
+  "title": "Minisat 1 (LEGRI)",
+  "name": "Minisat-1 (LEGRI)",
+  "alttext": "Minisat-1",
+  "imagesize": 279,
+  "imageurl": "/Images/misc_missions/minisat1_sm.jpg",
+    "descript": "<p><b><font size=\"+2\">T</font>he Minisat-1</b> mission was a Spanish-led mission with a primary instrument being the Low Energy Gamma-ray Imager (LEGRI), a coded masked prototype instrument. The satellite was launched on April 21, 1997 from a Pegasus XL rocket (a &ldquo;winged&rdquo; rocket dropped from an aircraft) and the LEGRI instrument onboard was activated on May 19, 1997. The instrument was a collaboration between the University of Valencia, University of Alicante, Centro de Investigaciones Energeticas, Medioambientales y Technologicas (CIEMAT), Instituto Nacional de Technica Aerospacial (INTA), University of Southampton, University of Birmingham, and the Rutherford Appleton Laboratory.</p>\n\n<p>Minisat-1 was the first operational mission in the Minisat series. It was planned with a two year mission span, but ultimately operated successfully for five years before re-entry into the Earth&rsquo;s atmosphere. LEGRI was not the only instrument on MiniSat-1, but is the primary one of interest to high-energy astrophysics.</p>",
+
+      "decade": 1990,
+  "lifetime": "19 May 1997&ndash;2002",
+    "features": [
+	"Proof of concept for coded mask gamma-ray detectors"
+    ],
+    "instruments" :
+    [
+	{
+	    "name" : "Low Energy Gamma-ray Imager (LEGRI)",
+	    "energy" : "10&ndash;200 keV",
+	    "resolution" : "20&prime;",
+	    "fov" : "&sim;11&deg; (fully coded)<br>&sim;24&deg; (partial coded)",
+	    "area" : "&sim;6 cm<sup>2</sup> at 30 keV<br>&sim;3 cm<sup>2</sup> at 100 keV",
+	    "energy_resolution" : "4 keV at 30 keV (FWHM)",
+	    "descript" : "LEGRI was a coded mask array gamma ray detector. The detector plane was a mosaic of 10 &times 10 with 80 HgI2 and 20 CdZnTe crystals 0.5 cm thick: the mixed detectors were intended to test differing technologies under identical conditions. The detector was passively shielded on the back and sides by the mechanical assembly and by a tantalum collimator and aluminum window in the pointing direction. The coded mask was mounted 540 mm in front of the instrument and was made of tungsten elements attached to a honeycomb plate and support structure. A start sensor allowed precise tracking of attitude of the spacecraft to permit ground-based analysis without blurring from spacecraft motion."
+	}
+    ],
+    "highlights":
+    [
+	"LEGRI was primarily a proof-of-concept mission for coded-mask gamma-ray imaging. Having shown the concept worked, LEGRI detected and characterized gamma-ray burst sources in particular."
+    ],
+  "archive": "",
+  "navigation": [
+    {
+      "url": "biblio/legri_biblio.html",
+      "text": "Publications"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+    "title": "GECAM",
+    "name": "GECAM",
+    "decade" : 2020,
+    "alttext": "Artistic impression of GECAM satellites",
+    "imagesize": 270,
+    "imageurl": "/Images/misc_missions/GECAM_sm.jpg",
+    "descript": "<p><b><font size=\"+2\">T</font>he Gravitational Wave High-energy Electromagnetic Counterpart All-sky Monitor (GECAM)</b> is a matched pair of micro-satellites developed by the Chinese Academy of Science (CAS). The two satellites work in tandem to detect gamma-ray counterparts to gravitational wave sources (such as neutron star binary system mergers): each half of the pair is able to monitor an entire hemisphere of sky from low-earth orbit, and they are located on opposite sides of the Earth in order to get a simultaneous view of the entire sky.</p>\n\n<p>The two satellites were co-launched on December 10, 2020 from the Xichang Satellite Launch Center aboard a Long March 11 rocket. They were placed in 600 km altitude low earth 29° inclination orbits located on opposite sides of the Earth. Each satellite weighs about 160 kg and has an identical payload of gamma-ray detectors and charge particle detectors. The two are dubbed GECAM A (KX 08A; <i>Xiaji</i>) and GECAM B (KX 08B; <i>Xiamu</i>). The primary mission goal is to find and monitor gamma radiation from gravitational wave event sources, but the mission will also yield insights on ultra-long gamma ray bursts (GRBs), X-ray flash sources, and a variety of other transient high-energy events.</p>",
+    "lifetime": "2020&ndash; (three year planned mission)",
+    "features": [
+	"Pair of satellites positioned on opposite sides of the Earth to collectively see the entire sky at all times"
+    ],
+    "instruments": [
+	{
+	    "name" : "Gamma Ray Detector (GRD)",
+	    "fov" : "Combined all-sky coverage at all times",
+	    "energy" : "8 keV &ndash; &sim;2 MeV",
+	    "energy_resolution" : "5.3% at 662 keV (high gain)<br>65.5% at 5.9 keV (low gain)",
+	    "sensitivity" : "2 &times; 10<sup>-8</sup> erg/cm<sup>2</sup>/s for medium-bright GRB source",
+	    "resolution" : "&le;1&deg; for medium-bright GRB source",
+	    "descript" : "Each of the two satellites has 25 detector modules arranged around a hemisphere. Each module consists of a LaBr<sub>3</sub>:Ce cylindrical scintillator crystal with SiPM readout array and preamplifier which can be set to either high or low gain for reading out events. The crystal is 76.2 mm diameter and  15 mm thick, packed in an aluminum housing to protect the crystal from moisture and stray light. The entrance window is a 0.22 mm thick Be sheet with an ESR reflector. A quartz window under the crystal provides the view for the 50.44 &times; 50.44 mm<sup>2</sup> SiPM 8&times;8 pixel array. The electronics can record in both high and low gain modes. The low gain mode provides detection in the range 5&ndash;500 keV; the high gain mode provides 30 keV &ndash; 3 MeV."
+	},
+	{
+	    "name" : "Charge Particle Detector (CPD)",
+	    "descript" : "8 detectors dispersed over the satellite to identify charged particle events and separate them from gamma ray detections"
+	}
+    ],
+    "goals": [
+	"Localize gravitational wave counterparts detected at high energies",
+	"Detect and localize a variety of other transient high-energy sources: ultra-long GRBs, X-ray Flashs, Fast Radio Burst sources, and magnetars",
+	"Detection of an estimated 500 gamma-ray burst sources per year",
+	"Solar flare monitoring",
+	"Study of terrestrial sources such as gamma-ray flashes and Earth electron beams"
+    ],
+  "archive": "",
+    "navigation": [
+	{
+	    "url" : "https://nssc.cas.cn/gecam_en/",
+	    "text" : "GECAM at NSSC (English)"
+	},
+    {
+      "url": "gecam.html",
+      "text": "GECAM at HEASARC"
+    },
+    {
+      "url": "images/gecam_images.html",
+      "text": "Gallery"
+    },
+    {
+      "url": "biblio/gecam_biblio.html",
+      "text": "Bibliography"
+    }
+  ]
+}

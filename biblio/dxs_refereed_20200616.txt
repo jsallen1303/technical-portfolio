@@ -1,0 +1,8 @@
+2014ApJ...787...77S|Smith, R;Foster, A;Edgar, R;Brickhouse, N|Resolving the Origin of the Diffuse Soft X-Ray Background|36
+2008ApJ...674..209K|Kuntz, K;Snowden, S|The X-Ray-Emitting Components toward l = 111°: The Local Hot Bubble and Beyond|18
+2004Ap&SS.289..229F|Freyberg, M|X-rays from the Local Bubble|1
+2002ApJ...576..188M|McCammon, D;Almy, R;Apodaca, E;Bergmann Tiest, W;Cui, W;Deiker, S;Galeazzi, M;Juda, M;Lesser, A;Mihara, T;Morgenthaler, J;Sanders, W;Zhang, J;Figueroa-Feliciano, E;Kelley, R;Moseley, S;Mushotzky, R;Porter, F;Stahle, C;Szymkowiak, A|A High Spectral Resolution Observation of the Soft X-Ray Diffuse Background with Thermal Detectors|256
+2001Ap&SS.276..163B|Breitschwerdt, D|Modeling the Local Interstellar Medium|25
+2001ApJ...554..694S|Sanders, W;Edgar, R;Kraushaar, W;McCammon, D;Morgenthaler, J|Spectra of the 1/4 keV X-Ray Diffuse Background from the Diffuse X-Ray Spectrometer Experiment|46
+1998LNP...506...83S|Sanders, W;Edgar, R;Liedahl, D;Morgenthaler, J|The Soft X-ray Background Spectrum from DXS|8
+1998PhDT........23M|Morgenthaler, J|The Study of the Diffuse X-Ray Background Between 150 EV and 280 EV with the Diffuse X-Ray Spectrometer|1

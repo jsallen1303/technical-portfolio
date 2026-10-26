@@ -1,0 +1,28 @@
+2000JGR...105.4291C|Clark, P;McFadden, L|New results and implications for lunar crustal iron distribution using sensor data fusion techniques|8
+1993Metic..28R.412N|Nishiizumi, K;Arnold, J;Sharma, P|Two-Stage Exposure of the Fayetteville Meteorite Based on 129I|1
+1986JGR....91Q....R|Ryder, G|Lunar and Planetary Science Conference, 16th, Houston, TX, March 11-15, 1985, Proceedings. Part 2|0
+1983GeoRL..10..813P|Pieters, C;Hawke, B;Gaffey, M;McFadden, L|Possible lunar source areas of meteorite ALHA81005: Geochemical remote sensing information|17
+1981JGR....86.1055H|Hood, L;Russell, C;Coleman, P|Contour maps of lunar remanent magnetic fields.|42
+1981JGR....8611919D|Davis, P;Bielefeld, M|Inelastic neutron scatter iron concentrations of the moon from orbital gamma ray data.|2
+1981PhDT........68L|Lapides, J|Planetary Gamma-Ray Spectroscopy: the Effects of Hydrogen and the Macroscopic Thermal-Neutron Absorption Cross-Section on the Gamma-Ray Spectrum.|1
+1980ApJ...236..951G|Gilman, D;Metzger, A;Parker, R;Evans, L;Trombka, J|The distance and spectrum of the Apollo gamma-ray burst|44
+1980JGR....85.3209D|Davis, P|Iron and titanium distribution on the moon from orbital gamma ray spectrometry with implications for crustal evolutionary models.|79
+1980Sci...208...49H|Hood, L;Schubert, G|Lunar Magnetic Anomalies and Surface Optical Properties|108
+1979ApJ...229..753G|Gilman, D;Metzger, A;Parker, R;Trombka, J|The galactic gamma-ray flux in the 0.06 - 5 MeV range.|4
+1979E&PSL..45..155M|Metzger, A;Parker, R|The distribution of titanium on the lunar surface|37
+1979JGR....84.3313D|Daily, W;Dyal, P|Magnetometer data errors and lunar induction studies|5
+1979PEPI...20..291H|Hood, L;Coleman, P;Russell, C;Wilhelms, D|Lunar magnetic anomalies detected by the Apollo substatellite magnetometers|23
+1978LPSC....9.2985H|Haines, E;Etchegaray-Ramirez, M;Metzger, A|Thorium concentrations in the lunar surface. II: Deconvolution modeling and its application to the regions of Aristarchus and Mare Smythii.|18
+1977ApJ...212..925T|Trombka, J;Dyer, C;Evans, L;Bielefeld, M;Seltzer, S;Metzger, A|Reanalysis of the Apollo cosmic gamma-ray spectrum in the 0.3 to 10 MeV energy region.|110
+1977PEPI...15..287H|Hubbard, N;Woloszyn, D|Orbital gamma-ray data and large-scale lunar problems|4
+1976PhDT.........3G|Goldberg, R|Depth-sensitive analysis of fluorine on lunar sample surfaces and in carbonaceous chondrites by a nuclear resonant reaction technique|0
+1975ApJ...198..241C|Clayton, D;Ward, R|On emission lines in the cosmic gamma-ray background.|24
+1975LPSC....3.2769M|Metzger, A;Parker, R;Arnold, J;Reedy, R;Trombka, J|Preliminary design and performance of an advanced gamma-ray spectrometer for future orbiter missions|1
+1974ApJ...194L..27T|Trombka, J;Eller, E;Schmadebeck, R;Adler, I;Metzger, A;Gilman, D;Gorenstein, P;Bjorkholm, P|Observation of a Cosmic Gamma-Ray Burst on Apollo 16. II. X-Ray Time Profile and Source Location|25
+1974Moon...11..393T|Trombka, J;Arnold, J;Adler, I;Metzger, A;Reedy, R|Lunar elemental analysis obtained from the Apollo gamma ray and X-ray remote sensing experiment.|0
+1974NucIM.118..401H|Harrington, T;Marshall, J;Arnold, J;Peterson, L;Trombka, J;Metzger, A|The Apollo gamma-ray spectrometer|31
+1974RvGSP..12..568D|Dyal, P;Parkin, C;Daily, W|Magnetism and the interior of the moon.|117
+1974ZhPmR..20...77M|Mazets, E;Golenetskii, S;Ilinskii, V;Gurian, I;Kharitonova, T|Investigations of diffuse cosmic gamma radiation in the range 28 keV-4.1 MeV|0
+1973ApJ...181..737T|Trombka, J;Metzger, A;Arnold, J;Matteson, J;Reedy, R;Peterson, L|The Cosmic y-RAY Spectrum Between 0.3 and 25 MeV Measured on Apollo 15|64
+1973LPSC....4.2847T|Trombka, J;Arnold, J;Reedy, R;Peterson, L;Metzger, A|Some correlations between measurements by the Apollo gamma-ray spectrometer and other lunar observations|7
+1970PCS.....3.....A|Adler, I;Trombka, J|Geochemical exploration of the moon and planets.|1

@@ -1,0 +1,15 @@
+1989atop.book....3L|Lebedinets, V|Discovery of a ray structure in the zodiacal light|0
+1985RpSpR...4...36L|Lyagushin, V;Mamontova, N;Makhmudov, B;Saraeva, M;Shavrin, P;Yushkov, Y|Space radiation monitor observations from Salyut-4 orbital station|0
+1979IzKry..59....3B|Bruns, A;Grechko, G;Gubarev, A;Klimuk, P;Sevastianov, V;Severnyi, A;Steshenko, N;Feoktistov, K|Results of spectroscopic studies of solar active regions performed on Salyut 4|2
+1979IzKry..59...31B|Bruns, A|The design of the Salyut-4 orbiting solar telescope|0
+1979xras.proc..155B|Beigman, I;Vainshtein, L;Grigorevskaia, B;Tindo, I;Shurygin, A;Liutyi, V|Upper limits on soft X-ray fluxes from some celestial objects observed by "Salyut 4".|0
+1978irea.book..169D|Dementev, B;Markov, M|Infrared radiation and spectroscopy of the moon and lunar soil|0
+1978tust.nasaQ..50G|Gubarev, A|Cosmonaut Gubarev discusses orbital telescopes|0
+1977S&T....53...92O|Oberg, J|Notes on Soviet Space Astronomy|0
+1977osar.book..128V|Villmann, C;Klimuk, P;Lebedinets, V;Sevastianov, V|Observations of meteors and studies of cosmic dust|0
+1976IAUC.2946....1H|Hoffman, J;Aksenov, E;Sheffer, E;Moskalenko, E|X-Ray Bursts|8
+1976STIN...7713961B|Berezhnoy, V;Grechko, G;Gubarev, A;Kirillov, E;Klimuk, P;Kurt, V;Sevastyanov, V;Titarchuk, L;Moskalenko, E;Sheffer, E|Preliminary results of the X-ray radiation researching by the telescope Filin on board the Salyut-4 space station|0
+1976anah.iafcS....B|Bruns, A;Grechko, G;Gubarev, A;Klimuk, P;Sevastianov, V;Severnyi, A;Steshenko, N|Orbiting solar telescope on 'Salyut-4' station|0
+1976anah.iafcT....B|Babichenko, S;Goganov, D;Kashonov, B;Kurt, V;Lozinskii, B;Skliankin, V;Feoktistov, K;Moskalenko, E;Shefer, E|X-ray telescope-spectrometer, installed on board the space station 'Salyut-4'|0
+1975IAUC.2793....2M|Martynov, D;Shaffer, E;Moskalenko, E|X-Ray Observations of CYG X-1 from Salyut 4|0
+1975IAUC.2846....1M|Martynov, D;Sheffer,;Moskalenko,;Bortle, J|Nova Monocerotis 1975 (= A0620-00)|4

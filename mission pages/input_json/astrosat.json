@@ -1,0 +1,64 @@
+{
+    "title": "AstroSat",
+    "name": "AstroSat",
+    "alttext": "Artistic rendering of AstroSat",
+    "imagesize": 249,
+    "imageurl": "/Images/misc_missions/astrosat1_deployed_configuration_sm.png",
+    "descript": "<p><b><font size=\"+2\">T</font>he AstroSat</b> mission is the first dedicated Indian astronomy mission. It is equipped with instruments to observe over a wide span of the electromagnetic spectrum, including visual, near and far ultraviolet, and X-ray wavelengths. The satellite was launched on September 28, 2015 from the Satish Dhawan Space Centre, in Sriharikota, India. AstroSat was placed in a 650 km altitude orbit with a 6 degree equatorial inclination. First light occurred in early October, 2015. The initial mission plan called for a five year duration, but the satellite continues to provide useful data.</p>",
+    "decade": 2010,
+    "lifetime": "Oct 2015& ndash; present",
+    "features": [ "Simultaneous multi-wavelength monitoring of intensity variations for a broad range of cosmic sources" ],
+    "instruments": [
+	{
+	    "name" : "Ultraviolet Imaging Telescope (UVIT)",
+	    "wavelength" : " 350&ndash;600 nm (near UV and optical), 130&ndash;300 nm (far UV)",
+	    "descript" : "Pair of twin telescopes"
+	},
+	{
+	    "name" : "Large Area Xenon Proportional Counter (LAXPC)",
+	    "energy" : "3&ndash;100 keV",
+	    "area" : "8000 cm<sup>2</sup>",
+	    "descript" : "A trio of proportional counters for detecting hard X-rays"
+	},
+	{
+	    "name" : "Soft X-ray Telescope (SXT)",
+	    "energy" : "0.3&ndash;10 keV",
+	    "area" : "120 cm<sup>2</sup> at 1 keV",
+	    "descript" : "SXT has a set of conical foil mirrors and a CCD detector which is thermal-electrically cooled to -80&deg;C"
+	},
+	{
+	    "name" : "Cadmium-Zinc-Telluride Imager (CZTI)",
+	    "energy" : "20&ndash;200 keV",
+	    "fov" : "4.6&deg;",
+	    "area" : "490 cm<sup>2</sup> below 100 keV",
+	    "energy_resolution" : "11% at 60 keV",
+	    "time_resolution" : "20 &micro;s",
+	    "descript" : "The top of the instrument is covered by a tantalum plate with a coded aperture mask, allowing image reconstruction from the shading pattern. The detector has four quadrants with 16 detectors in each quadrant, with each detector having 256 pixels with a cross-section of 2.5 mm &times; 2.5 mm. The detector elements are made of CdZnTe."
+	},
+	{
+	    "name" : "Scanning Sky Monitor (SSM)",
+	    "energy" : "2&ndash;10 kev",
+	    "descript" : "The SSM uses a set of three one-dimensional position-sensitive proportional counters equipped with coded masks. SSM is mounted on a single platform capable of being rotated to provide different orientations."
+	},
+	{
+	    "name" : "Charge Particle Monitor (CPM)",
+	    "descript" : "Detects high energy particles, putting instruments in a temporary safe hold in event of extreme radiation. Although AstroSat&rsquo;s low inclination orbit avoids the most intense areas of the South Atlantic Anomaly, the satellite does encounter the SAA: CPM monitors to ramp down high voltage systems to prevent instrument damage."
+	}
+    ],
+    "highlights": [
+	"Monitor the X-ray sky for new transient sources",
+	"Perform sky surveys in hard X-ray and UV wavelengths",
+	"Collect broad-band spectroscopic data on X-ray binaries, active galactic nuclei, supernova remnants, galaxy clusters, and stellar coronae."
+    ],
+  "archive": "",
+  "navigation": [
+    {
+      "url": "http://astrosat.iucaa.in/",
+      "text": "AstroSat at ISRO"
+    },
+    {
+      "url": "biblio/astrosat_biblio.html",
+      "text": "Publications"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "title": "The Astron satellite",
+    "name": "Astron",
+    "decade" : 1980,
+  "alttext": "Line drawing of Astron",
+  "imagesize": 252,
+  "imageurl": "/Images/misc_missions/astron_small.gif",
+    "descript": "<p><b><font size=\"+2\">T</font>he Soviet Astron</b> orbital station was designed primarily for UV and X-ray astrophysical observations. It was injected into orbit on 23 March 1983. The satellite was put into a highly elliptical orbit, with apogee &sim;200,000 km and perigee &sim;2,000 km.  The station ceased function in June 1989, well past its expected one year mission lifetime.</p>",
+    "lifetime": "3 Apr 1983&ndash;Jun 1989",
+    "features": [ "Highly elliptical orbit placed instruments well outside the Earth&rsquo;s radiation belts and shadow for 90% of each 4 day orbit" ],
+    "instruments": [
+ {
+     "name": "Ultraviolet Telescope (UFT; also known as Spika)",
+     "length" : "8 m",
+     "wavelength" : "&sim;110&ndash;350 nm",
+     "fov" : "0.5&deg;",
+     "descript" : "UFT/Spika was the primary instrument on the mission. It used a &sim;80 cm primary mirror with a &sim;26 cm secondary using a Ritchey-Chr&eacute;tien telescope design. The mirrors were coast with aluminum and a MgF<sub>2</sub> protective layer. The pointing accuracy was about 2 arcseconds, but could be stablized to &sim;0.3 arcsecond accuracy due to the steerable secondary mirror."
+ },
+ {
+     "name" : "X-ray spectrometer (SKR-02M; UFS)",
+     "energy" : "2&ndash;25 keV",
+     "area" : "0.17 m<sup>2</sup>",
+     "fov" : "3&deg; &times; 3&deg;",
+     "descript" : "Proportional counter with data telemetered in 10 energy channels."
+ }
+    ],
+    "highlights": [
+	"Provided data on the prolonged low state of Her X-1 in 1983, and the 1984 turn on of the source",
+	"Observed sources in Orion, Taurus, and Leo",
+	"Investigated the accretion of material from red giants onto neutron stars"
+    ],
+  "archive": "",
+  "navigation": [
+    {
+      "url": "images/astron_images.html",
+      "text": "Gallery"
+    },
+    {
+      "url": "biblio/astron_biblio.html",
+      "text": "Publications"
+    }
+  ]
+}

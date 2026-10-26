@@ -1,0 +1,43 @@
+{
+  "title": "The Venera 11 & 12 probes to Venus",
+  "name": "Venera 11 & Venera 12",
+  "alttext": "Venera spacecraft at the Memorial Museum of Cosmonautics, Moscow",
+  "imagesize": 300,
+  "imageurl": "/Images/misc_missions/venera13_small.gif",
+    "descript": "<p><b><font size=\"+2\">T</font>he Venera 11 &amp; 12</b> (&ldquo;Venera&rdquo; is Russian for &ldquo;Venus&rdquo;) planetary science missions were each launched towards Venus, where they flew by after dropping landers. Each carried the SIGNE 2 and KONUS gamma-ray instruments.  Venera 11 was launched on 9 September 1978. Venera 12, which was launched on 14 September 1978, They had an initial separation of &sim;0.02 AU which later increased to 0.5 AU. The Venera spacecraft could either be spin stabilized with a spin period of several hours, or 3 axis stabilized. In general, the satellite was spin stabilized before encountering Venus, and 3 axis stabilized thereafter. The Venera 11 mission was terminated in February 1980. The Venera 12 mission ended in April 1980.</p>",
+      "decade": 1970,
+  "lifetime": "Sep 1978&ndash;Apr 1980",
+    "features" : [
+	"In combination with Prognoz 7, the SIGNE 2 instruments collectively functioned as an all-sky three vertex interplanetary burst triangulation network. It was the first time identical detectors had been used simultaneously for gamma-ray burst studies on separate spacecraft over interplanetary distances, and the experiments used the largest dedicated gamma-ray burst detectors put into orbit up to that time."
+    ],
+    "instruments": [
+	{
+	    "name" : "SIGNE 2",
+	    "fov" : "4&pi; sr",
+	    "energy" : "50&ndash;270 keV to 600&ndash;3000 keV (mode dependent)",
+	    "temporal_resolution": "120 s (&ldquo;waiting&rdquo; mode)<br>1/512 s max (triggered mode)",
+	    "descript" : "Each Venera spacecraft carried two dedicated gamma-ray burst detectors, arranged for full sky coverage.  Each detector consisted of a 4.5&times;3.7 cm NaI(Tl) crystal surrounded by an 8 mm thick plastic anti-coincidence jacket. The crystal and plastic were viewed from the side by photomultiplier tubes.</p>\n\n<p>The gamma-ray burst detector operated in low time resolution &ldquo;waiting&rdquo; modes in the absence of a burst; low energy resolution spectra and higher energy resolution calibration spectra were transmitted in this mode.  Typically, the data were accumulated into 120.0 s time bins, 1-31 energy channels.  Detection of a burst triggered the storage of high time resolution count rates and spectral data.<p>\n\n<p>The trigger criterion was an excess count rate 8 sigma above normal in a 250 ms interval. During a burst, there were 1-6 energy channels used, and, for a &ldquo;typical&rdquo; burst seen with Venera 11 &amp; 12, the nominal energy range was 80&ndash;800 keV. The readout time was &sim;4 s.  However, two successive bursts could only be detected if the interval between them was 3&ndash;20 minutes.  In addition, the storage of information on-board the spacecraft limited the number of distinguishable bursts to 1 every 2 hours."
+	},
+	{
+	    "name" : "KONUS",
+	    "energy" : "50&ndash;150 keV (count rate mode)<br>30 keV &ndash; 2 MeV (spectra mode)",
+	    "energy_resolution" : "16 channel quasi-logarithmic scaling",
+	    "time_resolution": "15.625 ms &ndash; 1 s (profile dependent)<br>0.25 s for burst trigger",
+	    "descript" : "KONUS on Veneras 11 &amp; 12 consisted of 6 scintillation detectors, a set of 6 devices for gamma-ray burst detection against the current background, 6 counters to measure the count rate in each sensor, a 320-channel time analyzer, and a 128 channel PHA.  Each scintillator was a NaI(Tl) crystal with 80 mm diameter and 30 mm thickness.  The background was measured over the energy range 50&ndash;150 keV for count rate, and over the range 30 keV &mdash; 2 MeV for spectra.  Eight seconds of pre-burst data was recorded when a trigger was issued, with a resolution of 0.25 s.  The temporal profile of the burst was recorded in 3 ways:  2 s with 15.625 ms resolution, 32 s with 0.25 s resolution, and an additional 32 s with 1 s resolution.  The PHA trigger mode was a 16 channel, quasi-logarithmic energy scale mode which measured 8 energy spectra in 8 successive intervals of 4 s each. The threshold sensitivity at the 6-sigma trigger level was &sim;4 &times; 10<sup>-7</sup> erg/cm<sup>2</sup>."
+	}
+    ],
+    "highlights": [
+	"Cataloged 85 bursts during the mission timeframe, with an estimated total energy released by a typical gamma burst event was 10<sup>40</sup> &ndash; 10<sup>41</sup> ergs, based on the estimation that bursts were galactic in origin."
+    ],
+  "archive": "",
+  "navigation": [
+    {
+      "url": "images/venera1112_images.html",
+      "text": "Gallery"
+    },
+    {
+      "url": "biblio/venera1112_biblio.html",
+      "text": "Publications"
+    }
+  ]
+}

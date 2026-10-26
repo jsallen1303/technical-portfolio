@@ -1,0 +1,34 @@
+{
+  "title": "The Ariel VI Satellite",
+  "name": "Ariel VI",
+  "alttext": "photo of Ariel 6 in the clean room",
+  "imagesize": 175,
+  "imageurl": "/Images/ariel/ariel6_small.gif",
+    "descript": "<p><b><font size\"+2\">T</font>he Ariel VI</b> mission, known as UK6 prior to orbit, was launched from the Wallops Island Launch Center in the United States on 2 June 1979. The orbit obtained was a 600 km x 650 km elliptical orbit, at an inclination of 55 degrees.",
+      "decade": 1970,
+  "lifetime": "Jun 1979&ndash;Feb 1982",
+    "features": [ "Three scientific instruments, of which one was a cosmic-ray experiment and the other two were X-ray detectors. The scientific output of these experiments was severely limited by electromagnetic interference from ground-based radar hampering the pointing operations." ],
+    "instruments": [
+ {
+     "name" : "X-ray detectors",
+     "energy" : "1&ndash;50 keV",
+     "area" : "&sim;300 cm<sup>2</sup>"
+ },
+ {
+     "name" : "X-ray collector system",
+     "energy" : "0.25 keV"
+ }
+    ],
+  "highlights": [],
+  "archive": "",
+  "navigation": [
+    {
+      "url": "images/ariel6_images.html",
+      "text": "Gallery"
+    },
+    {
+      "url": "biblio/ariel6_biblio.html",
+      "text": "Publications"
+    }
+  ]
+}

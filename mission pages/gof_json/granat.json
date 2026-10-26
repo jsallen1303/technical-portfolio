@@ -1,0 +1,92 @@
+{
+    "title": "The Granat Observatory",
+    "name": "The Granat Satellite",
+    "gofheader" : "/docs/obsheader.html",
+    "alttext": "Artistic impression of Granat",
+    "imagesize": 148,
+    "imageurl": "/Images/granat/granat_small2.gif",
+    "descript": "<p><b><font size=\"+2\">G</font>ranat</b> (&ldquo;Garnet&rdquo;) was a Russian dedicated X-ray/gamma ray astronomy mission operated in collaboration with other European countries. Launched on 1 December 1989, Granat operated for almost 9 years. After an initial period of pointed observations, Granat went into survey mode in September 1994",
+    "decade" : 1980,
+    "gofsidebar" : "Past",
+    "lifetime": "1 Dec 1989&ndash;7 Nov 1998",
+    "features": [],
+    "instruments": [
+	{
+	    "name" : "Coded Mask X-ray Telescope (SIGMA)",
+	    "energy" : "0.03&ndash;1.3 MeV",
+	    "area" : "800 cm<sup>2</sup>",
+	    "fov" : "5&prime; &times; 5&prime;",
+	    "resolution" : "10&prime; maximum",
+	    "descript" : "The SIGMA telescope was a collaboration between CESR (Toulouse), CEA (Saclay), and IKI (Moscow). Its imaging capabilities were derived from the association of a coded mask and a position sensitive detector based on the Anger camera principle."
+	},
+	{
+	    "name" : "Astronomical Roentgen Telescope Imager (ART-P)",
+	    "energy" : "4&ndash;60 keV (imaging)<br>4&ndash;100 keV (spectra)",
+	    "area" : "630 cm<sup>2</sup> each<br>2520 cm <sup>2</sup> total",
+	    "fov" : "1.8&deg; &times; 1.8&deg; (FWHM)",
+	    "resolution" : "5&prime;",
+	    "temporal_resolution" : "4 ms",
+	    "sensitivity" : "1 mCrab in an 8 hour exposure",
+	    "energy_resolution" : "25% at 5.9 keV<br>14% at 59.6 keV",
+	    "descript" : "The ART-P and ART-S instruments were both the responsibility of the IKI in Moscow. The ART-P telescope consisted of four modules. Each module a position sensitive Multi-Wire Proportional Counter (MWPC) together with a Uniformly Redundant Array (URA) coded mask."
+	},
+	{
+	    "name" : "Astronomical Roentgen Telescope Spectrometer (ART-S)",
+	    "energy" : "3&ndash;100 keV",
+	    "area" : "625 cm<sup>2</sup> each, 2400 cm <sup>2</sup> total at 10 keV<br>800 cm<sup>2</sup> total at 100 keV",
+	    "fov" : "2.1&deg; &times; 2.1&deg; (FWHM)",
+	    "energy_resolution" : "21% at 5.9 keV<br>11% at 59.5 keV",
+	    "temporal_resolution" : "200 &micro;s",
+	    "descript" : "The ART-P and ART-S instruments were both the responsibility of the IKI in Moscow. Each consisted of a MWPC together with a URA coded mask. The ART-S collimator was mounted with a rocking mechanism to tilt off-source for background measurements."
+	},
+	{
+	    "name" : "Wide Angle Telescope for Cosmic Hard X-rays (WATCH)",
+	    "energy" : "6&ndash;180 keV",
+	    "energy_resolution" : "30% at 60 keV (FWHM)",
+	    "area" : "45 cm<sup>2</sup>",
+	    "fov" : "All sky",
+	    "resolution" : "0.5&deg;",
+	    "descript" : "There were four WATCH instruments, designed by the Danish Space Research Institute, on the Granat observatory starting in January 1990. The instruments could localize bright sources using a Rotation Modulation Collimator. During quiet periods, count rates in 2 energy bands (6&ndash;15 keV, 15&ndash;180 keV) were accumulated for 4, 8, or 16 s, depending on memory filling. During a burst or transient event, count rates were accumulated with a time resolution of 1 second into 36 energy channels. The WATCH system also flew on the <a class=\"usa-link\" href=\"/docs/heasarc/missions/eureca.html\">EURECA</a> mission."
+	},
+	{
+	    "name" : "Phénomènes Brefs de l’Univers (PHEBUS)",
+	    "energy" : "100 keV &ndash; 100 MeV",
+	    "area" : "100 cm<sup>2</sup> each<br>600 cm<sup>2</sup> total",
+	    "fov" : "All sky",
+	    "temporal_resolution" : "&sim;100 &micro;s",
+	    "descript" : "The PHEBUS experiment was designed by CESR (Toulouse) to record high energy transient events. It consisted of 2 independent detectors with their associated electronics. Each detector consisted of a BGO crystal 78 mm in diameter by 120 mm thick, surrounded by a plastic anti-coincidence jacket. The 2 detectors were arranged on the spacecraft so as to observe &sim;4&pi; steradians. The burst mode was triggered when the count rate in the 0.1&ndash;1.5 MeV energy range exceeded the background level by 8 sigma in either 0.25 or 1.0 seconds. There were 116 energy channels."
+	},
+	{
+	    "name" : "Téléscope Optique à l'Université de Toulouse pour l'Étude des Sources Optiques Liées aux Sources Gamma (TOURNESOL)",
+	    "energy" : "2 keV &ndash; 8 MeV",
+	    "fov" : "6&deg; &times; 6&deg; (high energy)<br>5&deg; &times; 5&deg; (visible)",
+	    "descript" : "The French TOURNESOL instrument consisted of 4 proportional counters and 2 optical detectors. The instrument was designed to look for optical counterparts of high-energy burst sources, as well as performing spectral analysis of the high-energy events."
+	},
+	{
+	    "name" : "Krypton Optical Nuclear Universal Spectrometer (KONUS-B)",
+	    "energy" : "10 keV &ndash; 8 MeV",
+	    "descript" : "The KONUS-B instrument, designed by the Ioffe Physical-Technical Institute in St. Petersburg, consisted of 7 detectors distributed around the spacecraft. They consisted of NaI(Tl) scintillator crystals 200 mm in diameter &times; 50 mm thick, with a Be entrance window. The side surfaces were protected by a 5 mm thick lead layer. The KONUS-B instrument operated from 11 December 1989 until 20 February 1990. Over that period, the &ldquo;on&rdquo; time for the experiment was 27 days. Some 60 solar flares and 19 cosmic gamma-ray bursts were detected."
+	}
+    ],
+    "highlights": [
+	"A very deep (more than 5 million sec.) imaging of the galactic center region",
+	"Discovery of electron-positron annihilation lines from the Galactic &ldquo;micro-quasar&rdquo; 1E1740-294 and the X-ray Nova Muscae",
+	"Study of spectra and time variability of black hole candidates"
+    ],
+    "archive": "The HEASARC hosts the PHEBUS Gamma-Ray Burst Catalog",
+    "navigation" : [
+	{
+	    "url" : "https://heasarc.gsfc.nasa.gov/docs/granat/",
+	    "text" : "Granat at HEASARC"
+	},
+	{
+	    "url" : "https://heasarc.gsfc.nasa.gov/docs/granat/granat_images.html",
+	    "text" : "Gallery"
+	},
+	{
+	    "url" : "https://heasarc.gsfc.nasa.gov/docs/granat/bib/granat_biblio.html",
+	    "text" : "Publications"
+	}
+    ],
+    "goffooter": "/docs/granat/granat_footer.html"
+}

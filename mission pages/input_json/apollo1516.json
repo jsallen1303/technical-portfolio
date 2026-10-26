@@ -1,0 +1,41 @@
+{
+    "title": "The Apollo 15 & 16 missions",
+    "name": "Apollo 15 & Apollo 16",
+    "alttext": "photo of Apollo 15 Endeavor",
+    "imagesize": 264,
+    "imageurl": "/Images/apollo/apollo15_endeavor_small.gif",
+    "descript": "<p><b><font size=\"+2\">T</font>he Apollo 15 and 16 missions</b> were launched on 26 July 1971 and 16 April 1972, respectively. Splashdowns were 7 August 1971 and 27 April 1972. Both released sub-satellites while in orbit around the Moon to do studies on lunar gravity and magnetic fields. Apollo 16 astronauts John Young and Charles Duke deployed a UV electrographic camera/spectrograph on the lunar surface. The instrument observed the Sun, the Earth&rsquo;s geocorona and various astronomical objects. Both Apollo 15 &amp; 16 Command Service Modules carried gamma-ray spectrometers. These spectrometers studied the Moon and the gamma-ray background.</p>",
+      "decade": 1970,
+  "lifetime": "26 Jul&ndash;7 Aug 1971 (Apollo 15)<br>16&ndash;27 Apr 1972 (Apollo 16)",
+    "features": [],
+    "instruments": [
+	{
+	    "name": "Gamma Ray Spectrometer",
+	    "energy": "0.55&ndash;8.6 MeV",
+	    "energy_resolution" : "8%",
+	    "descript" : "Both Apollo command modules carried a 512-channel cylindrical NaI(Tl) scintillation gamma-ray spectrometer, 76x76 mm in size, covered with a plastic scintillator for charged particle rejection. The instrument was mounted on a 7.6 m boom."
+	}
+    ],
+    "highlights": [
+	"Though primarily intended to study the Moon&rsquo;s radioactivity, it found a cosmic gamma-ray background flux density of &sim;1 x 10<sup>4</sup> quanta/m<sup>2</sup>/s during the mission flights."
+    ],
+  "archive": "",
+  "navigation": [
+    {
+      "url": "images/apollo1516_images.html",
+      "text": "Gallery"
+    },
+    {
+      "url": "biblio/apollo1516_biblio.html",
+      "text": "Publications"
+    },
+    {
+      "url": "https://nssdc.gsfc.nasa.gov/planetary/lunar/apollo15info.html",
+      "text": "NSSDC Apollo 15"
+    },
+    {
+      "url": "https://nssdc.gsfc.nasa.gov/planetary/lunar/apollo16info.html",
+      "text": "NSSDC Apollo 16"
+    }
+  ]
+}

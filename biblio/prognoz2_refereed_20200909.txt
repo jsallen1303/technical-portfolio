@@ -1,0 +1,4 @@
+1978JGR....83.1035Z|Zastenker, G;Temnyi, V;Duston, C;Bosqued, J|The form and energy of the shock waves from the solar flares of August 2, 4, and 7, 1972|20
+1977SoPh...51..217D|Duston, C;Bosqued, J;Cambou, F;Temnyi, V;Zastenker, G;Vaisberg, O;Eroshenko, E|Energetic properties of interplanetary plasma at the earth's orbit following the August 4, 1972 flare.|15
+1975Ge&Ae..15..729V|Vedrenne, G;Kudriavtsev, M;Likin, O;Melioranskii, A;Pisarenko, N;Savenko, I;Talon, R;Shamolin, V|Hard electromagnetic radiation in the flare of August 4, 1972.|0
+1975JGR....80.2001D|Dryer, M;Eviatar, A;Frohlich, A;Jacobs, A;Joseph, J;Weber, E|Interplanetary shock waves and comet brightness fluctuations during June-August 1972|37

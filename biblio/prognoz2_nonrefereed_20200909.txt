@@ -1,0 +1,5 @@
+1983MVSFA..24....9V|Volodichev, N;Savenko, I;Suslov, A|Search for short-term increases of the flux of heavy cosmic-ray nuclei according to Prognoz-satellite data|0
+1977cosp.meetS....D|Duston, C;Bosqued, J;Zastenker, G;Temnyi, V|The shape and the energy of the interplanetary shock waves associated to August 1972, solar flares|0
+1976IzKry..54..316K|Kovrizhnykh, O;Kudriavtsev, M;Melioranskii, A;Savenko, I;Shamolin, V;Chupova, L|Investigation of hard X-ray emission by solar bursts with the Prognoz series of artificial earth satellites|0
+1975IAUS...68.....K|Kane, S|Solar gamma-, X-, and EUV radiation : symposium no. 68 held in Buenos Aires, Argentina, 11-14 June 1974, organized by the IAU in cooperation with COSPAR|13
+1975IAUS...68..315T|Talon, R;Vedrenne, G;Melioranskii, A;Pissarenko, N;Shamolin, V;Likin, O|X and γ-RAY Measurements during the 1972, August 2 and 7 Large Solar Flares|6

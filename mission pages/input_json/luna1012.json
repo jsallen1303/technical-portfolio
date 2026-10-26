@@ -1,0 +1,33 @@
+{
+  "title": "The Luna 10 & 12 satellites",
+    "name": "Luna 10 & Luna 12",
+    "decade" : 1960,
+  "alttext": "photo of Luna satellite in a museum",
+  "imagesize": 300,
+  "imageurl": "/Images/misc_missions/luna9_small.gif",
+    "descript": "<p><b><font size=\"+2\">L</font>una 10</b> was launched on 31 March 1966 and <b>Luna 12</b> on 22 October 1966. They were the first Luna spacecraft intended to go into orbit around the moon, rather than soft or hard landing there. On 3 April 1966, Luna 10 was put into a selenocentric orbit &mdash; becoming the moon&rsquo;s first man-made satellite. It had an apogee of 1015 km, a perigee of 350 km, an inclination to the equatorial plane of 72&deg;. The orbital time was 2 hours 58 minutes. The Luna 12 orbit was: apogee 1740 km, perigee 100 km, inclination 20&deg;, orbital time 3 hours 25 minutes. Both missions carried instrumentation to study the Moon and cislunar space. The instruments comprised a multichannel scintillation gamma-ray spectrometer intended to measure the moon&rsquo;s gamma-radiation. However, the Luna 10 and 12 spacecraft both measured the cosmic gamma-ray background during their flight to the moon. ",
+    "lifetime": "Mar&ndash;Oct 1966",
+    "features": [
+	"First man-made satellites to orbit the Moon",
+	"Early cosmic gamma-ray background measurements"
+    ],
+    "instruments": [
+	{
+	    "name" : "Gamma Ray Detectors",
+	    "energy" : "0.3&ndash;3.0 MeV",
+	    "descript" : "Both satellites carried 40 &times; 40 mm NaI(Tl) scintillators. There was 32 channel energy resolution. The detector aboard Luna 10 was housed inside the satellite and that of Luna 12 was outside."
+	}
+    ],
+  "highlights": [],
+  "archive": "",
+  "navigation": [
+    {
+      "url": "images/luna1012_images.html",
+      "text": "Gallery"
+    },
+    {
+      "url": "biblio/luna1012_biblio.html",
+      "text": "Bibliography"
+    }
+  ]
+}

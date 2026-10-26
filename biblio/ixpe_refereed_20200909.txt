@@ -1,0 +1,17 @@
+2020MNRAS.498..599T|Tavecchio, F;Landoni, M;Sironi, L;Coppi, P|Probing shock acceleration in BL Lac jets through X-ray polarimetry: the time-dependent view|0
+2019A&A...623A..12M|Marinucci, A;Porquet, D;Tamborra, F;Bianchi, S;Braito, V;Lobban, A;Marin, F;Matt, G;Middei, R;Nardini, E;Reeves, J;Tortosa, A|A deep X-ray view of the bare AGN Ark 120. VI. Geometry of the hot corona from spectroscopic and polarization signatures|3
+2019ApJ...885...76P|Peirson, A;Romani, R|The Polarization Behavior of Relativistic Synchrotron Self-Compton Jets|2
+2019Galax...7...20B|Bottcher, M|Progress in Multi-wavelength and Multi-Messenger Observations of Blazars and Theoretical Challenges|21
+2019MNRAS.483..599G|Gonzalez-Caniulef, D;Zane, S;Turolla, R;Wu, K|Atmosphere of strongly magnetized neutron stars heated by particle bombardment|8
+2019RLSFN.tmp....6P|Pilia, M;Trois, A;Bachetti, M;Pellizzoni, A;Atzeni, G;Egron, E;Iacolina, M;Loru, S;Poddighe, A;Vacca, V|A multi-wavelength pipeline for pulsar searches|0
+2018ApJ...853L..21B|Bachetti, M;Huppenkothen, D|No Time for Dead Time: Use the Fourier Amplitude Differences to Normalize Dead-time-affected Periodograms|5
+2018ApJS..236...13H|Huppenkothen, D;Bachetti, M|On the Statistical Properties of Cospectra|7
+2018Galax...6...33W|Weisskopf, M|An Overview of X-Ray Polarimetry of Astronomical Sources|11
+2018Galax...6...35T|Taverna, R;Turolla, R|On the Spectrum and Polarization of Magnetar Flare Emission|0
+2018Galax...6...42B|Bucciantini, N|Future X-ray Polarimetry of Relativistic Accelerators: Pulsar Wind Nebulae and Supernova Remnants|1
+2018Galax...6...46V|Vink, J;Zhou, P|Practical Aspects of X-ray Imaging Polarimetry of Supernova Remnants and Other Extended Sources|1
+2018MNRAS.475...43M|Moscibrodzka, M;Gammie, C|IPOLE - semi-analytic scheme for relativistic polarized radiative transport|26
+2018MNRAS.480.2872T|Tavecchio, F;Landoni, M;Sironi, L;Coppi, P|Probing dissipation mechanisms in BL Lac jets through X-ray polarimetry|11
+2018PhDT........98B|Beheshtipour, B|Simulation of Black Hole Inner Accretion Disk-Corona and Optimization of the Hard X-ray Polarimeter, X-Calibur|0
+2017MNRAS.469.3610T|Taverna, R;Turolla, R|On the spectrum and polarization of magnetar flare emission|6
+2016ApJ...826..203B|Beheshtipour, B;Hoormann, J;Krawczynski, H|Studies of the Origin of High-frequency Quasi-periodic Oscillations of Mass-accreting Black Holes in X-Ray Binaries with Next-generation X-Ray Telescopes|8

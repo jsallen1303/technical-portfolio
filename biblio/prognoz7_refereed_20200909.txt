@@ -1,0 +1,17 @@
+1994JGR....9923503Y|Yermolaev, Y;Zastenker, G|Differential flow between protons and alphas in the solar wind: Prognoz 7 observations|2
+1987ApJ...319..567D|Desai, U;Kouveliotou, C;Barat, C;Hurley, K;Niel, M;Talon, R;Vedrenne, G;Estulin, I;Dolidze, V|Short Solar Events with Evidence of Repetitive Structures|14
+1987CzJPh..37..759A|Avanov, L;Borodkova, N;Nemecek, Z;Omelchenko, A;Safrankova, J;Skalski, A;Yermolaev, Y;Ermolaev, Y;Zastenker, G|Some features of solar wind protons, α particles and heavy ions behaviour. The Prognoz 7 and Prognoz 8 experimental results.|9
+1983A&A...126..400B|Barat, C;Hayles, R;Hurley, K;Niel, M;Vedrenne, G;Desai, U;Kurt, V;Zenchenko, V;Estulin, I|Fine time structure in the 1979 March 5 gamma ray burst|70
+1983ApJ...265.1076H|Hurley, K;Niel, M;Talon, R;Estulin, I;Dolidze, V|Multispacecraft hard X-ray observations of fine time structure in two solar flares|23
+1983JGR....88.4739R|Russell, C;Mellott, M;Smith, E;King, J|Multiple spacecraft observations of interplanetary shocks: Four spacecraft determination of shock normals|150
+1983PAZh....9..307B|Bogovalov, S;Liudin, A;Kotov, I;Dolidze, V;Vedrenne, G;Niel, M;Barat, C;Chambon, G;Talon, M;Estulin, I|Observation of quasi-periodic pulsations of hard X-ray radiation of solar flares.|2
+1982PAZh....8..488D|Dolidze, V;Estulin, I;Vedrenne, G;Niel, M;Talon, A;Chambon, G|On impulsive X-ray flares on the sun.|1
+1982SSRv...31..247L|Lundin, R;Hultqvist, B;Pisarenko, N;Zakharov, A|The Plasma Mantle: Composition and Other Characteristics Observed by Means of the PROGNOZ-7 Satellite|54
+1981ApJ...245L..63L|Laros, J;Evans, W;Fenimore, E;Klebesadel, R;Barat, C;Hurley, K;Niel, M;Vedrenne, G;Estulin, I;Zenchenko, V|Location of the 1979 April 6 gamma-ray burst|34
+1981P&SS...29.1235Z|Zastenker, G;Yermolaev, Y|Observations of solar wind stream with high abundance of heavy ions and relation with coronal conditions|10
+1981PAZh....7..342D|Dyachkov, A;Zenchenko, V|The gamma-ray bursts of 1978 October 13 and 23 and 1979 January 7|0
+1981SSI.....5..229B|Barat, C;Chambon, G;Hurley, K;Niel, M;Vedrenne, G;Estulin, I;Kuznetsov, A;Zenchenko, V|The Signe 2 Franco-Soviet interplanetary gamma ray burst experiment network|16
+1981SvAL....7...12E|Estulin, I;Dyachkov, A;Zenchenko, V;Kuznetsov, A;Mersov, G;Vedrenne, G;Niel, M;Hurley, K|Three Gamma-Ray Bursts Recorded by VENERA-11 VENERA-12 and PROGNOZ-7|4
+1979PAZh....5..588V|Vedrenne, G;Zenchenko, V;Kurt, V;Niel, M;Hurley, K;Estulin, I|Observations of the X-ray burster 0525.9-66.1|5
+1979SSI.....5...73C|Chambon, G;Hurley, K;Niel, M;Vedrenne, G;Zenchenko, V;Kuznetsov, A;Estulin, I|Signe II MP - A Franco-Soviet gamma ray burst satellite experiment|11
+1979Sci...205..119E|Evans, W;Glore, J;Klebesadel, R;Laros, J;Tech, E;Spalding, R|Gamma-Ray Burst Observations by Pioneer Venus Orbiter|17

@@ -1,0 +1,19 @@
+1993AAS...182.3302H|Hack, F;Hurley, K;Atteia, J;Barat, C;Niel, M;Cline, T;Dennis, B;Kouveliotou, C;Klebesadel, R;Laros, J;Kurt, V;Kuznetsov, A;Zenchenko, V|Precise Localizations of Gamma-Ray Bursts from the 2nd Interplanetary Network|0
+1991IAUC.5161....1L|Lund, N;Brandt, S;Makino, F;McNaught, R;Jones, A;West, R|X-Ray Transient in Musca (GRS 1121-68 = GS 1124-683)|46
+1990IAUS..142..409K|Kurt, V|Electrons and X-Ray Emission of Solar Flares|9
+1988IzSSR..52.2392M|Morozova, E;Pisarenko, N;Timofeev, V;Klimenko, V;Shafer, I|Anisotropy and differential spectrum of energetic solar particles at 0.8 AU|0
+1988mit..rept.....F|Fegley, B|Kinetics of thermochemical gas-solid reactions important in the Venus sulfur cycle|0
+1988ucb..rept.....H|Hurley, K|Collaborative analysis of solar maximum mission, Venera and Prognoz solar X-ray bursts|0
+1987IzSSR..51.1825D|Dajbog, E;Kurt, V;Logachev, Y;Stolpovskij, V;Zenchenko, V;Mel'nikov, V|The coefficient of outflow of electrons generated in solar flares.|3
+1986swne.book....8M|Morozova, E;Evdokimova, L;Budnik, E;Eroshenko, E;Bezrodnykh, I;Pisarenko, N;Riedler, W;Schwingenschuh, K|Dynamics of the power spectrum of the interplanetary magnetic field behind a shock wave on February 1 - 2, 1982.|0
+1985RpSpR...6...30B|Belyakov, S;Daybog, Y;Dyachkov, A;Zenchenko, V;Kurt, V;Logachev, Y;Rutkovskiy, A;Ryumin, S;Stolpovskiy, V;Yurovitskaya, V|Solar flare X-radiation and high-energy particles according to observational data from Venera-13 and Venera-14 automatic interplanetary stations|0
+1985RpSpR...9...31B|Bogovalov, S;Iyudin, A;Kotov, Y;Shugal, Y;Dolidze, V;Zenchenko, V;Vedrenne, G;Niel, M;Barat, C;Shambon, C|Analysis of short-period changes in intensity of hard X-radiation of solar flares registered aboard Venera-13 and Venera-14 spacecraft|0
+1985pggp.rept...97W|Wilson, L;Garvin, J;Head, J|Characteristics of basaltic lava flows on Venus|1
+1983RpSpR..19...40S|Selivanov, A;Narayeva, M|Television on Venus|0
+1983RpSpR..21...56I|Istomin, V|Venera-13 mass spectrometer studies of atmospheric gases on Venus|0
+1983vens.book.....H|Hunten, D;Colin, L;Donahue, T;Moroz, V|Venus|19
+1983vens.book...45M|Moroz, V|Summary of preliminary results of the Venera 13 and Venera 14 missions.|2
+1982RpSpR..16....7S|Surkov, Y|Venera data on atmosphere and surface composition|0
+1982S&T....63..452B|Beatty, J|Report from a Torrid Planet|1
+1982S&W....21..282K|Koehler, H|Results of the Venus sondes Venera 13 and 14|0
+1982SciN..121..197E|Eberhart, J|The Eyes of VENERA-13 and VENERA-14 - New Views of Venus|0

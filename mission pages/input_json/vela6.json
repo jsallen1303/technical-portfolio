@@ -1,0 +1,32 @@
+{
+    "title": "The Vela 6A & 6B Satellites",
+    "name": "Vela 6A/B",
+    "decade": 1970,
+    "imagesize": null,
+    "descript": "<p><b><font size=\"+2\">T</font>he Vela 6</b> nuclear test detection satellites were part of a program run jointly by the Advanced Research Projects of the U. S. Department of Defense and the U. S. Atomic Energy Commission, managed by the U. S. Air Force. The twin spacecraft, Vela 6A and 6B, were launched on 8 April 1970 and placed &sim;180 degrees apart in nearly circular orbits at a geocentric distance of &sim;118,000 km. The orbital period was &sim;112 hours. Each satellite rotated about its spin axis with a &sim;64-sec period. The satellites carried both X-ray and gamma-ray detectors which could be used for cosmic observations. The X-ray detector was located &sim;90 degrees from the spin axis, and so covered the entire celestial sphere twice per satellite orbit.</p>",
+    "lifetime": "1970&ndash;1979",
+    "instruments": [
+	{
+	    "name" : "Scintillation X-ray Detector (XC)",
+	    "energy" : "3&ndash;12 keV",
+	    "fov" : "&sim;6.1&deg; &times 6.1&deg;",
+	    "area" : "&sim;26 cm<sup>2</sup>",
+	    "descript" : "The XCs aboard Vela 6A and 6B consisted of two 1-mm thick NaI(Tl) crystals mounted on photomultiplier tubes and covered by a 5-mil-thick beryllium window. Electronic thresholds provided two energy channels, 3&ndash;12 keV and 6&ndash;12 keV. In front of each crystal was a slat collimator to define the field of view. Sensitivity to celestial sources was severely limited by the high intrinsic detector background."
+	},
+	{
+	    "name" : "Gamma Ray Detectors",
+	    "energy" : "150&ndash;750 keV",
+            "descript" : "Both Vela 6A and 6B carried 6 gamma-ray detectors. They had a total volume of &sim;60 cm<sup>3</sup> of CsI and were intended to verify compliance with the Partial Test Ban Treaty of 1963. An unintentional results was the discovery of gamma-ray bursts."
+	}
+    ],
+    "highlights": [
+	"Data from the Vela 6 satellites was used to look for correlations between gamma-ray bursts and X-ray events. At least 2 good candidates were found, GB720514 and GB740723 (<a class=\"usa-link\" href=\"https://ui.adsabs.harvard.edu/abs/1982ApJ...254..279T/abstract\">Terrell <i>et al.</i> 1982</a>). The four Vela satellites (5A &amp; B, 6A &amp; B) recorded 73 gamma-ray bursts in the ten year interval July 1969&ndash;April 1979."
+    ],
+  "archive": "",
+  "navigation": [
+    {
+      "url": "biblio/vela6_biblio.html",
+      "text": "Publications"
+    }
+  ]
+}

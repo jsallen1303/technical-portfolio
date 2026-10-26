@@ -1,0 +1,282 @@
+2018cosp...42E3323T|Tachibana, Y;Sugita, S;Kawai, N;Shiraishi, K|The long-term X-ray variability of the black hole binary GRS 1915+105|0
+2017ATel10073....1M|Mereminskiy, I;Grebenev, S;Krivonos, R|The new X-ray outburst of GRO J1744-28 detected with INTEGRAL|0
+2014ATel.5986....1K|Krimm, H;Barthelmy, S;Baumgartner, W;Cummings, J;Gehrels, N;Lien, A;Markwardt, C;Palmer, D;Sakamoto, T;Stamatikos, M;Ukwatta, T|Swift/BAT detects an outburst from the X-ray nova and black hole candidate GRS 1739-278|8
+2013mss..confERF06N|Notani, M;Oka, T|Ionization of H_2 by X-Rays in the Central Molecular Zone of the Galactic Center|0
+2012AGUFM.P43A1903E|Elvis, M;Allen, B;Hong, J;Grindlay, J;Kraft, R;Binzel, R;Masterton, R|X-ray Fluorescence Spectroscopy: the Potential of Astrophysics-developed Techniques|0
+2010cosp...38.3038M|Miroshnichenko, L;Gan, W;Troitskaia, E|Particle acceleration and gamma-emission from solar flares|0
+2008cosp...37.1328I|Ishkov, V|About the Opportunity of the Large Flare Events Forecast Under Characteristics of New Emerging Magnetic Fluxses|0
+2008cosp...37.3214T|Troitskaya, E;Arkhangelskaja, I;Miroshnichenko, L;Arkhangelsky, A|Modeling of 2.223 MeV gamma-line emission and the features of 20 January 2005 Solar event|0
+2007AAS...211.2303K|Keel, W|The First 25 Years of Space Astronomy in the USSR|0
+2007ATel.1008....1K|Kuulkers, E;Shaw, S;Chenevez, J;Brandt, S;Domingo, A;Kretschmar, P;Markwardt, C;Mowlavi, N;Paizis, A;Risquez, D;Sanchez-Fernandez, C;Wijnands, R|IGR J17453-2853 = Granat 1741.9-2853?|6
+2004AIPC..704..361S|Schonfelder, V|Radio Nuclides In The Galaxy Seen In Gamma-Rays|1
+2004ASPC..312..415D|Daigne, F;Mochkovitch, R|The expected photospheric emission of GRBs in the internal shock model|1
+2004ESASP.548..443M|Molotov, I|Status and Plans of the Russian Deep Space Network with Emphasis on the VLBI/Delta-DOR Techniques|0
+2004IAUS..219....1B|Brown, J|The Sun as a Stellar Laboratory: Unsolved Problems|5
+2004cosp...35.2008K|Kozyrev, A|Short GRBs may not have Emission Below 100 keV|0
+2004cosp...35.2952M|Murphy, R;Share, G|What High Energy Emissions Reveal about Solar Flares|0
+2004cosp...35.2960B|Barat, C|The E_peak distribution of long gamma-ray bursts observed by the PHEBUS experiment.|0
+2004cosp...35.3968S|Sunyaev, R;Lutovinov, A;Churazov, E|INTEGRAL observations of the GRS1758-258 in a bright state|0
+2004cosp...35.4028P|Pozanenko, A;Barat, C;Loznikov, V;Preece, R|Variability of Gamma-Ray Bursts|1
+2003AIPC..662..289D|Daigne, F;Mochkovitch, R|The Expected Thermal Precursors of Gamma-Ray Bursts in the Internal Shock Model|0
+2003ANS...324..337L|Lutovinov, A;Grebenev, S;Molkov, S;Sunyaev, R|Review of low-mass X-ray binaries near the Galactic center|2
+2003ATel..185....1S|Sunyaev, R;Lutovinov, A;Molkov, S|GRS 1758-258|0
+2002astro.ph..5552L|Lutovinov, A;Molkov, S;Grebenev, S;Pavlinsky, M|Review of X-Ray Bursters in the Galactic Center Region|0
+2002astro.ph.12502G|Goldwurm, A|High Energy Emission from Galactic Black Hole Systems|0
+2002iaf..confE.945S|Sygulla, D;Sabath, D;Puttmann, N;Schmid, V;Caporicci, M;Anderson, B|The US - European Cooperation in the X-38 and CRV Programs|0
+2002iaf..confE.965H|Hilfer, G|X-38 Full Scale TPS Flight Qualification|0
+2002luml.conf..184D|Daigne, F|The Thermal Precursors of Gamma-Ray Bursts|0
+2002nmgm.meet.2415B|Burenin, R;Vikhlinin, A;Terekhov, O;Sunyaev, R|The Transition from the Main Burst to the Afterglow from Granat/sigma Data|0
+2002xmm..pres....8.||Integral -tracking extreme radiation across the Universe|0
+2002yCat.9036....0T|Terekhov, O;Tkachenko, A;Denisenko, D;Lobachev, V;Sunyaev, R;Kovtun, A;Kuznetsov, A;Barat, C;Dezalay, J;Talon, R;Vedrenne, G|VizieR Online Data Catalog: GRANAT/PHEBUS catalog of cosmic gamma-ray bursts (Terekhov+, 1994-2002)|0
+2001AGUFMSH32B..08V|Vilmer, N;MacKinnon, A;Trottet, G;Barat, C|Energetic Ions Accelerated during the large solar flare of 24 May 1990: high energy gamma-ray observations|0
+2001ASPC..251..380L|Lutovinov, A;Grebenev, S;Sunyaev, R|Non-pulsing Emission from X-ray Pulsars|0
+2001ASPC..251..562L|Lutovinov, A;Pavlinsky, M;Grebenev, S|Observation of Solar Flares through the ART-P Telescope Side Shield|0
+2001ATel...66....1S|Smith, D;Heindl, W;Swank, J;Markwardt, C|Black-Hole Candidate GRS 1758-258 Enters an "Off" State|7
+2001ESASP.459..337S|Sabat, H;Jourdain, E;Goldoni, P;Paul, J;Kuznetsov, S;Dyachkov, A;Khavenson, N;Novikov, I|Spectral behaviour of some X-ray binaries with the Sigma/Granat telescope|1
+2001SPIE.4424..524H|Henry, E;Batani, D;Morelli, A;Bernasconi, M;Koenig, M;Benuzzi, A;Masclet, I;Marchet, B;Rebec, M;Reverdin, C;Celliers, P;Da Silva, L;Cauble, R;Collins, G;Hall, T;Cavazzoni, C|Preliminary results on the EOS of water in the megabar range|0
+2001eso..pres...24.||A Very Massive Stellar Black Hole in the Milky Way Galaxy|0
+2000AAS...19510707L|Lenters, G;Ramaty, R;Mandzhavidze, N;Miller, J|Gamma-Ray Evidence for Time-Dependent Heavy Ion Enhancement on Flare Particle Acceleration Time Scale|0
+2000AIPC..510..693L|La Rosa, G;Gianotti, F;Fazio, G;Segreto, A;Stephen, J;Trifoglio, M|The EGSE science software of the IBIS instrument on-board INTEGRAL satellite|1
+2000astro.ph..9349L|Lutovinov, A;Grebenev, S;Pavlinsky, M;Sunyaev, R|X-Ray Bursters A1742-294 and SLX1744-299/300 Near the Galactic Center|0
+2000eaa..bookE4639.||Granat|0
+1999AAS...194.0301P|Pelaez, F;Jourdain, E;Roques, J;Vedrenne, G;Burenin, R;Vikhlinin, A;Gilfanov, M;Terekhov, O;Tkachenko, A;Sazonov, S;Churazov, E;Sunyaev, R;Goldoni, P;Claret, A;Goldwurm, A;Paul, J|GRANAT/SIGMA Observations of Early Afterglows from Gamma-Ray Bursts in Soft Gamma-Rays|0
+1999ASSL..234..319G|Gilfanov, M;Churazov, E;Sunyaev, R|X-ray Spectral Variability of Black Hole Binaries|1
+1999ESASP.446..247C|Crosby, N;Georgoulis, M;Vilmer, N|A Comparison between the WATCH Flare Data Statistical Properties and Predictions of the Statistical Flare Model|1
+1999HEAD....4.1601C|Chaty, S;Mirabel, I;Rodriguez, L|Multi-wavelength study of the microquasar GRS 1915+105 and of high-energy binary sources in the Galaxy|0
+1999MmSAI..70.1127L|Laurent, P|SIGMA observations of galactic black holes.|0
+1998AIPC..428...15D|Dezalay, J;Atteia, J;Barat, C;Boer, M;Darracq, F;Goupil, P;Niel, M;Talon, R;Vedrenne, G;Hurley, K;Terekhov, O;Sunyaev, R;Kuznetsov, A|The hardness-intensity correlation and the spatial distribution of GRBs|4
+1998AIPC..428..278B|Barat, C;Lestrade, J;Dezalay, J;Hurley, K;Sunyaev, R;Terekhov, O;Kuznetsov, A|PHEBUS burst spectra between 0.1 and 10 MeV|5
+1998AIPC..428..610G|Gorosabel, J;Castro-Tirado, A|Study of the possible connection between gamma-ray bursts and active galactic nuclei|0
+1998AIPC..433...42S|Scarsi, L|Gamma ray bursts and extreme energy cosmic rays|1
+1998HiA....11..755Y|Yoshimori, M;Saita, N;Shiozawa, A|High-Energy Solar Gamma-Ray Observations|0
+1998IBUAA..12...88B|Baranovskij, A;Marchinskij, D;Shlyapnikov, A;Guzij, S;Salikin, A|Investigation of 30 GRB fields.|0
+1998MUPB...53...22L|Lyubimov, G;Grigorenko, E|Analysis of the event in solar cosmic rays in June 1991 according to AES 'Granat' data.|0
+1998PABei..16..321G|Gan, W;Lin, C|The new progress of observations and studies on solar flare gamma-rays.|2
+1998SPIE.3266..135B|Baister, G;Gatenby, P;Laurent, B;Griseri, G|Optical communications terminals for multimedia applications|0
+1998SPIE.3445..460G|Giarrusso, S;Catalano, O;Celi, F;Fazio, G;La Rosa, G;Richiusa, G;Schillaci, T;Bonanno, G;Cosentino, R;Di Benedetto, R;Scuderi, S|AIR WATCH: air-induced fluorescence by radiation laboratory experiments|0
+1998SPIE.3445..505S|Scarsi, L;Attina, P;Catalano, O;de Marzo, C;Giarrusso, S;Kostadinov, I;Krenov, B;Lamb, D;Linsley, J;Mazzinghi, P;Stalio, R;Takahashi, Y|AIR WATCH: a space mission to observe the UV fluorescence induced in the Earth atmosphere by extreme-energy cosmic radiation|1
+1998astro.ph..7342H|HEGRA collaboration: L. Padilla;Funk, B;Krawczynski, H;Contreras, J;Moralejo, A;Aharonian, F;Akhperjanian, A;Barrio, J;Beteta, J;Cortina, J;Deckers, T;Fonseca, V;Gebauer, H;Gonzalez, J;Heinzelmann, G;Horns, D;Kornmayer, H;Lindner, A;Lorenz, E;Magnussen, N;Meyer, H;Mirzoyan, R;Petry, D;Plaga, R;Prahl, J;Prosch, C;Rauterberg, G;Rhode, W;Roehring, A;Sahakian, V;Samorski, M;Schmele, D;Stamm, W;Wiebel-Sooth, B;Willmer, M;Wittek, W|Search for gamma-ray bursts above 20 TeV with the HEGRA AIROBICC Cherenkov array|2
+1998tx19.confE.341G|Goldwurm, A;Goldoni, P;Laurent, P;Lebrun, F;Paul, J|Hard X-rays From the Galactic Nucleus: Present and Future Observations|0
+1998xmm..pres...30.||ESA presents INTEGRAL, its space observatory for Gamma-ray astronomy|0
+1998xmm..pres...51.||ESA presents INTEGRAL, its space observatory for Gamma-ray astronomy|0
+1998yCat..41300233C|Crosby, N;Lund, N;Vilmer, N;Sunyaev, R|VizieR Online Data Catalog: WATCH Solar X-Ray Burst Catalogue (Crosby+ 1998)|0
+1997AAS...190.3204U|Ubertini, P;INTEGRAL Science Team|INTEGRAL Galactic Plane Survey|0
+1997AIPC..410.1333G|Gorosabel, J;Castro-Tirado, A|Are gamma-ray bursts related to active galactic nuclei?|0
+1997AIPC..410.1527U|Ubertini, P;IBIS Collaboration|IBIS: The imaging Gamma-Ray telescope on board INTEGRAL|3
+1997ESASP.382..205T|Trudolyubov, S;Gifanov, M;Churazov, E;Sunyaev, R;Chulkov, I;Dyachkov, A;Khavenson, N;Novikov, B;Ballet, J;Goldwurm, A;Paul, J;Denis, M;Bouchet, L;Jourdain, E;Roques, J;Borrel, V|Hard X-Ray Observations of GX 339-4 with GRANAT/SIGMA|0
+1997ESASP.382..213K|Kuznetsov, S;Gilfanov, M;Churazov, E;Sunyaev, R;Korel, I;Khavenson, N;Dyachkov, A;Novikov, B;Ballet, J;Laurent, P;Vargas, M;Goldwurm, A;Roques, J;Jourdain, E;Bouchet, L;Borrel, V|Properties of the Hard X-Ray Emission from the Black Hole Candidates: Cygnus X-1 and 1E1740. 7-2942|0
+1997ESASP.382..273R|Revnivtsev, M;Gilfanov, M;Churazov, E;Sunyaev, R;Borozdin, K;Alexandrovich, N;Khavenson, N;Chulkov, I;Goldwurm, A;Ballet, J;Denis, M;Laurent, P;Roques, J;Borrel, V;Bouchet, L;Jourdain, E|Hard X-Ray Observations of X-Ray Nova Ophiuchi 1993 (GRS 1716-249) with GRANAT/SIGMA|0
+1997ESASP.382..277R|Revnivtsev, M;Gilfanov, M;Churazov, E;Sunyaev, R;Borozdin, K;Alexandrovich, N;Khavenson, N;Dyachkov, A;Vargas, M;Paul, J;Goldwurm, A;Laurent, P;Jourdain, E;Roques, J;Borrel, V;Vouchet, L|Detection of the Hard X-Ray Emission from X-Ray Burster 4U1705-44 with GRANAT/SIGMA|0
+1997ESASP.382..291C|Chichkov, M;Sunyaev, R;Sazonov, S;Lund, N|Stellar Wind Accretion Driven Pulsar A0535+26: GRANAT/WATCH Long-Term Observations|2
+1997ESASP.382..295G|Grebenev, A;Lutovinov, S;Sunyaev, R|Spectroscopy and Timing of Her X-1 During On an Off Phases of the 35-Day Cycle with GRANAT/ART-P.|2
+1997ESASP.382..469G|Gorosabel, J;Castro-Tirado, A;Brandt, S;Lund, N|WATCH Bursts in the Context of the BATSE 3B Catalogue|0
+1997ESASP.382..485G|Guziy, S;Shlyapnikov, A;Gorosabel, J;Castro-Tirado, A;Brandt, S;Lund, N|Status of the Search for Optical Counterparts in GRB Error Boxes from the WATCH Instrument on the GRANAT Satellite|2
+1997ESASP.382..503S|Shlyapnikov, A;Guziy, S|Creation of the Space Research Group in Nikolaev|1
+1997ESASP.400..341O|Orlov, A;Goncharov, K;Kotliarov, E;Tyklina, T;Ustinov, S;Maidanik, Y|The loop heat pipe experiment on board the 'GRANAT' spacecraft|0
+1997ESASP.401..337S|Shlyapnikov, A;Marchinskiy, D;Castro-Tirado, A|The Search for Infrared Candidates in Gamma-Ray Burst Error Boxes|0
+1997IAUC.6599....2S|Sunyaev, R;Churazov, E;Revnivtsev, M;Trudolyubov, S;Vargas, M;Paul, J;Roques, J;Jourdain, E;GRANAT/SIGMA Team|GRS 1737-31|8
+1997IAUC.6603....3S|Sunyaev, R|1E 1740.7-2942 and GRO J1744-28|1
+1997IAUC.6746....2P|Paul, J;Goldwurm, A;Jourdain, E;Roques, J;Sunyaev, R;Churazov, E;Trudolyubov, S;Revnivtsev, M|XTE J1755-324|3
+1997asxo.proc...49B|Borozdin, K;Alexandrovich, N;Arefeiv, V;Gilfanov, M;Revnivtsev, M;Sunyaev, R;Trudolyubov, S|Observations of bright X-ray transients by MIR-KVANT module in 1988-1996|0
+1997asxo.proc..337P|Paciesas, W;Kippen, R;Pendleton, G|COSMIC: A Compton Telescope for All-sky Monitoring of Low-Energy Gamma-Rays|0
+1997hecn.confE..14D|D'Ali Staiti, G|AIR - WATCH: A Conceptual study for detecting Extreme Energy Cosmic Rays|0
+1997iwtu.conf..183G|Grebenev, S;Pavlinsky, M;Sunyaev, R|Hard X-ray sources 1E1740.7-2942, GRS1758-258 and SLX1735-269 in the Galactic center field|0
+1997jena.confE.253B|Burenin, R;Terekhov, O;Sunyaev, R;Sazonov, S;Vikhlinin, A|Search of the correlation between locations of gamma-ray bursts sources and Abell clusters|0
+1997jena.confE.276L|Lutovinov, A;Grebenev, S;Pavlinsky, M;Sunyaev, R|The emission/absorption features in the HER X-1 ``high-on'' spectrum. Pulse phase spectroscopy.|0
+1997jena.confE.289R|Revnivtsev, M;Gilfanov, M;Churazov, E;Sunyaev, R;Borozdin, K;Alexandrovich, N;Chulkov, I;Khavenson, N;Vargas, M;Paul, J;Goldwurm, A;Laurent, P;Jourdain, E;Roques, J;Borrel, V;Bouchet, L|GRANAT/SIGMA observations of 4U1705-44 and 4U1608-52 and spectral states of X-ray bursters|1
+1997nasa.reptQS....||Recommended Priorities for NASA'S Gamma Ray Astronomy Program 1996 - 2010|0
+1997nrao.pres....2.||"Microquasar" Discoveries Win Prize for Astronomers|0
+1997xmm..pres...41.||ESA's gamma-ray astronomy mission's Russian launch confirmed|0
+1997yCat..41290001S|Sazonov, S;Sunyaev, R;Terekhov, O;Lund, N;Brandt, S;Castro-Tirado, A|VizieR Online Data Catalog: GRANAT/WATCH catalogue of gamma-ray bursts (Sazonov+ 1998)|0
+1996AAS...188.2606M|Mandzhavidze, N;Ramaty, R|Determination of Element Abundances in Solar Atmosphere and Solar Flare Accelerated Particles Using Gamma Ray Spectroscopy|6
+1996AIPC..374..153T|Trottet, G;Barat, C;Ramaty, R;Vilmer, N;Dezalay, J;Kuznetsov, A;Mandzhavidze, N;Sunyaev, R;Talon, R;Terekhov, O|Thin target γ-ray line production during the 1991 June 1 flare|11
+1996AIPC..374..311V|Vilmer, N;Trottet, G;Verhagen, H;Barat, C;Talon, R;Dezalay, J;Sunyaev, R;Terekhov, O;Kuznetsov, A|Subsecond time variations in solar flares around 100 keV: Diagnostics of electron acceleration|3
+1996AIPC..384...37D|Dezalay, J;Lestrade, J;Barat, C;Talon, R;Terekhov, O;Sunyaev, R;Kuznetsov, A|Comparison of the properties of short and long gamma-ray bursts observed with Phebus|1
+1996AIPC..384..101S|Smith, I;Crider, A;Liang, E;Dunne, B;Fenimore, E;Li, H|Hardness ratio versus duration for PVO compared to BATSE and PHEBUS|1
+1996AIPC..384..301A|Atteia, J;Barat, C;Boer, M;Dezalay, J;Niel, M;Talon, R;Vedrenne, G;Hurley, K;Sommer, M;Sunyaev, R;Kuznetsov, A;Terekhov, O|Gross spectral differences between bright and very bright gamma-ray bursts|2
+1996AIPC..384..378G|Gorosabel, J;Castro-Tirado, A;Lund, N;Brandt, S;Terekhov, O;Sunyaev, R|GRBs observed with WATCH and BATSE (3B catalogue)|1
+1996ASPC..107..299P|Petersen, C;Brandt, J|The IHW Large--Scale Phenomena Network and Observations of Comets to Support the ULYSSES Mission|0
+1996IAUC.6291....1S|Sazonov, S;Sunyaev, R;Swank, J|GRO J1744-28|22
+1996IAUC.6343....2B|Bouchet, L;Paul, J;Gilfanov, M;Sunyaev, R|GRO J1744-28|3
+1996IAUC.6348....1P|Paul, J;Bouchet, L;Churazov, E;Sunyaev, R|GRS 1739-278|19
+1996IAUC.6350....1B|Borozdin, K;Alexandrovich, N;Sunyaev, R|GRS 1739-278 and GRO J1744-28|11
+1996IAUC.6383....1D|Durouchoux, P;Smith, I;Hurley, K;Schultz, A;Waters, L;van Paradijs, J;Wallyn, P;Hjellming, R;Rupen, M;Marti, J;Mirabel, F;Rodriguez, L|GRS 1739-278|19
+1996IAUC.6459....2S|Sazonov, S;Sunyaev, R|GRS 1915+105|0
+1996RadMe..26..437C|Chuchkov, E;Ermakov, S;Kontor, N;Lyubimov, G;Pavlov, N;Tulupov, V;Scherbovskiy, B|Interplanetary medium diagnostic during the large event in March 1991 based on GRANAT records.|0
+1996SPIE.2806..246U|Ubertini, P;Di Cocco, G;Lebrun, F;Bassani, L;Bazzano, A;Bird, A;Broenstad, K;Caroli, E;Denis, M;Goldwurm, A;Labanti, C;Laurent, P;Malaguti, G;Mirabel, I;Natalucci, L;Quadrini, M;Ramsey, B;Reglero, V;Sabau, L;Sacco, B;Staubert, R;Vigroux, L;Weisskopf, M;Zdziarski, A;Zehnder, A|Imager onboard INTEGRAL|15
+1996astro.ph..3118K|Kuznetsov, S;Gilfanov, M;Churazov, E;Sunyaev, R;Vikhlinin, A;Khavenson, N;Dyachkov, A;Laurent, P;Goldwurm, A;Cordier, B;Vargas, M;Mandrou, P;Roques, J;Jourdain, E;Borrel, V|Two Distinct Modes In The Low (Hard) State Of Cyg X-1 And 1E1740-294|0
+1996rftu.proc...55M|Mereghetti, S;Barret, D;Stella, L;Manchester, R;Tavani, M;Belloni, T|X-ray and radio observations of the globular cluster Terzan 2.|0
+1996rftu.proc..141G|Grebenev, S;Pavlinsky, M;Sunyaev, R|Population of X-ray sources near the Galactic center according to ART-P/GRANAT.|5
+1996rftu.proc..157K|Kuznetsov, S;Gilfanov, M;Churazov, E;Sunyaev, R;Vikhlinin, A;Khavenson, N;Dyachkov, A;Laurent, P;Goldwurm, A;Cordier, B;Vargas, M;Mandrou, P;Roques, J;Jourdain, E;Borrel, V|Two distinct modes in the low (hard) state of Cygnus X-1 and 1E 1740.7-2942.|7
+1996rftu.proc..185R|Revnivtsev, M;Gilfanov, M;Churazov, E;Sunyaev, R;Borozdin, K;Alexandrovich, N;Khavenson, N;Chulkov, I;Goldwurm, A;Ballet, J;Denis, M;Laurent, P;Mandrou, P;Roques, J;Jourdain, E;Borrel, V|Hard X-ray observations of X-ray Nova Ophiuchi 1993 (GRS 1716-249) with GRANAT/SIGMA.|1
+1996rftu.proc..187S|Sazonov, S;Sunyaev, R;Lund, N|Long-term X-ray observations of galactic superluminal sources with GRANAT/WATCH.|5
+1996rftu.proc..201T|Trudolyubov, S;Gilfanov, M;Churazov, E;Sunyaev, R;Borozdin, K;Alexandrovich, N;Khavenson, N;Novikov, B;Vargas, M;Goldwurm, A;Paul, J;Denis, M;Mandrou, P;Roques, J;Jourdain, E;Borrel, V|Hard X-ray observations of GRS/KS 1730-312 with GRANAT/SIGMA.|1
+1996rxte.prop10256G|Greiner, J|GRS 1915+105|0
+1996sst..conf...96T|Tkaczyk, W|Relaxation time of relativistic plasma.|0
+1995AAS...187.4601S|Smith, D;Leventhal, M;Cavallo, R;Gehrels, N;Tueller, J;Fishman, G|BATSE Observations of Galactic Positron-Annihilation Radiation|0
+1995ASIC..450..401L|Lutovinov, A;Grebenev, S;Sunyaev, R;Pavlinsky, M|Timing of X-ray Pulsars with ART-P/Granat|1
+1995IAUC.6196....2S|Sazonov, S;Sunyaev, R|GRS 1915+105|3
+1995IAUC.6201....2S|Sazonov, S;Sunyaev, R|X-Ray Nova 1994 in Scorpius and GRS 1915+105|4
+1995IAUC.6209....1S|Sazonov, S;Sunyaev, R;Zhang, S;Harmon, B;Paciesas, W;Fishman, G|X-Ray Nova 1994 in Scorpius|15
+1995IAUC.6209....2S|Sazonov, S;Sunyaev, R;Zhang, S;Harmon, B;Paciesas, W;Fishman, G|GRS 1915+105|0
+1995IAUC.6216....2G|Grebenev, S;Borozdin, K;Sunyaev, R|GRO J1735-27|1
+1995IAUC.6226....1C|Churazov, E;Gilfanov, M;Sunyaev, R;Dyachkov, A;Denis, M;Schmitz-Fraysse, M;Roques, J;Goldwurm, A|The Galactic Center|0
+1995IAUC.6272....2S|Sazonov, S;Sunyaev, R|U 0115+634|6
+1995IAUC.6274....2S|Sazonov, S;Sunyaev, R|GRS 1915+105|1
+1995ICRC....4..228C|Chuchkov, E;Ermakov, S;Kontor, N;Levitsky, V;Lyubimov, G;Pavlov, N;Tulupov, V;Shcherbovsky, B|The Solar Cosmic Ray Event of June 4-19, 1991 According to the Granat Spacecraft Data|0
+1995STIN...9631482V|van der Hooft, F;Lewin, W;Norris, J;van Paradijs, J;van der Klis, M;Kouveliotou, C;Rubin, B;Crary, D;Finger, M;Harmon, B;Fishman, G|Low-frequency QPO in the X-Ray transient GRO J1719-24|0
+1995astro.ph..4066P|Popov, S;Lipunov, V;Ozernoy, L;Postnov, K;Prokhorov, M|Population synthesis of X-ray sources at the Galactic center|0
+1995astro.ph..9155P|Popov, S;Lipunov, V;Ozernoy, L;Postnov, K;Prokhorov, M|Population synthesis of X-ray sources at the Galactic center|0
+1995grsc.conf..243C|Cordier, B|SIGMA observations of the Galactic Center in the hard X-ray and soft γ-ray regime.|0
+1995grsc.conf..255T|Teegarden, B|Balloon observations of the Galactic Center 511 keV line and their relationship to satellite results.|0
+1995ihea.conf..155G|Grebenev, S;Pavlinsky, M;Sunyaev, R|X-ray imaging with ART-P/GRANAT. Application of the Wavelet Transform|0
+1995ltsl.book.....S|Sobel, D|Longitude : the true story of a lone genius who solved the greatest scientific problem of his time|22
+1994AAS...18510208D|Deal, K;Paciesas, W;Briggs, M;Pendleton, G;Harmon, B;Wilson, C;Fishman, G;Zhang, S|BATSE Observations of the Hard X-Ray Transient GRS1915+105|1
+1994AIPC..294....3T|Trottet, G|X-ray and gamma-ray observations of solar flares by GRANAT|9
+1994AIPC..304..421G|Goldwurm, A;Cordier, B;Paul, J;Petrucci, P;Roques, J;Mandrou, P;Bouchet, L;Vedrenne, G;Sunyaev, R;Churazov, E;Gil'Fanov, M;D'Yachkov, A;Khavenson, N;Kovtunenko, V;Kremnev, R;Sukhanov, K|SIGMA/GRANAT results on weak sources of hard X-rays in the galactic center region.|11
+1994AIPC..304..446C|Cordier, B;Paul, J;Ballet, J;Goldwurm, A;Mandrou, P;Roques, J;Vedrenne, G;Niel, M;Sunyaev, R;Churazov, E;Gilfanov, M;D'Yachkov, A;Khavenson, N;Kovtunenko, V;Kremnev, R;Sukhanov, K|SIGMA/GRANAT deep survey of the Galactic Center region status report.|5
+1994AIPC..304..456H|Harmon, B;Zhang, S;Fishman, G;Paciesas, W;Rubin, B;Meegan, C;Wilson, R;Finger, M|BATSE observations of GX 354-0.|5
+1994AIPC..307...17C|Castro-Tirado, A;Brandt, S;Lund, N;Lapshov, I;Terekhov, O;Sunyaev, R|WATCH Observations of Gamma-Ray Bursts During 1990-1992|11
+1994AIPC..307..364H|Hurley, K;Lund, N;Brandt, S;Castro-Tirado, A;Sommer, M;Lapshov, I;Laros, J;Klebesadel, R;Fishman, G;Kouveliotou, C;Meegan, C;Cline, T;Boer, M;Niel, M|Comparison of WATCH and IPN Locations of Gamma-Ray Bursts|4
+1994AIPC..307..404C|Castro-Tirado, A;Brandt, S;Lund, N;Guziy, S|Optical Follow-Up of Gamma-Ray Bursts Observed by WATCH|12
+1994ASSL..187...35C|Churazov, E;Gilfanov, M;Sunyaev, R;Grebenev, S;Markevich, M;Pavlinsky, M;Dyachkov, A;Khavenson, N;Cordier, B;Goldwurm, A;Lebrun, F;Paul, J;Roques, J;Mandrou, P;Bouchet, L;Mallet, I|Review of Galactic Center Observations with GRANAT|4
+1994IAUC.5932....1G|Goldwurm, A;Gaertner, S;Churazov, E;Gilfanov, M|Gamma-Ray Burst|1
+1994IAUC.5959....1S|Sazonov, S;Sunyaev, R;Lapshov, I|GRS 1915+105|10
+1994IAUC.6077....1H|Hjellming, R;Rupen, M;Sazonov, S;Sunyaev, R|X-Ray Nova in Scorpius|4
+1994IAUC.6078....1G|Greiner, J;Herbstmeier, U;Campbell-Wilson, D;McKay, D;Lovell, J|X-Ray Nova in Scorpius|9
+1994IAUC.6080....1S|Sazonov, S;Sunyaev, R;Alexandrovich, N;Borozdin, K|GRS 1915+105|5
+1994IAUC.6083....1B|Borozdin, K;Alexandrovich, N;Arefiev, V;Sunyaev, R;Churazov, E;Gilfanov, M;Ballet, J;Jourdain, E|KS 1730-312|13
+1994IAUC.6091....2G|Gilfanov, M;Churazov, E;Ballet, J;Jourdain, E|KS 1730-312|1
+1994IAUC.6104....1H|Harmon, B;Zhang, S;Paciesas, W;Wilson, C;Fishman, G|X-Ray Nova 1993 in Ophiuchus|6
+1994IAUS..159...33G|Ghisellini, G;Haardt, F|Thermal or non-thermal X-rays from AGNs?|0
+1994IAUS..159...63C|Churazov, E;Gil'Fanov, M;Finoguenov, A;Sunyaev, R;Chernyakova, M;Apalkov, Y;Grebenev, S;Lagunov, I;Jourdain, E;Roques, J;Mandrou, P;Bouchet, L;Ballet, J;Claret, A;Laurent, P;Lebrun, F|Review of GRANAT observations of AGNs.|4
+1994STIN...9530785S|Schwartz, R|Studying the thermal/non-thermal crossover in solar flares|0
+1994jprs.reptQV....||JPRS report: Science and technology. Central Eurasia: Space|0
+1994jprs.reptQW....||JPRS report: Science and technology. Central Eurasia: Space|0
+1994nhxr.conf.....M|Makino, F;Ohashi, T|New Horizon of X-Ray Astronomy. First Results from ASCA|10
+1994nhxr.conf..211S|Sunyaev, R;Churazov, E;Gilfanov, M;Vikhlinin, A;Markevich, M;Grebenev, S;Borozdin, K;Kaniovsky, A;Paul, J;Lebrun, F;Ballet, J;Cordier, B;Roques, J;Mandrou, P;Niel, M;Vedrenne, G|Overview of GRANAT Results|0
+1994nhxr.conf..495G|Goldwurm, A;Cordier, B;Ballet, J;Paul, J;Mandrou, P;Roques, J;Vedrenne, G;Niel, M;Sunyaev, R;Churazov, E;Gilfanov, M;Dyachkov, A;Khavenson, N;Kovtunenko, V;Kremnev, R;Sukhanov, K|SIGMA/GRANAT Deep Imaging Survey of the Galactic Center in Hard X-rays|0
+1994nhxr.conf..499P|Pavlinsky, M;Grebenev, S;Sunyaev, R|Observations of the Galactic Center Field with the ART-P Telescope Aboard GRANAT|0
+1994nrao.pres....2.||Superluminal Motion Found In Milky Way|0
+1994paap.conf....3P|Paul, J|Overview of the SIGMA results.|0
+1994pad..conf....5M|Moscoso, M;Wheeler, J|A Constraint on the Pair Density Ratio (Z<SUB>+</SUB>) in an Electron-Positron Pair Wind|0
+1994wedo.book.....C|Castro Tirado, A|The WATCH experiment: 1000 days observing the X-ray universe.|4
+1993AAS...182.0712G|Gehrels, N;Chen, W|The mystery the optical counterparts of the Galactic Center gamma-ray sources 1E1740.7-2942 and GRS 1758-258|0
+1993AAS...183.5504S|Shrader, C;Chen, W;Lochner, J;Livio, M|A Systematic and Statistical Study of X-Ray Novae Light Curves|0
+1993AIPC..278...77D|Durouchoux, P;Wallyn, P|Annihilation and backscattered lines in black hole candidates|0
+1993AIPC..280..783D|Dezalay, J;Barat, C;Talon, R;Sunyaev, R;Terekhov, O;Kuznetsov, A|The E<SUB>max</SUB> distribution of gamma-ray bursts observed by the PHEBUS experiment.|0
+1993ASPC...52...13K|Klinglesmith, D;Niedner, M;Grayzeck, E;Aronsson, M;Newburn, R;Warnock, A|The Digital Archive of the International Halley Watch|0
+1993GeoAe..33...41P|Pavlov, N;Tverskaya, L;Tverskoj, B;Chuchkov, E|Variations of energetic particles in the radiation belts during the strong magnetic storm of March 24-26, 1991|0
+1993IAUC.5720....2G|Goldwurm, A;Schmitz-Fraysse, M;Churazov, E;Gilfanov, M|Gamma-Ray Burst|1
+1993IAUC.5773....2M|Mirabel, I;Rodriguez, L;Marti, J;Teyssier, R;Paul, J;Auriere, M|GRS 1915+105|28
+1993IAUC.5861....2S|Sunyaev, R;Churazov, E;Cordier, B;Denis, M|Galactic Center|0
+1993IAUC.5864....1L|Lapshov, I;Sazonov, S;Sunyaev, R;Harmon, B;Zhang, S;Fishman, G;Paciesas, W|GRS 1009-45|19
+1993IAUC.5874....1B|Ballet, J;Denis, M;Gilfanov, M;Sunyaev, R;Harmon, B;Zhang, S;Paciesas, W;Fishman, G|GRS 1716-249 = GRO J1719-24|32
+1993IAUC.5876....1D|della Valle, M;Mirabel, I;Cordier, B;Bonibaker, J;Stirpe, G;Rodriguez, L|X-Ray Nova in Ophiuchus|10
+1993IAUC.5877....1T|Tanaka, Y|X-Ray Nova in Ophiuchus|13
+1993IAUC.5878....1K|Kaniovsky, A;Borozdin, K;Sunyaev, R;Arefiev, V|X-Ray Novae|11
+1993IAUC.5886....1B|Borozdin, K;Sunyaev, R;Alexandrovich, N|X-Ray Nova in VELA|7
+1993IBVS.3882....1W|Wenzel, W;Splittgerber, E;Greiner, J|Unsuccessful Search for an Optical Counterpart of GRS 1915+105|0
+1993ICRC....3...21C|Chuchkov, E;Ermakov, S;Kontor, N;Lyubimov, G;Pavlov, N;Tulupov, V;Scherbovskiy, B|GRANAT Mission: A Solar Cosmic Ray Event in March 1991|0
+1993RoIzF..57....7E|Ermakov, S;Kontor, N;Lyubimov, G;Pavlov, N;Tulupov, V;Chuchkov, E;Shcherbovskij, B|The large solar flare in March 1991|1
+1993SPIE.1945..112S|Skinner, G;Bergeson-Willis, S;Courvoisier, T;Dean, A;Durouchoux, P;Eismont, N;Gehrels, N;Grindlay, J;Mahoney, W;Matteson, J;McBreen, B;Pace, O;Prince, T;Schoenfelder, V;Sunyaev, R;Swanenburg, B;Teegarden, B;Ubertini, P;Vedrenne, G;Villa, G;Volonte, S;Winkler, C|INTEGRAL: the next major gamma-ray astronomy mission?|1
+1993STIA...9585790J|Jouret, M;Sebbag, I;Vandermarcq, M;Krebs, J;Le Goff, R;Vilaire, D;Tulet, M|In-flight star tracker SED 12 performances on-board the SIGMA experiment|0
+1993STIN...9512464P|Paciesas, W;Briggs, M;Pendleton, G;Harmon, B;Wilson, C;Zhang, S;Fishman, G|BATSE observations of Nova MUSCAE 1991|0
+1993ctap.conf..554V|Vedrenne, G|Low Energy Gamma Ray Observations with the SIGMA Telescope Aboard the Russian GRANAT Mission|0
+1993foap.conf..175C|Churazov, E;Gilfanov, M;Sunyaev, R;Pavlinsky, M;Grebenev, S;Dyachkov, A;Kovtunenko, V;Kremnev, R;Mandrou, P;Roques, J;Vedrenne, G;Niel, M;Paul, J;Ballet, J;Claret, A;Leray, J|GRANAT overview|0
+1993xmm..pres...28.||INTEGRAL confirmed as next scientific mission|0
+1992AIPC..254..348G|Gehrels, N;Cheung, C|High energy continuum measurements of active galactic nuclei|11
+1992AIPC..265.....P|Paciesas, W;Fishman, G|Gamma-ray bursts|5
+1992AIPC..265...43B|Barat, C;Dezalay, J;Talon, R;Syunyaev, R;Kuznetsov, A;Terekhov, O|Observation of Gamma-Ray Burst Spectra at High Energy by the Phebus Experiment|4
+1992AIPC..265...53L|Lund, N;Brandt, S;Castro-Tirado, A|Gamma-Ray Bursts Observed by the WATCH Experiment|4
+1992AIPC..265..100B|Belli, B|A Possible Method to Evaluate the Luminosity Function in Cosmic Gamma-Ray Bursts|7
+1992AIPC..265..304D|Dezalay, J;Barat, C;Talon, R;Syunyaev, R;Terekhov, O;Kuznetsov, A|Short Cosmic Events: A Subset of Classical GRBs?|90
+1992AIPC..265..317A|Aptekar', R;Golenetskij, S;Il'Inskij, V;Mazets, E;Petrov, G;Savvin, A;Popov, V;Prilutskij, O;Rodin, V|Search for Optical Flashes Coincident with Gamma-Ray Bursts with the KONUS-Sunflower-BRW Experiment Aboard the GRANAT Spacecraft|1
+1992AIPC..265..378T|Taff, L;Holfeltz, S|Gamma-Ray Burst Astrometry III: More Results|0
+1992IAUC.5437....2S|Sunyaev, R;Grebenev, S;Dennis, M;Goldwurm, A|GRS 0834-430|3
+1992IAUC.5448....1L|Lund, N;Brandt, S;Castro-Tirado, A|A1118-61|10
+1992IAUC.5472....2S|Schmitz-Fraysse, M;Cordier, B;Gilfanov, M;Churazov, E|Galactic Center|6
+1992IAUC.5474....1G|Gilfanov, M;Churazov, E;Claret, A;Dezalay, J|Galactic Center Region|6
+1992IAUC.5481....1S|Sunyaev, R;Churazov, E;Gilfanov, M;Claret, A;Ballet, J;Dezalay, J;Mandrou, P|Crab Nebula|12
+1992IAUC.5536....1B|Ballet, J;Denis, M;Churazov, E;Gilfanov, M|VELA X-1|1
+1992IAUC.5576....1V|Vikhlinin, A;Sunyaev, R;Churazov, E;Gilfanov, M;Ballet, J;Denis, M;Laurent, P;Roques, J;Kouveliotou, C;Finger, M;Fishman, G;Meegan, C;Wilson, R;Paciesas, W|Cygnus X-1|25
+1992IAUC.5579....1C|Claret, A;Jourdain, E;Churazov, E;Gilfanov, M|Gamma-Ray Bursts|1
+1992IAUC.5587....1C|Castro-Tirado, A;Brandt, S;Lund, N;Cameron, R;Grove, J;Kroeger, R;Johnson, W;Kurfess, J|GRO J0422+32 = GRS 0417+335|20
+1992IAUC.5589....1W|Wagner, R;Bertram, R;Starrfield, S;Shrader, C;Goldwurm, A;Paul, J;Mandrou, P;Techine, P;Sunyaev, R;Churazov, E;Gilfanov, M;Dyachkov, A|GRO J0422+32|16
+1992IAUC.5590....2C|Castro-Tirado, A;Brandt, S;Lund, N|GRS 1915+105|189
+1992IAUC.5593....1H|Han, X;Hjellming, R;Sunyaev, R;Churazov, E;Gilfanov, M;Novikov, B;Goldwurm, A;Paul, J;Mandrou, P;Techine, P|GRO J0422+32|17
+1992IAUC.5608....2V|Vikhlinin, A;Finoguenov, A;Sitdikov, A;Sunyaev, R;Goldwurm, A;Paul, J;Mandrou, P;Techine, P|GRO J0422+32|21
+1992IAUC.5616....1C|Cordier, B;Schmitz-Fraysse, M;Sunyaev, R;Gilfanov, M|E 1740.7-2942|1
+1992IAUC.5617....1C|Castro-Tirado, A;Brandt, S;Lund, N|GRS 2037-404|2
+1992IAUC.5619....2H|Harmon, B;Paciesas, W;Fishman, G|GRS 1915+105|13
+1992IAUC.5623....2C|Churazov, E;Gilfanov, M;Cordier, B;Schmitz-Fraysse, M|GRS 1734-292|11
+1992NASCP3137...60C|Cline, T;Fishman, G;Hurley, K;Laros, J;Lund, N;Sommer, M|Gamma-ray burst source locations with the new interplanetary network.|1
+1992NASCP3137..173L|Liang, E|Soft gamma rays from black holes versus neutron stars.|6
+1992SPIE.1743..155L|Lebrun, F;Paul, J|Main lessons from the SIGMA mission for the future of hard x-ray and soft gamma-ray astronomy|1
+1992STIN...9318714C|Chen, W;Gehrels, N;Cheng, F|Evidence for a massive stellar black hole in X ray Nova MUSCAE|0
+1992eocm.rept...21M|Mandrou, P;Roques, J;Vedrenne, G;Niel, M;Paul, J;Leray, J;Lebrun, F;Ballet, J;Churazov, E;Gilfanov, M;Sunyaev, R;Bogomolov, A;Khavenson, N;Kuleshova, N;Tserenin, I;Sukhanov, K|Overview of first observations with the French telescope SIGMA on board GRANAT.|0
+1992fxap.book.....T|Tanaka, Y;Koyama, K|Frontiers of X-ray astronomy. Proceedings.|0
+1992fxra.conf..251A|Apal'Kov, Y;Grebenev, S;Lagunov, I;Pavlinskiy, M;Sunyaev, R;Babalyan, G;Dekhanov, I|Observations of Extragalactic Objects with Telescope ART-P on Board GRANAT|0
+1992fxra.conf..253T|Terekhov, O;Sunyaev, R;Kuznetsov, A;Molchanov, A;Barat, C;Vedrenne, G;Desallay, J;Niel, M;Talon, R|Gamma-Ray Bursts Observations by the Phebus Instrument on the Granat Satellite|0
+1992fxra.conf..255G|Grebenev, S;Sunyaev, R;Pavlinsky, M;Dekhanov, I|X-Ray Images of Supernova 1987A Field Obtained with Telescope ART-P Onboard GRANAT in 1990-1991|0
+1992fxra.conf..319G|Grebenev, S;Sunyaev, R;Pavlinsky, M;Dekhanov, I|Detection of 0.8 Hz QPO from the Black Hole Candidate GX339-4 with ART-P Telescope Onboard GRANAT|0
+1992fxra.conf..417G|Grunsfeld, J;Cook, W;Heindl, W;Palmer, D;Prince, T;Schindler, S|Imaging Hard X-Ray / γ-Ray Observations of the Galactic Center Region|0
+1992grbo.book..188L|Lund, N|The sky according to WATCH.|0
+1992wadc.iafcQ....P|Paul, J;Lebrun, F;Mandrou, P;Roques, J|Two years of successful operations of the coded-mask telescope SIGMA for hard X-ray and soft gamma-ray astronomy|0
+1991AIPC..232...17P|Paul, J;Cordier, B;Goldwurm, A;Lebrun, F;Mandrou, P;Roques, J;Vedrenne, G;Bouchet, L;Churazov, E;Gilfanov, M;Kuznetzov, A;Sunyaev, R;Chulkov, I;Dyachkov, A;Khavenson, N;Novikov, B|The soft gamma-ray sources identified by SIGMA in the galactic center region|23
+1991AIPC..232...29S|Sunyaev, R;Churazov, E;Gilfanov, M;Pavlinsky, M;Grebenev, S;Dekhanov, I;Kuznetsov, A;Yamburenko, N;Ballet, J;Laurent, P;Paul, J;Salotti, L;Natalucci, L;Niel, M;Roques, J;Mandrou, P|Granat images of the Galactic Center region in 4-1300 keV band: Localization of the possible candidate for 511 keV source|17
+1991AIPC..232..211S|Sunyaev, R;Grebenev, S;Kaniovsky, A;Efremov, V;Kuznetsov, A;Pavlinsky, M;Yamburenko, N;Englhauser, J;Doebereiner, S;Pietsch, W;Reppin, C;Truemper, J;Kendziorra, E;Maisack, M;Mony, B;Staubert, R|Hard x-rays from supernova 1987A: results of Mir-Kvant and Granat in 1987-1990 and expectations|3
+1991AIPC..232..355M|Mereghetti, S;Bonazzola, S;Mandrou, P;Roques, J;Salotti, L;Cordier, B;Goldwurm, A;Lambert, A;Churazov, E;Gilfanov, M;Kuznetzov, A;Sunyaev, R;Chulkov, I;Dyachkov, A;Khavenson, N;Novikov, B|SIGMA results on the fast variability of Cyg X-1 in the hard x-ray/gamma-ray energy band|1
+1991AIPC..232..492M|Mandrou, P;Chabaub, J;Ehanno, E;Lande, J;Niel, M;Roques, J;Rouaix, G;Souleille, P;Paul, J;Ballet, J;Cantin, M;Cordier, B;Goldwurm, A;Laurent, P;Lebrun, F;Leray, J|SIGMA: A soft gamma-ray imaging telescope in-flight performances|19
+1991AIPC..265...53L|Lund, N;Brandt, S;Castro-Tirado, A|Gamma-ray bursts observed by the watch experiment|1
+1991AIPC..265..317A|Aptekar, R;Golenetskii, S;Ilynskii, V;Mazets, E;Petrov, G;Savvin, A;Popov, V;Prilutskii, O;Rodin, V|Search for optical flashes coincident with gamma-ray bursts with the KONUS-Sunflower-BRW experiment aboard the GRANAT spacecraft|1
+1991BAAS...23.1067B|Barat, C;Dezalay, J;Talon, R;Trottet, G;Vilmer, N;Sunyaev, R;Blinov, N;Kuznetzov, A;Terekhov, O|Hard X-ray and Gamma-ray Observations of Solar Bursts by the PHEBUS Experiment Aboard GRANAT|0
+1991BAAS...23R1322C|Cline, T;Hurley, K;Klebesadel, R;Laros, J;Lund, N;Boer, M;Sommer, M|High Precision Gamma-Ray Burst Source Locations of Early-1991 Events from the Ulysses/Granat/PVO Network|0
+1991IAUC.5161....1L|Lund, N;Brandt, S;Makino, F;McNaught, R;Jones, A;West, R|X-Ray Transient in Musca (GRS 1121-68 = GS 1124-683)|46
+1991IAUC.5176....1S|Sunyaev, R;Jourdain, E;Laurent, P|Nova MUSCAE 1991|14
+1991IAUC.5179....1S|Sunyaev, R|Nova MUSCAE 1991|4
+1991IAUC.5180....1S|Sunyaev, R|X-Ray Outburst in the Field of GRS 0831-429|7
+1991IAUC.5201....1S|Sunyaev, R;Jourdain, E;Goldwurm, A|Nova MUSCAE 1991|5
+1991IAUC.5204....2S|Sunyaev, R|Galactic Center|6
+1991IAUC.5207....2L|Lund, N;Brandt, S;Castro-Tirado, A|GRS 1217+066|0
+1991IAUC.5245....2S|Sunyaev, R;Mandrou, P;Paul, J|Galactic Center|5
+1991IAUC.5294....2G|Grebenev, S;Sunyaev, R|GRS 0834-430|11
+1991IAUC.5310....2S|Sunyaev, R;Roques, J;Goldwurm, A|Nova MUSCAE 1991|0
+1991IAUC.5313....2J|Jourdain, E;Salotti, L;Gilfanov, M|NGC 5128|0
+1991IAUC.5329....2S|Sunyaev, R;Churazov, E;Schmitz-Fraysse, M;Goldwurm, A|Nova MUSCAE 1991|0
+1991IAUC.5342....2S|Sunyaev, R;Gilfanov, M;Goldurm, A;Schmitz-Fraysse, M|GX 340-0 Region|7
+1991IAUC.5370....2L|Lund, N;Castro-Tirado, A;Brandt, S|GRS 1943-052|0
+1991IAUC.5378....2S|Sunyaev, R;Gilfanov, M;Barret, D;Lebrun, F|GX 1+4|1
+1991IAUC.5398....1S|Sunyaev, R;Churazov, E;Lebrun, F;Barret, D|Galactic Center|2
+1991IAUC.5398....2S|Sunyaev, R;Gilfanov, M;Lebrun, F;Barret, D|Nova MUSCAE 1991|0
+1991IAUC.5405....3L|Lund, N;Brandt, S;Castro-Tirado, A|GRS 1715-44|0
+1991ICRC....2..495L|Leray, J;Ballet, J;Goldwurm, A;Lebrun, F;Paul, J;Lei, F;Mandrou, P;Bouchet, L;Roques, J;Niel, M|In-Orbit Performances of the Hard X-Ray/Soft Gamma-Ray Telescope Sigma on Board the Soviet Spacecraft Granat|10
+1991IzSSR..55.1889E|Ermakov, S;Kontor, N;Liubimov, G;Tulupov, V;Chuchkov, E|Solar cosmic ray flare in March 1990|0
+1991Msngr..66...10B|Bignami, G;Caraveo, P;Mereghetti, S;Paul, J;Cordier, B;Goldwurm, A;Mandrou, P;Roques, J;Vedrenne, G|Optical identification of celestial high energy sources.|7
+1991dncs.rept..179V|Vandermarcq, O|Attitude measurement and star line of sight: From on-ground experiment to flight results|0
+1991secs.conf..729G|Gayrard, J|SIGMA VCHP radiator: In-orbit performance|0
+1990ASSL..166.....K|Kondo, Y|Observatories in Earth Orbit and Beyond|2
+1990ASSL..166...21S|Siuniaev, R|The Automatic Spacecraft GRANAT|0
+1990CIBu..118R..54.||Lancement du satellite Franco-Soviétique granat d'astronomie|0
+1990IAUC.5017....2M|Mereghetti, S|OAO 1657-415|0
+1990IAUC.5032....1M|Mandrou, P|Galactic Center|34
+1990IAUC.5096....2P|Paul, J|U 1700-377|0
+1990IAUC.5104....1S|Sunyaev, R|GX 1+4, KS 1731-260, GRS 1741.9-2853, A1524-62|21
+1990IAUC.5112....2S|Sunyaev, R|Supernova 1987A in the Large Magellanic Cloud|1
+1990IAUC.5122....2S|Sunyaev, R|X-Ray Nova GRS 0831-429|7
+1990IAUC.5123....2S|Sunyaev, R|The Galactic Center|7
+1990ICRC....1....9B|Brandt, S;Lund, N;Norgaard-Nielsen, U;Schnopper, W;Dremin, V;Lapshov, I;Kuznetsov, A;Sunyaev, R|First Experiences with the Watch Instruments on Granat|0
+1990ICRC....4..145B|Brandt, S;Lund, N;Rao, R|The WATCH All-Sky Monitor for the Granat Project|1
+1990ICRC....4..212F|Filipov, L;Markov, V;Bliznakov, C;Melioranski, A;Golubev, S|Scientific Program of "Podsolnuch-D" Experiment "Granat" Mission and Some Specific Instrumental Aspects of its Realization|0
+1990SPIE.1341..280F|Fleurot, N;Friart, D;Novaro, M;Thiell, G;Rouyer, C|Qualification and improvement of a 20-TW very high power laser at 1.06 um: the PHEBUS laser facility|2
+1990aspo.book.....A|Alberola, J|Astronomie populaire : 5 avril-10 juin 1990.|0
+1990kisk.book...64A|Avduevskii, V;Leskov, L|Where the Soviet cosmonautics is going to?|1
+1989ESASP.296..857M|Mushotzky, R|Signposts to the Future / Active Galactic Nuclei|1
+1989imse.book.....B|Balebanov, V|Apparatura i metody issledovaniia kosmicheskogo prostranstva|0
+1989imse.book..171I|Iamburenko, N;Pavlinskii, M;Babalian, G;Dekhanov, I;Siuniaev, R|The multiwire proportional chamber for the coded-aperture telescope ART-P (The Granat astrophysical observatory)|0
+1989imse.book..182I|Iamburenko, N;Pavlinskii, M;Babalian, G;Dekhanov, I;Siuniaev, R|The astronomical coded-aperture X-ray telescope ART-P for the Granat spaceborne astrophysical observatory|0
+1989sasf.confP..33B|Brandt, S;Lund, N;Rao, A|Solar and stellar flare observations using WATCH.|0
+1988bang.iafcT....M|Markov, V;Bliznakov, K|Calibration system for prelaunch and inflight tests Podsolnuch experiment - Granat mission|0
+1988mwa..work..361K|Kriss, G|Future space instrumentation for multiwavelength astrophysics.|0
+1987S&T....74..601.||A Bold Agenda for Soviet Astrophysicists / GRANAT / Gamma|0
+1986gosa.book.....H|Harwit, M;Neal, V|The Great Observatories for Space Astrophysics|0

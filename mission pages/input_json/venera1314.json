@@ -1,0 +1,40 @@
+{
+    "title": "The Venera 13 & 14 probes to Venus",
+  "name": "Venera 13 & Venera 14",
+  "alttext": "Venera spacecraft at the Memorial Museum of Cosmonautics, Moscow",
+  "imagesize": 300,
+  "imageurl": "/Images/misc_missions/venera13_small.gif",
+    "descript": "<p><b><font size=\"+2\">T</font>he Venera 13 &amp; 14</b> (&ldquo;Venera&rdquo; is Russian for &ldquo;Venus&rdquo;) planetary science missions were each launched towards Venus to drop off landers and fly by the planet. Each carried the SNEG-2MG and KONUS gamma-ray instruments. The former was an updated version of the SIGNE2 instruments on Veneras 11 &amp; 12. Venera 13 was launched on 30 October 1981 and Venera 14 was launched on 4 November 1981.  They journeyed to Venus and deposited their landers on 1 March and 5 March 1982, respectively. The orbiters thereafter continued returning data from the gamma-ray instruments until March 1983.</p>",
+      "decade": 1980,
+  "lifetime": "Oct 1981&ndash;Mar 1983",
+    "instruments": [
+	{
+	    "name" : "SIGNE 2",
+	    "fov" : "4&pi; sr",
+	    "energy" : "50&ndash;270 keV to 600&ndash;3000 keV (mode dependent)",
+	    "temporal_resolution": "120 s (&ldquo;waiting&rdquo; mode)<br>1/512 s max (triggered mode)",
+	    "descript" : "Each Venera spacecraft carried two dedicated gamma-ray burst detectors, arranged for full sky coverage pointed in the solar and anti-solar directions for full-sky coverage.  Each detector consisted of a 4.5&times;3.7 cm NaI(Tl) crystal surrounded by an 8 mm thick plastic anti-coincidence jacket. The crystal and plastic were viewed from the side by photomultiplier tubes.</p>\n\n<p>The &ldquo;burst&rdquo; part of the instrument changed slightly from the Venera 11 &amp; 12 missions. To trigger the burst mode, there had be a 6.5 sigma increase in the count rate in less than 1 s, where sigma is the dispersion of the averaged measured background.  This increased the event analysis time by a factor of 4, and the recording threshold was reduced 30%. Bursts were recorded over the energy range 50&ndash;800 keV. Improved photomultipliers allowed measurements to be taken with a low energy threshold of 45&ndash;65 keV during the first 10 months of operation."
+	},
+	{
+	    "name" : "KONUS",
+	    "energy" : "30&ndash;2000 keV",
+	    "energy_resolution" : "16 channel quasi-logarithmic scaling",
+	    "time_resolution": "1/256 s (max)",
+	    "descript" : "KONUS on Veneras 13 &amp; 14 consisted of 6 scintillation detectors with angular sensitivities which were close to cosinusoidal.  The detectors were arranged along the positive and negative directions of the axes of the satellite. Background was measured over the energy range 45&ndash;200 keV every 20 minutes.  Every 4 hours, background was measured over the region 20&ndash;2000 keV.  Eight seconds of pre-burst data were kept when a burst mode was triggered, and recorded with 0.25 s resolution.  The burst itself was measured with a resolution of 1/256 s for 0.875 s, followed by a resolution of 1.64 s for 12 s, and finally with a resolution of 1.4 s for 128 s. The spectra were taken by Venera 13 in 16 channels over an integration time of either 0.5 s or 4 s.  Venera 14 took spectra in 30 energy channels with the same 0.5 and 4 s integration options."
+	}
+    ],
+	"highlights": [
+	    "The data from Venera 13 &amp; 14 produced a confirmed gamma-ray burst event at roughly every 3 days, a factor of 3 better than had been deduced previously from Venera 11 &amp; 12 and Prognoz 7.  A total of 44, mostly confirmed, cosmic gamma-ray events were detected between November 1981 and March 1982 by the 2 instruments."
+	],
+  "archive": "",
+  "navigation": [
+    {
+      "url": "images/venera1112_images.html",
+      "text": "Gallery"
+    },
+    {
+      "url": "biblio/venera1314_biblio.html",
+      "text": "Publications"
+    }
+  ]
+}

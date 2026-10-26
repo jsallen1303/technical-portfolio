@@ -1,0 +1,529 @@
+2020EGUGA..22.9152M|Maiorana, C;Marisaldi, M;Mezentsev, A;Fullekrug, M;Soula, S;Lindanger, A;Skeie, C;Sarria, D;Kochkin, P;Lehtinen, N;Bjorge-Engeland, I;Ostgaard, N;Ullaland, K;Genov, G;Neubert, T;Christiansen, F;Reglero, V|Observation of TGFs at High Latitude|0
+2020EGUGA..2212804M|Marisaldi, M;Mezentsev, A;Sarria, D;Lindanger, A;Ostgaard, N;Neubert, T;Reglero, V;Kochkin, P;Lehtinen, N;Maiorana, C;Skeie, C;Bjorge-Engeland, I;Ullaland, K;Genov, G;Christiansen, F;Christian, H;Al Nussirat, S;Briggs, M;Ursi, A;Tavani, M|ASIM - Fermi - AGILE simultaneous observation of Terrestrial Gamma-ray Flashes|0
+2020EGUGA..2216383U|Urbani, M;Montanya, J;Van der Velde, O;Lopez, J|High-energy radiation from natural lightning observed in coincidence with a VHF Lightning Interferometer|0
+2020arXiv200302865H|Huang, X;Yuan, Q;Fan, Y|A systematic study of $\gamma$-ray flares from the Crab Nebula with Fermi-LAT: I. flare detection|1
+2020arXiv200402237L|Lazzarotto, F;Del Monte, E|SADAS: an integrated software system for the data of the SuperAGILE experiment|0
+2020arXiv200512164T|Tavani, M;Casentini, C;Ursi, A;Verrecchia, F;Addis, A;Antonelli, L;Argan, A;Barbiellini, G;Baroncelli, L;Bernardi, G;Bianchi, G;Bulgarelli, A;Caraveo, P;Cardillo, M;Cattaneo, P;Chen, A;Costa, E;Del Monte, E;Di Cocco, G;Di Persio, G;Donnarumma, I;Evangelista, Y;Feroci, M;Ferrari, A;Fioretti, V;Fuschino, F;Galli, M;Gianotti, F;Giuliani, A;Labanti, C;Lazzarotto, F;Lipari, P;Longo, F;Lucarelli, F;Magro, A;Marisaldi, M;Mereghetti, S;Morelli, E;Morselli, A;Naldi, G;Pacciani, L;Parmiggiani, N;Paoletti, F;Pellizzoni, A;Perri, M;Perotti, F;Piano, G;Picozza, P;Pilia, M;Pittori, C;Puccetti, S;Pupillo, G;Rapisarda, M;Rappoldi, A;Rubini, A;Setti, G;Soffitta, P;Trifoglio, M;Trois, A;Vercellone, S;Vittorini, V;Giommi, P;D' Amico, F|An X-Ray Burst from a Magnetar Enlightening the Mechanism of Fast Radio Bursts|26
+2019AAS...23344803M|McCollough, M;Corcoran, M;Stevens, A;Kallman, T;Pasham, D;Koljonen, K;Strohmayer, T;Gendreau, K;Arzoumanian, Z;Maccarone, T;Remillard, R;Gurwell, M;Pooley, G;Green, D;Trushkin, S;Tavani, M;Piano, G|NICER Observations of Cygnus X-3 During a Flaring State|0
+2019ASPC..521..139Z|Zoli, A;Bulgarelli, A;Tavani, M;Fioretti, V;Marisaldi, M;Parmiggiani, N;Fuschino, F;Gianotti, F;Trifoglio, M|The AGILE Pipeline for Gravitational Waves Events Follow-up|0
+2019EGUGA..21.7625M|Marisaldi, M;Ostgaard, N;Neubert, T;Reglero, V|ASIM - Fermi simultaneous observation of Terrestrial Gamma-ray Flashes|0
+2019EGUGA..21.8518L|Lindanger, A;Marisaldi, M;Maiorana, C;Ostgaard, N;Ursi, A;Tavani, M|The 3rd AGILE TGF catalog: simultaneous lightning associations|0
+2019EGUGA..2114322M|Maiorana, C;Marisaldi, M;Lindanger, A;Ostgaard, N;Ursi, A;Tavani, M|The 3rd AGILE TGF Catalogue: New Selection Criteria and Characteristics of the Sample|0
+2019EPJWC.20901026L|Lucarelli, F;Tavani, M|AGILE γ-ray sources coincident with cosmic neutrino events|0
+2019HEAD...1711006N|Nemiroff, R;Bonnell, J|High Energy Astronomy Phenomena Featured Recently on APOD|0
+2019HEAD...1711114M|McCollough, M;Corcoran, M;Stevens, A;Kallman, T;Pasham, D;Koljonen, K;Strohmayer, T;Gendreau, K;Arzoumanian, Z;Maccarone, T;Remillard, R;Gurwell, M;Pooley, G;Green, D;Trushkin, S;Tavani, M;Piano, G|NICER Observations of Cygnus X-3 During a Period of Gamma-Ray Activity|0
+2019ICRC...36..555B|Bissaldi, E|High-energy emission from GRBs: 10 years with Fermi-LAT|0
+2019ICRC...36..812V|van Scherpenberg, J;Mirzoyan, R;Vovk, I;Peresano, M;Zaric, D;Temnikov, P;Godinovic, N;Besenrieder, J|Searching for Variability of the Crab Nebula Flux at TeV Energies using MAGIC Very Large Zenith Angle Observations|0
+2019MmSAI..90...53U|Ursi, A;Tavani,;Verrecchia, F;AGILE Team|Detection of gamma-ray bursts with the AGILE MCAL|0
+2019arXiv190806826E|Emery, G;Jankowsky, F;Lenain, J;Marais, J;Mbonani, T;Meyer, M;Romoli, C;van Soelen, B;Wierzcholska, A;Zacharias, M|Observations of blazar PKS 2023-07 in flaring state with HESS and Fermi-LAT in 2016-2017 and constraints on an intrinsic cut-off|0
+2019sros.confE.121P|Pellizzoni, A;Loru, S;Egron, E;Righini, S;Iacolina, N;Mulas, S;Ingallinera, A;Melis, A;Concu, R;Reich, P;Reich, W|Challenging electron populations, magnetic fields and acceleration models in Supernova Remnants shocks through high-frequency single-dish radio observations|0
+2019sros.confE.156G|Grondin, M|Gamma-ray observations of Pulsar Wind Nebulae|0
+2019yCat..36270013B|Bulgarelli, A;Fioretti, V;Parmiggiani, N;Verrecchia, F;Pittori, C;Lucarelli, F;Tavani, M;Aboudan, A;Cardillo, M;Giuliani, A;Cattaneo, P;Chen, A;Piano, G;Rappoldi, A;Baroncelli, L;Argan, A;Antonelli, L;Donnarumma, I;Gianotti, F;Giommi, P;Giusti, M;Longo, F;Pellizzoni, A;Pilia, M;Trifoglio, M;Trois, A;Vercellone, S;Zoli, A|VizieR Online Data Catalog: Second AGILE catalogue of gamma-ray sources (Bulgarelli+, 2019)|0
+2018EGUGA..20.9257T|Tiberia, A;Dietrich, S;Porcu, F;Ursi, A;Marisaldi, M;Marco, T|Analysis of convective thunderstorms correlated with Terrestrial Gamma Ray Flashes (TGF)|0
+2018IAUS..338...84V|Verrecchia, F;Tavani, M;Donnarumma, I;AGILE Team|AGILE Observations of GW Events|1
+2018SPIE10700E..21M|Marchiori, G;Rampini, F;Ghedin, L;Bressan, R|ELT design status: the most powerful ground telescope|0
+2018arXiv181109215C|Cerutti, B|Gamma-ray pulsars: What have we learned from ab-initio kinetic simulations?|2
+2018cosp...42E.511C|Cardillo, M;Piano, G;Marchili, N|The naked Orion: a mysterious gamma-ray emission maybe due to Cosmic Ray acceleration.|0
+2018cosp...42E.829D|Di Giovanni, A;Al Qasim, A;AlMannaei, A|a Compact Gamma Spectrometer for Space Missions with Miniaturized Satellites|0
+2018frap.confE..38P|Pittori, C|AGILE - Highlights of ten years|0
+2017AAS...22923304K|Kroon, J;Becker, P;Justin, F;Dermer, C|An Analytic Particle Acceleration Model in Pulsar Wind Termination Shocks Applied to the Crab Nebula Gamma-Ray Flares|0
+2017AAS...22923826F|Ferrara, E;Buson, S;ComPair Mission Team|Depicting the MeV realm with the Compton Pair-Production Telescope (ComPair)|0
+2017AIPC.1792b0004D|De Angelis, A|Fundamental physics with cosmic high-energy gamma rays|1
+2017AIPC.1792d0015M|Munar-Adrover, P;Piano, G;Sabatini, S;Tavani, M;Lucarelli, F;Verrecchia, F;Pittori, C|Galactic microquasar transients with AGILE|0
+2017APS..APR.K9004B|Buson, S;ComPair Team|Depicting the Gamma-ray Realm with the All-sky Medium Energy Gamma-Ray Observatory (AMEGO)|0
+2017ASPC..512..415P|Pilia, M;Trois, A;Pellizzoni, A;Bachetti, M;Piano, G;Poddighe, A;Egron, E;Iacolina, M;Melis, A;Concu, R;Possenti, A;Tender Project,|Data Reduction of Multi-wavelength Observations|0
+2017EPJWC.13603021C|Cattaneo, P;Rappoldi, A|Measuring space-time fuzziness with high energy γ-ray detectors|0
+2017EPJWC.14504003L|Lidvansky, A|Bursts of the Crab Nebula gamma-ray emission at high and ultra-high energies|1
+2017HEAD...1611005U|Udara Abeysekara, A|Joint Likelihood study of Crab pulsar wind nebula with VERITAS and HAWC|0
+2017HEAD...1640004M|McCollough, M;Koljonen, K;Gurwell, M;Trushkin, S;Pooley, G|Cygnus X-3 Returns to an Active State|0
+2017grac.confE...3B|Barbiellini, G|10 years of AGILE|0
+2017mbhe.confE..36P|Pittori, C;Agile Collaboration|AGILE: ten years after|0
+2017xru..conf..280H|Hernandez, C|TEST - TEST - Multi-wavelength observations of the high-redshift blazar 4C+71.07|0
+2017xru..conf..337V|Vercellone, S|Multi-wavelength observations of the high-redshift blazar 4C+71.07|0
+2017yCat..22290031H|Hurley, K;Aptekar, R;Golenetskii, S;Frederiks, D;Svinkin, D;Pal'Shin, V;Briggs, M;Meegan, C;Connaughton, V;Goldsten, J;Boynton, W;Fellows, C;Harshman, K;Mitrofanov, I;Golovin, D;Kozyrev, A;Litvak, M;Sanin, A;Rau, A;von Kienlin, A;Zhang, X;Yamaoka, K;Fukazawa, Y;Ohno, M;Tashiro, M;Terada, Y;Barthelmy, S;Cline, T;Gehrels, N;Cummings, J;Krimm, H;Smith, D;Del, M;Feroci, M;Marisaldi, M|VizieR Online Data Catalog: IPN supplement to the 2nd Fermi GBM catalog (Hurley+, 2017)|0
+2016AAS...22723810H|Hewitt, J;Hays, E;Tajima, H;Schmid, J;LAT Collaboration, V|Resolving the hadronic accelerator IC 443 with Fermi-LAT and VERITAS|1
+2016AAS...22744507C|Caputo, R;ComPair Team|Compton-Pair Production Space Telescope: Extending Fermi-LAT Discoveries into MeV Gamma-ray Astronomy|0
+2016APS..APRM12001S|Smith, A;ComPair Team|Compton-Pair Production Space Telescope: Extending Fermi-LAT Discoveries into MeV Gamma-ray Astronomy|0
+2016ASPC..506..243A|Alexander, M;McSwain, M|Gamma-ray Observations of a Be-BH Binary|0
+2016EGUGA..18.5820A|Albrechtsen, K;Ostgaard, N;Gjesteland, T|A new population of TGFs in RHESSI data|0
+2016HEAD...1510625V|Vercellone, S;Romano, P;Raiteri, C;Acosta Pulido, J;Villata, M;Carnerero Martin, M|Swift multi-wavelength observations of the high-redshift Blazar S5 0836+710 (4C 71.07)|0
+2016HEAD...1511608M|Moiseev, A|Compton-Pair Production Space Telescope (ComPair) for MeV Gamma-ray Astronomy|0
+2016HEAD...1530204V|Venters, T;Hunter, S;De Nolfo, G;Hanu, A;Krizmanic, J;Stecker, F;Timokhin, A|MeV Science with the Advanced Energetic Pair Telescope (AdEPT), a High Sensitivity Medium-Energy Gamma-Ray Polarimeter|0
+2016frap.confE..83P|Pittori, C;Tavani, M;Agile Collaboration|AGILE hunts gravitational waves counterparts|0
+2016qptc.conf...63L|Lidvansky, A|Burst activity of the Crab Nebula and its pulsar at high and ultra-high energies|0
+2016scga.confE..12S|Sciacca, E;Vitello, F;Becciani, U;Costa, A;Hajnal, A;Kacsuk, P;Molinari, S;di Giorgio, A;Schisano, E;Liu, S;Elia, D;Cavuoti, S;Riccio, G;Brescia, M|Milky Way Analysis through a Science Gateway: Workflows and Resource Monitoring|0
+2016sros.confE..90C|Cardillo, M;Amato, E;Blasi, P|The middle aged SNRs W44: most likely reacceleration without any break|0
+2016yCat..35870093R|Rappoldi, A;Lucarelli, F;Pittori, C;Longo, F;Cattaneo, P;Verrecchia, F;Tavani, M;Bulgarelli, A;Chen, A;Colafrancesco, S;Donnarumma, I;Giuliani, A;Morselli, A;Sabatini, S;Vercellone, S|VizieR Online Data Catalog: MeV-GeV counterparts of TeV sources (Rappoldi+, 2016)|0
+2015AAS...22531108H|Hunter, S|The Advanced Energetic Pair Telescope (AdEPT), a Medium-Energy Gamma-Ray Polarimeter|0
+2015APS..APRU14004M|Moiseev, A;Hays, E;Mitchell, J;McEnery, J;Perkins, J;Thompson, D|Extending Fermi LAT discoveries: Compton-Pair Production Space Telescope (ComPair) for MeV Gamma-ray Astronomy|0
+2015APS..APRU14006H|Hunter, S;AdEPT Collaboration|Advanced Energetic Pair Telescope (AdEPT), a Medium-Energy Gamma-Ray Polarimeter|0
+2015DPS....4730707B|Brucker, M;Nault, K;Hammergren, M;Sieben, J;Gyuk, G;Solontoi, M|Preliminary Light Curve Results of NEOs from the Characterization and Astrometric Follow-Up Program at Adler Planetarium|0
+2015EGUGA..17.6123X|Xu, W;Celestin, S;Pasko, V|Optical Emissions Associated with Terrestrial Gamma-ray Flashes|0
+2015EGUGA..17.6288X|Xu, W;Celestin, S;Pasko, V|Modeling of Pulses in Terrestrial Gamma-ray Flashes|0
+2015arXiv150807349M|Moiseev, A;Ajello, M;Buckley, J;Caputo, R;Ferrara, E;Hartmann, D;Hays, E;McEnery, J;Mitchell, J;Ojha, R;Perkins, J;Racusin, J;Smith, A;Thompson, D|Compton-Pair Production Space Telescope (ComPair) for MeV Gamma-ray Astronomy|34
+2015mbhe.confE..49P|Pittori, C|AGILE Highlights|0
+2014AAS...22311408R|Rudy, A;Max, C;Weisskopf, M|Near Infrared Activity Close to the Crab Pulsar Correlated with Giant Gamma-ray Flares|1
+2014AAS...22311409T|Tavani, M|Modelling the gamma-ray flares of the Crab Nebula|0
+2014EGUGA..16.7381U|Ursi, A;Guidorzi, C;Marisaldi, M;Frontera, F|A search for Terrestrial Gamma-ray Flashes in the BeppoSAX Gamma-Ray Burst Monitor data archive|0
+2014EGUGA..1610868C|Celestin, S;Xu, W;Pasko, V|Predictions on Optical Emissions Associated with Terrestrial Gamma-ray Flashes|0
+2014HEAD...1411614H|Hunter, S;De Nolfo, G;Hanu, A;Krizmanic, J;Stecker, F;Timokhin, A;Venters, T|The Advanced Energetic Pair Telescope (AdEPT), a High Sensitivity Medium-Energy Gamma-Ray Polarimeter|0
+2014IAUS..296..300S|Saha, L;Bhattacharjee, P|TeV γ-ray source MGRO J2019+37 : PWN or SNR?|0
+2014NuPhS.256...65C|Cardillo, M;Tavani, M;Giuliani, A|The origin of Cosmic-Rays from SNRs: confirmations and challenges after the first direct proof|0
+2014RMxAC..44S.160M|Montmerle, T|Supernova remnants colliding with molecular clouds: From high- to low-energy interactions|0
+2014SPIE.9144E..3NF|Fioretti, V;Bulgarelli, A;Tavani, M;Marisaldi, M;Sabatini, S;Malaguti, G;Trifoglio, M;Gianotti, F|Monte Carlo simulations of gamma-ray space telescopes: a BoGEMMS multi-purpose application|3
+2014SPIE.9150E..0WS|Segret, B;Semery, A;Vannitsen, J;Mosser, B;Miau, J;Juang, J;Deleflie, F|The Paving Stones: initial feed-back on an attempt to apply the AGILE principles for the development of a CubeSat space mission to Mars|0
+2014adap.prop..274H|Hurley, K|Support for the Interplanetary Network of Gamma-Ray Burst Detectors|0
+2014arXiv1407.0238G|Giuliani, A;Mereghetti, S;Marisaldi, M;Longo, F;Del Monte, E;Pittori, C;Verrecchia, F;Tavani, M;Cattaneo, P;Pacciani, L;Vercellone, S;Rappoldi, A|A prompt extra component in the high energy spectrum of GRB 131108A|8
+2014cosp...40E1001G|Giuliani, A|Hadronic emission in middle-aged SNRs|0
+2014cosp...40E3309T|Tavani, M|Gamma-Rays and Cosmic-Rays from SNRs: Challenges and the Future|0
+2014cosp...40E3310T|Tavani, M|The "Crab Phenomenon": the Mysterious Gamma-Ray Flares of the Crab Nebula|0
+2014fysc.confP..69W|Weisskopf, M|Monitoring of the Crab Nebula with Chandra, HST, and Keck|0
+2014mbhe.conf..157P|Pittori, C|AGILE Highlights after Six Years in Orbit|1
+2013AAS...22123701T|Tavani, M;AGILE Team|The Flaring Crab Nebula: Surprises and Challenges|0
+2013AAS...22124004W|Weil, K;Myers, S|Polarization Monitoring Using the EVLA|0
+2013AAS...22143903P|Pittori, C;AGILE Collaboration|The AGILE Data Center at ASDC|0
+2013AAS...22240303C|Cui, W;VERITAS Collaboration|Search for TeV Gamma Rays from Cygnus X-3|0
+2013APS..APR.C4002H|Harding, A|The Crab Pulsar: An Old Friend Full of Surprises|0
+2013ASInC...9..135C|Chandra, S|Multi-wavelength variability in FSRQ PKS1510-089|0
+2013ASPC..475..325B|Bulgarelli, A;Trifoglio, M;Gianotti, F;Tavani, M;Conforti, V;Parmiggiani, N|AGILE/GRID Science Alert Monitoring System: The Workflow and the Crab Flare Case|0
+2013EGUGA..15.4809M|Marisaldi, M;Fuschino, F;Tavani, M;Dietrich, S;Price, C;Argan, A;Labanti, C;Galli, M;Longo, F;Del Monte, E;Barbiellini, G;Giuliani, A;Bulgarelli, A;Gianotti, F;Trifoglio, M;Trois, A|Properties of AGILE Terrestrial Gamma-ray Flashes|0
+2013EGUGA..15.7347F|Fuschino, F;Marisaldi, M;Christian, H;Buechler, D;Labanti, C;Galli, M;Tavani, M;Argan, A;Del Monte, E;Longo, F;Barbiellini, G;Giuliani, A;Bulgarelli, A;Gianotti, F;Trifoglio, M;Trois, A|Terrestrial Gamma-ray Flashes and lightning detected from space are not compatible with the same distribution|0
+2013EGUGA..1513065C|Celestin, S;Xu, W;Pasko, V|Spectra of X-ray and Gamma-ray Bursts Produced by Stepping Lightning Leaders|0
+2013ESASP.715E..28B|Boudillet, O;Peron, T;McMahon, B|Common Software Development Methods for Human, Vehicle and Mission Safety Critical Space Projects|0
+2013HEAD...1312703Y|Yuan, Y;Blandford, R;Simeon, P|Modeling Gamma-ray Flares in the Crab Nebula|0
+2013HEAD...1340209B|Bodaghee, A;Tomsick, J;Rodriguez, J;Pottschmidt, K;Wilms, J;Pooley, G|Gamma-ray Observations of the Microquasars Cygnus X-1, Cygnus X-3, GRS 1915+105, and GX 339-4 with Fermi-LAT|0
+2013ICRC...33...16H|Hinton, J|The Status and Future of Gamma-ray Astronomy|0
+2013ICRC...33...52M|McEnery, J|News from Space based Gamma Ray Astronomy|0
+2013ICRC...33.1040B|Barres de Almeida, U;de Caneva, G;Lindfors, E;Saito, K;Schultz, C;Sitarek, J;Tavecchio, F;MAGIC Collaboration;Pittori, C;Vercellone, S;Agile Collaboration;Buson, S;D'Ammando, F;Hayashida, M;Fermi-Lat Collaboration;Lahteenmaki, A;Tornikoski, M;Hovatta, T;Mundell, C;Nilsson, K;Steele, I;Marscher, A;Jorstad, S|MAGIC Latest Results and Multiwavelength Observations of FSRQs: 3C 279 and PKS 1510-089|0
+2013ICRC...33.1064L|Lopez-Oramas, A;Bigas, O;Cortina, J;Hadasch, D;Herrero, A;Marcote, B;Adrover, P;Moldon, J;Paredes, J;Ribas, I;Ribo, M;Torres, D;Zanin, R;MAGIC Collaboration;Casares, J;Rea, N|Observations of VHE Gamma-ray Binaries with the MAGIC Telescopes|1
+2013ICRC...33.1071G|Giuliani, A;Cardillo, M;Tavani, M|Evidence of Hadronic Emission in Middle-aged SNRs|0
+2013ICRC...33.1212T|Teraki, Y;Takahara, F|Jitter Radiation Model of Crab Gamma Ray Flares|0
+2013JPhCS.409a2114L|Lidvansky, A|On the burst activity of the Crab Nebula and pulsar at high and ultra-high energies|1
+2013JPhCS.409a2118A|Arkhangelskaja, I;Voevodina, E;Zenin, A|Integrated criteria of gamma-ray bursts spectral hardness|0
+2013MmSAI..84..582W|Weisskopf, M|Monitoring the Crab Nebula with Chandra . A search for the location of the gamma -ray flares|3
+2013arXiv1303.1606M|Mori, M;Kawachi, A;Nagataki, S;Naito, T|Fermi-LAT study of two gamma-ray binaries, HESS J0632+057 and AGL J2241+4454|3
+2013arXiv1303.1846P|Piano, G;Tavani, M;Vittorini, V;Giuliani, A|Transient Gamma-ray Emission from Cygnus X-3 Detected by AGILE: Leptonic and Hadronic Emission Models|0
+2013arXiv1303.2576S|Striani, E;Tavani, M;Vittorini, V|The Surprising Crab Nebula|0
+2013arXiv1305.5389T|Trifoglio, M;Bulgarelli, A;Gianotti, F;Fuschino, F;Marisaldi, M;Tavani, M;Del Monte, E;Evangelista, Y;Lazzarotto, F;Sabatini, S;Longo, F;Moretti, E;Pittori, C;Verrecchia, F|The AGILE Science Alert System|2
+2013atnf.prop.5408S|Shannon, R;Possenti, A;Manchester, D;Johnston, S;Hobbs, G;Keith, M;Romani, R;Thompson, D;Roberts, M;Weltevrede, P;Brook, P|Pulsar Timing and the Fermi and AGILE missions|0
+2013atnf.prop.5670S|Shannon, R;Possenti, A;Manchester, D;Johnston, S;Hobbs, G;Keith, M;Romani, R;Thompson, D;Roberts, M;Weltevrede, P;Kerr, M;Petroff, E;Brook, P|Pulsar Timing and the Fermi and AGILE missions|0
+2013hegr.confE...5L|Longo, F|The AGILE Mission|0
+2013hegr.confE..28V|Verrecchia, F|General Introduction on AGILE Tools|0
+2013xmm..prop...99P|Pandel, D|ToO Observations of Galactic Gamma-ray Transients Discovered with Fermi|0
+2013yCat..35530033G|Galli, M;Marisaldi, M;Fuschino, F;Labanti, C;Argan, A;Barbiellini, G;Bulgarelli, A;Cattaneo, P;Colafrancesco, S;Del, M;Feroci, M;Gianotti, F;Giuliani., A;Longo, F;Mereghetti, S;Morselli, A;Pacciani, L;Pellizzoni, A;Pittori, C;Rapisarda, M;Rappoldi, A;Tavani, M;Trifoglio, M;Trois, A;Vercellone, S;Verrecchia, F|VizieR Online Data Catalog: AGILE Mini-Calorimeter γ-ray burst catalog (Galli+, 2013)|0
+2013yCat..35580137V|Verrecchia, F;Pittori, C;Chen, A;Bulgarelli, A;Tavani, M;Lucarelli, F;Giommi, P;Vercellone, S;Pellizzoni, A;Giuliani, A;Longo, F;Barbiellini, G;Trifoglio, M;Gianotti, F;Argan, A;Antonelli, L;Caraveo, P;Cardillo, M;Cattaneo, P;Cocco, V;Colafrancesco, S;Contessi, T;Costa, E;Del Monte, E;De Paris, G;Di Cocco, G;Di Persio, G;Donnarumma, I;Evangelista, Y;Fanari, G;Feroci, M;Ferrari, A;Fiorini, M;Fornari, F;Fuschino, F;Froysland, T;Frutti, M;Galli, M;Labanti, C;Lapshov, I;Lazzarotto, F;Liello, F;Lipari, P;Mattaini, E;Marisaldi, M;Mastropietro, M;Mauri, A;Mauri, F;Mereghetti, S;Morelli, E;Moretti, E;Morselli, A;Pacciani, L;Perotti, F;Piano, G;Picozza, P;Pilia, M;Pontoni, C;Porrovecchio, G;Prest, M;Primavera, R;Pucella, G;Rapisarda, M;Rappoldi, A;Rossi, E;Rubini, A;Sabatini, S;Santolamazza, P;Sotta, P;Stellato, S;Striani, E;Tamburelli, F;Traci, A;Trois, A;Vallazza, E;Vittorini, V;Zanello, D;Salotti, L;Valentini, G|VizieR Online Data Catalog: AGILE bright gamma-ray sources updated list (Verrecchia+, 2013)|0
+2012AAS...21914913G|Grove, J;Chekhtman, A;Fermi LAT Collaboration;Fishman, G;Briggs, M;Connaughton, V;Fermi GBM Collaboration|Observation of Terrestrial Gamma-ray Flashes with Fermi LAT|4
+2012AAS...21931804S|Szostek, A;Corbel, S;Dubus, G;Fermi LAT Collaboration;Tomsick, J|A Giant Radio Flare from Cygnus X-3 with Associated Gamma-ray Emission|0
+2012AAS...21941804B|Blandford, R;Buehler, R;Funk, S|Fermi Observations of Flares from the Crab Nebula|0
+2012AAS...21943611C|Clausen-Brown, E;Lyutikov, M|Crab Nebula Gamma-ray Flares as Relativistic Reconnection Minijets|0
+2012AIPC.1505..221C|Cardillo, M;Giuliani, A;Tavani, M|AGILE and SNRs: A comparison between W44 and W28|3
+2012AIPC.1505..301G|Giavitto, G;Klepser, S;Lopez, M;Mazin, D;Saito, T;Schweizer, T;Zanin, R;Hirotani, K;Horns, D;Meyer, M;Rodriguez, J|VHE gamma-ray measurements of the Crab nebula and pulsar by MAGIC|0
+2012APS..APR.J7003W|Weekes, T|The Crab Nebula as a Standard Candle for TeV gamma-ray astronomy|0
+2012ESASP.691E.146C|Carpentiero, R;Mrchetti, E;Natalucci, S;Portelli, C|Lesson Learned from AGILE and LARES ASI Projects About MATED Data Collection and Post Analysis|0
+2012JPhCS.355a2004D|Donnarumma, I;AGILE Team|A review of the multiwavelength studies on the blazars detected by AGILE|1
+2012JPhCS.355a2017R|Reinthal, R;Rugamer, S;Lindfors, E;Mazin, D;Stamerra, A;MAGIC Collaboration;Longo, F;Lucarelli, F;Pittori, C;AGILE Team;Lahteenmaki, A|Multi-wavelength Observations of the HBL 1ES 1011+496 in Spring 2008|7
+2012JPhCS.375e2020P|Paneque, D|Experimental Gamma-Ray Astronomy|3
+2012MSAIS..19..338S|Sacco, B;Vercellone, S|Present and future of the TeV astronomy with Cherenkov telescopes|0
+2012MmSAI..83..186P|Pittori, C;AGILE Collaboration|AGILE highlights|0
+2012MmSAI..83..207S|Sabatini, S;AGILE Team|Gamma-ray monitoring of Cygnus X-1 with the AGILE satellite|0
+2012MmSAI..83..259L|Lewandowska, N;Wendel, C;Kondratiev, V;Elsaesser, D;Mannheim, K|Giant radio pulses of the Crab Pulsar  A multifrequency study|0
+2012MmSAI..83..302D|Del Monte, E;Fuschino, F;Giuliani, A;Longo, F;Marisaldi, M;Trifoglio, M;Argan, A;Bulgarelli, A;Caraveo, P;Cattaneo, P;Chen, A;Costa, E;Di Cocco, G;Donnarumma, I;Evangelista, Y;Galli, M;Gianotti, F;Labanti, C;Lapshov, I;Lazzarotto, F;Lipari, P;Mereghetti, S;Morselli, A;Pacciani, L;Pellizzoni, A;Perotti, F;Picozza, P;Pilia, M;Prest, M;Pucella, G;Rapisarda, M;Rappoldi, A;Soffitta, P;Tavani, M;Trois, A;Vercellone, S;Vittorini, V;Pittori, C;AGILE Team|The observation of Gamma Ray Bursts with AGILE .|0
+2012SPIE.8443E..4DC|Cattaneo, P;Rappoldi, A;Argan, A;Buonomo, B;Bulgarelli, A;Chen, A;D'Ammando, F;Foggetta, L;Fuschino, F;Galli, M;Gianotti, F;Giuliani, A;Longo, F;Marisaldi, M;Mazzitelli, G;Pellizzoni, A;Prest, M;Pucella, G;Quintieri, L;Tavani, M;Trifoglio, M;Trois, A;Valente, P;Vallazza, E;Vercellone, S;Barbiellini, G;Caraveo, P;Costa, E;De Paris, G;Del Monte, E;Di Cocco, G;Donnarumma, I;Evangelista, Y;Ferrari, A;Feroci, M;Fiorini, M;Giusti, M;Labanti, C;Lapshov, I;Lazzarotto, F;Lipari, P;Lucarelli, F;Mereghetti, S;Morelli, E;Moretti, E;Morselli, A;Pacciani, L;Perotti, F;Piano, G;Picozza, P;Pilia, M;Rapisarda, M;Rubini, A;Sabatini, S;Soffitta, P;Striani, E;Vittorini, V;Zanello, D;Colafrancesco, S;Giommi, P;Pittori, C;Santolamazza, P;Verrecchia, F;Salotti, L|On-ground calibration of AGILE-GRID with a photon beam: results and lessons for the future|0
+2012SPIE.8443E..4EC|Chen, A;Argan, A;Bulgarelli, A;Cattaneo, P;Giuliani, A;Pittori, C;Pucella, G;Tavani, M;Trois, A;Barbiellini, G;Caraveo, P;Colafrancesco, S;Costa, E;De Paris, G;Del Monte, E;Di Cocco, G;Donnarumma, I;Evangelista, Y;Ferrari, A;Feroci, M;Fiorini, M;Fuschino, F;Galli, M;Gianotti, F;Giommi, P;Giusti, M;Labanti, C;Lapshov, I;Lazzarotto, F;Lipari, P;Longo, F;Lucarelli, F;Marisaldi, M;Mereghetti, S;Morelli, E;Moretti, E;Morselli, A;Pacciani, L;Pellizzoni, A;Perotti, F;Piano, G;Picozza, P;Pilia, M;Prest, M;Rapisarda, M;Rappoldi, A;Rubini, A;Sabatini, S;Santolamazza, P;Soffitta, P;Striani, E;Trifoglio, M;Salotti, L;Vallazza, E;Vercellone, S;Verrecchia, F;Vittorini, V;Zanello, D|Calibration of AGILE-GRID with in-flight data and Monte Carlo simulations|1
+2012adap.prop..289H|Hurley, K|Support for the Interplanetary Network|0
+2012arXiv1205.5510V|Vercellone, S|The gamma-ray flaring properties of the blazar 3C 454.3|5
+2012atnf.prop.4591S|Shannon, R;Possenti, A;Manchester, D;Johnston, S;Hobbs, G;Keith, M;Romani, R;Thompson, D;Thorsett, S;Roberts, M;Weltevrede, P|Pulsar Timing and the Fermi and AGILE missions|0
+2012atnf.prop.5048S|Shannon, R;Possenti, A;Manchester, D;Johnston, S;Hobbs, G;Keith, M;Romani, R;Thompson, D;Thorsett, S;Roberts, M;Weltevrede, P|Pulsar Timing and the Fermi and AGILE missions|0
+2012cosp...39.1949T|Tavani, M|A SNR Triptych and cosmic-ray production: IC 443, W28, and W44|0
+2012cosp...39.1950T|Tavani, M|Searching for gamma-ray emission from Supergiant Fast X-ray Transients|0
+2012cosp...39.1968T|Thompson, D|The Gamma-ray Universe through Fermi|0
+2012grb..confE.....||Gamma-Ray Bursts 2012 Conference|0
+2012grb..confE..30D|Del Monte, E|The observation of Gamma Ray Bursts with AGILE|0
+2012mgm..conf..996T|Trushkin, S;Nizhelskij, N;Bursov, N|Multi-Frequency Radio Photometry of the Microquasars with the RATAN-600 Radio Telescope|2
+2011AAS...21724007W|Williams, P;Bower, G;Tomsick, J;Allen Telescope Array Team|Coordinated Radio and High-Energy Observations of Cygnus X-3 with the Allen Telescope Array|0
+2011AAS...21743406T|Tavani, M|AGILE Discovery of Gamma-ray Flares from the Crab Nebula|1
+2011AGUFMAE24A..03C|Celestin, S;Xu, W;Pasko, V|Terrestrial gamma-ray flashes produced by energetic electrons during the stepping of lightning leaders|0
+2011AGUFMAE24A..06T|Tavani, M;Marisaldi, M;Fuschino, F;Labanti, C;Argan, A;Agile Team|Terrestrial Gamma-Ray Flashes at the highest energies as detected by AGILE|0
+2011AGUFMAE24A..07G|Grove, J;Chekhtman, A;Briggs, M;Connaughton, V;Fishman, G;Fermi LAT Collaboration;Fermi GBM Collaboration|Observation of Terrestrial Gamma-ray Flashes with Fermi LAT|0
+2011AGUFMAE33B0304X|Xu, W;Celestin, S;Pasko, V|Estimation of source altitudes of Terrestrial Gamma-ray Flashes produced during the stepping of lighting leaders|0
+2011AIPC.1357..229P|Pilia, M;Pellizzoni, A|Observing peculiar γ-ray pulsars with AGILE|1
+2011AIPC.1357..257D|de Luca, A;Marelli, M;Caraveo, P|X-Ray observations of ``γ-ray only'' pulsars|0
+2011AIPC.1358..209D|Del Monte, E;Barbiellini, G;Fuschino, F;Giuliani, A;Longo, F;Marisaldi, M;Moretti, E;Trifoglio, M;Argan, A;Bulgarelli, A;Caraveo, P;Cattaneo, P;Chen, A;Costa, E;Di Cocco, G;Donnarumma, I;Evangelista, Y;Feroci, M;Galli, M;Gianotti, F;Labanti, C;Lapshov, I;Lazzarotto, F;Lipari, P;Mereghetti, S;Morselli, A;Pacciani, L;Pellizzoni, A;Perotti, F;Picozza, P;Pilia, M;Prest, M;Pucella, G;Rapisarda, M;Rappoldi, A;Soffitta, P;Tavani, M;Trois, A;Vallazza, E;Vercellone, S;Vittorini, V;Pittori, C;Salotti, L|The observation of GRBs with AGILE and the interesting cases of GRB 090618 and GRB 100724B|2
+2011AIPC.1358..385H|Hurley, K;Golenetskii, S;Aptekar, R;Mazets, E;Pal'Shin, V;Frederiks, D;Mitrofanov, I;Golovin, D;Kozyrev, A;Litvak, M;Sanin, A;Boynton, W;Fellows, C;Harshman, K;Starr, R;von Kienlin, A;Rau, A;Yamaoka, K;Ohno, M;Fukazawa, Y;Takahashi, T;Tashiro, M;Terada, Y;Murakami, T;Makishima, K;Barthelmy, S;Cummings, J;Gehrels, N;Krimm, H;Cline, T;Goldsten, J;Del Monte, E;Feroci, M;Marisaldi, M;Briggs, M;Connaughton, V;Meegan, C;Smith, D;Wigger, C;Hajdas, W|The Third Interplanetary Network|1
+2011HEAD...12.0714V|Vercellone, S;AGILE Team|A Factor Of 100: The Gamma-ray Flaring Properties Of The Blazar 3c 454.3|0
+2011HEAD...12.0816M|McCollough, M;Savolainen, P;Koljonen, K;Hannikainen, D;Cygnus X-3 Collaboration|The 2011 Cygnus X-3 Multi-Wavelength Campaign|0
+2011HEAD...12.0821V|Varlotta, A;VERITAS,|Multi-wavelength Observations of Cygnus X-3|0
+2011HEAD...12.2105D|Drake, S;Smale, A;Staff, H|The HEASARC at 20: Highlights of the Last Two Decades and Future Prospects|0
+2011HEAD...12.2602P|Pilia, M;Pellizzoni, A;AGILE Team;AGILE Pulsar Working Group|Agile &amp; Fermi Observations Of The "soft" Gamma-ray Pulsar B1509-58|0
+2011HEAD...12.4501T|Tennant, A;Weisskopf, M;Tavani, M;Buehler, R;Blandford, R;Caraveo, P;Costa, E;Horns, D;Ferrigno, C;Funk, S;Mignani, R;Lobonav, A;de Luca, A;Uchiyama, Y|High-Resolution Chandra Observations of the Crab Nebula in Coincidence with the April Gamma-Ray Flares|0
+2011HEAD...12.4502B|Blandford, R;Buehler, R;Funk, S|Interpretations Of Rapid Gamma-ray Variability In The Crab Nebula|0
+2011HEAD...12.4503C|Clausen-Brown, E;Lyutikov, M|Crab Nebula Gamma-ray Flares as Relativistic Reconnection Events|0
+2011IAUS..275..285K|Koljonen, K;Hannikainen, D;McCollough, M;Pooley, G;Trushkin, S;Tavani, M;Droulans, R|The disk/jet connection in the enigmatic microquasar Cygnus X-3|1
+2011ICRC....7...72Z|Zanin, R|MAGIC measurement of the Crab Nebula spectrum over three decades in energy|6
+2011ICRC....7..236L|Lucarelli, F;Pittori, C;Rappoldi, A;Longo, F|TeV sources analysis with AGILE|0
+2011ICRC....7..260Y|YUAN, q|A statistical model for the gamma-ray variability and flare of the Crab nebula|0
+2011JPhCS.280a2002D|D'Ammando, F;Vercellone, S;Donnarumma, I;Pacciani, L;Pucella, G;Tavani, M;Vittorini, V;Bulgarelli, A;Chen, A;Giuliani, A;Longo, F;AGILE Team|Multiwavelength Observations of the Gamma-ray Blazars Detected by AGILE|1
+2011JPhCS.302a2062M|Morii, M;Kawai, N;Usui, R;Sugimori, K;Sugizaki, M;Mihara, T;Yamamoto, T;Matsuoka, M;MAXI Team|MAXI Monitoring of Crab Pulsar during the GeV Gamma-ray Flare on September 2010|1
+2011MmSAI..82..120S|Striani, E;Tavani, M;Bulgarelli, A;Piano, G;Sabatini, S|New evidence for extreme particle acceleration in microquasars|0
+2011MmSAI..82..747G|Giuliani, G;AGILE Team|AGILE observations of Middle-aged supernova remnants|3
+2011NuPhS.212..349B|Bazzano, A;Ubertini, P|The INTEGRAL legacy: unveiling the soft gamma-ray sky|0
+2011apra.prop...67H|Hunter, S|Optimization and Testing of the Three-Dimensional Track Imager (3-DTI) for Medium-Energy Gamma-Ray Astrophysics|0
+2011arXiv1103.0749S|Stratta, G;Capalbi, M;Giommi, P;Primavera, R;Cutini, S;Gasparrini, D|The ASDC SED Builder Tool description and Tutorial|19
+2011arXiv1103.5929P|Pilia, M;Pellizzoni, A|AGILE observations of PSR B1509-58: a new class of highly magnetized, 'soft' gamma-ray pulsars?|2
+2011arXiv1106.0164T|Tavani, M|The variable Crab Nebula|1
+2011arXiv1109.6808R|Rugamer, S;Angelakis, E;Bastieri, D;Dorner, D;Fuhrmann, L;Kovalev, Y;Kovalev, Y;Lahteenmaki, A;Lindfors, E;Longo, F;Lucarelli, F;Pittori, C;Reinthal, R;Sbarra, C;Sokolovsky, K;Stamerra, A;Ungerechts, H|MAGIC and Multi-Wavelength Observations of Mrk 180 and 1ES 2344+514 in 2008|4
+2011arXiv1110.1581Z|Zanin, R;Sayto, T;Zabalza, V;Bordas, P;Jogler, T;Cortina, J;Paredes, J;Ribo, M;Rico, J|Search for VHE signals from microquarsars with MAGIC|4
+2011arXiv1110.6043P|Piano, G;Bulgarelli, A;Tavani, M;Vittorini, V;McCollough, M;Pooley, G;Trushkin, S|AGILE monitoring of the microquasar Cygnus X-3|3
+2011arXiv1110.6929P|Pilia, M;Pellizzoni, A|AGILE and Fermi Observations of the Soft Gamma-Ray Pulsar B1509-58|0
+2011arXiv1111.2039L|Longo, F;Rappoldi, A;Lucarelli, F;Pittori, C;Verrecchia, F;Bulgarelli, A;Tavani, M|TeV sources analysis with AGILE|1
+2011arXiv1111.2040L|Longo, F;Barbiellini, G;Del Monte, E;Marisaldi, M;Fuschino, F;Giuliani, A|Observations of Gamma Ray Bursts with AGILE|2
+2011arXiv1111.2188M|Marisaldi, M;Fuschino, F;Labanti, C;Bulgarelli, A;Gianotti, F;Trifoglio, M;Tavani, M;Argan, A;Del Monte, E;Longo, F;Barbiellini, G;Giuliani, A;Trois, A|AGILE Observations of Terrestrial Gamma-Ray Flashes|2
+2011arXiv1111.3592G|Giuliani, A;Cardillo, M;Tavani, M|AGILE observations of Supernova Remnants|1
+2011atnf.prop.3733S|Shannon, R;Possenti, A;Manchester, D;Johnston, S;Hobbs, G;Keith, M;Romani, R;Thompson, D;Thorsett, S;Roberts, M;Weltevrede, P|Pulsar Timing and the Fermi and AGILE missions|0
+2011atnf.prop.4187S|Shannon, R;Possenti, A;Manchester, D;Johnston, S;Hobbs, G;Keith, M;Romani, R;Thompson, D;Thorsett, S;Roberts, M;Weltevrede, P|Pulsar Timing and the Fermi and AGILE missions|0
+2011atp..prop...98L|Lyutikov, M|Dynamics and emission properties of relativistic magnetized outflows: from Crab to GRBs|0
+2011evhe.confE.....||The Extreme and Variable High Energy Sky|0
+2011evhe.confE..11S|Sguera, V;Bazzano, A;Bird, A;Drave, S|SFXTs as best candidate counterparts of unidentified transient MeV sources: the case of IGR J17354 3255/AGLJ1734-3310|0
+2011hsa6.conf..554Z|Zabalza, V;Paredes, J|X-ray and gamma-ray observations of the inner region of MGRO J2019+37|0
+2011sssf.confE..36T|Tavani, M|Swift Observations of AGILE Sources|0
+2011xmm..prop...45B|Boettcher, M|Triggered Observations of a new VHE Gamma-ray Blazar|0
+2010AAS...21542120K|Kundurthy, P;Becker, A;Agol, E;Williams, B;Mukadam, A;Rose, A;Barnes, R;Laws, C|Results From The APO Survey Of Transit Lightcurves Of Exoplanets (APOSTLE)|0
+2010AGUFMAE11A0330M|Marisaldi, M;Tavani, M;Argan, A;Trois, A;Giuliani, A;Labanti, C;Fuschino, F;Bulgarelli, A;Longo, F;Barbiellini, G|Gamma-ray Localization of Terrestrial Gamma-ray Flashes by AGILE|0
+2010AIPC.1279..330H|Hurley, K;Golenetskii, S;Aptekar, R;Mazets, E;Pal'Shin, V;Frederiks, D;Mitrofanov, I;Golovin, D;Litvak, M;Sanin, A;Boynton, W;Fellows, C;Harshman, K;Starr, R;Smith, D;Wigger, C;Hajdas, W;von Kienlin, A;Rau, A;Yamaoka, K;Ohno, M;Takahashi, T;Fukazawa, Y;Tashiro, M;Terada, Y;Murakami, T;Makishima, K;Barthelmy, S;Cline, T;Cummings, J;Gehrels, N;Krimm, H;Goldsten, J;Del Monte, E;Feroci, M;Marisaldi, M;Briggs, M;Connaughton, V;Meegan, C|The Third Interplanetary Network|15
+2010ASPC..422..286G|Giuliani, A;Tavani, M;Argan, A;Barbiellini, G;Bulgarelli, A;Caraveo, P;Cattaneo, P;Chen, A;Costa, E;D'Ammando, F;Del Monte, E;de Paris, G;Di Cocco, G;Donnarumma, I;Evangelista, Y;Feroci, M;Fiorini, M;Fuschino, F;Galli, M;Gianotti, F;Labanti, C;Lapshov, Y;Lazzarotto, F;Lipari, P;Longo, F;Marisaldi, M;Mereghetti, S;Morselli, A;Pacciani, L;Pellizzoni, A;Perotti, F;Piano, G;Picozza, P;Pilia, M;Prest, M;Pucella, G;Rapisarda, M;Rappoldi, A;Sabatini, S;Soffitta, P;Striani, E;Trifoglio, M;Trois, A;Vallazza, E;Vercellone, S;Vittorini, V;Zambra, A;Zanello, D;Cutini, S;Gasparrini, D;Giommi, P;Pittori, C;Preger, B;Santolamazza, P;Verrecchia, F;Salotti, L|AGILE: Observations and Future Perspectives|0
+2010ASPC..427..257V|Vercellone, S;AGILE Team|Long-Term γ-ray and Multi Wavelength Observations of 3C 454.3 (a.k.a. the "Crazy Diamond")|0
+2010ASPC..427..271D|D'Ammando, F;Raiteri, C;Villata, M;Romano, P;Covino, S;Krimm, H;Tavani, M|Not Only Once: The Amazing γ-ray Activity of the Blazar PKS 1510-089|2
+2010ASPC..427..295D|Donnarumma, I;Vercellone, S;Grube, J;Raiteri, C;Villata, M;VERITAS Collaboration;GASP-WEBT Team;MAGIC Collaboration|The June 2008 Flare of Markarian 421 from Optical to TeV Energies|0
+2010ASPC..427..300P|Pacciani, L;AGILE Team|AGILE Detection of Three Extragalactic Sources|0
+2010ASPC..427..308V|Villata, M|The GLAST-AGILE Support Program of the Whole Earth Blazar Telescope|2
+2010HEAD...11.1004B|Briggs, M;Connaughton, V;Meegan, C;Hurley, K|The Accuracy of GBM GRB Localizations|0
+2010HEAD...11.3310V|Vercellone, S;AGILE Team|Multi-wavelength and Long-term Gamma-ray Monitoring of the Blazar 3C 454.3|0
+2010HEAD...11.4231C|Corcoran, M;Hamaguchi, K;Gull, T;Russell, C;Okazaki, A;Parkin, R;Pittard, J|X-ray Variability of the Eta Car System Through its Most Recent Periastron Passage|0
+2010JPhCS.203a2020B|Bruel, P|Space-based observations of gamma-rays|0
+2010MSAIS..14...71F|Feroci, M;AGILE Team|X-ray and gamma-ray astronomy - The AGILE view|0
+2010MSAIS..14..250A|Antonelli, L;INAF-CTA Collaboration|The Next Generation of Cherenkov Telescopes..|0
+2010MmSAI..81..197P|Pittori, C;AGILE Collaboration|The First AGILE Catalog and First-Year AGILE Highlights.|0
+2010MmSAI..81..248V|Vercellone, S;AGILE Team|Multi wavelength behavior of blazars in the AGILE era|3
+2010MmSAI..81..440F|Fargion, D;D'Armiento, D|An apparent GRBs evolution around us or a sampling of thin GRB beaming jets?|2
+2010SPIE.7732E..21H|Hunter, S;Bloser, P;Dion, M;McConnell, M;de Nolfo, G;Son, S;Ryan, J;Stecker, F|Development of the Advance Energetic Pair Telescope (AdEPT) for medium-energy gamma-ray astronomy|17
+2010SPIE.7732E..30D|Del Monte, E;Costa, E;di Persio, G;Donnarumma, I;Evangelista, Y;Feroci, M;Lapshov, I;Lazzarotto, F;Mastropietro, M;Morelli, E;Pacciani, L;Rapisarda, M;Rubini, A;Soffitta, P;Tavani, M;Argan, A;Trois, A|Rolling and tumbling: status of the SuperAGILE experiment|0
+2010agn9.confE...8D|Donnarumma, I|Gamma-ray blazars as seen by AGILE|0
+2010apsp.conf..279B|Boschini, M;Gervasi, M;Grandi, D;Memola, E;Rancoita, P|The Gamma-Ray Sky Under a "new" Light|0
+2010arXiv1003.4278M|McCollough, M;Koljonen, K;Hannikainen, D|The X-Ray/Radio/Flaring Properties of Cygnus X-3|1
+2010arXiv1006.5786D|D'Ammando, F|Monitoring of gamma-ray blazars with AGILE|0
+2010arXiv1009.1636P|Pilia, M;Pellizzoni, A|AGILE observations of PSR B1509-58: is QED photon splitting at work in pulsars?|0
+2010atnf.prop.2911J|Johnston, S;Possenti, A;Manchester, D;Hobbs, G;Keith, M;Romani, R;Thompson, D;Thorsett, S;Roberts, M;Weltevrede, P|Pulsar timing and the Fermi and AGILE missions|0
+2010atnf.prop.3447J|Johnston, S;Possenti, A;Manchester, D;Hobbs, G;Keith, M;Romani, R;Thompson, D;Thorsett, S;Roberts, M;Weltevrede, P|Pulsar timing and the Fermi and AGILE missions|0
+2010atnf.prop.3657O|Ohm, S;Urquhart, J;Skilton, J;Hinton, J;Domainko, W|Search for non-thermal radio emission from Eta Carina's outer blast wave with ATCA|0
+2010cosp...38..354T|Tavani, M|Monitoring of Terrestrial Gamma-Ray Flashes: relevance for climate studies and aircraft environment|0
+2010cosp...38.2240D|D'Ammando, F;Raiteri, C;Villata, M;Romano, P;Covino, S;Krimm, H;Tavani, M;Argan, A;Barbiellini, G;Bulgarelli, A;Caraveo, P;Cattaneo, P;Chen, A;Cocco, V;Contessi, T;Costa, E;de Paris, G;Del Monte, E;Di Cocco, G;Donnarumma, I;Evangelista, Y;Ferrari, A;Feroci, M;Fuschino, F;Galli, M;Gianotti, F;Giuliani, A;Labanti, C;Lapshov, I;Lazzarotto, F;Lipari, P;Longo, F;Marisaldi, M;Mastropietro, M;Mereghetti, S;Morelli, E;Moretti, E;Morselli, A;Pacciani, L;Pellizzoni, A;Perotti, F;Piano, G;Picozza, P;Pilia, M;Pucella, G;Prest, M;Rapisarda, M;Rappoldi, A;Scalise, E;Rubini, A;Sabatini, S;Striani, E;Soffitta, P;Trifoglio, M;Trois, A;Vallazza, E;Vercellone, S;Vittorini, V;Zambra, A;Zanello, D|Gamma-ray blazars: the view from AGILE|0
+2010cosp...38.2306P|Pacciani, L;Vittorini, V;Sakamoto, T;Elena, P;Fiocchi, M;Raiteri, C;Villata, M;Striani, E;Vercellone, S;D'Ammando, F;Fugazza, D;Tiengo, A;Tavani, M;Trispec BLAZAR Team;AGILE Collaboration;Swift Collaboration;Gasp-Webt Collaboration;Fabiani, S|The strongest ever gamma-ray source in the sky: the December 2009 flare of 3C 454.3|0
+2010cosp...38.2547R|Ribo, M|Microquasars: observations and perspectives|0
+2010cosp...38.2550H|Hurley, K;Golenetskii, S;Aptekar, R;Mazets, E;Pal'Shin, V;Frederiks, D;Mitrofanov, I;Golovin, D;Litvak, M;Sanin, A;Boynton, W;Fellows, C;Harshman, K;Starr, R;von Kienlin, A;Rau, A;Yamaoka, K;Ohno, M;Takahashi, T;Fukazawa, Y;Tashiro, M;Terada, Y|Monitoring the high energy transient sky with the 9-spacecraft interplanetary network|0
+2010cosp...38.2551C|Chen, A|AGILE observations of variable and transient gamma-ray sources in the Galactic plane|0
+2010cosp...38.2552S|Sguera, V|New class of Galactic transient: the KeV to GeV connection|0
+2010cosp...38.2554T|Tavani, M;Chen, A;Argan, A;Barbiellini, G;Bulgarelli, A;Caraveo, P;Cattaneo, P;D'Ammando, F;Costa, E;de Paris, G;de Pasquale, F;Del Monte, E;Di Cocco, G;Don-Narumma, I;Evangelista, Y;Feroci, M;Ferrari, A;Fiorini, M;Fuschino, F;Galli, M;Gianotti, F;Giuliani, A;Giusti, M;Labanti, C;Lazzarotto, F;Lipari, P;Longo, F;Lucarelli, F;Marisaldi, M;Mereghetti, S;Morelli, E;Moretti, E;Morselli, A;Pacciani, L;Pellizzoni, A;Perotti, F;Piano, G;Picozza, P;Pilia, M;Pucella, G;Prest, M;Rapisarda, M;Rappoldi, A;Rubini, A;Sabatini, S;Scalise, E;Soffitta, P;Striani, E;Trifoglio, M;Trois, A;Vallazza, E;Vercellone, S;Vittorini, V;Zambra, A;Zanello, D;Pittori, C;Verrecchia, F;Santolamazza, P;Giommi, P;Colafrancesco, S;Antonelli, L;Salotti, L|AGILE detection of gamma-ray transients|0
+2010cosp...38.2584A|Arkhangelskaja, I|The properties of GRB with high energy emission|0
+2010cosp...38.2596S|Sabatini, S;Tavani, M;Caraveo, P;Barbiellini, G;Costa, E;Feroci, M;Argan, A;Bulgarelli, A;Cattaneo, P;Chen, A;D'Ammando, F;de Paris, G;Del Monte, E;Di Cocco, G;Donnarumma, I;Evangelista, Y;Ferrari, A;Fiorini, M;Fuschino, F;Galli, M;Gianotti, F;Giuliani, A;Giusti, M;Labanti, C;Lazzarotto, F;Lipari, P;Longo, F;Marisaldi, M;Mereghetti, S;Morelli, E;Moretti, E;Morselli, A;Pacciani, L;Pellizzoni, A;Perotti, F;Piano, G;Picozza, P;Pilia, M;Pucella, G;Prest, M;Rapisarda, M;Rappoldi, A;Rubini, A;Scalise, E;Soffitta, P;Striani, E;Trifoglio, M;Trois, A;Vallazza, E;Vercellone, S;Zambra, A;Zanello, D;Pittori, C;Verrecchia, F;Vittorini, V;Santolamazza, P;Giommi, P;Colafrancesco, S;Antonelli, L;Salotti, L|Galactic transients with AGILE: the case of Eta Carinae and Cygnus X-1|0
+2010cosp...38.2663T|Tavani, M|Direct Evidence for Hadronic Cosmic-Ray Acceleration in Supernova Remnants|0
+2010cosp...38.2667U|Ubertini, P|INTEGRAL Legacy: a New View of the Soft Gamma-Ray Sky|0
+2010cosp...38.2705V|Verrecchia, F;Pittori, C;Bulgarelli, A;Chen, A;Tavani, M;Giommi, P;AGILE-Collaboration|A variability study of the first catalog of gamma-ray sources on the 2.3 years AGILE data archive|0
+2010cosp...38.2749U|Ubertini, P|The emerged soft gamma-rays population of PWN: keV-GeV-TeV accelerator|0
+2010cosp...38.2812F|Fiocchi, M;Ubertini, P;Bassani, L;Bazzano, A;Bird, A|The spectral energy distribution of the Vela nebula|0
+2010cxo..prop.3239W|Weisskopf, M|Study of spatial structure associated with a gamma-ray enhancement of the Crab|0
+2010cxo..prop.3246W|Weisskopf, M|Monitoring of the Crab Nebula|0
+2010fym..confP..28M|Morii, M;Kawai, N;Usui, R;Sugimori, K;Sugizaki, M;Mihara, T;Yamamoto, T;Matsuoka, M;Maxi Team|MAXI observation of Crab pulsar during the gamma-ray flare in September 2010|0
+2010hst..prop12434L|Lobanov, A|Deciphering the Flare in the Crab Nebula:|0
+2010int..workE...8D|Donnarumma, I;Agn Wg, A|Multifrequency studies of the blazars detected by AGILE|0
+2010int..workE..25M|McCollough, M;Koljonen, K;Hannikainen, D;Pooley, G;Trushkin, S;Steeghs, D;Tavani, M;Droulans, R|Understanding Cygnus X-3 Through Multi-Wavelength Studies|2
+2010sf2a.conf..171G|Gendre, B;Giommi, P|The ASI Science Data Center|0
+2010tsra.confE..95C|Chen, A|AGILE Observations of Variable and transient γ-ray sources in the Galactic plane, Catalog improvements|0
+2010tsra.confE..96L|Longo, F;Del Monte, E;Marisaldi, M;Fuschino, F;Moretti, E;Rappoldi, A;Giuliani, A;Cutini, S;Trifoglio, M;Pittori, C;Tavani, M;Argan, A;Barbiellini, G;Costa, E;Donnarumma, I;Evangelista, Y;Feroci, M;Galli, M;Gianotti, F;Labanti, C;Lapshov, I;Lazzarotto, F;Mereghetti, S;Pacciani, L;Rapisarda, M;Soffitta, P;Trois, A;Vercellone, S;Verrecchia, F;AGILE Team|Observation of GRBs and TGFs with AGILE|0
+2010tsra.confE.113P|Pilia, M;Pellizzoni, A|AGILE observations of PSR B1509-58: a new class of highly magnetized, 'soft' gamma-ray pulsars?|0
+2010tsra.confE.125G|Giuliani, A;Tavani, M;Piano, G;Cardillo, M;Striani, E;Sabatini, S;Argan, A;Costa, E;Del Monte, E;Donnarumma, I;Evangelista, Y;Feroci, M;Pacciani, L;Pucella, G;Soffitta, P;Vittorini, V;Fukui, Y;Kawamura, A;Caraveo, P;Chen, A;Fiorini, M;Mereghetti, S;Bulgarelli, A;Di Cocco, G;Fuschino, F;Gianotti, F;Labanti, C;Marisaldo, M;Trifoglio, M;Verrecchia, F;Pittori, C;Santolamazza, P;Giommi, P;Barbiellini, G;Longo, F;Cattaneo, P;Rappoldi, A;D'Ammando, F;Vercellone, S;Lipari, P;Pellizzoni, A;Pilia, M;Trois, A|Middle-aged Supernova Remnants with AGILE|0
+2010xmm..prop...93M|McSwain, M|X-ray Counterparts of Be Gamma-ray Binary Candidates|0
+2010xmm..prop..172R|Roberts, M|XMM-Newton Studies of the Gamma-Ray Pulsar PSR J2021+3651 and its Large Nebula|0
+2009AAS...21330104T|Tavani, M;AGILE Team|Gamma-ray Astrophysics with The AGILE Mission|0
+2009AGUFMAE31A..02M|Marisaldi, M|Observation of Terrestrial Gamma-Ray Flashes with AGILE|0
+2009AGUFMSM42A..07R|Rowland, D;Weatherwax, A;Klenzing, J;Hill, J|The NSF Firefly Cubesat: Progress and status|0
+2009AIPC.1112....1T|Thompson, D|Multiwavelength Opportunities for GeV and TeV Telescopes|4
+2009AIPC.1112..121V|Vercellone, S;Donnarumma, I;Bulgarelli, A;Chen, A;D'Ammando, F;Giuliani, A;Longo, F;Pacciani, L;Pucella, G;Tavani, M;Vittorini, V|The ``Crazy Diamond'' (and other blazars)|1
+2009AIPC.1126..165S|Soldi, S;Turler, M;Paltani, S;Courvoisier, T|The Multi-component X-ray Emission of 3C 273|0
+2009AIPC.1132..199R|Ruffini, R;Aksenov, A;Bernardini, M;Bianco, C;Caito, L;Chardonnet, P;Dainotti, M;de Barros, G;Guida, R;Izzo, L;Patricelli, B;Lemos, L;Rotondo, M;Hernandez, J;Vereshchagin, G;Xue, S|The Blackholic energy and the canonical Gamma-Ray Burst IV: the ``long,'' ``genuine short'' and ``fake-disguised short'' GRBs|14
+2009AIPC.1133...12D|Del Monte, E;Costa, E;Donnarumma, I;Evangelista, Y;Fornari, F;Fuschino, F;Galli, M;Giuliani, A;Lapshov, I;Lazzarotto, F;Lipari, P;Longo, F;Marisaldi, M;Mereghetti, S;Moretti, E;Pacciani, L;Rapisarda, M;Soffitta, P;Vercellone, S;Argan, A;Barbiellini, G;Bulgarelli, A;Caraveo, P;Cattaneo, P;Chen, A;Di Cocco, G;Feroci, M;Gianotti, F;Labanti, C;Morselli, A;Pellizzoni, A;Perotti, F;Piano, G;Picozza, P;Prest, M;Pucella, G;Rappoldi, A;Sabatini, S;Tavani, M;Trifoglio, M;Trois, A;Vallazza, E;Vittorini, V;Preger, B;Pittori, C;Salotti, L|The status of the AGILE GRB observations and the noticeable case of GRB 080514B|5
+2009AIPC.1133...49F|Feroci, M;Amati, L;Antonelli, L;Bonvicini, V;Campana, R;Costa, E;Del Monte, E;Donnarumma, I;Evangelista, Y;Fiore, F;Fuschino, F;Israel, G;Labanti, C;Lapshov, I;Lazzarotto, F;Marisaldi, M;Mastropietro, M;Morelli, E;Muleri, F;Nicastro, F;Orlandini, M;Pacciani, L;Perotti, F;Rapisarda, M;Rashevsky, A;Rubini, A;Soffitta, P;Vacchi, A;Zampa, G;Zampa, N|A Light and Effective Wide Field Monitor for Gamma Ray Bursts and Transient Sources|0
+2009AIPC.1133...55H|Hurley, K;Cline, T;Mitrofanov, I;Golovin, D;Litvak, M;Sanin, A;Boynton, W;Fellows, C;Harshman, K;Starr, R;Golenetskii, S;Aptekar, R;Mazets, E;Pal'Shin, V;Frederiks, D;Smith, D;Wigger, C;Hajdas, W;Zehnder, A;von Kienlin, A;Lichti, G;Rau, A;Yamaoka, K;Ohno, M;Fukazawa, Y;Takahashi, T;Tashiro, M;Terada, Y;Murakami, T;Makishima, K;Barthelmy, S;Cummings, J;Gehrels, N;Krimm, H;Goldsten, J;Del Monte, E;Feroci, M;Marisaldi, M|The Status and Future of the Third Interplanetary Network|6
+2009AIPC.1133...58R|Rossi, A;Klose, S;Ferrero, P;Kann, D;Schulze, S;de Ugarte Postigo, A;Greiner, J;Schady, P|GRB 080514B: the first high-energy AGILE burst with optical/NIR afterglow|1
+2009AIPC.1133..415M|Marisaldi, M;Labanti, C;Fuschino, F;Galli, M;Argan, A;Barbiellini, G;Boffelli, F;Bulgarelli, A;Caraveo, P;Cattaneo, P;Chen, A;Costa, E;D'Ammando, F;Del Monte, E;Di Cocco, G;Donnarumma, I;Evangelista, Y;Feroci, M;Fornari, F;Gianotti, F;Giuliani, A;Lapshov, I;Lazzarotto, F;Lipari, P;Longo, F;Mereghetti, S;Moretti, E;Morselli, A;Pacciani, L;Pellizzoni, A;Perotti, F;Picozza, P;Prest, M;Pucella, G;Rapisarda, M;Rappoldi, A;Soffitta, P;Tavani, M;Trifoglio, M;Trois, A;Vallazza, E;Vercellone, S;Vittorini, V;Pittori, C;Antonelli, L;Cutini, S;Gasparrini, D;Giommi, P;Preger, B;Santolamazza, P;Verrecchia, F;Salotti, L|Search for Very Short Bursts with the AGILE Mini-Calorimeter|0
+2009ASPC..411..362B|Bulgarelli, A;Trifoglio, M;Gianotti, F;Di Cocco, G;Tavani, M|AGILE-GRID Automated Web-based Analysis System for Fast Detection of Gamma-ray Transients|7
+2009ASPC..411..434L|Lazzarotto, F;Costa, E;Del Monte, E;Donnarumma, I;Evangelista, Y;Feroci, M;Lapshov, I;Pacciani, L;Soffitta, P;Trifoglio, M;Bulgarelli, A;Gianotti, F|SuperAGILE Data Processing Services|0
+2009JPhCS.160a2040M|Marisaldi, M;Labanti, C;Fuschino, F;Galli, M;Argan, A;Bulgarelli, A;Di Cocco, G;Gianotti, F;Tavani, M;Trifoglio, M;Trois, A|The Mini-Calorimeter on-board AGILE: The first year in space|0
+2009MmSAI..80..196A|Antonelli, L;INAF MAGIC Collaboration|From MAGIC to CTA: the INAF participation to Cherenkov Telescopes experiments for very high energy astrophysics .|0
+2009MmSAI..80..201G|Ghisellini, G|Extragalactic jets: a new perspective.|0
+2009arXiv0902.0245S|Sguera, V|Hard fast X-ray transients as possible counterparts of unidentified MeV/TeV sources|7
+2009arXiv0905.0253D|D'Ammando, F;Vercellone, S;Donnarumma, I;Bulgarelli, A;Chen, A;Giuliani, A;Longo, F;Pacciani, L;Pucella, G;Tavani, M;Vittorini, V|Blazars: the gamma-ray view of AGILE|0
+2009arXiv0906.1446M|Marisaldi, M;Barbiellini, G;Costa, E;Cutini, S;Del Monte, E;Donnarumma, I;Evangelista, Y;Feroci, M;Fuschino, F;Galli, M;Giuliani, A;Labanti, C;Lapshov, I;Lazzarotto, F;Lipari, P;Longo, F;Mereghetti, S;Moretti, E;Pacciani, L;Rapisarda, M;Soffitta, P;Tavani, M;Trifoglio, M;Vercellone, S|Observation of GRBs with AGILE|8
+2009arXiv0906.1451M|Marisaldi, M;D'Ammando, F;Vercellone, S;Donnarumma, I;Bulgarelli, A;Chen, A;Giuliani, A;Longo, F;Pacciani, L;Pucella, G;Tavani, M;Vittorini, V|AGILE and blazar studies|1
+2009arXiv0906.5253W|Wagner, R;Donnarumma, I;Grube, J;Villata, M;Raiteri, C;Hsu, C;Satalecka, K;Bernardini, E;Majumdar, P|The June 2008 flare of Markarian 421 from optical to TeV energies|5
+2009arXiv0907.0740M|Mankuzhiyil, N;Dorner, D;Prandini, E;Persic, M;Pian, E;D'Ammando, F;Vercellone, S|Simultaneous multi-frequency observations of PG 1553+113|3
+2009arXiv0907.4048M|Maier, G;Pian, E|Multiwavelength observations of a TeV-Flare from W Com|3
+2009arXiv0910.0687D|Dado, S;Dar, A|High Energy Photons From Gamma Ray Bursts|8
+2009arXiv0912.3671Z|Zanin, R|Latest results on galactic sources obtained with the MAGIC telescope|2
+2009atnf.prop.1980W|Weltevrede, P;Possenti, A;Manchester, D;Johnston, S;Kramer, M;Hobbs, G;Romani, R;Thompson, D;Thorsett, S;Roberts, M|Pulsar timing and the Fermi and AGILE missions|0
+2009atnf.prop.2264R|Roberts, M;Johnston, S;Dougherty, S;Ransom, S;McSwain, M;Ray, P;Grundstrom, E|Multiwavelength Monitoring of LS 5039|0
+2009atnf.prop.2561W|Weltevrede, P;Possenti, A;Manchester, D;Johnston, S;Kramer, M;Hobbs, G;Keith, M;Romani, R;Thompson, D;Thorsett, S;Roberts, M|Pulsar timing and the Fermi and AGILE missions|0
+2009cxo..prop.3235W|Weisskopf, M|Search for new spatial structure associated with the gamma-ray enhancement of the Crab|0
+2009essu.confE..21T|Tavani, M|The AGILE high-energy Sky|0
+2009foap.conf..175P|Pittori, C;Tavani, M;AGILE Team;Data Center, A|AGILE Highlights: First year|0
+2009rxte.prop95013.||Transient Millisecond X-Ray Pulsars in Outburst (core Program)|0
+2009rxte.prop95150.||RXTE Follow-Up Observations of Agile-Triggered Gamma-Ray Flaring Blazars (core Program)|0
+2009yCat..35061563P|Pittori, C;Verrecchia, F;Chen, A;Bulgarelli, A;Pellizzoni, A;Giuliani, A;Vercellone, S;Longo, F;Tavani, M;Giommi, P;Barbiellini, G;Trifoglio, M;Gianotti, F;Argan, A;Antonelli, A;Boffelli, F;Caraveo, P;Cattaneo, P;Cocco, V;Colafrancesco, S;Contessi, T;Costa, E;Cutini, S;D'Ammando, F;Del Monte, E;de Paris, G;Di Cocco, G;di Persio, G;Donnarumma, I;Evangelista, Y;Fanari, G;Feroci, M;Ferrari, A;Fiorini, M;Fornari, F;Fuschino, F;Froysland, T;Frutti, M;Galli, M;Gasparrini, D;Labanti, C;Lapshov, I;Lazzarotto, F;Liello, F;Lipari, P;Mattaini, E;Marisaldi, M;Mastropietro, M;Mauri, A;Mauri, F;Mereghetti, S;Morelli, E;Moretti, E;Morselli, A;Pacciani, L;Perotti, F;Piano, G;Picozza, P;Pilia, M;Pontoni, C;Porrovecchio, G;Preger, B;Prest, M;Primavera, R;Pucella, G;Rapisarda, M;Rappoldi, A;Rossi, E;Rubini, A;Sabatini, S;Santolamazza, P;Scalise, E;Soffitta, P;Stellato, S;Striani, E;Tamburelli, F;Traci, A;Trois, A|VizieR Online Data Catalog: First AGILE catalog of gamma-ray sources (Pittori+, 2009)|0
+2008AGUFMAE21A..03L|Longo, F;Marisaldi, M;Fuschino, F;Labanti, C;Galli, M|The AGILE-MCAL instrument as TGF monitor|0
+2008AIPC..968..104H|Harding, A|High-Energy Emission From Rotation-Powered Pulsars|3
+2008AIPC..968..112G|Gonthier, P;Story, S;Clow, B;Harding, A|Population statistics of radio and γ-ray pulsars from the Galactic disk|0
+2008AIPC..983...56T|Thompson, D|Gamma-Ray Pulsar Studies with GLAST|3
+2008AIPC..983..621R|Roberts, M|Pulsars Everywhere! A Galactic EGRET Source Retrospective|2
+2008AIPC.1000..105D|Del Monte, E;Costa, E;Donnarumma, I;Evangelista, Y;Feroci, M;Lapshov, I;Lazzarotto, F;Rapisarda, M;Soffitta, P;Argan, A;Barbiellini, G;Basset, M;Bulgarelli, A;Caraveo, P;Chen, A;Di Cocco, G;Foggetta, L;Fuschino, F;Galli, M;Gianotti, F;Giuliani, A;Labanti, C;Lipari, P;Longo, F;Marisaldi, M;Mauri, F;Mereghetti, S;Morselli, A;Pellizzoni, A;Perotti, F;Picozza, P;Prest, M;Pucella, G;Tavani, M;Trifoglio, M;Trois, A;Vallazza, E;Vercellone, S;Vittorini, V;Zambra, A;Romano, P;Burrows, D;Chincarini, G;Gehrels, N;La Parola, V;O'Brien, P;Osborne, J;Preger, B;Pittori, C;Antonelli, L;Verrecchia, F;Giommi, P;Salotti, L|GRB 070724B: the first Gamma Ray Burst localized by SuperAGILE|0
+2008AIPC.1000..515H|Hartmann, D|Probing The Universe With GRBs|0
+2008AIPC.1000..523T|Tavani, M;Argan, A;Barbiellini, G;Bulgarelli, A;Cattaneo, P;Caraveo, P;Chen, A;Costa, E;de Paris, G;Del Monte, E;Di Cocco, G;Donnarumma, I;Evangelista, Y;Feroci, M;Fuschino, F;Galli, M;Gianotti, F;Giuliani, A;Labanti, C;Lapshov, I;Lazzarotto, F;Lipari, P;Longo, F;Marisaldi, M;Mereghetti, S;Morselli, A;Pellizzoni, A;Perotti, F;Picozza, P;Prest, M;Pucella, G;Rapisarda, M;Soffitta, P;Trifoglio, M;Trois, A;Vallazza, E;Vercellone, S;Vittorini, V;Zambra, A;Giommi, P;Pittori, C;Preger, B;Verrecchia, F;Antonelli, L;Salotti, L|AGILE and the Gamma-Ray Bursts|1
+2008AIPC.1000..531M|Marisaldi, M;Labanti, C;Fuschino, F;Galli, M;Tavani, M;Bulgarelli, A;Gianotti, F;Trifoglio, M;Argan, A|First GRB detections with the AGILE Minicalorimeter|1
+2008AIPC.1000..551P|Preger, B;Verrecchia, F;Pittori, C;Antonelli, L;Giommi, P;Lazzarotto, F;Evangelista, Y|SuperAGILE Services at ASDC|0
+2008AIPC.1040..150M|Meszaros, P|Gamma-Ray Bursts and Particle Astrophysics: Future Prospects|1
+2008AIPC.1065..267Z|Zou, Y;Fan, Y|GRB 080319B: A naked-eye burst powered by unmagnetized internal shocks|0
+2008AIPC.1085...38M|Measzaros, P|VHE-UHE Properties of Gamma Ray Bursts|0
+2008AIPC.1085..112T|Thompson, D|Pulsars at the Highest Energies: Questions for AGILE, Fermi (GLAST) and Atmospheric Cherenkov Telescopes|0
+2008AIPC.1085..157P|Paredes, J|Gamma rays from compact binary systems|14
+2008AIPC.1085..207P|Pellizzoni, A;Pilia, M;Possenti, M;Fornari, F;Caraveo, P;Del Monte, E;Mereghetti, S;Tavani, M|Observations of Spin-Powered Pulsars with the AGILE Gamma-Ray Telescope|0
+2008AIPC.1085..443V|Vercellone, S;Donnarumma, I;Bulgarelli, A;Chen, A;D'Ammando, F;Giuliani, A;Longo, F;Pacciani, L;Pucella, G;Tavani, M;Vittorini, V|AGILE and γ-ray blazars: the Crazy Diamond and other gems|0
+2008ASPC..394..593L|Lazzarotto, F;Costa, E;Del Monte, E;Donnarumma, I;Evangelista, Y;Feroci, M;Lapshov, I;Pacciani, L;Soffitta, P|The Ground Segment Data Processing System of the SuperAGILE Instrument|2
+2008ESASP.661E.102S|Sabatini, P;Annoni, G;Grossi, R;Alia, S;Reulier, D|"Agile" Battery Technology Transfer-Lessons Learnt|0
+2008HEAD...10.0507B|Band, D;GLAST Collaboration|The Synergy of Gamma-Ray Burst Detectors in the GLAST Era|0
+2008HEAD...10.1201G|Gonthier, P;Story, S;Harding, A|Population Statistics Study Of Radio And Gamma-ray Pulsars From The Galactic Disk|0
+2008HEAD...10.1212P|Pellizzoni, A;AGILE Team|First AGILE Results on Gamma-ray Pulsars|0
+2008HEAD...10.2003V|Vercellone, S;AGILE Team|AGILE Results on Gamma-ray Blazars|0
+2008HEAD...10.2805T|Tavani, M|The AGILE Gamma-Ray Mission|0
+2008HEAD...10.3604D|Donnarumma, I;AGILE Team|First Results From Superagile In Orbit|0
+2008ICRC....2..535B|Bednarek, W;Sitarek, J|Gamma-rays from globular clusters|0
+2008ICRC....3..917P|Persic, M;De Angelis, A;Longo, F;Tavani, M|Gamma-ray blazars: the combined AGILE and MAGIC views|2
+2008MmSAI..79..262M|Massaro, E;Giommi, P;Leto, C;Marchegiani, P;Maselli, A;Perri, M;Piranomomte, S;Sclavi, S|Roma-BZCAT: a multifrequency blazar catalogue .|1
+2008SPIE.7011E..1OF|Feroci, M;Costa, E;Del Monte, E;Di Persio, G;Donnarumma, I;Evangelista, Y;Frutti, M;Lapshov, I;Lazzarotto, F;Morelli, E;Mastropietro, M;Pacciani, L;Rapisarda, M;Rubini, A;Soffitta, P;Argan, A;Trois, A;Tavani, M|SuperAGILE: one year after launch|1
+2008SPIE.7011E..1PM|Marisaldi, M;Labanti, C;Fuschino, F;Galli, M;Argan, A;Bulgarelli, A;Di Cocco, G;Gianotti, F;Tavani, M;Trifoglio, M;Trois, A|In-flight performance of the AGILE mini-calorimeter and its gamma-ray burst detection capabilities|1
+2008SPIE.7011E..3BE|Evangelista, Y;Costa, E;Del Monte, E;Di Persio, G;Donnarumma, I;Feroci, M;Frutti, M;Lapshov, I;Lazzarotto, F;Mastropietro, M;Morelli, E;Pacciani, L;Rapisarda, M;Rubini, A;Soffitta, P;Argan, A;Trois, A;Lo Bue, A;Rossi, P;Semeraro, L;Tavani, M|Calibrating and optimizing the imaging of the SuperAGILE experiment|1
+2008SPIE.7011E..3CB|Bulgarelli, A;Gianotti, F;Trifoglio, M;Di Cocco, G;Tavani, M;Marisaldi, M|The AIV quick look and health monitoring system of the AGILE payload|3
+2008SPIE.7011E..3DG|Gianotti, F;Bulgarelli, A;Trifoglio, M;Di Cocco, G;Tavani, M;Labanti, C;Traci, A|The MGSE software for the on-ground gamma-ray calibration of the AGILE payload|1
+2008SPIE.7011E..3ET|Trifoglio, M;Bulgarelli, A;Gianotti, F;Lazzarotto, F;Di Cocco, G;Fuschino, F;Tavani, M|Architecture and performances of the AGILE Telemetry Preprocessing System (TMPPS)|7
+2008SPIE.7021E..16L|Labanti, C;Marisaldi, M;Fuschino, F;Bastia, P;Negri, B;Perotti, F;Soltau, H|Position sensitive x- and gamma-ray scintillator detector for new space telescopes|2
+2008agn8.confE...2G|Ghisellini, G|Extragalactic jets: a new perspective|0
+2008agn8.confE..23P|Pacciani, L;D'Ammando, F;Donnarumma, I;Giuliani, A;Vittorini, V;AGILE Team|AGILE detections of 3C 273 and 3C 279|0
+2008agn8.confE..30V|Vercellone, S;Donnarumma, I;Pucella, G;D'Ammando, F;AGILE Team|AGILE results on gamma-ray loud Flat Spectrum Radio Quasars observations|0
+2008agn8.confE..33D|D'Ammando, F;Chen, A;Vercellone, S;Donnarumma, I;AGILE Team|AGILE detection of variable gamma-ray activity from the intermediate BL Lac S5 0716+714|0
+2008agn8.confE..35G|Gasparrini, D;Giommi, P|Studio delle popolazioni di blazar ad alte energie|0
+2008agn8.confE..41R|Raiteri, C;Villata, M;Webt Collaboration|Multiwavelength monitoring of 3C 454.3 by the Whole Earth Blazar Telescope|0
+2008agn8.confE..44V|Villata, M;Raiteri, C;Webt Collaboration|The GLAST-AGILE Support Program (GASP)|0
+2008atnf.prop.1325W|Weltevrede, P;Possenti, A;Manchester, D;Johnston, S;Kramer, M;Hobbs, G;Romani, R;Thompson, D;Thorsett, S;Roberts, M|Pulsar timing and the GLAST and AGILE missions|0
+2008atnf.prop.1709W|Weltevrede, P;Possenti, A;Manchester, D;Johnston, S;Kramer, M;Hobbs, G;Romani, R;Thompson, D;Thorsett, S;Roberts, M|Pulsar timing and the GLAST and AGILE missions|0
+2008atnf.prop.1905R|Roberts, M;Johnston, S;Dougherty, S;Ransom, S;McSwain, M;Ray, P;Grundstrom, E|Multiwavelength Monitoring of LS 5039|0
+2008bves.confE..33D|D'Ammando, F;Chen, A;Villata, M;Raiteri, C;Vittorini, V;Bulgarelli, A;Donnarumma, I;Giuliani, A;Longo, F;Pacciani, L;Pucella, G;Tavani, M;Vercellone, S|AGILE detection of a strong gamma ray flare from the blazar S5 0716 714 during September-October 2007|0
+2008bves.confE..48M|Massaro, E;Giommi, P;Leto, C;Marchegiani, P;Maselli, A;Perri, M;Piranomonte, S;Sclavi, S|Roma BZCAT: a Multifrequency Blazar catalogue|0
+2008bves.confE..54P|Pacciani, L;Donnarumma, I;Vittorini, V;D'Ammando, F;Pucella, G;Tavani, M;Impiombato, D;Fiocchi, M;Stratta, G;Verrecchia, F;Bulgarelli, A;Chen, A;Giuliani, A;Vercellone, S;Longo, F;Barbiellini, G;Feroci, M;Costa, E;Soffitta, P;Del Monte, E;Evangelista, Y;Lazzarotto, F;Lapshov, I;Rapisarda, M;Di Cocco, G|Observation of Gamma Ray Variability of 3C 273 with AGILE during the MWL campaign of Dec 2007|0
+2008bves.confE..55R|Raiteri, C;Villata, M|Last results from the WEBT and GASP|0
+2008cosp...37..422B|Butt, Y|Multifrequency Follow-up of the November 2007 AGILE Gamma-ray flare in Cygnus|0
+2008cosp...37..496C|Chen, A|Galactic gamma-ray sources with AGILE|0
+2008cosp...37..674D|de Simone, N|PAMELA measurement of the proton fluxes in AGILE and GLAST orbits.|0
+2008cosp...37..965G|Galli, A;Guetta, D;Piro, L|Model predictions for the MeV-to-TeV emission of GRBs.|0
+2008cosp...37.1222H|Hermsen, W|Non-thermal high-energy emission from radio pulsars: observational status prior to the GLAST era.|0
+2008cosp...37.1298H|Hurley, K|The Current Status and Future of the 3rd Interplanetary Network|0
+2008cosp...37.1746L|Lemoine-Goumard, M|Very High Energy emission of Supernova Remnants|0
+2008cosp...37.2387P|Pellizzoni, A|Recent pulsar results from AGILE|0
+2008cosp...37.2817S|Sguera, V;Bird, A;Dean, A;Ubertini, P;Bazzano, A;Bassani, L|Hard x-ray transient emitters as possible counterparts of unidentified mev sources|0
+2008cosp...37.3156T|Tavani, M|New AGILE results in high energy gamma ray|0
+2008cosp...37.3157T|Tavani, M|The AGILE Gamma-Ray Mission|0
+2008crab.confE...8P|Pellizzoni, A|AGILE: preliminary resuts|0
+2008int..workE...8T|Tavani, M|AGILE and GLAST: New opportunities for GeV astronomy|0
+2008int..workE..60D|Donnarumma, I;Pacciani, L;Vittorini, V;D'Ammando, F;Pucella, G;de Rosa, A;Fiocchi, M;Tavani, M;Ubertini, P;Vercellone, S;Chen, A;Giuliani, A;Bulgarelli, A;Longo, F|Joint INTEGRAL and AGILE observations of FSRQs|0
+2008int..workE.122D|Del Monte, E;Evangelista, Y;Feroci, M;Pellizzoni, A;Costa, E;Bulgarelli, A;Chen, A;Longo, F;Giulani, A;Vercellone, S;Tavani, M;Pittori, C;Verrecchia, F|Observing Compact Galactic Sources in X- and gamma-rays with AGILE|0
+2008mqw..confE..29H|Hanke, M;Wilms, J;Nowak, M;Schulz, N;Pottschmidt, K;Lee, J;Boeck, M|Multi-Satellite Observations of Cygnus X-1|5
+2008rxte.prop94013.||Transient Millisecond X-Ray Pulsars in Outburst (core Program)|0
+2008rxte.prop94150.||RXTE Follow-Up Observations of Agile-Triggered Gamma-Ray Flaring Blazars (core Program)|0
+2007AAS...211.0403W|Wehrle, A;Kadler, M;Thompson, D;Observe 3C454. 3 in 2007, M|A Multiwavelength Campaign on 3C454.3 in July-August 2007|0
+2007AAS...211.0406D|Donaldson, J;Walker, G;Strelnitski, V;Jorstad, S;Marscher, A|Optical Monitoring of a Sample of Gamma-ray Blazars at the Maria Mitchell Observatory|0
+2007AIPC..906...40M|Meszaros, P|Theory of High Energy Emission in GRBs|1
+2007AIPC..906..147L|Longo, F;Tavani, M;Barbiellini, G;Argan, A;Basset, M;Boffelli, F;Bulgarelli, A;Caraveo, P;Cattaneo, P;Chen, A;Costa, E;Del Monte, E;Di Cocco, G;di Persio, G;Donnarumma, I;Feroci, M;Fiorini, M;Foggetta, L;Froysland, T;Frutti, M;Fuschino, F;Galli, M;Gianotti, F;Giuliani, A;Labanti, C;Lapshov, I;Lazzarotto, F;Liello, F;Lipari, P;Marisaldi, M;Mastropietro, M;Mattaini, E;Mauri, F;Mereghetti, S;Morelli, E;Morselli, A;Pacciani, L;Pellizzoni, A;Perotti, F;Picozza, P;Pittori, C;Pontoni, C;Porrovecchio, G;Prest, M;Rapisarda, M;Rossi, E;Rubini, A;Soffitta, P;Traci, A;Trifoglio, M;Trois, A;Vallazza, E;Vercellone, S;Zanello, D|The AGILE Mission and Gamma-Ray Bursts|2
+2007AIPC..921...75L|Longo, F;Tavani, M;Barbiellini, G;Argan, A;Basset, M;Boffelli, F;Bulgarelli, A;Caraveo, P;Cattaneo, P;Chen, A;Costa, E;Del Monte, E;Di Cocco, G;di Persio, G;Donnarumma, I;Feroci, M;Fiorini, M;Foggetta, L;Froysland, T;Frutti, M;Fuschino, F;Galli, M;Gianotti, F;Giuliani, A;Labanti, C;Lapshov, I;Lazzarotto, F;Liello, F;Lipari, P;Marisaldi, M;Mastropietro, M;Mattaini, E;Mauri, F;Mereghetti, S;Morelli, E;Morselli, A;Pacciani, L;Pellizzoni, A;Perotti, F;Picozza, P;Pittori, C;Pontoni, C;Porrovecchio, G;Prest, M;Rapisarda, M;Rossi, E;Rubini, A;Soffitta, P;Traci, A;Trifoglio, M;Trois, A;Vallazza, E;Vercellone, S;Zanello, D|Gamma-ray Astrophysics with AGILE|3
+2007AIPC..921..226S|Story, S;Gonthier, P;Harding, A|Population Synthesis of Radio and Gamma-ray Millisecond Pulsars from the Galactic Disk|0
+2007AIPC..921..246C|Cavazzuti, E;Pittori, C;Giommi, P;Colafrancesco, S|A figure of merit for blazar-like source identification in the gamma-ray energy band|0
+2007AIPC..921..271W|Wang, X;Li, Z;Meszaros, P|High-energy gamma-rays from GRB X-ray flares|5
+2007AIPC..921..323C|Cavazzuti, E;Turriziani, S;Giommi, P|ROXA: a new multi-frequency selected large sample of blazars with SDSS and 2dF optical spectroscopy|0
+2007AIPC..921..431G|Gonthier, P;Story, S;Clow, B;Harding, A;Grenier, I|Population Statistics of Normal, Radio and Gamma-ray Pulsars from the Galactic Disk|1
+2007AIPC..924..915S|Santolamazza, P;Pittori, C;Verrecchia, F|Prospects for High Energy Detection of Microquasars with the AGILE and GLAST Gamma-Ray Telescopes|0
+2007APS..APR.T3002W|Weekes, T|The VERITAS View of the TeV Gamma-ray Universe|0
+2007MmSAI..78..557T|Tosti, G|Gamma-ray bursts and the future gamma-ray missions .|0
+2007MmSAI..78..767I|Impiombato, D;Tosti, G;Ciprini, C;REM Collaboration.|Optical and near infrared observations of the blazar 3C 279 with the REM telescope.|0
+2007SPIE.6686E..16P|Pacciani, L;Costa, E;Del Monte, E;Di Persio, G;Donnarumma, I;Evangelista, Y;Feroci, M;Lazzarotto, F;Lapshov, I;Mastropietro, M;Morelli, E;Rapisarda, M;Rubini, A;Soffitta, P;Argan, A;Bulgarelli, A;Gianotti, F;Lo Bue, A;Morbidini, A;Rossi, P;Semeraro, L;Trifoglio, M;Trois, A|SuperAGILE ground calibrations and first in orbit observations|0
+2007atnf.prop.1085J|Johnston, S;Possenti, A;Manchester, D;Kramer, M;Hobbs, G;Romani, R;Thompson, D;Thorsett, S;Roberts, M;Weltevrede, P|Pulsar timing and the GLAST and AGILE missions|0
+2007auhe.conf...97M|Meszaros, P|GRB as Sources of Ultra-High Energy Particles|0
+2007cxo..prop.2394F|Feroci, M|The X-ray Afterglow of a Gamma-ray Burst detected and localized with the AGILE gamma- and X-ray detectors|0
+2007nghe.conf.....M|Massai, M;Omodei, N;Spandre, G|Fourth Workshop on Science with the New Generation of High Energy Gamma-ray Experiments|0
+2007rxte.prop93013C|Chakrabarty, D|Transient Millisecond X-Ray Pulsars in Outburst|0
+2007rxte.prop93150C|Chen, A|RXTE Follow-Up Observations of Agile-Triggered Gamma-Ray Flaring Blazars|0
+2007sngh.conf...27L|Longo, F;Tavani, M;Barbiellini, G;Argan, A;Basset, M;Boffelli, F;Bulgarelli, A;Caraveo, P;Chen, A;Costa, E;de Paris, G;Del Monte, E;Di Cocco, G;Donnarumma, I;Feroci, M;Fiorini, M;Foggetta, L;Froslyand, T;Frutti, M;Fuschino, F;Galli, M;Gianotti, F;Giuliani, A;Labanti, C;Lapshov, I;Lazzarotto, F;Liello, F;Lipari, P;Marisaldi, M;Mastropietro, M;Mattaini, E;Mauri, F;Mereghetti, S;Morelli, E;Morselli, A;Pacciani, L;Pellizzoni, A;Perotti, F;Picozza, P;Pittori, C;Pontoni, C;Porrovecchio, G;Prest, M;Pucella, G;Rapisarda, M;Rossi, E;Rubini, A;Soffitta, P;Traci, A;Trifoglio, M;Trois, A;Vallazza, E;Vercellone, S;Zambra, A;Zanello, D|Gamma-Ray Astrophysics with AGILE|0
+2007sngh.conf...97R|Razzano, M|Gamma Ray Pulsars in the GLAST Era|0
+2007sptz.prop..469D|Donnarumma, I;D'Ammando, F|Joint Spitzer and AGILE observations of the blazar 3C 454.3|0
+2007xmm..prop...49V|Vercellone, S|XMM-Newton follow-up observations of AGILE-triggered gamma-ray flaring blazars|0
+2007xmm..prop..132C|Chen, A|XMM ToO observations of AGILE-triggered variable Galactic gamma-ray sources|0
+2006AAS...20910403R|Roberts, M|Multi-Wavelength Studies of Potential X-ray Counterparts to Unidentified EGRET Gamma-Ray Sources|0
+2006AAS...20915907S|Story, S;Gonthier, P;Clow, B;Harding, A|Population Synthesis of Radio and Gamma-ray Millisecond Pulsars from the Galactic Plane|1
+2006AAS...20915912G|Gonthier, P;Story, S;Clow, B;Harding, A;Grenier, I|Population Statistics of Normal Isolated, Radio and Gamma-ray Pulsars from the Galactic Plane|0
+2006AGUFMSH42A..02S|Share, G;Murphy, R|Remote Sensing of Particle Acceleration at the Sun|0
+2006AIPC..836..648L|Longo, F;Tavani, M;Barbiellini, G;Argan, A;Basset, M;Boffelli, F;Bulgarelli, A;Caraveo, P;Cattaneo, P;Chen, A;Costa, E;Del Monte, E;Di Cocco, G;di Persio, G;Donnarumma, I;Feroci, M;Fiorini, M;Foggetta, L;Froysland, T;Frutti, M;Fuschino, F;Galli, M;Gianotti, F;Giuliani, A;Labanti, C;Lapshov, I;Lazzarotto, F;Liello, F;Lipari, P;Marisaldi, M;Mastropietro, M;Mattaini, E;Mauri, F;Mereghetti, S;Morelli, E;Morselli, A;Pacciani, L;Pellizzoni, A;Perotti, F;Picozza, P;Pittori, C;Pontoni, C;Porrovecchio, G;Prest, M;Rapisarda, M;Rossi, E;Rubini, A;Soffitta, P;Traci, A;Trifoglio, M;Trois, A;Vallazza, E;Vercellone, S;AGILE Collaboration|AGILE and Gamma-Ray Bursts|0
+2006AIPC..836..700P|Pacciani, L;Costa, E;Barbiellini, G;Del Monte, E;Donnarumma, I;Evangelista, Y;Feroci, M;Frutti, M;Lazzarotto, F;Lapshov, I;Mastropietro, M;Morelli, E;Rapisarda, M;Rubini, A;Soffitta, P;Tavani, M|SuperAGILE and Gamma Ray Bursts|0
+2006ASPC..350..113T|Thompson, D|Blazar Variability: A Gamma-Ray Perspective|5
+2006HEAD....9.0771G|Gonthier, P;Story, S;Clow, B;Harding, A;Grenier, I|Population Statistics Study Of Normal Isolated, Radio And Gamma-ray Pulsars From The Galactic Plane|0
+2006IAUJD...2E..62S|Smith, D|Future Gamma-ray and TeV Observatories for Pulsar Searches|0
+2006NuPhS.150...34L|Labanti, C;Argan, A;Bulgarelli, A;Di Cocco, G;Gianotti, F;Marisaldi, M;Mauri, A;Rossi, E;Tavani, M;Traci, A;Trifoglio, M|The Mini-Calorimeter detector for the AGILE mission|8
+2006SPIE.6266E..03T|Tavani, M;Barbiellini, G;Argan, A;Basset, M;Boffelli, F;Bulgarelli, A;Caraveo, P;Chen, A;Costa, E;De Paris, G;Del Monte, E;Di Cocco, G;Donnarumma, I;Feroci, M;Fiorini, M;Foggetta, L;Froysland, T;Frutti, M;Fuschino, F;Galli, M;Gianotti, F;Giuliani, A;Labanti, C;Lapshov, I;Lazzarotto, F;Liello, F;Lipari, P;Longo, F;Marisaldi, M;Mastropietro, M;Mattaini, E;Mauri, F;Mereghetti, S;Morelli, E;Morselli, A;Pacciani, L;Pellizzoni, A;Perotti, F;Picozza, P;Pittori, C;Pontoni, C;Porrovecchio, G;Prest, M;Pucella, G;Rapisarda, M;Rossi, E;Rubini, A;Soffitta, P;Traci, A;Trifoglio, M;Trois, A;Vallazza, E;Vercellone, S;Zambra, A;Zanello, D|The AGILE mission and its scientific instrument|14
+2006SPIE.6266E..31S|Soffitta, P;Costa, E;Del Monte, E;Di Persio, G;Donnarumma, I;Evangelista, Y;Feroci, M;Frutti, M;Lapshov, I;Lazzarotto, F;Mastropietro, M;Morelli, E;Pacciani, L;Porrovecchio, G;Rapisarda, M;Rubini, A;Sabatino, G;Uberti, O;Argan, A;Tavani, M|SuperAGILE at launch|0
+2006SPIE.6266E..34F|Feroci, M;Costa, E;Del Monte, E;Donnarumma, I;Evangelista, Y;Labanti, C;Lapshov, I;Lazzarotto, F;Marisaldi, M;Mastropietro, M;Morelli, E;Pacciani, L;Rapisarda, M;Rubini, A;Soffitta, P|ASPEX: a pret-a-porter all sky monitor|0
+2006SPIE.6266E..3QL|Labanti, C;Marisaldi, M;Fuschino, F;Galli, M;Argan, A;Bulgarelli, A;Costa, E;Di Cocco, G;Gianotti, F;Tavani, M;Trifoglio, M|The mini-calorimeter of the AGILE satellite|27
+2006agn7.confE..36V|Vercellone, S|AGILE and Blazars|0
+2006apsp.conf..217H|Hasan, S;Prest, M;Foggetta, L;Pontoni, C;Mozzanica, A;Barbiellini, G;Basset, M;Liello, F;Longo, F;Vallazza, E;Buonomo, G;Mazzitelli, G;Quintieri, L;Valente, P;Boffelli, F;Cattaneo, P;Mauri, F|a Photon Tag Calibration Beam for the Agile Satellite|0
+2006apsp.conf..904B|Bastia, P;Poulsen, J;Monzani, F;Radaelli, P;Marchesi, P;Labanti, C;Marisaldi, M;Fuschino, F;Bulgarelli, A|Agile Mcal, the Mini-Calorimeter|0
+2006apsp.conf..922F|Foggetta, L;Pontoni, C;Prest, M;Barbiellini, G;Liello, F;Longo, F;Basset, M;Vallazza, E|The Agile Silicon Tracker:. Construction and Calibration Results|0
+2006cxo..prop.2182R|Roberts, M|Further Imaging of Rpwn in Variable Gamma-Ray Error Boxes|0
+2006evn..confE..25B|Bondi, M|BL Lac objects|0
+2006ffp..conf..303L|Longo, F;Argan, A;Barbiellini, G;Basset, M;Boffelli, F;Bulgarelli, A;Caraveo, P;Cattaneo, P;Celesti, E;Chen, A;Cocco, V;Costa, E;del Monte, E;di Cocco, G;di Persio, G;Donnarumma, I;Feroci, M;Fiorini, M;Froysland, T;Frutti, M;Galli, M;Gianotti, F;Giuliani, A;Labanti, C;Lapshov, I;Lazzarotto, F;Liello, F;Lipari, P;Marisaldi, M;Mastropietro, M;Mauri, A;Mauri, F;Mereghetti, S;Morelli, E;Morselli, A;Pacciani, L;Pellizzoni, A;Perotti, F;Picozza, P;Pittori, F;Pontoni, C;Porrovecchio, G;Prest, M;Rapisarda, M;Rossi, E;Rubini, A;Soffitta, P;Tavani, M;Traci, A;Trifoglio, M;Vallazza, E;Vercellone, S;Zanello, D|Gamma-Ray Astrophysics with AGILE|1
+2006ffp..conf..321B|Bisesi, E|Contribution of Pulsars to the Gamma-Ray Background and their Observation with the Space Telescopes GLAST and AGILE|0
+2006hegr.conf...47B|Basset, M;Vallazza, E;Pontoni, C;Foggetta, L;Prest, M;Barbiellini, G;Liello, F;Longo, F|Functional Tests and Performance Characterization during the Assembly Phase of the Modules of the Agile Silicon Tracker|0
+2006smqw.confE..66P|Pellizzoni, A|X-Ray and Gamma-Ray Astrophysics of Galactic Sources with AGILE|0
+2006sngh.book.....D|De Angelis, A;Mansutti, O|Proceedings of the Third Workshop on Science with the New Generation of High Energy Gamma-ray Experiments : Cividale del Friuli, Italy, 30 May-1 June 2005|1
+2006xmm..prop...41H|Halpern, J|Connecting the Ephemeris of the Geminga Pulsar to GLAST|0
+2005AIPC..745..371P|Pellizzoni, A;Mattana, F;de Luca, A;Mereghetti, S;Caraveo, P;Conti, M;Tavani, M|Pulsar Bow-Shocks|4
+2005AIPC..745..681C|Chen, A;Vercellone, S;Pellizzoni, A;Tavani, M|Measuring The Variability Of Gamma-Ray Sources With AGILE|0
+2005AIPC..797..173A|Antonelli, L|The REM Telescope: a Robotic Facility to Promptly Follow-up GRBs and Cosmic Fast Transients|0
+2005ASPC..340...55P|Piner, B|Blazars (VLBA &amp; GLAST)|1
+2005ESASP.581E..56A|Acquaroli, L;Morelli, B|AGILE payload   development and testing of the simplified qualification model|0
+2005ESASP.589E..67E|Ebale, G;Lamantia, A;La Bella, M|Power Control System for the AGIILE Satellite|0
+2005HiA....13...18M|Melatos, A|Neutrinos from Pulsar Environments|0
+2005tsra.conf..579B|Bednarek, W;Sierpowska, A|Gamma-rays from Compact Massive Binaries|0
+2005tsra.conf..598G|Gonthier, P;van Guilder, R;Harding, A;Grenier, I;Perrot, C|Radio-loud and Radio-quiet Gamma-ray Pulsars from the Galactic Plane and the Gould Belt|0
+2005xmm..prop...11H|Halpern, J|Maintaining the Ephemeris of the Geminga Pulsar Until GLAST|0
+2005xmm..prop...66R|Raiteri, C|Broad-band multifrequency variability of 3C 454.3 during a radio outburst|0
+2005xmm..prop..227F|Feroci, M|Soft Gamma-ray Repeaters: The Challenge to a Discovery|0
+2004AAS...205.7608G|Gonthier, P;Van Guilder, R;Harding, A;Grenier, I;Perrot, C|Radio-loud and radio-quiet, gamma-ray pulsars from the Galactic plane and the Gould Belt|0
+2004AIPC..727..696F|Feroci, M;Costa, E;Barbanera, L;Del Monte, E;di Persio, G;Frutti, M;Lapshov, I;Lazzarotto, F;Mastropietro, M;Morelli, E;Pacciani, L;Porrovecchio, G;Preger, B;Rapisarda, M;Rubini, A;Soffitta, P;Tavani, M;Argan, A;Ghirlanda, G;Mereghetti, S;Pellizzoni, A;Vercellone, S;Barbiellini, G;Longo, F;Prest, M;Vallazza, E|SuperAGILE: The Hard X-ray Imager of AGILE|0
+2004AIPC..727..700T|Trifoglio, M;Bulgarelli, A;Gianotti, F;Celesti, E;Di Cocco, G;Labanti, C;Mauri, A;Prest, M;Vallazza, E;Froysland, T|The Test Equipment of the AGILE Minicalorimeter Prototype|0
+2004AIPC..727..704G|Ghirlanda, G;Galli, M;Longo, F;Preger, B;Argan, A;Barbiellini, G;Mereghetti, S;Pellizzoni, A;Tavani, M;Vercellone, S|AGILE Sensitivity and GRB Spectral Properties|2
+2004ASPC..312..509F|Feroci, M;Costa, E;Monte, E;Lapshov, I;Lazzarotto, F;Pacciani, L;Preger, B;Rapisarda, M;Soffitta, P;Argan, A;Mereghetti, S;Tavani, M;Vercellone, S;Barbiellini, G;Longo, F;Prest, M;Vallazza, E|Gamma-Ray Bursts Localization with SuperAGILE|1
+2004ASPC..312..513B|Bonati, A;Monzani, F;Poulsen, J;Azzano, M;Nicolini, L;Massa, P;Tavani, M;Feroci, M;Barbiellini, G;Prest, M;Argan, A;Perotti, F;Froysland, T;Labanti, C|AGILE: Technologies and Electronics for gamma-ray and GRB detection|0
+2004ASPC..312..532L|Longo, F;Vercellone, S;Tavani, M;Argan, A;Auricchio, N;Celesti, A;Chen, A;Cocco, V;del Monte, E;Feroci, M;Galli, M;Giuliani, A;Lapshov, I;Lipari, P;Pellizzoni, A;Pittori, C;Preger, B;AGILE Collaboration|Simulations of GRB imaging with AGILE|0
+2004ESASP.571E..11M|Morea, G;Sabatini, P|Perspectives &amp;advanced projects for small satellite missions at Carlo Gavazzi Space|0
+2004HEAD....8.0808G|Gonthier, P;Van Guilder, R;Harding, A;Greneir, I;Perrot, C|Radio-loud and Radio-quiet, Gamma-ray Pulsars from the Galactic Plane and the Gould Belt|4
+2004HEAD....8.1104H|Harding, A;Usov, V;Muslimov, A|High-Energy Emission From Millisecond Pulsars|0
+2004HEAD....8.1605P|Pittori, C;Tavani, M;AGILE Team|Gamma-Ray Astrophysics with the Space Detector AGILE|2
+2004MSAIS...5..135G|Giuliani, A;Chen, A;Mereghetti, S;Pellizzoni, A;Tavani, M;Vercellone, S|Gamma-Ray emission from the Galaxy: a new model for AGILE|30
+2004MSAIS...5..191C|Chen, A;Vercellone, S;Pellizzoni, A;Giuliani, A;Mereghetti, S;Tavani, M|Population Studies of Gamma-Ray Sources with AGILE|0
+2004SPIE.5488..165F|Feroci, M;Costa, E;Barbanera, L;Del Monte, E;Di Persio, G;Donnarumma, I;Frutti, M;Lapshov, I;Lazzarotto, F;Mastropietro, M;Morelli, E;Pacciani, L;Porrovecchio, G;Preger, B;Rapisarda, M;Rubini, A;Soffitta, P;Sabatino, G|The engineering model of the SuperAGILE experiment|1
+2004SPIE.5488..648D|Del Monte, E;Costa, E;Di Persio, G;Feroci, M;Mastropietro, M;Morelli, E;Pacciani, L;Porrovecchio, G;Rubini, A;Soffitta, P|Laboratory tests and scientific performances of the XAA1.2 front-end chip for space applications|0
+2004SPIE.5488..660R|Rapisarda, M;Feroci, M;Frutti, M;Terpin, R;Bresciani, P;Kocjancic, N;Sideri, S;Ricciardi, U;Angelucci, M;Antichi, F|Mechanical assembly and alignment of SuperAGILE|1
+2004SPIE.5488..669B|Bulgarelli, A;Gianotti, F;Trifoglio, M;Labanti, C;Celesti, E|The MCAL science console software for the minicalorimeter of the AGILE mission|3
+2004SPIE.5488..700L|Labanti, C;Argan, A;Bulgarelli, A;Di Cocco, G;Galli, M;Gianotti, F;Marisaldi, M;Mauri, A;Rossi, E;Tavani, M;Traci, A;Trifoglio, M|The mini-calorimeter of the AGILE satellite|0
+2004SPIE.5488..771T|Trifoglio, M;Traci, A;Gianotti, F;Bulgarelli, A;Di Cocco, G;Labanti, C;Celesti, E;Mauri, A|The mechanical ground support equipment for the AIV and calibration of the AGILE integrated payload|1
+2004SPIE.5492.1602C|Conconi, P;Cunniffe, R;D'Alessio, F;Calzoletti, L;Jordan, B;Mazzoleni, R;Melandri, A;Molinari, E;Testa, V;Vitali, F;Zerbi, F;Chincarini, G;Covino, S;Ghisellini, G;Rodono, M;Tosti, G;Antonelli, L;Cutispoto, G;Nicastro, L;Palazzi, E|The commissioning of the REM-IR camera at La Silla|29
+2004SPIE.5493..126L|Lazzarotto, F;Del Monte, E;Feroci, M|Data model applications for the SuperAGILE detection system|0
+2004astro.ph..1120R|Roberts, M|Recent Searches for Pulsars in Unidentified EGRET Error Boxes|0
+2004astro.ph..2628O|Orlandini, M|A Hard X-ray View of Accreting X-ray Binary Pulsars|1
+2004cosp...35.3876R|Roberts, M|Pulsars and Their Nebulae as EGRET Sources|0
+2003AAS...20313803C|Cillis, A;Hartman, R|All-Sky Diffuse Gamma Ray Maps between 30 MeV and 10 GeV|0
+2003ASPC..295..473B|Bulgarelli, A;Gianotti, F;Trifoglio, M|PacketLib: A C++ Library for Scientific Satellite Telemetry Applications|5
+2003ASPC..299...19V|Vercellone, S;Argan, A;Auricchio, N;Barbiellini, G;Caraveo, P;Celesti, E;Chen, A;Cocco, V;Costa, E;Di Cocco, G;Fedel, G;Feroci, M;Fiorini, M;Froysland, T;Galli, M;Gianotti, F;Giuliani, A;Labanti, C;Lapshov, I;Lipari, P;Longo, F;Mauri, A;Mereghetti, S;Morelli, E;Morselli, A;Pacciani, L;Pellizzoni, A;Perotti, F;Picozza, P;Pittori, C;Pontoni, C;Porrovecchio, J;Preger, B;Prest, M;Rapisarda, M;Rossi, E;Rubini, A;Soffitta, P;Tavani, M;Traci, A;Trifoglio, M;Vallazza, E;Zanello, D|Blazars: the View from AGILE (Invited Talk)|1
+2003ASPC..302..345P|Pellizzoni, A;Chen, A;Conti, M;Giuliani, A;Mereghetti, S;Tavani, M;Vercellone, S|AGILE and Pulsar Studies|0
+2003HEAD....7.2001G|Gonthier, P;Coltisor, S;Harding, A|Radio and γ -ray Pulse Profiles|0
+2003HEAD....7.2204T|Tavani, M;Argan, A;Auricchio, N;Barbiellini, G;Caraveo, P;Celesti, E;Chen, A;Cocco, V;Conti, M;Costa, E;Di Cocco, G;Fedel, G;Feroci, M;Fiorini, M;Froysland, T;Ghirlanda, G;Galli, M;Gianotti, F;Giuliani, A;Labanti, C;Lapshov, I;Lipari, P;Longo, F;Mauri, A;Mereghetti, S;Morelli, E;Morselli, A;Pacciani, L;Pellizzoni, A;Perotti, F;Picozza, P;Pittori, C;Pontoni, C;Porrovecchio, J;Preger, B;Prest, M;Rapisarda, M;Rossi, E;Rubini, A;Soffitta, P;Soldi, S;Traci, A;Trifoglio, M;Vallazza, E;Vercellone, S;Zanello, D|AGILE: The Next High-Energy Gamma-Ray Mission|0
+2003HEAD....7.2212C|Chen, A;Argan, A;Auricchio, N;Barbiellini, G;Caraveo, P;Celesti, E;Tavani, M;Cocco, V;Conti, M;Costa, E;Di Cocco, G;Fedel, G;Feroci, M;Fiorini, M;Froysland, T;Ghirlanda, G;Galli, M;Gianotti, F;Giuliani, A;Labanti, C;Lapshov, I;Lipari, P;Longo, F;Mauri, A;Mereghetti, S;Morelli, E;Morselli, A;Pacciani, L;Pellizzoni, A;Perotti, F;Picozza, P;Pittori, C;Pontoni, C;Porrovecchio, J;Preger, B;Prest, M;Rapisarda, M;Rossi, E;Rubini, A;Soffitta, P;Soldi, S;Traci, A;Trifoglio, M;Vallazza, E;Vercellone, S;Zanello, D|Scientific Prospects for the AGILE Mission|0
+2003IAUJD...1E..25M|Melatos, A|Neutrinos from Pulsar Environments|0
+2003MSAIS...3..322S|Sciortino, S|Recent Results and Perspectives of X-ray and Gamma-ray Astronomy|0
+2003NuPhS.125..222L|Longo, F;Argan, A;Auricchio, N;Barbiellini, G;Bulgarelli, A;Caraveo, P;Celesti, E;Chen, A;Cocco, V;Costa, E;Di Cocco, G;Fedel, G;Feroci, M;Fiorini, M;Froysland, T;Galli, M;Gianotti, F;Giuliani, A;Labanti, C;Lapshov, I;Lazzarotto, F;Lipari, P;Mauri, A;Marisaldi, M;Mereghetti, S;Morelli, E;Morselli, A;Pacciani, L;Paladin, F;Pellizzoni, A;Perotti, F;Picozza, P;Pittori, C;Pontoni, C;Porrovecchio, J;Preger, B;Prest, M;Rapisarda, M;Rossi, E;Rubini, A;Soffitta, P;Tavani, M;Traci, A;Trifoglio, M;Vallazza, E;Vercellone, S;Zanello, D|AGILE and gamma-ray astrophysics|2
+2003OAToR..69.....O|Ostorero, L;Villata, M;Raiteri, C|The AGILE Space Mission: optimization of the viewing plan for simultaneous optical and gamma-ray observations of blazars|0
+2003SPIE.4841..627V|Vitali, F;Zerbi, F;Chincarini, G;Ghisellini, G;Rodono, M;Tosti, G;Antonelli, L;Conconi, P;Covino, S;Cutispoto, G;Molinari, E;Nicastro, L;Palazzi, E|The REM-IR camera: High quality near infrared imaging with a small robotic telescope|6
+2003SPIE.4851.1029D|Del Monte, E;Costa, E;Di Persio, G;Feroci, M;Mastropietro, M;Morelli, E;Pacciani, L;Porrovecchio, G;Rapisarda, M;Rubini, A;Soffitta, P;Bisello, D;Candelori, A;Kaminski, A;Wyss, J|Radiation damage studies of XAA1.2 ASIC chip for the SuperAGILE experiment onboard AGILE|1
+2003SPIE.4851.1151T|Tavani, M;Barbiellini, G;Argan, A;Auricchio, N;Bernabeo, A;Bulgarelli, A;Caraveo, P;Celesti, E;Chen, A;Cocco, V;Costa, E;Del Monte, E;De Paris, G;Di Cocco, G;Fedel, G;Feroci, M;Fiorini, M;Froysland, T;Galli, M;Gianotti, F;Giuliani, A;Labanti, C;Lapshov, I;Lazzarotto, F;Lipari, P;Longo, F;Mastropietro, M;Mattaini, E;Mauri, A;Mereghetti, S;Morelli, E;Morselli, A;Pacciani, L;Pellizzoni, A;Perotti, F;Picozza, P;Pittori, C;Pontoni, C;Porrovecchio, G;Preger, B;Prest, M;Rapisarda, M;Rossi, E;Rubini, A;Sant'Ambrogio, E;Soffitta, P;Soli, L;Traci, A;Trifoglio, M;Vallazza, E;Vercellone, S;Zambra, A;Zanello, D|The AGILE instrument|13
+2003astro.ph..7499G|Gabici, S|Gamma-Ray emission from Clusters of Galaxies|1
+2003astro.ph.10748M|McLaughlin, M;Cordes, J|Gamma-Ray Pulsars: Modeling and Searches|10
+2003astro.ph.12204K|Kuiper, L;Hermsen, W|X-ray and gamma-ray observations of millisecond pulsars|6
+2003enig.conf..264O|Ostorero, L;Tavani, M;Vercellone, S;Villata, M;Raiteri, C|Outlook on the AGILE mission|0
+2003sngh.conf...87T|Tavani, M|The AGILE Mission|1
+2003sngh.conf..173M|Memola, E;Giommi, P|The AGILE archive and data processing at the ASI Science Data Center|0
+2003tsra.symp..183T|Tavani, M|Gamma-ray astrophysics with AGILE|2
+2002MmSAI..73.1193P|Palazzi, E;Pian, E;Ross Team|REM Optical Slitless Spectrograph (ROSS): an instrument for resolution spectroscopy of gamma ray bursts.|1
+2002MmSAI..73.1199M|Morselli, A|The space gamma-ray experiments AGILE and GLAST|0
+2002MmSAI..73.1234P|Pellizzoni, A;Chen, A;Giuliani, A;Mereghetti, S;Tavani, M;Versellone, S|AGILE scientific performance: sky exposure and sensitivity.|0
+2002NuPhS.113....3M|Musso, C|High-energy in space: the new challenge for physicists|0
+2002NuPhS.113..231C|Cocco, V;Tavani, M;Barbiellini, G;Argan, A;Auricchio, N;Bulgarelli, A;Caraveo, P;Celesti, E;Chen, A;Costa, E;del Monte, E;Di Cocco, G;Fedel, G;Feroci, M;Fiorini, M;Froysland, T;Galli, M;Gianotti, F;Giuliani, A;Labanti, C;Lapshov, I;Lazzarotto, F;Lipari, P;Longo, F;Mattaini, E;Mereghetti, S;Morelli, E;Morselli, A;Pacciani, L;Pellizzoni, A;Perotti, F;Picozza, P;Pittori, C;Pontoni, C;Porrovecchio, G;Preger, B;Prest, M;Rapisarda, M;Rossi, E;Rubini, A;Soffitta, P;Trifoglio, M;Vallazza, E;Vercellone, S;Zanello, D|The science of AGILE: part I|4
+2002SPIE.4497..187A|Auricchio, N;Celesti, E;Di Cocco, G;Galli, M;Gianotti, F;Malaspina, M;Labanti, C;Mauri, A;Rossi, E;Stephen, J;Traci, A;Trifoglio, M|MiniCalorimeter of the AGILE satellite|1
+2002agil.conf....3O|Ostorero, L;Villata, M;Raiteri, C|A coordinated AGILE-optical viewing plan|0
+2002astro.ph.12502G|Goldwurm, A|High Energy Emission from Galactic Black Hole Systems|0
+2002babs.conf..151J|Jorstad, S;Marscher, A|VLBI Properties of Gamma-Ray Bright Blazars|0
+2002babs.conf..215T|Terasranta, H|Millimeter Band Observations of a Large Sample of Northern Flat Spectrum Blazars|1
+2002babs.conf..299V|Vercellone, S;Chen, A;Cocco, V;Feroci, M;Giuliani, A;Lapshov, I;Lipari, P;Longo, F;Mereghetti, S;Ostorero, L;Pellizzoni, A;Pittori, C;Tavani, M;Villata, M|Multiwavelength Studies of Blazars with AGILE|0
+2002bss..confE..33K|Kozameh, C|The ARGO Project|0
+2002cosp...34E1515B|Baring, M|High-Energy Emission from Pulsars: the Polar Cap Scenario|0
+2002cosp...34E1990H|Harding, A|Pulsar Populations and Unidentified EGRET Sources|0
+2002cosp...34E2660P|Pellizzoni, A;Mereghetti, S;Tavani, M;Chen, A;Giuliani, A;Vercellone, S|Prospects of High Energy Studies of Pulsars with the AGILE Gamma-ray Telescope|0
+2002iorb.conf...57V|Vercellone, S|AGNs simulations with AGILE: results and future prospects|0
+2002madm.conf..211T|Tavani, M|The AGILE Mission and Gamma-Ray Astrophysics|0
+2002nmgm.meet.2449L|Longo, F;Tavani, M;Argan, A;Caraveo, P;Chen, A;Fiorini, M;Giuliani, A;Mereghetti, S;Perotti, F;Vercellone, S;Barbiellini, G;Fedel, G;Pontoni, C;Prest, M;Vallazza, E;Costa, E;Feroci, M;Lapshov, I;Rapisarda, M;Rubini, A;Soffitta, P;Cocco, V;Morselli, A;Picozza, P;Pittori, C;Auricchio, N;Di Cocco, G;Galli, M;Labanti, C;Morelli, E;Rossi, E;Trifoglio, M;Lipari, P;Zanello, D|The Agile Gamma-Ray Mission and Gamma-Ray Burst Studies|0
+2001AAS...199.6704M|Messer, O|Spherically Symmetric Core Collapse Supernova Simulations With Boltzmann Neutrino Transport|1
+2001AIPC..558..171H|Hunter, S|Galactic diffuse gamma ray emission &gt;10 GeV|2
+2001AIPC..558..417M|Mannheim, K|Neutrinos from Gamma Ray Bursts|10
+2001AIPC..558..535V|Vercellone, S;Argan, A;Barbiellini, G;Caraveo, P;Chen, A;Cocco, V;Costa, E;di Cocco, G;Feroci, M;Labanti, C;Lapshov, I;Lipari, P;Longo, F;Mereghetti, S;Morelli, E;Morselli, A;Perotti, F;Picozza, P;Pittori, C;Prest, M;Rubini, A;Soffitta, P;Tavani, M;Trifoglio, M;Vallazza, E;Zanello, D|Science with AGILE|0
+2001AIPC..558..736S|Sillanpaa, A;Takalo, L|Ground based optical support for gamma-ray observations on blazars|0
+2001AIPC..587..729T|Tavani, M;Barbiellini, G;Argan, A;Auricchio, N;Caraveo, P;Chen, A;Cocco, V;Costa, E;Di Cocco, G;Fedel, G;Feroci, M;Fiorini, M;Froysland, T;Galli, M;Gianotti, F;Giuliani, A;Labanti, C;Lapshov, I;Lipari, P;Longo, F;Massaro, E;Mereghetti, S;Morelli, E;Morselli, A;Pellizzoni, A;Perotti, F;Picozza, P;Pittori, C;Pontoni, C;Prest, M;Rapisarda, M;Rossi, E;Rubini, A;Soffitta, P;Trifoglio, M;Vallazza, E;Vercellone, S;Zanello, D|Science with AGILE|11
+2001AIPC..587..739P|Pittori, C;Giuliani, A;Mereghetti, S;Tavani, M|Gamma-ray imaging by silicon detectors in space: Presentation of the AGILE reconstruction method and kalman filter algorithms|1
+2001AIPC..587..744C|Cocco, V;Longo, F;Tavani, M|GEANT simulation of the AGILE gamma-ray imaging detector|1
+2001AIPC..587..749A|Auricchio, N;Celesti, E;Di Cocco, G;Galli, M;Gianotti, F;Labanti, C;Mauri, A;Malaspina, M;Rossi, E;Stephen, J;Traci, A;Trifoglio, M|Test campaign of the mini-calorimeter for the AGILE satellite|2
+2001AIPC..587..754B|Barbiellini, G;Bordignon, G;Fedel, G;Liello, F;Longo, F;Pontoni, C;Prest, M;Vallazza, E|The next generation of high-energy gamma-ray detectors for satellites: The AGILE silicon tracker|23
+2001AIPC..587..759P|Pellizzoni, A;Chen, A;Giuliani, A;Mereghetti, S;Tavani, M;Vercellone, S|AGILE sky exposure and sensitivity maps|2
+2001AIPC..587..764V|Vercellone, S;Chen, A;Cocco, V;Feroci, M;Galli, M;Giuliani, A;Lapshov, I;Lipari, P;Longo, F;Mereghetti, S;Pellizzoni, A;Pittori, C;Soffitta, P;Zanello, D|Imaging of high energy sources with AGILE|2
+2001AIPC..587..769L|Lapshov, I;Barbanera, L;Costa, E;Del Monte, E;Feroci, M;Porrovecchio, G;Mastropietro, M;Pacciani, L;Rubini, A;Soffitta, P;Morelli, E;Rapisarda, M;Barbiellini, G;Longo, F;Prest, M;Vallazza, E;Argan, A;Mereghetti, S;Tavani, M;Vercellone, S;Morselli, A|Super-AGILE: The X-ray monitor on-board of AGILE|2
+2001AIPC..587..774B|Barbiellini, G;Tavani, M;Argan, A;Auricchio, N;Caraveo, P;Chen, A;Cocco, V;Costa, E;di Cocco, G;Fedel, G;Feroci, M;Fiorini, M;Froysland, T;Galli, M;Gianotti, F;Giuliani, A;Labanti, C;Lapshov, I;Lipari, P;Longo, F;Massaro, E;Mereghetti, S;Morelli, E;Morselli, A;Pellizzoni, A;Perotti, F;Picozza, P;Pittori, C;Pontoni, C;Prest, M;Rapisarda, M;Rossi, E;Rubini, A;Soffitta, P;Trifoglio, M;Vallazza, E;Vercellone, S;Zanello, D|The AGILE scientific instrument|6
+2001APS..APR.S6003G|Gehrels, N|The Next Generation of Gamma Ray Telescopes in Space|0
+2001ASPC..224..483V|Vercellone, S;Caraveo, P;Mereghetti, S;Perotti, F;Tavani, M;Costa, E;Feroci, M;Lapshov, I;Soffitta, P;Rubini, A;Di Cocco, G;Labanti, C;Trifoglio, M;Barbiellini, G;Vallazza, E;Morselli, A;Picozza, P;Lipari, P;Zanello, D;Longo, F;Argan, A;Chen, A;Cocco, V;Pittori, C;Prest, M|Performance of the AGILE Mission: Application to the Study of AGNs|1
+2001ASSL..267...89M|Mereghetti, S;Chen, A;Pellizzoni, A;Tavani, M;Vercellone, S|Population Studies of the EGRET Sources|0
+2001ASSL..267..167B|Baring, M|Polar Cap Pulsar Models|3
+2001ASSL..267..331M|Mereghetti, S;Tavani, M;Argan, A;Chen, A;Caraveo, P;Perotti, F;Vercellone, S;Barbiellini, G;Prest, M;Vallazza, E;Di Cocco, G;Labanti, C;Trifoglio, M;Costa, E;Feroci, M;Lapshov, I;Rubini, A;Soffitta, P;Picozza, P;Morselli, A;Cocco, V;Pittori, C;Zanello, D;Lipari, P;Longo, F|The AGILE Gamma-Ray Astronomy Satellite|1
+2001ESASP.459..533D|Di Cocco, G;Labanti, C;Auricchio, N;Galli, M;Mauri, A;Rossi, E;Schiavone, F;Traci, A|The mini-calorimeter for AGILE satellite|0
+2001ESASP.459..569F|Feroci, M;Costa, E;del Monte, E;Lapshov, I;Mastropietro, M;Morelli, E;Rapisarda, M;Rubini, A;Soffitta, P;Barbiellini, G;Longo, F;Prest, M;Vallazza, E;Argan, A;Mereghetti, S;Tavani, M;Vercellone, S;Morselli, A|SuperAGILE: the X-ray monitor of the AGILE gamma-ray mission|0
+2001ESASP.459..603M|Mereghetti, S;Tavani, M;Argan, A;Barbiellini, G;Caraveo, P;Chen, A;Cocco, V;Costa, E;Di Cocco, G;Feroci, M;Labanti, C;Lapshov, I;Lipari, P;Longo, F;Morselli, A;Perotti, F;Picozza, P;Pittori, C;Prest, M;Rubini, A;Soffitta, P;Vallazza, E;Vercellone, S;Zanello, D|The AGILE gamma-ray astronomy mission|3
+2001MmSAI..72..229V|Vercellone, S;Chen, A;Tavani, M;Argan, A;Barbiellini, G;Caraveo, P;Cocco, V;Costa, E;Di Cocco, G;Feroci, M;Labanti, C;Lapshov, I;Longo, F;Mereghetti, F;Morselli, A;Perotti, F;Picozza, P;Pittori, C;Prest, M;Rubini, A;Soffitta, P;Trifoglio, M;Vallazza, E|Performance of the AGILE mission: application to the study of AGNs|0
+2001astro.ph..6161B|Baring, M|Identifying the Mysterious EGRET Sources: Signatures of Polar Cap Pulsar Models|4
+2001foap.conf..531M|Mereghetti, S;Tavani, M;Argan, A;Barbiellini, G;Caraveo, P;Chen, A;Cocco, V;Costa, E;Di Cocco, G;Feroci, M;Labanti, C;Lapshov, I;Lipari, P;Longo, F;Morselli, A;Perotti, F;Picozza, P;Pittori, C;Prest, M;Rubini, A;Soffitta, P;Vallazza, E;Vercellone, S;Zanello, D|The AGILE gamma-ray satellite (presented by S. Mereghetti)|0
+2001foap.conf..539R|Rapisarda, M;Barbanera, L;Costa, E;del Monte, E;di Persio, G;Feroci, M;Frutti, M;Lapshov, I;Martino, B;Mastropietro, M;Morelli, E;Rubini, A;Soffitta, P;Tavani, M;Mereghetti, S;Vercellone, S;Caraveo, P;Perotti, F;Barbiellini, G;Budini, G;Longo, F;Prest, M;Vallazza, E;Morselli, A;Picozza, P;Cocco, V;Pittori, C;Di Cocco, G;Labanti, C|SuperAGILE, the X-ray monitor of AGILE (presented by M. Rapisarda)|0
+2001foap.conf..547M|Morselli, A|Gamma-ray physics from space. Status of the future projects AGILE and GLAST|0
+2001grba.conf..366T|Tavani, M;Barbiellini, G;Argan, A;Auricchio, N;Caraveo, P;Chen, A;Cocco, V;Costa, E;di Cocco, G;Fedel, G;Feroci, M;Fiorini, M;Galli, M;Giuliani, A;Labanti, C;Lapshov, I;Lipari, P;Longo, F;Mereghetti, S;Morelli, E;Morselli, A;Pellizzoni, A;Perotti, F;Picozza, P;Pittori, C;Pontoni, C;Prest, M;Rapisarda, M;Rossi, E;Rubini, A;Soffitta, P;Trifoglio, M;Vallazza, E;Vercellone, S;Zanello, D|AGILE and Gamma-Ray Bursts|0
+2001grba.conf..368F|Feroci, M;Costa, E;Monte, E;Lapshov, I;Rapisarda, M;Soffitta, P;Barbiellini, G;Prest, M;Vallazza, E;Mereghetti, S;Tavani, M;Vercellone, S;Morselli, A;Longo, F|Gamma-Ray Bursts with SuperAGILE|0
+2001grba.conf..421P|Preger, B;Fenimore, E;Costa, E|Event Rates in SuperAGILE and HETE|1
+2000AAS...197.2502C|Cline, T;Hurley, K;Laros, J;Mazets, E;Golenetskii, S;Trombka, J;Barthelmy, S;Feroci, M;Frontera, F|The Interplanetary GRB Network: A Status Report|0
+2000AIPC..510..746T|Tavani, M;Barbiellini, G;Budini, G;Caraveo, P;Cocco, V;Costa, E;Di Cocco, G;Feroci, M;Labanti, C;Lapshov, I;Longo, F;Mereghetti, S;Morelli, E;Morselli, A;Pellizzoni, A;Perotti, F;Picozza, P;Pittori, C;Prest, M;Rapisarda, M;Rubini, A;Soffitta, P;Trifoglio, M;Vallazza, E;Vercellone, S|AGILE: A gamma-ray mission|6
+2000AIPC..510..750B|Barbiellini, G;Tavani, M;Budini, G;Caraveo, P;Cocco, V;Costa, E;Di Cocco, G;Feroci, M;Labanti, C;Lapshov, I;Longo, F;Mereghetti, S;Morelli, E;Morselli, A;Pellizzoni, A;Perotti, F;Picozza, P;Pittori, C;Prest, M;Rapisarda, M;Rubini, A;Soffitta, P;Trifoglio, M;Vallazza, E;Vercellone, S|AGILE: The scientific instrument|4
+2000AIPC..515..467B|Barbiellini, G;Mereghetti, S;Budini, G;Caraveo, P;Costa, E;Cacco, V;Di Cocco, G;Feroci, M;Labanti, C;Longo, F;Morelli, E;Moreslli, A;Pellizzoni, A;Perotti, F;Picozza, P;Prest, M;Soffitta, P;Soli, L;Tavani, M;Vallazza, E;Vercellone, S|The AGILE Gamma-Ray Astronomy Mission|4
+2000AIPC..515..467M|Mereghetti, S;Barbiellini, G;Budini, G;Caraveo, P;Costa, E;Cocco, V;Di Cocco, G;Feroci, M;Labanti, C;Longo, F;Morelli, E;Morselli, A;Pellizzoni, A;Perotti, F;Picozza, P;Prest, M;Soffitta, P;Soli, L;Tavani, M;Vallazza, E;Vercellone, S|The AGILE gamma-ray astronomy mission|3
+2000HEAD....5.3408C|Cline, T;Hurley, K;Laros, J;Mazets, E;Golenetskii, S;Trombka, J;Feroci, M;Frontera, F|The Interplanetary Network I: From the Past to the Future|0
+2000HEAD....5.4313C|Costa, E;Del Monte, E;Feroci, M;Lapshov, I;Rapisarda, M;Soffitta, P;Barbiellini, G;Prest, M;Vallazza, E;Mereghetti, S;Tavani, M;Vercellone, S|SuperAGILE: the X-ray Monitor for AGILE|0
+2000HEAD....5.4405V|Vercellone, S;Chen, A;Mereghetti, S;Tavani, M|Populations Studies of GeV Blazars with AGILE|0
+2000HEAD....5.4415C|Chen, A;Mereghetti, S;Tavani, M;Vercellone, S|Origins of the Galactic Unidentified GeV Sources|0
+2000HEAD....5.4702T|Tavani, M;Argan, A;Budini, G;Caraveo, P;Chen, A;Cocco, V;Costa, E;Di Cocco, G;Feroci, M;Labanti, C;Lapshov, I;Lipari, P;Longo, F;Mereghetti, S;Morelli, E;Morselli, A;Perotti, F;Picozza, P;Pittori, C;Prest, M;Rapisarda, M;Rubini, A;Soffitta, P;Trifoglio, M;Vallazza, E;Vercellone, S;Zanello, D|Science with Gamma-Ray Mission AGILE|0
+2000SPIE.4140..274F|Fedel, G;Barbiellini, G;Liello, F;Longo, F;Pontoni, C;Prest, M;Vallazza, E|AGILE silicon tracker: an advanced gamma- and x-ray detector for space|1
+2000SPIE.4140..283S|Soffitta, P;Costa, E;Del Monte, E;Feroci, M;Lapshov, I;Mastropietro, M;Morelli, E;Rapisarda, M;Rubini, A;Barbiellini, G;Longo, F;Mereghetti, S;Morselli, A;Prest, M;Tavani, M;Vallazza, E;Vercellone, S|Instrumental and astrophysical performances of SuperAGILE on-board AGILE Gamma-Ray mission|4
+2000SPIE.4140..478T|Trifoglio, M;Gianotti, F;Stephen, J;Celesti, E;Labanti, C;Traci, A|Ground support equipment for scientific tests and calibration of the AGILE instrument|3
+2000SPIE.4140..486R|Rossi, E;Auricchio, N;Celesti, E;Di Cocco, G;Galli, M;Mauri, A;Labanti, C;Schiavone, F;Traci, A|Test campaign of the minicalorimeter for the AGILE Satellite|1
+2000SPIE.4140..493M|Morselli, A;Argan, A;Costa, E;Feroci, M;Labanti, C;Picozza, P;Prest, M;Salamon, A;Soffitta, P;Tavani, M;Vallazza, E|Data handling system of the gamma-ray space detector AGILE|4
+2000SPIE.4140..584D|Del Monte, E;Costa, E;Di Persio, G;Feroci, M;Lapshov, I;Martino, B;Mastropietro, M;Morelli, E;Prest, M;Rubini, A;Soffitta, P;Vallazza, E|Performances of XA1.3 ASIC chip for the SuperAGILE experiment on board of AGILE|3
+1999HEAD....4.1707L|Longo, F;Barbiellini, G;Budini, G;Prest, M;Vacchi, A;Caraveo, P;Mereghetti, S;Perotti, F;Tavani, M;Vercellone, S;Costa, E;Cocco, V;Morselli, A;Picozza, P;Di Cocco, G;Labanti, C;di Pippo, S;Pellizzoni, A|GRB studies with AGILE|0
+1999HEAD....4.1708T|Tavani, M;Barbiellini, G;Budini, G;Caraveo, P;Costa, E;Cocco, V;Di Cocco, G;di Pippo, S;Labanti, C;Longo, F;Mereghetti, S;Morselli, A;Pellizzoni, A;Perotti, F;Picozza, P;Prest, M;Vacchi, A;Vercellone, S|AGILE: a Gamma-Ray Mission|0
+1999HEAD....4.1724V|Vercellone, S;Caraveo, P;Mereghetti, S;Perotti, F;Tavani, M;Barbiellini, G;Longo, F;Budini, G;Prest, M;Vacchi, A;Morselli, A;Picozza, P;Cocco, V;Costa, E;Di Cocco, G;Labanti, C;di Pippo, S;Pellizzoni, A|The AGILE mission and gamma -ray emitting AGNs|0
+1999ICRC....5..104M|Morselli, A|The space gamma-ray observatory AGILE|0
+1999MmSAI..70..201T|Tavani, M;Barbiellini, G;Caraveo, P;di Pippo, S;Longo, F;Mereghetti, S;Morselli, A;Pellizzoni, A;Perrino, A;Picozza, P;Schiavon, P;Severoni, S;Tavecchio, F;Vacchi, A;Vercellone, S|AGILE: a gamma-ray mission for a light imaging detector.|6
+1999MmSAI..70..229M|Mereghetti, S;Pellizzoni, A;Tavani, M;Barbiellini, G;Caraveo, P;Morselli, A;Perrino, A;Picozza, P;Schiavon, P;Severoni, S;Vacchi, A|The AGILE contribution to AGNs studies.|5
+1999MmSAI..70..231M|Morselli, A;Perrino, A;Picozza, P;Severoni, S;Caraveo, P;Mereghetti, S;Tavani, M;Barbiellini, G;Vacchi, A|The gamma-ray detector AGILE|1
+1999astro.ph..1183M|Morselli, A;Perrino, A;Picozza, P;Severoni, S;Caraveo, P;Mereghetti, S;Tavani, M;Barbiellini, G;Vacchi, A|The AGILE gamma-ray detector|2
+1999bmtm.proc..138V|Vercellone, S;Barbiellini, G;Budini, G;Caraveo, P;Cocco, V;Costa, E;Di Cocco, G;Feroci, M;Labanti, C;Longo, F;Mereghetti, S;Morselli, A;Pellizzoni, A;Perotti, F;Picozza, P;Prest, M;Tavani, M|The AGILE mission and gamma-ray emitting blazars|1

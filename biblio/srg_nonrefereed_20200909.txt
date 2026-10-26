@@ -1,0 +1,315 @@
+2020AAS...23511107J|Jones, L;Barger, A;Cowie, L;Rosenwasser, B|Ultra-strong Emission Line Galaxies in the North Ecliptic Pole Field|0
+2020AAS...23514602B|Buchner, J;Brightman, M;Nandra, K;Nikutta, R;Bauer, F|Illuminating the clumpy torus with NuSTAR and eROSITA|0
+2020AAS...23535702B|Bellm, E|Science with Large Survey Datasets: Opportunities and Challenges|0
+2020AAS...23620502P|Ponti, G|Constraining the hot phase of the Milky Way with eROSITA|0
+2020IAUS..341..172M|Miyaji, T;Akari Nep Survey Team|X-ray - Infrared relation of AGNs and search for highly obscured accretion in the AKARI NEP Field|0
+2020NatAs...4..634M|Merloni, A;Nandra, K;Predehl, P|eROSITA's X-ray eyes on the Universe|0
+2020TNSAN.105....1T|Trakhtenbrot, B;Arcavi, I;Ricci, C;Burke, J|AT 2019avd shows strong Bowen fluorescence emission lines|0
+2020arXiv200412215A|Ascenzi, S;Oganesyan, G;Salafia, O;Branchesi, M;Ghirlanda, G;Dall'Osso, S|High latitude emission from structured jet of Gamma-Ray Bursts observed off-axis|0
+2020arXiv200614250I|Ito, H;Levinson, A;Nakar, E|Monte-Carlo simulations of fast Newtonian and mildly relativistic shock breakout from a stellar wind|0
+2020arXiv200707969B|Barinov, V;Gorbunov, D;Burenin, R;Krivonos, R|Towards Testing Sterile Neutrino Dark Matter with SRG Mission|0
+2020arXiv200808404C|Comparat, J;Eckert, D;Finoguenov, A;Schmidt, R;Sanders, J;Nagai, D;Lau, E;Kaefer, F;Pacaud, F;Clerc, N;Reiprich, T;Bulbul, E;Ider Chitham, J;Chuang, C;Ghirardini, V;Gonzalez-Perez, V;Gozaliazl, G;Kirkpatrick, C;Klypin, A;Merloni, A;Nandra, K;Liu, T;Prada, F;Ramos-Ceja, M;Salvato, M;Seppi, R;Tempel, E;Yepes, G|Full-sky photon simulation of clusters and active galactic nuclei in the soft X-rays for eROSITA|0
+2020arXiv200811761B|Baronchelli, L;Nandra, K;Buchner, J|Relativistic accretion disk reflection in AGN X-ray spectra at z=0.5--4: a study of four \textit{Chandra} deep fields|0
+2020arXiv200900643R|Rhea, C;Hlavacek-Larrondo, J;Perreault-Levasseur, L;Gendron-Marsolais, M;Kraft, R|A Novel Machine Learning Approach to Disentangle Multi-Temperature Regions in Galaxy Clusters|0
+2019AAS...23336303A|Ayres, T|HST/COS Ecliptic-poles Stellar Survey (EclipSS)|0
+2019AAS...23336321B|Basu-Zych, A;Hornschemeier, A;Ptak, A;Vulic, N;Haberl, F;Wilms, J;Zezas, A|Normal Galaxy Studies with Next-generation X-ray surveys: eROSITA and Athena WFI|0
+2019HEAD...1710604C|Cappelluti, N|The joint fluctuations of the CIB and CXB: new ideas, new results and future developments|0
+2019HEAD...1710704L|Lakey, V;Huffenberger, K|Forecasting Angular Cross Correlations Between Diffuse X-ray Emission and the Thermal Sunyaev-Zel'dovich Effect|0
+2019HEAD...1710717D|Dupke, R;Finoguenov, A;Irwin, J;Bonoli, S;Lopes De Oliveira, R;Cenarro, J;Marin Franch, A;Abramo, R;Vilchez, J;JPAS Collaboration|J-PAS/eROSITA Joint Cluster/AGN Survey|0
+2019HEAD...1710974C|Chen, C;Swartz, D;Zavlin, V;Krivonos, R;Mereminskiy, I;Pavlinsky, M;Tkachenko, A|Wide-field Hard X-ray Survey with the Astronomical Roentgen Telescope X-ray Concentrator|0
+2019HEAD...1710975S|Swartz, D;Pavlinsky, M;Krivonos, R;Tkachenko, A;Mereminskiy, I;Chen, C;Zavlin, V|ART-XC Mission Update|0
+2019IAUS..339..143H|Haggard, D|Discovery and Opportunity in the X-Ray Time Domain|0
+2019IAUS..339..145R|Rau, A|X-Ray Transients in the SRG/eROSITA All-Sky Survey|0
+2019LPICo2135.5037S|Swartz, D;Pavlinsky, M;Krivonos, R;Tkachenko, A;Mereminskiy, I;Zavlin, V;Chen, C|Overview of the ART-XC/SRG Mission|0
+2019Msngr.175...39F|Finoguenov, A;Merloni, A;Comparat, J;Nandra, K;Salvato, M;Tempel, E;Raichoor, A;Richard, J;Kneib, J;Pillepich, A;Sahlen, M;Popesso, P;Norberg, P;McMahon, R;4MOST Collaboration|4MOST Consortium Survey 5: eROSITA Galaxy Cluster Redshift Survey|7
+2019Msngr.175...42M|Merloni, A;Alexander, D;Banerji, M;Boller, T;Comparat, J;Dwelly, T;Fotopoulou, S;McMahon, R;Nandra, K;Salvato, M;Croom, S;Finoguenov, A;Krumpe, M;Lamer, G;Rosario, D;Schwope, A;Shanks, T;Steinmetz, M;Wisotzki, L;Worseck, G|4MOST Consortium Survey 6: Active Galactic Nuclei|12
+2019SPIE11119E..16B|Bradshaw, M;Burwitz, V;Hartner, G;Pelliciari, C;Langmeier, A;Liao, Y;Friedrich, P;Valsecchi, G;Barriere, N;Collon, M;Vacanti, G|Developments in testing x-ray optics at MPE's PANTER facility|1
+2019arXiv190208268L|Lakey, V;Huffenberger, K|Forecasting Angular Cross Correlations Between Diffuse X-ray Emission and the Thermal Sunyaev-Zel'dovich Effect|2
+2019arXiv190310991K|Khokhryakova, A;Lyapina, D;Popov, S|On the possibility of registering X-ray flares related to fast radio bursts with the SRG/eROSITA telescope|1
+2019cwdb.confE..49S|Schwope, A;eROSITA Collaboration|X-ray surveys with eROSITA|1
+2019most.confE..21C|Comparat, J|Consortium Survey 5: eROSITA Galaxy Cluster Redshift Survey|0
+2019most.confE..24P|Poshak, G|Surmounting AGN selection biases using large volume-limited samples in the eROSITA era|0
+2019sptz.prop14235S|Scarlata, C;Capak, P;Finkelstein, S;Arendt, R;Mehta, V;Dickinson, H;Bruton, S;Hemmati, S;Teplitz, H;Davidzon, I;Salvato, M;Sanders, D;Scaramella, R;Gardner, J;Hildebrandt, H;Oesch, P;Brammer, G;Mei, S;McCraken, H;Foley, R;Dole, H;Rhodes, J;Conselice, C;Toft, S;Ilbert, O;Scolnic, D;Bagley, M;Cuillandre, J;Larson, R;Maraston, C;Cuby, J;Baronchelli, I;Kashlinsky, A|The Euclid Deep Field South|0
+2019sros.confE..44F|Filipovic, M;Maxted, N;Rowell, G;Sasaki, M;Haberl, F;Urosevic, D;Maggi, P;Alsaberi, R;Kavanagh, P|Supernova Remnants in the Multi-Messenger Era|0
+2019svmc.confE..63H|Haberl, F|X-ray surveys of the Magellanic Clouds - From XMM-Newton to eROSITA|0
+2018AAS...23112104H|Heap, S;and the CETUS Science Team|Synergy of CETUS with Survey Telescopes of the 2020's|0
+2018AAS...23114016D|Danchi, W;Heap, S;Woodruff, R;Hull, A;Kendrick, S;Purves, L;McCandliss, S;Kelly Dodson, G|The Cosmic Evolution Through UV Spectroscopy (CETUS) Probe Mission Concept|1
+2018AAS...23123722W|Wilms, J;Guenther, H;Dauser, T;Huenemoerder, D;Ptak, A;Smith, R;Arcus Team|Arcus end-to-end simulations|0
+2018AAS...23125011J|Jones, V;White, C;Hasinger, G;Hu, E|Selection of High-Redshift QSOs using Subaru and CFHT Photometry|0
+2018AAS...23133202K|Kollmeier, J;AS4 Collaboration|After SDSS-IV: Pioneering Panoptic Spectroscopy|0
+2018AAS...23135410R|Replicon, V;Hornschemeier, A;Basu-Zych, A;Ptak, A|Detecting Normal Galaxies with eROSTIA|0
+2018AAS...23135426W|Werner, M;SPHEREx Science Team|SPHEREx: Playing Nicely with Other Missions|0
+2018AAS...23135530H|Heap, S;CETUS Team|The UV Survey Mission Concept, CETUS|0
+2018IAUS..337..112P|Pires, A|What will eROSITA reveal among X-ray faint isolated neutron stars?|1
+2018SPIE10699E..1YP|Pavlinsky, M;Levin, V;Akimov, V;Krivchenko, A;Rotin, A;Kuznetsova, M;Lapshov, I;Tkachenko, A;Krivonos, R;Semena, N;Buntov, M;Glushenko, A;Arefiev, V;Yaskovich, A;Grebenev, S;Sazonov, S;Lutovinov, A;Molkov, S;Serbinov, D;Kudelin, M;Drozdova, T;Voronkov, S;Sunyaev, R;Churazov, E;Gilfanov, M;Ramsey, B;O'Dell, S;Kolodziejczak, J;Zavlin, V;Swartz, D|ART-XC / SRG overview|2
+2018SPIE10699E..1ZE|Eder, J;Predehl, P;Scheuerle, H|How eROSITA was made|0
+2018SPIE10699E..5ET|Tkachenko, A;Pavlinsky, M;Lapshov, I;Levin, V;Akimov, V;Krivchenko, A;Rotin, A;Kuznetsova, M;Semena, N;Semena, A;Serbinov, D;Krivonos, R;Shtykovsky, A;Yascovich, A;Oleinikov, V;Glushenko, A;Mereminskiy, I;Molkov, S;Sazonov, S;Arefiev, V|On-ground calibration of the ART-XC/SRG instrument|0
+2018SPIE10699E..5FC|Coutinho, D;Bornemann, W;Budau, B;Burwitz, V;Furmetz, M;Gaida, R;Hartner, G;Kink, W;Meidinger, N;Muller, S;Predehl, P|eROSITA system functionality and operation|0
+2018SPIE10699E..5GB|Brunner, H;Boller, T;Coutinho, D;Dauser, T;Dennerl, K;Dwelly, T;Freyberg, M;Furmetz, M;Georgakakis, A;Grossberger, C;Kreykenbohm, I;Lamer, G;Meidinger, N;Muller, S;Predehl, P;Robrade, J;Sanders, J;Wilms, J|eROSITA ground operations|1
+2018SPIE10699E..5HP|Predehl, P;Bornemann, W;Brauninger, H;Brunner, H;Burwitz, V;Coutinho, D;Dennerl, K;Eder, J;Friedrich, P;Furmetz, M;Hartner, G;von Kienlin, A;Kink, W;Meidinger, N;Mican, B;Muller, S;Nandra, K;Pfeffermann, E;Rohe, C;Yaroshenko, V|eROSITA mated with SRG|1
+2018agn..confE..71M|Merloni, A|Understanding AGN evolution with large (X-ray) surveys: current constraints and prospects for eROSITA|1
+2018arXiv180306891M|Mayers, J;Romer, K;Fahari, A;Stott, J;Giles, P;Rooney, P;Bermeo-Hernandez, A;Collins, C;Hilton, M;Hoyle, B;Liddle, A;Mann, R;Miller, C;Nichol, R;Sahlen, M;Vergara-Cervantes, C;Viana, P|Correlations between X-ray properties and Black Hole Mass in AGN: towards a new method to estimate black hole mass from short exposure X-ray observations|4
+2018arXiv181206208M|Miyaji, T;AKARI NEP Survey Team|X-ray - Infrared relation of AGNs and search for highly obscured accretion in the AKARI NEP Field|0
+2018cosp...42E.242B|Becker, W|EROSITA - Status and Scientific Prospects|0
+2018cosp...42E.744D|Da Silva, A;Sanchez Prieto, S;Rodriguez Polo, O;Parra Espada, P;Martinez Hellin, A|Memory Layout Fault Tolerance Testing of Application Software on-board EPD Instrument Control Unit|0
+2018cosp...42E2955S|Salvato, M|Past to future: ROSAT to eROSITA|0
+2018cosp...42E3044S|Schwope, A;Traulsen, I;Worpel, H|Accretion in magnetic CVs from an observational perspective|0
+2018cwla.conf..185O|Oi, N;Matsuhara, H;Goto, T;Utsumi, Y;Momose, R;Huang, T;Toba, Y;Im, M;Lee, H;Kim, S;Miyaji, T;Krumpe, M;Murata, K;Oyama, Y;Serjeant, S;Pearson, C;Nakagawa, T;Wada, T;Takagi, T;Matsuura, S;Shogaki, A;NEP Team|North Ecliptic Pole multi-wavelength survey: new optical data with Hyper Suprime-Cam and near-future prospects with eROSITA|0
+2018maff.confE..35L|Lau, E|Toward Multi-scale Modeling of AGN Feedback in Galaxy Clusters|0
+2018vels.confE...8S|Shanks, T|VST Atlas - Past, Present and Future Highlights|0
+2017AAS...22910602D|Devost, D;McConnachie, A;Flagey, N;Cote, P;Balogh, M;Driver, S;Venn, K|Science capabilities of the Maunakea Spectroscopic Explorer|0
+2017AAS...22923827H|Heap, S;CETUS Team|Cosmic Evolution Through UV Spectroscopy (CETUS): A NASA Probe-Class Mission Concept|1
+2017AGUFMSH51C2505C|Champey, P;Winebarger, A;Kobayashi, K;Savage, S;Ramsey, B;Kolodziejczak, J;Speegle, C;Young, M;Kester, T;Cheimets, P;Hertz, E|Status of Mirror Development for the Marshall Grazing Incidence X-ray Spectrometer (MaGIXS)|0
+2017ASPC..510..461B|Burenin, R;Revnivtsev, M;Tkachenko, A;Vorobyev, V;Semena, A;Meshcheryakov, A;Dodonov, S;Eselevich, M;Pavlinsky, M|A Sample of Cataclysmic Variables from the 400d X-Ray Survey|0
+2017HEAD...1610609D|DiPompeo, M;Hickox, R;Myers, A|Obscured Supermassive Black Hole Growth - Connections to Host Galaxies and Evolutionary Models|0
+2017HEAD...1611303H|Hare, J;Kargaltsev, O;Rangelov, B;Pavlov, G;Posselt, B;Volkov, I|A Machine-learning approach to classification of X-ray sources|0
+2017SPIE10397E..1JT|Tkachenko, A;Pavlinsky, M;Levin, V;Akimov, V;Krivchenko, A;Rotin, A;Kuznetsova, M;Lapshov, I;Yaskovich, A;Oleinikov, V;Gubarev, M;Ramsey, B|ART-XC/SRG: joint calibration of mirror modules and x-ray detectors|0
+2017SPIE10399E..0OB|Burwitz, V;Willingale, R;Pellilciari, C;Hartner, G;La Caria, M|Testing and calibrating the ATHENA optics at PANTER (Conference Presentation)|1
+2017SPIE10565E..2MA|Arcangeli, L;Borghi, G;Brauninger, H;Citterio, O;Ferrario, I;Friedrich, P;Grisoni, G;Marioni, F;Predehl, P;Rossi, M;Ritucci, A;Valsecchi, G;Vernani, D|The eROSITA X-ray mirrors: technology and qualification aspects of the production of mandrels, shells and mirror modules|0
+2017SPIE10565E..58A|Arcangeli, L;Borghi, G;Brauninger, H;Citterio, O;Ferrario, I;Friedrich, P;Grisoni, G;Marioni, F;Predehl, P;Rossi, M;Ritucci, A;Valsecchi, G;Vernani, D|The eROSITA X-ray mirrors: technology and qualification aspects of the production of mandrels, shells and mirror modules|0
+2017arXiv170400684P|Palacios, J;Cid, C;Guerrero, A;Saiz, E;Cerrato, Y;Rodriguez-Bouza, M;Rodriguez-Bilbao, I;Herraiz, M;Rodriguez-Caderot, G|The Spanish Space Weather Service SeNMEs. A case study on the Sun-Earth chain|0
+2017arXiv171103234K|Kollmeier, J;Zasowski, G;Rix, H;Johns, M;Anderson, S;Drory, N;Johnson, J;Pogge, R;Bird, J;Blanc, G;Brownstein, J;Crane, J;De Lee, N;Klaene, M;Kreckel, K;MacDonald, N;Merloni, A;Ness, M;O'Brien, T;Sanchez-Gallego, J;Sayres, C;Shen, Y;Thakar, A;Tkachenko, A;Aerts, C;Blanton, M;Eisenstein, D;Holtzman, J;Maoz, D;Nandra, K;Rockosi, C;Weinberg, D;Bovy, J;Casey, A;Chaname, J;Clerc, N;Conroy, C;Eracleous, M;Gansicke, B;Hekker, S;Horne, K;Kauffmann, J;McQuinn, K;Pellegrini, E;Schinnerer, E;Schlafly, E;Schwope, A;Seibert, M;Teske, J;van Saders, J|SDSS-V: Pioneering Panoptic Spectroscopy|111
+2017arXiv171105038M|Mancini Pires, A|What will eROSITA reveal among X-ray faint isolated neutron stars?|0
+2017arXiv171105045M|Mancini Pires, A|The missing links of neutron star evolution in the eROSITA all-sky X-ray survey|0
+2017hsa9.conf..108A|Ascaso, B|Cluster cosmology with next-generation surveys.|0
+2017hst..prop15300A|Ayres, T|Ecliptic-poles Stellar Survey (EclipSS)|0
+2017mbhe.confE..14C|Clerc, N|Clusters of galaxies with SPIDERS (The Spectroscopic IDentification of eROSITA Sources)|0
+2017mbhe.confE..27B|Boller, T|2RXS - the deepest and cleanest X-ray all-sky survey before eROSITA|0
+2017sf2a.conf..405M|Martin, N;Babusiaux, C|The science enabled by the Maunakea Spectroscopic Explorer|0
+2017wprb.confE..37F|Finoguenov, A|eROSITA View on Missing Baryons|0
+2017xru..conf...23P|Predehl, P|eROSITA on SRG|0
+2017xru..conf...79F|Finoguenov, A|Cosmological constraints from X-ray all sky surveys, from CODEX to eROSITA|0
+2017xru..conf...96H|Hampel, J;Reiprich, T;Freyberg, M;Greiner, J;Komossa, S|Study of a Tidal Disruption Event Candidate|1
+2017xru..conf..116K|Kolodzig, A;Gilfanov, M;Hutsi, G;Sunyaev, R|CXB surface brightness fluctuations: A new frontier of ICM structure and outskirts studies of (un)resolved galaxy clusters?|0
+2017xru..conf..189R|Reiprich, T|Galaxy clusters from eeHIFLUGCS, to eROSITA, to Athena|1
+2017xru..conf..193R|Robrade, J|The eROSITA all-sky survey - Stars in X-rays|0
+2017xru..conf..199S|Salvato, M;Buchner, j;Budavari, T;Dwelly, T;Merloni, A;Brusa, M;Rau, A;Fotopoulou, S;Nandra, K|AllWISE counterparts to ROSAT and XMMSlew surveys done using NWAY (An accurate algorithm to pair sources simultaneously between N catalogs)|0
+2017xru..conf..205S|Schellenberger, G;Vrtilek, J;David, L;O'Sullivan, E;Giacintucci, S;Johnston-Hollitt, M;Duchesne, S;Raychaudhury, S|NGC 741 - Mergers and AGN feedback on galaxy groups scale|0
+2017xru..conf..206S|Schmitt, J;Freund, S;Robrade, J;Schneider, C|The stellar content of soft all-sky X-ray surveys|0
+2017xru..conf..211S|Simmonds, C;Buchner, J|XZ: X-ray spectroscopic redshifts of obscured AGN|0
+2017xru..conf..242Z|Zandanel, F;Fornasa, M;Pacaud, F;Reiprich, T;Prada, F;Klypin, A|Angular power spectra of eROSITA mock cluster all-skymaps|0
+2016AAS...22831106B|Becker, W;eROSITA Team|eROSITA: Status and Scientific Prospects|0
+2016ASPC..504..131P|Palacios, J;Cid, C;Guerrero, A;Saiz, E;Cerrato, Y;Rodriguez-Bouza, M;Rodriguez-Bilbao, I;Herraiz, M;Rodriguez-Caderot, G|The Spanish Space Weather Service SeNMEs. A Case Study on the Sun-Earth Chain|1
+2016HEAD...1511106D|Dai, X;Griffin, R;Nugent, J;Kochanek, C;Bregman, J|Early Results from Swift AGN and Cluster Survey|0
+2016IAUS..314..280R|Robrade, J|eROSITA - Nearby Young Stars in X-rays|0
+2016JPhCS.718d2067Z|Zandanel, F;Weniger, C;Ando, S|Angular power spectrum of sterile neutrino decay lines: the role of eROSITA|0
+2016SPIE.9905E..1JP|Pavlinsky, M;Akimov, V;Levin, V;Krivchenko, A;Rotin, A;Kuznetsova, M;Lapshov, I;Tkachenko, A;Semena, N;Buntov, M;Glushenko, A;Arefiev, V;Yaskovich, A;Grebenev, S;Sazonov, S;Revnivtsev, M;Lutovinov, A;Molkov, S;Krivonos, R;Serbinov, D;Kudelin, M;Drozdova, T;Voronkov, S;Sunyaev, R;Churazov, E;Gilfanov, M;Babyshkin, V;Lomakin, I;Menderov, A;Gubarev, M;Ramsey, B;Kilaru, K;O'Dell, S;Kolodziejczak, J;Elsner, R;Zavlin, V;Swartz, D|Status of ART-XC/SRG instrument|6
+2016SPIE.9905E..1KP|Predehl, P;Andritschke, R;Babyshkin, V;Becker, W;Bornemann, W;Brauninger, H;Brunner, H;Boller, T;Burwitz, V;Burkert, W;Clerc, N;Churazov, E;Coutinho, D;Dennerl, K;Dwelly, T;Eder, J;Emberger, V;Freyberg, M;Friedrich, P;Furmetz, M;Georgakakis, A;Gilfanov, M;Grossberger, C;Haberl, F;Halker, O;Hartner, G;Kienlin, A;Kink, W;Kreykenbohm, I;Lamer, G;Lomakin, I;Lapshov, I;Meidinger, N;Merloni, A;Mican, B;Muller, S;Nandra, K;Pavlinsky, M;Pfeffermann, E;Pietschner, D;Robrade, J;Salvato, M;Santangelo, A;Sasaki, M;Scheuerle, H;Schmitt, J;Schwope, A;Sunyaev, R;Tenzer, C;Yaroshenko, V;Wilms, J|eROSITA on SRG|18
+2016SPIE.9905E..50S|Semena, N;Pavlinsky, M;Buntov, M;Serbinov, D;Levin, V;Tambov, V;Rotin, A;Krivchenko, A|ART-XC/SRG: results of qualification thermo-vacuum tests|1
+2016SPIE.9905E..51L|Levin, V;Pavlinsky, M;Akimov, V;Kuznetsova, M;Rotin, A;Krivchenko, A;Lapshov, I;Oleynikov, V|Results of ground tests and calibration of x-ray focal plane detectors for ART-XC/SRG instrument|2
+2016SPIE.9905E..52P|Perinati, E;Mineo, T;Freyberg, M;Diebold, S;Santangelo, A;Tenzer, C|An updated approach to the study of proton propagation in the eROSITA mirror system|0
+2016SPIE.9905E..73C|Champey, P;Winebarger, A;Kobayashi, K;Savage, S;Cirtain, J;Cheimets, P;Hertz, E;Golub, L;Ramsey, B;McCracken, J;Marquez, V;Allured, R;Heilmann, R;Schattenburg, M;Bruccoleri, A|On the alignment and focusing of the Marshall Grazing Incidence X-ray Spectrometer (MaGIXS)|3
+2016SPIE.9908E..44L|Lang-Bardl, F;Bender, R;Goessl, C;Grupp, F;Hess, H;Kaminski, J;Hodapp, K;Hopp, U;Jacobson, S;Kravcar, H;Monna, A;Mitsch, W;Schlichter, J;Wegner, M|The Wendelstein three channel imager (3KK): alignment, commissioning, and first results|2
+2016adap.prop..172D|Dai, X|The Swift AGN and Cluster Survey|0
+2016arXiv160600060M|McConnachie, A;Babusiaux, C;Balogh, M;Caffau, E;Cote, P;Driver, S;Robotham, A;Starkenburg, E;Venn, K;Walker, M;Bauman, S;Flagey, N;Ho, K;Isani, S;Laychak, M;Mignot, S;Murowinski, R;Salmon, D;Simons, D;Szeto, K;Vermeulen, T;Withington, K|A concise overview of the Maunakea Spectroscopic Explorer|11
+2016arXiv160607039D|Dore, O;Werner, M;Ashby, M;Banerjee, P;Battaglia, N;Bauer, J;Benjamin, R;Bleem, L;Bock, J;Boogert, A;Bull, P;Capak, P;Chang, T;Chiar, J;Cohen, S;Cooray, A;Crill, B;Cushing, M;de Putter, R;Driver, S;Eifler, T;Feng, C;Ferraro, S;Finkbeiner, D;Gaudi, B;Greene, T;Hillenbrand, L;Hoflich, P;Hsiao, E;Huffenberger, K;Jansen, R;Jeong, W;Joshi, B;Kim, D;Kim, M;Kirkpatrick, J;Korngut, P;Krause, E;Kriek, M;Leistedt, B;Li, A;Lisse, C;Mauskopf, P;Mechtley, M;Melnick, G;Mohr, J;Murphy, J;Neben, A;Neufeld, D;Nguyen, H;Pierpaoli, E;Pyo, J;Rhodes, J;Sandstrom, K;Schaan, E;Schlaufman, K;Silverman, J;Su, K;Stassun, K;Stevens, D;Strauss, M;Tielens, X;Tsai, C;Tolls, V;Unwin, S;Viero, M;Windhorst, R;Zemcov, M|Science Impacts of the SPHEREx All-Sky Optical to Near-Infrared Spectral Survey: Report of a Community Workshop Examining Extragalactic, Galactic, Stellar and Planetary Science|32
+2016cosp...41E.370C|Comastri, A;Brusa, M;Aird, J;Lanzuisi, G|The light up and early evolution of high redshift Supermassive Black Holes|0
+2016cosp...41E.551E|Esenoglu, H;Kirbiyik, H;Kaynar, S;Okuyan, O;Hamitoglu, I;Galeev, A;Uluc, K;Kocak, M;Kilic, S;Parmaksizoglu, M;Erece, O;Ozisik, T;Gulsecen, H|Observations of GAIA-identified Cataclysmic Variables Using the TUBITAK National Observatory|0
+2016cosp...41E.824H|Helhel, S;Kirbiyik, H;Bayar, C;Khamitov, I;Kahya, G;Okuyan, O|Double-wedged Wollaston-type polarimeter design and integration to RTT150-TFOSC|0
+2016frap.confE..38B|Boller, T|2RXS: The Deepest X-Ray All-Sky Survey Before eROSITA|0
+2016xnnd.confE....N|Ness, J|XMM-Newton: The Next Decade|0
+2016xnnd.confE...7R|Reiprich, T|Follow-up of eROSITA and Euclid Clusters|0
+2016xnnd.confE..30P|Predehl, P|eROSITA on SRG|0
+2016xnnd.confE..31R|Rauw, G|Perspectives for hot stars in the next decade|0
+2016xnnd.confE..53M|Mancini Pires, A;Schwope, A;Motch, C|Follow-up of isolated neutron star candidates from the eROSITA survey|0
+2016xnnd.confE.112R|Robrade, J|X-ray cycles and magnetic activity of solar-like stars|0
+2016yCat..35880103B|Boller, T;Freyberg, M;Truemper, J;Haberl, F;Voges, W;Nandra, K|VizieR Online Data Catalog: Second ROSAT all-sky survey (2RXS) source catalog (Boller+, 2016)|0
+2016yCat..35970054Z|Zhang, X;Shi, W;Chen, Y;Zhao, G;Carrell, K;Zhao, J;Ruan, G;Liang, Y;Zhou, L;Ren, H;Zhang, Y;Hou, Y;Wang, Y|VizieR Online Data Catalog: Srg tidal tails red giants properties (Zhang+, 2017)|0
+2015IAUGA..2242709S|Salvato, M|The eROSITA All-Sky Survey and its spectroscopic follow-up|0
+2015IAUGA..2250068D|Dolag, K;Biffi, V|The X-Ray Universe as seen through a Super Computer|0
+2015IAUGA..2252711S|Sartoris, B|Cosmology with galaxy clusters|0
+2015IAUGA..2254683M|Matsuhara, H;Oi, N|Overview of North Ecliptic Pole Deep Multi-wavelength Survey as a Probe of the Cosmic Noon Era|0
+2015IAUGA..2255843D|de Jong, R;4MOST Consortium,|4MOST - The new wide-field, high-multiplex spectroscopic survey facility for ESO's VISTA telescope|3
+2015IAUGA..2256886K|Kolodzig, A;Gilfanov, M;Hutsi, G;Sunyaev, R|The SRG/eROSITA All-Sky Survey: A new era of large-scale structure studies with AGN|0
+2015IAUGA..2257162P|Pillepich, A;Mohammed, I;Porciani, C;Reiprich, T|Cosmology with the eROSITA X-ray cluster survey|1
+2015IAUGA..2257493K|Kolodzig, A;Gilfanov, M;Hutsi, G;Sunyaev, R|Large-scale structure studies with the unresolved CXB - Challenges from XBOOTES|0
+2015IAUGA..2258057Q|Quirrenbach, A;4MOST Consortium,|4MOST - 4-meter Multi-Object Spectroscopic Telescope|1
+2015IAUGA..2258368H|Hare, J;Rangelov, B;Kargaltsev, O;Volkov, I;Pavlov, G|Applying machine-learning to understand the nature of gamma-ray sources|0
+2015SPIE.9603E..0CP|Pavlinsky, M;Akimov, V;Levin, V;Krivchenko, A;Rotin, A;Kuznetsova, M;Lapshov, I;Tkachenko, A;Semena, N;Buntov, M;Glushenko, A;Arefiev, V;Yaskovich, A;Grebenev, S;Sazonov, S;Revnivtsev, M;Lutovinov, A;Molkov, S;Krivonos, R;Serbinov, D;Kudelin, M;Drozdova, T;Voronkov, S;Sunyaev, R;Churazov, E;Gilfanov, M;Babyshkin, V;Lomakin, I;Menderov, A;Gubarev, M;Ramsey, B;Kilaru, K;O'Dell, S;Kolodziejczak, J;Elsner, R;Zavlin, V;Swartz, D|Status of ART-XC / SRG instrument|1
+2015adap.prop...80S|Stern, D|SACS: Spitzer Archival Cluster Survey|0
+2015arXiv150700204G|Gotz, D;Adami, C;Basa, S;Beckmann, V;Burwitz, V;Chipaux, R;Cordier, B;Evans, P;Godet, O;Goosmann, R;Meidinger, N;Meuris, A;Motch, C;Nandra, K;O'Brien, P;Osborne, J;Perinati, E;Rau, A;Willingale, R;Mercier, K;Gonzalez, F|The Microchannel X-ray Telescope on Board the SVOM Satellite|1
+2015cxo..prop.4802P|Predehl, P|Lensing Calibration of the Evolution of Cluster Scaling Relations for eROSITA|0
+2015deam.confE..92S|Salvato, M;Merloni, A|The eROSITA All-Sky Survey and its spectroscopic follow-up|0
+2015deam.confE..93S|Salvato, M;Merloni, A;Dwelly, T;Boller, T;Buchner, J;Budavari, T;Coffey, D;Freyberg, M;Brusa, M;Menzel, M;Georgakakis, A;Sandra, K;Krumme, M;Clerc, N;Ridl, J;Finiguenov, A|The (AGN)pre-eROSITA era: ROSAT revisited and SPIDERS|0
+2015eheu.conf...23B|Brandt, W|The Landscape of Large Sky Surveys in the Athena Era (Synergy Talk)|0
+2015sf2a.conf..217P|Pello, R|The Canada-France Imaging Survey: Evolution of Galaxies and Clusters of Galaxies|0
+2014AAS...22313503J|Jones, C|X-ray Cluster Cosmology from Einstein to eROSITA|0
+2014APS..APR.Y7005S|Schuster, M;Quaglioni, S;Johnson, C;Jurgenson, E;Navratil, P|Operator evolution in the three-body space via the similarity renormalization group|0
+2014IAUS..304..421S|Salvato, M|Mapping the active Universe with eROSITA|1
+2014IAUS..304..422K|Kolodzig, A;Gilfanov, M;Hutsi, G;Sunyaev, R|Large-scale structure studies with AGN in the eROSITA/SRG All-Sky Survey|0
+2014RMxAC..44..199V|Vajgel, B;Lopes, P;Jones, C;Forman, W;Murray, S|Properties of Galaxy Groups Selected from Chandra X-ray Observations of the Boötes Field|0
+2014SPIE.9144E..13L|Levin, V;Pavlinsky, M;Akimov, V;Kuznetsova, M;Rotin, A;Krivchenko, A;Lapshov, I;Oleinikov, V|ART-XC/SRG: status of the x-ray focal plane detector development|0
+2014SPIE.9144E..1TP|Predehl, P;Andritschke, R;Becker, W;Bornemann, W;Brauninger, H;Brunner, H;Boller, T;Burwitz, V;Burkert, W;Clerc, N;Churazov, E;Coutinho, D;Dennerl, K;Eder, J;Emberger, V;Eraerds, T;Freyberg, M;Friedrich, P;Furmetz, M;Georgakakis, A;Grossberger, C;Haberl, F;Halker, O;Hartner, G;Hasinger, G;Hoelzl, J;Huber, H;von Kienlin, A;Kink, W;Kreykenbohm, I;Lamer, G;Lomakin, I;Lapchov, I;Lovisari, L;Meidinger, N;Merloni, A;Mican, B;Mohr, J;Muller, S;Nandra, K;Pacaud, F;Pavlinsky, M;Perinati, E;Pfeffermann, E;Pietschner, D;Reiffers, J;Reiprich, T;Robrade, J;Salvato, M;Santangelo, A;Sasaki, M;Scheuerle, H;Schmid, C;Schmitt, J;Schwope, A;Sunyaev, R;Tenzer, C;Tiedemann, L;Xu, W;Yaroshenko, V;Walther, S;Wille, M;Wilms, J;Zhang, Y|eROSITA on SRG|28
+2014SPIE.9144E..1UP|Pavlinsky, M;Akimov, V;Levin, V;Lapshov, I;Tkachenko, A;Semena, N;Buntov, M;Glushenko, A;Arefiev, V;Yaskovich, A;Sunyaev, R;Churazov, E;Gilfanov, M;Grebenev, S;Sazonov, S;Revnivtsev, M;Lutovinov, A;Molkov, S;Kudelin, M;Drozdova, T;Garanin, S;Grigorovich, S;Litvin, D;Lazarchuk, V;Roiz, I;Garin, M;Babyshkin, V;Lomakin, I;Menderov, A;Moskvinov, D;Gubarev, M;Ramsey, B;Kilaru, K;O'Dell, S;Kolodziejczak, J;Elsner, R|Status of ART-XC/SRG instrument|3
+2014SPIE.9144E..1VG|Gubarev, M;Ramsey, B;Elsner, R;O'Dell, S;Kolodziejczak, J;McCracken, J;Zavlin, V;Swartz, D;Kilaru, K;Atkins, C;Pavlinsky, M;Tkachenko, A;Lapshov, I|ART-XC/SRG: status of the x-ray optics development|5
+2014SPIE.9144E..1WM|Meidinger, N;Andritschke, R;Bornemann, W;Coutinho, D;Emberger, V;Halker, O;Kink, W;Mican, B;Muller, S;Pietschner, D;Predehl, P;Reiffers, J|Report on the eROSITA camera system|3
+2014SPIE.9144E..1XB|Burwitz, V;Predehl, P;Friedrich, P;Brauninger, H;Eder, J;Pfeffermann, E;Burkert, W;Dennerl, K;Hartner, G;Menz, B;Furmetz, M;Valsecchi, G;Marioni, F;Grisoni, G|The calibration and testing of the eROSITA X-ray mirror assemblies|5
+2014SPIE.9144E..4RF|Friedrich, P;Rohe, C;Gaida, R;Hartwig, J;Soller, F;Brauninger, H;Budau, B;Burkert, W;Burwitz, V;Eder, J;Hartner, G;Menz, B;Predehl, P|The eROSITA x-ray baffle|3
+2014SPIE.9144E..4SD|Diebold, S;Jochum, J;Kendziorra, E;Perinati, E;Santangelo, A;Tenzer, C|A setup for soft proton scattering on x-ray mirrors|0
+2014SPIE.9144E..4TS|Semena, N;Pavlinsky, M;Buntov, M;Serbinov, D;Gurova, E;Tambov, V;Roiz, I;Garin, M;Lazarchuk, V;Zaytcev, A;Martunov, V;Shabarchin, A;Sokolov, A|ART-XC/SRG: results of thermo-vacuum tests|2
+2014SPIE.9144E..4UG|Gubarev, M;Ramsey, B;Kolodziejczak, J;O'Dell, S;Elsner, R;Zavlin, V;Swartz, D;Pavlinsky, M;Tkachenko, A;Lapshov, I|The calibration of flight mirror modules for the ART-XC instrument on board the SRG mission|2
+2014SPIE.9144E..4VP|Perinati, E;Mineo, T;Freyberg, M;Diebold, S;Santangelo, A;Tenzer, C|Analysis of proton propagation through the eROSITA telescope|2
+2014SPIE.9144E..4WP|Perinati, E;Bugiel, S;Freyberg, M;Diebold, S;Santangelo, A;Srama, R;Tenzer, C;von Kienlin, A|Bumber filter against micrometeoroids for eROSITA|0
+2014SPIE.9144E..4XF|Furmetz, M;Eder, J;Pfeffermann, E;Predehl, P|The x-ray telescope eROSITA: qualification of the thermal control system|1
+2014SPIE.9144E..4ZM|Meuris, A;Pinsard, F;Doumayrou, E;Tourrette, T;Gotz, D;Carty, M;Donati, M;Dumaye, L;Goetschy, A;Nico, F;Meidinger, N;Miessner, D;Mercier, K|The camera of the Microchannel X-ray telescope onboard the SVOM mission|1
+2014SPIE.9147E..0MD|de Jong, R;Barden, S;Bellido-Tirado, O;Brynnel, J;Chiappini, C;Depagne, E;Haynes, R;Johl, D;Phillips, D;Schnurr, O;Schwope, A;Walcher, J;Bauer, S;Cescutti, G;Cioni, M;Dionies, F;Enke, H;Haynes, D;Kelz, A;Kitaura, F;Lamer, G;Minchev, I;Muller, V;Nuza, S;Olaya, J;Piffl, T;Popow, E;Saviauk, A;Steinmetz, M;Ural, U;Valentini, M;Winkler, R;Wisotzki, L;Ansorge, W;Banerji, M;Gonzalez Solares, E;Irwin, M;Kennicutt, R;King, D;McMahon, R;Koposov, S;Parry, I;Sun, X;Walton, N;Finger, G;Iwert, O;Krumpe, M;Lizon, J;Mainieri, V;Amans, J;Bonifacio, P;Cohen, M;Francois, P;Jagourel, P;Mignot, S;Royer, F;Sartoretti, P;Bender, R;Hess, H;Lang-Bardl, F;Muschielok, B;Schlichter, J;Bohringer, H;Boller, T;Bongiorno, A;Brusa, M;Dwelly, T;Merloni, A;Nandra, K;Salvato, M;Pragt, J;Navarro, R;Gerlofsma, G;Roelfsema, R;Dalton, G;Middleton, K;Tosh, I;Boeche, C;Caffau, E;Christlieb, N;Grebel, E;Hansen, C;Koch, A;Ludwig, H;Mandel, H;Quirrenbach, A;Sbordone, L;Seifert, W;Thimm, G;Helmi, A;trager, S;Bensby, T;Feltzing, S;Ruchti, G;Edvardsson, B;Korn, A;Lind, K;Boland, W;Colless, M;Frost, G;Gilbert, J;Gillingham, P;Lawrence, J;Legg, N;Saunders, W;Sheinis, A;Driver, S;Robotham, A;Bacon, R;Caillier, P;Kosmalski, J;Laurent, F;Richard, J|4MOST: 4-metre Multi-Object Spectroscopic Telescope|60
+2014SPIE.9147E..6IH|Haynes, R;Barden, S;de Jong, R;Schnurr, O;Bellido, O;Walcher, J;Haynes, D;Winkler, R;Bauer, S;Dionies, F;Saviauk, A;Chiappini, C;Schwope, A;Brynnel, J;Steinmetz, M;McMahon, R;Feltzing, S;Francois, P;Trager, S;Parry, I;Irwin, M;Walton, N;King, D;Sun, D;Gonzalez-Solares, E;Tosh, I;Dalton, G;Middleton, K;Bonifacio, P;Jagourel, P;Mignot, S;Cohen, M;Amans, J;Royer, F;Sartoretti, P;Pragt, J;Gerlofsma, G;Roelfsema, R;Navarro, R;Thimm, G;Seifert, W;Christlieb, N;Mandel, H;Trifonov, T;Xu, W;Lang-Bardl, F;Muschielok, B;Schlichter, J;Hess, H;Grupp, F;Boehringer, H;Boller, T;Dwelly, T;Bender, R;Rosati, P;Iwert, O;Finger, G;Lizon L'Allemand, J;Saunders, W;Sheinis, A;Frost, G;Farrell, T;Waller, L;Depagne, E;Laurent, F;Caillier, P;Kosmalski, J;Richard, J;Bacon, R;Ansorge, W|The 4MOST instrument concept overview|2
+2014SPIE.9150E..1CS|Schnurr, O;Walcher, C;Chiappini, C;Schwope, A;Bellido-Tirado, O;Haynes, R;Feltzing, S;McMahon, R;de Jong, R;Ansorge, W|From space to specs: requirements for 4MOST|3
+2014arXiv1409.6822V|Vajgel, B;Jones, C;Lopes, P;Forman, W;Murray, S;Goulding, A;Andrade-Santos, F|X-ray Selected Galaxy Groups in Boötes|1
+2014cosp...40E.601D|Da Silva, A;Sanchez Prieto, S;Rodriguez Polo, O;Parra Espada, P|Recovering from "amnesia" brought about by radiation. Verification of the "Over the air" (OTA) application software update mechanism On-Board Solar Orbiter's Energetic Particle Detector|0
+2014cosp...40E.964G|Georgii, K;Sazonov, S|An identification of eROSITA sources at extragalactic sky|0
+2014cosp...40E2470P|Pavlinsky, M|Status of ART-XC/SRG instrument|0
+2014cosp...40E2718R|Reiprich, T|Revolutions in Galaxy Cluster Science: Astro-H/eROSITA Synergy and Athena Outlook|0
+2014cosp...40E2719R|Reiprich, T;Pointecouteau, E|Studying the Evolution of Galaxy Groups and Clusters with Athena|0
+2014cxo..prop.4535P|Predehl, P|Resolving the central region of a very luminous galaxy cluster at z~ 0.7|0
+2014mbhe.conf...71K|Krumpe, M;Miyaji, T;Coil, A|Clustering Measurements of broad-line AGNs: Review and Future|13
+2014xru..confE..20P|Predehl, P;Pavlinsky, M|Spectrum Roentgen Gamma|0
+2014xru..confE..40B|Boller, T;Freyberg, M;Truemper, J|The second ROSAT All-Sky Survey source catalogue: the deepest X-ray All-Sky Survey before eROSITA|1
+2014xru..confE.172R|Reiprich, T|eROSITA Cluster Cosmology - Statistics and Challenging Systematics|0
+2014xru..confE.213Z|Zhang, Y|Multi-wavelength mass calibration of galaxy clusters for cosmology|0
+2014xru..confE.233B|Borm, K;Reiprich, T;Lovisari, L|Cosmological implications from the eROSITA all-sky survey|0
+2014xru..confE.235C|Cappelluti, N|Signature of Early Black holes in Cosmic Backgrounds|0
+2014xru..confE.238C|Clerc, N|The cosmological analysis of large X-ray galaxy cluster surveys|0
+2014xru..confE.258H|Hofmann, F;Sanders, J;Clerc, N;Nandra, K|Galaxy Cluster Substructure Study|0
+2014xru..confE.265K|Kolodzig, A;Gilfanov, M;Hutsi, G;Sunyaev, R|The eROSITA/SRG All-Sky Survey: A new era of large-scale structure studies with AGN|0
+2014xru..confE.317S|Sanders, J;Fabian, A|MBPROJ: MultiBand X-ray Surface Brightness PROJector applied to the PKS 0745-191 galaxy cluster|0
+2013AAS...22115008G|Golwala, S;CCAT Cosmology/SZ Science Working Group;CCAT Instrumentation Working Group|The Design and Science Goals of LWCam, the CCAT Long-Wavelength Imager|3
+2013AGUSMSH53A..03D|Da Silva, A;Sanchez Prieto, S;Polo, O;Parra Espada, P|Virtual Platform for See Robustness Verification of Bootloader Embedded Software on Board Solar Orbiter's Energetic Particle Detector|0
+2013APS..APRH13006S|Schuster, M;Quaglioni, S;Johnson, C;Jurgenson, E;Navratil, P|Ab initio many-body calculations of the ^4He photo-absorption cross section|0
+2013MmSAI..84..770P|Predehl, P;eROSITA Team|eROSITA .|2
+2013MmSAI..84..821G|Gubarev, M;Ramsey, B;O'Dell, S;Elsner, R;Kilaru, K;Atkins, C;Swartz, D;Gaskin, J;Weisskopf, M|Flight programs and X-ray optics development at MSFC|1
+2013SPIE.8859E..0BM|Meidinger, N;Andritschke, R;Aschauer, F;Bornemann, W;Emberger, V;Eraerds, T;Furmetz, M;Halker, O;Hartner, G;Kink, W;Muller, S;Pietschner, D;Predehl, P;Reiffers, J;Walther, S;Weidenspointner, G|Progress of the x-ray CCD camera development for the eROSITA telescope|1
+2013apra.prop..165C||U|0
+2013cxo..prop.4297G|Green, P|AGN Selection and the Interplay of X-ray Properties and Variability|0
+2013ffep.confE..19B|Becker, W|eROSITA: Status and its Scientific Prospects for Neutron Stars and Supernova Remnants|0
+2013hell.conf....4P|Plionis, E|Recent developments in Cosmology|0
+2013hell.conf...24G|Georgantopoulos, I|Hidden accretion in supermassive black holes in the XMM CDFS survey|0
+2013hell.conf...25M|Mountrichas, G|AGN clustering using photometric redshifts|0
+2013xmm..prop...48L|Lovisari, L|Scaling Properties and the Effects of Feedback for a Complete Sample of Groups|0
+2012EPJWC..1909004D|de Jong, R;Chiappini, C;Schnurr, O|4MOST - 4-meter Multi-Object Spectroscopic Telescope|2
+2012IAUS..285..159W|White, N|Next-Generation X-Ray Astronomy|0
+2012LNS...902..197G|Guglielmetti, F;Fischer, R;Dose, V|Bayesian Mixture Models for Poisson Astronomical Images|0
+2012MmSAI..83..844S|Schwope, A|CV surveys with eROSITA|9
+2012SPIE.8443E..1RP|Predehl, P|eROSITA|15
+2012SPIE.8443E..1SF|Friedrich, P;Brauninger, H;Budau, B;Burkert, W;Burwitz, V;Dennerl, K;Eder, J;Freyberg, M;Gaida, R;Hartner, G;Menz, B;Pfeffermann, E;Predehl, P;Rohe, C;Schreib, R|Development and testing of the eROSITA mirror modules|4
+2012SPIE.8443E..1TP|Pavlinsky, M;Akimov, V;Levin, V;Lapshov, I;Tkachenko, A;Semena, N;Buntov, M;Glushenko, A;Arefiev, V;Yaskovich, A;Sunyaev, R;Churazov, E;Sazonov, S;Revnivtsev, M;Lutovinov, A;Molkov, S;Kudelin, M;Garanin, S;Grigorovich, S;Litvin, D;Lazarchuk, V;Roiz, I;Garin, M;Babyshkin, V;Lomakin, I;Menderov, A;Moskvinov, D;Gubarev, M;Ramsey, B;Kilaru, K;O'Dell, S;Elsner, R|The ART-XC instrument on board the SRG Mission|2
+2012SPIE.8443E..1UG|Gubarev, M;Ramsey, B;O'Dell, S;Elsner, R;Kilaru, K;McCracken, J;Pavlinsky, M;Tkachenko, A;Lapshov, I|The Marshall Space Flight Center development of mirror modules for the ART-XC instrument aboard the Spectrum-Roentgen-Gamma mission|7
+2012SPIE.8443E..2JP|Perinati, E;Tenzer, C;Santangelo, A;Dennerl, K;Freyberg, M|Nuclear spallation by solar proton events and cosmic rays in the eROSITA and ATHENA focal plane configurations|0
+2012SPIE.8443E..4TP|Perinati, E;Tenzer, C;Santangelo, A;Cordier, B;Gotz, D;Fraser, G;Osborne, J|LEO radiation environment and the design of the micro-channel-plate x-ray telescope camera on-board the SVOM Mission|0
+2012SPIE.8443E..50D|Dennerl, K;Burkert, W;Burwitz, V;Freyberg, M;Friedrich, P;Hartner, G|Determination of the eROSITA mirror half energy width (HEW) with subpixel resolution|6
+2012SPIE.8443E..51F|Freyberg, M;Budau, B;Burwitz, V;Dennerl, K;Hartner, G;von Kienlin, A;Menz, B;Mican, B|Calibration of the eROSITA calibration source: design and trade-off analysis|1
+2012SPIE.8443E..52F|Furmetz, M;Eder, J;Pfeffermann, E;Predehl, P;Tiedemann, L|The thermal control system of the x-ray telescope eROSITA on Spektrum-Roentgen-Gamma|2
+2012SPIE.8446E..0TD|de Jong, R;Bellido-Tirado, O;Chiappini, C;Depagne, E;Haynes, R;Johl, D;Schnurr, O;Schwope, A;Walcher, J;Dionies, F;Haynes, D;Kelz, A;Kitaura, F;Lamer, G;Minchev, I;Muller, V;Nuza, S;Olaya, J;Piffl, T;Popow, E;Steinmetz, M;Ural, U;Williams, M;Winkler, R;Wisotzki, L;Ansorge, W;Banerji, M;Gonzalez Solares, E;Irwin, M;Kennicutt, R;King, D;McMahon, R;Koposov, S;Parry, I;Sun, D;Walton, N;Finger, G;Iwert, O;Krumpe, M;Lizon, J;Vincenzo, M;Amans, J;Bonifacio, P;Cohen, M;Francois, P;Jagourel, P;Mignot, S;Royer, F;Sartoretti, P;Bender, R;Grupp, F;Hess, H;Lang-Bardl, F;Muschielok, B;Bohringer, H;Boller, T;Bongiorno, A;Brusa, M;Dwelly, T;Merloni, A;Nandra, K;Salvato, M;Pragt, J;Navarro, R;Gerlofsma, G;Roelfsema, R;Dalton, G;Middleton, K;Tosh, I;Boeche, C;Caffau, E;Christlieb, N;Grebel, E;Hansen, C;Koch, A;Ludwig, H;Quirrenbach, A;Sbordone, L;Seifert, W;Thimm, G;Trifonov, T;Helmi, A;Trager, S;Feltzing, S;Korn, A;Boland, W|4MOST: 4-metre multi-object spectroscopic telescope|118
+2012SPIE.8448E..0YF|Freyberg, M;Dennerl, K|eROSITA in-orbit calibration strategy and plan: from the ground to the science|0
+2012SPIE.8453E..0PM|Meidinger, N;Andritschke, R;Aschauer, F;Elbs, J;Eraerds, T;Granato, S;Halker, O;Hartner, G;Miessner, D;Pietschner, D;Predehl, P;Reiffers, J;Struder, L;von Kienlin, A;Walther, S|Design and performance of the eROSITA focal plane instrumentation|2
+2012arXiv1209.3114M|Merloni, A;Predehl, P;Becker, W;Bohringer, H;Boller, T;Brunner, H;Brusa, M;Dennerl, K;Freyberg, M;Friedrich, P;Georgakakis, A;Haberl, F;Hasinger, G;Meidinger, N;Mohr, J;Nandra, K;Rau, A;Reiprich, T;Robrade, J;Salvato, M;Santangelo, A;Sasaki, M;Schwope, A;Wilms, J;German eROSITA Consortium, t|eROSITA Science Book: Mapping the Structure of the Energetic Universe|457
+2012arXiv1209.3790S|Serjeant, S;Buat, V;Burgarella, D;Clements, D;De Zotti, G;Goto, T;Hatsukade, B;Hopwood, R;Hwang, N;Inami, H;Jeong, W;Kim, S;Krumpe, M;Lee, M;Malkan, M;Matsuhara, H;Miyaji, T;Oyabu, S;Pearson, C;Takeuchi, T;Vaccari, M;Valtchanov, I;van der Werf, P;Wada, T;White, G|A new HST/Herschel deep field at the North Ecliptic Pole: preparing the way for JWST, SPICA and Euclid|4
+2012cxo..prop.3686P|Predehl, P|Paving the way for eROSITA: with Chandra observations of the CODEX-BOSS clusters|0
+2012evn..confE..90G|Grossberger, C;Schmid, C;Brand, T;Kreykenbohm, I;Wilms, J;Kadler, M;Wille, M|Studying radio-loud AGN with eROSITA|0
+2012hcxa.confE....G|Georgantopoulos, I;Plionis, M|Half a century of X-ray Astronomy|0
+2012hcxa.confE..96P|Predehl, P;Nandra, K;eRosita Collaboration|eROSITA|0
+2012hcxa.confE.138W|Watson, M|The 3XMM Catalogue|0
+2012hst..prop12994G|Gonzalez, A|A Lensing Study of IDCS J1426.5+3508: A Massive Galaxy Cluster at z=1.75|0
+2012int..workE.149K|Kreykenbohm, I|The eROSITA Near Realtime Analysis|0
+2012int..workE.157V|von Kienlin, A|eROSITA on-board Spectrum-RG|0
+2012sngi.confE..43M|Merloni, A|All-sky X-ray surveys with eROSITA: Clusters, AGN, active stars and mor|2
+2012xmm..prop..108J|Jones, C|Characterizing Planck ESZ Clusters|0
+2011A&G....52f...7.||News and Views: Fermi fires up gamma-ray pulsar search; STEREO spreads out; Gamma-ray light on early galaxies; Two up, 28 to go; Organizing eROSITA; MWA gets going; ESA's Cosmic Visions; Mars500 mission ends; VEGA gets a boost; Rosetta glances at Lutetia|0
+2011AAS...21710901R|Rines, K;Geller, M;Diaferio, A|Cluster Mass Profiles from the Hectospec Cluster Survey (HeCS)|0
+2011AAS...21714912K|Kloster, D;Rines, K;Svoboda, B;Arnold, R;Welch, T;Finn, R;Vikhlinin, A|Optical Scaling Relations of X-ray Selected Clusters at Moderate Redshift|1
+2011AAS...21742503G|Garcia, M;Green, P;Smith, R;Bookbinder, J|IXO Absolute Astrometry Requirements|0
+2011AIPC.1381..137B|Bohringer, H|Testing Cosmological Models with the Properties of the Galaxy Cluster Population|5
+2011AIPC.1381..208T|Takahashi, T|Future X-ray Missions to Study Relativistic Astrophysics|1
+2011HEAD...12.3202N|Niel Brandt, W|The Future of High-Energy Astrophysics: Prospects for Supermassive Black Hole Discoveries|0
+2011MSAIS..17..159C|Cappelluti, N;Predehl, P;Bohringer, H;Brunner, H;Brusa, M;Burwitz, V;Churazov, E;Dennerl, K;Finoguenov, A;Freyberg, M;Friedrich, P;Hasinger, G;Kenziorra, E;Kreykenbohm, I;Lamer, G;Meidinger, N;Muhlegger, M;Pavlinsky, M;Robrade, J;Santangelo, A;Schmitt, J;Schwope, A;Steinmitz, M;Struder, L;Sunyaev, R;Tenzer, C|eROSITA on SRG. A X-ray all-sky survey mission|41
+2011Msngr.145...14D|de Jong, R|4MOST — 4-metre Multi-Object Spectroscopic Telescope|21
+2011SPIE.8145E..02M|Meidinger, N;Andritschke, R;Elbs, J;Granato, S;Halker, O;Hartner, G;Herrmann, S;Miessner, D;Pietschner, D;Predehl, P;Reiffers, J;Rommerskirchen, T;Schmaler, G;Struder, L;Tiedemann, L|Status of the CCD camera for the eROSITA space telescope|3
+2011SPIE.8145E..0DP|Predehl, P;Andritschke, R;Becker, W;Bohringer, H;Bornemann, W;Brauninger, H;Brunner, H;Brusa, M;Burkert, W;Burwitz, V;Churazov, E;Dennerl, K;Eder, J;Elbs, J;Freyberg, M;Friedrich, P;Furmetz, M;Gaida, R;Guglielmetti, F;Halker, O;Hartner, G;Haberl, F;Herrmann, S;Huber, H;Kendziorra, E;von Kienlin, A;Kink, W;Kreykenbohm, I;Lamer, G;Lapchov, I;Meidinger, N;Merloni, A;Mican, B;Mohr, J;Muhlegger, M;Muller, S;Nandra, K;Pavlinsky, M;Pfeffermann, E;Reiprich, T;Robrade, J;Rohe, C;Santangelo, A;Sasaki, M;Schachner, G;Schmid, C;Schmitt, J;Schreib, R;Schrey, F;Schwope, A;Steinmetz, M;Struder, L;Sunyaev, R;Tenzer, C;Tiedemann, L;Vongehr, M;Wilms, J|eROSITA|16
+2011SPIE.8147E..06P|Pavlinsky, M;Akimov, V;Levin, V;Lapshov, I;Tkachenko, A;Semena, N;Arefiev, V;Glushenko, A;Yaskovich, A;Burenin, R;Sazonov, S;Revnivtsev, M;Buntov, M;Grebenev, S;Lutovinov, A;Kudelin, M;Grigorovich, S;Litvin, D;Lazarchuk, V;Roiz, I;Garin, M;Gubarev, M;Ramsey, B;Kilaru, K;O'Dell, S;Elsner, R|The ART-XC Instrument on board the SRG Mission|15
+2011SPIE.8147E..07V|Vernani, D;Borghi, G;Calegari, G;Castelnuovo, M;Citterio, O;Ferrario, I;Grisoni, G;Moretti, S;Valsecchi, G;Brauninger, H;Burwitz, V;Eder, J;Friedrich, P;Predehl, P|Performance of a mirror shell replicated from a new flight quality mandrel for eROSITA mission|0
+2011SPIE.8147E..08B|Burwitz, V;Friedrich, P;Brauninger, H;Budau, B;Burkert, W;Eder, J;Freyberg, M;Hartner, G;Pfeffermann, E;Predehl, P;Arcangeli, L;Borghi, G;Borroni, A;Citterio, O;Ferrario, I;Grisoni, G;Marioni, F;Ritucci, A;Rossi, M;Valsecchi, G;Vernani, D|Development and testing of the eROSITA mirror modules|1
+2011xru..conf...23P|Predehl, P|eROSITA - A new X-ray All-sky Survey|1
+2011xru..conf...72F|Friedrich, P;Burwitz, V;Burkert, W;Eder, J;Freyberg, M;Hartner, G;Marioni, F;Pfeffermann, E;Predehl, P;Valsecchi, G|eROSITA Mirror Module Development|0
+2011xru..conf..192B|Brunner, H;Guglielmetti, F;Lamer, G;Boller, T;Brusa, M;Cappelluti, N;Pace, F;Robrade, J;Roncarelli, M;Schmid, C|eROSITA Data Reduction, Source Characterization, and X-Ray Catalogue Creation|0
+2011xru..conf..220G|Guglielmetti, F;Boehringer, H;Brunner, H;Muehlegger, M;Pace, F;Predehl, P;Roncarelli, M;Rosati, P;Schmid, C|Applying the Background--Source Separation algorithm to eROSITA simulated data|0
+2010HEAD...11.4804B|Becker, W;Predehl, P;eROSITA Team|Exploring The X-ray Sky with eROSITA|0
+2010SPIE.7732E..0UP|Predehl, P;Andritschke, R;Bohringer, H;Bornemann, W;Brauninger, H;Brunner, H;Brusa, M;Burkert, W;Burwitz, V;Cappelluti, N;Churazov, E;Dennerl, K;Eder, J;Elbs, J;Freyberg, M;Friedrich, P;Furmetz, M;Gaida, R;Halker, O;Hartner, G;Hasinger, G;Hermann, S;Huber, H;Kendziorra, E;von Kienlin, A;Kink, W;Kreykenbohm, I;Lamer, G;Lapchov, I;Lehmann, K;Meidinger, N;Mican, B;Mohr, J;Muhlegger, M;Muller, S;Nandra, K;Pavlinsky, M;Pfeffermann, E;Reiprich, T;Robrade, J;Rohe, C;Santangelo, A;Schachner, G;Schanz, T;Schmid, C;Schmitt, J;Schreib, R;Schrey, F;Schwope, A;Steinmetz, M;Struder, L;Sunyaev, R;Tenzer, C;Tiedemann, L;Vongehr, M;Wilms, J|eROSITA on SRG|102
+2010SPIE.7732E..3KF|Furmetz, M;Predehl, P;Eder, J;Tiedemann, L|Operation of the x-ray telescope eROSITA|1
+2010SPIE.7735E..3QL|Lang-Bardl, F;Hodapp, K;Jacobson, S;Bender, R;Gossl, C;Fabricius, M;Grupp, F;Hopp, U;Mitsch, W|3kk: the Optical-NIR Multi-Channel Nasmyth Imager for the Wendelstein Fraunhofer Telescope|5
+2010SPIE.7742E..0UE|Ebermayer, S;Andritschke, R;Elbs, J;Meidinger, N;Struder, L;Hartmann, R;Gottwald, A;Krumrey, M;Scholze, F|Quantum efficiency measurements of eROSITA pnCCDs|3
+2010SPIE.7742E..0YT|Tenzer, C;Warth, G;Kendziorra, E;Santangelo, A|Geant4 simulation studies of the eROSITA detector background|10
+2010SPIE.7742E..11E|Elbs, J;Andritschke, R;Halker, O;Hartmann, R;Herrmann, S;Kimmel, N;Meidinger, N;Struder, L|Electronic test system for the eROSITA x-ray PNCCDs|0
+2010cosp...38.2583K|Kreykenbohm, I;Schmid, C;Wilms, J;Grossberger, C;Brunner, H;Lamer, G|The eROSITA NRTA software|0
+2010gcop.confP...8P|Pillepich, A|Cosmology with eROSITA|0
+2009AAS...21345409J|Jones, C;Nulsen, P;Arnaud, K;Donahue, M;Mahdavi, A;Vrtilek, J;Nakazawa, K;Randall, S;Ruszkowski, M|Hot Baryons in Deep Potential Wells: IXO Studies of Hot Gas in Galaxies, Groups and Clusters|3
+2009AAS...21345410A|Allen, S;Rapetti, D;Mantz, A|Probing Dark Energy with Future X-ray Gas Mass Fraction Studies|0
+2009ASPC..411..285K|Kreykenbohm, I;Schmid, C;Wilms, J;Brunner, H;Lamer, G|eROSITA Near Real Time Analysis|1
+2009SPIE.7435E..02M|Meidinger, N;Andritschke, R;Ebermayer, S;Elbs, J;Halker, O;Hartmann, R;Herrmann, S;Kimmel, N;Predehl, P;Schachner, G;Soltau, H;Struder, L;Tiedemann, L|CCD detectors for spectroscopy and imaging of x-rays with the eROSITA space telescope|7
+2009SPIE.7437E..08P|Pavlinsky, M;Sunyaev, R;Churazov, E;Vikhlinin, A;Sazonov, S;Revnivtsev, M;Arefiev, V;Lapshov, I;Akimov, V;Levin, V;Buntov, M;Semena, N;Grigorovich, S;Babyshkin, V;Predehl, P;Hasinger, G;Bohringer, H;Schmitt, J;Santangelo, A;Schwope, A;Wilms, J|Spectrum-RG astrophysical project|2
+2009cfdd.confE..66B|Becker, W|Pulsars in X-rays|0
+2009cxo..prop.2918R|Rykoff, E|The X-Ray, SZ, and Optical Scaling Relations of Massive Galaxy Clusters|0
+2009mavo.proc...53V|Vignali, C;Fiore, F;Comastri, A;Brusa, M;Gilli, R;Cappelluti, N;Civano, F;Zamorani, G|Multi-wavelength data handling in current and future surveys: the possible role of Virtual Observatory|1
+2009xmm..prop..128R|Reiprich, T|X-Ray Luminosity--Mass Relation and AGN Feedback in Galaxy Groups|0
+2009xmm..prop..179F|Finoguenov, A|XMM guided survey of the CFHTLS: a Milestone for X-ray Cluster Cosmology|0
+2008HEAD...10.3607O|O'Dell, S;Ramsey, B;Adams, M;Areviev, V;Brandt, W;Buntov, M;Elsner, R;Grigorovich, S;Gubarev, M;Hasinger, G;Lapshov, I;Litvin, D;Meidinger, N;Pavlinsky, M;Predehl, P;Revnivtsev, M;Romaine, S;Sazonov, S;Semena, N;Swartz, D;Tkachenko, A;Urry, C;Vikhlinin, A;Weisskopf, M|ART: Surveying the Local Universe at 2-11 keV|0
+2008IAUS..252..343L|Lu, Y;Huang, Y;Zhang, S;Lu, P|Tidal disruption of stripped red giants by massive black holes|1
+2008SPIE.7011E..0HP|Pavlinsky, M;Sunyaev, R;Churazov, E;Gilfanov, M;Vikhlinin, A;Hasinger, G;Predehl, P;Mitsuda, K;Kelley, R;McCammon, D;Ohashi, T;den Herder, J;Ramsey, B;Gubarev, M;O'Dell, S;Fujimoto, R|Spectrum-Roentgen-Gamma astrophysical mission|6
+2008SPIE.7011E..0JM|Meidinger, N;Andritschke, R;Elbs, J;Halker, O;Hartmann, R;Hasinger, G;Herrmann, S;Holl, P;Kimmel, N;Muller, S;Predehl, P;Schachner, G;Soltau, H;Struder, L;Tiedemann, L|eROSITA camera design and first performance measurements with CCDs|3
+2008SPIE.7011E..0KD|den Herder, J;Kelley, R;McCammon, D;Mitsuda, K;Aarts, H;van Baren, C;Buntov, M;Churazov, E;Costantini, E;Cottam, J;Dubbeldam, L;Ezoe, Y;Friedrichs, P;Fujimoto, R;Gilvanov, M;Ishisaki, Y;Kaastra, J;Kilbourne, C;Kuntz, K;Mushotzky, R;Murakami, M;Nakagawa, T;Ohashi, T;Pavlinsky, M;Petre, R;Porter, F;Predehl, P;Sato, Y;Semena, N;Shinozaki, K;Smith, R;Snowden, S;Sunyaev, R;Sugita, H;Takei, Y;Tkachenko, A;Vink, J;de Vries, C;White, N;Yamasaki, N;Zwart, F|The Spektr-RG x-ray calorimeter|1
+2008SPIE.7011E..0LA|Arefiev, V;Pavlinsky, M;Lapshov, I;Tkachenko, A;Sazonov, S;Revnivtsev, M;Semena, N;Buntov, M;Vikhlinin, A;Gubarev, M;O'Dell, S;Ramsey, B;Romaine, S;Swartz, D;Weisskopf, M;Hasinger, G;Predehl, P;Grigorovich, S;Litvin, D;Meidinger, N;Struder, L|ART-XC: a medium-energy x-ray telescope system for the Spectrum-R-Gamma mission|1
+2008SPIE.7011E..17F|Freyberg, M;Budau, B;Burkert, W;Friedrich, P;Hartner, G;Misaki, K;Muhlegger, M|New technology and techniques for x-ray mirror calibration at PANTER|1
+2008SPIE.7011E..18Z|Zocchi, F;Vernani, D|Ray-tracing of shape metrology data of grazing incidence x-ray astronomy mirrors|0
+2008SPIE.7011E..2TF|Friedrich, P;Brauninger, H;Budau, B;Burkert, W;Eder, J;Freyberg, M;Hartner, G;Muhlegger, M;Predehl, P;Erhard, M;Gutruf, S;Jugler, D;Kampf, D;Borghi, G;Citterio, O;Rossi, M;Valsecchi, G;Vernani, D;Zimmermann, M|Design and development of the eROSITA x-ray mirrors|10
+2008SPIE.7011E..2ZM|Misaki, K;Freyberg, M;Friedrich, P;Burkert, W;Hartner, G;Budau, B|X-ray characterization of eROSITA mirror shells using out-of-focus images|1
+2008SPIE.7011E..3YF|Furmetz, M;Pfeffermann, E;Predehl, P;Rohe, C;Tiedemann, L|The cooling concept of the x-ray telescope eROSITA|1
+2007AIPC..880..631B|Balint, T|NASA'S RPS Design Reference Mission Set for Solar System Exploration|0
+2007SPIE.6686E..0HM|Meidinger, N;Andritschke, R;Halker, O;Hartmann, R;Hasinger, G;Herrmann, S;Holl, P;Kimmel, N;Pfeffermann, E;Predehl, P;Reich, C;Schachner, G;Soltau, H;Struder, L|Fast large-area spectroscopic and imaging CCD detectors for x-ray astronomy with eROSITA and for exploration of the nanocosmos|1
+2007SPIE.6686E..17P|Predehl, P;Andritschke, R;Bornemann, W;Brauninger, H;Briel, U;Brunner, H;Burkert, W;Dennerl, K;Eder, J;Freyberg, M;Friedrich, P;Furmetz, M;Hartmann, R;Hartner, G;Hasinger, G;Herrmann, S;Holl, P;Huber, H;Kendziorra, E;Kink, W;Meidinger, N;Muller, S;Pavlinsky, M;Pfeffermann, E;Rohe, C;Santangelo, A;Schmitt, J;Schwope, A;Steinmetz, M;Struder, L;Sunyaev, R;Tiedemann, L;Vongehr, M;Wilms, J;Erhard, M;Gutruf, S;Jugler, D;Kampf, D;Graue, R;Citterio, O;Valsecci, G;Vernani, D;Zimmerman, M|eROSITA|32
+2007SPIE.6688E..0LP|Pavlinsky, M;Arefiev, V;Churazov, E;Gilfanov, M;Grigorovich, S;Litvin, D;Lapshov, I;Levin, V;Akimov, V;Semena, N;Tkachenko, A;Vikhlinin, A;Sunyaev, R;Ramsey, B;Gubarev, M;Elsner, R;O'Dell, S;Weisskopf, M|Hard x-ray telescope concentrator for astrophysical mission Spectrum-X-Gamma|0
+2007jena.confE..36P|Parmar, A|X- and Gamma-ray Astronomy in Europe|0
+2006AIPC..813..155A|Abelson, R;Spilker, T;Shirley, J|A Saturn Ring Observer Mission Using Multi-Mission Radioisotope Power Systems|1
+2006IAUJD...2E..48B|Becker, W|Future optical and X-ray observatories for pulsar studies|0
+2006SPIE.6266E..0OP|Pavlinsky, M;Hasinger, G;Parmar, A;Fraser, G;Churazov, E;Gilfanov, M;Sunyaev, R;Vikhlinin, A;Predehl, P;Piro, L;Arefiev, V;Tkachenko, A;Pinchuk, V;Gorobets, D|Spectrum-RG/eROSITA/Lobster astrophysical mission|4
+2006SPIE.6266E..0PP|Predehl, P;Hasinger, G;Bohringer, H;Briel, U;Brunner, H;Churazov, E;Freyberg, M;Friedrich, P;Kendziorra, E;Lutz, D;Meidinger, N;Pavlinsky, M;Pfeffermann, E;Santangelo, A;Schmitt, J;Schuecker, P;Schwope, A;Steinmetz, M;Struder, L;Sunyaev, R;Wilms, J|eROSITA|23
+2006SPIE.6266E.103F|Freyberg, M;Budau, B;Burkert, W;Hartner, G;Hasinger, G;Collon, M;Kraft, S;Beijersbergen, M;Bavdaz, M;Lumb, D;Wallace, K;Kampf, D|Potential of the PANTER x-ray test facility for calibration of instrumentation for XEUS|3
+2006SPIE.6276E..18M|Meidinger, N;Andritschke, R;Halker, O;Hartmann, R;Hartner, G;Hasinger, G;Herrmann, S;Holl, P;Hyde, E;Kimmel, N;Pfeffermann, E;Predehl, P;Soltau, H;Struder, L|Systematic testing and results of x-ray CCDs developed for eROSITA and other applications|1
+2005AGUFM.P51C0941B|Balint, T;Shirley, J;Schriener, T|A Rover Concept for Exploring the Surface of Titan|0
+2005AGUFM.P54A..01M|Misra, A|Development of Advanced Radioisotope Power Systems for NASA's Future Science Missions|0
+2005pmbh.confE..24M|Muno, M|Evidence for a Swarm of Black Holes Near Srg A*|0
+2004AIPC..699..432T|Thieme, L;Schreiber, J|Advanced Technology Development for Stirling Convertors|1
+2004AIPC..699..821B|Bowman, R;Ritzert, F;Freedman, M|Evaluation of Candidate Materials for a High-Temperature Stirling Convertor Heater Head|0
+2004AIPC..727...61M|McBreen, S;Moran, L;McBreen, B;Hanlon, L;French, J;Conway, M|Similarities in the Temporal Properties of Gamma-Ray Bursts and Soft Gamma-Ray Repeaters|4
+2003AIPC..654..613T|Thieme, L;Schreiber, J|NASA GRC Stirling Technology Development Overview|1
+2003AIPC..654..648S|Shah, A;Schreiber, J;Zampino, E;Best, T|Reliability Assessment Approach for Stirling Convertors and Generators|0
+2002AIPC..608..857S|Schreiber, J;Skupinski, R|Accomplishments in free-piston stirling tests at NASA GRC|0
+2002AIPC..608..872T|Thieme, L;Schreiber, J;Mason, L|Stirling technology development at NASA GRC|0
+2002AIPC..608..888S|Suarez, V;Goodnight, T;Hughes, W;Samorezov, S|Impact testing of a Stirling convertor's linear alternator|0
+2002AIPC..608..898Q|Qiu, S;Peterson, A;White, M;Faultersack, F;Redinger, D;Petersen, S|Stirling convertor performance mapping test results|0
+2002AIPC..608..912Q|Qiu, S;Augenblick, J;White, M;Peterson, A;Redinger, D;Petersen, S|Developing a Free-Piston Stirling Convertor for advanced radioisotope space power systems|0
+2002AIPC..608..918G|Goodnight, T;Suarez, V;Hughes, W;Samorezov, S|Effect of structural mount dynamics on a pair of operating Stirling Convertors|0
+2002nmgm.meet.1038K|Kummer, W|D Quantum Gravity with Torsion, Dilaton Theory and Black Hole Formation|0
+2002nmgm.meet.1521K|Kummer, W;Vassilevich, D|Hawking Radiation and Hawking Flux from Spherical Reduction|0
+2000SPIE.4140..549W|Wiebicke, H;Halm, I;Christensen, F|SODART-OXS experiment simulation|1
+1999SPIE.3766..184H|Hussain, A;Christensen, F;Jimenez-Garate, M;Craig, W;Hailey, C;Decker, T;Stern, M;Windt, D;Mao, P;Harrison, F;Pareschi, G;del Rio, M;Souvorov, A;Freund, A;Tucoulou, R;Madsen, A;Mammen, C|X-ray scatter measurements from thermally slumped thin glass substrates for the HEFT hard x-ray telescopes|3
+1998SPIE.3444..668C|Christensen, F;Frederiksen, P;Polny, J;Rasmussen, I;Wiebicke, H;Terekhov, O;Borozdin, K;Litvinova, T;Sysoev, V;Kremnev, R;Aleksashkin, S;Stekolchikov, O|SODART optical block of the SRG satellite: design and integration|0
+1998SPIE.3445..132H|Halm, I;Wiebicke, H;Christensen, F;Frederiksen, P;Rasmussen, I|Calibration and modeling of the SODART-OXS Bragg spectrometer on board the SRG satellite|0
+1997ESASP.382..503S|Shlyapnikov, A;Guziy, S|Creation of the Space Research Group in Nikolaev|1
+1997SPIE.3113..307W|Wiebicke, H;Halm, I;Christensen, F;Westergaard, N;Abdali, S|Response function of the SODART-OXS Bragg spectrometer on board the SRG satellite|0
+1997SPIE.3113..349P|Polny, J;Westergaard, N;Christensen, F;Noergaard-Nielsen, H;Schnopper, H|Production, assembly, and alignment of the XSPECT mirror modules for the SODART x-ray telescope on the Spectrum Roentgen Gamma satellite|2
+1996SPIE.2805..336H|Hussain, A;Joensen, K;Hoeghoej, P;Christensen, F;Louis, E;Voorma, H;Soong, Y;White, N;Anderson, I|Deposition and characterization of multilayers on thin foil x-ray mirrors for high-throughput x-ray telescopes|0
+1996SPIE.2806..297S|Schnopper, H;Budtz-Joergensen, C;Westergaard, N;Hornstrup, A;Kamarainen, V;Huovelin, J;Vilhu, O;Costa, E;Piro, L;Frontera, F;Manzo, G;Giarrusso, S;Castro-Tirado, A;Reglero, V;Svensson, R;Fabian, A;Zdziarski, A;Morawski, M;Jahoda, K;Sunyaev, R;Pavlinsky, M|Joint European x-ray monitor (JEM-X): x-ray monitor for ESA's INTEGRAL mission|3
+1996cduc.conf..247B|Brosch, N|The TAUVEX UV imager and its contribution to the study of dust.|0
+1994ASPC...61..387H|Hornstrup, A;Westergaard, N;Conroy, M;Orszak, J|PROS Support for PSPCs on the SRG mission|0
+1994SPIE.2279..412S|Schnopper, H|SODART telescopes on the Spectrum X-Gamma (SRG) and their complement of instruments|1
+1994SPIE.2279..469B|Brosch, N;Shemi, A;Netzer, H;Blasberger, A;Topaz, J|TAUVEX UV imager on the SRG|7
+1994SPIE.2279..511C|Christensen, F;Westergaard, N;Rasmussen, I;Schnopper, H;Wiebicke, H;Halm, I;Geppert, U;Borozdin, K|Objective Crystal Spectrometer on the SRG satellite|0
+1994SPIE.2279..517B|Budtz-Joergensen, C;Bahnsen, A;Madsen, M;Olesen, C;Jonasson, P;Schnopper, H|High-Energy/Low-Energy Proportional Counter (HEPC/LEPC) detector systems on the SRG|2
+1994SPIE.2279..526W|Westergaard, N;Polny, J;Christensen, F;Norgaard-Nielsen, H;Schnopper, H|XSPECT telescopes on the SRG: optical performance|0
+1993SPIE.1764...94T|Topaz, J;Braun, O;Brosch, N|TAUVEX - UV Space Telescope|2
+1993SPIE.1971..212T|Topaz, J;Braun, O;Brosch, N|TAUVEX UV astronomical telescope|3
+1993SPIE.1971..227W|Weiss, O;Stavitsky, D|Design of lightweight primary mirror for the TAUVEX telescope|0
+1993SPIE.1998...95B|Blasberger, A;Levi, M|Thermal design of the TAUVEX astronomical space telescope|1
+1993aero.reptR....C|Chang, I|Propellant stress relief groove for the Titan 4 SRMU|0
+1993uxrs.conf..483S|Schnopper, H;Budtz-Jorgensen, C;Christensen, F;Mewe, R;Norgaard-Nielsen, H;Westergaard, N|X-ray spectroscopy with the XSPECT/SODART telescopes on SRG.|1
+1992SPIE.1546...53C|Christensen, F;Byrnak, B;Hornstrup, A;Zhu, S;Westergaard, N;Schnopper, H;Jalota, L|X-ray scattering measurements from thin foil X-ray mirrors|0
+1989ESASP.296..263A|Atteia, J;Barat, C;Chernenko, A;Dolidze, V;Dyatchkov, A;Jourdain, E;Khariukova, S;Khavenson, N;Kozlenkov, A;Kucherova, R;Mitrofanov, I;Moskaleva, L;Niel, M;Pozanenko, A;Scheglov, O;Surkov, Y;Vedrenne, G;Vilchinskaya, A|The Soft Gamma-Ray Bursts Detected with the Apex Experiment Evidence for a Persistent Sgr-Like Activity|0

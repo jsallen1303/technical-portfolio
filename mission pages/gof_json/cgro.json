@@ -1,0 +1,70 @@
+{
+    "title": "The Compton Gamma Ray Observatory",
+    "name": "Compton Gamma Ray Observatory (CGRO)",
+    "alttext": "Deployment of CGRO from the space shuttle",
+    "imagesize": 88,
+    "imageurl": "/Images/cgro_small.gif",
+    "descript": "<p><b><font size=\"+2\">T</font>he Compton Gamma Ray Observatory (CGRO)</b> was launched on April 5, 1991. The second of NASA&rsquo;s great observatories, CGRO has four instruments that cover an unprecedented six orders of magnitude in energy, from 30 keV to 30 GeV. Over this energy range CGRO has an improved sensitivity over previous missions of a full order of magnitude. It operated for almost 9 years and the mission ended on June 4 2000. Unlikely most satellites, CGRO was too large to burn up entirely in the atmosphere during re-entry. To ensure safety on the Earth&rsquo;s surface, NASA redirected the spacecraft into Earth&rsquo;s atmosphere with a controlled re-entry.</p>\n\n<p>The Observatory was named in honor of Dr. Arthur Holly Compton, who won the Nobel prize in physics for work on scattering of high-energy photons by electrons &mdash; a process which is central to the gamma-ray detection techniques of all four instruments.</p>",
+    "decade" : 1990,
+    "gofsidebar" : "Past",
+    "lifetime": "5 Apr 1991&ndash;4 Jun 2000",
+    "features": [
+	"First &ldquo;Great Observatory&rdquo; at gamma-ray wavelengths"
+    ],
+    "instruments": [
+	{
+	    "name" : "Burst and Transient Source Experiment (BATSE)",
+	    "energy" : "20&ndash;1000 keV",
+	    "resolution" : "3&deg; (strong burst)",
+	    "fov" : "4&pi; sr (all-sky, minus Earth-occulted portion)",
+	    "temporal_resolution" : "few milliseconds for burst events",
+	    "area" : "1000 cm<sup>2</sup> at 0.03 MeV<br>550 cm<sup>2</sup> at 0.66 MeV (each)",
+	    "energy_resolution" : "32% at 0.06 MeV, 20% at 0.66 MeV (LAS)<br>8.2% at 0.09 MeV, 5.8% at 1.17 MeV (SD)",
+	    "descript" : "8 BATSE detectors mounted on each corner of the satellite, providing all-sky coverage to detect and locate gamma-ray bursts events and monitor transient and variable sources.  Each BATSE detector module contained a Large Area Detector (LAD) which was made of a 50.8 cm diameter &times; 1.27 cm thick NaI(Tl) disk, and a Spectrocscopy Detector (SD) with a smaller NaI crystal with CsI backing for higher spectral resolution and extended energy range. Each individual detector would see roughly 2&pi; sterdians. Relative count rate differences between detectors was used to triangulate on sources." 
+	},
+	{
+	    "name" : "Oriented Scintillation Spectrometer Experiment (OSSE)",
+	    "energy" : "0.05&ndash;10 MeV",
+	    "resolution" : "10&prime; square error box",
+	    "fov" : "3.8&deg; &times; 11.4&deg; FWHM",
+	    "area" : "2013 cm<sup>2</sup> at 0.2 MeV<br>569 cm<sup>2</sup> at 5.0 MeV",
+	    "energy_resolution" : "12% at 0.2 MeV<br>4.0% at 5.0 MeV",
+	    "descript" : "The instrument used four large phoswich detectors (front NaI(Tl) scintillators optically coupled to rear CsI(Na) scintillators) read out by photomultiplier tubes. The phoswich configuration let the electronics discriminate events in the front crystal (gamma rays) from background or charged-particle events interacting in the rear crystal by pulse-shape differences."
+	},
+	{
+	    "name" : "Compton Telescope (COMPTEL)",
+	    "energy" : "0.8&ndash;30 MeV",
+	    "resolution" : "0.5&ndash;1.0&deg; (90% confidence w/ 0.2 Crab spectrum)",
+	    "fov" : "1 steridan imaging capability",
+	    "area" : "25.8 cm<sup>2</sup> at 1.27 MeV<br>29.4 cm<sup>2</sup> at 4.43 MeV" ,
+	    "energy_resolution" : "8.8% at 1.27 MeV<br>6.3% at 4.43 MeV",
+	    "descript" : "COMPTEL performed gamma-ray imagery and spectroscopy in the medium-energy range between OSSE and EGRET. It was a two layer Compton telescope in which the upper detector layer made of a 7&times7 array of &sim;28 cm deep liquid scintillator modules, and the lower layer consisted of a 14&times;14 array of &sim;7.5 cm thick NaI(Tl) crystals space about 1.5 m apart from the upper layer. An incident gamma ray would Compton scatter off an electron in the upper layer, and recording the energy of the electron and less energetic scattered photon allowed reconstruction of the original gamma ray energy and the cosine of its incident angle. Multiple events from the same source allowed direction to be determined by the overlap of each of the cosine-defined cones."
+	},
+	{
+	    "name" : "Energetic Gamma Ray Experiment Telescope (EGRET)",
+	    "energy" : "30 MeV &ndash; 10 GeV",
+	    "resolution" : "5-10&prime; (1 s radius; 0.2 Crab spectrum)",
+	    "fov" : "&sim;0.6 sr",
+	    "area" : "1200 cm<sup>2</sup> at 100 MeV<br>1400 cm<sup>2</sup> at 3000 MeV",
+	    "energy_resolution" : "&sim;20% at 100&ndash;2000 MeV",
+	    "descript" : "EGRET was a pair-conversion telescope designed to detect gamma rays by converting them into electron-positron pairs with the 28 layers tantalun conversion foils. Interleaved wire spark-chamber planes measured track direction (with time-of-flight discrimation to select only downward travelling events), and absorbed by a NaI(Tl) total absorption calorimeter to measure their combined energy. It was equipped with an anti-coincidence scintillator dome to veto charged-particle events"
+	}
+    ],
+    "highlights": [
+	"Discovery of an isotropic distribution of the gamma-ray burst events",
+	"Mapping the Milky Way using the <sup>26</sup>Al gamma-ray line",
+	"Discovery of Blazar Active Galactic Nuclei as primary source of the highest energy cosmic gamma-rays",
+	"Discovery of the &ldquo;Bursting Pulsar&rdquo;"
+    ],
+    "archive": "The HEASARC hosts catalogs and raw data from each of the instruments, as well as supporting software for analysis",
+    "navigation": [
+	{
+	    "url" : "https://heasarc.gsfc.nasa.gov/docs/cgro/",
+	    "text" : "Compton Observatory Science Support Center"
+	},
+	{
+	    "url" : "https://heasarc.gsfc.nasa.gov/docs/cgro/cgro/",
+	    "text" : "More about CGRO"
+	}
+    ]
+}

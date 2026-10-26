@@ -1,0 +1,64 @@
+2011AAS...21730503S|Siegmund, O|MCP Based UV Detectors, Their Evolution Through Many Astrophysics Missions and Their Future Scientific Applications|0
+2007eua..book.....B|Barstow, M;Holberg, J|Extreme Ultraviolet Astronomy|3
+2003eua..book.....B|Barstow, M;Holberg, J|Extreme Ultraviolet Astronomy|0
+2000S&T...100V..30M|McDowell, J|Alexis|0
+2000eaa..bookE4520.||Alexis (Array of Low Energy X-ray Imaging Sensors)|0
+1999SPIE.3765..312R|Roussel-Dupre, D;Bloch, J;Johnson, E;Theiler, J|ALEXIS: the six-year telescope flight experience|0
+1999SPIE.3765..329S|Starin, S;Roussel-Dupre, D;Bloch, J|Flight performance of UV filters on the ALEXIS satellite|0
+1998AAS...192.4311B|Barthelmy, S;Butterworth, P;Cline, T;Gehrels, N|Current Status and New Developments with the GRB Coordinates Network (GCN)|2
+1998AIPC..428...99B|Barthelmy, S;Butterworth, P;Cline, T;Gehrels, N;Marshall, F;Takeshima, T;Connaughton, V;Kippen, R;Kouveliotou, C;Robinson, C|The GRB coordinates network (GCN): A status report|46
+1998ASPC..154.1484G|Gagne, M;Valenti, J;Johns-Krull, C;Linsky, J;Brown, A;Gudel, M|Coordinated VLA, Optical, EUVE, and RXTE Monitoring of Flares on EQ Pegasi and AU Microscopii|10
+1998IAUS..179..144R|Roussel-Dupre, D;Pfafman, T;Bloch, J;Theiler, J|EUV Sources and Transients Detected by the ALEXIS Satellite|0
+1998SPIE.3445..397S|Siegmund, O;Zaninovich, J;Tremsin, A;Hull, J|Cross-strip anodes for microchannel plate imaging detectors|1
+1998nasa.reptV....S|Stern, R|Cool Star Binaries with ALEXIS|0
+1998nasa.reptW....S|Stern, R|An Investigation of the Largest Flares in Active Cool Star Binaries with ALEXIS|0
+1997AAS...191.5002B|Bloch, J;Fletcher, S;Roussel-Dupre, D|Constraints on the Cosmic EUV Background using ALEXIS|0
+1997ASPC..125..151T|Theiler, J;Bloch, J|Heuristic Estimates of Weighted Binomial Statistics for Use in Detecting Rare Point Source Transients|2
+1997euve.prop...55R|Roussel-Dupre, D|The ALEXIS Experiment: A Wide Area EUV Transient Monitor|0
+1996AAS...188.4302B|Bloch, J;Pfafman, T;Edwards, B;Smith, B|ALEXIS Measurements of The Diffuse EUV Background: an Update|0
+1996AAS...188.7604R|Roussel-Dupre, D;Pfafman, T;Bloch, J;Theiler, J|EUV Sources and Transients Detected by the ALEXIS Satellite|0
+1996AAS...189.4413C|Cully, S;Stern, R;Bloch, J;Rodriguez-Bell, T;Siegmund, O|ALEXIS Observations of Flaring Activity on Late Type Stars|0
+1996AIPC..383..193R|Roussel-Dupre, D;Bloch, J|The anomalous background observed by the ALEXIS telescopes|0
+1996ASPC..101..112R|Roussel-Dupre, D;Bloch, J;Theiler, J;Pfafman, T;Beauchesne, B|Detecting EUV Transients in Near Real Time with ALEXIS|3
+1996ASSL..208..257R|Roussel-Dupre, D;Bloch, J|The transient EUV sky as observed by ALEXIS|2
+1996BAAS...28R.952R|Roussel-Dupre, D;Pfafman, T;Bloch, J;Theiler, J|EUV sources and transients detected by the ALEXIS satellite.|0
+1996aeu..conf....7B|Block, J|EUV Astrophysics with ALEXIS: The Wide View|0
+1996aeu..conf..283S|Smith, B;Pfafman, T;Bloch, J;Edwards, B|ALEXIS Observations of the Diffuse Cosmic Background in the Extreme Ultraviolet|0
+1996aeu..conf..465E|Edwards, B;Bloch, J;Roussel-Dupre, D;Pfafman, T;Ryan, S|ALEXIS Lunar Observations|0
+1996aeu..conf..485R|Roussel-Dupre, D;Bloch, J;Ryan, S;Edwards, B;Pfafman, T;Ramsey, K;Stem, S|The ALEXIS Point Source Detection Effort|0
+1996euve.prop...24B|Bloch, J|Location, Spectroscopy, and Time Behavior of EUV Transients Detected with ALEXIS|0
+1995AAN...208....1M|Mattei, J|Requests to Monitor VW HYDRI and SS CYGNI|0
+1995AAS...186.1002R|Roussel-Dupre, D;Bloch, J|The Transient EUV Sky as Observed by ALEXIS|0
+1995ASPC...77..203B|Bloch, J;Theiler, J|Proposed FITS Keywords and Column Headers for ALEXIS Mission Data Files|0
+1995euve.prop...30B|Bloch, J|Location, Spectroscopy, and Time Behavior of EUV Transients Detected with ALEXIS|0
+1994SPIE.2267...76R|Roussel-Dupre, D;Bloch, J;Ciskowski, D;Dingler, R;Little, C;Kennison, M;Priedhorsky, W;Ryan, S;Warner, R|On-orbit science in a small package: managing the ALEXIS satellite and experiments|0
+1994SPIE.2280..297B|Bloch, J;Edwards, B;Priedhorsky, W;Roussel-Dupre, D;Smith, B;Siegmund, O;Carone, T;Cully, S;Rodriguez-Bell, T;Warren, J;Vallerga, J|On-orbit performance of the ALEXIS EUV telescopes|7
+1994STIN...9432813B|Bloch, J;Armstrong, T;Dingler, B;Enemark, D;Holden, D;Little, C;Munson, C;Priedhorsky, B;Roussel-Dupre, D;Smith, B|The ALEXIS mission recovery|0
+1994euve.prop...95B|Bloch, J|Location and Spectroscopy of Bright Transients of Unknown Origin Detected by ALEXIS|0
+1994iue..prop.4749A|Ayres, T|Coronal Topology|0
+1993AAS...182.7104P|Priedhorsky, W;Bloch, J;Edwards, B;Roussel-Dupre, D;Smith, B;Siegmund, O;Carone, T;Cully, S;Warren, J;Vallerga, J|Preliminary Results from the ALEXIS Ultrasoft X-ray Experiment|0
+1993AAS...18311310B|Bloch, J;Edwards, B;Priedhorsky, W;Roussel-Dupre, D;Smith, B;Siegmund, O;Carone, T;Cully, S;Rodriguez-Bell, T;Warren, J;Vallerga, J|The ALEXIS Project: EUV Astrophysics on a Rollercoaster|0
+1993ASPC...52..243B|Bloch, J;Smith, B;Edwards, B|The ALEXIS Data Processing Package: an Update|3
+1993SPIE.1742..620R|Roussel-Dupre, D;Ameduri, F|Uniformity results of the multilayer mirrors used in the ALEXIS Ultrasoft X-ray Telescopes.|0
+1993SPIE.1742..621R|Roussel-Dupre, D;Ameduri, F|Uniformity results of the multilayer mirrors used in the ALEXIS ultrasoft x-ray telescopes|1
+1993SPIE.2006..114P|Priedhorsky, W;Bloch, J;Holden, D;Roussel-Dupre, D;Smith, B;Dingler, R;Warner, R;Huffman, G;Miller, R;Dill, B;Fleeter, R|ALEXIS small satellite project: initial flight results|2
+1993aisr.work.....C|Chakrabarti, S;Jernigan, J;Marshall, H|Development of a tool-set for simultaneous, multi-site observations of astronomical objects|0
+1993iue..prop.4481A|Ayres, T|Coronal Topology|0
+1993ssss.rept..639M|Martel, F;Fleeter, R|ALEXIS and HETE: Two small, low cost, scientific satellite systems|0
+1992ASPC...25..502B|Bloch, J;Smith, B;Edwards, B|The ALEXIS Data Processing Package:l an IDL-Based System|2
+1992S&T....83T.612.||ALEXIS Grounded - Array of Low Energy X-Ray Imaging Sensors|0
+1992SPIE.1743...83B|Bloch, J;Priedhorsky, W;Roussel-Dupre, D;Edwards, B;Smith, B|ALEXIS experiment: current status and performance|0
+1992SPIE.1743R....S|Siegmund, O|EUV, X-ray, and gamma-ray instrumentation for astronomy III. Proceedings.|0
+1992aisr.work.....C|Chakrabarti, S;Jernigan, J;Marshall, H|Development of a tool-set for simultaneous, multi-site observations of astronomical objects|0
+1991BAAS...23Q.905B|Bloch, J;Edwards, B;Priedhorsky, W;Roussel-Dupre', D;Smith, B;Siegmund, O;Carone, T;Vallerga, J;Culley, S;Warren, J;Marshall, H;Vedder, P|The ALEXIS Project: Current Status and Performance|0
+1991BAAS...23R.832B|Bloch, J;Priedhorsky, W;Smith, B;Carone, T;Siegmund, O|The ALEXIS Guest Investigator Program|0
+1991S&T....82V.239.||New X-Ray Satellites / Solar-A and ALEXIS|0
+1991eua..coll..298B|Bloch, J;Smith, B|The ALEXIS Project and the Local Interstellar Medium|1
+1991eua..coll..464P|Priedhorsky, W;Bloch, J;Cordova, F;Smith, B;Ulibarri, M;Siegmund, O;Marshall, H;Vallerga, J;Vedder, P|ALEXIS - a Narrowband Survey / Monitor of the Ultrasoft X-Ray Sky|6
+1990SPIE.1344..346S|Siegmund, O;Cully, S;Gaines, G;Priedhorsky, W;Bloch, J;Warren, J|Highly curved microchannel plates|4
+1990hrxr.conf..160B|Bloch, J;Priedhorsky, W;Smith, B|Fe VIII, IX, and X line emission from the soft X-ray background - Previous limits and a future measurement|4
+1989BAAS...21Q1076B|Bloch, J;Priedhorsky, W;Roussel-Dupre, D;Smith, B|Design, Performance, and Calibration of the ALEXIS Ultrasoft X-ray Telescopes|0
+1989SPIE.1160.....H|Hoover, R|X-Ray/EUV Optics for Astronomy and Microscopy|4
+1989SPIE.1160..171S|Smith, B;Bloch, J;Roussel-Dupre, D|Metal multilayer mirrors for EUV wide field telescopes.|2
+1989euva.coll.....P|Priedhorsky, W;Bloch, J;Cordova, F;Smith, B;Ulibarri, M;Chavez, J;Evans, E;Seigmund, O;Marshall, H;Vallerga, J|ALEXIS: A narrow-band survey/monitor of the ultrasoft X-ray sky|0
+1988SPIE..982..188P|Priedhorsky, W;Bloch, J;Smith, B;Strobel, K;Ulibarri, M;Chavez, J;Evans, E;Siegmund, O;Marshall, H;Vallerga, J;Vedder, P|ALEXIS: an ultrasoft X-ray monitor experiment using miniature satellite technology.|6

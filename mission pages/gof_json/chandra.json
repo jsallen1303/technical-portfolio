@@ -1,0 +1,72 @@
+{
+    "title": "Chandra X-ray Observatory",
+    "name": "Chandra X-ray Observatory",
+    "alttext": "Artistic rendering of Chandra",
+    "imagesize": 173,
+    "imageurl": "/Images/misc_missions/axaf_sm.gif",
+    "descript": "<p><b><font size=\"+2\">T</font>he Chandra X-ray Observatory</b> (formerly the <b>Advanced X-ray Astronomy Facility (AXAF)</b>), named in honor of Subrahmanyan Chandrasekhar, was launched and deployed by the Space Shuttle Columbia on July 23, 1999. The combination of high resolution, large collecting area, and sensitivity to higher energy X-rays allows Chandra to study extremely faint sources, sometimes strongly absorbed, in crowded fields. Chandra was boosted into an elliptical high-earth orbit that allows long-duration uninterrupted exposures of celestial objects.</p>",
+    "decade" : 1990,
+    "gofsidebar" : "Active",
+    "lifetime": "23 Jul 1999 &mdash; present (nominal 5 year mission)",
+    "features": [
+	"64 hour highly eccentric Earth orbit, allowing up to 56 hour long continuous observation cycles",
+	"Very high (&lt;1&prime;) spatial resolution"
+    ],
+    "instrument_preamble" : "Single Wolter Type 1 grazing incidence iridium-coated imaging telescope with 10 m focal length. A set of four detectors can be inserted, one at a time, into the focal plane. Two of these were designed to be used primarily with the gratings.",
+    "instruments": [
+	{
+	    "name" : "Telescope",
+	    "fov" : "&sim;30&prime; (ghost free)",
+	    "area" : "800 cm<sup>2</sup> at 0.25 keV<br>400 cm<sup>2</sup> at 5 keV",
+	    "length" : "10.0 m",
+	    "descript" : "A single Wolter Type 1 grazing incidence iridium-coated imaging telescope with four detectors than can be inserted, one at a time, into the focal plane. Two of these were designed to be used primarily with the gratings."
+	},
+	{
+	    "name" : "AXAF CCD Imaging Spectrometer (ACIS)",
+	    "energy" : "0.2&ndash;10 keV",
+	    "fov" : "16&prime; &times; 16&prime; (ACIS-I)<br>8&prime; &times; 48&prime; (ACIS-S)",
+	    "energy_resolution" : "E/&Delta;E = 20&ndash;50 (FI)<br>9&ndash;35 (BI) at 1 and 6 keV",
+	    "area" : "340 cm<sup>2</sup> at 1&ndash;6 keV",
+	    "descript" : "Two CCD arrays with a total of 10 chips. 8 chips are Front Illuminated (FI) and 2 are Back Illuminated (BI). The ACIS-I (imaging) consists of four chips, all FI. The ACIS-S (spectroscopic array) contained 4 FI and 2 BI chips."
+	},
+	{
+	    "name" : "High Resolution Camera (HRC)",
+	    "energy" : "0.1&ndash;10 keV",
+	    "fov" : "&sim;30&prime; &times; 30&prime; (HRC-I)<br>7&prime; &times; 97&prime; (HRC-S)",
+	    "temporal_resolution" : "16 &micro;s",
+	    "area" : "225 cm<sup>2</sup> at 1 keV",
+	    "resolution" : "0.5&Prime;",
+	    "descript" : "Two  micro-channel plate detectors, HRC-I (optimized for imaging) and HRS-S (optimized for use with LETGS). HRC-I is a single 90 mm square detector; HRC-S is 20 &times; 300 mm rectangular detector "
+	},
+	{
+	    "name" : "High Energy Transmission Grating Spectrometer (HETGS)",
+	    "energy" : "0.5&ndash;10 keV",
+	    "energy_resolution" : "60&ndash;1000 E/&Delta;E;",
+	    "descript" : "The transmission grating could be inserted to be used in combination with one or the other of the spectroscopic detectors"
+	},
+	{
+	    "name" : "Low Energy Transmission Grating Spectrometer (LETGS)",
+	    "energy" : "0.08&ndash;6 keV",
+	    "energy_resolution" : "30&ndash;2000 E/&Delta;E;",
+	    "descript" : "The transmission grating could be inserted to be used in combination with one or the other of the spectroscopic detectors"
+	}
+    ],
+    "highlights": [
+	"First every look at X-ray wavelengths of the compact object at the core of Cas A",
+	"Resolved ring around central pulsar and jet structure",
+	"X-ray images of shock waves from SN 1987a",
+	"First X-ray emission lines from a Gamma Ray Burst (GRB 991216; &ldquo;Beethoven Burst&rdquo;)",
+	"Found nearly all main sequence starts are X-ray emitters"
+    ],
+    "archive": "The HEASARC hosts a copy of the Chandra archive and some catalogs",
+    "navigation": [
+	{
+	    "url" : "http://asc.harvard.edu",
+	    "text" : "Chandra Science Center (CSC)"
+	},
+	{
+	    "url" : "https://chandra.harvard.edu",
+	    "text" : "Chandra at Harvard"	    
+	}
+    ]
+}

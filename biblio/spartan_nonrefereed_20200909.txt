@@ -1,0 +1,6 @@
+1998AAS...192.3504M|Marshall, H;Murray, S;Silver, E;Schnopper, H;Weisskopf, M|A Polarimeter for Low Energy X-ray Astrophysical Sources (PLEXAS)|2
+1996AAS...188.8008G|Guhathakurta, M;Fisher, R;Strong, K|Temperature of Polar Coronal Rays and High Latitude Streamers from SPARTAN 201-03 WLC, MkIII K-Coronameter and YOHKOH SXT|0
+1993lock.rept.....B|Bruner, M|SPARTAN high resolution solar studies|0
+1990IAUS..139.....B|Bowyer, S;Leinert, C|The galactic and extragalactic background radiation|2
+1985aiaa.meetQ....C|Cruddace, R;Fritz, G;Shrewsberry, D|Space research and SPARTAN|0
+1985sao..reptS....G|Gorenstein, P|Research of advanced techniques for X-ray detectors and telescopes with applications to rockets and the LAMAR facility|0

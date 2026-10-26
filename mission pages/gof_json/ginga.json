@@ -1,0 +1,62 @@
+{
+    "title": "The Ginga Observatory",
+    "name": "The Ginga Satellite",
+    "gofheader" : "/docs/obsheader.html",
+    "alttext": "Photograph of Ginga in the clean room",
+    "imagesize": 188,
+    "imageurl": "/Images/ginga/ginga1_small2.gif",
+    "descript": "<p><b><font size=\"+2\">A</font>stro-C</b>, renamed <b>Ginga</b> (Japanese for &ldquo;galaxy&rdquo;), was launched from the Kagoshima Space Center on 5 February 1987. The primary instrument for observations was the Large Area Counter (LAC). Ginga was the third Japanese X-ray astronomy mission, following Hakucho and Tenma. Ginga reentered the Earth&rsquo;s atmosphere on 1 November 1991.</p>",
+    "decade" : 1980,
+    "gofsidebar" : "Past",
+    "lifetime": "5 Feb 1987&ndash;1 Nov 1992",
+    "features" : [
+	"The Ginga observing program was open to scientists from Japan, the UK, the USA, and a number of European countries."
+    ],
+    "instruments": [
+	{
+	    "name" : "Large Area Proportional Counter (LAC)",
+	    "energy" : "1.5 &ndash; 30 keV",
+	    "energy_resolution" : "&lt;20% at 5.9 keV (FWHM)",
+	    "area" : "4000 cm<sup>2</sup>",
+	    "fov" : "0.8&deg; &times; 1.7&deg; (FWHM)",
+	    "descript" : "The field of view was arranged with the longer side parallel to the spacecraft Z-axis, and was defined by honeycomb collimators made of thin stainless steel sheets. The counters were filled with a gas mixture of 70 percent argon, 25 percent xenon, and 5 percent carbon dioxide to a total pressure of 2 atmospheres at 20 degrees Celsius.</p>\n\n<p>Accepted X-ray events were pulse-height analyzed into a maximum of 48 pulse height channels. The time resolution was mode-dependent. The highest time resolution available was 0.98 milliseconds, achieved at the expense of spectral information. The detection limit for the LAC was approximately 0.1 milliCrab, or 2.4 &times; 10<sup>-12</sup> ergs/cm<sup>2</sup>/s in the range 2&ndash;10 keV."
+	},
+	{
+	    "name" : "All-Sky Monitor (ASM)",
+	    "energy" : "1&ndash;20 keV",
+	    "fov" : "1&deg; &times; 45&deg; (FWHM) each",
+	    "descript" : "The All-Sky Monitor (ASM) consisted of 2 identical gas proportional counter. Each counter was equipped with a collimator which had 3 different fields of view. The aim of the ASM was to create an all-sky survey every 1-2 days to look for transient events (to alert the LAC) and to collect a long-term record for X-ray sources."
+	},
+	{
+	    "name" : "Gamma Ray Burst Detector (GBD)",
+	    "energy" : "1.5&ndash;500 keV",
+	    "time_resolution" : "31.3 ms", 
+	    "area" : "60 cm<sup2</sup> (SC)<br>63 cm<sup>2</sup> (PC)",
+	    "fov" : "4&pi; sr (all-sky)",
+	    "descript" : "The purpose of the Gamma-Ray Burst Detector (GBD) was to detect gamma-ray bursts with high-energy resolution. It was comprised of two sensors: a proportional counter (PC) and a scintillation spectrometer (SC). The GBD could also operate as a radiation belt monitor for high particle backgrounds which could harm the other 2 experiments."
+	}
+    ],
+    "highlights": [
+	"Discovery of transient black hole candidates and study of their spectral evolution",
+	"Discovery of weak transients in the galactic ridge",
+	"Detection of cyclotron features in 3 X-ray pulsars: 4U1538-522, V0332+53, and Cep X-4",
+	"Evidence for emission and absorption Fe feature in Seyfert probing reprocessing by cold matter",
+	"Discovery of intense 6&ndash;7 keV iron line emission from the galactic center region"
+    ],
+    "archive": "The HEASARC hosts lightcurves, spectra, and raw data from the LAC experiments",
+    "navigation": [
+	{
+	    "url" : "/docs/ginga/ginga.html",
+	    "text" : "Ginga at HEASARC"
+	},
+	{
+	    "url" : "/docs/ginga/ginga_images.html",
+	    "text" : "Gallery"
+	},
+	{
+	    "url" : "/docs/ginga/bib/ginga_biblio.html",
+	    "text" : "Publications"
+	}
+    ],
+    "goffooter" : "/docs/ginga/ginga_footer.html"
+}

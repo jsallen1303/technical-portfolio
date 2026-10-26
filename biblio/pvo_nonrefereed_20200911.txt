@@ -1,0 +1,16 @@
+1993AAS...182.3302H|Hack, F;Hurley, K;Atteia, J;Barat, C;Niel, M;Cline, T;Dennis, B;Kouveliotou, C;Klebesadel, R;Laros, J;Kurt, V;Kuznetsov, A;Zenchenko, V|Precise Localizations of Gamma-Ray Bursts from the 2nd Interplanetary Network|0
+1993AAS...182.3303F|Fenimore, E;Epstein, R;Ho, C;Laros, J;Meier, M;Strohmayer, T;Pendleton, G;Fishman, G;Kouveliotou, C;Meegan, C|The Intrinsic Luminosity of Gamma Ray Burst from BATSE-PVO|0
+1993SPIE.2243..552B|Baumgart, C|Taxonomy of gamma ray burster data using a self-organizing neural network|0
+1992AAS...180.2307K|Kane, S;Hurley, K;McTiernan, J;Slocum, T;Laros, J;Fenimore, E;Klebsadel, R;Sommer, M;Yoshimuri, M;Ohki, K|Stereoscopic Observations of a Solar Hard X-Ray Flare with Ulysses, PVO, GRO and YOHKOH Spacecraft|1
+1992IAUC.5547....2H|Hurley, K;Sommer, M;Boer, M;Niel, M;Fishman, G;Kouveliotou, C;Meegan, C;Paciesas, W;Wilson, R;Fenimore, E;Cline, T|Gamma-Ray Bursts|0
+1992IAUC.5565....3C|Cline, T;Hurley, K;Sommer, M;Boer, M;Niel, M;Fishman, G;Kouveliotou, C;Meegan, C;Paciesas, W;Wilson, R;Fenimore, E;Klebesadel, R;Laros, J|Gamma-Ray Bursts|0
+1992grbo.book..257C|Chuang, K;White, R;Klebesadel, R;Laros, J|Possible new hard gamma-ray bursts of type "GB 90613".|0
+1991ucb..rept.....A|Anderson, K|Measurements of the spatial structure and directivity of 100 KeV photon sources in solar flares using PVO and ISEE-3 spacecraft|0
+1988RpScT...3...21K|Krymskiy, A|Stability of Venusian ionopause|0
+1987IAUS..125..477E|Evans, W;Laros, J|A Review of Gamma-Ray Burst Observations|0
+1985IAUC.4054....1L|Laros, J;Fenimore, E;Fikani, M;Klebesadel, R|GB 811016 and EXO 0748-676|1
+1983NASSP.461..253F|Fimmel, R;Colin, L;Burgess, E|Pioneer Venus|1
+1983aiaa.meetQ....D|Dyer, J;Fimmel, R;Colin, L;Dyal, P;Murphy, J|The continuing missions of Pioneer spacecraft|0
+1983pive.book.....F|Fimmel, R;Colin, L;Burgess, E;Mark, H;Guastaferro, A|Pioneer Venus.|0
+1979IAUC.3356....1E|Evans, D;Kiebesadel, R;Baros, J;Cline, T;Desai, U;Teegarden, B;Pizzichini, G;Hurley, K;Niel, M;Vedrenne, G;Estulin, I;Mazets, E|Gamma-ray Burst 79-03-05|14
+1976anah.iafcR....A|Anderson, J;Keesey, M;Lau, E;Standish, E;Newhall, X|Tests of general relativity using astrometric and radiometric observations of the planets|0

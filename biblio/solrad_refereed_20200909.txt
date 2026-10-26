@@ -1,0 +1,31 @@
+1994ApJ...426..716H|Haisch, B;Schmitt, J|ROSAT All-Sky Survey Observations of X-Ray Variability in Cool Giant Stars|21
+1994SoPh..152..207T|Tobiska, W|Modeled soft X-ray solar irradiances|15
+1991SoPh..133..371K|Kahler, S;Kreplin, R|The NRL SOLRAD X-ray detectors: A summary of the observations and a comparison with the SMS/GOES detectors|21
+1990ApJ...352..760W|Widing, K;Doyle, J|1973 September 7 Two-Ribbon Flare. II. Physical Properties of the Loops in the Arcade|15
+1987KFNT....3...49E|Eliseev, N;Nusinov, A|Variations of solar X-ray fluxes during active region evolution.|0
+1985SoPh...97..375K|Koomen, M;Sheeley, N;Howard, R;Michels, D|The Frequency of Long-Duration Solar X-Ray Events|6
+1984BAICz..35..158F|Farnik, F;Valnicek, B;Sylwester, B;Sylwester, J;Jakimiec, J|Comparison of energy calibration of Prognoz 5, 6, 7 and 8, and other hard X-ray solar photometers.|6
+1983ApJ...268..899W|Weller, C|SOLRAD 11 observations of the far-ultraviolet background|23
+1983SoPh...85..303H|Horan, D;Kreplin, R;Dere, P|Direct Measurements of the Gradual Extreme Ultraviolet Emission from Large Solar Flares|17
+1982ApJ...255..797H|Horan, D;Kreplin, R;Fritz, G|Direct measurements of impulsive extreme ultraviolet and hard X-ray solar flare emission|3
+1981Ap&SS..75....5K|Klebesadel, R;Evans, W;Laros, J|The LASL Gamma-Ray Burst Astronomy Program|5
+1981ApJ...246..386W|Weller, C;Meier, R|Characteristics of the helium component of the local interstellar medium|71
+1981SoPh...74..265H|Horan, D;Kreplin, R|Simultaneous Measurements of EUV and Soft X-Ray Solar Flare Emission|21
+1980JGR....85.4257H|Horan, D;Kreplin, R|Measurements of solar EUV and soft X ray emission during sudden frequency deviations|7
+1979A&A....72..171L|Landini, M;Monsignori Fossi, B|Models of temperature distribution in an X-ray solar flare.|6
+1979ApJ...227..645C|Cook, J;Brueckner, G|EUV continua of solar flares 1420 - 1960 Å.|38
+1979ApJ...229..772D|Dere, K;Cook, J|The decay of the 1973 August 9 flare.|105
+1979ApJ...232..903M|Machado, M;Emslie, A|A comparison of high-temperature flare models with observations and implications for the low-temperature flare.|34
+1979PhDT........10C|Clark, P|Correction, correlation, and theoretical consideration of lunar X-ray fluorescence intensity ratios|4
+1978SoPh...56..107K|Krieger, A|The decay of coronal loops brightened by flares and transients.|25
+1977ApJ...214..891K|Kahler, S|The morphological and statistical properties of solar X-ray events with long decay times.|173
+1977ApJ...217..976D|Dere, K;Horan, D;Kreplin, R|Structure and dynamics of a solar flare: X-ray and XUV observations.|33
+1977GeoRL...4..291N|Nolte, J;Davis, J;Gerassimenko, M;Lazarus, A;Sullivan, J|A comparison of solar wind streams and coronal structure near solar minimum|16
+1977Natur.267..131L|Laros, J;Evans, W;Klebesadel, R;Olson, R;Spalding, R|Preliminary results from SOLRAD 11 gamma-burst detectors|5
+1977SoPh...53..139B|Boehme, A;Fuerstenberg, F;Hildebrandt, J;Saal, O;Krueger, A;Hoyng, P;Stevens, G|A two-component model of impulsive microwave burst emission consistent with soft and hard X rays.|30
+1977SoPh...55..431W|Widing, K;Dere, K|Multiple loop activation and continuous energy release in the solar flare of June 15, 1973.|42
+1976SoPh...50..179K|Kahler, S;Petrasso, R;Kane, S|The quantitative properties of three soft X-ray flare kernels observed with the AS&amp;E X-ray telescope on Skylab.|28
+1975JGG....27...95S|Sato, T|Sudden f<SUB>min</SUB> enhancements and sudden cosmic noise absorptions associated with solar X-ray flares.|3
+1975SoPh...44..101L|Landini, M;Monsignori Fossi, B;Pallavicini, R|Thermal Models of Flaring Region Based on Observations by the SOLRAD 10 Satellite|4
+1974IJRSP...3..137D|Das Gupta, M;Mitra, R;Sarkar, S|Some studies on the nature of solar X-ray flares|0
+1974RaRLJ..21..311O|Ohshio, M|Solar X-ray flares and their corresponding sudden ionospheric disturbances|2

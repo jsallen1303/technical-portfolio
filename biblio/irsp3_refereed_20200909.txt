@@ -1,0 +1,4 @@
+1999ApJ...517..935Y|Yadav, J;Rao, A;Agrawal, P;Paul, B;Seetha, S;Kasturirangan, K|Different Types of X-Ray Bursts from GRS 1915+105 and Their Origin|58
+1998A&AS..128..145P|Paul, B;Agrawal, P;Rao, A;Vahia, M;Yadav, J;Marar, T;Seetha, S;Kasturirangan, K|X-ray variability of GRS 1915+105 during the low-hard state observed with the Indian X-ray astronomy experiment (IXAE)|13
+1998ApJ...492L..63P|Paul, B;Agrawal, P;Rao, A;Vahia, M;Yadav, J;Seetha, S;Kasturirangan, K|Quasi-regular X-Ray Bursts from GRS 1915+105 Observed with the IXAE: Possible Evidence for Matter Disappearing into the Event Horizon of the Black Hole|52
+1997A&A...320L..37P|Paul, B;Agrawal, P;Rao, A;Vahia, M;Yadav, J;Marar, T;Seetha, S;Kasturirangan, K|Rapid X-ray variability of the superluminal source GRS 1915+105.|29

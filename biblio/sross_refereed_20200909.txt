@@ -1,0 +1,5 @@
+1997A&A...322..778K|Kasturirangan, K;Padmini, V;Prasad, N;Rao, U;Seetha, S|Recent gamma-ray burst observations from the SROSS-C2 satellite.|5
+1995BASI...23..476P|Padmini, V;Kasturirangan, K;Rao, U;Seetha, S;Prasad, N|Preliminary results from the gamma ray burst experiment on board the SROSS - C2 satellite|0
+1995BASI...23..477P|Padmini, V;Kasturirangan, K;Rao, U;Seetha, S;Prasad, N|The radiation background measurement by the gamma ray burst experiment on SROSS - C2 satellite|0
+1994A&A...283..435K|Kasturirangan, K;Marar, T;Padmini, V;Prasad, N;Rao, U;Seetha, S|Observations from the gamma-ray burst experiment onboard the SROSS-C satellite.|2
+1994A&A...283..698M|Marar, T;Sharma, M;Seetha, S;Upadhyaya, N;Padmini, V;Umapathy, C;Prasad, N;Murthy, N;Sreenivasaiah, K;Kasturirangan, K|The gamma-ray burst experiment onboard the SROSS-C satellite|3

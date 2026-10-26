@@ -1,0 +1,66 @@
+{
+  "title": "HXMT",
+  "name": "HXMT - Insight",
+  "alttext": "Artistic impression of HXMT",
+  "imagesize": 300,
+  "imageurl": "/Images/hxmt/hxmt.jpg",
+  "descript": "The Hard X-ray Modulation Telescope (HXMT), also known as Insight, is a Chinese X-ray observatory launched on 15 June, 2017 aboard a Long March 4B rocket from the Jiuquan Satellite Launch Center. The mission provides high resolution imagery across a wide spectrum of X-ray energies.",
+      "decade": 2010,
+  "lifetime": "2017&ndash;",
+    "features":
+    [
+	"China&rsquo;s first dedicated X-ray astronomy mission",
+	"Combination of large field of view with wide-area coverage and good sensitivy by using modulation collimation"
+    ],
+    "instruments":
+    [
+	{
+	    "name" : "Low Energy (LE) instrument",
+	    "energy" : "1&ndash;12 keV",
+	    "resolution" : "1&prime;",
+	    "area" : "384 cm<sup>2</sup>",
+	    "fov" : "1.6&deg; &times; 6&deg;<br>4&deg; &times; 6&deg;<br>60&deg; &times; 6&deg;",
+	    "energy_resolution" : "140 eV at 5.9 keV (FWHM)",
+	    "temporal_resolution" : "0.98 ms",
+	    "descript" : "The LE contains three detector boxes with Swept Charge Devices (SCD) which work in a continuous read-out mode, in contrast to more traditional CCD detectors with fixed exposures times, giving it greater time resolution. Each box contains 30 fields-of-view: 21 with 1.6&deg; &times; 6&deg; (with one blocked for background measurements), 7 with 4&deg; &times; 6&deg; (with one block) and two with 50&ndash;60&deg; &times; 2&ndash;6&deg;. The three boxes are set 120 degrees apart from each other, so signals from each can reconstruct image information through demodulation."
+	},
+	{
+	    "name" : "Medium Energy (ME) instrument",
+	    "energy" : "5&ndash;30 keV",
+	    "resolution" : "1&prime;",
+	    "fov" : "1&deg; &times; 4&deg;<br>4&deg; &times; 4&deg;",
+	    "area" : "952 cm<sup>2</sup>",
+	    "energy_resolution" : "15% at 20 keV (FWHM)",
+	    "temporal_resolution" : "240 &micro;s",
+	    "descript" : "The ME uses 1728 Silicon-PIN diodes for detecting X-rays. The instrument is divided into three detector groups: the first has a 1&deg; &times; 4&deg; FOV, a second with 4&deg; &times; 4&deg; FOV for background measurement, and a third fully blocked module for assessing dark current noise contributions to any detected signal."
+	},
+	{
+	    "name" : "High Energy (HE) instrument",
+	    "energy" : "20&ndash;350 keV",
+	    "resolution" : "1&prime;",
+	    "fov" : "1.1&deg; &times; 5.7&deg;<br>5.7&deg; &times; 5.7&deg;",
+	    "area" : "5100 cm<sup>2</sup> (combined)",
+	    "temporal_resolution" : "4 &micro;s",
+	    "energy_resolution" : "&le;17% at 60 keV",
+	    "descript" : "The HE consists of two concentric rings of 18 total NaI/CsI phosphor sandwich (phoswich) scintillation detectors with collimators for 1.1&deg; &times; 5.7&deg; FOV in different orientations (save for two detectors, with wider fields for background monitoring, and one with a tantalum shield for monitoring dark current background). The HE instruments can perform simultaneous spectral, timing, and imaging operations ."
+	}
+    ],
+    "goals":
+    [
+	"Scan the Galactic Plane to find new transient sources and to monitor the known variable sources",
+	"Observe X-ray binaries to study the dynamics and emission mechanism in strong gravitational or magnetic fields",
+	"Find and study Gamma Ray Burst sources with its anti-coincidence detectors",
+	"Observe outburst events from black hole binaries"
+    ],
+  "archive": "",
+  "navigation": [
+    {
+      "url": "http://hxmten.ihep.ac.cn/",
+      "text": "HXMT at IHEP (China)"
+    },
+    {
+      "url": "biblio/hxmt_biblio.html",
+      "text": "Publications"
+    }
+  ]
+}

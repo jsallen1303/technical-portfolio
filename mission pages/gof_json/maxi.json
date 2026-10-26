@@ -1,0 +1,63 @@
+{
+    "title": "Monitor of All-sky X-ray Image (MAXI)",
+    "name": "Monitor of All-Sky X-ray Image (MAXI)",
+    "gofheader" : "/docs/maxi/inc/header.html",
+    "alttext": "MAXI in the clean room with all final covers installed",
+    "imagesize": 300,
+    "imageurl": "/Images/misc_missions/mihara1_fig10.jpg",
+    "descript": "<p><b><font size=\"+2\">T</font>he Monitor of All-sky X-ray Image (MAXI)</b> is the first experiment to be installed on the Japanese Experiment Module Exposed Facility (JEM-EF or Kibo-EF) on the International Space Station (ISS), and the first high energy astrophysical experiment placed on the space station. MAXI was launched with the Kibo Exposed Facility on the space shuttle <i>Endeavour</i> (STS-127) on July 15, 2009 and delivered to the ISS. MAXI started observations in August 2009 and was originally intended for a two year operations period, but has been extended several times to remain operational to the current time.",
+    "decade" : 2000,
+    "gofsidebar" : "Active",
+    "lifetime": "August 2009&ndash; present",
+    "features": [
+	"All sky survey over each ISS orbit",
+	"Rapid detection of transients and variable sources"
+    ],
+  "instruments": [
+      {
+	  "name": "Gas Slit Cameras (GSC)",
+	  "energy": "2&ndash;30 keV",
+	  "fov": "160&deg; &times; 1.5&deg;",
+	  "resolution": "1.5&deg; (FWHM PSF)<br>&lt;6&prime; position determination",
+	  "sensitivity": "10 mCrab (1 orbit); 1 mCrab (1 week) (5 &sigma;)",
+	  "energy_resolution": "18% at 5.9 keV",
+	  "temporal_resolution" : "120 &micro;s",
+	  "descript": "12 xenon-filled proportional gas counters with slit collimators give the GSC a 1.5&deg; x 160&deg; wide field of view in each of the horizontal and zenithal directions. Sees 2% of all-sky at an instant, 90&ndash;98% of the sky every orbit (roughly 96 minutes)"
+      },
+      {
+	  "name": "Solid-state Slit Cameras (SSC)",
+	  "energy": "0.5&ndash;10 keV",
+	  "fov": "90&deg; &times; 1.5 &deg;",
+	  "resolution": "1.5&deg; (FWHM PSF); &lt;6&prime; position determination",
+	  "sensitivity": "20 mCrab (1 orbit), 2 mCrab (1 week) (5 &sigma;)",
+	  "energy_resolution": "&lt;150 eV at 5.9 keV",
+	  "temporal_resolution" : "3&ndash;16 s (depending on readout method)",
+	  "descript" : "One dimensional position sensitive X-ray detector (CCDs). The collimating slit aperture providing a narrow field of view (1.5&deg; by 90&deg;) in the horizontal (ISS forward motion) and vertical (zenithal) directions. Sees 1.5% of the entire scan at an instant, and scans 70% of all-sky every orbit (96 minutes)."
+      }
+  ],
+  "highlights": [
+      "Monitoring of a variety of variable and transient X-ray sources",
+      "Rapid locating of burst events such as novae, supernovae, and gamma-ray bursts found initially by other observatories, refining their sky locations more precisely.",
+      "Discovery of numerous X-ray transient sources including black hole candidates and new soft gamma-ray burst sources.",
+      "Transient event alerts: alerts to other observatories are distributed within 30 s of detection."
+  ],
+  "archive": "The HEASARC hosts event data, and calibration files for MAXI.",
+  "navigation": [
+	{
+	    "url": "http://maxi.riken.jp/top/",
+	    "text": "MAXI at RIKEN"
+	},
+	{
+	    "url": "https://darts.isas.jaxa.jp/en/missions/maxi",
+	    "text": "MAXI at DARTS"
+	},
+	{
+	    "url": "/docs/maxi/",
+	    "text": "MAXI at HEASARC"
+	},
+	{
+	    "url": "/docs/maxi/about/",
+	    "text": "MAXI bibliography"
+	}
+  ]
+}

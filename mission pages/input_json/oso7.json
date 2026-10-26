@@ -1,0 +1,67 @@
+{
+    "title": "The Seventh Orbiting Solar Observatory (OSO-7)",
+    "name": "The OSO-7 Satellite",
+    "alttext": "Visualization of the OSO 7 satellite",
+    "imagesize": 146,
+    "imageurl": "/Images/oso/oso7_flight_small.gif",
+    "descript": "<p><b><font size=\"+2\">T</font>he Seventh Orbiting Solar Observatory (OSO 7)</b> like the other Orbiting Solar Observatory missions, was primarily a solar observatory designed to point a battery of UV and X-ray telescopes at the Sun from a platform mounted on a cylindrical wheel. The detectors for observing cosmic X-ray sources were the X-ray proportional counters, built by MIT, the hard X-ray telescope by UC San Diego and the Gamma Ray Monitor by the University of New Hampshire.</p>",
+    "decade" : 1970,
+    "lifetime": "29 Sep 1971&ndash;9 Jul 1975",
+    "features": [
+	"The proportional counters and hard X-ray telescope on board OSO-7 scanned the entire sky and obtained good exposure of point sources through repeated scans"  
+    ],
+    "instruments": [
+	{
+	    "name" : "MIT instrument",
+	    "energy" : "1&ndash;60 keV",
+	    "fov" : "1&deg; and 3&deg; tubular collimators (FWHM)",
+	    "time_resolution" : "3.2 min",
+	    "descript" : "Just under three years of data on celestial X-ray sources were obtained using the MIT instrument. The detection system consisted of two banks of proportional counters which viewed the sky through tubular collimators in five broad energy intervals (1&ndash;1.5 keV; 1&ndash;6 keV; 3&ndash;10 keV; 15&ndash;40 keV; 30&ndash;60 keV). The data were recorded in 256 azimuthal bins as the detector scanned across a small circle on the sky with each spin."
+	},
+	{
+	    "name" : "USCD X-ray telescope",
+	    "energy" : "7&ndash;550 keV",
+	    "fov" : "6.5&deg; (FWHM)",
+	    "area" : "&sim;64 cm<sup>2</sup>",
+	    "energy_resolution" : "128 energy loss channels",
+	    "time_resolution" : "0.625 ms",
+	    "descript" : "The UCSD OSO-7 X-ray telescope consisted of a 1 cm thick NaI(Tl) crystal inside a massive CsI(Na) anti-coincidence shield. The total detector weight was 85 lbs."
+	},
+	{
+	    "name" : "UNH gamma-ray monitor",
+	    "energy" : "300 keV &ndash; 10 MeV",
+	    "energy_resolution" : "7.8% at 662 keV",
+	    "time_resolution" : "0.5 s bins in sunward/anti-sunward direction each 2 s spin",
+	    "descript" : "The UNH gamma-ray monitor consisted of a 7.6&times;7.6 cm NaI(Tl) scintillator. The detector was surrounded on all sides by a &sim;4 cm thick CsI(Na) scintillator cup. The exception was a forward aperture which was covered by a 0.5 cm thick CsI(Na) slab. The instrument was calibrated regularly each orbit with a <sup>60</sup>Co source. The instrument was in the wheel section of OSO-7. The monitor operated until 25 December 1972, but was usually turned off during the periodic penetration of the satellite into the radiation belts."
+	}
+    ],
+    "highlights": [
+	"X-ray All-sky survey",
+	"Results for compact galactic sources: Sco X-1, Her X-1 and Cyg X-1, as well as results of observations of the supernova remnant IC 443, supernova 1972e, and a unique flare source, GX 354+3.",
+	"Discovery of the 9-day periodicity in Vela X-1 which led to its optical identification as a high mass X-ray binary star system",
+	"4.8 hr period present in Cyg X-3 in 6&ndash;21 keV range, but absent in 21&ndash;98 keV range",
+	"A &ldquo;multi-color&rdquo; catalog of 184 sources (<a class=\"usa-link\" href=\"https://ui.adsabs.harvard.edu/abs/1979ApJS...39..573M/abstract\">Markert <i>et al.</i>, 1979</a>)",
+	"Detection of rapid intensity variability from Centaurus A (<a class=\"usa-link\" href=\"https://ui.adsabs.harvard.edu/abs/1975ApJ...199L.139W/abstract\">Winkler &amp; White, 1975</a>)",
+	"Studied the high energy temporal and spectral behavior of a number of sources including Her X-1 (<a class=\"usa-link\" href=\"https://ui.adsabs.harvard.edu/abs/1973ApJ...181L..33U/abstract\">Ulmer <i>et al.</i>, 1973</a>) and Vela X-1 (<a class=\"usa-link\" href=\"https://ui.adsabs.harvard.edu/abs/1972ApJ...178L.121U/abstract\">Ulmer <i>et al.</i>, 1972</a>)",
+	"Gamma-ray observations of solar flares"
+    ],
+  "archive": "No data available at the HEASARC. The NSSDC holds the OSO 7 data in native raw format.",
+    "navigation": [
+	{
+	    "url" : "/docs/oso7/oso7.html",
+	    "text" : "OSO 7 at HEASARC"
+	},
+	{
+	    "url" : "/docs/oso7/oso7_about.html",
+	    "text" : "More about OSO-7"
+	},
+	{
+	    "url" : "/docs/oso7/oso7_images.html",
+	    "text" : "Gallery"
+	},
+	{
+	    "url" : "/docs/oso7/bib/oso7_biblio.html",
+	    "text" : "Publications"
+	}
+    ]
+}

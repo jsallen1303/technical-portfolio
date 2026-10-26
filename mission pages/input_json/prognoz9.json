@@ -1,0 +1,36 @@
+{
+  "title": "The Prognoz 9 Mission",
+  "name": "Prognoz 9",
+  "alttext": "artist concept of Prognoz satellite",
+  "imagesize": 299,
+  "imageurl": "/Images/misc_missions/prognoz_small.gif",
+  "descript": "<p><bb><font size=\"+2\">P</font>rognoz 9</b> was launched 1 July 1983 into a highly eccentric orbit (apogee 720,000 km; perigee 380 km). The orbital inclination was 65.5 degrees and the orbital period was 26.7 days. The spacecraft was spin stabilized with a period of 113 s. The spin axis pointed towards the Sun, and was repointed every few days.</p>",
+      "decade": 1980,
+  "lifetime": "2 Jul 1983&ndash;Feb 1984",
+    "features": [
+    ],
+    "instruments": [
+	{
+	    "name" : "SIGNE II M P-9 experiment",
+	    "energy" : "40&ndash;8000 keV",
+	    "energy_resolution" : "20% E/&Delta;E at 662 keV",
+	    "area" : "&sim;178 cm<sup>2</sup>",
+	    "fov" : "4&pi; sr (whole-sky)",
+	    "descript" : "The SIGNE II M P-9 experiment was designed to study cosmic and solar gamma-ray bursts. The experiment included 2 identical 15 cm diameter by 2 cm thick NaI (Tl) scintillators. One faced in the solar direction, and the other faced the anti-solar direction. Thus, 4-pi steradians were under simultaneous observation. These detectors were some 3 times larger than the previously flown SIGNE detectors.</p>\n\n<p>The output pulses from each photomultiplier were analyzed simultaneously in 11 energy channels. Background counts were accumulated over 64 s intervals. A trigger signal was generated for the solar-pointed detector when the count rate exceeded the background by 8-sigma over a 0.5 s interval. For the anti-solar detector, a trigger signal was generated when the count rate in either a 0.5 s or a 2 s interval exceeded the background by 8-sigma. This led to a trigger threshold of &sim;3 &times; 10<sup>-7</sup> erg/cm<sup>2</sup>/s for a gamma-ray burst spectrum of E<sup>-2</sup>. Typically, data were integrated in 164 s bins, 11 energy channels when not triggered. Once a burst trigger occurred, data could be taken in 1/64 s bins, 4&ndash;7 energy channels. The total allocated bit rate was 6 b/s."
+	}
+    ],
+    "highlights": [
+	"Data from Prognoz 9 confirmed the existence of soft, repeating sources (along with ISEE-3 and PVO). Prognoz 9 also discovered an extremely intense burst (fluence 10<sup>-3</sup> erg/cm<sup>2</sup>) on 1 August 1983. The energy spectrum was observed up to over 8 MeV, with rapid variability in the high energy spectra."
+    ],
+  "archive": "",
+  "navigation": [
+    {
+      "url": "images/prognoz_images.html",
+      "text": "Gallery"
+    },
+    {
+      "url": "biblio/prognoz9_biblio.html",
+      "text": "Publications"
+    }
+  ]
+}

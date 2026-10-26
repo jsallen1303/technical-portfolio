@@ -1,0 +1,127 @@
+2019yCat..18580061B|Boschini, M;Torre, S;Gervasi, M;Grandi, D;Johannesson, G;La Vacca, G;Masi, N;Moskalenko, I;Pensotti, S;Porter, T;Quadrani, L;Rancoita, P;Rozza, D;Tacconi, M|VizieR Online Data Catalog: Carbon and Oxygen local interstellar spectra (Boschini+, 2018)|0
+2018cosp...42E3582W|Walsh, N|SuperTIGER Abundances of Galactic Cosmic-Rays for the Charge Interval Z=41-56|0
+2017APS..APR.M4007W|Walsh, N;Supertiger Collaboration|Preliminary SuperTIGER Abundances of Galactic Cosmic-Rays for the Charge Interval Z =41-60 and Prospects for SuperTIGER-2|0
+2010HEAD...11.3213B|Binns, W;Christian, E;Cummings, A;de Nolfo, G;Israel, M;Leske, R;Mewaldt, R;von Rosenvinge, T;Stone, E;Wiedenbeck, M|Evidence for the OB Association Origin of Galactic Cosmic Rays|0
+2009APS..APR.R8007B|Binns, W;Cummings, A;Denolfo, G;Israel, M;Leske, R;Mewaldt, R;von Rosenvinge, T;Stone, E;Wiedenbeck, M|Abundance measurements of Zn, Ga, and Ge from the Cosmic Ray Isotope Spectrometer (CRIS) experiment on the Advanced Composition Explorer (ACE) satellite|0
+2008apsp.conf..875B|Boella, G;Boschini, M;Gervasi, M;Grandi, D;Pensotti, S;Rancoita, P;Bobik, P;Kudela, K|Evaluation of the flux of CR nuclei inside the magnetosphere|0
+2006apsp.conf..928B|Bobik, P;Boschini, M;Gervasi, M;Grandi, D;Rancoita, P|Ions Abundance Close to the Earth Surface:. the Role of the Magnetosphere|0
+2004AGUFMSH51A0264M|Mewaldt, R;Davis, A;George, J;Binns, W;de Nolfo, G;Israel, M;Leske, R;Stone, E;von Rosenvinge, T;Wiedenbeck, M|A New Evaluation of the Galactic Cosmic Ray Radiation Dose In Interplanetary Space|0
+2004cosp...35.1515P|Panov, A;Atic Team|The energy spectra of heavy nuclei measured by the ATIC experiment|0
+2003ATel..136....1M|Markwardt, C;Swank, J|Clarification on the association between IGR J17464-3213 and H1743-322|17
+2001ICRC....5.1819H|Hachisuka, K;Ishikawa, T;Kuramata, S;Miura, Y;Takahashi, K|A model of galactic magnetic field inferred from cosmic propagation|0
+2000AIPC..528..421D|Davis, A;Mewaldt, R;Binns, W;Christian, E;Cummings, A;George, J;Hink, P;Leske, R;von Rosenvinge, T;Wiedenbeck, M;Yanasak, N|On the low energy decrease in galactic cosmic ray secondary/primary ratios|50
+2000eaa..bookE4643.||High Energy Astrophysical Observatory (HEAO)|0
+1999herb.conf...62G|Graham, B;Phlips, B;Kroeger, R;Kurfess, J|Simulation of HEAO 3 Background|0
+1998herb.conf...62G|Graham, B;Phlips, F;Kroeger, R;Kurfess, J|Simulation of HEAO 3 Background|0
+1997AAS...190.1006M|McConnell, M;Ryan, J;Collmar, W;Schonfelder, V;Steinle, H;Strong, A;Bloemen, H;Hermsen, W;Kuiper, L;Bennett, K;van Dijk, R;Much, R|The MeV gamma -Ray Spectrum of Cygnus X-1|0
+1997AIPC..410..863M|Moskalenko, I;Collmar, W;Schonfelder, V|A model for the high-energy emission of Cyg X-1|2
+1997AIPC..410.1535T|Teegarden, B;Naya, J;Seifert, H;Sturner, S;Vedrenne, G;Mandrou, P;von Ballmoos, P;Roques, J;Jean, P;Albernhe, F;Borrel, V;Schonfelder, V;Lichti, G;Diehl, R;Georgii, R;Durouchoux, P;Cordier, B;Diallo, N;Matteson, J;Lin, R;Sanchez, F;Caraveo, P;Leleux, P;Skinner, G;Connell, P|SPI: A high resolution imaging spectrometer for INTEGRAL|3
+1997AIPC..410.1642G|Graham, B;Phlips, B;Kroeger, R;Kurfess, J|Simulation of HEAO 3 background|1
+1997herb.conf...61G|Graham, B;Phlips, B;Kurfess, J;Kroeger, R|Simulation of HEAO 3 background.|0
+1996BAAS...28.1201W|Wheaton, W;Ling, J;Mahoney, W;Viaud, P;Wallyn, P|High-resolution observation of the cosmic gamma-ray background from HEAO 3.|0
+1994IAUC.5930....2P|Phlips, B;Leising, M;McNaron-Brown, K;Grove, J;Johnson, W;Kurfess, J;Strickman, M|Cygnus X-1|3
+1993AAS...183.2905M|McConnell, M;Forrest, D;Ryan, J;Collmar, W;Schonfelder, V;Steinle, H;Strong, A;van Dijk, R;Hermsen, W;Bennett, K|COMPTEL Gamma-Ray Observations of X-Ray Binaries|0
+1993AAS...18311606S|Smith, D;Leventhal, M;Tueller, J;Kinzer, R;Kurfess, J;Johnson, W;Jung, G;Purcell, W;Strickman, M;Ulmer, M|Search for Compton-Backscattered Annihilation Radiation from the Galactic Center with OSSE|0
+1993IAUC.5813....2H|Harmon, B;Fishman, G;Wilson, C;Paciesas, W;Ling, J;Wheaton, W|Cygnus X-1|1
+1993IAUC.5881....2H|Harmon, B;Fishman, G;Rubin, B;Wilson, C;Paciesas, W|V1357 Cygni|0
+1993ldef.symp..261T|Thompson, A;Osullivan, D;Bosch, J;Keegan, R;Wenzel, K;Jansen, F;Domingo, C|Progress report on the ultra heavy cosmic ray experiment (AO178)|1
+1992cit..reptQ....S|Stone, E|Post-launch analysis of data from the High Energy Astrophysical Observatory Heavy Nuclei Experiment (HEAO-C3)|0
+1992ldef.symp...27T|Thompson, A;Osullivan, D;Bosch, J;Keegan, R;Wenzel, K;Jansen, F;Domingo, C|Ultra heavy cosmic ray experiment (A0178)|0
+1992nimp..313..513G|Gehrels, N|Instrumental background in gamma-ray spectrometers flown in low earth orbit|0
+1991AIPC..232...58G|Gruber, D;Briggs, M|Observation of annihilation radiation from the galactic center: The point and ridge components|0
+1991AIPC..232..291M|Mahoney, W;Ling, J;Wheaton, W;Higdon, J|HEAO 3 limits on the 44Ti yield in type I supernovae|3
+1991AIPC..232..361L|Ling, J;Dermer, C|HEAO 3 observations of strong variable 0.5-3 MeV emission from the Taurus region|5
+1990BAAS...22.1229B|Bhattacharya, D;Gehrels, N;Mahoney, W;Wheaton, W;Leventhal, M;Geldzahler, B|High-Spectral-Resolution Gamma-Ray Observation of Sco X-1 by HEAO 3|1
+1990BAAS...22R1271L|Ling, J;Dermer, C|HEAO 3 Observations of Strong Variable 0.5-3 Me V Emission from the Taurus Region|2
+1990ICRC....3...19V|Vylet, V;Waddington, J;Binns, R;Garrard, L;Israel, H;Klarmann, J;Metzger, M|Energy Spectra Between 10 and Several Hundred GeV/Nucleon for Elements From <SUB>18</SUB>Ar to <SUB>23</SUB>V: Results from HEAO-3|3
+1990ICRC....3...61G|Garrard, L;Israel, H;Klarmann, J;Stone, C;Waddington, J;Binns, R|Cosmic Ray Elemental Abundances for 26 &lt;= Z &lt;= 40 Measured on HEAO-3|1
+1990cait.reptR....M|Mewaldt, R;Webber, W|New aspects of heavy cosmic rays from calcium to nickel (Z = 20 to 28)|0
+1989AIPC..186..304W|Wheaton, W;Jacobson, A;Ling, J;Mahoney, W;Varnell, L|The HEAO 3 background: Spectrum observed by a large germanium spectrometer in low earth orbit|11
+1989uhpe.conf...32L|Liang, E;Dermer, C|Thermal pair cloud models of MeV gamma ray emission from Cygnus X-1 and the galactic center.|0
+1988AIPC..170..149M|Mahoney, W|Gamma-ray spectroscopy of radionuclei from galactic nucleosynthesis|16
+1988AIPC..170..175D|Diehl, R;v. Ballmoos, P;Schonfelder, V|Constraints on gamma-ray line and continuum emission from the Galactic Center Region at MeV Energies|1
+1988AIPC..170..196B|Brown, B;Leventhal, M|A possible Galactic center positron annihilation medium: neutral hydrogen|1
+1988AIPC..170..315L|Ling, J|Gamma-ray emission of Cygnus X-1|4
+1988BAAS...20..685W|Wheaton, W;Ling, J;Mahoney, W|Implications of HEAO 3 Gamma-Ray and 511 ke V Observations of Black Hole Candidates|2
+1988BAAS...20.1070M|Mahoney, W;Higdon, J;Ling, J;Wheaton, W|HEAO 3 Limits on <SUP>14</SUP>Ti|0
+1988STIN...8915067L|Liang, E|Gamma rays from Cygnus X-1: New diagnostics for a black hole|0
+1987AIPC..155..184B|Bildsten, M;Zurek, W|Positron annihilation in the Galactic center: ``Cheshire cat'' compton scattering and ``excess continuum''|0
+1987ICRC....1..330I|Israel, M;Jones, M;Kamionkowski, M;Klarmann, J;Stone, E;Waddington, C;Binns, W;Garrard, T|Cosmic-Ray Energy Spectra Between Ten and Several Hundred Gev/amu for Elements from (18)AR to (28)NI-RESULTS from HEAO-3|1
+1987ICRC....1..348G|Garrard, T;Gibner, P;Israel, M;Klarmann, J;Waddington, C;Binns, W|Anisotropy of Galactic Iron of Energy 30 TO 500 Gev/amu Studied by HEAO-3|0
+1987NASCP2464..173B|Binns, W;Israel, M;Klarmann, J;Garrard, T;Stone, E;Waddington, C|Measurements of ultraheavy cosmic rays with HEAO-3.|0
+1987NASCP2464..275J|Jacobson, A|Nucleosynthesis and astrophysical gamma ray spectroscopy.|0
+1987bosu.rept.....M|Marscher, A|Theoretical interpretation of the HEAO-3 observations of Cygnus X-3 under the HEAO-3 Guest Investigator Program|0
+1986ASIC..163...23R|Reeves, H|High Energy Particles in Dark Molecular Clouds|2
+1986ASIC..163..339C|Casse, M;Prantzos, N|26/A1 Produced by Wolf-Rayet Stars and the 1.8-MEV Line Emission of the Galaxy|4
+1986BAAS...18..980M|Mahoney, W;Higdon, J;Ling, J;Wheaton, W;Jacobson, A|HEAO 3 Constraints on the Distribution of Interstellar <SUP>26</SUP>Al|0
+1986STIN...8720166B|Bildsten, M;Zurek, W|Positron annihilation in the Galactic Center: Cheshire Cat Compton scattering and excess continuum|0
+1985BAAS...17S.849M|Mahoney, W;Higdon, J;Ling, J;Wheaton, W;Jacobson, A|HEAO 3 Search for Interstellar <SUP>44</SUP>Ti|0
+1985ICRC....1..361P|Prantzos, N;Casse, M;Arnould, M;Gros, M;Doom, C|Gamma-Ray Line Emissions from **26AL Produced by Wolf-Rayet Stars|6
+1985ICRC....2....4E|Engelmann, J;Ferrando, P;Koch-Miramond, L;Masse, P;Soutoul, A;Webber, W|Source Spectral Index of Heavy Cosmic Ray Nuclei|0
+1985ICRC....2...28J|Jones, M;Klarmann, J;Stone, E;Waddington, C;Binns, W;Garrard, T;Israel, M|Energy Spectra of Elements with 18&lt;=Z&lt;=28 Between 10 and 300 Gev/amu|2
+1985ICRC....2...96F|Ferrando, P;Goret, P;Koch-Miramond, L;Petrou, N;Soutoul, A|a New Analysis of Cosmic Ray Isotopes at 3 Gev/n from HEA03-C2 Data|0
+1985ICRC....2..119F|Fowler, P;Masheder, M;Moses, R;Walker, R;Worley, A;Gay, A|Ariel 6 measurements of ultra-heavy cosmic ray fluxes in the region Z or = 48|3
+1985ICRC....2..123N|Newport, B;Stone, E;Waddington, C;Binns, W;Garrard, T;Israel, M;Klarmann, J|Elemental abundances of cosmic rays with Z &gt; 33 as measuredon HEAO-3.|1
+1985ICRC....2..127K|Klarmann, J;Margolis, S;Stone, E;Waddington, C;Binns, W;Garrard, T;Israel, M;Kertzman, M|Abundances of secondary elements among the ultra heavy cosmic rays: Results from HEAO-3|2
+1985ICRC....2..131D|Drach, J;Price, P;Salamon, M;Tarle, G;Ahlen, S|Capabilities of the Ldef-II Heavy Nuclei Collector|8
+1985ICRC....2..330L|Lund, N;Rotenberg, M|Search for Heavy Antinuclei in the Cosmic Radiation|2
+1985ICRC....3...21M|Margolis, S;Blake, J|Sources of the ultraheavy cosmic rays|1
+1985ICRC....3...95K|Kertzman, M;Klarmann, J;Newport, B;Stone, E;Waddington, C;Binns, W;Garrard, T;Israel, M|Interactions of Heavy Nuclei KR, xe and HO, in Light Targets|1
+1985ICRC....3..287N|Newport, B;Stone, E;Waddington, C;Binns, W;Fixsen, D;Garrard, T;Grimm, G;Israel, M;Klarmann, J|The response of ionization chambers to relativistic heavy nuclei|0
+1985ICRC....9..527W|Waddington, C;Binns, W;Brewster, N;Fixsen, D;Garrard, T;Israel, M;Klarmann, J;Newport, B;Stone, E|Lead, platinum and other heavy elements in the primary cosmic radiation: HEAO-3 results|1
+1985crhe.work..252B|Balasubrahmanyan, V|Nuclear Composition|0
+1984bbgl.symp..315K|Koch-Miramond, L|Cosmic ray sources and confinement in the Galaxy.|0
+1984hea..meet..265K|Koch-Miramond, L|Cosmic ray energy spectra at sources.|0
+1983AIPC..101..230R|Riegler, G;Ling, J;Mahoney, W;Wheaton, W;Jacobson, A|The gamma-ray spectrum of the galactic-center region|6
+1983AIPC..101..303M|Marscher, A;Brecher, K;Wheaton, W;Ling, J;Mahoney, W;Jacobson, A|Are Mildly Active Galaxies Sources of e<SUP>+/- </SUP>ANNIHILATION Radiation?|5
+1983BAAS...15..619O|Ormes, J;Protheroe, R|Implications of HEAO-3 data for the acceleration and propagation of galactic cosmic rays.|0
+1983BAAS...15..636P|Patterson, J;Roberts, W;Schwartz, D;Remillard, R;Morgan, E;Bradt, H|New Optical Identifications of X-ray Sources From the HEAO A-3 Scanning Modulation Collimator|2
+1983BAAS...15..910M|Mahoney, W;Ling, J;Wheaton, W;Jacobson, A|HEAO 3 Observations of <SUP>26</SUP>A1 in the Interstellar Medium|0
+1983IAUC.3793....1L|Lamb, R;Ling, J;Mahoney, W;Riegler, G;Wheaton, W;Jacobson, A|V1343 Aquilae|2
+1983ICRC....2...21J|Juliusson, E;Engelmann, J;Jorrand, J;Koch-Miramond, L;Masse, P;Petrou, N;Lund, N;Rasmussen, I;Rotenberg, M|The Galactic Cosmic Ray Energy Spectra as Measured by the French-Danish Instrument on HEAD-3|3
+1983ICRC....2..221O|Ormes, J;Protheroe, R|Acceleration and Propagation of Galactic Cosmic Rays : Implications of HEAD-3 Data|5
+1983ICRC....3..440P|Petrou, N;Jorrand, J|Geomagnetic Effects Observed by the French-Danish Cosmic Ray Instrument on HEAO-3|0
+1983ICRC....9..106B|Binns, W;Grossman, D;Israel, M;Jones, M;Klarmann, J;Garrard, T;Stone, E;Fickle, R;Waddington, C|Cosmic ray elemental abundances for 26 ≤ Z ≤ 42 measured on HEAO-3.|5
+1983ICRC....9..115S|Stone, E;Garrard, T;Krombel, K;Binns, W;Israel, M;Klarmann, J;Brewster, N;Fickle, R;Waddington, C|Cosmic-ray abundances of the even charge elements from <SUB>50</SUB>Snto <SUB>58</SUB>Ce measured on HEAO-3.|5
+1983ICRC....9..119F|Fixsen, D;Waddington, C;Binns, W;Israel, M;Klarmann, J;Garrard, T;Newport, B;Stone, E|The cosmic ray abundances of the platinum-lead elements as measured on HEAO-3.|2
+1983ICRC....9..123I|Israel, M;Jones, M;Klarmann, J;Binns, W;Garrard, T;Stone, E;Fickle, R;Waddington, C|Energy spectra of ultraheavy cosmic rays: results from HEAO-3.|1
+1983ICRC....9..135B|Byrnak, B;Herrstroem, N;Lund, N;Peters, B;Rasmussen, I;Rotenberg, M;Westergaard, N;Ferrando, P;Goret, P;Koch-Miramond, L;Soutoul, A|The Isotopic Composition of the Cosmic Rays at Energies above 2 Gev/n|9
+1983ICRC....9..143S|Soutoul, A;Engelmann, J;Goret, P;Jorrand, J;Koch-Miramond, L;Masse, P;Petrou, N;Herrstroem, N;Lund, N|Nitrogen and boron isotopes around 2 GeV/n from the French-Danish instrument on HEAO-3.|4
+1983ICRC....9..259B|Brewster, N;Fickle, R;Waddington, C;Binns, W;Israel, M;Jones, M;Klarmann, J;Garrard, T;Newport, B;Stone, E|Interactions of 200 GeV gold nuclei in light elements.|2
+1983ICRC....9..275K|Koch-Miramond, L;Engelmann, J;Goret, P;Juliusson, E;Masse, P;Soutoul, A;Perron, C;Lund, N;Rasmussen, I|Energy spectra of cosmic rays at source as derived from the French-Danish experiment on HEAO-3.|10
+1983ICRC....9..279K|Klarmann, J;Binns, W;Israel, M;Margolis, S;Garrard, T;Stone, E;Brewster, N;Fixsen, D;Waddington, C|Abundances of 'secondary' elements among the ultraheavy cosmic rays -results from HEAO-3.|3
+1983ICRC....9..305I|Israel, M;Binns, W;Grossman, D;Klarmann, J;Margolis, S;Stone, E;Garrard, T;Krombel, K;Brewster, N;Fickle, R;Waddington, C|Correlation of source abundances of ultraheavy cosmic rays with firstionization potential - results from HEAO-3.|4
+1983ICRC....9..367G|Garrard, T;Newport, B;Stone, E;Binns, W;Israel, M;Jones, M;Klarmann, J;Fickle, R;Waddmngton, C|The non-Z<SUP>2</SUP> response of the heavy nuclei cosmic ray detector on HEAO-3.|3
+1983ICRC...10..221P|Petrou, N;Jorrand, J|Geomagnetic effect observed by the French-Danish cosmic ray instrument on HEAO-3 satellite.|0
+1983ICRC...12..117J|Juliusson, E|Composition of cosmic rays.|2
+1983STIN...8326780O|Ormes, J;Protheroe, R|Implications of HEAO-3 data for the acceleration and propagation of galactic cosmic rays|0
+1983STIN...8414083B|Buivan, A;Jardim, J;Braga, J;Jardim, M;Martin, I;Vedrenne, G|Telescope calibration for gamma spectroscopy with a new Ge(Li) diode configuration|0
+1982AIPC...77.....L|Lingenfelter, R;Hudson, H;Worrall, D|Gamma ray transients and related astrophysical phenomena|14
+1982AIPC...77...55W|Wheaton, W;Ling, J;Mahoney, W;Riegler, G;Jacobson, A|Gamma-ray burst observations by the HEAO-3 high-resolution gamma-ray spectrometer|0
+1982AIPC...77..163N|Norris, J;Cline, T;Teegarden, B|Search for time variations in 511 KeV flux by ISEE-3 gamma-ray spectrometer|0
+1982AIPC...77..401W|Willett, J;Ling, J;Mahoney, W;Riegler, G;Jacobson, A|Evidence for delayed second phase acceleration in solar flares|5
+1982BAAS...14Q.975M|Marscher, A;Brecher, K;Ling, J;Mahoney, W;Wheaton, W;Jacobson, A|Search for 511 KeV e+/- Annihilation Radiation from Mildly Active Galaxies Using HEAO 3|0
+1982BAAS...14R.974R|Riegler, G;Ling, J;Mahoney, W;Wheaton, W;Jacobson, A|Gamma-Ray Observations of the Galactic Center from HEAO-3|0
+1982STIN...8222134R|Ramaty, R|Nuclear processes in solar flares|0
+1982icr....12...11J|Jacobson, A|The HEAO-3 high resolution gamma-ray spectrometer|0
+1981BAAS...13..549L|Ling, J;Mahoney, W;Riegler, G;Wheaton, W;Jacobson, A|Long-Term Variation in the Cygnus Region Observed with the HEAO-3 High Resolution Gamma-Ray Spectrometer|1
+1981IAUS...94...91B|Binns, W;Fickle, R;Waddington, C;Garrard, T;Stone, E;Israel, M;Klarmann, J|The heavy nuclei experiment on HEAO-3|0
+1981ICRC....2....8B|Byrnak, B;Lund, N;Rasmussen, I;Peters, B;Risbo, T;Rotenberg, M;Westergaard, N;Petrou, N|The Isotopic Composition of Cosmic-Ray Nuclei at 0. 6, 3 and 7 Gev/n|2
+1981ICRC....2...22C|Cesarsky, C;Koch, L;Perron, C|Sub-Iron Nuclei and Cosmic-Ray Propagation Model|3
+1981ICRC....2...27P|Perron, C;Koch, L|Implications on Nuclear Cross-Sections of Measurements of the French-Danish Cosmic-Ray Instrument on HEAD-3|5
+1981ICRC....2...36I|Israel, M;Klarmann, J;Binns, W;Fickle, R;Waddington, C;Garrard, T;Stone, E|Implications of Ultraheavy Cosmic-Ray Source Composition Derived from Observations by the HEAD-3 Heavy Nuclei Experiment|3
+1981ICRC....4..217P|Petrou, N;Jorrand, J;Westergaard, N|Particle Arrival Directions as Seen from a Cosmic-Ray Instrument in Low Earth Orbit|2
+1981ICRC....8...63L|Lund, N;Westergaard, N;Engelmann, J;Goret, P;Juliusson, E|Determination of Particle Momenta from Cerenkov Counter Signals|3
+1981ICRC....9...89W|Wheaton, W;Ling, J;Mahoney, W;Jacobson, A|16 November 1979 gamma-ray bursts observed with HEAO-3 High-Resolution Gamma-Ray Spectrometer|0
+1981ICRC....9...93L|Ling, J;Mahoney, W;Riegler, G;Wheaton, W;Jacobson, A|Long-term variations of Cygnus X-1 observed with the HEAO-3 high resolution gamma-ray spectrometer|0
+1981ICRC....9...97E|Engelmann, J;Goret, P;Juliusson, E;Koch-Miramond, L;Masse, P;Petrou, N;Rio, Y;Soutoul, A;Byrnak, B;Jakobsen, H|The elemental composition of cosmic rays from Be to Zn as measured by the French Danish instrument on HEAO-3|12
+1981ICRC....9..101J|Juliusson, E;Engelmann, J;Goret, P;Koch, L;Masse, P;Petrou, N;Rio, Y;Soutoul, A;Byrnak, B;Lund, N|Mean masses of cosmic rays elements from C to Fe between 2 and 3 GeV/nucleon as measured by the French-Danish instrument on HEAO-3|2
+1981ICRC....9..109W|Waddington, C;Fickle, R;Garrard, T;Stone, E;Binns, W;Israel, M;Klarmann, J|Abundances of cosmic ray nuclei heavier than 50 SN|2
+1981ICRC....9..114P|Protheroe, R;Ormes, J|The composition of ultra-heavy cosmic rays|3
+1981ICRC...12......||International Cosmic Ray Conference, 17th, Paris, France, July 13-25, 1981, Conference Papers. Volume 12|0
+1981hea..conf..173C|Copenhagen-Saclay CollaborationHeao|The HEAO-3 French-Danish cosmic ray spectrometer: preliminary results on the elemental abundances of cosmic ray nuclei in the iron peak.|0
+1980BAAS...12..467I|Israel, M|Early Results from HEAO-3|0
+1980BAAS...12..831K|Klarmann, J|Cosmic Ray Elements and Isotopes from HEAO-3|0
+1980IAUC.3514....2W|White, N;Marshall, F;Patterson, J;Garcia, M|H 2252-035|14
+1980toky.iafcQQ...S|Speer, F|HEAO - Signature of a successful space science program|0
+1979BAAS...11R.733L|Ling, J;Mahoney, W;Riegler, G;Wheaton, W;Jacobson, A|A Search for Gamma-Ray Bursts With the HEAO 3 Spectrometer|0

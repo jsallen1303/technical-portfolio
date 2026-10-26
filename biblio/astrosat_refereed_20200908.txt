@@ -1,0 +1,153 @@
+2021NewA...8301479D|Devasia, J;Raman, G;Paul, B|Thermonuclear X-ray bursts detected in Cyg X-2 using AstroSat/LAXPC|0
+2020AJ....159..158T|Tandon, S;Postma, J;Joseph, P;Devaraj, A;Subramaniam, A;Barve, I;George, K;Ghosh, S;Girish, V;Hutchings, J;Kamath, P;Kathiravan, S;Kumar, A;Lancelot, J;Leahy, D;Mahesh, P;Mohan, R;Nagabhushana, S;Pati, A;Rao, N;Sankarasubramanian, K;Sriram, S;Stalin, C|Additional Calibration of the Ultraviolet Imaging Telescope on Board AstroSat|0
+2020Ap&SS.365...41A|Agrawal, V;Nandi, A;Ramadevi, M|AstroSat/LAXPC view of GX 17+2: spectral evolution along the Z-track|1
+2020Ap&SS.365...56A|Agrawal, V;Nandi, A;Ramadevi, M|Correction to: AstroSat/LAXPC view of GX 17+2: spectral evolution along the Z-track|0
+2020ApJ...888...40A|Anumarlapudi, A;Bhalerao, V;Tendulkar, S;Balasubramanian, A|Prompt X-Ray Emission from Fast Radio Bursts—Upper Limits with AstroSat|4
+2020ApJ...889..131L|Leahy, D;Postma, J;Chen, Y|AstroSat UVIT Observations of Her X-1|0
+2020ApJ...889L..17M|Mudambi, S;Maqbool, B;Misra, R;Hebbar, S;Yadav, J;Gudennavar, S;S. G., B|Unveiling the Temporal Properties of MAXI J1820+070 through AstroSat Observations|0
+2020ApJ...889L..36M|Misra, R;Rawat, D;Yadav, J;Jain, P|Identification of QPO Frequency of GRS 1915+105 as the Relativistic Dynamic Frequency of a Truncated Accretion Disk|1
+2020ApJ...897...25B|Bhattacharyya, S;Ghosh, R;Chatterjee, R;Das, N|Blazar Variability: A Study of Nonstationarity and the Flux-Rms Relation|0
+2020ApJ...897...73M|Mukerjee, K;Antia, H;Katoch, T|AstroSat Observations of GRO J2058+42 during the 2019 Outburst|0
+2020ApJS..247...47L|Leahy, D;Postma, J;Chen, Y;Buick, M|AstroSat UVIT Survey of M31: Point-source Catalog|0
+2020MNRAS.492..796G|Goswami, P;Sinha, A;Chandra, S;Misra, R;Chitnis, V;Gogoi, R;Sahayanathan, S;Stalin, C;Singh, K;Yadav, J|Unravelling the unusually curved X-ray spectrum of RGB J0710 + 591 using AstroSat observations|0
+2020MNRAS.492.4361S|Sharma, R;Beri, A;Sanna, A;Dutta, A|A broad-band look of the accreting millisecond X-ray pulsar SAX J1748.9-2021 using AstroSat and XMM-Newton|1
+2020MNRAS.493.3045B|Bala, S;Roy, J;Bhattacharya, D|Possible detection of a new cyclotron feature in 4U 1700-37|0
+2020MNRAS.493.5218S|Sharma, V;Iyyani, S;Bhattacharya, D;Chattopadhyay, T;Vadawale, S;Bhalerao, V|Spectropolarimetric analysis of prompt emission of GRB 160325A: jet with evolving environment of internal shocks|2
+2020MNRAS.495.2664C|Chandra, A;Roy, J;Agrawal, P;Choudhury, M|Study of recent outburst in the Be/X-ray binary RX J0209.6-7427 with AstroSat: a new ultraluminous X-ray pulsar in the Magellanic Bridge?|0
+2020MNRAS.497.1029B|Bala, S;Bhattacharya, D;Staubert, R;Maitra, C|Time evolution of cyclotron line of Her X-1: a detailed statistical analysis including new AstroSat data|1
+2020MNRAS.497.1197B|Baby, B;Agrawal, V;Ramadevi, M;Katoch, T;Antia, H;Mandal, S;Nandi, A|AstroSat and MAXI view of the black hole binary 4U 1630-472 during 2016 and 2018 outbursts|0
+2020MNRAS.497.3726A|Agrawal, V;Nandi, A|AstroSat view of LMC X-2: evolution of broad-band X-ray spectral properties along a complete Z-track|0
+2020MNRAS.tmp.2072M|Mudambi, S;Rao, A;Gudennavar, S;Misra, R;Bubbly, S|Estimation of the black hole spin in LMC X-1 using AstroSat|0
+2020MNRAS.tmp.2492L|Lalitha, S;Schmitt, J;Singh, K;Schneider, P;Loyd, R;France, K;Predehl, P;Burwitz, V;Robrade, J|Proxima Centauri - the nearest planet host observed simultaneously with AstroSat, Chandra and HST|0
+2020MNRAS.tmp.2528J|Jaisawal, G;Naik, S;Ho, W;Kumari, N;Epili, P;Vasilopoulos, G|Revisiting the spectral and timing properties of 4U 1909+07 with NuSTAR and Astrosat|0
+2020NatAs.tmp..164S|Saha, K;Tandon, S;Simmonds, C;Verhamme, A;Paswan, A;Schaerer, D;Rutkowski, M;Borgohain, A;Elmegreen, B;Inoue, A;Combes, F;Elmegreen, D;Paalvast, M|AstroSat detection of Lyman continuum emission from a z = 1.42 galaxy|0
+2020RAA....20...98B|Bhulla, Y;Roy, J;Jaaffrey, S|Detection of thermonuclear X-ray bursts and dips from the X-ray binary 4U 1323-62 with AstroSat/LAXPC|0
+2019ApJ...870....4R|Rawat, D;Pahari, M;Yadav, J;Jain, P;Misra, R;Bagri, K;Katoch, T;Agrawal, P;Manchanda, R|Study of Timing Evolution from Nonvariable to Structured Large-amplitude Variability Transition in GRS 1915 + 105 Using AstroSat|3
+2019ApJ...871..152L|Leahy, D;Chen, Y|AstroSat SXT Observations of Her X-1|4
+2019ApJ...871..244A|Antokhin, I;Cherepashchuk, A|The Period Change of Cyg X-3|0
+2019ApJ...872...33R|Roy, J;Agrawal, P;Iyer, N;Bhattacharya, D;Yadav, J;Antia, H;Chauhan, J;Choudhury, M;Dedhia, D;Katoch, T;Madhavani, P;Manchanda, R;Misra, R;Pahari, M;Paul, B;Shah, P|LAXPC/AstroSat Study of ̃1 and ̃2 mHz Quasi-periodic Oscillations in the Be/X-Ray Binary 4U 0115+63 during Its 2015 Outburst|5
+2019ApJ...874...70C|Chand, V;Chattopadhyay, T;Oganesyan, G;Rao, A;Vadawale, S;Bhattacharya, D;Bhalerao, V;Misra, K|AstroSat-CZTI Detection of Variable Prompt Emission Polarization in GRB 171010A|7
+2019ApJ...876...34S|Sahu, S;Subramaniam, A;Simunovic, M;Postma, J;Cote, P;Kameswera Rao, N;Geller, A;Leigh, N;Shara, M;Puzia, T;Stetson, P|Detection of a White Dwarf Companion to a Blue Straggler Star in the Outskirts of Globular Cluster NGC 5466 with the Ultraviolet Imaging Telescope (UVIT)|4
+2019ApJ...880...61V|Varun,;Pradhan, P;Maitra, C;Raichur, H;Paul, B|Pulse Phase Variation of the Cyclotron Line in HMXB 4U 1907+09 with AstroSat LAXPC|1
+2019ApJ...882...43S|Sindhu, N;Subramaniam, A;Jadhav, V;Chatterjee, S;Geller, A;Knigge, C;Leigh, N;Puzia, T;Shara, M;Simunovic, M|UVIT Open Cluster Study. I. Detection of a White Dwarf Companion to a Blue Straggler in M67: Evidence of Formation through Mass Transfer|3
+2019ApJ...882L..10S|Sharma, V;Iyyani, S;Bhattacharya, D;Chattopadhyay, T;Rao, A;Aarthy, E;Vadawale, S;Mithun, N;Bhalerao, V;Ryde, F;Pe'er, A|Time-varying Polarized Gamma-Rays from GRB 160821A: Evidence for Ordered Magnetic Fields|5
+2019ApJ...884..123C|Chattopadhyay, T;Vadawale, S;Aarthy, E;Mithun, N;Chand, V;Ratheesh, A;Basak, R;Rao, A;Bhalerao, V;Mate, S;Arvind, B;Sharma, V;Bhattacharya, D|Prompt Emission Polarimetry of Gamma-Ray Bursts with the AstroSat CZT Imager|24
+2019ApJ...886...13J|Jadhav, V;Sindhu, N;Subramaniam, A|UVIT Open Cluster Study. II. Detection of Extremely Low Mass White Dwarfs and Post─Mass Transfer Binaries in M67|1
+2019ApJ...887..101J|Jithesh, V;Maqbool, B;Misra, R;T, A;Mall, G;James, M|Spectral and Timing Properties of the Galactic X-Ray Transient Swift J1658.2─4242 Using Astrosat Observations|1
+2019AstL...45..602S|Savanov, I;Naroenkov, S;Nalivkin, M;Pandey, J;Karmakar, S|Activity of the Red Dwarf FR Cnc from Observations with a Robotic IRT-20 Telescope at the Zvenigorod Observatory of INASAN|0
+2019BSRSL..88..128D|De Becker, M|On the requirement for a high resolution spectrograph to investigate the multiplicity of massive stars with the 3.6-m Devasthal Optical Telescope|0
+2019BSRSL..88..143N|Naik, S;Pal, M;Kumari, N|Short-term variabilities in X-ray/Optical/UV emission from Seyfert 1 galaxy NGC 4593|0
+2019BSRSL..88..190V|Veerappa, G|Three years of AstroSat: Indian Astronomy mission|0
+2019BSRSL..88..307D|Decleir, M;De Looze, I;Boquien, M;Baes, M|DustKING - the story continues: dust attenuation in NGC628|0
+2019JHEAp..24...30X|Xiao, G;Lu, Y;Ma, X;Ge, M;Yan, L;Li, Z;Tuo, Y;Zhang, Y;Zhang, W;Liu, H;Zhou, D;Zhang, L;Bu, Q;Cao, X;Jiang, W;Chen, Y;Zhang, S;Lu, F;Chen, L;Qu, J;Song, L;Zhang, S;Zhuang, R;Shang, R;Jin, Y|Timing analysis of Swift J1658.2-4242's outburst in 2018 with Insight-HXMT, NICER and AstroSat|4
+2019MNRAS.482.4397B|Beri, A;Paul, B;Yadav, J;Antia, H;Agrawal, P;Manchanda, R;Dedhia, D;Chauhan, J;Pahari, M;Misra, R;Katoch, T;Madhwani, P;Shah, P;Varun, M|Thermonuclear X-ray bursts in rapid succession in 4U 1636-536 with AstroSat-LAXPC|3
+2019MNRAS.484L...1V|Varun,;Maitra, C;Pragati, P;Harsha, R;Biswajit, P|Probing the Cyclotron line characteristics of 4U 1538-522 using AstroSat-LAXPC|3
+2019MNRAS.485.2877J|Jain, R;Vig, S;Ghosh, S|Investigation of the globular cluster NGC 2808 with the Ultra-Violet Imaging Telescope|1
+2019MNRAS.486.2964M|Maqbool, B;Mudambi, S;Misra, R;Yadav, J;Gudennavar, S;Bubbly, S;Rao, A;Jogadand, S;Patil, M;Bhattacharyya, S;Singh, K|A stochastic propagation model to the energy dependent rapid temporal behaviour of Cygnus X-1 as observed by AstroSat in the hard state|3
+2019MNRAS.487..928S|Sreehari, H;Ravishankar, B;Iyer, N;Agrawal, V;Katoch, T;Mandal, S;Nandi, A|AstroSat view of MAXI J1535-571: broad-band spectro-temporal features|9
+2019MNRAS.487.4221S|Sridhar, N;Bhattacharyya, S;Chandra, S;Antia, H|Broad-band reflection spectroscopy of MAXI J1535-571 using AstroSat: estimation of black hole mass and spin|5
+2019MNRAS.488..720B|Bhargava, Y;Belloni, T;Bhattacharya, D;Misra, R|Spectro-timing analysis of MAXI J1535-571 using AstroSat|5
+2019MNRAS.489.1037B|Belloni, T;Bhattacharya, D;Caccese, P;Bhalerao, V;Vadawale, S;Yadav, J|A variable-frequency HFQPO in GRS 1915+105 as observed with AstroSat|4
+2019PhRvD..99l3019B|Bai, Y;Orlofsky, N|Microlensing of x-ray pulsars: A method to detect primordial black hole dark matter|14
+2019RAA....19..114B|Bhulla, Y;Misra, R;Yadav, J;Jaaffrey, S|AstroSat observation of GX 5-1: spectral and timing evolution|2
+2019RAA....19..138A|Agrawal, P|Journey through the birth, growth and maturity of X-ray astronomy|0
+2018A&A...609L...1K|Kameswara Rao, N;Sutaria, F;Murthy, J;Krishna, S;Mohan, R;Ray, A|Planetary nebulae with UVIT: Far ultra-violet halo around the Bow Tie nebula (NGC 40)|3
+2018A&A...613L...9G|George, K;Joseph, P;Mondal, C;Devaraj, A;Subramaniam, A;Stalin, C;Cote, P;Ghosh, S;Hutchings, J;Mohan, R;Postma, J;Sankarasubramanian, K;Sreekumar, P;Tandon, S|UVIT observations of the star-forming ring in NGC 7252: Evidence of possible AGN feedback suppressing central star formation|4
+2018A&A...614A.130G|George, K;Joseph, P;Cote, P;Ghosh, S;Hutchings, J;Mohan, R;Postma, J;Sankarasubramanian, K;Sreekumar, P;Stalin, C;Subramaniam, A;Tandon, S|Dissecting star formation in the "Atoms-for-Peace" galaxy. UVIT observations of the post-merger galaxy NGC7252|4
+2018A&A...617A..22B|Basu, A;Joshi, B;Bhattacharya, D;Rao, A;Naidu, A;Krishnakumar, M;Arumugsamy, P;Vadawale, S;Manoharan, P;Dewangan, G;Vibhute, A;Mithun, N;Sharma, V|Timing offset calibration of CZTI instrument aboard ASTROSAT|1
+2018A&A...620A.138K|Kameswara Rao, N;De Marco, O;Krishna, S;Murthy, J;Ray, A;Sutaria, F;Mohan, R|Planetary nebulae with UVIT. II. Revelations from far-UV vision of Butterfly nebula NGC 6302|1
+2018AJ....156..269L|Leahy, D;Bianchi, L;Postma, J|ASTROSAT/UVIT Survey of M31, First Results: UV-bright Stars in the Bulge|0
+2018ASSP...53..409K|Katoch, T|From Test and Evaluation Till Onboard Performance of Indian Payloads: RT-2 Onboard CORONAS-PHOTON and LAXPC Onboard AstroSat|0
+2018Ap&SS.363...80R|Rampazzo, R;Mazzei, P;Marino, A;Bianchi, L;Plana, H;Trinchieri, G;Uslenghi, M;Wolter, A|A multi-wavelength study of the evolution of early-type galaxies in groups: the ultraviolet view|4
+2018ApJ...853L..11P|Pahari, M;Yadav, J;Verdhan Chauhan, J;Rawat, D;Misra, R;Agrawal, P;Chandra, S;Bagri, K;Jain, P;Manchanda, R;Chitnis, V;Bhattacharyya, S|Extensive Broadband X-Ray Monitoring During the Formation of a Giant Radio Jet Base in Cyg X-3 with AstroSat|5
+2018ApJ...853L..21B|Bachetti, M;Huppenkothen, D|No Time for Dead Time: Use the Fourier Amplitude Differences to Normalize Dead-time-affected Periodograms|5
+2018ApJ...859L..21C|Chatterjee, R;Roychowdhury, A;Chandra, S;Sinha, A|Possible Accretion Disk Origin of the Emission Variability of a Blazar Jet|8
+2018ApJ...860...88B|Bhattacharyya, S;Yadav, J;Sridhar, N;Verdhan Chauhan, J;Agrawal, P;Antia, H;Pahari, M;Misra, R;Katoch, T;Manchanda, R;Paul, B|Effects of Thermonuclear X-Ray Bursts on Non-burst Emissions in the Soft State of 4U 1728-34|3
+2018ApJ...862..154C|Chand, V;Chattopadhyay, T;Iyyani, S;Basak, R;Aarthy, E;Rao, A;Vadawale, S;Bhattacharya, D;Bhalerao, V|Violation of Synchrotron Line of Death by the Highly Polarized GRB 160802A|7
+2018ApJ...867...86P|Pahari, M;Bhattacharyya, S;Rao, A;Bhattacharya, D;Vadawale, S;Dewangan, G;McHardy, I;Gandhi, P;Corbel, S;Schulz, N;Altamirano, D|AstroSat and Chandra View of the High Soft State of 4U 1630-47 (4U 1630-472): Evidence of the Disk Wind and a Rapidly Spinning Black Hole|3
+2018ApJS..236...13H|Huppenkothen, D;Bachetti, M|On the Statistical Properties of Cospectra|7
+2018BSRSL..87...42P|Pandey, S;Yadav, R;Nanjappa, N;Yadav, S;Reddy, B;Sahu, S;Srinivasan, R|First-light instrument for the 3.6-m Devasthal Optical Telescope: 4Kx4K CCD Imager|3
+2018JApA...39....2R|Rao, A|High energy transients: The millisecond domain|0
+2018JApA...39...11R|Ramadevi, M;Ravishankar, B;Sarwade, A;Vaishali, S;Iyer, N;Nandi, A;Girish, V;Agarwal, V;Baby, B;Hasan, M;Seetha, S;Bhattacharya, D|Study of X-ray transients with Scanning Sky Monitor (SSM) onboard AstroSat|1
+2018MNRAS.473.3385P|Paul, D|Modelling the luminosity function of long gamma-ray bursts using Swift and Fermi|5
+2018MNRAS.477.5437A|Agrawal, V;Nandi, A;Girish, V;Ramadevi, M|Spectral and timing properties of atoll source 4U 1705-44: LAXPC/AstroSat results|5
+2018MNRAS.477L..45C|Chauvin, M;Floren, H;Friis, M;Jackson, M;Kamae, T;Kataoka, J;Kawano, T;Kiss, M;Mikhalev, V;Mizuno, T;Tajima, H;Takahashi, H;Uchida, N;Pearce, M|The PoGO+ view on Crab off-pulse hard X-ray polarization|7
+2018MNRAS.478.4830C|Chaudhury, K;Chitnis, V;Rao, A;Singh, K;Bhattacharyya, S;Dewangan, G;Chakraborty, S;Chandra, S;Stewart, G;Mukerjee, K;Dey, R|Long-term X-ray variability characteristics of the narrow-line Seyfert 1 galaxy RE J1034+396|2
+2018MNRAS.480L.136M|Maitra, C;Paul, B;Haberl, F;Vasilopoulos, G|Detection of a cyclotron line in SXP 15.3 during its 2017 outburst|5
+2018MNRAS.481.1212R|Rahna, P;Das, M;Murthy, J;Gudennavar, S;Bubbly, S|A study of the star-forming regions in the spiral galaxy NGC 2336 using the Ultraviolet Imaging Telescope (UVIT)|2
+2018MNRAS.481.5286F|Folsom, C;Fossati, L;Wood, B;Sreejith, A;Cubillos, P;Vidotto, A;Alecian, E;Girish, V;Lichtenegger, H;Murthy, J;Petit, P;Valyavin, G|Characterization of the HD 219134 multiplanet system I. Observations of stellar magnetism, wind, and high-energy flux|6
+2018SSRv..214...15D|Degenaar, N;Ballantyne, D;Belloni, T;Chakraborty, M;Chen, Y;Ji, L;Kretschmar, P;Kuulkers, E;Li, J;Maccarone, T;Malzac, J;Zhang, S;Zhang, S|Accretion Disks and Coronae in the X-Ray Flashlight|20
+2017A&C....20..120M|Murthy, J;Rahna, P;Sutaria, F;Safonova, M;Gudennavar, S;Bubbly, S|JUDE: An Ultraviolet Imaging Telescope pipeline|7
+2017AJ....154..128T|Tandon, S;Subramaniam, A;Girish, V;Postma, J;Sankarasubramanian, K;Sriram, S;Stalin, C;Mondal, C;Sahu, S;Joseph, P;Hutchings, J;Ghosh, S;Barve, I;George, K;Kamath, P;Kathiravan, S;Kumar, A;Lancelot, J;Leahy, D;Mahesh, P;Mohan, R;Nagabhushana, S;Pati, A;Kameswara Rao, N;Sreedhar, Y;Sreekumar, P|In-orbit Calibrations of the Ultraviolet Imaging Telescope|31
+2017AJ....154..233S|Subramaniam, A;Sahu, S;Postma, J;Cote, P;Hutchings, J;Darukhanawalla, N;Chung, C;Tandon, S;Rao, N;George, K;Ghosh, S;Girish, V;Mohan, R;Murthy, J;Pati, A;Sankarasubramanian, K;Stalin, C;Choudhury, S|The Horizontal Branch Population of NGC 1851 as Revealed by the Ultraviolet Imaging Telescope (UVIT)|4
+2017ApJ...835..195M|Misra, R;Yadav, J;Verdhan Chauhan, J;Agrawal, P;Antia, H;Pahari, M;Chitnis, V;Dedhia, D;Katoch, T;Madhwani, P;Manchanda, R;Paul, B;Shah, P|AstroSat/LAXPC Observation of Cygnus X-1 in the Hard State|20
+2017ApJ...841...41V|Verdhan Chauhan, J;Yadav, J;Misra, R;Agrawal, P;Antia, H;Pahari, M;Sridhar, N;Dedhia, D;Katoch, T;Madhwani, P;Manchanda, R;Paul, B;Shah, P|AstroSat/LAXPC Detection of Millisecond Phenomena in 4U 1728-34|15
+2017ApJ...845..152B|Bhalerao, V;Kasliwal, M;Bhattacharya, D;Corsi, A;Aarthy, E;Adams, S;Blagorodnova, N;Cantwell, T;Cenko, S;Fender, R;Frail, D;Itoh, R;Jencson, J;Kawai, N;Kong, A;Kupfer, T;Kutyrev, A;Mao, J;Mate, S;Mithun, N;Mooley, K;Perley, D;Perrott, Y;Quimby, R;Rao, A;Singer, L;Sharma, V;Titterington, D;Troja, E;Vadawale, S;Vibhute, A;Vedantham, H;Veilleux, S|A Tale of Two Transients: GW 170104 and GRB 170105A|18
+2017ApJ...846L..23S|Savchenko, V;Ferrigno, C;Bozzo, E;Bazzano, A;Brandt, S;Chenevez, J;Courvoisier, T;Diehl, R;Hanlon, L;von Kienlin, A;Kuulkers, E;Laurent, P;Lebrun, F;Lutovinov, A;Martin-Carillo, A;Mereghetti, S;Roques, J;Sunyaev, R;Ubertini, P|INTEGRAL Observations of GW170104|9
+2017ApJ...849...16P|Pahari, M;Antia, H;Yadav, J;Verdhan Chauhan, J;Agrawal, P;Misra, R;Chitnis, V;Dedhia, D;Katoch, T;Madhwani, P;Manchanda, R;Paul, B;Shah, P|X-Ray Timing Analysis of Cyg X-3 Using AstroSat/LAXPC: Detection of Milli-hertz Quasi-periodic Oscillations during the Flaring Hard X-Ray State|7
+2017ApJ...849..141B|Bhargava, Y;Rao, A;Singh, K;Choudhury, M;Bhattacharyya, S;Chandra, S;Dewangan, G;Mukerjee, K;Stewart, G;Bhattacharya, D;Mithun, N;Vadawale, S|A Precise Measurement of the Orbital Period Parameters of Cygnus X-3|7
+2017ApJS..231...10A|Antia, H;Yadav, J;Agrawal, P;Verdhan Chauhan, J;Manchanda, R;Chitnis, V;Paul, B;Dedhia, D;Shah, P;Gujar, V;Katoch, T;Kurhade, V;Madhwani, P;Manojkumar, T;Nikam, V;Pandya, A;Parmar, J;Pawar, D;Pahari, M;Misra, R;Navalgund, K;Pandiyan, R;Sharma, K;Subbarao, K|Calibration of the Large Area X-Ray Proportional Counter (LAXPC) Instrument on board AstroSat|43
+2017ExA....43...59G|Girish, V;Tandon, S;Sriram, S;Kumar, A;Postma, J|Mapping distortion of detectors in UVIT onboard AstroSat observatory|10
+2017ExA....44...11R|Ramadevi, M;Seetha, S;Bhattacharya, D;Ravishankar, B;Sitaramamurthy, N;Meena, G;Sharma, M;Kulkarni, R;Babu, V;Kumar,;Singh, B;Jain, A;Yadav, R;Vaishali, S;Ashoka, B;Agarwal, A;Balaji, K;Nagesh, G;Kumar, M;Gaan, D;Kulshresta, P;Agarwal, P;Sebastian, M;Rajarajan, A;Radhika, D;Nandi, A;Girish, V;Agarwal, V;Kushwaha, A;Iyer, N|Scanning sky monitor (SSM) onboard AstroSat|3
+2017JApA...38...27A|Agrawal, P|AstroSat: From Inception to Realization and Launch|8
+2017JApA...38...28T|Tandon, S;Hutchings, J;Ghosh, S;Subramaniam, A;Koshy, G;Girish, V;Kamath, P;Kathiravan, S;Kumar, A;Lancelot, J;Mahesh, P;Mohan, R;Murthy, J;Nagabhushana, S;Pati, A;Postma, J;Rao, N;Sankarasubramanian, K;Sreekumar, P;Sriram, S;Stalin, C;Sutaria, F;Sreedhar, Y;Barve, I;Mondal, C;Sahu, S|In-orbit Performance of UVIT and First Results|22
+2017JApA...38...29S|Singh, K;Stewart, G;Westergaard, N;Bhattacharayya, S;Chandra, S;Chitnis, V;Dewangan, G;Kothare, A;Mirza, I;Mukerjee, K;Navalkar, V;Shah, H;Abbey, A;Beardmore, A;Kotak, S;Kamble, N;Vishwakarama, S;Pathare, D;Risbud, V;Koyande, J;Stevenson, T;Bicknell, C;Crawford, T;Hansford, G;Peters, G;Sykes, J;Agarwal, P;Sebastian, M;Rajarajan, A;Nagesh, G;Narendra, S;Ramesh, M;Rai, R;Navalgund, K;Sarma, K;Pandiyan, R;Subbarao, K;Gupta, T;Thakkar, N;Singh, A;Bajpai, A|Soft X-ray Focusing Telescope Aboard AstroSat: Design, Characteristics and Performance|29
+2017JApA...38...30A|Agrawal, P;Yadav, J;Antia, H;Dedhia, D;Shah, P;Chauhan, J;Manchanda, R;Chitnis, V;Gujar, V;Katoch, T;Kurhade, V;Madhwani, P;Manojkumar, T;Nikam, V;Pandya, A;Parmar, J;Pawar, D;Roy, J;Paul, B;Pahari, M;Misra, R;Ravichandran, M;Anilkumar, K;Joseph, C;Navalgund, K;Pandiyan, R;Sarma, K;Subbarao, K|Large Area X-Ray Proportional Counter (LAXPC) Instrument on AstroSat and Some Preliminary Results from its Performance in the Orbit|25
+2017JApA...38...31B|Bhalerao, V;Bhattacharya, D;Vibhute, A;Pawar, P;Rao, A;Hingar, M;Khanna, R;Kutty, A;Malkar, J;Patil, M;Arora, Y;Sinha, S;Priya, P;Samuel, E;Sreekumar, S;Vinod, P;Mithun, N;Vadawale, S;Vagshette, N;Navalgund, K;Sarma, K;Pandiyan, R;Seetha, S;Subbarao, K|The Cadmium Zinc Telluride Imager on AstroSat|22
+2017JApA...38...32R|Ramadevi, M;Ravishankar, B;Sitaramamurthy, N;Meena, G;Singh, B;Jain, A;Yadav, R;Agarwal, A;Babu, V;Kumar,;Kushwaha, A;Vaishali, S;Iyer, N;Nandi, A;Girish, V;Agarwal, V;Seetha, S;Bhattacharya, D;Balaji, K;Kumar, M;Kulshresta, P|Early In-orbit Performance of Scanning Sky Monitor Onboard AstroSat|4
+2017JApA...38...33R|Rao, A;Patil, M;Bhargava, Y;Khanna, R;Hingar, M;Kutty, A;Malkar, J;Basak, R;Sreekumar, S;Samuel, E;Priya, P;Vinod, P;Bhattacharya, D;Bhalerao, V;Vadawale, S;Mithun, N;Pandiyan, R;Subbarao, K;Seetha, S;Sarma, K|Charged Particle Monitor on the Astrosat Mission|4
+2017JApA...38...34N|Navalgund, K;Suryanarayana Sarma, K;Gaurav, P;Nagesh, G;Annadurai, M|AstroSat - Configuration and Realization|0
+2017JApA...38...35P|Pandiyan, R;Subbarao, S;Nagamani, T;Rao, C;Rao, N;Joglekar, H;Kumar, N;Dumpa, S;Chauhan, A;Dakshayani, B|Planning and Scheduling of Payloads of AstroSat During Initial and Normal Phase Observations|0
+2017JApA...38...51B|Bhattacharya, D|Observing Compact Stars with AstroSat|2
+2017MNRAS.471.3028R|Rahna, P;Murthy, J;Safonova, M;Sutaria, F;Gudennavar, S;Bubbly, S|Investigating the in-flight performance of the UVIT payload on AstroSat|5
+2017MNRAS.472..891B|Basak, R;Iyyani, S;Chand, V;Chattopadhyay, T;Bhattacharya, D;Rao, A;Vadawale, S|Surprise in simplicity: an unusual spectral evolution of a single pulse GRB 151006A|5
+2017PASP..129k5002P|Postma, J;Leahy, D|CCDLAB: A Graphical User Interface FITS Image Data Reducer, Viewer, and Canadian UVIT Data Pipeline|18
+2016ApJ...833...27Y|Yadav, J;Misra, R;Verdhan Chauhan, J;Agrawal, P;Antia, H;Pahari, M;Dedhia, D;Katoch, T;Madhwani, P;Manchanda, R;Paul, B;Shah, P;Ishwara-Chandra, C|Astrosat/LAXPC Reveals the High-energy Variability of GRS 1915+105 in the X Class|26
+2016ApJ...833...86R|Rao, A;Chand, V;Hingar, M;Iyyani, S;Khanna, R;Kutty, A;Malkar, J;Paul, D;Bhalerao, V;Bhattacharya, D;Dewangan, G;Pawar, P;Vibhute, A;Chattopadhyay, T;Mithun, N;Vadawale, S;Vagshette, N;Basak, R;Pradeep, P;Samuel, E;Sreekumar, S;Vinod, P;Navalgund, K;Pandiyan, R;Sarma, K;Seetha, S;Subbarao, K|AstroSat CZT Imager Observations of GRB 151006A: Timing, Spectroscopy, and Polarization Study|20
+2016ApJ...833..244S|Stevens, A;Fiege, J;Leahy, D;Morsink, S|Neutron Star Mass-Radius Constraints Using Evolutionary Optimization|10
+2016ApJ...833L..27S|Subramaniam, A;Sindhu, N;Tandon, S;Kameswara Rao, N;Postma, J;Cote, P;Hutchings, J;Ghosh, S;George, K;Girish, V;Mohan, R;Murthy, J;Sankarasubramanian, K;Stalin, C;Sutaria, F;Mondal, C;Sahu, S|A Hot Companion to a Blue Straggler in NGC 188 as Revealed by the Ultra-Violet Imaging Telescope (UVIT) on ASTROSAT|12
+2016ExA....42..249R|Roy, J;Agrawal, P;Dedhia, D;Manchanda, R;Shah, P;Chitnis, V;Gujar, V;Parmar, J;Pawar, D;Kurhade, V|Performance of large area x-ray proportional counters in a balloon experiment|7
+2016JApA...37...36K|Konar, S;Bagchi, M;Bandyopadhyay, D;Banik, S;Bhattacharya, D;Bhattacharyya, S;Gangadhara, R;Gopakumar, A;Gupta, Y;Joshi, B;Maan, Y;Maitra, C;Mukherjee, D;Pai, A;Paul, B;Ray, A;Sutaria, F|Neutron Star Physics in the Square Kilometre Array Era: An Indian Perspective|11
+2016PhDT........15C|Chattopadhyay, T|Observational Aspects of Hard X-ray Polarimetry|0
+2015A&A...578A..73V|Vadawale, S;Chattopadhyay, T;Rao, A;Bhattacharya, D;Bhalerao, V;Vagshette, N;Pawar, P;Sreekumar, S|Hard X-ray polarimetry with Astrosat-CZTI|30
+2015ExA....39...11R|Ramadevi, M;Babu, V;Ashoka, B;Seetha, S|High-gain effects minimized at the ends of the anodes in position sensitive gas proportional counters for SSM on ASTROSAT|3
+2015Natur.525..438P|Padma, T|Indian ASTROSAT telescope set for global stardom|1
+2015RAA....15.1647S|Sindhu, N;Annapurni, S;Anu Radha, C|Simulation of old open clusters for UVIT on ASTROSAT|2
+2014A&A...565A..33P|Pradhan, A;Ojha, D;Robin, A;Ghosh, S;Vickers, J|A stellar population synthesis model for the study of ultraviolet star counts of the Galaxy|5
+2014AdSpR..53..982C|Cote, P|Wide-field UV imaging: Current capabilities and performance requirements for future missions|4
+2014Ap&SS.354..143H|Hutchings, J|The UVIT telescopes on the Astrosat observatory|9
+2014ExA....37..555C|Chattopadhyay, T;Vadawale, S;Rao, A;Sreekumar, S;Bhattacharya, D|Prospects of hard X-ray polarimetry with Astrosat-CZTI|20
+2013A&C.....1...46S|Safonova, M;Mohan, R;Sreejith, A;Murthy, J|Predicting UV sky for future UV missions|1
+2013APh....43..142T|Takahashi, T;Uchiyama, Y;Stawarz, L|Multiwavelength Astronomy and CTA: X-rays|16
+2013AdSpR..51.1278M|Maeda, Y;Mori, H;Dotani, T|A new eclipsing low-mass X-ray binary with a giant companion|1
+2013Ap&SS.344..361R|Ravichandran, S;Preethi, K;Safonova, M;Murthy, J|Large scale extinction maps with UVIT|4
+2013IJMPD..2241009P|Paul, B|Astrosat: Some Key Science Prospects|13
+2011AdSpR..47.1451O|O'Brien, P|Astrosat|1
+2011BASI...39..409B|Belloni, T;Motta, S;Munoz-Darias, T|Black hole transients|112
+2011ExA....31...83R|Ramadevi, M;Seetha, S|Spectral calibration of scanning sky monitor on ASTROSAT|3
+2011ExA....31...99R|Ramadevi, M;Ravishankar, B;Seetha, S|Position calibration methodology for scanning sky monitor for ASTROSAT|3
+2011PASP..123..833P|Postma, J;Hutchings, J;Leahy, D|Calibration and Performance of the Photon-counting Detectors for the Ultraviolet Imaging Telescope (UVIT) of the Astrosat Observatory|26
+2010ExA....28...11S|Sagdeo, A;Rai, S;Lodha, G;Singh, K;Yadav, N;Dhawan, R;Tonpe, U;Vahia, M|X-ray characterization of thin foil gold mirrors of a soft X-ray telescope for ASTROSAT. Characterization of SXT mirrors by X-ray reflectivity|9
+2010NIMPA.616...55R|Rao, A;Naik, S;Patil, M;Malkar, J;Kalyan Kumar, R|An alpha tagged X-ray source for the calibration of space borne X-ray detectors|4
+2009ASSP....7..329U|Ubeda, L;Robert, C;Drissen, L;Uvit Canadian Science Team|Introducing UVIT|1
+2009AcAau..65....6K|Koteswara Rao, V;Agrawal, P;Sreekumar, P;Thyagarajan, K|The scientific objectives of the ASTROSAT mission of ISRO|3
+2009NIMPA.604..747K|Kothare, A;Mirza, I;Singh, K;Abbey, A|FPGA-based flexible CCD control system for X-ray astronomy payloads|5
+2009NewA...14..649B|Bora, A;Gupta, R;Singh, H;Duorah, K|Automated star-galaxy segregation using spectral and integrated band data for TAUVEX/ASTROSAT satellite data pipeline|4
+2009PASP..121..621S|Srivastava, M;Prabhudesai, S;Tandon, S|Studying the Imaging Characteristics of Ultra Violet Imaging Telescope (UVIT) through Numerical Simulations|10
+2008AsUAI...1...52L|Liberati, F;Riccardi, M;Bianciardi, G;Perrotta, G|Il telescopio spaziale AstroSat-SkyWave (UAI-AMSAT): studio di fattibilità dell'osservatorio FLAVIO|0
+2007PASP..119.1152H|Hutchings, J;Postma, J;Asquin, D;Leahy, D|Photon Event Centroiding with UV Photon-counting Detectors|15
+2006AdSpR..38.2989A|Agrawal, P|A broad spectral band Indian Astronomy satellite ‘Astrosat’|74
+2006AdSpR..38.2995S|Seetha, S;Ramadevi, M;Babu, V;Sharma, M;Murthy, N;Ashoka, B;Shyama, K;Kulkarni, R;Meena, G;Sreekumar, P|The Scanning Sky Monitor (SSM) on ASTROSAT|11
+2006AdSpR..38.2999B|Bhattacharya, D|Imaging with the ASTROSAT scanning sky monitor|0
+2006AdSpR..38.3002R|Ramadevi, M;Seetha, S;Babu, V;Ashoka, B;Sreekumar, P|Optimisation of X-ray proportional counters for Scanning Sky Monitor (SSM) on ASTROSAT|7
+2005BASI...33..253S|Sreekumar, P|ASTROSAT observations: complementary studies from gound.|1
+2005BASI...33..351A|Agrawal, P;Astrosat Collaboration|The Indian Multiwavelength Astronomy Satellite "ASTROSAT"|3
+2005JRASC..99R.138H|Hutchings, J;Uvit Science Team|UVIT: Canadian Partnership in the ASTROSAT Orbiting Observatory|0
+2005NIMPA.552..399Y|Yadav, J;Savitri, S;Malkar, J|Near room temperature X-ray and γ-ray spectroscopic detectors for future space experiments|5
+2003BASI...31..249K|Kameswara Rao, N|Ultra Violet Imaging Telescope (UVIT) Science*|3
+2003BASI...31..479P|Pati, A;Mahesh, P;Nagabhushana, S;Subramanian, V|The Ultra Violet Imaging Telescope: Mechanical Design|1
+2003BASI...31..485S|Seetha, S;Ssm Team Of Astrosat|Scanning Sky Monitor (SSM) on ASTROSAT- A Status Report|1
+2003BASI...31..487M|Mishra, S;Bhattacharya, D|A Dynamic Sky Simulation for the Scanning Sky Monitor on ASTROSAT|0
+2003BASI...31..491S|Shankar, B;Bhattacharya, D|Image Reconstruction for a Continuously Rotating Coded Mask Camera|2
+2002BASI...30..803S|Singh, K;Astrosat Team|Science from ASTROSAT.|1
+2001BASI...29..263M|Murthy, J|Multiwavelength observations of interstellar dust|0

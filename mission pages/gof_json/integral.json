@@ -1,0 +1,72 @@
+{
+    "title": "The International Gamma-Ray Astrophysics Laboratory (INTEGRAL)",
+    "name": "INTEGRAL",
+    "alttext": "Impression of INTEGRAL in orbit (courtesy of ESA)",
+    "imagesize": 250,
+    "imageurl": "/Images/integral/Integral_inorbit.jpg",
+    "descript": "<p><b><font size=\"+2\">T</font>he International Gamma-Ray Astrophysics Laboratory (INTEGRAL)</b> of the European Space Agency was successfully launched on October 17, 2002. It was lifted off from Baikonur in Kazakhstan on a Russian Proton launcher and placed in a 72-hour elliptical orbit, ranging from 9,000 km up to 155,000 km from Earth. INTEGRAL is the successor of the ESA gamma-ray observatory Cos-B and the NASA gamma-ray Observatory CGRO. It produced a complete map of the sky in the soft gamma-ray waveband and it is capable of performing high spectral and spatial observations in gamma rays. The observatory was also equipped with X-ray and optical detectors to provide simultaneous observations in these wavebands.</p>",
+    "decade" : 2000,
+    "gofsidebar" : "Past",
+    "lifetime": "Oct 2002&ndash;Feb 2025",
+    "features": [
+	"First mission to perform simultaneous high-resolution spectroscopy and imaging across a broad range of gamma-ray energies"
+    ],
+    "instruments": [
+	{
+	    "name" : "SPI",
+	    "energy" : "20 keV &ndash; 8 MeV",
+	    "resolution" : "2&deg;",
+	    "fov" : "16&deg;",
+	    "area" : "500 cm<sup>2</sup>",
+	    "energy_resolution" : "500 (E/&Delta;E) at 1 MeV",
+	    "descript" : "Spectrometer with coded aperture mask and a germanium array detector"
+	},
+	{
+	    "name" : "IBIS",
+	    "energy" : "15 kev &ndash; 10 MeV",
+	    "resolution" : "12&prime;",
+	    "fov" : "9&deg; &times; 9&deg;",
+	    "area" : "2600 cm<sup2</sup> (CdTe array)<br>3100 cm<sup2</sup> (CsI array)",
+	    "descript" : "Imager with coded aperture mask and CdTe and CsI arrays"
+	},
+	{
+	    "name" : "Joint European X-ray Monitor (JEM-X)",
+	    "energy" : "3&ndash;35 keV",
+	    "resolution" : "3&prime;",
+	    "fov" : "4.8&deg;",
+	    "area" : "500 cm<sup>2</sup> each",
+	    "descript" : "Coded aperture mask with 2 high pressure microstrip gas chambers"
+	},
+	{
+	    "name" : "Optical Monitoring Camera (OMC)",
+	    "wavelength" : "500&ndash;850 nm",
+	    "fov" : "5&deg; &times; 5&deg;",
+	    "descript" : "50 mm lens with CCD"
+	}
+    ],
+    "highlights": [
+	"Provided high detail maps of the Milky Way in hard X-rays and soft gamma rays",
+	"Created a precise map of 511 keV electron-positron annihilation in the galactic plane",
+	"Observed hundreds of GRBs",
+	"Discovered new class of sources: Supergiant Fast X-ray Transients",
+	"Discovered persistent hard X-ray emission form magnetars",
+	"Completed the first hard X-ray survey of AGN, finding that many are heavily obscured",
+	"Detected gamma-ray emission from the GW170817 binary neutron star merger 1.7 s after the gravitional wave detection, making INTEGRAL among the first spacecraft to participate in successful multi-messenger detection"
+    ],
+    "credit" : "INTEGRAL artist&rsquo;s view courtesy of ESA",
+    "archive": "The HEASARC hosts the INTEGRAL data and catalogs.",
+    "navigation": [
+	{
+	    "url" : "http://www.rssd.esa.int/SA-general/Projects/Integral/integral.html",
+	    "text" : "ESA INTEGRAL"
+	},
+	{
+	    "url" : "http://isdc.unige.ch/",
+	    "text" : "Science Data Center"
+	},
+	{
+	    "url" : "/docs/integral/integralgof.html",
+	    "text" : "Guest Observer Facility"
+	}
+    ]
+}

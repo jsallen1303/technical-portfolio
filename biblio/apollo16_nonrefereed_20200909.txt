@@ -1,0 +1,11 @@
+1998DPS....30.0702M|McFadden, L;Clark, P;Basu, A|Iron signatures in Planetary Regoliths: The Moon as Case Study|0
+1997LPI....28..519H|Haskin, L|The Distribution of Th on the Moon's Surface|4
+1997herb.conf...47E|Evans, L;Trombka, J;Starr, R;Boynton, W;Bailey, S|Continuum background in space-borne gamma-ray detectors.|0
+1996DPS....28.1704C|Clark, P;McFadden, L|The Moon as Case Study, 2: Examining the Relationship Between Surface Chemical, Mineralogical, and Physical Properties|0
+1978grsa.rept..190G|Gilman, D;Metzger, A;Parker, R;Trombka, J|The galactic gamma-ray flux in the 0.06 to 5 MeV range|6
+1977legr.book.....G|Gilman, D|Low energy gamma ray astronomy from Apollo 16|0
+1977spmf.conf.....A|Arnold, J|Lunar resource surveys from orbit|8
+1976cuni.rept.....G|Greisen, K|Studies in support of the analysis of astronomical data from Apollo 16|0
+1975ICRC....1....2D|Dyer, C;Trombka, J;Metzger, A;Seltzer, S;Bielefeld, M;Evans, L|Interpretation of Various Radiation Background Observed in the Gamma-Ray Spectrometer Experiments Carried on the Apollo Missions and Implications for Diffuse Gamma-Ray Measurements|3
+1975xris.conf..638O|Ogawara, Y;Matsuoka, M;Miyamoto, S;Muranaka, N;Oda, M|A balloon observation of a small cosmic X-ray burst|0
+1974map..confS...4T|Trombka, J;Arnold, J;Adler, I;Metzger, A;Reedy, R|Lunar elemental analysis obtained from the Apollo gamma-ray and X-ray remote sensing experiment|0

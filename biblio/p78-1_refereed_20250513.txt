@@ -1,0 +1,93 @@
+2023SoPh..298..105R|Richardson, I;St. Cyr, O;Burkepile, J;Xie, H;Thompson, B|Solar Energetic-Particle-Associated Coronal Mass Ejections Observed by the Mauna Loa Solar Observatory Mk3 and Mk4 Coronameters|0
+2018ApJ...863...10P|Phillips, K;Sylwester, J;Sylwester, B;Kowalinski, M;Siarkowski, M;Trzebinski, W;Plocieniak, S;Kordylewski, Z|Highly Ionized Calcium and Argon X-Ray Spectra from a Large Solar Flare|7
+2015hchp.book..119P|Pelton, J|Early Solar and Heliophysical Space Missions|0
+2012MNRAS.421.1757P|Phillips, K|The solar photospheric-to-coronal Fe abundance ratio from X-ray fluorescence lines|5
+2010JGRA..115.5103Y|Yao, S;Marsch, E;Tu, C;Schwenn, R|Identification of prominence ejecta by the proton distribution function and magnetic fine structure in interplanetary coronal mass ejections in the inner heliosphere|40
+2006AdSpR..38.1482D|Doschek, G|High-resolution X-ray spectra of solar flares|4
+1998Ge&Ae..38..238S|Shilova, N;Vanyarkha, N|Solar Coronal Transients and the Neutral Field Line on the Source Surface|0
+1997JGR...10224069J|Jayanthi, U;Pereira, M;Martin, I;Stozkov, Y;D'Amico, F;Villela, T|Electron precipitation associated with geomagnetic activity: Balloon observation of X ray flux in South Atlantic anomaly|8
+1997SoPh..171...93W|Warren, G;Keenan, F;Greer, C;Phillips, K;Bruner, M;Brown, W;McKenzie, D|F XVIII Emission Lines in Solar X-Ray Spectra|4
+1996AdSpR..17d.319B|Bothmer, V;Schwenn, R|Signatures of fast CMEs in interplanetary space|68
+1996R&QE...39..944D|Daibog, E;Stolpovskii, V;Suvorova, A|Coronal mass ejections as a possible source of energetic electrons in interplanetary space|0
+1995AdSpR..15g..33P|Phillips, K;Pike, C;Lang, J;Zarro, D;Fludra, A;Watanabe, T;Takahashi, M|Evidence for the equality of the solar photospheric and coronal abundance of iron|6
+1994ApJ...420..892M|McKenzie, D;Feldman, U|Solar Coronal Abundances of Elements with Low First Ionization Potential: Chromium, Calcium, and Aluminum|10
+1994ApJ...426..454K|Keenan, F;McKenzie, D;Phillips, K;Conlon, E|SI XIII Emission Lines in Solar Flare X-Ray Spectra Obtained with the P78-1 Satellite|1
+1994ApJ...435..898S|Sterling, A;Doschek, G;Pike, C|Fe XXV Temperatures in Flares from the YOHKOH Bragg Crystal Spectrometer|12
+1994LNP...432..191C|Chertok, I;Gnezdilov, A|Frequency spectra of solar microwave bursts associated with coronal mass ejections|0
+1994RMxAA..28...17B|Bravo, S;Perez-Enriquez, R|Coronal Mass Ejections Associated with Interplanetary Shocks and Their Relation to Coronal Holes|10
+1993AZh....70..165C|Chertok, I|Solar coronal mass ejections|11
+1993JGR....9813575I|Imhof, W;Gaines, E|Inputs to the atmosphere from relativistic electrons|10
+1992AZh....69..593C|Chertok, I;Gnezdilov, A;Zaborova, E|Microwave and soft X-ray emission of solar flare events associated with coronal transients|3
+1992ApJ...385..378M|McKenzie, D;Keenan, F;McCann, S;Berrington, K;Hibbert, A;Mohan, M|Fe XVIII Emission-Line Intensities in the Sun|8
+1992JGR....97.6397I|Imhof, W;Nightingale, R|Relativistic Electron Enhancements Observed Over a Range of L Shells Trapped at High Altitudes and Precipitating at Low Altitudes into the Atmosphere|8
+1991ApJ...379..401P|Phillips, K;Feldman, U|The Iron-to-Calcium Abundance Ratio in the 20 X 10 6 K Plasma of Medium and Large Solar Flares|19
+1990ApJ...348..341D|Doschek, G;Seely, J|The Ar/Ca Abundance Ratio in Solar Flares|7
+1990ApJS...73..117D|Doschek, G|Soft X-Ray Spectroscopy of Solar Flares: an Overview|101
+1989ApJ...338..567S|Seely, J;Doschek, G|Measurement of Wavelengths for Inner-Shell Transitions in CA xvii--xix|12
+1989JGR....9410061S|Schumaker, T;Gussenhoven, M;Hardy, D;Carovillano, R|The relationship between diffuse auroral and plasma sheet electron distributions near local midnight|43
+1988AdSpR...8k..67C|Culhane, J|X-ray spectroscopy of high temperature plasma in solar flares|1
+1988AdSpR...8k.161L|Lemen, J;Fludra, A;Jakimiec, J|Investigations of turbulent and directed motions in solar flares|2
+1988AdSpR...8k.251K|Kane, S;Landecker, P;McKenzie, D|Monex high energy monitor on P78-1: Intercalibration with ISEE-3 X-ray spectrometer|0
+1988ApJ...326.1002B|Bruner, M;McWhirter, R|Radiating Properties of Solar Plasmas|53
+1988ApJ...334..494B|Bruner, M;Crannell, C;Goetz, F;Magun, A;McKenzie, D|Dynamic Evolution of the Source Volumes of Gradual and Impulsive Solar Flare Emissions|7
+1988JPhys..49..331M|McCann, S;Keenan, F|The comparison of helium-like ion emission line ratios with solar X-ray spectral data.|1
+1988SoPh..115..327J|Jackson, B;Rompolt, B;Svestka, Z|Solar and interplanetary observations of the mass ejection on 7 May, 1979|21
+1987A&A...188..159A|Antonucci, E;Marocchi, D;Gabriel, A;Doschek, G|Calcium ionization balance and argon/calcium abundance in solar flares|14
+1987ApJ...318..926K|Keenan, F;McKenzie, D;McCann, S;Kingston, A|NE IX Emission-Line Ratios in Solar Active Regions|23
+1987JGR....92.1211I|Imhof, W;Voss, H;Mobilia, J;Datlowe, D|Bremsstrahlung X ray mappings of an intense, widespread, and pulsating electron precipitation event following a sudden commencement|4
+1987JGR....92.7227K|Karpen, J;Howard, R|A search for forerunner activity associated with coronal mass ejections|6
+1987SoPh..109...31K|Keenan, F;McCann, S|Al XII line ratios in the Sun|9
+1986ApJ...302..504K|Kahler, S;Cliver, E;Cane, H;McGuire, R;Stone, R;Sheeley, N|Solar Filament Eruptions and Energetic Particle Events|118
+1986ApJ...303..486K|Keenan, F;Kingston, A;McKenzie, D|The Derivation of Solar Coronal Electron Temperature from the 1 1S--n 1P/1 1S--2 1P Emission-Line Ratios in MG XI|21
+1986ApJ...304..838S|Seely, J;Feldman, U;Safronova, U|Measurement of Wavelengths and Lamb Shifts for Inner-Shell Transitions in Fe xviii--xxiv|45
+1986ApJ...306..327K|Karpen, J;Doschek, G;Seely, J|High-Resolution X-Ray Spectra of Solar Flares. VIII. Mass Upflow in the Large Flare of 1980 November 7|29
+1986JGR....91.3077I|Imhof, W;Voss, H;Reagan, J;Datlowe, D;Gaines, E;Mobilia, J;Evans, D|Relativistic electron and energetic ion precipitation spikes near the plasmapause|42
+1986JGR....9113455G|Gaines, E;Imhof, W;Francis, W;Walt, M;Rosenberg, T|Correlated electron and X ray measurements of quiet time electron precipitation: a comparative study of Bremsstrahlung production and transport in the atmosphere|5
+1986SSRv...44..139S|Schwenn, R|Relationship of Coronal Transients to Interplanetary Shocks - 3d Aspects|68
+1985ApJ...291..855K|Keenan, F;Kingston, A;McKenzie, D|The l(1)S-n(1)P/1(1)S-2(1)P emission-line ratios in O VII as temperature diagnostics for solar flares and active regions|19
+1985ApJ...292..309K|Kreplin, R;Doschek, G;Feldman, U;Sheeley, N;Seely, J|High-resolution X-ray spectra of solar flares. VII - A long-duration X-ray flare associated with a coronal mass ejection|12
+1985ApJ...297..338R|Rugge, H;McKenzie, D|X-ray line ratios for Fe-XVII observed in the solar corona|65
+1985JGR....90.1543I|Imhof, W;Kilner, J;Reagan, J|Morphological study of energetic electron precipitation events using the satellite bremsstrahlung X ray technique|11
+1985JGR....90.2727S|Simons, S;Reiff, P;Spiro, R;Hardy, D;Kroehl, H|A comparison of precipitating electron energy flux on March 22, 1979 with an empirical model - CDAW 6|10
+1985JGR....90.4229H|Hardy, D;Gussenhoven, M;Holeman, E|A statistical model of auroral electron precipitation|416
+1985MNRAS.217..317D|Doschek, G;Feldman, U;Seely, J|Element abundances from solar flare spectra|53
+1985SoPh...97..145R|Robinson, R;Stewart, R|A Positional Comparison Between Coronal Mass Ejection Events and Solar Type-II Bursts|40
+1984AdSpR...4g.307H|Howard, R;Sheeley, N;Koomen, M;Michels, D|The statistical properties of coronal mass ejections during 1979-1981|10
+1984ApJ...276L..53F|Feldman, U;Doschek, G;McKenzie, D|On the rate of energy input in thermal solar flares|12
+1984ApJ...280L..59S|Seely, J;Feldman, U|Direct measurement of the increase in altitude of the soft X-ray emission region during a solar flare|23
+1984ApJ...286..681L|Laros, J;Evans, W;Fenimore, E;Klebesadel, R;Shulman, S;Fritz, G|3 keV to 2 MeV observations of four gamma-ray bursts|61
+1984ApJ...286..787C|Cheng, C;Doschek, G;Karpen, J|Numerical simulations of loops heated to solar flare temperatures. III - Asymmetrical heating|51
+1984JGR....89.9683K|Kahler, S;Sheeley, N;Howard, R;Michels, D;Koomen, M;McGuire, R;von Rosenvinge, T;Reames, D|Associations beteen coronal mass ejections and solar energetic proton events|268
+1984JGR....8910837I|Imhof, W;Reagan, J;Voss, H;Datlowe, D;Kilner, J;Gaines, E;Mobilia, J;Rosenberg, T;Lanzerotti, L;Joiner, R|A coordinated satellite and ground-based study of an intense electron precipitation spike over the southern polar cap|6
+1984SoPh...90..161G|Gergely, T;Kundu, M;Erksine, F;Sawyer, C;Wagner, W;Illing, R;House, L;McCabe, M;Stewart, R;Nelson, G;Koomen, M;Michels, D;Howard, R;Sheeley, N|Radio and Visible Light Observations of a Coronal Arcade Transient|23
+1984SoPh...94...85K|Keenan, F;Tayal, S;Kingston, A|Theoretical Ne ix line ratios compared to solar observations|18
+1983ApJ...265.1120P|Phillips, K;Lemen, J;Cowan, R;Doschek, G;Leibacher, J|Inner-shell transitions in Fe XIX-XXII in the X-ray spectra of solar flares and Tokamaks|32
+1983ApJ...269..319W|Wolfson, C;Leibacher, J;Doyle, J;Phillips, K|X-ray line ratios from helium-like ions - Updated theory and SMM flare observations|78
+1983ApJ...269L..67K|Kundu, M;Gergely, T;Turner, P;Howard, R|Direct evidence of type III electron streams propagating in coronal streamers|34
+1983ApJ...271..376K|Kane, S;Kai, K;Kosugi, T;Enome, S;Landecker, P;McKenzie, D|Acceleration and confinement of energetic particles in the 1980 June 7 solar flare|111
+1983JATP...45..451G|Gaines, E;Imhof, W;Voss, H;Reagan, J|Satellite observations of energetic electron precipitation during the 1979 solar eclipse and comparisons with rocket measurements|0
+1983PhDT.........9K|Kimble, R|Satellite Observations of the Extreme Ultraviolet and Far Ultraviolet Radiation Fields.|0
+1983RvGSP..21..291S|Shea, M|Overview of cosmic ray studies and associated topics (1979 - 1982).|1
+1983SSRv...34...85S|Schwenn, R|Direct Correlations Between Coronal Transients and Interplanetary Disturbances|70
+1983SoPh...83....3S|Schmahl, E;Kundu, M;Landecker, P;McKenzie, D|Thermal and Nonthermal Phenomena in Solar Flare Loops at 20-CM Wavelength and in X-Rays|6
+1983SoPh...83..233F|Fisher, R;Lacey, L;Rock, K;Yasukawa, E;Sheeley, N;Michels, D;Howard, R;Koomen, M;Bagrov, A|The solar corona on 31 July, 1981|9
+1983SoPh...86....9D|Doschek, G|Solar instruments on the P78-1 spacecraft.|47
+1983SoPh...86...49D|Doschek, G|Solar Flare X-Ray Spectra from the P78 - 1 Spacecraft|13
+1983SoPh...89..181C|Cliver, E;Kahler, S;Cane, H;Koomen, M;Michels, D;Howard, R;Sheeley, N|The GLE-associated flare of 21 August, 1979|36
+1982ApJ...254..309M|McKenzie, D;Landecker, P|The solar coronal X-ray spectrum from 15.4 to 23.0 A - Lines from highly ionized calcium and chromium and their usefulness as plasma diagnostics|32
+1982ApJ...255..320F|Feldman, U;Cheng, C;Doschek, G|Observational constraints for a theoretical model describing the soft X-ray flare|27
+1982ApJ...259..372M|McKenzie, D;Landecker, P|X-ray lines of helium-like oxygen and neon in the solar corona|46
+1982GeoRL...9.1317B|Burlaga, L;Klein, L;Sheeley, N;Michels, D;Howard, R;Koomen, M;Schwenn, R;Rosenbauer, H|A magnetic cloud and a coronal mass ejection|254
+1982JGR....87..671I|Imhof, W;Kilner, J;Datlowe, D;Nakano, G;Reagan, J;Stadsnes, J;Stauning, P|Mappings of energetic electron precipitation following substorms using the satellite bremsstrahlung technique|6
+1982JGR....87.4418I|Imhof, W;Anderson, R;Reagan, J;Gaines, E|Coordinated measurements of slot region electron precipitation by plasmaspheric wave bands|14
+1982JGR....87.8149I|Imhof, W;Stadsnes, J;Reagan, J;Kilner, J;Gaines, E;Datlowe, D;Mobilia, J;Nakano, G|Satellite Bremsstrahlung x ray measurements at the onset of a magnetospheric substorm|7
+1982NIMPR.202..393R|Raymond, J|Highly stripped ions in everyday astrophysics.|0
+1982Sci...215.1097M|Michels, D;Sheeley, N;Howard, R;Koomen, M|Observations of a Comet on Collision Course with the Sun|55
+1981ApJ...249..372D|Doschek, G;Feldman, U;Landecker, P;McKenzie, D|High resolution solar flare X-ray spectra - The temporal behavior of electron density, temperature, and emission measure for two class M flares|86
+1981ApJ...251..792D|Doscher, G;Feldman, U|On ionization equilibrium in solar flares as determined from X-ray emissionlines of CA XVIII and CA XIX|13
+1981JGR....86.1591I|Imhof, W;Gaines, E;Reagan, J|Observations of multiple, narrow energy peaks in electrons, precipitating from the inner radiation belt and their implications for wave-particle interactions|34
+1981JGR....86.2341I|Imhof, W;Gaines, E;Reagan, J|High-resolution spectral features observed in the inner radiation belt trapped electron population|26
+1981JGR....8611225I|Imhof, W;Reagan, J;Gaines, E;Anderson, R|The significance of VLF transmitters in the precipitation of inner belt electrons|42
+1981NIMPR.190..149E|Enge, W;Landecker, P|Properties of the channel electron multiplier arrays (CEMAs) for the SOLEX SOLAR X-ray spectrometer/spectroheliograph.|9
+1980ITNS...27..405N|Nakano, G;Imhof, W;Reagan, J|High resolution gamma-ray spectroscopy on the P87-1 satellite.|6
+1980JGR....85.3347I|Imhof, W;Kilner, J;Nakano, G;Reagan, J|Satellite X ray mappings of sporadic auroral zone electron precipitation events in the local dusk sector|21

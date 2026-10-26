@@ -1,0 +1,41 @@
+1992ApJ...393..266B|Belli, B|Shot Noise in Gamma-Ray Bursts|16
+1992ApJ...397..576L|Lingenfelter, R;Higdon, J|Are Repeaters Responsible for Gamma-Ray Burst &lt; V/V max&lt; 0.5?|3
+1990ApJ...355...13H|Higdon, J;Schmidt, M|Apparent Spatial Uniformity of the Gamma-Ray Bursts Detected by the KONUS Experiment on Venera 11 and Venera 12|40
+1990EM&P...50..471K|Kriuchkov, V|Ridge Belts: Are They Compressional or Extensional Structures?|9
+1989Icar...80..390R|Russell, C;von Dornum, M;Scarf, F|Source locations for impulsive electric signals seen in the night ionosphere of Venus|21
+1987ApJ...319..567D|Desai, U;Kouveliotou, C;Barat, C;Hurley, K;Niel, M;Talon, R;Vedrenne, G;Estulin, I;Dolidze, V|Short Solar Events with Evidence of Repetitive Structures|14
+1986A&A...160..229C|Chassefiere, E;Bertaux, J;Lallement, R;Kurt, V|Atomic hydrogen and helium densities of the interstellar medium measured in the vicinity of the sun|88
+1986Natur.322..152L|Laros, J;Fenimore, E;Fikani, M;Klebesadel, R;Barat, C|The soft γ-ray burst GB790107|82
+1986P&SS...34..585C|Chassefiere, E;Bertaux, J;Kurt, V;Smirnov, A|Venus e.u.v. measurements of helium at 58.4 nm from Venera 11 and Venera 12 and implications for the outgassing history|5
+1985Ap&SS.109..293Z|Zhelezniakov, V;Litvinchuk, A|One-Photon and Two-Photon Annihilation Lines in Gamma Bursts - Part One|15
+1985P&SS...33..109K|Krasnopolsky, V|Chemical composition of venus clouds|20
+1984ApJ...286L..11B|Barat, C;Hurley, K;Niel, M;Vedrenne, G;Mitrofanov, I;Estulin, I;Zenchenko, V;Dolidze, V|Possible short annihilation flashes in the 1978 November 4 gamma-ray burst|20
+1984ApJ...286L..15C|Cline, T;Desai, U;Teegarden, B;Barat, C;Hurley, K;Niel, M;Vedrenne, G;Evans, W;Klebesadel, R;Laros, J|Three precise gamma-ray burst source locations|24
+1983A&A...126..400B|Barat, C;Hayles, R;Hurley, K;Niel, M;Vedrenne, G;Desai, U;Kurt, V;Zenchenko, V;Estulin, I|Fine time structure in the 1979 March 5 gamma ray burst|70
+1983Icar...53....1C|Craig, R;Reynolds, R;Ragent, B;Carle, G;Woeller, F;Pollack, J|Sulfur trioxide in the lower atmosphere of Venus?|3
+1983Icar...53..509M|Moroz, V;Ekonomov, A;Golovin, Y;Moshkin, B;San'ko, N|Solar radiation scattered in the Venus atmosphere: The Venera 11,12 data|20
+1983Icar...53..548C|Croft, T;Price, G|Evidence for a low-altitude origin of lightning on Venus|7
+1983PAZh....9..307B|Bogovalov, S;Liudin, A;Kotov, I;Dolidze, V;Vedrenne, G;Niel, M;Barat, C;Chambon, G;Talon, M;Estulin, I|Observation of quasi-periodic pulsations of hard X-ray radiation of solar flares.|2
+1982Ap&SS..82..261M|Mazets, E;Golenetskii, S;Ilinskii, V;Gurian, I;Aptekar, R;Panov, V;Sokolov, I;Sokolova, Z;Kharitonova, T|Cosmic Gamma-Ray Burst Spectroscopy|68
+1982Geokh........3V|Volkov, V;Sidorov, I;Khodakovskii, I;Barsukov, V|Possible condensates in the principal cloud layer of Venus|1
+1982Icar...52..221B|Bertaux, J;Lepine, V;Kurt, V;Smirnov, A|Altitude profile of H in the atmosphere of Venus from Lyman α observations of Venera 11 and Venera 12 and origin of the hot exospheric component|26
+1982PAZh....8..488D|Dolidze, V;Estulin, I;Vedrenne, G;Niel, M;Talon, A;Chambon, G|On impulsive X-ray flares on the sun.|1
+1981Ap&SS..80....3M|Mazets, E;Golenetskii, S;Ilinskii, V;Panov, V;Aptekar, R;Gurian, I;Proskura, M;Sokolov, I;Sokolova, Z;Kharitonova, T|Catalog of cosmic gamma-ray bursts from the KONUS experiment data|292
+1981ApJ...245L..63L|Laros, J;Evans, W;Fenimore, E;Klebesadel, R;Barat, C;Hurley, K;Niel, M;Vedrenne, G;Estulin, I;Zenchenko, V|Location of the 1979 April 6 gamma-ray burst|34
+1981Geokh........3S|Surkov, I;Kirnozov, F;Gurianov, V;Glazov, V;Dunchenko, A;Kurochkin, S;Rasputnyi, V;Kharitonova, E;Tatsii, L;Gimadov, V|A study of aerosol in the cloud layer of Venus as examined by the Venera-12 probe - Preliminary results|0
+1981Natur.290..378M|Mazets, E;Golenetskii, S;Aptekar, R;Gurian, I;Ilinskii, V|Cyclotron and annihilation lines in γ-ray bursts|272
+1981Natur.292..610K|Krasnopolsky, V;Parshev, V|Chemical composition of the atmosphere of Venus|38
+1981P&SS...29..149B|Bertaux, J;Blamont, J;Lepine, V;Kurt, V;Romanova, N;Smirnov, A|Venera 11 and Venera 12 observations of e.u.v. emissions from the upper atmosphere of Venus|46
+1981PAZh....7...20E|Estulin, I;Dyachklov, A;Zenchenko, V;Kuznetsov, A;Mersov, G;Vedrenn, G;Niel, M;Hurley, K|Three gamma-ray bursts recorded by Venera 11, Venera 12, and Prognoz 7|3
+1981PAZh....7..272K|Kyazumov, G|The rotation and mass of the spiral galaxies NGC 1084 and NGC 6503.|1
+1981PAZh....7..342D|Dyachkov, A;Zenchenko, V|The gamma-ray bursts of 1978 October 13 and 23 and 1979 January 7|0
+1981SSI.....5..229B|Barat, C;Chambon, G;Hurley, K;Niel, M;Vedrenne, G;Estulin, I;Kuznetsov, A;Zenchenko, V|The Signe 2 Franco-Soviet interplanetary gamma ray burst experiment network|16
+1981SvAL....7...12E|Estulin, I;Dyachkov, A;Zenchenko, V;Kuznetsov, A;Mersov, G;Vedrenne, G;Niel, M;Hurley, K|Three Gamma-Ray Bursts Recorded by VENERA-11 VENERA-12 and PROGNOZ-7|4
+1980PAZh....6..609M|Mazets, E;Golenetskij, S;Aptecar, R;Guryan, Y;Ilinskij, V|The galactic origin of gamma-ray bursts|11
+1979A&A....79L..24B|Barat, C;Chambon, G;Hurley, K;Niel, M;Vedrenne, G;Estulin, I;Kurt, V;Zenchenko, V|Evidence for periodicity in a gamma ray burst.|62
+1979Geokh.....1747K|Khodakovskii, I;Volkov, V;Sidorov, I;Dorofeeva, V;Borisov, M;Barsukov, V|A geochemical model of the troposphere and crust of Venus based on new data|1
+1979PAZh....5....3.||The Venera 11 and Venera 12 experiments - First results|1
+1979PAZh....5..211I|Istomin, V;Grechnev, K;Kochnev, V|Venera 11 and 12 mass spectrometry of the lower Venus atmosphere|2
+1979PAZh....5..217G|Gelman, B;Zolotukhin, V;Lamonov, N;Levchuk, B;Mukhin, L;Nenarokov, D;Okhotnikov, B;Rotin, V;Lipatov, A|Gas-chromatographical analysis of the chemical composition of the Venus atmosphere made with the Venera 12 probe.|6
+1979PAZh....5..588V|Vedrenne, G;Zenchenko, V;Kurt, V;Niel, M;Hurley, K;Estulin, I|Observations of the X-ray burster 0525.9-66.1|5
+1979Sci...205..119E|Evans, W;Glore, J;Klebesadel, R;Laros, J;Tech, E;Spalding, R|Gamma-Ray Burst Observations by Pioneer Venus Orbiter|17

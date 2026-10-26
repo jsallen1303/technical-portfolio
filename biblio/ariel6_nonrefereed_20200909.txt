@@ -1,0 +1,8 @@
+1993ldef.symp..261T|Thompson, A;Osullivan, D;Bosch, J;Keegan, R;Wenzel, K;Jansen, F;Domingo, C|Progress report on the ultra heavy cosmic ray experiment (AO178)|1
+1992ldef.symp...27T|Thompson, A;Osullivan, D;Bosch, J;Keegan, R;Wenzel, K;Jansen, F;Domingo, C|Ultra heavy cosmic ray experiment (A0178)|0
+1983ICRC....9..110F|Fowler, P;Masheder, M;Moses, R;Walker, R;Worley, A|Ultra-heavy cosmic ray fluxes from Ariel 6.|2
+1982ans..conf..100R|Ricketts, M;Stanger, V;Page, C|HER X-1: Ariel-5 and Ariel-6 observations|10
+1982ans..conf..107H|Hall, R|Pulse phase spectroscopy of 0115+63 and an observation of 4U1223-62|0
+1981IAUC.3639....1B|Bennetts, A;Ricketts, M;Barstow, M;Goodall, C|SS Cygni|0
+1979IAUC.3404....1C|Cooke, B;Petro, L;van Paradijs, J|Scorpius X-1|1
+1979IAUC.3427....3W|Watson, M;Page, C|Circinus X-1|0

@@ -1,0 +1,19 @@
+2019AAS...23336503V|Vazquez Perez, G;Foster, A|Improving the Spectral Fit for the Diffuse Soft X-ray Background Using Atomdb CHARGE Exchange Models|0
+2011AAS...21821906M|Morgenthaler, J;Edgar, R;Sanders, W;Smith, R;Koutroumpa, D;Henley, D;Shelton, R;Robertson, I;Collier, M;Cravens, T|Spectroscopic Separation of Solar Wind Charge Exchange, Local Bubble, and Nearby Supernova Remnant X-rays: Diffuse X-ray Spectrometer Recent Results|0
+2002AAS...201.4705S|Sanders, W;Lieu, D;McCammon, D;Rocks, L;Vaillancourt, J;Galeazzi, M;Figueroa-Feliciano, E;Kelley, R;Mushotzky, R;Porter, F;Stahle, C;Szymkowiak, A|Further Results from a Microcalorimeter Observation of the Hot ISM &amp; IGM|5
+2000AAS...19513504M|McCammon, D;Almy, R;Apodaca, E;Bergmann, W;Deiker, S;Galeazzi, M;Lesser, A;Sanders, W;Figueroa, E;Kelley, R;Porter, F;Stahle, C;Szymkowiak, A|High Spectral Resolution Observations of the Soft X-ray Diffuse Background with Thermal Detectors|2
+1997AAS...190.4407M|Morgenthaler, J;Sanders, W;Edgar, R|Diffuse X-ray Spectrometer (DXS) Recent Results|0
+1996AAS...188.3102S|Sanders, W|Hot Gas in the Diffuse Interstellar Medium: The Soft X-ray Background|0
+1996BAAS...28.1193E|Edgar, R;Liedahl, D;Sanders, W;McCammon, D;Morgenthaler, J;Moskalenko, E|DXS spectra of the local hot interstellar medium.|0
+1996rftu.proc..339S|Sanders, W;Edgar, R;Liedahl, D|DXS spectra of the 0.25 keV diffuse background.|4
+1996uxsa.conf..131S|Sanders, W;Edgar, R;McCammon, D;Kraushaar, W|Diffuse X-ray spectrometer (DXS) observations of emission lines from the hot interstellar medium.|1
+1995ASPC...80..498S|Sanders, W|Where is the Soft X-Ray Background Coming From?|0
+1993AAS...182.0807S|Sanders, W;Edgar, R;Juda, M;Kraushaar, W;McCammon, D|First Results from the Diffuse X-ray Spectrometer (DXS)|1
+1993AAS...182.0808E|Edgar, R;Sanders, W;Juda, M;Kraushaar, W;McCammon, D|Interpretation of the First Results of the Diffuse X-ray Spectrometer (DXS)|3
+1993AAS...18311401E|Edgar, R;Sanders, W;Juda, M;McCammon, D;Kraushaar, W|Observations of S VIII and SI VIII in the Hot Interstellar Medium|2
+1993SPIE.2006..221S|Sanders, W;Edgar, R;Juda, M;Kraushaar, W;McCammon, D;Snowden, S;Juda, J;Skinner, M;Jahoda, K;Kelley, R;Smale, A;Stahle, C;Szymkowiak, A|Preliminary results from the diffuse x-ray spectrometer|6
+1992SPIE.1743...60S|Sanders, W;Edgar, R;Juda, M;Kraushaar, W;McCammon, D;Snowden, S;Zhang, J;Skinner, M|Diffuse x-ray spectrometer experiment|3
+1992SPIE.1743R....S|Siegmund, O|EUV, X-ray, and gamma-ray instrumentation for astronomy III. Proceedings.|0
+1990hrxr.conf..376S|Sanders, W;Snowden, S;Edgar, R|The SHEAL Diffuse X-ray Spectrometer experiment|0
+1988ESASP.281b..77P|Pellerin, C;Stachnik, R|NASA future missions|0
+1985STIN...8528910M|McCammon, D;Cox, D;Kraushaar, W;Sanders, W|Cosmic X-ray physics|0

@@ -1,0 +1,55 @@
+{
+    "title": "The Vela-5B Satellite",
+    "name": "The Vela-5B Satellite",
+    "alttext": "Artistic concept of Vela 5B",
+    "imagesize": 139,
+    "imageurl": "/Images/vela5b/vela5b_1_small2.gif",
+    "descript": "<p><b><font size=\"+2\">V</font>ela-5B</b> was part of a series of US Vela satellites.The program was run jointly by the Advanced Research Projects of the U.S. Department of Defense and the U.S. Atomic Energy Commission, managed by the U.S. Air Force. They were not intended primarily for astronomical studies but did provide much useful celestial data. The Vela-5A and 5B satellites were launched in 1969 and Vela-6A and 6B in 1970 and they operated in spinning mode. Each operated for about a year except Vela-5B which provided data until mid 1979",
+    "decade" : 1960,
+    "lifetime": "23 May 1969&ndash;1979",
+    "features": [
+	""
+    ],
+    "instruments": [
+	{
+	    "name" : "All Sky Monitor (ASM)",
+	    "energy" : "3&ndash;12 keV",
+	    "area" : "&sim;26 cm<sup>2</sup>",
+	    "fov" : "&sim;6.1&deg; &times; 6.1&deg; (FWHM)",
+	    "descript" : "The scintillation X-ray detector (XC) aboard Vela-5B consisted of two 1-mm-thick NaI(Tl) crystals mounted on photomultiplier tubes and covered by a 5-mil-thick beryllium window. Electronic thresholds provided two energy channels, 3&ndash;12 keV and 6&ndash;12 keV. In front of each crystal was a slat collimator. Sensitivity to celestial sources was severely limited by the intrinsic detector background of &sim;36 ct/sec."
+	},
+	{
+	    "name" : "Gamma Ray Detectors",
+	    "energy" : "150&ndash;750 keV",
+	    "descript" : "Both Vela-5A and 5B carried 6 gamma-ray detectors. They had a total volume of &sim;60 cm<sup>3</sup> of CsI. The Vela spacecraft first discovered gamma ray bursts with these instruments. The four Vela satellites (5A &amp; B, 6A &amp; B) recorded 73 gamma-ray bursts in the ten year interval July 1969&ndash;April 1979."
+	}
+    ],
+    "highlights": [
+	"Long lifetime allowed for study of long-term variability of X-ray binaries and X-ray transients.",
+	"One of the first satellites to detect gamma-ray bursts",
+	"Co-discovered (with ANS) X-ray bursts"
+    ],
+    "archive": "The HEASARC hosts the lightcurves and raw data from the ASM",
+    "navigation": [
+	{
+	    "url" : "/docs/vela5b/vela5b.html",
+	    "text" : "Vela-5B at HEASARC"
+	},
+	{
+	    "url" : "/docs/vela5b/vela5b_about.html",
+	    "text" : "More about Vela-5B"
+	},
+	{
+	    "url" : "/docs/vela5b/archive/vela5b_archive.html",
+	    "text" : "Archive"
+	},
+	{
+	    "url" : "/docs/vela5b/vela5b_images.html",
+	    "text" : "Gallery"
+	},
+	{
+	    "url" : "/docs/vela5b/bib/vela5b_biblio.html",
+	    "text" : "Publications"
+	}	
+    ]
+}

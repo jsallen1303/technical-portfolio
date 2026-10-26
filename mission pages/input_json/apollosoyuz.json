@@ -1,0 +1,36 @@
+{
+  "title": "The Apollo-Soyuz Test Project",
+    "name": "Apollo-Soyuz Test Project",
+    "decade" : 1970,
+  "alttext": "Apollo-Soyuz docking",
+  "imagesize": 152,
+    "imageurl": "/Images/apollo-soyuz/astp_dock_small.gif",
+  "descript": "<p><b><font size=\"+2\">T</font>he Apollo-Soyuz</b> mission occurred in July, 1975. In addition to the manned mission objectives of international space cooperation, testing universal docking systems, etc., Apollo-Soyuz carried a number of scientific instruments.",
+  "lifetime": "Jul 1975",
+    "features": [
+	"The U.S. portion of the mission carried a proportional counter system sensitive to 0.18&ndash;0.28 and 0.6&ndash;10.0 keV X-rays."
+    ],
+    "instruments": [
+	{
+	    "name" : "ASTP S150 X-ray Proportional Counter",
+	    "energy" : "0.18&ndash;10 keV",
+	    "fov" : "4.5&deg; (FWHM) circle",
+	    "area" : "150 cm<sup>2</sup> (combined)",
+	    "descript" : "The NRL-built S150 experiment consisted of three gas-filled proportional counters with a thin beryllium window."
+	}
+    ],
+    "highlights": [
+	"Results from this experiment included the discovery of soft X-ray emission from the supernova remnant MSH 14-63 and of rapid pulsations (0.716 s) from the binary SMC X-1. Due to the (comparatively) short duration of the Apollo-Soyuz mission, little other science of note was done with the proportional counter system. In addition, the detector had a moderately high background level that steadily increased through the duration of the mission until almost no X-ray sources were discernible. The cause of the background problems remains unknown."
+    ],
+  "archive": "",
+    "navigation": [
+	{
+	    "url" : "/docs/heasarc/missions/images/apollosoyuz_images.html",
+	    "text" : "Gallery"
+	},
+	{
+	    "url" : "/docs/heasarc/missions/biblio/apollosoyuz_biblio.html",
+	    "text" : "Publications"
+	}
+    ]
+}

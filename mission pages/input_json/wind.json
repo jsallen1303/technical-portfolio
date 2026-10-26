@@ -1,0 +1,45 @@
+{
+  "title": "The Global Geospace Science satellite Wind",
+    "name": "GGS-WIND",
+    "decade" : 1990,
+  "alttext": "Visualization of GGS-Wind in space",
+  "imagesize": 254,
+  "imageurl": "/Images/wind/wind_small.gif",
+    "descript": "<p><b><font size=\"+2\">T</font>he Global Geospace Science Wind (GGS-WIND)</b> was launched on November 1, 1994 from Cape Canaveral Air Force Station on a McDonnell Douglas Delta II 7925-10 rocket. Although intended to be launched into a halo orbit around the Earth-Sun First Lagrange (L<sub>1</sub>) point, it was initially placed in a near-lunar orbit to examine the magnetosphere, before transferring out to its original target to study the solar wind. The primary scientific goal of the mission is to measure the mass, momentum and energy of the solar wind.</p>\n\n<p>GGS-WIND carried a large suite of detectors. These included the Three-Dimensional Plasma analyzer (3DP) experiment for studying hot plasma and charged particles, the Transient Gamma-Ray Spectrometer (TGRS), the Magnetic Fields Instrument (MFI), the Plasma and Radio Waves (WAVES) experiment, the Solar Wind Experiment (SWE), the Energetic Particle Acceleration, Composition and Transport (EPACT) experiment, the Solar Wind and Suprathermal Ion Composition Studies (SWICS/STICS) experiment and the Gamma Ray Burst Detector (KONUS).</p>",
+    "lifetime": "1994&ndash;present",
+    "features": [
+	"L<sub>1</sub> placement upstream of Earth for geomagnetic and storm storm measurements",
+	"Near-Earth component of IPN measurements of GRBs"
+    ],
+    "instruments": [
+	{
+	    "name" : "Transient Gamma Ray Spectrometer (TGRS)",
+	    "energy" : "15 kev &ndash; 10 MeV",
+	    "energy_resolution" : "2.0 keV at 1.0 MeV (E/&Delta;E = 500)",
+	    "descript" : "TGRS was intended to make the first high-resolution spectroscopic survey of cosmic gamma-ray bursts, and to make measurements of gamma-ray lines in solar flares. The instrument was also designed to monitor the time variability of the 511 keV line emission from the galactic center, on time scales from &sim;2 days to >1 year.</p>\n\n<p>The TGRS instrument consists of four assemblies: detector cooler assembly, pre-amp, and analog processing unit, all mounted on a tower on the +Z end of the spacecraft, and a digital processing unit mounted in the body of the spacecraft. The detector is a 215 cubic cm high purity n-type germanium crystal of dimensions: 6.7 cm (diameter) &times; 6.1 cm (length), radiatively cooled to 85 K. The germanium serves as a reaction medium for incoming gamma rays, which, depending on their energy, are either stopped by or passed through the detector crystal. Particle energy and angle of incidence are calculated based on a number of primary and secondary interaction processes, including photoelectric, Compton, pair and bremsstrahlung radiation as well as the ionization energy losses of secondary electrons. A two-stage cooler surrounds the detector, providing a field of view of 170&deg;. Gamma-ray bursts and solar flares are expected to be detected at a frequency of several per week, with typical durations between 1 second and several minutes. Between bursts the instrument is maintained in a waiting mode, measuring background counting rates and energy spectra. When a burst or flare occurs, the instrument switches to a burst mode, where each event in the detector is pulse-height analyzed and time tagged in a burst memory. Then the instrument switches to a dump mode for reading out the burst memory. The experiment is a collaboration between NASA Goddard Space Flight Center and the Centre e&lsquo;Etudes Spatiales des Rayonnements/Toulouse."
+	},
+	{
+	    "name" : "KONUS",
+	    "energy" : "10&ndash;770 keV",
+	    "area" : " 200 cm<sup>2</sup>",
+	    "time_resolution" : "64 ms (2 ms in high-intensity portions of events)",
+	    "descript" : "The Konus instrument consists of two detectors and an electronics package from Russia, and an interface unit from Goddard. The two identical detectors are mounted on the top and bottom of the spacecraft aligned with the spin axis; the other two assemblies are in the spacecraft body. The sensors, copies of ones successfully flown on earlier Soviet COSMOS, Venera and Mir missions, and similar to the spectroscopy modifications of the Compton Gamma Ray Observatory&rsquo;s BATSE, are scintillation crystal detectors, shielded by Pb/Sn. Quasi-isotropic sensitivity is a result of the design and location of the two sensors. In interplanetary space far outside the Earth&rsquo;s magnetosphere, Konus has the advantages over Earth-orbiting GRB monitors of continuous coverage, uninterrupted by Earth occultation, and a steady background, undistorted by passages through the Earth&rsquo;s trapped radiation."
+	}
+    ],
+    "highlights": [
+	"Between 2000 (end of Compton Gamma Ray Observatory) and 2004 (launch of Swift), the KONUS instrument provided the only full-time high-sensitivity near-Earth vertex in the Interplanetary GRB network (IPN)",
+	"Studied GRBs, soft gamma repeaters (SRGs), solar flares. and other transients at moderate energy resolution",
+	"Contributed to studies of hard X-ray transients, including the 1998 giant SGR flare"
+],
+  "archive": "",
+  "navigation": [
+    {
+      "url": "images/wind_images.html",
+      "text": "Gallery"
+    },
+    {
+      "url": "biblio/wind_biblio.html",
+      "text": "Publications"
+    }
+  ]
+}

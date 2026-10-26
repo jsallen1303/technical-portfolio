@@ -1,0 +1,34 @@
+2023ApJ...959...90K|Karwin, C;Siegert, T;Beechert, J;Tomsick, J;Porter, T;Negro, M;Kierans, C;Ajello, M;Martinez-Castellanos, I;Shih, A;Zoglauer, A;Boggs, S;COSI Collaboration|Probing the Galactic Diffuse Continuum Emission with COSI|0
+2023JCAP...02..006C|Caputo, A;Negro, M;Regis, M;Taoso, M|Dark matter prospects with COSI: ALPs, PBHs and sub-GeV dark matter|8
+2023JCAP...08..035T|Tseng, P;Yeh, Y|511 keV line and primordial black holes from first-order phase transitions|2
+2023MNRAS.521.1277L|Leung, S|A new versatile code for gamma-ray Monte-Carlo radiative transfer|0
+2023MNRAS.523.1153V|Vasini, A;Matteucci, F;Spitoni, E;Siegert, T|Evolution of radioactive elements in the LMC: predictions for future γ-ray surveys|4
+2023NIMPA105668562P|Pike, S;Boggs, S;Beechert, J;Roberts, J;Shih, A;Tomsick, J;Zoglauer, A|Characterizing and correcting electron and hole trapping in germanium cross-strip detectors|0
+2023PhRvD.107d3006G|Galanti, G|Photon-ALP oscillations inducing modifications to photon polarization|10
+2023PhRvD.107j3007G|Galanti, G;Roncadelli, M;Tavecchio, F;Costa, E|ALP induced polarization effects on photons from galaxy clusters|10
+2023PhRvD.108h3017G|Galanti, G;Roncadelli, M;Tavecchio, F|ALP-induced polarization effects on photons from blazars|1
+2022ApJ...928..119B|Beechert, J;Siegert, T;Tomsick, J;Zoglauer, A;Boggs, S;Brandt, T;Gulick, H;Jean, P;Kierans, C;Lazar, H;Lowell, A;Roberts, J;Sleator, C;von Ballmoos, P|Measurement of Galactic 26Al with the Compton Spectrometer and Imager|5
+2022ApJ...940...77M|Marcotulli, L;Ajello, M;Urry, C;Paliya, V;Koss, M;Oh, K;Madejski, G;Ueda, Y;Balokovic, M;Trakhtenbrot, B;Ricci, F;Ricci, C;Stern, D;Harrison, F;Powell, M;BASS Collaboration|BASS. XXXIII. Swift-BAT Blazars and Their Jets through Cosmic Time|5
+2022ApJ...940...91H|Hu, K;Baring, M;Harding, A;Wadiasingh, Z|High-energy Photon Opacity in the Twisted Magnetospheres of Magnetars|4
+2022Icar..38014966R|Roback, K;Runyon, K;Newman, C;Avouac, J|Multi-year measurements of ripple and dune migration on Mars: Implications for the wind regime and sand transport|3
+2022JCAP...08..013L|Lucchetta, G;Ackermann, M;Berge, D;Buhler, R|Introducing the MeVCube concept: a CubeSat for MeV observations|8
+2022NIMPA103166510B|Beechert, J;Lazar, H;Boggs, S;Brandt, T;Chang, Y;Chu, C;Gulick, H;Kierans, C;Lowell, A;Pellegrini, N;Roberts, J;Siegert, T;Sleator, C;Tomsick, J;Zoglauer, A|Calibrations of the Compton Spectrometer and Imager|10
+2022SCPMA..6557013R|Rao, Z;Tian, S;Gao, S;Hu, Q;Fan, W;Huang, J;Tang, C;Huang, Y;Lei, H;Sun, Y;Qian, T;Ding, H|Consecutive topological transitions of helical Fermi arcs at saddle points in CoSi|0
+2021MNRAS.508.1590P|Panther, F;Seitenzahl, I;Ruiter, A;Siegert, T;Sim, S;Crocker, R|Prospects of direct detection of <SUP>48</SUP>V gamma-rays from thermonuclear supernovae|2
+2020ApJ...889..168K|Korobkin, O;Hungerford, A;Fryer, C;Mumpower, M;Misch, G;Sprouse, T;Lippuner, J;Surman, R;Couture, A;Bloser, P;Shirazi, F;Even, W;Vestrand, W;Miller, R|Gamma Rays from Kilonova: A Potential Probe of r-process Nucleosynthesis|35
+2020ApJ...895...44K|Kierans, C;Boggs, S;Zoglauer, A;Lowell, A;Sleator, C;Beechert, J;Brandt, T;Jean, P;Lazar, H;Roberts, J;Siegert, T;Tomsick, J;Ballmoos, P|Detection of the 511 keV Galactic Positron Annihilation Line with COSI|31
+2020ApJ...897...45S|Siegert, T;Boggs, S;Tomsick, J;Zoglauer, A;Kierans, C;Sleator, C;Beechert, J;Brandt, T;Jean, P;Lazar, H;Lowell, A;Roberts, J;Ballmoos, P|Imaging the 511 keV Positron Annihilation Sky with COSI|19
+2020MNRAS.495.1445W|Wu, C;Wang, B;Wang, X;Maeda, K;Mazzali, P|The formation of type Ia supernovae from carbon-oxygen-silicon white dwarfs|12
+2020SoPh..295...50C|Criscuoli, S;Rempel, M;Haberreiter, M;Pereira, T;Uitenbroek, H;Fabbian, D|Comparing Radiative Transfer Codes and Opacity Samplings for Solar Irradiance Reconstructions|13
+2019NIMPA.94662643S|Sleator, C;Zoglauer, A;Lowell, A;Kierans, C;Pellegrini, N;Beechert, J;Boggs, S;Brandt, T;Lazar, H;Roberts, J;Siegert, T;Tomsick, J|Benchmarking simulations of the Compton Spectrometer and Imager with calibrations|6
+2019NatAs...3..258Z|Zhang, S;Kole, M;Bao, T;Batsch, T;Bernasconi, T;Cadoux, F;Chai, J;Dai, Z;Dong, Y;Gauvin, N;Hajdas, W;Lan, M;Li, H;Li, L;Li, Z;Liu, J;Liu, X;Marcinkowski, R;Produit, N;Orsi, S;Pohl, M;Rybka, D;Shi, H;Song, L;Sun, J;Szabelski, J;Tymieniecka, T;Wang, R;Wang, Y;Wen, X;Wu, B;Wu, X;Wu, X;Xiao, H;Xiong, S;Zhang, L;Zhang, L;Zhang, X;Zhang, Y;Zwolinska, A|Detailed polarization measurements of the prompt emission of five gamma-ray bursts|64
+2018E&PSL.497...12M|Michel, S;Avouac, J;Ayoub, F;Ewing, R;Vriend, N;Heggy, E|Comparing dune migration measured from remote sensing with sand flux prediction based on weather data and model, a test case in Qatar|21
+2018JGRE..123.1881G|Grindrod, P;Hollingsworth, J;Ayoub, F;Hunt, S|The Search for Active Marsquakes Using Subpixel Coregistration and Correlation: Best Practice and First Results|7
+2017A&A...603A..27T|Tagirov, R;Shapiro, A;Schmutz, W|NESSY: NLTE spectral synthesis code for solar and stellar atmospheres|13
+2017ApJ...848..119L|Lowell, A;Boggs, S;Chiu, C;Kierans, C;Sleator, C;Tomsick, J;Zoglauer, A;Chang, H;Tseng, C;Yang, C;Jean, P;von Ballmoos, P;Lin, C;Amman, M|Polarimetric Analysis of the Long Duration Gamma-Ray Burst GRB 160530A With the Balloon Borne Compton Spectrometer and Imager|25
+2017PhDT.......174L|Lowell, A|Polarimetric studies of the long duration gamma-ray burst GRB 160530A with the Compton spectrometer and imager|4
+2016GeoRL..4310115M|Milliner, C;Dolan, J;Hollingsworth, J;Leprince, S;Ayoub, F|Comparison of coseismic near-field and off-fault surface deformation patterns of the 1992 M<SUB>w</SUB> 7.3 Landers and 1999 M<SUB>w</SUB> 7.1 Hector Mine earthquakes: Implications for controls on the distribution of surface strain|37
+2016PhDT.......368M|Marlowe, H|Polarimetric and spectrographic instrumentation to enable next generation X-ray observatories|0
+2014MNRAS.444..642M|Marlowe, H;Kaaret, P;Lang, C;Feng, H;Grise, F;Miller, N;Cseh, D;Corbel, S;Mushotzky, R|Spectral state transitions of the Ultraluminous X-ray Source IC 342 X-1|16
+2014PhDT.......121F|Fields, N|C<SUP>o</SUP>sI: Development of a low threshold detector for the observation of coherent elastic neutrino-nucleus scattering|11
+2013ACP....13.3945E|Ermolli, I;Matthes, K;Dudok de Wit, T;Krivova, N;Tourpali, K;Weber, M;Unruh, Y;Gray, L;Langematz, U;Pilewskie, P;Rozanov, E;Schmutz, W;Shapiro, A;Solanki, S;Woods, T|Recent variability of the solar spectral irradiance and its impact on climate modelling|249

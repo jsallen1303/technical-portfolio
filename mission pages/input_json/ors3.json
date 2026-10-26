@@ -1,0 +1,29 @@
+{
+      "title": "Octahedral Research Satellite 3",
+    "name": "ORS 3",
+    "imageurl" : "/Images/misc_missions/ors_3_ers_17__1.jpg",
+    "imagesize" : 300,
+    "alttext" : "ORS-3 photograph",
+    "descript": "<p><b><font size=\"+2\">T</font>he ORS 3 (Octahedral Research Satellite 3)</b>, also known as Environmental Research Satellite-17 (ERS-17), was launched on 20 July 1965. It was put into an elliptical orbit with apogee 112,694 km, perigee 153 km, at an inclination of 34.4 degrees. The orbital period was 2608 minutes. The satellite was spin stabilized with a spin rate of &sim;6 rpm.  The mission ended when the transmitter ceased function on 3 November 1965. Approximately 1500 hours of data were obtained.</p>",
+    "decade": 1960,
+    "lifetime": "20 Jul&ndash;3 Nov 1965",
+    "features": [
+	"A set of five detectors were onboard. These included a charged particle detector, as well as instruments to measure X-rays, gamma-rays, and cosmic rays in the near Earth environment."
+    ],
+    "instruments": [
+	{
+	    "name": "X-ray detectors",
+	    "energy": "1&ndash;14 &Aring;",
+	    "fov": "50&deg; half angle",
+	    "temporal_resolution": "4.5 s bins every 72 s",
+	    "descript": "The X-ray detectors consisted of three EON 6213 Geiger tubes mounted along 3 mutually perpendicular axes. The system failed on 15 September 1965. The primary object of investigation was the Sun."
+	},
+	{
+	    "name": "Gamma-ray detector",
+	    "energy": "30 keV &ndash; 10 MeV",
+	    "temporal_resolution": "4.5 s bins every 72 s",
+	    "descript": "An omni-directional phoswich-type scintillator was used to measure gamma rays. It also provided a measure of the total cosmic-ray flux for protons greater than 30 MeV. There were 5 energy channels: 0.03&ndash;0.1, 0.1&ndash;0.3, 0.3&ndash;1.0, 1.0&ndash;3.0, and 3.0&ndash;10.0 MeV. A charged particle rejection shield failed at launch, and amplifier saturation caused the integral channel rate to be nearly 0 by 5 August 1965. These, and other similar system malfunctions, made the data very hard to interpret."
+	}
+    ],
+    "credit" : "Photograph of ORS-3 courtesy of Gunther&rsquo;s Space Page"
+}

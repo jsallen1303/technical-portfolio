@@ -1,0 +1,43 @@
+{
+    "title": "AGILE",
+    "name": "AGILE",
+    "decade" : 2000,
+    "alttext": "The AGILE spacecraft before rocket payload integration",
+    "imagesize": 250,
+    "imageurl": "/Images/agile/agile.jpg",
+    "descript": "<p><b><font size=\"+2\">T</font>he <i>Astro-rivelatore Gamma a Immagini Leggero</i> (AGILE)</b> is a gamma-ray astronomy mission operated by ASI (Italian Space Agency). It was launched on April 23, 2007 from Satish Dhawan Space Centre in India. The original plan called for a three year mission, but the satellite operated for 17 years and ceased the scientific observations on Jan 18, 2024. The satellite re-entered the Earth&rsquo;s atmosphere on Feb 14, 2025. It was launched into a near-equatorial orbit, giving it a good observational vantage on terrestrial gamma-ray flashes from thunderstorms and intense atmospheric electrical activity, in addition to its astrophysics observations.</p>",
+    "lifetime": "23 Apr 2007&ndash;18 Jan 2024",
+    "features": [
+ "Extremely rapid gamma-ray burst alerts, with initial estimated events announced within an hour of observation, and a refined alert within 3 to 3.5 hours. The rapid trigger systems have detected terrestrial gamma-ray sources from equatorial thunderstorms."
+    ],
+    "instruments": [
+	{
+	    "name": "SuperAGILE",
+	    "energy": "15&ndash;45 keV",
+	    "resolution": "6&prime;",
+	    "descript": "Coded mask image hard X-ray detector with silicon microstrip detectors with one-dimensional angular resolution over a wide field of view. These were arranged perpendicularly to determine two-dimensional source placement. Because celestial gamma-ray sources frequently have small photon counts and considerable angular confusion, SuperAGILE was often vital to source identification."
+	},
+	{
+	    "name": "Gamma Ray Imaging Detector (GRID)",
+	    "energy": "30 MeV &ndash; 50 GeV",
+	    "descript": "GRID contained a silicon-tungsten tracker, anti-coincidence system, and a cesium iodide calorimeter (see MiniCalorimeter; below). The tracker consisted of a set of two-layer silicon microstrip detectors, interleaved with tungsten foil: gamma rays struck the tungsten, converting into electron/positron pairs which were tracked by the microstrips to reconstruct the incident gamma ray&rsquo;s direction."
+	},
+	{
+	    "name": "MiniCalorimeter",
+	    "energy": "350 keV &ndash; 100 MeV",
+	    "descript": "Part of the GRID instrument, but operated independently as needed. Used perpendicular pairs of CsI scintillating bars."
+	}
+    ],
+    "highlights": [],
+    "archive": "",
+  "navigation": [
+    {
+      "url": "http://agile.rm.iasf.cnr.it",
+      "text": "AGILE at ASI (Italy)"
+    },
+    {
+      "url": "biblio/agile_biblio.html",
+      "text": "Bibliography"
+    }
+  ]
+}

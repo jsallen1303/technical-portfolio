@@ -1,0 +1,37 @@
+{
+  "title": "The Defense Meteorological Satellites Program",
+  "name": "Defense Meteorological Satellites Program (DMSP) series",
+    "alttext": "artist concept of DMSP satellite in orbit",
+    "decade" : 1980,
+  "imagesize": 300,
+  "imageurl": "/Images/misc_missions/dmsp_sat.gif",
+    "descript": "<p><b><font size=\"+2\">T</font>he Defense Meteorological Satellites Program (DMSP)</b> has been run by the US Air Force since the mid-1960s. They have launched a series of spacecraft to investigate the Earth&rsquo;s environment from an altitude of &sim;800 km. They were all put into Sun-synchronous near-polar orbits (inclination &sim;99&deg;). The missions of interest to the high-energy science community are DMSPs 8&ndash;15.</p>",
+    "lifetime": "20 Jun 1987&ndash;1 Aug 1994 (DMSP 8)<br>\n3 Feb 1988&ndash;3 Apr 1992 (DMSP 9)<br>\n1 Dec 1990&ndash;26 Sep 1994 (DMSP 10)<br>\n6 Dec 1991&ndash;7 Aug 2000 (DMSP 11)<br>\n8 Sep 1994&ndash;2008 (DMSP 12)<br>\n24 Mar 1995&ndash;3 Feb 2015 (DMSP 13)<br>\n4 Apr 1997&ndash;11 Feb 2020 (DMPS 14)<br>\n24 Jan 2000&ndash;Dec 2020 (DMSP 15)",
+    "features": [
+	"In addition to remote sensing data for meteorology, several satellites in the series carried gamma-ray burst detectors"
+    ],
+    "instruments": [
+	{
+	    "name" : "Gamma Ray Detectors",
+	    "descript" : "Each satellite carried a pair of gamma-ray detectors, each with &sim;100 cm<sup>2</sup> detection area NaI crystal detectors equipped with charged particle shields. Passing through the outer Van Allen belts 4 times each orbit, and often through the South Atlantic Anomaly, led to a very high background. However, there were still long periods in each orbit during which cosmic gamma-rays could be detected."
+	}
+    ],
+    "highlights": [
+	"Participation in the Interplanetary gamma-ray burst Network (IPN3). Several bursts were recorded by DMSP sensors as part of the network"
+    ],
+  "archive": "",
+  "navigation": [
+    {
+      "url": "images/dmsp_images.html",
+      "text": "Gallery"
+    },
+    {
+      "url": "biblio/dmsp_biblio.html",
+      "text": "Publications"
+    },
+    {
+      "url": "http://www.ngdc.noaa.gov/dmsp/dmsp.html",
+      "text": "NOAA DMSP Page"
+    }
+  ]
+}

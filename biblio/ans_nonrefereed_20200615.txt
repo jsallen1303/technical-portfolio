@@ -1,0 +1,143 @@
+2014AAS...22345434F|Fitzpatrick, E;Jacklin, S;Massa, D|Into the Darkness: Interstellar Extinction Near the Cepheus OB3 Molecular Cloud|0
+2012yCat.113330060K|Krelowski, J;Strobel, A|VizieR Online Data Catalog: Colour indices of selected OB stars (Krelowski+, 2012)|0
+2010yCat..61211070M|Munari, U;Siviero, A;Ochner, P;Wallerstein, G;Castellani, F;Righetti, G;Cherini, G;Valisa, P;Cetrulo, G|VizieR Online Data Catalog: UBV photometry of 2006-2008 outburst of AG Dra (Munari+, 2009)|0
+2007BAAS...39.1060D|Doschek, G;Dahlburg, J|Obituary: Herbert Gursky, 1930-2006|0
+2007CBET.1010....3G|Green, D|V5558 Sagittarii|0
+2005yCat.3164....0F|Friedemann, C|VizieR Online Data Catalog: Catalog of Eq.Widths of Interstellar 217nm Band (Friedemann 1992)|0
+2003yCatp014001109W|Wegner, W|VizieR Online Data Catalog: Interstellar extinction curves of OB stars (Wegner 2002)|0
+2001AAS...199.5611L|Landsman, W;Catelan, M;O'Connell, R;Pereira, D;Stecher, T|Integrated UV fluxes and the HB morphology of Globular Clusters|3
+2001yCat.2097....0W|Wesselius, P;van Duinen, R;de Jonge, A;Aalders, J;Luinge, W;Wildeman, K|VizieR Online Data Catalog: ANS UV Catalogue of Point Sources (Wesselius+ 1982)|0
+2000eaa..bookE4530.||Astronomische Nederlands Satelliet (ANS)|0
+1996hst..prop.6607F|Ferraro, F|The Origin and Nature of UV Bright stars in Globular Clusters II|0
+1996rftu.proc...77B|Barstow, M|The strange case of the missing white dwarfs... and other mysteries.|1
+1996yCat.3122....0F|Friedemann, C;Roder, U|VizieR Online Data Catalog: Interstellar 217-nm Band: Equivalent Widths (Friedemann+ 1987)|0
+1995yCat..20960605S|Schmidt, E;Carruthers, G|VizieR Online Data Catalog: Far UV Stellar Photometry (Schmidt+ 1995)|0
+1993AAS...183.1702S|Schmidt, E;Carruthers, G|Far-Ultraviolet Stellar Photometry|0
+1993IAUCB..21..103L|Linnell, A|Light Synthesis modeling of close binary stars.|0
+1991hst..prop.3458D|Djorgovski, S|Stellar Population Gradients in Post-Core Globular Clusters|0
+1990IAUS..140..233S|Stryczynski, J|Magnetic Fields and Star Formation for the ANS Sample of Galaxies|1
+1990pess.conf..181W|Wegner, W;Papaj, J;Krelowski, J|Interstellar extinction observed in spectra of Be stars.|0
+1989iue..prop.3388C|Cardelli, J|Characteristics of Weak 2175 a Extinction|0
+1989iue..prop.3483S|Savage, B|Gas Associated with Heavily Modified Dust|0
+1988BOBeo.139...59S|Segan, S|Atmospheric drag effects from the motion of the ANS satellite.|1
+1988ESASP.281a.127T|Treves, A;Belloni, T;Bouchet, P;Chiappetti, L;Falomo, R;Maraschi, L;Tanzi, E|Far UV observations of black hole candidates : the case of LMC X-3.|0
+1987LIACo..27..273W|Woo, J|Effective temperatures and bolometric corrections for some galactic Wolf-Rayet stars from absolute spectrophotometry.|0
+1987iue..prop.2809M|Massa, D|Far UV Extinction and the 2175 Angstrom Bump|0
+1986ASSL..125..271Z|Zelwanowa, E;Schoeneich, W|On the Ultraviolet Photometric Variability of the Helium-Weak B Stars (from ANS Data)|2
+1986IBVS.2932....1L|Lines, H;Lines, R;Guinan, E;Robinson, C|B and V Light Curves of the Massive Close Binary DH Cephei|11
+1986RMxAA..12..191C|Codina Landaberry, S;de Freitas Pacheco, J;Viadana, L;Bazzanella, B|Photoelectric scanner observations of central stars of planetary nebulae.|2
+1986RMxAA..12..191L|Landaberry, S;de Freitas Pacheco, J;Viadana, L;Bazzanella, B|Photoelectric scanner observations of central stars of planetary nebulae.|2
+1986dmvc.bookR....W|Warren, W|Documentation for the machine-readable version of A Catalog of Ultraviolet Interstellar Extinction Excesses for 1415 Stars (Savage, Massa, Meade and Wesselius 1985).|3
+1986inpr.conf..133C|Clayton, G|Relationships between dust grain components responsible for observed interstellar extinction and polarization|2
+1986iue..prop.2425C|Cardelli, J|Characteristics of 2175 a Extinction|0
+1985ASSL..113..287H|Hassall, B|Ultra-Violet Radiation from Dwarf Nova Discs|7
+1985IUEEN..22...25B|Barylak, M|Absolute stellar UV fluxes obtained with the TD1, ANS and IUE satellites.|2
+1984ESASP.218....3S|Snijders, M|Ultraviolet observations of normal galaxies.|5
+1984ESASP.218..497C|Caloi, V;Castellani, V;Galluccio, D|IUE integrated spectra of galactic globular clusters.|0
+1984IBVS.2569....1S|Schoneich, W|Ultraviolet ANS Photometry for the Five Suspected Long Period Ap Stars HD 89822, HD 137389, HD 187474, HD 204411 and HD 211760|1
+1984NASCP2349..334B|Bonnell, J;Bell, R|Observations of RR Lyrae and X Arietis with the IUE satellite.|0
+1984dmva.bookR....W|Warren, W|Documentation for the machine-readable version of the ANS Ultraviolet Photometry Catalogue of Point Sources (Wesselius et al. 1982).|0
+1984guco.proc...75H|Hamann, R|Attitude control of the infrared space observatory and its predecessors|0
+1984iue..prop.1749A|Ake, T|Observations of Cool Giants and Supergiants with Hot Companions|0
+1984mast.conf...73S|Schoneich, W;Zelwanowa, E|Photometric variability of helium-rich stars in the ultraviolet from ANS observations.|0
+1983ESASP.199..227V|van Stuyvenberg, J;van der Voort Maarschalk, C|Software flexibility ensured success of Dutch ANS and IRAS satellites|0
+1983MmSAI..54..789C|Caloi, V;Castellani, V;Galluccio, D|Ultraviolet properties of galactic globular clusters.|2
+1983iue..prop.1432E|Eaton, J|Follow-On OBS of W Ursae Majoris Stars|0
+1983iue..prop.1526S|Sturch, C|Ultraviolet Observations of Three Dwarf Cepheids|0
+1983iue..prop.1531S|Shore, S|Spectrophotometry of Helium Peculiar Stars|0
+1982ASSL...98..191W|Wu, C;Panek, R;Holm, A;Schiffer, F|Ultraviolet light curves of U Geminorum and VW Hydri|1
+1982ESASP.176..519C|Cacciari, C;Fusi-Pecci, F;Zavaroni, C;Freeman, K;Cassatella, A;Benvenuti, P;Bianchi, L;Heck, A;Patriarchi, P;Wamsteker, W|Optical and ultraviolet spectrophotometry of globular clusters in theMagellanic Clouds.|5
+1982ESASP.182...15W|Wesselius, P|Spectral classification and extinction using ANS satellite ultraviolet photometry|2
+1982NASCP2238..409M|Massa, D;Fitzpatrick, E;Savage, B|IUE observations of lines of sight with peculiar ultraviolet extinction.|0
+1982aupc.book.....W|Wesselius, P;van Duinen, R;de Jong, A;Luinge, W;Wildeman, K|ANS Ultraviolet Photometry Catalogue of Point Sources|1
+1982iue..prop.1142M|McCluskey, G|IUE Spectroscopy of the Extraordinary Interacting Binary R Arae|0
+1981IAU27..81....0W|Wu, C;Eaton, J|Ultraviolet spectrophotometry of close binary systems : CV Velorum, RS Vulpeculae and CH Cephei.|0
+1981IBVS.1965....1W|Wu, C;Eaton, J|ANS Observations of DH Cep, CV Vel and RS Vul|6
+1981IBVS.2044....1W|Wesselius, P|The Eclipsing Binary HD 124195|1
+1981NASCP2171..527D|de Boer, K|Horizontal-branch stars, and galactic and Magellanic Cloud globular clusters.|1
+1981STIN...8133105K|Koornneef, J;Meade, M;Wesselius, P;Code, A;van Duinen, R|Picture gallery: A structured presentation of OAO-2 photometric data supported by UBV, ANS, and TD1 observations|0
+1981STIN...8221117W|Wu, C;Panek, R;Holm, A;Schiffer, F|Ultraviolet light curves of U Geminorum and VW Hydri|0
+1981apgc.conf..495V|van Albada, T;Dickens, R;Wevers, B|Ages of Globular Clusters from Far Ultraviolet Photometry with ANS|1
+1981ebds.conf...14W|Wesselius, P|Two sdO stars observed with ANS and IUE.|0
+1981iue..prop..850W|Witt, A|Illuminating Stars of Reflection Nebulae Observed by ANS TDTD-1|0
+1980ESASP.157...19G|Gilra, D;Arnal, E;Wesselius, P;Pottasch, S;de Vries, J|Observations of the exciting stars of NGC 2023 and M 43 - Interstellar extinction.|0
+1980ESASP.157..227G|Gilra, D;Wesselius, P;Rao, N|Observations of late-type stars with 'hot' companions.|3
+1980LIACo..21...72G|Gilra, D;van Duinen, R|ANS Ultraviolet Observations of Diffuse Matter in Space|0
+1980cosp.meetR...2.||Space research in the Netherlands, 1979|0
+1980iue..prop..422C|Code, A|UV Studies of Horizontal Branch Stars in Globular Clusters of the Milky Way|0
+1980iue..prop..435D|de Boer, K|Interstellar Extinction and Interstellar Lines in Two Close Stars Near Orion B|0
+1980nsgr.symp..271P|Parsignault, D|Background effects between 250 KM and 1100 KM|0
+1979IAUS...82..129C|Chollet, F|Amelioration des Calculs de Reduction des Observations à l' Astrolabe. Application à la Determination des Termes de 18.6 et 9.3 ANS de la Nutation|4
+1979IUE1.symp..208B|Benvenuti, P;Panagia, N;Perinotto, M|UV observations of planetary nebulae|0
+1979Msngr..18...31W|Wamsteker, W|The X-Ray Bursters|0
+1979S&T....57..446L|Lewin, W;van Paradijs, J|What Are X-Ray Binaries?|0
+1979iowa.rept.....L|Lamb, R|Search for an X-ray identification of a strong gamma-ray source|0
+1979iue..prop..174B|Boggess, A|Observations of Planetary Nebulae|0
+1979iue..prop..178C|Code, A|Ultraviolet Studies of Horizontal Branch Stars and of Globular Clusters in the Milky Way and The Magellanic Cloud|0
+1979iue..prop..257S|Schiffer, F|Observations of the UV Continuum in the Orion Nebula: An Investigation of the Scattering of Starlight by Dust|0
+1979xras.proc..193D|den Boggende, A;Mewe, R|ANS: evidence for soft X-ray emission from the binary HR 976.|2
+1979xras.proc..313G|Gronenschild, E|The Cygnus Loop as Observed by ANS|0
+1978BAAS...10..616L|Lesh, J;Wesseluis, P|ANS Observations of β Canis Majoris Variables|0
+1978IAUS...76...79G|Gurzadian, G|Ultraviolet observations of planetary nebulae.|0
+1978IBVS.1499....1Z|Zhilyaev, B;Orlov, M;Wesselius, P|Far-Ultraviolet Photometry of RY Sagittarii|0
+1978MmSAI..49..553G|Gronenschild, E|The CYG loop as observed by ANS.|1
+1978Msngr..14Q..10.||New Publications from ESO - Preprints: May-August 1978|0
+1978STIN...7910994S|Shklovskiy, I|On the nature of the sources of hard pulse X-ray radiation|0
+1978cosp.meet...87P|Parsignault, D;Grindlay, J|A new classification scheme for galactic bulge X-ray sources|0
+1978cosp.meet..187P|Parsignault, D;Grindlay, J|Search for SI XIII and SI XIV line emission from cosmic objects|0
+1978cosp.meetQ....L|Lampton, M;Garmire, G|HEAO-1 soft X-ray observations of Sirius|0
+1978pans.proc.....G|Giacconi, R;Ruffini, R|Physics and astrophysics of neutron stars and black holes|2
+1978pans.proc..256T|Tananbaum, H|Recent observations from UHURU and ANS|0
+1978pans.proc..774H|Heise, J;Brinkman, A;Mewe, R;den Boggende, A;Gronenschild, E;Schrijver, J|X-ray observations with the Astronomical Netherlands Satellite ANS|0
+1978sao..rept......||Data analysis for the hard X-ray experiment on board the ANS spacecraft|0
+1977BAAS....9..304M|Molnar, M|ANS Observations of the Helium Spectrum Variable CU Vir.|0
+1977STIN...7814969S|Savage, B;Wesselius, P;Swings, J;The, P|Ultraviolet observations of two hot stars with infrared excesses from circumstellar dust|0
+1977STIN...7824252W|Wakker, K|Orbit prediction for the Astronomical Netherlands Satellite|0
+1977iuos.conf..311V|van Duinen, R;Wesselius, P|Spectral classification using ANS photometric data.|0
+1976BAAS....8..441P|Parsignault, D;Schreier, E;Grindlay, J;Schnopper, H;Gursky, H|Limitations on Models of Cygnus X-3 Based On ANS Observations|0
+1976BAAS....8..444G|Grindlay, J|New ANS Results on Galactic X-Ray Sources|0
+1976BAAS....8..454M|Mewe, R|Interpretation of X-ray Observations with ANS on Sirius|2
+1976BAAS....8Q.449G|Gronenschild, E;Mewe, R;Heise, J;Brinkman, A;den Boggende, A;Schryver, J|Preliminary X-ray Map of the Cygnus Loop by ANS|0
+1976IAUC.2929....1H|Heise, J;Grindlay, J;Liller, W|X-Ray Bursts from Galactic Center Region|16
+1976NASSP.389...27H|Heise, J;Brinkman, A|ANS results on X-ray binaries.|1
+1976NASSP.389...49S|Schnopper, H;Delvaille, J;Epstein, A;Gursky, H;Grindlay, J;Kalata, K;Parsignault, D;Sohval, A;Schreier, E|X-ray spectroscopy with the ANS satellite.|0
+1976NASSP.389..241B|Brinkman, A;Heise, J;den Boggende, A;Mewe, R;Gronenschild, E;Schrijver, H|Observations of Cygnus X-3 by ANS.|0
+1976NASSP.389..267P|Parsignault, D;Schreier, E;Grindlay, J;Schnopper, H;Gursky, H|Observations of Cygnus X-3 by ANS.|2
+1976NASSP.389..349B|Brinkman, A;Heise, J;den Boggende, A;Mewe, R;Gronenschild, E;Schrijver, H|Measurements of A 0620-00 with ANS.|0
+1976NASSP.389..373C|Canizares, C;Bradt, H;Buff, J;Laufer, B|SAS-3 observations of an X-ray flare from Cygnus X-1.|2
+1976NASSP.389..429P|Parsignault, D;Grindlay, J;Schnopper, H;Schreier, E;Gursky, H|Observations of Cygnus X-1 in its two intensity states by ANS.|10
+1976NTNA...42..126M|Mewe, R|Results of observations with the Utrecht X-ray experiment on the ANS (Astronomical Netherlands Satellite).|0
+1976RGOB..182..257V|van Albada, T;de Boer, K|Ultraviolet Observations of Globular Clusters by the Astronomical Netherlands Satellite, ANS|0
+1976STIN...7718185P|Prins, J|In-orbit experiment with an attitude control algorithm for ANS based on modern control principles|0
+1976STIN...7819175.||Report of the Joint Scientific Mission Definition Team for an infrared astronomical satellite|0
+1976Zenit...3..168H|Heise, J|ANS ontdekt röntgenstoten uit bolvormige sterrenhoop.|0
+1976Zenit...3..291W|Wesselius, P|ANS leverde 20.000 UV-metingen.|0
+1976Zenit...3..328M|Mewe, R|ANS ontdekte röntgenstraling van Sirius.|0
+1976aiaa.meet.....F|Friedman, H|Recent advances and near future prospects in high energy astronomy|0
+1976sgov.meet.....K|Kharadze, E|Proceedings of the third European Astronomical Meeting, "Stars and Galaxies from Observational Point of View"|1
+1976sgov.meet...67W|Wesselius, P;Aalders, J;van Albada, T;Andriesse, C;de Boer, K;Borgman, J;van Duinen, R;Koornneef, J;Pottasch, S;Vader, J;Wu, C|Preliminary results obtained with the UV spectrophotometer, onboard ANS.|0
+1975BAAS....7..461G|Grindlay, J;Schreier, E;Schnopper, H;Gursky, H;Parsignault, D|Observations of Extragalactic X-ray Sources with ANS|0
+1975IAUC.2805....3W|Wu, C;Wesselius, P;van Duinen, R;Aalders, J;de Boer, K|HZ 43|6
+1975IAUC.2863....2K|Kaluzienski, L;Holt, S;Boldt, E;Serlemitsos, P;Grindlay, J;Schreier, E;den Boggende, A;Brinkman, A|Cygnus X-1|4
+1975IAUC.2879....1G|Grindlay, J;Heise, J|Intense X-Ray Bursts from a Globular Cluster|38
+1975IBVS..998....1S|Sanwal, B|Flare Activity of YZ CMi|3
+1975IBVS.1006....1K|Kunkel, W;Zarate, N|Flare Activity on UV Ceti, 1975.01|3
+1975ICRC....1..154G|Grindlay, J;Heise, J|Observations of X-Rays from Flare Stars with ANS|2
+1975STIA...7621802D|de Jager, C|Astronomical research in space|0
+1975sans.book.....S|Spaa, J|The significance of the ANS project for Dutch industry|0
+1975xrat.rept...53B|Brinkman, A|The Astronomical Netherlands Satellite (ANS).|0
+1974BAAS....6..444G|Gursky, H;Schnopper, H;Schreier, E;Parsignault, D|Preliminary X-Ray Results from the Astronomical Netherlands Satellite.|0
+1974IBVS..949....1G|Grindlay, J|Request to Flare Star Observers|0
+1974PhiTR..34...43B|Brinkman, A;Heise, J;de Jager, C|Observation of cosmic X-ray sources with the Netherlands astronomical satellite (ANS).|28
+1974PhiTR..34..208S|Smets, A|The optical sensors of the Netherlands astronomical satellite (ANS). I. The sun sensors.|0
+1974PhiTR..34..213V|van Dijk, P|The optical sensors of the Netherlands astronomical satellite (ANS). II. The horizon sensor.|0
+1974PhiTR..34..218C|Christis, W|The optical sensors of the Netherlands astronomical satellite (ANS). III. The star sensor.|1
+1974STIN...7520441D|Deleeuw, W;Pouw, A|Mission analysis of the astronomical Netherlands satellite|0
+1974Zenit...1R...2B|Bloemendal, W|Nederland betreedt de ruimte: ANS gaat de hemel aftasten op röntgen- en UV-bronnen.|0
+1974amst.iafcQ....A|Ambrosius, B|Some accuracy aspects of satellite orbit prediction|0
+1974amst.iafcU....E|Evers, V|Integration of on-board data processing with fine attitude control for the Netherlands Astronomical Satellite /ANS/|0
+1974aseicrept.....P|Parsignault, D;Gursky, H;Frank, R;Kubierschky, K;Austin, G;Paganetti, R;Bawdekar, V|ANS hard X-ray experiment development program|0
+1973PhiTR..33..117B|Bloemendal, W;Kramer, C|The Netherlands astronomical satellite (ANS).|5
+1973PhiTR..33..162V|van Otterloo, P|Attitude control for the Netherlands astronomical satellite (ANS).|2
+1973STIN...7513694.||Report for the year 1973|0
+1972xanf.conf...51H|Heise, J|X-Ray Experiment in the Astronomical Netherlands Satellite (ans)|0

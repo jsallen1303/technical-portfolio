@@ -1,0 +1,42 @@
+{
+    "title": "Wisconsin All-Sky Survey",
+    "name": "WASS",
+    "gofsidebar" : "Past",
+    "decade" : 1970,
+    "alttext": null,
+    "imagesize": null,
+    "imageurl": null,
+    "descript": "<div class=\"grid-row grid-gap\">\n    <div class=\"grid-col-8\">\n        <p><b><font size=\"+2\">T</font>he Wisconsin All-Sky Survey (WASS)</b> sounding rocket program was a project to map the diffuse X-ray background at multiple bands between 0.1 and 6 keV by instruments flown on a series of rocket flights between late 1972 and early 1980.</p>\n        <p>The two November 1973 flights were launched from Australia&rsquo;s Woomera Rocket Range. All other rocket launches were from the White Sands Missile Range in New Mexico. The same payload was used in eight of the flights, and a smaller version in two of the earlier flights (Dec 1972 and Nov 1973).</p>\n    </div>\n    <div class=\"grid-col-4\">\n        <img src=\"/Images/rockets/wass_rocket_scans.png\" width=\"420\" class=\"width-full\">\n        <p class=\"font-size-sm\">Scan paths for the rocket flights used in the survey, shown in galactic coordinates. The path for flight 25.045 is shown as a dashed line: This flight had a malfunctioning attitude control system.</p>\n    </div>\n</div>",
+    "lifetime": "1972&ndash;1979",
+    "features" : [
+	"Series of rocket flights to collectively map the diffuse soft X-ray background"
+    ],
+    "instrument_preamble" : "<table class=\"usa-table usa-hea-mission-table\">\n<caption class=\"usa-sr-only\">Wisconsin All-Sky Survey rocket flights</caption>\n<thead>\n    <tr><th scope=\"col\" class=\"text-center\"><strong>Date</strong></th>\n        <th scope=\"col\" class=\"text-center\"><strong>Target <i>(l,b)</i></strong></th>\n        <th scope=\"col\" class=\"text-center\"><strong>Flight No</strong></th>\n        <th scope=\"col\" class=\"text-center\"><strong>Date</strong></th>\n        <th scope=\"col\" class=\"text-center\"><strong>Target <i>(l,b)</i></strong></th>\n        <th scope=\"col\" class=\"text-center\"><strong>Flight No</strong></th>\n    </tr>\n</thead>\n<tbody>\n<tr><td> 8 Dec 1972</td><td>168.2, -9.5</td> <td>13.083</td> <td> 1 Nov 1973</td><td>227.9,-56.4</td> <td>13.103</td></tr>\n<tr><td>12 Nov 1973</td><td>226.8,-66.6</td> <td>13.102</td> <td>20 Jul 1974</td><td> 64.2,+12.8</td> <td>13.084</td> </tr>\n<tr><td> 8 Nov 1975</td><td>131.8,-29.2</td> <td>13.049</td> <td>15 Jan 1977</td><td>183.5,+15.3</td> <td>13.122</td></tr>\n<tr><td>25 May 1977</td><td> 54.0,+41.6</td> <td>26.061</td> <td> 6 May 1978</td><td> 52.2,+63.7</td> <td>13.137</td></tr>\n<tr><td>15 Mar 1979</td><td>193.7,+50.7</td> <td>25.045</td> <td>21 Jan 1980</td><td>192.1,+41.4</td> <td>25.051</td> </tr>\n</tbody>\n</table>",
+    "instruments": [
+	{
+	    "name" : "Proportional Counter",
+	    "fov" : "6.5&deg; circular",
+	    "energy" : "0.1&ndash;6 keV",
+	    "descript" : "Gas proportional counter with three-sided anti-coincidence, filled with a 90% argon 10% methane mix at &sim;1 atm pressure. Honeycomb Collimators gave a 6.5&deg; circular field of view. Data collection was performed by scanning over a fan-shaped field. Each individual flight scanned roughly one eighth of the sky."
+	}
+    ],
+    "highlights": [
+	"First complete all X-ray survey of the diffuse background in seven different X-ray band."
+    ],
+    "archive": "The HEASARC hosts the WASS maps",
+    "navigation": [
+	{
+	    "url" : "https://heasarc.gsfc.nasa.gov/docs/rockets/wass.html",
+	    "text" : "WASS at HEASARC"
+	},
+	{
+	    "url" : "https://heasarc.gsfc.nasa.gov/docs/rockets/about_wass.html",
+	    "text" : "More about WASS"
+	},
+	{
+	    "url" : "https://heasarc.gsfc.nasa.gov/docs/rockets/wass_biblio.html",
+	    "text" : "Publications"
+	}
+    ],
+    "goffooter" : "/docs/rockets/wass_footer.html"
+}

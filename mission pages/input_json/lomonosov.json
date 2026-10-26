@@ -1,0 +1,58 @@
+{
+  "title": "Lomonosov",
+  "name": "Lomonosov",
+  "alttext": "Lomonosov satellite",
+  "imagesize": 300,
+  "imageurl": "/Images/misc_missions/lomonosov.jpg",
+    "descript": "<p><b><font size=\"+2\">T</font>he Mikhailo Lomonosov 300 (MVL-300)</b> mission was a Russian high-energy astrophysics satellite. It was named to honor the 300th anniversary of the birth of the Russian polymath Mikhail Vasilyevich Lomonosov. It was designed by the M. V. Lomonosov Moscow State University (MGU; itself named after the same intellectual). The mission&rsquo;s purpose was the study gamma-ray bursts at multiple wavelengths, and study transient phenomena in the Earth&rsquo;s upper atmosphere.</p>\n\n<p>The mission was launched on April 28, 2016 from the Russian Vostochny (Eastern) spacedrome into a polar sun-synchronous orbit aboard the Soyuz 2-1a Volga rocket. The spacecraft bus was based on the mission-proven Kanopus platform. Lomonosov originally had a three year planned lifespan, but roughly ten months shy of that milestone, the data transmission system failed and specialists from MGU and VNIIEM Corporation (the satellite builder) were unable to restore operations.</p>",
+      "decade": 2010,
+  "lifetime": "Apr 2016&ndash;Jun 2017",
+    "features":
+    [
+	"MVL-300 was equipped with many instruments for high-energy physics and astronomy research. The BDRG, ShOK, and UFFO instruments were those primarily engaged in studies of gamma-ray bursts and X-ray astrophysical phenomena."
+    ],
+    "instruments":
+    [
+	{
+	    "name" : "Ultra-Fast Flash Observatory (UFFO)",
+	    "energy" : "5&ndash;200 keV (UBAT)",
+	    "wavelength" : "200&ndash;650 nm (SMT)",
+	    "resolution" : "&sim;10&prime; (UBAT) for bright sources<br>0.5&Prime; (SMT)",
+	    "fov" : "90.2&deg; &times; 90.2&deg; (UBAT)<br>17&prime; (SMT)",
+	    "area" : "191.2 cm<sup>2</sup>",
+	    "energy_resolution" : "2 keV at 6 keV",
+	    "descript" : "UFFO consisted of two instruments, the UFFO Burst Alert and Trigger telescope (UBAT), and Slewing Mirror Telescope (SMT). UBAT was a coded mask aperture X-ray camera with a wide field of view. UBAT would trigger an alert to the SMT, which would slew onto the target within a second of the alert, collecting UV and optical afterglow without requiring the satellite to reorient. "
+	},
+	{
+	    "name" : "<i>Blok Detektirovaniya Rentgenovskogo e Gamma izlycheniya</i> (BDRG; X-ray and Gamma-ray Detection Unit)",
+	    "descript" : "A trio of X-ray/gamma-ray detectors mounted perpendicularly to each other. It was designed for studying a wide variety of X-ray and gamma-ray celestial sources, and to generate trigger signals for the ShOK instrument for gamma-ray bursts."
+	},
+	{
+	    "name" : "<i>Opticheckiye Kameri Svepkhirokogo Polya Ereniya</i> (ShOK; Ultra-wide Field of View Optical Cameras)",
+	    "descript" : "A pair of optical cameras with very wide fields of view. By taking several images per second, the cameras could track space debris, light flashes such as sprites, novae, supernovae, near-Earth asteroids, and gamma-ray bursts."
+	},
+	{
+	    "name" : "<i>Dozimetr Elektronov, PROtonov, Neutronov</i> (DEPRON; Electron, Proton, and Neutron Dosimeter)",
+	    "descript" : "DEPRON measured the intensity and energy of high-energy particles in the ambient cosmic radiation environment of the spacecraft."
+	},
+	{
+	    "name" : "<i>Trekovaya UStanovka</i> (TUS; Ultraviolet Tracking Detector)",
+	    "descript" : "TUS was a 1.8 m<sup>2</sup> concentrator mirror with an array of near-UV sensitive photomultiplier tubes to study the night side of the Earth, looking for cosmic-ray air shower tracks from interactions with the Earth&rsquo;s atmosphere. It also monitored very short-lived events such as &ldquo;vertical lightning&rdquo; and similar transient phenomena. The mirror was made of carbon material for durability in the harsh thermal environment, and coated with MgF<sub>2</sub> to protect it from atmospheric oxygen."
+	}
+    ],
+    "highlights":
+    [
+	"The Lomonosov mission studied cosmic rays at extremely high energies (10<sup>19</sup> &ndash; 10<sup>20</sup> eV) in search of the predicted GZK spectral cutoff, detected and studied gamma-ray burst sources, as well as upper atmospheric energetic events, including local weather-induced events (e.g. sprites from active thunderstorms), magnetospheric events, and air shower events from cosmic rays striking the Earth&rsquo;s upper atmosphere."
+    ],
+  "archive": "",
+  "navigation": [
+    {
+      "url": "http://lomonosov.sinp.msu.ru/en/",
+      "text": "Lomonosov at MGU (Russia)"
+    },
+    {
+      "url": "biblio/lomonosov_biblio.html",
+      "text": "Publications"
+    }
+  ]
+}

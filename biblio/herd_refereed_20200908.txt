@@ -1,0 +1,11 @@
+2020MNRAS.493.1553G|Galanti, G;Roncadelli, M;De Angelis, A;Bignami, G|Hint at an axion-like particle from the redshift dependence of blazar spectra|25
+2019JCAP...12..007Q|Qiao, B;Liu, W;Guo, Y;Yuan, Q|Anisotropies of different mass compositions of cosmic rays|4
+2019MNRAS.487..123G|Galanti, G;Tavecchio, F;Roncadelli, M;Evoli, C|Blazar VHE spectral alterations induced by photon-ALP oscillations|8
+2019NPPP..306...85C|Cattaneo, P;HERD Collaboration|The space station based detector HERD: precise high energy cosmic rays physics and multimessenger astronomy|0
+2018A&C....23..141S|Saha, S;Basak, S;Safonova, M;Bora, K;Agrawal, S;Sarkar, P;Murthy, J|Theoretical validation of potential habitability via analytical and boosted tree methods: An optimistic study on recently discovered exoplanets|13
+2018AcASn..59...59L|Liang, Y|Search for Gamma-ray Line Features with Fermi-LAT Data and Development of DAMPE Gamma-ray Science Analysis Software|0
+2018JHEAp..20....1G|Galanti, G;Roncadelli, M|Extragalactic photon-axion-like particle oscillations up to 1000 TeV|13
+2018MNRAS.478.5660F|Fang, K;Bi, X;Yin, P|Discriminating local sources of high-energy cosmic electrons and positrons by current and future anisotropy measurements|2
+2017PhRvD..95l1301H|Hektor, A;Marzola, L;Tuvi, T|Gamma-ray line constraints on coy dark matter|6
+2016APh....78...35H|Huang, X;Lamperstorfer, A;Tsai, Y;Xu, M;Yuan, Q;Chang, J;Dong, Y;Hu, B;Lu, J;Wang, L;Wu, B;Zhang, S|Perspective of monochromatic gamma-ray line detection with the High Energy cosmic-Radiation Detection (HERD) facility onboard China's space station|21
+2016NPPP..279..161X|Xu, M;HERD Collaboration|The High Energy Cosmic Radiation Facility onboard China's Space Station|0

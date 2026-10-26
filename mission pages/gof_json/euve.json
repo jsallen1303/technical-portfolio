@@ -1,0 +1,52 @@
+{
+    "title": "The EUVE Satellite",
+    "name": "The EUVE Observatory",
+    "alttext": "Artistic illustration of EUVE satellite",
+    "imagesize": 173,
+    "imageurl": "/Images/euve/euve_small.gif",
+    "descript": "<p><b><font size=\"+2\">T</font>he Extreme Ultraviolet Explorer (EUVE)</b>, a NASA explorer class satellite mission, was launched on June 7 1992 and it operated till January 31 2001. EUVE is entirely dedicated to observations in the wavelength range from 70 to 760 &Aring;. The first phase of the mission (six months) was dedicated to an all-sky survey using the imaging instruments. The second phase instead is dedicated to pointed observations with mainly the spectroscopic instruments. The instrument package included four separate telescopes for imaging, deep survey, and spectroscopy.</p>\n\n<p>EUVE was highly successful and its original mission was extended twice. Satellite operations ceased on 31 January 2001, and re-entered the Earth&rsquo;s atmosphere on 31 January 2002.",
+    "decade" : 1990,
+    "gofsidebar" : "Past",
+    "lifetime": "7 Jun 1992&ndash;31 Jan 2001",
+    "features": [
+	"First dedicated extreme ultraviolet mission"
+    ],
+    "instruments": [
+	{
+	    "name" : "Imaging Micro-channel Plate (MCP)",
+	    "wavelength" : "44&dash;220 &Aring; and 140&ndash;360 &Aring;",
+	    "fov" : "&sim;5&deg; diameter",
+	    "area" : "19 cm<sup>2</sup>",
+	    "descript" : "2 Wolter-Schwarzchild Type I grazing incidence mirrors, each with an MCP (Scanner A &amp; B)"
+	},
+	{
+	    "name" : "Imaging MCP Detector",
+	    "wavelength" : "520&ndash;750 &Aring; and 400&ndash;600 &Aring;",
+	    "fov" : "&sim;4&deg; diameter",
+	    "descript" : "A single Wolter-Schwarzchild Type II grazing incidence mirror with two bandpasses"
+	},
+	{
+	    "name" : "Imaging Deep Survey MCP Detector",
+	    "wavelength" : "520&ndash;750 &Aring; and 400&ndash;600 &Aring;",
+	    "descript" : "A single Wolter-Schwarzchild Type II grazing incidence mirror which split the light with half going to this instrument and the other half to the three spectrometers."
+	},
+	{
+	    "name" : "Deep Survey Spectrometer",
+	    "wavelength" : "70&ndash;190 &Aring; (SW); 140&ndash;380 &Aring; (MW); 280&ndash;760 &Aring; (LW)",
+	    "descript" : "A single Wolter-Schwarzchild Type II grazing incidence mirror Deep Survey/Spectrometer Telescope, which split the light with half going to the three spectrometers (Short Wavelength (SW), Medium Wavelength (Mw), and Long Wavelength (LW)). Each was a combination of a grating and MCP detector."
+	}
+    ],
+    "highlights": [
+	"All-sky survey catalog (801 objects)",
+	"EUV first detection of extragalactic objects (e.g. PKS 2155-304)",
+	"Detection of the photospheric emission from stars (e.g. epsilon CMa)",
+	"Quasi Periodic Oscillation detection in the Dwarf Nova SS Cygni"
+    ],
+  "archive": "The HEASARC hosts catalogs, images, raw data and selected spectra",
+    "navigation": [
+	{
+	    "url" : "https://heasarc.gsfc.nasa.gov/docs/euve/euvegof.html",
+	    "text" : "EUVE at HEASARC"
+	}
+    ]
+}

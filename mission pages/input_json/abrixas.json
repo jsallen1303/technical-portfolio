@@ -1,0 +1,21 @@
+{
+  "title": "ABRIXAS",
+  "name": "ABRIXAS",
+  "alttext": "Artist concept of ABRIXAS satellite in orbit",
+  "imagesize": 212,
+  "imageurl": "/Images/misc_missions/abrixas_small.gif",
+    "descript": "<p><b><font size=\"+2\">T</font>he ABRIXAS</b> (A Broad-band Imaging X-ray All-sky Survey Satellite) was the planned follow-on to ROSAT. It was successfully launched on April 28, 1999, from the Russian launch center at Kapustin Yar into an orbit with a 580 km altitude and a 51 degree inclination. The initial mission operations was to last for three years. However, a few days after launch, ABRIXAS experienced problems with its battery, and attempts to bypass the problem by using the solar arrays were not successful. On April 30, the ground station lost contact and the mission was ultimately abandoned without acquiring any science data after some further attempts to establish communications and control. The satellite re-entered the Earth&rsquo;s atmosphere on October 31, 2017.</p><p>Its primary mission was to map the entire sky with its imaging telescope in the energy range 0.5&ndash;10 keV.</p>\n<p>This project was a collaboration of the Astrophysical Institute Potsdam (AIP), the Max-Planck-Institut for Extraterrestrial Physics (MPE), and the Institute for Astronomy and Astrophysics of the University of T&uuml;bingen (IAAT). The German Space Agency, DARA, was responsible for project management.</p>",
+      "decade": 1990,
+  "lifetime": "28&ndash;30 Apr 1999",
+    "features": [ "Map the entire X-ray sky (intended)" ] ,
+    "instruments": [
+        {
+      "name": "X-ray Telescope",
+      "energy": "0.5&ndash;10 keV",
+      "length": "1.6 m",
+	    "descript": "ABRIXAS carried seven nested Wolter-1 type grazing incident telescopes with 27 mirror elements in each telescope. Each had a pn-CCD with a 6 &times; 6 cm<sup>2</sup> detector modeled on the EPIC camera used in the Newton-XMM mission, and had high efficiency and good spectral resolution." }
+    ],
+    "highlights": [
+	"The early mission failure of the battery system occurred before science data could be collected. Had this not occurred, the three year mission plan would have performed an all-sky survey with an anticipated detection of at least 10,000 new hard X-ray sources obscured by gas and dust at lower energy levels, collected data on diffuse X-ray sources, and measured bright time-variable X-ray sources."
+]
+}

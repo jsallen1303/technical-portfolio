@@ -1,0 +1,39 @@
+{
+  "title": "The Prognoz 6 Mission",
+  "name": "Prognoz 6",
+  "alttext": "Visualization of a Prognoz satellite",
+  "imagesize": 299,
+  "imageurl": "/Images/misc_missions/prognoz_small.gif",
+    "descript": "<p><b><font size=\"+2\">T</font>he Solar International Gamma-Ray and Neutron Experiment (SIGNE)</b> was a joint French-Soviet program which first went into space in 1972 with the <b>Prognoz 2</b> satellite. The scientific objectives of all of the Prognoz missions was the study of particles and fields and solar electromagnetic radiation. <b>Prognoz 6</b> was launched from the USSR on 22 September 1977 into a highly elliptical orbit (&sim;200,000 km &times; 500 km). The orbital inclination was 65 degrees. The orbital period was about 4 days, with most of the time spent outside of the Earth&rsquo;s magnetosphere. The satellite weighed about 900 kg, and was spin stabilized with a period of &sim;120 seconds. The spin axis was updated periodically in order to keep the angle between the spin axis and the Sun to less than 8 degrees. Useful data was collected until March 1978 when the satellite lost stability control.</p>",
+      "decade": 1970,
+  "lifetime": "Sep 1977&ndash;Mar 1978",
+    "instrument_preamble": "Prognoz 6 carried the French SIGNE II MP experiment, designed primarily to study solar X- and gamma-radiation and cosmic gamma-ray bursts. A secondary objective was the study of discrete cosmic X-ray sources. The experiment consisted of 3 detectors: an omnidirectional upper detector in a plastic anti-coincidence shield which faced the Sun, an actively collimated lateral detector also pointed toward the Sun, and an actively collimated lateral detector pointed toward the anti-Sun. The two collimated, lateral detectors were used primarily for the observation of discrete sources, while the upper, omnidirectional detector was used for bursts. The axis of the upper detector is parallel to the satellite spin axis. The axis of the lateral detectors was 9.5 degrees away from the spin axis, in order to create a roll modulation for discrete source observations.",
+    "instruments": [
+	{
+	    "name" : "Gamma Ray Burst Detector (upper)",
+	    "energy" : "20&ndash;3000 keV",
+	    "time_resolution" : "1/512 s (max)",
+	    "descript" : "The dedicated gamma-ray burst detector, i.e. the upper detector, faced in the direction of the Sun. It was a 4.5 cm radius by 3.7 cm thick NaI(Tl) crystal, surrounded by an 8 mm thick plastic anti-coincidence jacket. The crystal and the plastic were viewed from the side by photomultipliers. The gamma-ray burst detector operated in low time resolution &ldquo;waiting&rdquo; modes in the absence of a burst; low energy resolution spectra and higher energy resolution calibration spectra were transmitted in this mode. Typically, the data were accumulated into 163.8 s time bins, 1&ndash;31 energy channels. Detection of a burst triggered the storage of high time resolution count rates and spectral data. The trigger criterion was an excess count rate 8 sigma above normal in a 250 ms interval. The maximum time resolution was 1/512 s. The energy ranges examined for burst detection ranged from 20&ndash;280 keV to 80&ndash;3000 keV, depending on the detector mode. During a burst, there were 1&ndash;6 energy channels used, and, for Prognoz 6 and a &ldquo;typical&rdquo; burst, the nominal energy range was 80&ndash;400 keV. The total data rate for the Prognoz 6 experiment package was 6 b/s."
+	},
+	{
+	    "name" : "Gamma Ray Burst Detector (lateral)",
+	    "energy" : "30&ndash;900 keV",
+	    "temporal_resolution" : "0.25 s",
+	    "descript" : "Two collimated, lateral detectors were used primarily for the observation of discrete sources, while the upper, omnidirectional detector was used for bursts. The axis of the upper detector is parallel to the satellite spin axis. The axis of the lateral detectors was 9.5 degrees away from the spin axis, in order to create a roll modulation for discrete source observations. Data were collected in 9 energy bins."
+	}
+    ],
+    "highlights": [
+	"The SIGNE II MP experiment on Prognoz 6 detected 3 confirmed gamma-ray bursts (20 Oct 1977; 29 Oct 1977; 10 Nov 1977) and four additional candidate events."
+    ],
+  "archive": "",
+  "navigation": [
+    {
+      "url": "images/prognoz_images.html",
+      "text": "Gallery"
+    },
+    {
+      "url": "biblio/prognoz6_biblio.html",
+      "text": "Publications"
+    }
+  ]
+}

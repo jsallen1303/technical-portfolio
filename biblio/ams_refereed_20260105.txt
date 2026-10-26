@@ -1,0 +1,550 @@
+2026ApJS..282....5Z|Zhao, P;Yan, J;Leung, A;Feng, J|Measurements of Cosmic Proton Flux through Neutron Monitors Using Deep Networks and Imputation Techniques in the AMS-02 Era|0
+2025A&A...704A.314W|Wang, Y;Guo, J;Corti, C;Wang, Y;Liu, W;Wimmer-Schweingruber, R|The rigidity-dependent delay time of the galactic cosmic ray modulation with respect to the open solar magnetic flux|0
+2025APh...17103134V|Vasilev, G;Vankova-Kirilova, G;Bozhkova, G|Optimization of singly-charged particles identification with the AMS02 RICH detector by a machine learning method|1
+2025AdSpR..76.3743K|Kuzmenkova, P;Dmitrieva, A;Lagoida, I;Sukhova, P;Shutenko, V;Astapov, I|Yield, response and coupling functions of the URAGAN muon hodoscope|0
+2025AdSpR..76.5700P|Pelosi, D;Barao, F;Bertucci, B;Faldi, F;Fiandrini, E;Reina Conde, A;Orcinha, M;Tomassetti, N|A forecasting framework for galactic cosmic ray flux in space weather applications|0
+2025ApJ...979..225L|Lv, X;Bi, X;Fang, K;Guo, Y;He, H;Ma, L;Yin, P;Yuan, Q;Zhao, M|Precise Measurement of the Cosmic-Ray Spectrum and &lt;ln A&gt; by LHAASO: Connecting the Galactic to the Extragalactic Components|9
+2025ApJ...980..116Z|Zhu, C;Wang, M|Solar Modulation of AMS-02 Daily Proton and Helium Fluxes with Modified Force-field Approximation Models|5
+2025ApJ...981...85B|Boschini, M;Della Torre, S;Gervasi, M;Grandi, D;Johannesson, G;La Vacca, G;Masi, N;Moskalenko, I;Pensotti, S;Porter, T;Quadrani, L;Rancoita, P;Rozza, D;Tacconi, M|Spectra of He Isotopes and the <SUP>3</SUP>He/<SUP>4</SUP>He Ratio|0
+2025ApJ...982..103Z|Zhu, C;Duan, K|Forecasting of the Time-dependent Fluxes of Antiprotons in the AMS-02 Era|3
+2025ApJ...983..156Z|Zhu, C;Wang, M|Probing Solar Modulation of AMS-02 Time-dependent D, <SUP>3</SUP>He, and <SUP>4</SUP>He Fluxes with Modified Force-field Approximation Models|0
+2025ApJ...988..181A|Amoroso, S;Babu, M;Bartocci, S;Battiston, R;Beole, S;Burger, W;Campana, D;Cipollone, P;Conti, L;Contin, A;Cristoforetti, M;De Donato, C;De Santis, C;Di Luca, A;Follega, F;Gebbia, G;Iuppa, R;Lega, A;Lolli, M;Martucci, M;Masciantonio, G;Merge, M;Mese, M;Neubuser, C;Nicolaidis, R;Nozzoli, F;Oliva, A;Osteria, G;Palma, F;Panico, B;Perfetto, F;Perinelli, A;Picozza, P;Pietroni, S;Pozzato, M;Ricci, E;Ricci, L;Ricci, M;Ricciarini, S;Sahnoun, Z;Savino, U;Scotti, V;Sorbara, M;Sotgiu, A;Sparvoli, R;Ubertini, P;Vilona, V;Zoffoli, S;Zuccon, P;Boezio, M;Munini, R;Aslam, O;Luo, X;Ndiitwani, D;Ngobeni, M;Piersanti, M;Potgieter, M;Ramokgaba, I|Multispacecraft Observations of the 27 Day Periodicity in Galactic Protons from 2018 to 2019|0
+2025ApJ...989L..16A|Acharyya, A;Adelfio, A;Ajello, M;Baldini, L;Bartolini, C;Bastieri, D;Becerra Gonzalez, J;Bellazzini, R;Berenji, B;Bissaldi, E;Blandford, R;Bonino, R;Bottacini, E;Buson, S;Cameron, R;Caraveo, P;Casaburo, F;Casini, F;Cavazzuti, E;Cerasole, D;Cibrario, N;Ciprini, S;Cozzolongo, G;Cristarella Orestano, P;Cuna, F;Cuoco, A;Cutini, S;D'Ammando, F;Depalo, D;Digel, S;Di Lalla, N;Di Venere, L;Dominguez, A;Fiori, A;Fukazawa, Y;Fusco, P;Gargano, F;Gasbarra, C;Gasparrini, D;Germani, S;Giacchino, F;Giglietto, N;Giliberti, M;Giordano, F;Giroletti, M;Guiriec, S;Gupta, R;Hashizume, M;Hays, E;Hewitt, J;Holzmann Airasca, A;Horan, D;Hou, X;Kayanoki, T;Kuss, M;Larsson, S;Laviron, A;Li, J;Liguori, A;Liodakis, I;Loizzo, P;Longo, F;Loparco, F;Lopez Perez, S;Lorusso, L;Lovellette, M;Lubrano, P;Maldera, S;Manfreda, A;Marti-Devesa, G;Martinelli, R;Mazziotta, M;McEnery, J;Mereu, I;Michailidis, M;Michelson, P;Mirabal, N;Mizuno, T;Monti-Guarnieri, P;Monzani, M;Morselli, A;Moskalenko, I;Negro, M;Omodei, N;Orlando, E;Ormes, J;Paneque, D;Panzarini, G;Persic, M;Pesce-Rollins, M;Petrosian, V;Pillera, R;Principe, G;Raino, S;Rando, R;Rani, B;Razzano, M;Reimer, A;Reimer, O;Sanchez-Conde, M;Saz Parkinson, P;Serini, D;Sgro, C;Siskind, E;Spinelli, P;Tak, D;Tibaldo, L;Torres, D;Valverde, J;Wadiasingh, Z;Zhang, W|Puzzling Variation of Gamma Rays from the Sun over the Solar Cycle Revealed with Fermi-LAT|5
+2025ApJ...990..178M|Modzelewska, R;Siluszyk, M;Iskra, K;Gil, A;Munini, R;Marciszuk, K;Kozak-Superson, D|Rigidity Dependence of the Long-term Galactic Cosmic Ray Variation by AMS-02|0
+2025Astro...4....4E|Evoli, C|Deciphering the Electron Spectral Hardening in AMS-02|0
+2025ChPhC..49k5001A|Alemanno, F;An, Q;Azzarello, P;Barbato, F;Bernardini, P;Bi, X;Boutin, H;Cagnoli, I;Cai, M;Casilli, E;Catanzani, E;Chang, J;Chen, D;Chen, J;Chen, Z;Chen, Z;Coppin, P;Cui, M;Cui, T;Cui, Y;de Mitri, I;de Palma, F;di Giovanni, A;Dong, T;Dong, Z;Donvito, G;Duan, J;Duan, K;Fan, R;Fan, Y;Fang, F;Fang, K;Feng, C;Feng, L;Frieden, J;Fusco, P;Gao, M;Gargano, F;Ghose, E;Gong, K;Gong, Y;Guo, D;Guo, J;Han, S;Hu, Y;Huang, G;Huang, X;Huang, Y;Ionica, M;Jiang, L;Jiang, Y;Jiang, W;Kong, J;Kotenko, A;Kyratzis, D;Lei, S;Li, M;Li, W;Li, W;Li, X;Li, X;Liang, Y;Liu, C;Liu, H;Liu, J;Liu, S;Liu, Y;Loparco, F;Luo, C;Ma, M;Ma, P;Ma, T;Ma, X;Marsella, G;Mazziotta, M;Mo, D;Nie, Y;Niu, X;Parenti, A;Peng, W;Peng, X;Perrina, C;Putti-Garcia, E;Qiao, R;Rao, J;Rong, Y;Sarkar, R;Savina, P;Serpolla, A;Shangguan, Z;Shen, W;Shen, Z;Shen, Z;Silveri, L;Song, J;Su, H;Su, M;Sun, H;Sun, Z;Surdo, A;Teng, X;Tykhonov, A;Wang, G;Wang, J;Wang, L;Wang, S;Wang, X;Wang, Y;Wang, Y;Wei, D;Wei, J;Wei, Y;Wu, D;Wu, J;Wu, S;Wu, X;Xia, Z;Xiong, Z;Xu, E;Xu, H;Xu, J;Xu, Z;Xu, Z;Xu, Z;Xue, G;Yang, H;Yang, P;Yang, Y;Yao, H;Yan, M;Yu, Y;Yuan, Q;Yue, C;Zang, J;Zhang, S;Zhang, W;Zhang, Y;Zhang, Y;Zhang, Y;Zhang, Y;Zhang, Y;Zhang, Z;Zhang, Z;Zhao, C;Zhao, H;Zhao, X;Zhou, C;Zhu, Y;Dampe Collaboration|Measurement of separate electron and positron spectra from 10 to 20 GeV with the geomagnetic field on DAMPE|0
+2025EPJC...85.1348W|Wang, G;Su, B;Zu, L;Feng, L|Exploring sub-GeV dark matter physics with cosmic ray and future telescopes|3
+2025FrASS..1283946S|Song, X;Huo, R;Xu, S;Chen, X;Luo, X|The SDEMMA model for galactic cosmic ray and its dosimetric application|1
+2025Galax..13...23T|Tomassetti, N;Bertucci, B;Fiandrini, E;Khiali, B|Propagation Times and Energy Losses of Cosmic Protons and Antiprotons in Interplanetary Space|1
+2025JCAP...02..029O|Orusa, L;Manconi, S;Donato, F;Mauro, M|Disclosing the catalog pulsars dominating the Galactic positron flux|5
+2025JCAP...02..062D|De Lat Torre Luque, P;Linden, T|Galactic gas models strongly affect the determination of the diffusive halo height|4
+2025JCAP...10..049D|Duan, K;Wang, X;Li, W;Xu, Z;Sming Tsai, Y;Fan, Y|Scrutinizing the impact of the solar modulation on AMS-02 antiproton excess|1
+2025JGRA..13033805V|Vaisanen, P;Bertucci, B;Tomassetti, N;Orcinha, M;Usoskin, I;Koldobskiy, S|Simulation of Galactic Cosmic Ray Proton Fluxes With the Daily Modulation Parameter: Validation With AMS-02 Data for 2011–2019|2
+2025PhRvD.111b3032K|Korwar, M;Profumo, S|Late-forming black holes and the antiproton, gamma-ray, and antihelium excesses|7
+2025PhRvD.111h3525H|Huang, J;Zhou, Y|Constraints on evaporating primordial black holes from the AMS-02 positron data|9
+2025PhRvD.111i2002D|Dimiccoli, F;Follega, F|Novel experimental approach to uncover the nature of cosmic-ray deuterium|1
+2025PhRvD.112a5027D|Das, S;Kamada, A;Kuwahara, T;Murase, K;Song, D|Composite asymmetric dark matter with a dark photon portal: Multimessenger tests|3
+2025PhRvD.112b3003D|De Romeri, V;Donato, F;Maurin, D;Stefanuto, L;Tolino, A|Antinuclei from primordial black holes|1
+2025PhRvD.112d3022Z|Zhao, M;Bi, X;Fang, K;Lv, X;Yin, P|Prediction of lithium isotope fluxes using data-driven production cross sections|1
+2025PhRvD.112f3035C|Chan, M;Lee, C|Does the high-energy AMS-02 positron flux originate from the dark matter density spikes around nearby black holes?|0
+2025PhRvD.112h3017D|Di Mauro, M;Jueid, A;Koechler, J;de Austri, R|Robust determination of antinuclei production from dark matter via weakly decaying beauty hadrons|0
+2025PhRvD.112l3026Z|Zhao, M;Lv, X;Bi, X;Fang, K;Yin, P|Unified solar modulation potential for same-charge cosmic rays and implications for local interstellar spectra|0
+2024A&A...688A..17F|Ferronato Bueno, E;Derome, L;Genolini, Y;Maurin, D;Tatischeff, V;Vecchi, M|Transport parameters from AMS-02 F/Si data and fluorine source abundance|8
+2024A&A...690A..31R|Romaneehsen, L;Heber, B;Marquardt, J|Charge sign dependence of recurrent Forbush decreases in 2016–2017|2
+2024A&A...692A..20R|Recchia, S;Gabici, S|Origin of the spectral features observed in the cosmic-ray spectrum|9
+2024AdSpR..73.2816N|Ngobeni, M;Potgieter, M;Aslam, O|Towards understanding time variations of proton to helium ratios in the heliosphere: Implication for the time dependence of the elements of the diffusion tensor|1
+2024AdSpR..74.1978S|Siruk, S;Kuznetsov, A;Mayorov, A;Yulbarisov, R|Analysis of the spectrum of 27-day GCR variations in 2015–2016|5
+2024AdSpR..74.4302B|Boschini, M;Cavallotto, G;Della Torre, S;Gervasi, M;La Vacca, G;Rancoita, P;Tacconi, M|Fast and accurate evaluation of deep-space galactic cosmic ray fluxes with HelMod-4/CUDA|4
+2024ApJ...963..111S|Silver, E;Orlando, E|Testing Cosmic-Ray Propagation Scenarios with AMS-02 and Voyager Data|12
+2024ApJ...974..246A|Albert, A;Alfaro, R;Alvarez, C;Arteaga-Velazquez, J;Avila Rojas, D;Ayala Solares, H;Babu, R;Belmont-Moreno, E;Bernal, A;Caballero-Mora, K;Capistran, T;Carraminana, A;Casanova, S;Cotti, U;Cotzomi, J;Coutino de Leon, S;de la Fuente, E;Depaoli, D;Di Lalla, N;Diaz Hernandez, R;Dingus, B;DuVernois, M;Durocher, M;Diaz-Velez, J;Engel, K;Espinoza, C;Fan, K;Fang, K;Fraija, N;Garcia-Gonzalez, J;Garfias, F;Goksu, H;Gonzalez, M;Goodman, J;Groetsch, S;Harding, J;Hernandez-Cadena, S;Herzog, I;Huntemeyer, P;Huang, D;Hueyotl-Zahuantitla, F;Iriarte, A;Joshi, V;Kaufmann, S;Kieda, D;Lara, A;Lee, W;Lee, J;Leon Vargas, H;Linnemann, J;Longinotti, A;Luis-Raya, G;Malone, K;Martinez, O;Martinez-Castro, J;Matthews, J;Miranda-Romagnoli, P;Montes, J;Morales-Soto, J;Moreno, E;Mostafa, M;Nayerhoda, A;Nellen, L;Noriega-Papaqui, R;Olivera-Nieto, L;Omodei, N;Perez Araujo, Y;Perez-Perez, E;Rho, C;Rosa-Gonzalez, D;Salazar, H;Salazar-Gallegos, D;Sandoval, A;Schneider, M;Schwefer, G;Serna-Franco, J;Son, Y;Springer, R;Tibolla, O;Tollefson, K;Torres, I;Torres-Escobedo, R;Turner, R;Urea-Mena, F;Varela, E;Villasenor, L;Wang, X;Watson, I;Willox, E;Wu, H;Yun-Carcamo, S;Zhou, H;de Leon, C;Di Mauro, M|Precise Measurements of TeV Halos around Geminga and Monogem Pulsars with HAWC|12
+2024ApJ...974..284M|Muangha, P;Ruffolo, D;Saiz, A;Banglieng, C;Evenson, P;Seunarine, S;Oh, S;Jung, J;Duldig, M;Humble, J|Variations in the Inferred Cosmic-Ray Spectral Index as Measured by Neutron Monitors in Antarctica|3
+2024ApJ...974L..14Y|Yuan, Q;Fan, Y|The AMS-02 Cosmic-Ray Deuteron Flux is Consistent with a Secondary Origin|5
+2024ApJ...975..270Z|Zhu, C|Local Interstellar Spectra and Solar Modulation of Cosmic-Ray Proton and Helium|5
+2024ChPhC..48b5103Z|Zhao, Y;Bi, X;Lin, S;Yin, P|Impact of a nearby subhalo on the constraint of dark matter annihilation from cosmic ray antiprotons|1
+2024EPJC...84..606S|Su, B;Pan, X;Wang, G;Zu, L;Yang, Y;Feng, L|Constraining primordial black holes as dark matter using AMS-02 data|14
+2024JCAP...05..104D|De La Torre Luque, P;Winkler, M;Linden, T|Antiproton bounds on dark matter annihilation from a combined analysis using the DRAGON2 code|15
+2024JCAP...10..017L|Luque, P;Winkler, M;Linden, T|Cosmic-ray propagation models elucidate the prospects for antinuclei detection|8
+2024JCAP...11..016T|Tovar-Pardo, A;Luque, P;Sanchez-Conde, M|Impact of inhomogeneous diffusion on secondary cosmic ray and antiproton local spectra|1
+2024JCAP...11..017H|Heisig, J;Korsmeier, M;Kramer, M;Nippel, K;Rathmann, L|D̅ARKRAYNET: emulation of cosmic-ray antideuteron fluxes from dark matter|1
+2024JInst..19C1025C|Coutu, S;Allison, P;Baiocchi, M;Beatty, J;Beaufore, L;Calderon, D;Castano, A;Chen, Y;Green, N;Hanna, D;Jeon, H;Klein, S;Kunkler, B;Lang, M;Mbarek, R;McBride, K;Mognet, S;Musser, J;Nutter, S;O'Brien, S;Park, N;Powledge, K;Sakai, K;Tabata, M;Tarle, G;Tuttle, J;Visser, G;Wakely, S;Yu, M|The High Energy Light Isotope eXperiment program of direct cosmic-ray studies|6
+2024KPCB...40...64F|Fedorov, Y|Propagation of Galactic Cosmic Rays in the Heliosphere during Minimum Solar Activity Periods|0
+2024Parti...7..417B|Borchiellini, M;Mano, L;Barao, F;Vecchi, M|Feature Selection Techniques for CR Isotope Identification with the AMS-02 Experiment in Space|0
+2024PhRvC.109f4914G|Genolini, Y;Maurin, D;Moskalenko, I;Unger, M|Current status and desired precision of the isotopic production cross sections relevant to astrophysics of cosmic rays. II. Fluorine to silicon and updated results for Li, Be, and B|12
+2024PhRvD.109b3023L|Lv, X;Bi, X;Fang, K;Yin, P;Zhao, M|Reexamining the dark matter scenario accounting for the positron excess in a new cosmic ray propagation model|1
+2024PhRvD.109d3006L|Lv, X;Bi, X;Fang, K;Yin, P;Zhao, M|Reanalysis of the systematic uncertainties in the cosmic-ray antiproton flux|6
+2024PhRvD.109d3041F|Fang, K|Constraining the slow-diffusion zone size and electron injection spectral index for the Geminga pulsar halo|7
+2024PhRvD.109f3027D|Dong, X;Yao, Y;Guo, Y;Cui, S|New understanding of nuclei spectra properties observed by the AMS-02 experiment|1
+2024PhRvD.109h3009L|Long, W;Wu, J|Probing solar modulation analytic models with cosmic ray periodic spectra|9
+2024PhRvD.109h3036Z|Zhao, M;Bi, X;Fang, K;Yin, P|Interpretation of AMS-02 beryllium isotope fluxes using data-driven production cross sections|6
+2024PhRvD.109l3003D|Di Mauro, M;Korsmeier, M;Cuoco, A|Data-driven constraints on cosmic-ray diffusion: Probing self-generated turbulence in the Milky Way|13
+2024PhRvD.109l3028F|Fedderke, M;Kaplan, D;Mathur, A;Rajendran, S;Tanin, E|Fireball antinucleosynthesis|6
+2024PhRvD.109l3033L|Lv, X;Bi, X;Fang, K;Yin, P;Zhao, M|Possible spectral irregularities in the AMS-02 positron spectrum|1
+2024PhRvD.110b3028C|Cowsik, R;Huth, D|Mapping the AMS-02 and CALET data onto the source spectra and residence times of Galactic cosmic rays|2
+2024PhRvD.110j3039S|Sun, D;Zhang, P;Yuan, Q;Liu, W;Guo, Y|Multimessenger observations support cosmic ray interactions surrounding acceleration sources|5
+2024PhRvD.110l3030L|Lv, X;Bi, X;Fang, K;Yin, P;Zhao, M|Cosmic-ray deuteron excess from a primary component|3
+2024RAA....24f5007L|Lu, K;Tsai, Y;Yuan, Q;Zhang, L|Inelastic Scattering of Dark Matter with Heavy Cosmic Rays|5
+2024RAA....24i5011Z|Zeng, W;Sun, X;Yang, R;He, J;Shi, Z;Ge, T;Liang, Y;Liang, E|Revisit of GeV Gamma-Ray Emission from Orion B with the Fermi Large Area Telescope|1
+2023APh...14802821B|Beck, G;Temo, R;Malwa, E;Kumar, M;Mellado, B|Connecting multi-lepton anomalies at the LHC and in Astrophysics with MeerKAT/SKA|13
+2023ApJ...949...16S|Schwefer, G;Mertsch, P;Wiebusch, C|Diffuse Emission of Galactic High-energy Neutrinos from a Global Fit of Cosmic Rays|38
+2023ApJ...950...23W|Wang, S;Bindi, V;Consolandi, C;Corti, C;Light, C;Nikonov, N;Kuhlman, A|Properties of Forbush Decreases with AMS-02 Daily Proton Flux Data|19
+2023ApJ...956...75Q|Qiao, B;Guo, Y;Liu, W;Bi, X|Nearby SNR: A Possible Common Origin of Multi-messenger Anomalies in the Spectra, Ratios, and Anisotropy of Cosmic Rays|6
+2023ApJ...957...72J|Jiang, J;Lin, S;Yang, L|A New Scenario of Solar Modulation Model during the Polarity Reversing|4
+2023ApJ...959..139S|Song, X;Luo, X|The Implication of the Helium-to-proton Flux Ratio in Galactic Cosmic Rays|2
+2023EPJC...83..971M|Maurin, D;Ahlers, M;Dembinski, H;Haungs, A;Mangeard, P;Melot, F;Mertsch, P;Wochele, D;Wochele, J|A cosmic-ray database update: CRDB v4.1|27
+2023Galax..11...43L|Luo, Q;Feng, J;Tam, P|Explaining the Hardening Structures of Helium Spectrum and Boron to Carbon Ratio through Different Propagation Models|2
+2023Galax..11...50K|Khlopov, M;Lecian, O|The Formalism of Milky-Way Antimatter-Domains Evolution|2
+2023Instr...7...45U|Ubaldi, A;Graziani, M|Charge Resolution Study on AMS-02 Silicon Layer-0 Prototype|1
+2023Instr...7...53M|Mese, M;Anastasio, A;Boiano, A;Masone, V;Osteria, G;Perfetto, F;Panico, B;Scotti, V;Vanzanella, A|The PMT Acquisition and Trigger Generation System of the HEPD-02 Calorimeter for the CSES-02 Satellite|4
+2023JCAP...03..051D|Ding, Y;Li, N;Zhou, Y|Enhanced cosmic-ray antihelium production from dark matter annihilation through light mediators|3
+2023JCAP...04..068J|Jueid, A;Kip, J;Ruiz de Austri, R;Skands, P|Impact of QCD uncertainties on antiproton spectra from dark-matter annihilation|12
+2023JCAP...08..027B|Bykov, A;Postnov, K;Bondar, A;Blinnikov, S;Dolgov, A|Antistars as possible sources of antihelium cosmic rays|5
+2023JCAP...08..052B|Balan, S;Kahlhoefer, F;Korsmeier, M;Manconi, S;Nippel, K|Fast and accurate AMS-02 antiproton likelihoods for global dark matter fits|11
+2023MNRAS.526..160J|Jacobs, H;Mertsch, P;Phan, V|Unstable cosmic ray nuclei constrain low-diffusion zones in the Galactic disc|12
+2023NIMPA104667695B|Bueno, E;Barao, F;Vecchi, M|Iterative-Bayesian unfolding of cosmic-ray isotope fluxes measured by AMS-02|0
+2023PEPI..34207076R|Roperch, P;Kissel, C;Lagroix, F;Dupont-Nivet, G;Chauvin, A;Poblete, F;Aminov, J|Anisotropy of magnetic susceptibility impressed during rock magnetic procedures (AF, IRM) and information on the domain state of the magnetic carriers|0
+2023PhRvD.107b3003K|Krommydas, I;Cholis, I|Revisiting GeV-scale annihilating dark matter with the AMS-02 positron fraction|8
+2023PhRvD.107f3003C|Cholis, I;Hoover, T|Observing signals of spectral features in the cosmic-ray positrons and electrons from Milky Way pulsars|6
+2023PhRvD.107f3020Z|Zhao, M;Bi, X;Fang, K|Can the production cross-section uncertainties explain the cosmic fluorine anomaly?|9
+2023PhRvD.107l3008G|Gomez-Coral, D;Gerrity, C;Munini, R;von Doetinchem, P|Current status and new perspectives on cosmic ray deuterons|5
+2023PhRvD.107l3035W|Winkler, M;Luque, P;Linden, T|Cosmic ray antihelium from a strongly coupled dark sector|8
+2023PhRvD.108h3034Z|Zhu, B;Li, S;Cheng, J;Hu, X;Li, R;Liang, Y|Using γ -ray observations of dwarf spheroidal galaxies to test the possible common origin of the W -boson mass anomaly and the GeV γ -ray and antiproton excesses|43
+2023PhRvD.108i5008D|Di Mauro, M;Arina, C;Fornengo, N;Heisig, J;Massaro, D|Dark matter in the Higgs resonance region|15
+2023PhRvD.108j3010L|Lipari, P;Vernetto, S|Hysteresis effects observed by AMS02 in cosmic ray solar modulations|2
+2023PhRvL.130q1002A|Adriani, O;Akaike, Y;Asano, K;Asaoka, Y;Berti, E;Bigongiari, G;Binns, W;Bongi, M;Brogi, P;Bruno, A;Buckley, J;Cannady, N;Castellini, G;Checchia, C;Cherry, M;Collazuol, G;de Nolfo, G;Ebisawa, K;Ficklin, A;Fuke, H;Gonzi, S;Guzik, T;Hams, T;Hibino, K;Ichimura, M;Ioka, K;Ishizaki, W;Israel, M;Kasahara, K;Kataoka, J;Kataoka, R;Katayose, Y;Kato, C;Kawanaka, N;Kawakubo, Y;Kobayashi, K;Kohri, K;Krawczynski, H;Krizmanic, J;Maestro, P;Marrocchesi, P;Messineo, A;Mitchell, J;Miyake, S;Moiseev, A;Mori, M;Mori, N;Motz, H;Munakata, K;Nakahira, S;Nishimura, J;Okuno, S;Ormes, J;Ozawa, S;Pacini, L;Papini, P;Rauch, B;Ricciarini, S;Sakai, K;Sakamoto, T;Sasaki, M;Shimizu, Y;Shiomi, A;Spillantini, P;Stolzi, F;Sugita, S;Sulaj, A;Takita, M;Tamura, T;Terasawa, T;Torii, S;Tsunesada, Y;Uchihori, Y;Vannuccini, E;Wefel, J;Yamaoka, K;Yanagita, S;Yoshida, A;Yoshida, K;Zober, W;Calet Collaboration|Direct Measurement of the Cosmic-Ray Helium Spectrum from 40 GeV to 250 TeV with the Calorimetric Electron Telescope on the International Space Station|43
+2023PhRvL.131s1001A|Adriani, O;Akaike, Y;Asano, K;Asaoka, Y;Berti, E;Bigongiari, G;Binns, W;Bongi, M;Brogi, P;Bruno, A;Buckley, J;Cannady, N;Castellini, G;Checchia, C;Cherry, M;Collazuol, G;de Nolfo, G;Ebisawa, K;Ficklin, A;Fuke, H;Gonzi, S;Guzik, T;Hams, T;Hibino, K;Ichimura, M;Ioka, K;Ishizaki, W;Israel, M;Kasahara, K;Kataoka, J;Kataoka, R;Katayose, Y;Kato, C;Kawanaka, N;Kawakubo, Y;Kobayashi, K;Kohri, K;Krawczynski, H;Krizmanic, J;Maestro, P;Marrocchesi, P;Messineo, A;Mitchell, J;Miyake, S;Moiseev, A;Mori, M;Mori, N;Motz, H;Munakata, K;Nakahira, S;Nishimura, J;Okuno, S;Ormes, J;Ozawa, S;Pacini, L;Papini, P;Rauch, B;Ricciarini, S;Sakai, K;Sakamoto, T;Sasaki, M;Shimizu, Y;Shiomi, A;Spillantini, P;Stolzi, F;Sugita, S;Sulaj, A;Takita, M;Tamura, T;Terasawa, T;Torii, S;Tsunesada, Y;Uchihori, Y;Vannuccini, E;Wefel, J;Yamaoka, K;Yanagita, S;Yoshida, A;Yoshida, K;Zober, W;Calet Collaboration|Direct Measurement of the Spectral Structure of Cosmic-Ray Electrons+Positrons in the TeV Region with CALET on the International Space Station|19
+2023RAA....23k5002P|Pan, X;Yuan, Q|Injection Spectra of Different Species of Cosmic Rays from AMS-02, ACE-CRIS and Voyager-1|3
+2023RLSFN..34..333T|Tomassetti, N;Bertucci, B;Donnini, F;Graziani, M;Fiandrini, E;Khiali, B;Reina Conde, A|Data driven analysis of cosmic rays in the heliosphere: diffusion of cosmic protons|5
+2022A&A...660A.130S|Siegert, T;Berteaud, J;Calore, F;Serpico, P;Weinberger, C|Diffuse Galactic emission spectrum between 0.5 and 8.0 MeV|29
+2022A&A...665A.132M|Martin, P;Marcowith, A;Tibaldo, L|Are pulsar halos rare?. Modeling the halos around PSRs J0633+1746 and B0656+14 in the light of Fermi-LAT, HAWC, and AMS-02 observations and extrapolating to other nearby pulsars|27
+2022A&A...667A..25M|Maurin, D;Ferronato Bueno, E;Derome, L|A simple determination of the halo size from <SUP>10</SUP>Be/<SUP>9</SUP>Be data|20
+2022A&A...668A...7M|Maurin, D;Ferronato Bueno, E;Genolini, Y;Derome, L;Vecchi, M|The importance of Fe fragmentation for LiBeB analyses. Is a Li primary source needed to explain AMS-02 data?|14
+2022APh...14302757L|Loznikov, V|Search for variability in the spectra cosmic ray protons|0
+2022AcASn..63...25M|Ma, P|The Measurement of Helium Spectrum and Research of High Energy Astrophysics with DAMPE|0
+2022AcASn..63...65H|He, Y;Wei, J;Guo, J|Design of a Low-noise Electronic Readout System for Silicon Micro-strip Detector|0
+2022AdSpR..69.2330N|Ngobeni, M;Potgieter, M;Aslam, O;Bisschoff, D;Ramokgaba, I;Ndiitwani, D|Simulations of the solar modulation of Helium isotopes constrained by observations|17
+2022AdSpR..70.2636B|Boschini, M;Della Torre, S;Gervasi, M;La Vacca, G;Rancoita, P|The transport of galactic cosmic rays in heliosphere: The HELMOD model compared with other commonly employed solar modulation models|9
+2022ApJ...925..108B|Boschini, M;Della Torre, S;Gervasi, M;Grandi, D;Johannesson, G;La Vacca, G;Masi, N;Moskalenko, I;Pensotti, S;Porter, T;Quadrani, L;Rancoita, P;Rozza, D;Tacconi, M|A Hint of a Low-energy Excess in Cosmic-Ray Fluorine|15
+2022ApJ...926....5A|Asano, K;Asaoka, Y;Akaike, Y;Kawanaka, N;Kohri, K;Motz, H;Terasawa, T|Monte Carlo Study of Electron and Positron Cosmic-Ray Propagation with the CALET Spectrum|7
+2022ApJ...932...37N|Niu, J|Hybrid Origins of the Cosmic-Ray Nucleus Spectral Hardening at a Few Hundred GV|5
+2022ApJ...933..147B|Boschini, M;Torre, S;Gervasi, M;Grandi, D;Johannesson, G;La Vacca, G;Masi, N;Moskalenko, I;Pensotti, S;Porter, T;Quadrani, L;Rancoita, P;Rozza, D;Tacconi, M|Spectra of Cosmic-Ray Sodium and Aluminum and Unexpected Aluminum Excess|10
+2022ApJ...935...97M|Mizuno, T;Hayashi, K;Metzger, J;Moskalenko, I;Orlando, E;Strong, A;Yamamoto, H|Gas and Cosmic-Ray Properties in the MBM 53, 54, and 55 Molecular Clouds and the Pegasus Loops Revealed by H I Line Profiles, Dust, and Gamma-Ray Data|3
+2022ChPhC..46i5102W|Wang, Y;Wu, J;Long, W|Testing the consistency of propagation between light and heavy cosmic ray nuclei|6
+2022FrASS...944225N|Niu, J;Liu, J|Quantitative study of the hardening in the Alpha Magnetic Spectrometer nuclei spectra at a few hundred GV|1
+2022FrP....1058841V|Vecchi, M;Batista, P;Bueno, E;Derome, L;Genolini, Y;Maurin, D|The rigidity dependence of galactic cosmic-ray fluxes and its connection with the diffusion coefficient|5
+2022IJMPE..3150012Z|Zheng, Z;Cui, Z;Ruan, J|Research on the structure of cosmic-ray electron and positron fluxes in GeV-TeV energy range|0
+2022JApA...43...67Y|You, T|Pulsar wind nebulae contribution to positron excess in AMS-02 data|0
+2022JCAP...03..044T|Tsai, Y;Chung, Y;Yuan, Q;Cheung, K|Inverting cosmic ray propagation by convolutional neural networks|2
+2022JCAP...04..026Z|Zakeri, M;Zhou, Y|Constraining time dependent dark matter signals from the Sun|5
+2022JCAP...07..008D|De La Torre Luque, P;Mazziotta, M;Ferrari, A;Loparco, F;Sala, P;Serini, D|FLUKA cross sections for cosmic-ray interactions with the DRAGON2 code|23
+2022JCAP...08..028Z|Zu, L;Pan, X;Feng, L;Yuan, Q;Fan, Y|Constraining U(1) <SUB>L</SUB> <SUB> μ </SUB> - <SUB>L</SUB> <SUB> τ </SUB> charged dark matter model for muon g - 2 anomaly with AMS-02 electron and positron data|25
+2022JCAP...10..051C|Cholis, I;Hooper, D;Linden, T|Constraining the charge-sign and rigidity-dependence of solar modulation|23
+2022JCAP...10..081B|Bitter, O;Hooper, D|Constraining the local pulsar population with the cosmic-ray positron fraction|8
+2022JHEP...07..127A|Abdughani, M;Fan, Y;Lu, C;Tang, T;Tsai, Y|Muonphilic dark matter explanation of gamma-ray galactic center excess: a comprehensive analysis|13
+2022NIMPA103166564B|Bueno, E;Barao, F;Vecchi, M|A parametric approach for the identification of single-charged isotopes with AMS-02|3
+2022PhLB..82536884T|Tang, T;Xia, Z;Shen, Z;Zu, L;Feng, L;Yuan, Q;Fan, Y;Wu, J|Explanation of nearby SNRs for primary electron excess and proton spectral bump|4
+2022PhRvC.105f5801S|Shao, T;Chen, J;Ma, Y;Xu, Z|Production of light antinuclei in p p collisions by dynamical coalescence and their fluxes in cosmic rays near earth|6
+2022PhRvD.105b3015C|Cholis, I;Krommydas, I|Utilizing cosmic-ray positron and electron observations to probe the averaged properties of Milky Way pulsars|21
+2022PhRvD.105j3033K|Korsmeier, M;Cuoco, A|Testing the universality of cosmic-ray nuclei from protons to oxygen with AMS-02|28
+2022PhRvD.105l3021O|Orusa, L;Di Mauro, M;Donato, F;Korsmeier, M|New determination of the production cross section for secondary positrons and electrons in the Galaxy|19
+2022PhRvD.106b3023E|Egorov, A|Updated constraints on WIMP dark matter annihilation by radio observations of M31|15
+2022PhRvD.106f3006W|Wang, B;Bi, X;Fang, K;Lin, S;Yin, P|Solar modulation of cosmic proton and helium with AMS-02|9
+2022PhRvD.106f3021C|Cholis, I;McKinnon, I|Constraining the charge-, time-, and rigidity-dependence of cosmic-ray solar modulation with AMS-02 observations during Solar Cycle 24|8
+2022PhRvL.129i1802F|Fan, Y;Tang, T;Tsai, Y;Wu, L|Inert Higgs Dark Matter for CDF II W -Boson Mass and Detection Prospects|128
+2022PhRvL.129w1101Z|Zhu, C;Cui, M;Xia, Z;Yu, Z;Huang, X;Yuan, Q;Fan, Y|Explaining the GeV Antiproton Excess, GeV γ -Ray Excess, and W -Boson Mass Anomaly in an Inert Two Higgs Doublet Model|86
+2022PhRvL.129y1103A|Adriani, O;Akaike, Y;Asano, K;Asaoka, Y;Berti, E;Bigongiari, G;Binns, W;Bongi, M;Brogi, P;Bruno, A;Buckley, J;Cannady, N;Castellini, G;Checchia, C;Cherry, M;Collazuol, G;de Nolfo, G;Ebisawa, K;Ficklin, A;Fuke, H;Gonzi, S;Guzik, T;Hams, T;Hibino, K;Ichimura, M;Ioka, K;Ishizaki, W;Israel, M;Kasahara, K;Kataoka, J;Kataoka, R;Katayose, Y;Kato, C;Kawanaka, N;Kawakubo, Y;Kobayashi, K;Kohri, K;Krawczynski, H;Krizmanic, J;Maestro, P;Marrocchesi, P;Messineo, A;Mitchell, J;Miyake, S;Moiseev, A;Mori, M;Mori, N;Motz, H;Munakata, K;Nakahira, S;Nishimura, J;Okuno, S;Ormes, J;Ozawa, S;Pacini, L;Papini, P;Rauch, B;Ricciarini, S;Sakai, K;Sakamoto, T;Sasaki, M;Shimizu, Y;Shiomi, A;Spillantini, P;Stolzi, F;Sugita, S;Sulaj, A;Takita, M;Tamura, T;Terasawa, T;Torii, S;Tsunesada, Y;Uchihori, Y;Vannuccini, E;Wefel, J;Yamaoka, K;Yanagita, S;Yoshida, A;Yoshida, K;Zober, W;Calet Collaboration|Cosmic-Ray Boron Flux Measured from 8.4 GeV /n to 3.8 TeV /n with the Calorimetric Electron Telescope on the International Space Station|37
+2022ScPP...12..163C|Calore, F;Cirelli, M;Derome, L;Genolini, Y;Maurin, D;Salati, P;Serpico, P|AMS-02 antiprotons and dark matter: Trimmed hints and robust bounds|62
+2022Univ....8..313B|Berezhiani, Z|Antistars or Antimatter Cores in Mirror Neutron Stars?|13
+2021AN....342..342S|Sinitsyna, V;Sinitsyna, V;Stozhkov, Y|Red dwarf stars as a new source type of galactic cosmic rays|6
+2021APh...12402495Z|Zhu, C;Yuan, Q;Wei, D|Local interstellar spectra and solar modulation of cosmic ray electrons and positrons|10
+2021APh...13002580S|Saffold, N;Aramaki, T;Bird, R;Boezio, M;Boggs, S;Bonvicini, V;Campana, D;Craig, W;von Doetinchem, P;Everson, E;Fabris, L;Fuke, H;Gahbauer, F;Garcia, I;Gerrity, C;Hailey, C;Hayashi, T;Kato, C;Kawachi, A;Kobayashi, S;Kozai, M;Lenni, A;Lowell, A;Manghisoni, M;Marcelli, N;Mognet, S;Munakata, K;Munini, R;Nakagami, Y;Olson, J;Ong, R;Osteria, G;Perez, K;Pope, I;Quinn, S;Re, V;Reed, M;Riceputi, E;Roach, B;Rogers, F;Ryan, J;Scotti, V;Shimizu, Y;Sonzogni, M;Sparvoli, R;Stoessl, A;Tiberio, A;Vannuccini, E;Wada, T;Xiao, M;Yamatani, M;Yoshida, A;Yoshida, T;Zampa, G;Zweerink, J|Cosmic antihelium-3 nuclei sensitivity of the GAPS experiment|12
+2021ARep...65..985M|Mayorov, A;Alekseev, V;Epifanov, A;Malakhov, V;Rodenko, S;Yulbarisov, R|Antiprotons in Cosmic Rays|0
+2021ApJ...909..215A|Aslam, O;Bisschoff, D;Ngobeni, M;Potgieter, M;Munini, R;Boezio, M;Mikhailov, V|Time and Charge-sign Dependence of the Heliospheric Modulation of Cosmic Rays|23
+2021ApJ...913....5B|Boschini, M;Della Torre, S;Gervasi, M;Grandi, D;Johannesson, G;La Vacca, G;Masi, N;Moskalenko, I;Pensotti, S;Porter, T;Quadrani, L;Rancoita, P;Rozza, D;Tacconi, M|The Discovery of a Low-energy Excess in Cosmic-Ray Iron: Evidence of the Past Supernova Activity in the Local Bubble|39
+2021ApJ...914..110Y|Yang, K|Diffusion of Cosmic Antiprotons Generated throughout the Dark Matter Halo-A Semianalytical Solution for a Linear Galactic Wind Model|0
+2021ApJ...917...61K|Kawanaka, N;Lee, S|Origin of Spectral Hardening of Secondary Cosmic-Ray Nuclei|6
+2021ApJ...921..109S|Shen, Z;Yang, H;Zuo, P;Qin, G;Wei, F;Xu, X;Xie, Y|Solar Modulation of Galactic Cosmic-Ray Protons Based on a Modified Force-field Approach|16
+2021ApJS..257...48S|Song, X;Luo, X;Potgieter, M;Liu, X;Geng, Z|A Numerical Study of the Solar Modulation of Galactic Protons and Helium from 2006 to 2017|32
+2021ChPhC..45d1004N|Niu, J|Origin of hardening in spectra of cosmic ray nuclei at a few hundred GeV using AMS-02 data|6
+2021ChPhC..45f3101J|Jia, L;Li, T|Interpretation of the Galactic gamma-ray excess with the dark matter indicated by <SUP>8</SUP>Be and <SUP>4</SUP>He anomalous transitions|2
+2021ChPhC..45f5102D|Ding, Y;Li, N;Wei, C;Zhou, Y|High energy window for probing dark matter with cosmic-ray antideuterium and antihelium|1
+2021ChPhL..38c9801F|Fang, K;Bi, X;Lin, S;Yuan, Q|Klein-Nishina Effect and the Cosmic Ray Electron Spectrum|35
+2021CosRe..59..427Y|Yanke, V;Belov, A;Shlyk, N;Kobelev, P;Trefilova, L|The Experimental Spectrum of Variations of Cosmic Rays in a Wide Range of Hardness According to AMS-02 Data|1
+2021ExA....51.1299B|Battiston, R;Bertucci, B;Adriani, O;Ambrosi, G;Baudouy, B;Blasi, P;Boezio, M;Campana, D;Derome, L;De Mitri, I;Di Felice, V;Donato, F;Duranti, M;Formato, V;Grasso, D;Gebauer, I;Iuppa, R;Masi, N;Maurin, D;Mazziotta, M;Musenich, R;Nozzoli, F;Papini, P;Picozza, P;Pearce, M;Pospisil, S;Rossi, L;Tomassetti, N;Vagelli, V;Wu, X|High precision particle astrophysics as a new window on the universe with an Antimatter Large Acceptance Detector In Orbit (ALADInO)|14
+2021FrPhy..1624501Y|Yuan, Q;Qiao, B;Guo, Y;Fan, Y;Bi, X|Nearby source interpretation of differences among light and medium composition spectra in cosmic rays|29
+2021JCAP...02..030L|Linares, M;Kachelriess, M|Cosmic ray positrons from compact binary millisecond pulsars|18
+2021JCAP...03..099D|De La Torre Luque, P;Mazziotta, M;Loparco, F;Gargano, F;Serini, D|Implications of current nuclear cross sections on secondary cosmic rays with the upcoming DRAGON2 code|40
+2021JCAP...05..012Z|Zhang, P;Qiao, B;Liu, W;Cui, S;Yuan, Q;Guo, Y|Possible bump structure of cosmic ray electrons unveiled by AMS-02 data and its common origin along with the nuclei and positron|12
+2021JCAP...07..010D|De La Torre Luque, P;Mazziotta, M;Loparco, F;Gargano, F;Serini, D|Markov chain Monte Carlo analyses of the flux ratios of B, Be and Li with the DRAGON2 code|34
+2021JCAP...11..018D|De La Torre Luque, P|Combined analyses of the antiproton production from cosmic-ray interactions and its possible dark matter origin|24
+2021JCAP...12..007J|John, I;Linden, T|Cosmic-ray positrons strongly constrain leptophilic dark matter|32
+2021JCAP...12..014O|Orusa, L;Manconi, S;Donato, F;Di Mauro, M|Constraining positron emission from pulsar populations with AMS-02 data|33
+2021JCAP...12..037K|Kahlhoefer, F;Korsmeier, M;Kramer, M;Manconi, S;Nippel, K|Constraining dark matter annihilation with cosmic ray antiprotons using neural networks|20
+2021JHEAp..29....1D|De Sarkar, A;Biswas, S;Gupta, N|Positron excess from cosmic ray interactions in galactic molecular clouds|11
+2021JPhG...48a5006P|Profumo, S;Queiroz, F;Siqueira, C|Has AMS-02 observed two-component dark matter?|3
+2021MNRAS.505.3273W|Werhahn, M;Pfrommer, C;Girichidis, P;Puchwein, E;Pakmor, R|Cosmic rays and non-thermal emission in simulated galaxies - I. Electron and proton spectra compared to Voyager-1 data|44
+2021MNRAS.508.1321T|Tatischeff, V;Raymond, J;Duprat, J;Gabici, S;Recchia, S|The origin of Galactic cosmic rays as revealed by their composition|44
+2021MPLA...3630003H|Heisig, J|Cosmic-ray antiprotons in the AMS-02 era: A sensitive probe of dark matter|11
+2021NatRP...3..308B|Budrikis, Z|A decade of AMS-02|2
+2021PAN....84..956D|Donnini, F|Cosmic Ray Nuclei: Results from AMS-02|3
+2021PAN....84.1159B|Belov, A;Gushchina, R;Oleneva, V;Yanke, V|Large Scale Modulation: View from the Earth Points|3
+2021PPNL...18..196A|Alexakhin, V;Guskov, A;Hayman, Z;El-Kholy, R;Tkachenko, A|On the Study of Antiprotons Yield in Hadronic Collisions at NICA SPD|3
+2021PhRvD.103h3016D|Dupourque, S;Tibaldo, L;von Ballmoos, P|Constraints on the antistar fraction in the Solar System neighborhood from the 10-year Fermi Large Area Telescope gamma-ray source catalog|20
+2021PhRvD.103j3016K|Korsmeier, M;Cuoco, A|Implications of lithium to oxygen AMS-02 spectra on our understanding of cosmic-ray diffusion|46
+2021PhRvD.103k5010D|Ding, Y;Li, N;Wei, C;Wu, Y;Zhou, Y|Implications of a possible TeV break in the cosmic-ray electron and positron flux|12
+2021PhRvD.103l3005D|Di Mauro, M;Winkler, M|Multimessenger constraints on the dark matter interpretation of the F e r m i -LAT Galactic Center excess|67
+2021PhRvD.103l3010S|Schroer, B;Evoli, C;Blasi, P|Intermediate-mass and heavy Galactic cosmic-ray nuclei: The case of new AMS-02 measurements|20
+2021PhRvD.104b3012F|Fiandrini, E;Tomassetti, N;Bertucci, B;Donnini, F;Graziani, M;Khiali, B;Reina Conde, A|Numerical modeling of cosmic rays in the heliosphere: Analysis of proton data from AMS-02 and PAMELA|33
+2021PhRvD.104h3005G|Genolini, Y;Boudaud, M;Cirelli, M;Derome, L;Lavalle, J;Maurin, D;Salati, P;Weinrich, N|New minimal, median, and maximal propagation models for dark matter searches with Galactic cosmic rays|36
+2021PhRvD.104h3012D|Di Mauro, M;Donato, F;Manconi, S|Novel interpretation of the latest AMS-02 cosmic-ray electron spectrum|24
+2021PhRvD.104j3013F|Fornieri, O;Gaggero, D;Guberman, D;Brahimi, L;Luque, P;Marcowith, A|Diffusive origin for the cosmic-ray spectral hardening reveals signatures of a nearby source in the leptons and protons data|21
+2021PhRvD.104j3029M|Mertsch, P;Vittino, A;Sarkar, S|Explaining cosmic ray antimatter with secondaries from old supernova remnants|32
+2021PhRvD.104l3029E|Evoli, C;Amato, E;Blasi, P;Aloisio, R|Stochastic nature of Galactic cosmic-ray sources|21
+2021PhRvL.126j1101W|Winkler, M;Linden, T|Dark Matter Annihilation Can Produce a Detectable Antihelium Flux through Λ<SUB>¯b</SUB> Decays|33
+2021PhRvL.127n1101P|Phan, V;Schulze, F;Mertsch, P;Recchia, S;Gabici, S|Stochastic Fluctuations of Low-Energy Cosmic Rays and the Interpretation of Voyager Data|33
+2021SciBu..66.2170A|Abdughani, M;Fan, Y;Feng, L;Tsai, Y;Wu, L;Yuan, Q|A common origin of muon g-2 anomaly, Galaxy Center GeV excess and AMS-02 anti-proton excess in the NMSSM|63
+2021Univ....7..270L|LaFontaine, C;Tallman, B;Ellis, S;Croteau, T;Torres, B;Hernandez, S;Guerrero, D;Jaksik, J;Lubanski, D;Allen, R|A Dark Matter WIMP That Can Be Detected and Definitively Identified with Currently Planned Experiments|9
+2020A&A...639A..74W|Weinrich, N;Boudaud, M;Derome, L;Genolini, Y;Lavalle, J;Maurin, D;Salati, P;Serpico, P;Weymann-Despres, G|Galactic halo size in the light of recent AMS-02 data|67
+2020A&A...639A.131W|Weinrich, N;Genolini, Y;Boudaud, M;Derome, L;Maurin, D|Combined analysis of AMS-02 (Li,Be,B)/C, N/O, <SUP>3</SUP>He, and <SUP>4</SUP>He data|67
+2020APh...114..107A|Aramaki, T;Adrian, P;Karagiorgi, G;Odaka, H|Dual MeV gamma-ray and dark matter observatory - GRAMS Project|87
+2020APh...12002441L|Lipari, P;Vernetto, S|The shape of the cosmic ray proton spectrum|33
+2020AcASn..61...59Y|Yue, C|Energy Reconstruction of Dark Matter Particle Explorer and Analysis of Cosmic-ray Proton Flux|0
+2020ApJ...889..167B|Boschini, M;Della Torre, S;Gervasi, M;Grandi, D;Johannesson, G;La Vacca, G;Masi, N;Moskalenko, I;Pensotti, S;Porter, T;Quadrani, L;Rancoita, P;Rozza, D;Tacconi, M|Deciphering the Local Interstellar Spectra of Secondary Nuclei with the Galprop/Helmod Framework and a Hint for Primary Lithium in Cosmic Rays|64
+2020ApJ...895...53H|Huang, Z;Liu, R;Joshi, J;Wang, X|Examining the Secondary Product Origin of Cosmic-Ray Positrons with the Latest AMS-02 Data|5
+2020ApJ...901...80J|Jin, H;Wu, Y;Zhou, Y|Astrophysical Background and Dark Matter Implication Based on Latest AMS-02 Data|9
+2020ApJ...901L...4B|Baghmanyan, V;Peron, G;Casanova, S;Aharonian, F;Zanin, R|Evidence of Cosmic-Ray Excess from Local Giant Molecular Clouds|22
+2020ApJ...904...64G|Grimani, C;Cesarini, A;Fabi, M;Sabbatini, F;Telloni, D;Villani, M|Recurrent Galactic Cosmic-Ray Flux Modulation in L1 and Geomagnetic Activity during the Declining Phase of the Solar Cycle 24|13
+2020ApJ...904..165R|Roussos, E;Dialynas, K;Krupp, N;Kollmann, P;Paranicas, C;Roelof, E;Yuan, C;Mitchell, D;Krimigis, S|Long- and Short-term Variability of Galactic Cosmic-Ray Radial Intensity Gradients between 1 and 9.5 au: Observations by Cassini, BESS, BESS-Polar, PAMELA, and AMS-02|25
+2020ApJS..250...27B|Boschini, M;Della Torre, S;Gervasi, M;Grandi, D;Johannesson, G;La Vacca, G;Masi, N;Moskalenko, I;Pensotti, S;Porter, T;Quadrani, L;Rancoita, P;Rozza, D;Tacconi, M|Inference of the Local Interstellar Spectra of Cosmic-Ray Nuclei Z ≤ 28 with the GALPROP-HELMOD Framework|92
+2020ChPhC..44h5102T|Tian, Z;Liu, W;Yang, B;Fu, X;Xu, H;Yao, Y;Guo, Y|Electron and positron spectra in three-dimensional spatial-dependent propagation model|16
+2020ChPhC..44l5103S|Sun, X;Dai, B|Observational constraints on dark matter decaying via gravity portals|2
+2020CoPhC.25006818L|Luo, X;Feng, J;Zhang, H|A genetic algorithm for astroparticle physics studies|12
+2020FrPhy..1624501Y|Yuan, Q;Qiao, B;Guo, Y;Fan, Y;Bi, X|Nearby source interpretation of differences among light and medium composition spectra in cosmic rays|0
+2020Ge&Ae..60..958V|Vasil'ev, G;Bogomolov, E|Gamma Rays Generated in Nuclear Interactions of Protons Accelerated during Solar Flares|0
+2020JCAP...01..036N|Niu, J;Xue, H|Some new hints on cosmic-ray propagation from AMS-02 nuclei spectra|5
+2020JCAP...02..009F|Fornieri, O;Gaggero, D;Grasso, D|Features in cosmic-ray lepton data unveil the properties of nearby cosmic accelerators|30
+2020JCAP...02..029B|Barman, B;Bhattacharya, S;Zakeri, M|Non-Abelian vector boson as FIMP dark matter|29
+2020JCAP...04..031F|Feng, L;Kang, Z;Yuan, Q;Yin, P;Fan, Y|Interpretation of the cosmic ray positron and electron excesses with an annihilating-decaying dark matter scenario|9
+2020JCAP...08..035V|von Doetinchem, P;Perez, K;Aramaki, T;Baker, S;Barwick, S;Bird, R;Boezio, M;Boggs, S;Cui, M;Datta, A;Donato, F;Evoli, C;Fabris, L;Fabbietti, L;Ferronato Bueno, E;Fornengo, N;Fuke, H;Gerrity, C;Gomez Coral, D;Hailey, C;Hooper, D;Kachelriess, M;Korsmeier, M;Kozai, M;Lea, R;Li, N;Lowell, A;Manghisoni, M;Moskalenko, I;Munini, R;Naskret, M;Nelson, T;Ng, K;Nozzoli, F;Oliva, A;Ong, R;Osteria, G;Pierog, T;Poulin, V;Profumo, S;Poschl, T;Quinn, S;Re, V;Rogers, F;Ryan, J;Saffold, N;Sakai, K;Salati, P;Schael, S;Serksnyte, L;Shukla, A;Stoessl, A;Tjemsland, J;Vannuccini, E;Vecchi, M;Winkler, M;Wright, D;Xiao, M;Xu, W;Yoshida, T;Zampa, G;Zuccon, P|Cosmic-ray antinuclei as messengers of new physics: status and outlook for the new decade|59
+2020JCAP...08..048K|Kachelriess, M;Ostapchenko, S;Tjemsland, J|Revisiting cosmic ray antinuclei fluxes with a new coalescence model|27
+2020JCAP...11..027Y|Yuan, Q;Zhu, C;Bi, X;Wei, D|Secondary cosmic-ray nucleus spectra disfavor particle transport in the Galaxy without reacceleration|35
+2020JGRA..12527433M|Mishev, A;Koldobskiy, S;Kovaltsov, G;Gil, A;Usoskin, I|Updated Neutron-Monitor Yield Function: Bridging Between In Situ and Ground-Based Cosmic Ray Measurements|54
+2020JHEP...06..033T|Tsai, Y;Lu, C;Tran, V|Confronting dark matter co-annihilation of Inert two Higgs Doublet Model with a compressed mass spectrum|31
+2020JInst..15C6033D|Dimiccoli, F;Nozzoli, F;Zuccon, P|Detectors for antideuteron search in cosmic rays: current status and new ideas|0
+2020MNRAS.491..965G|Gao, Y;Ma, Y|Implications of dark matter cascade decay from DAMPE, HESS, Fermi-LAT, and AMS02 data|28
+2020NCimR..43..319B|Battiston, R|High precision cosmic ray physics with AMS-02 on the International Space Station|5
+2020NIMPA.95261797G|Giovacchini, F;Casaus, J;Oliva, A;AMS-02 RICH Collaboration|The AMS-02 RICH detector: Status and physics results|9
+2020NuPhB.95915140G|Ge, S;He, H;Wang, Y;Yuan, Q|Probing flavor structure of cosmic ray e<SUP>∓</SUP> spectrum and implications for dark matter indirect searches|10
+2020NuPhB.95915153G|Geng, C;Huang, D;Yin, L|Multicomponent dark matter in the light of CALET and DAMPE|2
+2020PDU....2700448C|Cembranos, J;de la Cruz-Dombriz, A;Gammaldi, V;Mendez-Isla, M|SKA-Phase 1 sensitivity to synchrotron radio emission from multi-TeV Dark Matter candidates|23
+2020PhRvD.101b3013E|Evoli, C;Morlino, G;Blasi, P;Aloisio, R|AMS-02 beryllium data and its implication for cosmic ray transport|107
+2020PhRvD.101g5007Q|Queiroz, F;Siqueira, C|Explaining the AMS positron excess via right-handed neutrinos|3
+2020PhRvD.101j3030D|Diesing, R;Caprioli, D|Nonsecondary origin of cosmic ray positrons|10
+2020PhRvD.102b3015M|Manconi, S;Di Mauro, M;Donato, F|Contribution of pulsars to cosmic-ray positrons in light of recent observation of inverse-Compton halos|57
+2020PhRvD.102c5028M|Mohapatra, R;Okada, N|Dark matter constraints on low mass and weakly coupled B -L gauge boson|31
+2020PhRvD.102j3019C|Cholis, I;Linden, T;Hooper, D|Antideuterons and antihelium nuclei from annihilating dark matter|17
+2020PhRvL.125e1101E|Evoli, C;Blasi, P;Amato, E;Aloisio, R|Signature of Energy Losses on the Cosmic Ray Electron Spectrum|34
+2020PhRvL.125y1102A|Adriani, O;Akaike, Y;Asano, K;Asaoka, Y;Bagliesi, M;Berti, E;Bigongiari, G;Binns, W;Bongi, M;Brogi, P;Bruno, A;Buckley, J;Cannady, N;Castellini, G;Checchia, C;Cherry, M;Collazuol, G;Ebisawa, K;Fuke, H;Gonzi, S;Guzik, T;Hams, T;Hibino, K;Ichimura, M;Ioka, K;Ishizaki, W;Israel, M;Kasahara, K;Kataoka, J;Kataoka, R;Katayose, Y;Kato, C;Kawanaka, N;Kawakubo, Y;Kobayashi, K;Kohri, K;Krawczynski, H;Krizmanic, J;Link, J;Maestro, P;Marrocchesi, P;Messineo, A;Mitchell, J;Miyake, S;Moiseev, A;Mori, M;Mori, N;Motz, H;Munakata, K;Nakahira, S;Nishimura, J;de Nolfo, G;Okuno, S;Ormes, J;Ospina, N;Ozawa, S;Pacini, L;Palma, F;Papini, P;Rauch, B;Ricciarini, S;Sakai, K;Sakamoto, T;Sasaki, M;Shimizu, Y;Shiomi, A;Sparvoli, R;Spillantini, P;Stolzi, F;Sugita, S;Suh, J;Sulaj, A;Takita, M;Tamura, T;Terasawa, T;Torii, S;Tsunesada, Y;Uchihori, Y;Vannuccini, E;Wefel, J;Yamaoka, K;Yanagita, S;Yoshida, A;Yoshida, K;Calet Collaboration|Direct Measurement of the Cosmic-Ray Carbon and Oxygen Spectra from 10 GeV /n to 2.2 TeV /n with the Calorimetric Electron Telescope on the International Space Station|49
+2020PhRvR...2b3022B|Boudaud, M;Genolini, Y;Derome, L;Lavalle, J;Maurin, D;Salati, P;Serpico, P|AMS-02 antiprotons' consistency with a secondary astrophysical origin|40
+2020PhRvR...2d3017H|Heisig, J;Korsmeier, M;Winkler, M|Dark matter or correlated errors: Systematics of the AMS-02 antiproton excess|66
+2020SpWea..1802456S|Slaba, T;Whitman, K|The Badhwar-O'Neill 2020 GCR Model|38
+2019A&A...627A.158D|Derome, L;Maurin, D;Salati, P;Boudaud, M;Genolini, Y;Kunze, P|Fitting B/C cosmic-ray data in the AMS-02 era: a cookbook. Model numerical precision, data covariance matrix of errors, cross-section nuisance parameters, and mock data|39
+2019AdSpR..64.2417M|Moskalenko, I;Seo, E|Advances in cosmic-ray astrophysics and related areas|1
+2019AdSpR..64.2459B|Boschini, M;Della Torre, S;Gervasi, M;La Vacca, G;Rancoita, P|The HELMOD model in the works for inner and outer heliosphere: From AMS to Voyager probes observations|56
+2019AdSpR..64.2585S|Sinitsyna, V;Sinitsyna, V;Stozhkov, Y|Red dwarfs as sources of cosmic rays and detection of TeV gamma-rays from these stars|11
+2019ApJ...871..253C|Corti, C;Potgieter, M;Bindi, V;Consolandi, C;Light, C;Palermo, M;Popkow, A|Numerical Modeling of Galactic Cosmic-Ray Proton and Helium Observed by AMS-02 during the Solar Maximum of Solar Cycle 24|68
+2019ApJ...872..108H|Hanusch, A;Liseykina, T;Malkov, M|Acceleration of Cosmic Rays in Supernova Shocks: Elemental Selectivity of the Injection Mechanism|28
+2019ApJ...873...77N|Niu, J;Li, T;Xue, H|Bayesian Analysis of the Hardening in AMS-02 Nuclei Spectra|18
+2019ApJ...876L...8B|Bykov, A;Petrov, A;Krassilchtchikov, A;Levenfish, K;Osipov, S;Pavlov, G|GeV-TeV Cosmic-Ray Leptons in the Solar System from the Bow Shock Wind Nebula of the Nearest Millisecond Pulsar J0437-4715|32
+2019ApJ...878....6L|Luo, X;Potgieter, M;Bindi, V;Zhang, M;Feng, X|A Numerical Study of Cosmic Proton Modulation Using AMS-02 Observations|29
+2019ApJ...884..124F|Fang, K;Bi, X;Yin, P|Reanalysis of the Pulsar Scenario to Explain the Cosmic Positron Excess Considering the Recent Developments|23
+2019ChA&A..43..327P|Peng, X;Yuan, Q|Overview of Direct Measurements of Cosmic Rays|2
+2019EPJC...79..146A|Abdughani, M;Ren, J;Zhao, J|TeV SUSY dark matter confronted with the current direct and indirect detection data|6
+2019JCAP...04..040F|Farzan, Y;Rajaee, M|Dark matter decaying into millicharged particles as a solution to AMS-02 positron excess|15
+2019JCAP...06..004D|Ding, Y;Li, N;Wei, C;Wu, Y;Zhou, Y|Prospects of detecting dark matter through cosmic-ray antihelium with the antiproton constraints|14
+2019JCAP...08..019B|Beck, G|An excess of excesses examined via dark matter radio emissions from galaxies|14
+2019JGRA..124.2367K|Koldobskiy, S;Bindi, V;Corti, C;Kovaltsov, G;Usoskin, I|Validation of the Neutron Monitor Yield Function Using Data From AMS-02 Experiment, 2011-2017|44
+2019MNRAS.488.2068B|Bresci, V;Amato, E;Blasi, P;Morlino, G|Effects of re-acceleration and source grammage on secondary cosmic rays spectra|22
+2019NPPP..306...74Z|Zuccon, P|AMS-02 experiment: status and perspectives|2
+2019NPPP..306...80D|Dimiccoli, F;Basara, L;Kanishchev, K;Nozzoli, F;Zuccon, P|Measurement of the D/p ratio in Cosmic rays with the AMS-02 experiment|0
+2019PDU....2600355C|Chan, M;Lee, C|Fitting dark matter mass with the radio continuum spectral data of the Ophiuchus cluster|10
+2019PhDT........52Z|Zeissler, S|Search for anisotropies in the arrival directions of charged cosmic rays with AMS-02|0
+2019PhDT........56N|Nelson, T|Search for cosmic-ray antideuterons with the AMS-02 experiment on the International Space Station|0
+2019PhLB..789..538T|Takhistov, V|Positrons from primordial black hole microquasars and gamma-ray bursts|37
+2019PhRvD..99b3016P|Poulin, V;Salati, P;Cholis, I;Kamionkowski, M;Silk, J|Where do the AMS-02 antihelium events come from?|63
+2019PhRvD..99f1302B|Boudaud, M;Lacroix, T;Stref, M;Lavalle, J|Robust cosmic-ray constraints on p -wave annihilating MeV dark matter|45
+2019PhRvD..99f3012M|Murase, K;Fukugita, M|Energetics of high-energy cosmic radiations|66
+2019PhRvD..99j3014C|Cuoco, A;Heisig, J;Klamt, L;Korsmeier, M;Kramer, M|Scrutinizing the evidence for dark matter in cosmic-ray antiprotons|85
+2019PhRvD..99j3023E|Evoli, C;Aloisio, R;Blasi, P|Galactic cosmic rays after the AMS-02 observations|124
+2019PhRvD..99j3026C|Cholis, I;Linden, T;Hooper, D|A robust excess in the cosmic-ray antiproton spectrum: Implications for annihilating dark matter|136
+2019PhRvD..99l3001S|Shen, Z;Huang, X;Yuan, Q;Fan, Y;Wei, D|Probing local cosmic rays using Fermi-LAT observations of a mid-latitude region in the third Galactic quadrant|3
+2019PhRvD..99l3028G|Genolini, Y;Boudaud, M;Batista, P;Caroff, S;Derome, L;Lavalle, J;Marcowith, A;Maurin, D;Poireau, V;Poulin, V;Rosier, S;Salati, P;Serpico, P;Vecchi, M|Cosmic-ray transport from AMS-02 boron to carbon ratio data: Benchmark models and interpretation|75
+2019PhRvD.100e5002C|Carena, M;Osborne, J;Shah, N;Wagner, C|Return of the WIMP: Missing energy signals and the Galactic Center excess|20
+2019PhRvD.100j3014L|Lin, S;Bi, X;Yin, P|Investigating the dark matter signal in the cosmic ray antiproton flux with the machine learning method|28
+2019PhRvD.100l3015D|Di Mauro, M;Manconi, S;Donato, F|Detection of a γ -ray halo around Geminga with the Fermi-LAT data and implications for the positron flux|96
+2019PhRvL.122r1102A|Adriani, O;Akaike, Y;Asano, K;Asaoka, Y;Bagliesi, M;Berti, E;Bigongiari, G;Binns, W;Bonechi, S;Bongi, M;Brogi, P;Bruno, A;Buckley, J;Cannady, N;Castellini, G;Checchia, C;Cherry, M;Collazuol, G;di Felice, V;Ebisawa, K;Fuke, H;Guzik, T;Hams, T;Hasebe, N;Hibino, K;Ichimura, M;Ioka, K;Ishizaki, W;Israel, M;Kasahara, K;Kataoka, J;Kataoka, R;Katayose, Y;Kato, C;Kawanaka, N;Kawakubo, Y;Kohri, K;Krawczynski, H;Krizmanic, J;Lomtadze, T;Maestro, P;Marrocchesi, P;Messineo, A;Mitchell, J;Miyake, S;Moiseev, A;Mori, K;Mori, M;Mori, N;Motz, H;Munakata, K;Murakami, H;Nakahira, S;Nishimura, J;de Nolfo, G;Okuno, S;Ormes, J;Ozawa, S;Pacini, L;Palma, F;Papini, P;Penacchioni, A;Rauch, B;Ricciarini, S;Sakai, K;Sakamoto, T;Sasaki, M;Shimizu, Y;Shiomi, A;Sparvoli, R;Spillantini, P;Stolzi, F;Suh, J;Sulaj, A;Takahashi, I;Takayanagi, M;Takita, M;Tamura, T;Terasawa, T;Tomida, H;Torii, S;Tsunesada, Y;Uchihori, Y;Ueno, S;Vannuccini, E;Wefel, J;Yamaoka, K;Yanagita, S;Yoshida, A;Yoshida, K;Calet Collaboration|Direct Measurement of the Cosmic-Ray Proton Spectrum from 50 GeV to 10 TeV with the Calorimetric Electron Telescope on the International Space Station|140
+2019PhRvL.123y1104K|Kuhlen, M;Mertsch, P|Time-Dependent AMS-02 Electron-Positron Fluxes in an Extended Force-Field Model|25
+2019SCPMA..6249511Y|Yuan, Q|Implications on cosmic ray injection and propagation parameters from Voyager/ACE/AMS-02 nucleus data|38
+2018AdSpR..62.2729M|Moskalenko, I;Seo, E|Preface: Origins of cosmic rays|1
+2018AdSpR..62.2859B|Boschini, M;Della Torre, S;Gervasi, M;La Vacca, G;Rancoita, P|Propagation of cosmic rays in heliosphere: The HELMOD model|65
+2018ApJ...854...94B|Boschini, M;Della Torre, S;Gervasi, M;Grandi, D;Johannesson, G;La Vacca, G;Masi, N;Moskalenko, I;Pensotti, S;Porter, T;Quadrani, L;Rancoita, P;Rozza, D;Tacconi, M|HelMod in the Works: From Direct Observations to the Local Interstellar Spectrum of Cosmic-Ray Electrons|59
+2018ApJ...858...61B|Boschini, M;Della Torre, S;Gervasi, M;Grandi, D;Johannesson, G;La Vacca, G;Masi, N;Moskalenko, I;Pensotti, S;Porter, T;Quadrani, L;Rancoita, P;Rozza, D;Tacconi, M|Deciphering the Local Interstellar Spectra of Primary Cosmic-Ray Species with HELMOD|51
+2018ApJ...858..116F|Feng, J;Zhang, H|Dark Matter Search in Space: Combined Analysis of Cosmic-Ray Antiproton-to-proton Flux Ratio and Positron Flux Measured by AMS-02|24
+2018ApJ...860..160L|Luo, X;Potgieter, M;Zhang, M;Feng, X|A Study of Electron Forbush Decreases with a 3D SDE Numerical Model|10
+2018ApJ...863...30F|Fang, K;Bi, X;Yin, P;Yuan, Q|Two-zone Diffusion of Electrons and Positrons from Geminga Explains the Positron Anomaly|93
+2018ApJ...863..119Z|Zhu, C;Yuan, Q;Wei, D|Studies on Cosmic-Ray Nuclei with Voyager, ACE, and AMS-02. I. Local Interstellar Spectra and Solar Modulation|28
+2018ApJ...869..176L|Liu, W;Yao, Y;Guo, Y|Revisiting the Spatially Dependent Propagation Model with the Latest Observations of Cosmic-Ray Nuclei|50
+2018ChPhC..42g5103G|Guo, Y;Yuan, Q|On the knee of Galactic cosmic rays in light of sub-TeV spectral hardenings|19
+2018JCAP...01..055R|Reinert, A;Winkler, M|A precision search for WIMPs with charged cosmic rays|130
+2018JCAP...04..004C|Cuoco, A;Heisig, J;Korsmeier, M;Kramer, M|Constraining heavy dark matter with cosmic-ray antiprotons|85
+2018JCAP...06..024C|Cui, M;Pan, X;Yuan, Q;Fan, Y;Zong, H|Revisit of cosmic ray antiprotons from dark matter annihilation with updated constraints on the background model from AMS-02 and collider data|37
+2018JCAP...08..002F|Folgado, M;Gomez-Vargas, G;Rius, N;Ruiz de Austri, R|Probing the sterile neutrino portal to Dark Matter with γ rays|21
+2018JCAP...11..039C|Cui, M;Huang, W;Sming Tsai, Y;Yuan, Q|Consistency test of the AMS-02 antiproton excess with direct detection data based on the effective field theory approach|8
+2018JCAP...11..045M|Mertsch, P|Stochastic cosmic ray sources and the TeV break in the all-electron spectrum|35
+2018JHEP...01..020D|Duch, M;Grzadkowski, B;Huang, D|Strongly self-interacting vector dark matter via freeze-in|43
+2018JHEP...04..093K|Kim, D;Park, J;Shin, S|Dark matter "transporting" mechanism explaining positron excesses|21
+2018MNRAS.478.5660F|Fang, K;Bi, X;Yin, P|Discriminating local sources of high-energy cosmic electrons and positrons by current and future anisotropy measurements|9
+2018MNRAS.480.5167P|Phan, V;Morlino, G;Gabici, S|What causes the ionization rates observed in diffuse molecular clouds? The role of cosmic ray protons and electrons|51
+2018NPPP..297...15K|Ksenofontov, L;Berezhko, E|Contribution of Supernova Remnants to CRs Secondary to Primary ratios|0
+2018NPPP..297..106G|Gallant, Y|Evolved Pulsar Wind Nebulae as Sources of (Mostly Leptonic) Cosmic Rays|2
+2018NPPP..297..152M|Malkov, M|Propagating Cosmic Rays with exact Solution of Fokker-Planck Equation|2
+2018NPPP..297..207P|Picozza, P;Spillantini, P;Marcelli, L|Cosmic Ray Direct Measurements|2
+2018PAIJ....2..279K|Konstantinov, S|Strange behavior of protons in the large hadron collider and cosmic detectors PAMELA and AMS-02|0
+2018PhDT.......207B|Behlmann, M|Measurement of helium isotopic composition in cosmic rays with AMS-02|0
+2018PhRvC..98c4611G|Genolini, Y;Maurin, D;Moskalenko, I;Unger, M|Current status and desired precision of the isotopic production cross sections relevant to astrophysics of cosmic rays: Li, Be, B, C, and N|91
+2018PhRvD..97b3015N|Niu, J;Li, T|Galactic cosmic-ray model in the light of AMS-02 nuclei data|28
+2018PhRvD..97f1302C|Chen, C;Chiang, C;Nomura, T|Explaining the DAMPE e<SUP>+</SUP>e<SUP>-</SUP> excess using the Higgs triplet model with a vector dark matter|36
+2018PhRvD..97g5002G|Garny, M;Heisig, J;Hufnagel, M;Lulf, B|Top-philic dark matter within and beyond the WIMP paradigm|54
+2018PhRvD..97h3012N|Niu, J;Li, T;Ding, R;Zhu, B;Xue, H;Wang, Y|Bayesian analysis of the break in DAMPE lepton spectra|36
+2018PhRvD..97i5020B|Batell, B;Han, T;Shams Es Haghi, B|Indirect detection of neutrino portal dark matter|74
+2018PhRvD..97j3011K|Korsmeier, M;Donato, F;Fornengo, N|Prospects to verify a possible dark matter hint in cosmic antiprotons with antideuterons and antihelium|74
+2018PhRvD..97j3019K|Korsmeier, M;Donato, F;Di Mauro, M|Production cross sections of cosmic antiprotons in the light of new data from the NA61 and LHCb experiments|66
+2018PhRvD..97k5012B|Bai, Y;Berger, J;Lu, S|Supersymmetric resonant dark matter: A thermal model for the AMS-02 positron excess|26
+2018PhRvD..97l3011C|Cholis, I;Karwal, T;Kamionkowski, M|Features in the spectrum of cosmic-ray positrons from pulsars|31
+2018PhRvD..98e5002L|Li, T;Okada, N;Shafi, Q|Type II seesaw mechanism with scalar dark matter in light of AMS-02, DAMPE, and Fermi-LAT data|10
+2018PhRvD..98f3008C|Cholis, I;Karwal, T;Kamionkowski, M|Studying the Milky Way pulsar population with cosmic-ray leptons|36
+2018PhRvD..98f3010Z|Zu, L;Zhang, C;Feng, L;Yuan, Q;Fan, Y|Constraints on the box-shaped cosmic ray electron feature from dark matter annihilation with the AMS-02 and DAMPE data|40
+2018PhRvD..98f3017E|Evoli, C;Linden, T;Morlino, G|Self-generated cosmic-ray confinement in TeV halos: Implications for TeV γ -ray emission and the positron excess|106
+2018PhRvD..98f3022B|Blum, K;Sato, R;Takimoto, M|e<SUP>+</SUP> and p \xAF production in p p collisions and the cosmic-ray e<SUP>+</SUP>/p \xAF ratio|12
+2018PhRvL.120d1103K|Kawanaka, N;Yanagita, S|Cosmic-Ray Lithium Production at the Nova Eruptions Followed by a Type Ia Supernova|16
+2018PhRvL.120z1102A|Adriani, O;Akaike, Y;Asano, K;Asaoka, Y;Bagliesi, M;Berti, E;Bigongiari, G;Binns, W;Bonechi, S;Bongi, M;Brogi, P;Buckley, J;Cannady, N;Castellini, G;Checchia, C;Cherry, M;Collazuol, G;di Felice, V;Ebisawa, K;Fuke, H;Guzik, T;Hams, T;Hareyama, M;Hasebe, N;Hibino, K;Ichimura, M;Ioka, K;Ishizaki, W;Israel, M;Kasahara, K;Kataoka, J;Kataoka, R;Katayose, Y;Kato, C;Kawanaka, N;Kawakubo, Y;Kohri, K;Krawczynski, H;Krizmanic, J;Lomtadze, T;Maestro, P;Marrocchesi, P;Messineo, A;Mitchell, J;Miyake, S;Moiseev, A;Mori, K;Mori, M;Mori, N;Motz, H;Munakata, K;Murakami, H;Nakahira, S;Nishimura, J;de Nolfo, G;Okuno, S;Ormes, J;Ozawa, S;Pacini, L;Palma, F;Papini, P;Penacchioni, A;Rauch, B;Ricciarini, S;Sakai, K;Sakamoto, T;Sasaki, M;Shimizu, Y;Shiomi, A;Sparvoli, R;Spillantini, P;Stolzi, F;Suh, J;Sulaj, A;Takahashi, I;Takayanagi, M;Takita, M;Tamura, T;Tateyama, N;Terasawa, T;Tomida, H;Torii, S;Tsunesada, Y;Uchihori, Y;Ueno, S;Vannuccini, E;Wefel, J;Yamaoka, K;Yanagita, S;Yoshida, A;Yoshida, K;Calet Collaboration|Extended Measurement of the Cosmic-Ray Electron and Positron Spectrum from 11 GeV to 4.8 TeV with the Calorimetric Electron Telescope on the International Space Station|162
+2018SCPMA..6101004W|Wang, B;Bi, X;Lin, S;Yin, P|Explanations of the DAMPE high energy electron/positron spectrum in the dark matter annihilation and pulsar scenarios|16
+2017A&A...605A..17B|Boudaud, M;Bueno, E;Caroff, S;Genolini, Y;Poulin, V;Poireau, V;Putze, A;Rosier, S;Salati, P;Vecchi, M|The pinching method for Galactic cosmic ray positrons: Implications in the light of precision measurements|28
+2017A&A...606A..22N|Neronov, A;Malyshev, D;Semikoz, D|Cosmic-ray spectrum in the local Galaxy|42
+2017ASSL..446..279K|Kashiyama, K|Pulsar Wind Nebulae as a Source of Cosmic-Ray Electrons and Positrons|1
+2017AdSpR..59..748E|Erlykin, A;Machavariani, S;Wolfendale, A|The Local Bubble in the interstellar medium and the origin of the low energy cosmic rays|3
+2017AdSpR..60..753B|Bindi, V|Preface: Solar energetic particles, solar modulation and space radiation: New opportunities in the AMS-02 Era|1
+2017AdSpR..60..865B|Bindi, V;Corti, C;Consolandi, C;Hoffman, J;Whitman, K|Overview of galactic cosmic ray solar modulation in the AMS-02 era|22
+2017ApJ...835..229K|Khiali, B;Haino, S;Feng, J|Anomalous Galactic Cosmic Rays in the Framework of AMS-02|8
+2017ApJ...835L..26T|Tomassetti, N;Feng, J|The Curious Case of High-energy Deuterons in Galactic Cosmic Rays|12
+2017ApJ...836..172F|Fang, K;Wang, B;Bi, X;Lin, S;Yin, P|Perspective on the Cosmic-ray Electron Spectrum above TeV|26
+2017ApJ...837...77P|Panov, A;Sokolskaya, N;Zatsepin, V|Energy Spectra of Abundant Cosmic-ray Nuclei in Sources, According to the ATIC Experiment|3
+2017ApJ...839...36C|Cavasonza, L;Gast, H;Kramer, M;Pellen, M;Schael, S|Constraints on Leptophilic Dark Matter from the AMS-02 Experiment|49
+2017ApJ...840..115B|Boschini, M;Della Torre, S;Gervasi, M;Grandi, D;Johannesson, G;Kachelriess, M;La Vacca, G;Masi, N;Moskalenko, I;Orlando, E;Ostapchenko, S;Pensotti, S;Porter, T;Quadrani, L;Rancoita, P;Rozza, D;Tacconi, M|Solution of Heliospheric Propagation: Unveiling the Local Interstellar Spectra of Cosmic-ray Species|138
+2017ApJ...845..107D|Di Mauro, M;Manconi, S;Vittino, A;Donato, F;Fornengo, N;Baldini, L;Bonino, R;Di Lalla, N;Latronico, L;Maldera, S;Manfreda, A;Negro, M;Pesce-Rollins, M;Sgro, C;Spada, F|Theoretical Interpretation of Pass 8 Fermi-LAT e <SUP>+</SUP> + e <SUP>-</SUP> Data|16
+2017ChPhC..41d5104L|Liu, W;Bi, X;Lin, S;Yin, P|Constraints on dark matter annihilation and decay from the isotropic gamma-ray background|39
+2017CoPhC.213..252H|Huang, X;Tsai, Y;Yuan, Q|LIKEDM: Likelihood calculator of dark matter detection|30
+2017IJMPD..2650041M|Masi, N;Ballardini, M|A conservative assessment of the current constraints on dark matter annihilation from cosmic rays and CMB observations|3
+2017IJMPD..2650095T|Tsuchida, S;Mori, M|The electron plus positron spectrum from annihilation of Kaluza-Klein dark matter in the Galaxy|1
+2017JCAP...01..006M|Manconi, S;Di Mauro, M;Donato, F|Dipole anisotropy in cosmic electrons and positrons: inspection on local sources|36
+2017JCAP...01..021B|Belotsky, K;Budaev, R;Kirillov, A;Laletin, M|Fermi-LAT kills dark matter interpretations of AMS-02 data. Or not?|29
+2017JCAP...02..018H|Herms, J;Ibarra, A;Vittino, A;Wild, S|Antideuterons in cosmic rays: sources and discovery potential|30
+2017JCAP...02..048W|Winkler, M|Cosmic ray antiprotons at high energies|65
+2017JCAP...03..041C|Cheng, H;Huang, W;Huang, X;Low, I;Sming Tsai, Y;Yuan, Q|AMS-02 positron excess and indirect detection of three-body decaying dark matter|27
+2017JCAP...05..036C|Cirelli, M;Panci, P;Petraki, K;Sala, F;Taoso, M|Dark Matter's secret liaisons: phenomenology of a dark U(1) sector with bound states|156
+2017JCAP...08..012B|Bhattacharyya, S;Motz, H;Torii, S;Asaoka, Y|Decaying fermionic dark matter search with CALET|6
+2017JCAP...10..028B|Buch, J;Ralegankar, P;Rentala, V|Late decaying 2-component dark matter scenario as an explanation of the AMS-02 positron excess|18
+2017JCAP...10..053C|Cuoco, A;Heisig, J;Korsmeier, M;Kramer, M|Probing dark matter annihilation in the Galaxy with antiprotons and gamma rays|68
+2017JGRA..122...23H|Herbst, K;Muscheler, R;Heber, B|The new local interstellar spectra and their influence on the production rates of the cosmogenic radionuclides <SUP>10</SUP>Be and <SUP>14</SUP>C|57
+2017JHEP...11..132A|Arbey, A;Boudaud, M;Mahmoudi, F;Robbins, G|Robustness of dark matter constraints and interplay with collider searches for New Physics|17
+2017NIMPA.868...10R|Raiha, T;Bachlechner, A;Beischer, B;Chung, C;Gast, H;Schael, S;Siedenburg, T|Monte Carlo simulations of the transition radiation detector of the AMS-02 experiment|3
+2017PhLB..773..448X|Xiang, Q;Bi, X;Lin, S;Yin, P|A dark matter model that reconciles tensions between the cosmic-ray e<SUP>±</SUP> excess and the gamma-ray and CMB constraints|20
+2017PhRvD..95f3021H|Huang, X;Wei, C;Wu, Y;Zhang, W;Zhou, Y|Antiprotons from dark matter annihilation through light mediators and a possible excess in AMS-02 p¯/p data|31
+2017PhRvD..95g5015S|Smolinsky, J;Tanedo, P|Dark photons from captured inelastic dark matter annihilation: Charged particle signatures|20
+2017PhRvD..95h3007Y|Yuan, Q;Lin, S;Fang, K;Bi, X|Propagation of cosmic rays in the AMS-02 era|113
+2017PhRvD..95i5015C|Cline, J;Cornell, J;London, D;Watanabe, R|Hidden sector explanation of B -decay and cosmic-ray anomalies|43
+2017PhRvD..96c5015V|van Beekveld, M;Beenakker, W;Caron, S;Peeters, R;de Austri, R|Supersymmetry with dark matter is still natural|27
+2017PhRvD..96d3007D|Donato, F;Korsmeier, M;Di Mauro, M|Prescriptions on antiproton cross section data for precise theoretical antiproton flux predictions|28
+2017PhRvD..96d3009C|Chan, M|Constraining annihilating dark matter by radio data of M33|18
+2017PhRvD..96e5009J|Jia, L|Interpretation of the gamma-ray excess and AMS-02 antiprotons: Velocity dependent dark matter annihilations|9
+2017PhRvD..96j3013H|Hooper, D;Cholis, I;Linden, T;Fang, K|HAWC observations strongly favor pulsar interpretations of the cosmic-ray positron excess|144
+2017PhRvD..96j3021B|Blum, K;Ng, K;Sato, R;Takimoto, M|Cosmic rays, antihelium, and an old navy spotlight|85
+2017PhRvD..96l3010L|Lin, S;Bi, X;Feng, J;Yin, P;Yu, Z|Systematic study on the cosmic ray antiproton flux|32
+2017PhRvL.118s1101C|Cui, M;Yuan, Q;Tsai, Y;Fan, Y|Possible Dark Matter Annihilation Signal in the AMS-02 Antiproton Data|200
+2017PhRvL.118s1102C|Cuoco, A;Kramer, M;Korsmeier, M|Novel Dark Matter Constraints from Antiprotons in Light of AMS-02|225
+2017PhRvL.119b1102C|Cohen, T;Murase, K;Rodd, N;Safdi, B;Soreq, Y|γ -ray Constraints on Decaying Dark Matter and Implications for IceCube|169
+2017PhRvL.119b1103B|Boudaud, M;Lavalle, J;Salati, P|Novel Cosmic-Ray Electron and Positron Constraints on MeV Dark Matter Particles|106
+2016A&A...591A..94G|Ghelfi, A;Barao, F;Derome, L;Maurin, D|Non-parametric determination of H and He interstellar fluxes from cosmic-ray data|53
+2016APh....84...36T|Tomaschitz, R|Partition function and thermodynamic parameters of the all-particle cosmic-ray flux|4
+2016ApJ...819...54G|Guo, Y;Tian, Z;Jin, C|Spatial-dependent Propagation of Cosmic Rays Results in the Spectrum of Proton, Ratios of P/P, and B/C, and Anisotropy of Nuclei|76
+2016ApJ...822...65A|Abe, K;Fuke, H;Haino, S;Hams, T;Hasegawa, M;Horikoshi, A;Itazaki, A;Kim, K;Kumazawa, T;Kusumoto, A;Lee, M;Makida, Y;Matsuda, S;Matsukawa, Y;Matsumoto, K;Mitchell, J;Myers, Z;Nishimura, J;Nozaki, M;Orito, R;Ormes, J;Picot-Clemente, N;Sakai, K;Sasaki, M;Seo, E;Shikaze, Y;Shinoda, R;Streitmatter, R;Suzuki, J;Takasugi, Y;Takeuchi, K;Tanaka, K;Thakur, N;Yamagami, T;Yamamoto, A;Yoshida, T;Yoshimura, K|Measurements of Cosmic-Ray Proton and Helium Spectra from the BESS-Polar Long-duration Balloon Flights over Antarctica|84
+2016ApJ...829....8C|Corti, C;Bindi, V;Consolandi, C;Whitman, K|Solar Modulation of the Local Interstellar Spectrum with Voyager 1, AMS-02, PAMELA, and BESS|87
+2016ChPhC..40a5101J|Jin, C;Guo, Y;Hu, H|Spatial dependent diffusion of cosmic rays and the excess of primary electrons derived from high precision measurements by AMS-02|25
+2016ChPhC..40k5001G|Guo, Y;Hu, H;Tian, Z|On the contribution of a hard galactic plane component to the excesses of secondary particles|22
+2016CoPhC.207..386K|Kappl, R|SOLARPROP: Charge-sign dependent solar modulation for everyone|39
+2016EPJC...76..229F|Feng, J;Zhang, H|Pulsar interpretation of lepton spectra measured by AMS-02|22
+2016JCAP...03..033L|Lopez, A;Savage, C;Spolyar, D;Adams, D|Fermi/LAT observations of dwarf galaxies highly constrain a dark matter interpretation of excess positrons seen in AMS-02, HEAT, and PAMELA|31
+2016JCAP...05..031D|Di Mauro, M;Donato, F;Fornengo, N;Vittino, A|Dark matter vs. astrophysics in the interpretation of AMS-02 electron and positron data|63
+2016JCAP...06..024E|Elor, G;Rodd, N;Slatyer, T;Xue, W|Model-independent indirect detection constraints on hidden sector dark matter|140
+2016JCAP...06..045A|Ando, S;Ishiwata, K|Constraining particle dark matter using local galaxy distribution|18
+2016JCAP...07..042H|Hektor, A;Marzola, L|Di-photon excess at LHC and the gamma ray excess at the Galactic Centre|17
+2016JHEP...03..062B|Basak, T;Mohanty, S;Tomar, G|Explaining AMS-02 positron excess and muon anomalous magnetic moment in dark left-right gauge model|3
+2016NPPP..273..466W|Weng, Z;Vagelli, V;AMS Collaboration|AMS-02 measurement of cosmic ray positrons and electrons|2
+2016NPPP..273.2348C|Chen, C;Nomura, T|Inert Higgs Doublet Dark Matter in Type-II Seesaw|1
+2016NPPP..273.2351G|Graziani, M;AMS-02 Collaboration|Electron/proton separation and analysis techniques used in the AMS-02 (e<SUP>+</SUP> + e<SUP>-</SUP>) flux measurement|2
+2016NPPP..273.2369V|Vagelli, V;Weng, Z;AMS-02 Collaboration|The (e<SUP>+</SUP> + e<SUP>-</SUP>) flux measurement up to 1 TeV with the AMS-02 experiment|0
+2016PDU....11....1C|Carquin, E;Diaz, M;Gomez-Vargas, G;Panes, B;Viaux, N|Confronting recent AMS-02 positron fraction and Fermi-LAT extragalactic γ-ray background measurements with gravitino dark matter|14
+2016PTEP.2016b1E01K|Kohri, K;Ioka, K;Fujita, Y;Yamazaki, R|Can we explain AMS-02 antiproton and positron excesses simultaneously by nearby supernovae without pulsars or dark matter?|77
+2016PhDT.......131G|Green, D|Measurement of the cosmic-ray proton spectrum from 54 GeV to 9.5 TeV with the Fermi Large Area Telescope|1
+2016PhDT.......353C|Chen, H|Precision measurement of electron and positron flux in cosmic rays with the AMS-02 Detector|2
+2016PhR...618....1A|Aramaki, T;Boggs, S;Bufalino, S;Dal, L;von Doetinchem, P;Donato, F;Fornengo, N;Fuke, H;Grefe, M;Hailey, C;Hamilton, B;Ibarra, A;Mitchell, J;Mognet, I;Ong, R;Pereira, R;Perez, K;Putze, A;Raklev, A;Salati, P;Sasaki, M;Tarle, G;Urbano, A;Vittino, A;Wild, S;Xue, W;Yoshimura, K|Review of the theoretical and experimental status of dark matter identification with cosmic-ray antideuterons|89
+2016PhRvD..93a5015C|Chen, Y;Cheung, K;Tseng, P|Dark matter with multiannihilation channels and the AMS-02 positron excess and antiproton data|7
+2016PhRvD..93g5023K|Kim, Y;Lee, K;Park, C;Shin, S|Secluded singlet fermionic dark matter driven by the Fermi gamma-ray excess|49
+2016PhRvD..93h3001O|Ohira, Y;Kawanaka, N;Ioka, K|Cosmic-ray hardenings in light of AMS-02 data|45
+2016PhRvD..93h3504L|Lu, B;Zong, H|Leptophilic dark matter in Galactic Center excess|4
+2016PhRvD..93h3513Z|Zhao, Y;Bi, X;Jia, H;Yin, P;Zhu, F|Constraint on the velocity dependent dark matter annihilation cross section from Fermi-LAT observations of dwarf galaxies|37
+2016PhRvD..93j3009B|Baring, M;Ghosh, T;Queiroz, F;Sinha, K|New limits on the dark matter lifetime from dwarf spheroidal galaxies using Fermi-LAT|78
+2016PhRvD..93j3517L|Lu, B;Zong, H|Limits on dark matter from AMS-02 antiproton and positron fraction data|20
+2016PhRvD..93k5024S|Scaffidi, A;Freese, K;Li, J;Savage, C;White, M;Williams, A|Gamma rays from muons from WIMPs: Implementation of radiative muon decays for dark matter analyses|8
+2016PhRvD..94f3006M|Malkov, M;Diamond, P;Sagdeev, R|Positive charge prevalence in cosmic rays: Room for dark matter in the positron spectrum|19
+2016PhRvD..94l3007F|Feng, J;Tomassetti, N;Oliva, A|Bayesian analysis of spatial-dependent cosmic-ray propagation: Astrophysical background of antiprotons and positrons|96
+2016PhRvD..94l3019K|Korsmeier, M;Cuoco, A|Galactic cosmic-ray propagation in the light of AMS-02: Analysis of protons, helium, and antiprotons|66
+2016PhRvL.116x1105A|Adriani, O;Barbarino, G;Bazilevskaya, G;Bellotti, R;Boezio, M;Bogomolov, E;Bongi, M;Bonvicini, V;Bottai, S;Bruno, A;Cafagna, F;Campana, D;Carlson, P;Casolino, M;Castellini, G;De Santis, C;Di Felice, V;Galper, A;Karelin, A;Koldashov, S;Koldobskiy, S;Krutkov, S;Kvashnin, A;Leonov, A;Malakhov, V;Marcelli, L;Martucci, M;Mayorov, A;Menn, W;Merge, M;Mikhailov, V;Mocchiutti, E;Monaco, A;Mori, N;Munini, R;Osteria, G;Panico, B;Papini, P;Pearce, M;Picozza, P;Ricci, M;Ricciarini, S;Simon, M;Sparvoli, R;Spillantini, P;Stozhkov, Y;Vacchi, A;Vannuccini, E;Vasilyev, G;Voronov, S;Yurkin, Y;Zampa, G;Zampa, N;Potgieter, M;Vos, E|Time Dependence of the Electron and Positron Components of the Cosmic Radiation Measured by the PAMELA Experiment between July 2006 and December 2015|65
+2015A&A...575A..67B|Boudaud, M;Aupetit, S;Caroff, S;Putze, A;Belanger, G;Genolini, Y;Goy, C;Poireau, V;Poulin, V;Rosier, S;Salati, P;Tao, L;Vecchi, M|A new look at the cosmic ray positron fraction|86
+2015A&A...580A...9G|Genolini, Y;Putze, A;Salati, P;Serpico, P|Theoretical uncertainties in extracting cosmic-ray diffusion parameters: the boron-to-carbon ratio|52
+2015A&A...583A..95A|Aloisio, R;Blasi, P;Serpico, P|Nonlinear cosmic ray Galactic transport in the light of AMS-02 and Voyager data|75
+2015APh....60....1Y|Yuan, Q;Bi, X;Chen, G;Guo, Y;Lin, S;Zhang, X|Implications of the AMS-02 positron fraction in cosmic rays|100
+2015AdSpR..55..716O|Obermeier, A;Korsmeier, M|Cross-calibration of the transition radiation detector of AMS-02 for an energy measurement of cosmic-ray ions|2
+2015AdSpR..55.1529V|Venter, C;Kopp, A;Harding, A;Gonthier, P;Busching, I|The contribution of millisecond pulsars to the Galactic cosmic-ray lepton spectrum|8
+2015ApJ...799..200L|Linden, T|Circular Polarization of Pulsar Wind Nebulae and the Cosmic-Ray Positron Excess|6
+2015ApJ...809L..23S|Savchenko, V;Kachelriess, M;Semikoz, D|Imprint of a 2 Million Year Old Source on the Cosmic-Ray Anisotropy|48
+2015ApJ...811..154C|Chen, D;Huang, J;Jin, H|Spectra of Cosmic Ray Electrons and Diffuse Gamma Rays with the Constraints of AMS-02 and HESS Data|4
+2015ApJ...815..119V|Vos, E;Potgieter, M|New Modeling of Galactic Proton Modulation during the Minimum of Solar Cycle 23/24|134
+2015IJMPA..3045009G|Geng, C;Huang, D;Lai, C|Multi-component dark matter|4
+2015IJMPD..2445004B|Belotsky, K;Khlopov, M;Kouvaris, C;Laletin, M|High-energy positrons and gamma radiation from decaying constituents of a two-component dark atom model|18
+2015JCAP...03..033Y|Yuan, Q;Bi, X|Systematic study of the uncertainties in fitting the cosmic positron data by AMS-02|22
+2015JCAP...05..013B|Boudaud, M;Cirelli, M;Giesen, G;Salati, P|A fussy revisitation of antiprotons as a tool for Dark Matter searches|46
+2015JCAP...07..042P|Peixoto, C;de Souza, V;Biermann, P|Cosmic rays: the spectrum and chemical composition from 10<SUP>10</SUP> to 10<SUP>20</SUP> eV|2
+2015JCAP...07..042T|Todero Peixoto, C;de Souza, V;Biermann, P|Cosmic rays: the spectrum and chemical composition from 10<SUP>10</SUP> to 10<SUP>20</SUP> eV|9
+2015JCAP...09..023G|Giesen, G;Boudaud, M;Genolini, Y;Poulin, V;Cirelli, M;Salati, P;Serpico, P|AMS-02 antiprotons, at last! Secondary astrophysical component and immediate implications for Dark Matter|213
+2015JCAP...09..049J|Jin, H;Wu, Y;Zhou, Y|Cosmic ray propagation and dark matter in light of the latest AMS-02 data|60
+2015JCAP...10..034K|Kappl, R;Reinert, A;Winkler, M|AMS-02 antiprotons reloaded|73
+2015JCAP...12..047M|Motz, H;Asaoka, Y;Torii, S;Bhattacharyya, S|CALET's sensitivity to Dark Matter annihilation in the galactic halo|7
+2015JHEAp...8...27D|Della Torre, S;Gervasi, M;Rancoita, P;Rozza, D;Treves, A|Pulsar Wind Nebulae as a source of the observed electron and positron excess at high energy: The case of Vela-X|21
+2015JHEP...08..050L|Liu, J;Weiner, N;Xue, W|Signals of a light dark force in the galactic center|69
+2015JHEP...08..074C|Coogan, A;Profumo, S;Shepherd, W|Monochromatic gamma rays from dark matter annihilation to leptons|3
+2015JPhG...42k5202E|Erlykin, A;Wolfendale, A|Cosmic ray antiprotons and the single source model|6
+2015MPLA...3050188L|Lai, C;Huang, D;Geng, C|Multi-component dark matter in the light of new AMS-02 data|2
+2015NPPP..265..245T|Tomassetti, N;AMS Collaboration|AMS-02 in space: physics results, overview, and challenges|6
+2015NPPP..265..248F|Fornengo, N|Astrophysical interpretation of the ASM-02 leptonic data|0
+2015PhDT.......394C|Cernuda Cangas, I|Cosmic-ray positron fraction measurement with the AMS-02 detector|0
+2015PhDT.......395C|Clavero Jimenez, R|Measurement of the cosmic rays boron-to-carbon ratio with AMS-02|0
+2015PhDT.......624S|Sun, W|Precision measurement of the boron to carbon ratio in cosmic rays with AMS-02|0
+2015PhLB..741..284K|Ko, P;Tang, Y|AMS02 positron excess from decaying fermion DM with local dark gauge symmetry|12
+2015PhLB..747..495C|Chen, C;Chiang, C;Nomura, T|Dark matter for excess of AMS-02 positrons and antiprotons|41
+2015PhLB..747..523H|Hamaguchi, K;Moroi, T;Nakayama, K|AMS-02 antiprotons from annihilating or decaying dark matter|38
+2015PhLB..749..267L|Li, X;Shen, Z;Lu, B;Dong, T;Fan, Y;Feng, L;Liu, S;Chang, J|'Excess' of primary cosmic ray electrons|29
+2015PhRvD..91f3508L|Lin, S;Yuan, Q;Bi, X|Quantitative study of the AMS-02 electron/positron spectra: Implications for pulsars and dark matter properties|91
+2015PhRvD..91i5006G|Geng, C;Huang, D;Lai, C|Revisiting multicomponent dark matter with new AMS-02 data|22
+2015PhRvD..91k1701I|Ibe, M;Matsumoto, S;Shirai, S;Yanagida, T|Wino dark matter in light of the AMS-02 2015 data|40
+2015PhRvD..91k5010C|Cline, J;Dupuis, G;Liu, Z;Xue, W|Multimediator models for the Galactic Center gamma ray excess|46
+2015PhRvD..92e5027J|Jin, H;Wu, Y;Zhou, Y|Upper limits on dark matter annihilation cross sections from the first AMS-02 antiproton data|46
+2015PhRvD..92h3504C|Chan, M|Indirect constraints on the dark matter interpretation of excess positrons seen by AMS-02|5
+2015PhRvD..92j3002L|Lu, B;Zong, H|Constraints on dark matter from AMS-02 electron data|4
+2015PhRvD..92k5006A|Arcadi, G;Covi, L;Nardecchia, M|Gravitino dark matter and low-scale baryogenesis|35
+2014APh....53..160P|Picozza, P;Marcelli, L|Electron cosmic ray measurements in space|1
+2014APh....59...12A|Aramaki, T;Boggs, S;von Doetinchem, P;Fuke, H;Hailey, C;Mognet, S;Ong, R;Perez, K;Zweerink, J|Potential for precision measurement of low-energy antiprotons with GAPS for dark matter and primordial black hole physics|26
+2014AdSpR..53.1438R|Rauch, B|Predicted CALET measurements of electron and positron spectra from 3 to 20 GeV using the geomagnetic field|1
+2014ApJ...788..132V|Vorster, M;Moraal, H|The Effect of Drift on the Evolution of the Electron/Positron Spectra in an Axisymmetric Pulsar Wind Nebula|2
+2014ApJ...794..168D|Delahaye, T;Kotera, K;Silk, J|What Could We Learn from a Sharply Falling Positron Fraction?|15
+2014EPJC...74.2722K|Kajiyama, Y;Okada, H;Toma, T|New interpretation of the recent result of AMS-02 and multi-component decaying dark matters with non-Abelian discrete flavor symmetry|23
+2014JCAP...04..003F|Fornengo, N;Maccione, L;Vittino, A|Constraints on particle dark matter from cosmic-ray antiprotons|66
+2014JCAP...04..006D|Di Mauro, M;Donato, F;Fornengo, N;Lineros, R;Vittino, A|Interpretation of AMS-02 electrons and positrons data|142
+2014JCAP...06..030A|Arhrib, A;Sming Tsai, Y;Yuan, Q;Yuan, T|An updated analysis of Inert Higgs Doublet Model in light of the recent results from LUX, PLANCK, AMS-02 and LHC|217
+2014JCAP...06..046B|Baek, S;Ko, P;Park, W;Tang, Y|Indirect and direct signatures of Higgs portal decaying vector dark matter for positron excess in cosmic rays|31
+2014JCAP...09..051K|Kappl, R;Winkler, M|The cosmic ray antiproton background for AMS-02|70
+2014JCAP...10..078P|Pettorino, V;Busoni, G;De Simone, A;Morgante, E;Riotto, A;Xue, W|Can AMS-02 discriminate the origin of an anti-proton signal?|17
+2014JHEP...07..017Z|Zhao, Y;Zurek, K|Indirect detection signatures for the origin of asymmetric dark matter|14
+2014JHEP...09..120C|Chen, C;Nomura, T|Inert dark matter in type-II seesaw|21
+2014MPLA...2940003G|Geng, C;Huang, D;Tsai, L|Cosmic ray excesses from multi-component dark matter decays|11
+2014NuPhB.888..154K|Kong, K;Park, J|Bounds on dark matter interpretation of Fermi-LAT GeV excess|48
+2014PDU.....4....6B|Battiston, R;AMS Collaboration|Precision measurements of e<SUP>+</SUP>e<SUP>-</SUP> in Cosmic Ray with the Alpha Magnetic Spectrometer on the ISS|9
+2014PDU.....5...29P|Putze, A;Derome, L|The Grenoble Analysis Toolkit (GreAT)-A statistical analysis framework|16
+2014PhDT.......110V|Vagelli, V|Measurement of the cosmic (e+ + e-) flux from 0.5 GeV to 1 TeV with the Alpha Magnetic Spectrometer (AMS-02) on the International Space Station|0
+2014PhLB..728..250F|Feng, L;Yang, R;He, H;Dong, T;Fan, Y;Chang, J|AMS-02 positron excess: New bounds on dark matter models and hint for primary electron spectrum hardening|76
+2014PhLB..732..269G|Gao, Y;Kong, K;Marfatia, D|AMS-02 and next-to-minimal universal extra dimensions|8
+2014PhRvD..89b5004D|Das, M;Mohanty, S|Leptophilic dark matter in gauged L<SUB>μ</SUB>-L<SUB>τ</SUB> extension of MSSM|34
+2014PhRvD..89e5002C|Choi, K;Kyae, B;Shin, C|Decaying WIMP dark matter for AMS-02 cosmic positron excess|9
+2014PhRvD..89e5021G|Geng, C;Huang, D;Tsai, L|Imprint of multicomponent dark matter on AMS-02|34
+2014PhRvD..89f3539I|Ibarra, A;Lamperstorfer, A;Silk, J|Dark matter annihilations and decays after the AMS-02 positron measurements|163
+2014PhRvD..89g6005C|Carlson, E;Coogan, A;Linden, T;Profumo, S;Ibarra, A;Wild, S|Antihelium from dark matter|64
+2014PhRvD..89h3007G|Gaggero, D;Maccione, L;Grasso, D;Di Bernardo, G;Evoli, C|PAMELA and AMS-02 e<SUP>+</SUP> and e<SUP>-</SUP> spectra are reproduced by three-dimensional cosmic-ray modeling|44
+2014PhRvD..89h7704H|Heo, J;Kim, C|Triplet dark matter from leptogenesis|0
+2014PhRvD..89i5001D|Dev, P;Ghosh, D;Okada, N;Saha, I|Neutrino mass and dark matter in light of recent AMS-02 results|69
+2014PhRvD..89j3504D|Dal, L;Raklev, A|Antideuteron limits on decaying dark matter with a tuned formation model|30
+2014PhRvD..89j3508M|Madhavacheril, M;Sehgal, N;Slatyer, T|Current dark matter annihilation constraints from CMB and low-redshift data|204
+2014PhRvD..90f1301M|Mertsch, P;Sarkar, S|AMS-02 data confront acceleration of cosmic ray secondaries in nearby sources|102
+2014PhRvD..90h1301L|Lavalle, J;Maurin, D;Putze, A|Direct constraints on diffusion models from cosmic-ray positron data: Excluding the minimal model for dark matter searches|37
+2014PhRvD..90l3001B|Bringmann, T;Vollmann, M;Weniger, C|Updated cosmic-ray and radio constraints on light dark matter: Implications for the GeV gamma-ray excess at the Galactic Center|96
+2013APh....49...23E|Erlykin, A;Wolfendale, A|Cosmic ray positrons from a local, middle-aged supernova remnant|18
+2013APh....50...47E|Erlykin, A;Wolfendale, A|Structures in the cosmic ray energy spectra|0
+2013ApJ...772...18L|Linden, T;Profumo, S|Probing the Pulsar Origin of the Anomalous Positron Fraction with AMS-02 and Atmospheric Cherenkov Telescopes|152
+2013JCAP...02..021I|Ibarra, A;Wild, S|Prospects of antideuteron detection from dark matter annihilations or decays at AMS-02 and GAPS|56
+2013JCAP...04..015C|Cirelli, M;Giesen, G|Antiprotons from Dark Matter: current constraints and future sensitivities|89
+2013JCAP...05..003D|De Simone, A;Riotto, A;Xue, W|Interpretation of AMS-02 results: correlations among dark matter signals|43
+2013JCAP...09..031F|Fornengo, N;Maccione, L;Vittino, A|Dark matter searches with cosmic antideuterons: status and perspectives|62
+2013JCAP...10..008F|Feng, L;Kang, Z|Decaying asymmetric dark matter relaxes the AMS-Fermi tension|29
+2013JCAP...11..026J|Jin, H;Wu, Y;Zhou, Y|Implications of the first AMS-02 measurement for dark matter annihilation and decay|79
+2013JCAP...12..011G|Gaggero, D;Maccione, L|Model independent interpretation of recent CR lepton data after AMS-02|9
+2013PhDT.......424H|Heil, M|Measurement of the positron fraction in cosmic rays from 0.5-350 GeV with the AMS-02 detector on the International Space Station|0
+2013PhDT.......499C|Crespo Roces, D|Prestaciones del detector AMS-02 para el estudio del canal de positrones de los rayos cósmicos|0
+2013PhLB..720....1F|Feng, L;Yuan, Q;Li, X;Fan, Y|PAMELA/Fermi-LAT electron cosmic ray spectrum at ∼100 GeV: Implication for dark matter annihilation signal in accordance with the 130 GeV γ-ray line|31
+2013PhLB..727....1Y|Yuan, Q;Bi, X|Reconcile the AMS-02 positron fraction and Fermi-LAT/HESS total e<SUP>±</SUP> spectra by the primary electron spectrum hardening|51
+2013PhRvD..87a3007H|Heo, J;Kim, C|Dipole-interacting fermionic dark matter in positron, antiproton, and gamma-ray channels|33
+2013PhRvD..87l3003M|Masina, I;Sannino, F|Hints of a charge asymmetry in the electron and positron cosmic-ray excesses|16
+2013PhRvD..88b3001Y|Yin, P;Yu, Z;Yuan, Q;Bi, X|Pulsar interpretation for the AMS-02 result|87
+2013PhRvD..88e5012F|Fowlie, A;Kowalska, K;Roszkowski, L;Sessolo, E;Tsai, Y|Dark matter and collider signatures of the MSSM|80
+2013PhRvD..88g6013K|Kopp, J|Constraints on dark matter annihilation from AMS-02 results|85
+2013PhRvD..88i6008L|Liu, Z;Wu, Y;Zhou, Y|Sommerfeld enhancements with vector, scalar, and pseudoscalar force carriers|35
+2013PhRvD..88j3001K|Kohri, K;Sahu, N|Constraining the cogenesis of visible and dark matter with AMS-02 and Xenon-100|22
+2013PhRvD..88j3509D|Dienes, K;Kumar, J;Thomas, B|Dynamical Dark Matter and the positron excess in light of AMS results|53
+2013PhRvL.111b1102G|Gaggero, D;Maccione, L;Di Bernardo, G;Evoli, C;Grasso, D|Three-Dimensional Model of Cosmic-Ray Lepton Propagation Reproduces Data from the Alpha Magnetic Spectrometer on the International Space Station|106
+2013PhRvL.111u1101B|Blum, K;Katz, B;Waxman, E|AMS-02 Results Support the Secondary Origin of Cosmic Ray Positrons|96
+2012A&A...544A..16T|Tomassetti, N;Donato, F|Secondary cosmic-ray nuclei from supernova remnants and constraints on the propagation parameters|44
+2012AdSpR..49.1587D|Della Torre, S;Bobik, P;Boschini, M;Consolandi, C;Gervasi, M;Grandi, D;Kudela, K;Pensotti, S;Rancoita, P;Rozza, D;Tacconi, M|Effects of solar modulation on the cosmic ray positron fraction|35
+2012Ap&SS.342..131T|Tomassetti, N|Propagation of H and He cosmic ray isotopes in the Galaxy: astrophysical and nuclear uncertainties|38
+2012IJMPE..2130005K|Kounine, A|The Alpha Magnetic Spectrometer on the International Space Station|114
+2012MNRAS.427...91O|Ohira, Y;Yamazaki, R;Kawanaka, N;Ioka, K|Escape of cosmic-ray electrons from supernova remnants|66
+2012NuPhB.854..738C|Cerdeno, D;Delahaye, T;Lavalle, J|Cosmic-ray antiproton constraints on light singlino-like dark matter candidates|30
+2012PhDT.......313D|Diago Ortega, A|"Caracterizacón de dos detectores de muy alta energía: Estudio del ruido dentro de los telescopios "MAGIC" y fragmentación de los núcleos en el experimento AMS-02"|0
+2012PhRvD..85l3511E|Evoli, C;Cholis, I;Grasso, D;Maccione, L;Ullio, P|Antiprotons from dark matter annihilation in the Galaxy: Astrophysical uncertainties|119
+2011ASTRA...7..245B|Bobik, P;Boschini, M;Consolandi, C;Della Torre, S;Gervasi, M;Grandi, D;Kudela, K;Pensotti, S;Rancoita, P|Antiproton modulation in the Heliosphere and AMS-02 antiproton over proton ratio prediction|13
+2011JCAP...11..037B|Blum, K|Cosmic ray propagation time scales: lessons from radioactive nuclei and positron data|12
+2011NCimC..34c..89O|Oliva, A;AMS Collaboration|The AMS-02 experiment status|0
+2011NIMPA.630...78H|Haino, S;AMS-02 Tracker Collaboration|The performance of the AMS-02 silicon tracker evaluated during the pre-integration phase of the spectrometer|0
+2011PhRvD..83b3002K|Kashiyama, K;Ioka, K;Kawanaka, N|White dwarf pulsars as possible cosmic ray electron-positron factories|75
+2011PhRvD..84b3524C|Chang, S;Goodenough, L|Charge asymmetric cosmic ray signals from dark matter decay|32
+2010AdSpR..45..112D|di Falco, S|Results of 2007 test beam of AMS-02 Electromagnetic Calorimeter|6
+2010JCAP...03..007B|Bernal, N;Goudelis, A|Dark matter detection in the BMSSM|31
+2010JCAP...06..022P|Pato, M;Hooper, D;Simet, M|Pinpointing cosmic ray propagation with the AMS-02 experiment|42
+2010JCAP...12..020P|Pato, M;Lattanzi, M;Bertone, G|Discriminating the source of high-energy positrons with AMS-02|30
+2010JHEP...11..017C|Cui, Y;Mason, J;Randall, L|General analysis of antideuteron searches for dark matter|43
+2010PhRvD..81b3502C|Choi, K;Yaguna, C|Implications of an astrophysical interpretation of PAMELA and Fermi-LAT data for future searches of a positron signal from dark matter annihilations|7
+2010PhRvD..81f3522B|Bi, X;He, X;Ma, E;Zhang, J|Cosmic e<SUP>±</SUP>s, p¯s, γs, and neutrinos in leptocentric dark matter models|10
+2009A&A...501..821D|Delahaye, T;Lineros, R;Donato, F;Fornengo, N;Lavalle, J;Salati, P;Taillet, R|Galactic secondary positron flux at the Earth|214
+2009JCAP...06..004I|Ibarra, A;Tran, D|Antideuterons from dark matter decay|27
+2009JCAP...12..008G|Goudelis, A;Mambrini, Y;Yaguna, C|Antimatter signals of singlet scalar dark matter|68
+2009PhDT........77V|von Doetinchem, P|Search for Cosmic-Ray Antiparticles with Balloon-borne and Space-borne Experiments|4
+2008A&A...479..427L|Lavalle, J;Yuan, Q;Maurin, D;Bi, X|Full calculation of clumpiness boost factors for antimatter cosmic rays in the light of ΛCDM N-body simulation results. Abandoning hope in clumpiness enhancement?|163
+2008EPJC...56...27B|Brun, P|Indirect searches for dark matter with AMS-02|3
+2008NIMPA.588..227B|Battiston, R|The antimatter spectrometer (AMS-02): A particle physics detector in space|81
+2008NIMPA.588..239C|Cardano, F|Dark Matter search with the AMS-02 experiment|1
+2008NIMPA.588..255O|Oliva, A|Cosmic-ray astrophysics with the AMS-02 experiment|6
+2008PhDT.......253P|Panicci, M|Search for time-dependent fluctuations in cosmic ray flux with the AMS-01 detector and construction of the AMS-02 detector|0
+2008PhLB..668...87B|Bi, X;Zhang, J;Yuan, Q;Zhang, J;Zhao, H|The diffuse Galactic γ-rays from dark matter annihilation|11
+2008PhRvD..78d3506D|Donato, F;Fornengo, N;Maurin, D|Antideuteron fluxes from dark matter annihilation in diffusion models|107
+2008PhRvL.100f1301I|Ibarra, A;Tran, D|Gamma-Ray Spectrum from Gravitino Dark Matter Decay|128
+2007JCAP...11..003B|Bertone, G;Buchmuller, W;Covi, L;Ibarra, A|Gamma-rays from decaying dark matter|126
+2007PhDT.......132N|Natale, S|Performance of the AMS-02 experiment for high energy gamma ray astrophysics|0
+2007PhRvD..75f3506A|Asano, M;Matsumoto, S;Okada, N;Okada, Y|Cosmic positron signature from dark matter in the littlest Higgs model with T parity|87
+2007PhRvD..76h3506B|Brun, P;Bertone, G;Lavalle, J;Salati, P;Taillet, R|Antiproton and positron signal enhancement in dark matter minispikes scenarios|45
+2006AcPPB..37.1991S|Sapinski, M|Indirect Search for Dark Matter with AMS Experiment|2
+2006JCAP...06..014H|Hallgren, T;Ohlsson, T|Indirect detection of Kaluza Klein dark matter from latticized universal dimensions|10
+2006NIMPA.558..526D|Doetinchem, P;Fopp, S;Karpinski, W;Kirn, T;Lubelsmeyer, K;Orboeck, J;Schael, S;Schultz von Dratzig, A;Schwering, G;Siedenburg, T;Siedling, R;Wallraff, W;Becker, U;Burger, J;Henning, R;Kounine, A;Koutsenko, V;Wyatt, J|Performance of the AMS-02 transition radiation detector|37
+2006NIMPA.563..338K|Kirn, T|Threshold transition radiation detectors in astroparticle physics|3
+2006PhDT.......471S|Sevilla Noarbe, I|El experimento AMS-02 como observatorio de rayos gamma desde la Estación Espacial Internacional|0
+2006PhRvD..73e5004H|Hisano, J;Matsumoto, S;Saito, O;Senami, M|Heavy wino-like neutralino dark matter annihilation into antiparticles|130
+2006PhRvD..74l7303C|Cheng, K;Usov, V|Strangelets accelerated by pulsars in galactic cosmic rays|12
+2005GMS...155..301B|Bobik, P;Boschini, M;Grandi, D;Gervasi, M;Micelotta, E;Rancoita, P|A Back-Tracing Code to Study the Magnetosphere Transmission Function for Primary Cosmic Rays|5
+2005JCAP...08..006B|Bringmann, T|High-energy cosmic antiprotons from Kaluza Klein dark matter|26
+2005JPhG...31S.833M|Madsen, J|Cosmic ray strangelets|10
+2005NIMPB.234..321A|Aguilar, M;Alcaraz, J;Allaby, J;Alpat, B;Ambrosi, G;Anderhub, H;Ao, L;Arefiev, A;Azzarello, P;Babucci, E;Baldini, L;Basile, M;Barancourt, D;Barao, F;Barbier, G;Barreira, G;Battiston, R;Becker, R;Becker, U;Bellagamba, L;Bene, P;Berdugo, J;Berges, P;Bertucci, B;Biland, A;Bizzaglia, S;Blasko, S;Boella, G;Boschini, M;Bourquin, M;Brocco, L;Bruni, G;Buenerd, M;Burger, J;Burger, W;Cai, X;Camps, C;Cannarsa, P;Capell, M;Carosi, G;Casadei, D;Casaus, J;Castellini, G;Cecchi, C;Chang, Y;Chen, H;Chen, H;Chen, Z;Chernoplekov, N;Chiueh, T;Cho, K;Choi, M;Choi, Y;Chuang, Y;Cindolo, F;Commichau, V;Contin, A;Cortina-Gil, E;Cristinziani, M;da Cunha, J;Dai, T;Delgado, C;Demirkoz, B;Deus, J;Dinu, N;Djambazov, L;D'Antone, I;Dong, Z;Emonet, P;Engelberg, J;Eppling, F;Eronen, T;Esposito, G;Extermann, P;Favier, J;Fiandrini, E;Fisher, P;Fluegge, G;Fouque, N;Galaktionov, Y;Gervasi, M;Giusti, P;Grandi, D;Grimm, O;Gu, W;Hangarter, K;Hasan, A;Henning, R;Hermel, V;Hofer, H;Huang, M;Hungerford, W;Ionica, M;Ionica, R;Jongmanns, M;Karlamaa, K;Karpinski, W;Kenney, G;Kenny, J;Kim, D;Kim, G;Kim, K;Kim, M;Klimentov, A;Kossakowski, R;Koutsenko, V;Kraeber, M;Laborie, G;Laitinen, T;Lamanna, G;Lanciotti, E;Laurenti, G;Lebedev, A;Lechanoine-Leluc, C;Lee, M;Lee, S;Levi, G;Levtchenko, P;Liu, C;Liu, H;Lopes, I;Lu, G;Lu, Y;Lubelsmeyer, K;Luckey, D;Lustermann, W;Mana, C;Margotti, A;Mayet, F;McNeil, R;Meillon, B;Menichelli, M;Mihul, A;Monreal, B;Mourao, A;Mujunen, A;Palmonari, F;Papi, A;Park, H;Park, W;Pauluzzi, M;Pauss, F;Perrin, E;Pesci, A;Pevsner, A;Pimenta, M;Plyaskin, V;Pojidaev, V;Pohl, M;Postolache, V;Produit, N;Rancoita, P;Rapin, D;Raupach, F;Ren, D;Ren, Z;Ribordy, M;Richeux, J;Riihonen, E;Ritakari, J;Ro, S;Roeser, U;Rossin, C;Sagdeev, R;Santos, D;Sartorelli, G;Sbarra, C;Schael, S;Schultz von Dratzig, A;Schwering, G;Scolieri, G;Seo, E;Shin, J;Shoumilov, E;Shoutko, V;Siedling, R;Son, D;Song, T;Steuer, M;Sun, G;Suter, H;Tang, X;Ting, S;Ting, S;Tornikoski, M;Torsti, J;Trumper, J;Ulbricht, J;Urpo, S;Valtonen, E;Vandenhirtz, J;Velcea, F;Velikhov, E;Verlaat, B;Vetlitsky, I;Vezzu, F;Vialle, J;Viertel, G;Vite, D;von Gunten, H;Waldmeier Wicki, S;Wallraff, W;Wang, B;Wang, J;Wang, Y;Wiik, K;Williams, C;Wu, S;Xia, P;Yan, J;Yan, L;Yang, C;Yang, J;Yang, M;Ye, S;Yeh, P;Xu, Z;Zhang, H;Zhang, Z;Zhao, D;Zhu, G;Zhu, W;Zhuang, H;Zichichi, A;Zimmermann, B;Zuccon, P|A study of cosmic ray secondaries induced by the Mir space station using AMS-01|3
+2005PhRvD..71a4026M|Madsen, J|Strangelet propagation and cosmic ray flux|85
+2005PhRvD..71h3503H|Hooper, D;Silk, J|Searching for dark matter with future cosmic positron experiments|107
+2004A&A...424..765V|Valle, G|Gamma ray signatures from Galactic neutralino annihilation|3
+2004EPJC...33S.975S|Sapinski, M|Indirect dark matter search with AMS-02|2
+2004NIMPA.535..134B|Barao, F|AMS-Alpha Magnetic Spectrometer on the International Space Station|31
+2003PhDT.......220C|Casadei, D|Direct measurement of galactic cosmic ray fluxed with the orbital detector AMS-02|1
+2002A&A...390..751H|Heinz, S;Sunyaev, R|Cosmic rays from microquasars: A narrow component to the CR spectrum?|157
+2002JPhG...28.1737M|Madsen, J|Colour-flavour locked strangelets and their detection|33
+2002NIMPA.491...98T|This Paper Is Dedicated To The Memory Of Johannes `Jos'kuipers,;Anderhub, H;Bates, J;Batzner, D;Baumgartner, S;Biland, A;Camps, C;Capell, M;Commichau, V;Djambazov, L;Fanchiang, Y;Flugge, G;Fritschi, M;Grimm, O;Hangarter, K;Hofer, H;Horisberger, U;Kan, R;Kastli, W;Kenney, G;Kim, G;Kim, K;Koutsenko, V;Kraber, M;Kuipers, J;Lebedev, A;Lee, M;Lee, S;Lewis, R;Lustermann, W;Pauss, F;Rauber, T;Ren, D;Ren, Z;Roser, U;Son, D;Ting, S;Tiwari, A;Viertel, G;von Gunten, H;Wicki, S;Wang, T;Yang, J;Zimmermann, B|Design and construction of the prototype synchrotron radiation detector|2
+2000AIPC..516..335B|Becker, U;AMS Collaboration|AMS-01: First flight, first results; future AMS-02|3

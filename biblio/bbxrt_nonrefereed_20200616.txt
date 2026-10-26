@@ -1,0 +1,85 @@
+2004HEAD....8.0429P|Perlman, E;Madejski, G;Daugherty, T;Andersson, K;Georganopoulos, M;Krolik, J;Rector, T;Stocke, J;Padovani, P;Koratkar, A;Wagner, S;Aller, M;Aller, H;Allen, M|Intrinsic Curvature in the X-ray Spectra of BL Lac Objects|0
+2003AAS...20314605P|Perlman, E;Daugherty, T;Andersson, K;Madejski, G;Krolik, J;Rector, T;Stocke, J;Padovani, P;Koratkar, A;Aller, M;Aller, H;Wagner, S;Allen, M|BL Lac X-ray Spectra: Simpler than we thought|0
+2002SPIE.4496...54S|Soong, Y;Chan, K;Serlemitsos, P|Recent advance in segmented thin-foil x-ray optics|2
+2002hrxs.confE..20K|Kahn, S|Astrophysical X-Ray Spectroscopy: Then, Then Again, and Now|0
+2000SPIE.4138..134B|Bergner, H;Cohen, L;Schattenburg, M;Monnelly, G|Precision assembly station for high-resolution segmented optics|1
+1998nasa.rept.....A|Audley, M|A Broad-band Spectral and Timing Study of the X-Ray Binary System Centaurus X-3|0
+1997rxte.prop20003C|Corcoran, M|Monitoring the Hard X-Ray Emission from Eta Carinae|0
+1997yCat..20960303W|Weaver, K;Arnaud, K;Boldt, E;Christian, D;Corcoran, M;Holt, S;Jahoda, K;Kelley, R;Marshall, F;Mushotzky, R;Petre, R;Rawley, G;Serlemitsos, P;Schlegel, E;Smale, A;Swank, J;Szymkowiak, A|VizieR Online Data Catalog: Calibrating Broad Band X-ray Telescope (Weaver+ 1995)|0
+1996ssr..conf..357P|Petre, R|X-ray spectroscopy of supernova remnants.|0
+1995AAS...187.5013Y|Yaqoob, T;Edelson, R;Weaver, K;Warwick, R;Mushotzky, R;Serlemistos, P;Holt, S|The Iron K Line Profile in NGC 4151 and the Evidence for a Relativistic Accretion Disk|0
+1995AAS...187.8210S|Swank, J;Christian, D;Smale, A|X-ray Observations of X2127+119 in the Metal-poor Globular Cluster M15: an X-ray Measure of Metallicity?|1
+1995AAS...18711104S|Schlegel, E;MacKenzie, M;Mushotzky, R|BBXRT Spectra of the Clusters A262 and A496|0
+1995ASSL..203..139E|Heasarc Team|The HEASARC facility|0
+1995SPIE.2515...64S|Soong, Y;Jalota, L;Serlemitsos, P|Conical thin foil x-ray mirror fabrication via surface replication|5
+1994AAS...184.1308K|Kriss, G|Free-Free Radiation Cannot Make the UV/Soft-X-Ray Excess in AGN|4
+1994AAS...184.5910W|Weaver, K;Holt, S;Yaqoob, T;ASUKA Team|New X-ray Spectral Data of NGC 4151 observed with Asuka|1
+1994AAS...18510204S|Smale, A;Angelini, L;White, N;Mitsuda, K;Dotani, T|Low-Energy Line Emission in Cygnus X--2: a Study with ASCA, BBXRT and the Einstein SSS|6
+1994AIPC..308..119S|Schlegel, E|The BBXRT Observation of the Black Hole Candidate LMC X-1|2
+1994nhxr.conf..415C|Corbet, R;Smale, A|ASCA and BBXRT Observations of the 7 Second X-ray Pulsator 1E2259+586|0
+1994nhxr.conf..417K|Kelley, R;Audley, M|The BBXRT Observation of Cen X-3|0
+1993AAS...182.0214P|Petre, R;Serlemitsos, P;Corcoran, M;Marshall, F;Jahoda, K|Spatially Resolved X-Ray Spectroscopy of Puppis A|0
+1993AAS...182.0707Z|Zhang, W;Swank, J|BBXRT Observation of MX0836-42|0
+1993AAS...182.1907S|Szymkowiak, A|BBXRT Observations of Fe Lines in CAS A|0
+1993AAS...182.6907A|Audley, M;Kelley, R|The BBXRT Observation of Centaurus X-3|0
+1993AAS...183.3003W|Weaver, K|Seyfert Galaxy Fe Kalpha Lines and the Weakening Accretion Disk Connection|0
+1993AAS...18310107R|Rho, J;Petre, R|The diffuse X-ray emission of the supernova remnant CTB 109|4
+1993bapt.conf.....S|Serlemitsos, P;Shrader, S|BBXRT : a preview to astronomical x-ray spectroscopy in the 90's : journal papers and selected conference contributions|0
+1993egte.conf..101L|Loewenstein, M;Serlemitsos, P|The hot interstellar medium in NGC 1399|0
+1993insg.reptQ....H|Halpern, J|A ROSAT high resolution X ray image of NGC 1068|0
+1993uxrs.conf..424P|Petre, R;Serlemitsos, P;Marshall, F;Jahoda, K;Boldt, E;Holt, S;Kelley, R;Swank, J;Szymkowiak, A;Arnaud, K|Highlights of the BBXRT mission.|5
+1992AAS...181.2001M|Marshall, F;Boldt, E;Holt, S;Jahoda, K;Kelley, R;Mushotzky, R;Petre, R;Serlemitsos, P;Swank, J;Szymkowiak, A;Smale, A;Weaver, K|BBXRT Observation of the Black Hole Candidate Cygnus X-1|0
+1992AAS...181.2003S|Smale, A|No detection of the iron line in Cygnus X--3 by BBXRT|0
+1992AAS...181.3204C|Christian, D;Swank, J|Spectral and Temporal Behavior of Low Mass X-ray Binaries Observed by the Einstein SSS and MPC, and the Broad Band X-ray Telescope|0
+1992AAS...181.3207S|Soong, Y|Iron Line Observation of VELA X-1 with BBXRT Instrument|0
+1992AAS...181.5203M|Madejski, G;Kallman, T;Arnaud, K;Boldt, E;Done, C;Holt, S;Jahoda, K;Kelley, R;Marshall, F;Mushotzky, R;Petre, R;Serlemitsos, P;Smale, A;Swank, J;Szymkowiak, A;Turner, T;Weaver, K|X-ray spectrum of BL Lac object PKS2155-304|1
+1992AAS...181.5604R|Rho, J;Petre, R|ROSAT and BBXRT observations of IC443|0
+1992AAS...181.9806W|Weaver, K;Wilson, A;Elvis, M;Mushotzky, R;Briel, U|The Origin of the Soft X-ray Excess in the Seyfert 2 Galaxy NGC 2110|0
+1992AIPC..254..192W|Weaver, K;Arnaud, K;Mushotzky, R;Serlemitsos, P;Marshall, F;Petre, R;Jahoda, K;Bolt, E;Holt, S;Swank, J;Szymkowiak, A;Kelley, R;Smale, A;Done, C|BBXRT observations of NGC4151: Fe K line diagnostics|0
+1992AIPC..254..524H|Halpern, J|A ROSAT high resolution X-ray image of NGC 1068|5
+1992BAAS...24R1152M|Marshall, F;Boldt, E;Holt, S;Jahoda, K;Kelley, R;Mushotzky, R;Petre, R;Serlemitsos, P;Swank, J;Szymkowiak, A;Smale, A;Weaver, K|BBXRT observation of the black hole candidate Cygnus X-1.|0
+1992HiA.....9..229P|Petre, R;Serlemitsos, J;Marshall, F;Jahoda, K;Boldt, E;Holt, S;Mushotzky, R;Swank, J;Szymkowiak, A;Kelley, R;Smale, A;Arnold, K;Weaver, K|BBXRT observation of supernova remnants|0
+1992SPIE.1546...72P|Petre, R;Serlemitsos, P;Marshall, F;Jahoda, K;Kunieda, H|In-flight performance of the Broad-Band X-Ray Telescope|5
+1992fxap.book.....T|Tanaka, Y;Koyama, K|Frontiers of X-ray astronomy. Proceedings.|0
+1992fxra.conf..129S|Smale, A;Serlemitsos, P;Marshall, F;Petre, R;Jahoda, K;Boldt, E;Holt, S;Mushotzky, R;Swank, J;Szymkowiak, A|BBXRT Spectroscopy of the X-Ray Binaries Cygnus X-2 and XB0614+09|0
+1992fxra.conf..221S|Serlemitsos, P;Marshall, F;Petre, R;Jahoda, K;Boldt, E;Holt, S;Mushotzky, R;Swank, J;Szymkowiak, A;Kelley, R;Loewenstein, M|First Results from BBXRT|0
+1992fxra.conf..233M|Marshall, F;Boldt, E;Holt, S;Jahoda, K;Kelley, R;Mushotzky, R;Petre, R;Serlemitsos, P;Smale, A;Swank, J;Szymkowiak, A;Weaver, K|BBXRT Observations of AGN|0
+1992fxra.conf..481A|Arnaud, K;Serlemitsos, P;Marshall, F;Petre, R;Jahoda, K;Boldt, E;Holt, S;Mushotzky, R;Swank, J;Szymkowiak, A|BBXRT Observations of the Perseus Clusters|0
+1992fxra.conf..535T|Turner, T;BBXRT Science Team|Two New Soft Excess Results: A BBXRT Observation of MKN335 and a ROSAT Observation of MKN841|0
+1992fxra.conf..583M|Madejski, G;Serlemitsos, P;Marshall, F;Kallman, T;Mushotzky, R;Turner, J;Done, C;Arnaud, K;Boldt, E;Holt, S;Jahoda, K;Kelley, R;Petre, R;Smale, A;Swank, J;Szymkowiak, A;Weaver, K|BBXRT Observations of BL Lac Objects PKS 2155-304 and H1426+428|0
+1992sesd.rept.....T|Turner, T;Nandra, K;Madejski, G;Marshall, F;Mushotzky, R;Petre, R;Pounds, K;Smale, A;Serlemitsos, P;Weaver, K|BBXRT and GINGA observations of the Seyfert 1 galaxy MRK 335|0
+1992xbp..book.....B|Barcons, X;Fabian, A|The X-ray background. Proceedings.|0
+1992xrb..work..240J|Jahoda, K;Serlemitsos, P;Arnaud, K;Boldt, E;Holt, S;Marshall, F;Mushotzky, R;Petre, R;Sanders, W;Smale, A;Swank, J;Szymkowiak, A;Weaver, K;Yamauchi, S|BBXRT Observations of DXRB - First Results|12
+1991BAAS...23..841J|Jahoda, K|BBXRT Observations of Galactic Sources|0
+1991BAAS...23..841M|Marshall, F|BBXRT Observations of NGC 1068, PKS 2155-304, and Mkn 335|0
+1991BAAS...23..841P|Petre, R|BBXRT Observations of Clusters and Elliptical Galaxies|1
+1991BAAS...23..901K|Kelley, R|Phase-Resolved X-Ray Spectra of Cen X-3 Obtained with BBXRT|0
+1991BAAS...23..932P|Petre, R|BBXRT Observations of M82, NGC253, and M81|0
+1991BAAS...23..958M|Marshall, F|BBXRT Observations of Active Galaxies|1
+1991BAAS...23.1263C|Corcoran, M;Swank, J|BBXRT Observations of Hot Stars|0
+1991BAAS...23.1336M|Miyaji, T;BBXRT Science Team|BBXRT Observation of Abell 2256|2
+1991BAAS...23.1400M|Mushotzky, R|BBXRT Observations of Seyferts, BL Lacs and Quasars|0
+1991BAAS...23.1464P|Petre, R|BBXRT Observations of the Supernova Remnant IC 443|0
+1991BAAS...23.1464S|Szymkowiak, A|BBXRT observations of Cas A.|0
+1991BAAS...23Q.945S|Smale, A|BBXRT Spectroscopy of the X-Ray Binaries Cygnus X-2 and X0614 + 09|0
+1991BAAS...23Q.958S|Serlemitsos, P|First Results from BBXRT|0
+1991BAAS...23Q1319S|Smale, A|BBXRT Observations of X-Ray Binaries|0
+1991BAAS...23Q1429M|Marshall, F;Netzer, H|BBXRT Observation of the Seyfert 2 Galaxy NGC 1068|1
+1991BAAS...23R.928M|Madejski, G;BBXRT Team|BBXRT Observations of BL Lac Object PKS 2155-304|0
+1991BAAS...23R1319S|Smale, K|The BBXRT Spectrum of X0748-676|0
+1991BAAS...23R1464S|Szymkowiak, A|BBXRT Observations of Cas A|0
+1991heaa.conf..297M|Mushotzky, R|X-Ray Emission from Active Galactic Nuclei|1
+1990AIPC..207..178S|Swank, J|Interactive stars: Normal and compact stars in close binaries|2
+1990ASSL..166..294S|Serlemitsos, P|The Broad Band X-Ray Telescope - BBXRT on ASTRO-1|0
+1990IAUC.4973....1S|Schlegel, E;Green, D|Coordinated Ground Observations to Support ASTRO-1|0
+1990SPIE.1340.....M|Melugin, R;Pruitt, G|Cryogenic Optical Systems and Instruments IV : 10-12 July 1990, San Diego, California|0
+1990SPIE.1340..325C|Cygnarowicz, T;Schein, M;Lindauer, D;Scarlotti, R;Pederson, R|Flight-qualified solid argon cooler for the BBXRT instrument|0
+1990fmet.symp..341A|Azzolini, J;McGlew, D|Two Axis Pointing System (TAPS) attitude acquisition, determination, and control|0
+1990iue..prop.3855S|Sun, W|Coordinated Observations of Four AGNs observed by BBXRT|0
+1990nasa.reptS.....||BBXRT clip: The Broad Band X-ray Telescope|0
+1989ESASP.296..515M|Marshall, F|BBXRT Observations of X-Ray Binaries|0
+1989ESASP.296..857M|Mushotzky, R|Signposts to the Future / Active Galactic Nuclei|1
+1989SPIE.1111..307H|Hagopian, J;Northcutt, W|Broad band x-ray telescope displacement monitor system testing and calibration|0
+1988ESASP.281b..77P|Pellerin, C;Stachnik, R|NASA future missions|0
+1986SPIE..640....2H|Harvey, J|Diffraction-limited performance of grazing incidence optical systems|1
+1981xras.nasa..441S|Serlemitsos, P|Broad band X-ray telescope (BBXRT)|10

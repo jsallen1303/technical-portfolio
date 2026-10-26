@@ -1,0 +1,31 @@
+ {
+      "title": "Mars Observer",
+     "name": "Mars Observer",
+     "decade" : 1990,
+      "alttext": "Artistic concept of Mars Observer orbiting Mars",
+      "imagesize": 300,
+      "imageurl": "/Images/marsobs/marsobs_1_small.gif",
+     "descript": "<p><b><font size=\"+2\">T</font>he Mars Observer</b> mission spacecraft was primarily designed for exploring Mars and the Martian environment.  It was launched on September 25, 1992 from Kennedy Space Center aboard a Titan III rocket. The spacecraft was lost in the vicinity of Mars after (most probably) an explosion of the fuel and oxidizer elements on August 21, 1993 when the spacecraft began its maneuvering sequence for Martian orbital insertion.</p>",
+ "lifetime": "Sep 25 1992&ndash;Aug 21 1993",
+      "features": [ "In addition to its planetary payload, Mars Observer carried some high energy astrophysics instruments, including a gamma ray spectrometer" ],
+ "instruments": [
+    {
+      "name": "Gamma Ray Spectrometer (GRS)",
+      "energy": "0.5&ndash;2.0 MeV",
+      "energy_resolution": "2.7 keV @ 1.333 MeV",
+      "temporal_resolution": "16 ms in burst trigger mode",
+      "descript": "While intended for mapping the Martian surface composition from orbit, the GRS was also capable of suspending this function in order to make detailed observations of cosmic gamma-ray bursts. The n-type Ge detector was 5.5 cm in diameter and length. Passive cooling kept the crystal at less that 100K. A combined anti-coincidence shield and neutron system surrounding the Ge crystal rejected cosmic-ray and neutron events when a burst mode had been triggered." 
+    }
+  ],
+
+      "highlights": [
+          "The Mars Observer spacecraft did very little science during its cruise phase to Mars to save on costs, but approximately two months of total data from the gamma ray spectrometer were successfully collected, including spectral observations of one burst, GRB 930706"
+      ],
+      "archive": "",
+  "navigation": [
+    {
+      "url": "images/marsobs_images.html",
+      "text": "Gallery"
+    }
+  ]
+ }

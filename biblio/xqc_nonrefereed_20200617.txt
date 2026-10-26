@@ -1,0 +1,16 @@
+2018AAS...23133106W|Wulf, D;Eckart, M;Galeazzi, M;Jaeckel, F;Kelley, R;Kilbourne, C;McCammon, D;Morgan, K;Porter, F;Szymkowiak, A|High Spectral Resolution Observation of the Soft Diffuse X-ray Background in the Direction of the Galactic Anti-Center|0
+2017apra.prop..128M|McCammon, D|Cosmic X-ray Physics: Including a Sounding Rocket Investigation of Galactic X-ray Emission and Detector Development|0
+2016AAS...22714729O|O'Neill, L;X-ray Astrophysics Group at the University of Wisconsin-Madison|Data Collection and Recording on the Wisconsin/GSFC X-ray Quantum Calorimeter|0
+2016AAS...22744308G|Goldfinger, D;XQC Collaboration|Searches for Decaying Sterile Neutrinos with the X-Ray Quantum Calorimeter Sounding Rocket|0
+2014HEAD...1410403M|Morgan, K;Jaeckel, F;McCammon, D;Wulf, D;Szymkowiak, A;Betancourt-Martinez, G;Uprety, Y|Studying the Hot ISM with the X-ray Quantum Calorimeter Sounding Rocket|0
+2014HEAD...1430301M|McCammon, D|Charge Exchange in X-ray Astronomy|0
+2011apra.prop..152M|McCammon, D|Cosmic X-ray Physics: A Suborbital Investigation of the Diffuse X-ray Background Including Instrumentation Development|0
+2009AAS...21347530C|Crowder, S;Barger, K;Brandl, D;Eckart, M;Galeazzi, M;Kelley, R;Kilbourne, C;Kripps, K;McCammon, D;Porter, F;Szymkowiak, A|Preliminary Results from the Fourth Flight of the X-ray Quantum Calorimeter|0
+2009aaxo.conf..252M|McCammon, D|The Diffuse Soft X-ray Sky|0
+2004cosp...35..796R|Raymond, J;Wargelin, B|Limits to Suprathermal Particle Fluxes in the ISM|0
+2002AAS...201.7907R|Rocks, L;Liu, D;McCammon, D;Sanders, W;Vaillancourt, J;Galeazzi, M;Figueroa-Feliciano, T;Kelley, R;Mushotzky, R;Porter, F;Stahle, C;Szymkowiak, A|An Upper Limit on the Redshifted Intergalactic Oxygen Emission|0
+2000AAS...19513504M|McCammon, D;Almy, R;Apodaca, E;Bergmann, W;Deiker, S;Galeazzi, M;Lesser, A;Sanders, W;Figueroa, E;Kelley, R;Porter, F;Stahle, C;Szymkowiak, A|High Spectral Resolution Observations of the Soft X-ray Diffuse Background with Thermal Detectors|2
+1999AAS...19410901A|Apodaca, E;Almy, M;Galeassi, M;McCammon, D;Sanders, W;Tiest, W;Figueroa, E;Porter, F;Stahle, C;Szymkowiak, A|Initial X-Ray Calorimter Results from a recent Sounding Rocket Flight|0
+1994SPIE.2280..362C|Cui, W;Almy, R;Deiker, S;McCammon, D;Morgenthaler, J;Sanders, W;Kelley, R;Marshall, F;Moseley, S;Stahle, C;Szymkowiak, A|Sounding rocket experiment employing microcalorimeter detectors to obtain a high-resolution spectrum of the diffuse x-ray background|5
+1992ESASP.356...13M|Moseley, S;Kelley, R;Stahle, C;Szymkowiak, A;Juda, M;McCammon, D;Zhang, J|X-ray microcalorimeters - principles and performance.|0
+1990BAAS...22R.889J|Juda, M;Cui, W;McCammon, D;Plucinsky, P;Snedecker, C;Zhang, J;Kelley, R;Madejski, G;Moseley, H;Szymkowiak, A|X-Ray Quantum Calorimeter (XOC): A Sounding Rocket Instrument for High Spectral Resolution Studies of the ISM|0

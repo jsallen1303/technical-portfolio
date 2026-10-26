@@ -1,0 +1,19 @@
+1997afs..book.....D|Davies, J|Astronomy from space : the design and operation orbiting observatories|7
+1994stp..symp....6E|Elphic, R;Weiss, L;Thomsen, M;McComas, D;Bame, S|Observations of cold magnetospheric ions at geosynchronous orbit during times of high activity|0
+1975ICRC....2..748L|Lheureux, J;Meyer, P|On the Quiet-Time Increases of Low Energy Cosmic Ray Electrons|1
+1975NASSP7601.....J|Jackson, J;Vette, J|The Orbiting Geophysical Observatories. NASA SP-7601|0
+1975aero.reptQ....V|Vorpahl, J|Solar X-ray studies|0
+1975cait.reptQ....M|Moore, R|Analysis of OGO-5 and OSO-7 X-ray data|0
+1975cuil.rept.....M|Meyer, P|OGO-5 experiment E-09 cosmic ray electrons|0
+1975sast.nasa...34.||X-ray and gamma-ray astronomy|0
+1975sast.nasa...92.||Solar and terrestrial physics|0
+1974colo.rept.....T|Thomas, G|Analysis of data from satellite experiments|0
+1974sowi.conf...33N|Neugebauer, M|Relation of solar wind fluctuations to differential flow between protons and alphas.|1
+1974sowi.conf..180F|Formisano, V;Hedgecock, P;Russell, C;Means, J|Instabilities connected with neutral sheets in the solar wind.|0
+1974sowi.conf..321B|Blamont, J|Variation of the solar wind flux with heliographic latitude, deduced from its interaction with interplanetary hydrogen.|1
+1974sowi.conf..373N|Neugebauer, M|The enhancement of solar wind fluctuations with scale size near the proton gyroradius.|0
+1974stp.....1..122F|Fahr, H;Schlichter, H|Lyman-alpha photometer results of the satellite DIAL|0
+1974stp.....2...16O|Ondoh, T|Magnetospheric substorm associated with SC|0
+1974stp.....2..116I|Ivanova, T;Sosnovets, E;Tverskaia, L|Dynamics of plasma sheet and dayside polar cusp according to solar proton measurements in polar regions|0
+1970IAUS...37..297B|Bleeker, J;Burger, J;Deerenberg, A;van de Hulst, H;Scheepmaker, A;Swanenburg, B;Tanaka, Y|Search for Galactic γ-RAYS with Energies Greater than 500 MeV on Board OGO-5|1
+1970IAUS...37..300H|Hutchinson, G;Pearce, A;Ramsden, D;Wills, R|Spark-Chamber Observation of Galactic γ-Radiation|2

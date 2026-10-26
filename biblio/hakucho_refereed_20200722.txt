@@ -1,0 +1,54 @@
+1998AN....319..159T|Takahashi, T;Inoue, H;Ogawara, Y|Astro-E Mission and the X-ray survey|6
+1996ApJ...462..754B|Borrel, V;Bouchet, L;Jourdain, E;Roques, J;Vargas, M;Goldwurm, A;Denis, M;Paul, J;Sunyaev, R;Churazov, E;Gilfanov, M;Grebenev, S;Pavlinsky, M;Dyachkov, A;Khavenson, N;Chulkov, I|SIGMA Detection of Hard X-Ray Emission from the Terzan 1 Globular Cluster|13
+1995AdSpR..16c..95P|Pavlinsky, M;Grebenev, S;Finogenov, A;Sunyaev, R|The X-ray burster SLX1732-304 in the globular cluster terzan-1: observations with the ART-P telescope on board the GRANAT observatory|0
+1993PASJ...45..801A|Asai, K;Dotani, T;Nagase, F;Mitsuda, K;Kitamoto, S;Makishima, K;Takeshima, T;Kawabata, K|GINGA Observations of GX 3+1: Long-Term Variabilities, Branches, and X-Ray Bursts|12
+1989PASJ...41....1N|Nagase, F|Accretion-powered X-ray pulsars.|572
+1987AJ.....93..877D|Deeter, J;Boynton, P;Shibazaki, N;Hayakawa, S;Nagase, F;Sato, N|Pulse-Timing Study of VELA X-1 Based on Hakucho and TENMA Data: 1980-1984|36
+1987PhT....40l..26O|Oda, M|What do we learn from space? Space science in Japan|0
+1986Ap&SS.118...67O|Oda, M|Space Astronomy in Japan|0
+1986Ap&SS.118..317T|Tawara, Y;Hayakawa, S;Kunieda, H;Wang, D|X-Ray Spectra of Various Bursts from the Rapid Burster|0
+1986ApJ...304..241S|Sato, N;Nagase, F;Kawai, N;Kelley, R;Rappaport, S;White, N|Orbital Elements of the Binary X-Ray Pulsar GX 301-2|70
+1986NYASA.470..163T|Tanaka, Y|Recent results from the Japanese X-ray astronomy satellites.|0
+1985AdSpR...5c.105K|Kunieda, H|The rapid burster activity observed from tenma|0
+1985PASJ...37..647K|Kawai, N;Makishima, K;Matsuoka, M;Mitani, K;Murakami, T;Nagase, F|Hakucho observation of the pulse period of GX 301-2 and confirmation of the orbital parameters.|6
+1985PhR...121..317H|Hayakawa, S|X-rays from accreting neutron stars|47
+1984AdSpR...3j..67H|Hayakawa, S;Hirano, T;Kunieda, H;Nagase, F|Cyg X-2 - An accreting neutron star|3
+1984Ap&SS.103..345M|Mitani, K;Matsuoka, M;Makishima, K;Inoue, H|Variations of the Pulse Profile and the X-Ray Intensity of GX301-2 = 4U1223-62|12
+1984ApJ...276L..41T|Tawara, Y;Kii, T;Hayakawa, S;Kunieda, H;Masai, K;Nagase, F;Inoue, H;Koyama, K;Makino, F;Makishima, K;Matsuoka, M;Murakami, T;Oda, M;Ogawara, Y;Ohashi, T;Shibazaki, N;Tanaka, Y;Miyamoto, S;Tsunemi, H;Yamashita, K;Kondo, I|A very long X-ray burst with a precursor from XB 1715-321.|79
+1984ApJ...282..709L|Lieu, R;Venkatesan, D;Mitani, K|A study of the spectra and pulse profiles of Centaurus X-3 from HAKUCHO.|3
+1984ApJ...283..774M|Matsuoka, M;Mitsuda, K;Ohashi, T;Inoue, H;Koyama, K;Makino, F;Makishima, K;Murakami, T;Oda, M;Ogawara, Y;Shibazaki, N;Tanaka, Y;Tsuno, K;Miyamoto, S;Tsunemi, H;Yamashita, K;Hayakawa, S;Kunieda, H;Masai, K;Nagase, F;Tawara, Y;Kondo, I;Cominsky, L;Jernigan, J;Lawrence, A;Lewin, W;Pedersen, H;Motch, C;van Paradijs, J|Delays of optical bursts in simultaneous optical and X-ray observations of MXB 1636-53.|23
+1984ApJ...285..712M|Maejima, Y;Makishima, K;Matsuoka, M;Ogawara, Y;Oda, M;Tawara, Y;Doi, K|Short-term X-ray variability of GX 339-4.|70
+1984PASJ...36..215K|Kunieda, H;Tawara, Y;Hayakawa, S;Masai, K;Inoue, H;Koyama, K;Makino, F;Makishima, K;Matsuoka, M;Murakami, T;Oda, M;Ogawara, Y;Ohashi, T;Shibazaki, N;Tanaka, Y|New mode of activity of MXB 1730-335.|32
+1984PASJ...36..667N|Nagase, F;Hayakawa, S;Kii, T;Sato, N;Ikegami, T;Kawai, N;Makishima, K;Matsuoka, M;Mitani, K;Murakami, T;Oda, M;Ohashi, T;Tanaka, Y;Kitamoto, S|Pulse-period changes of X-ray pulsars measured with Hakucho and Tenma.|59
+1984PASJ...36..769H|Hirano, T;Hayakawa, S;Kunieda, H;Makino, F;Masai, K;Nagase, F;Yamashita, K|Energy spectra and time variations of the X-ray source Cygnus X-2.|30
+1984PASJ...36..861T|Tawara, Y;Hirano, T;Kii, T;Matsuoka, M;Murakami, T|Long X-ray burst from GX 17+2.|42
+1984SpFl...26..284S|Simpson, C|Tenma - Japan's X-ray satellite|0
+1983AZh....60.1148K|Kudryashov, A;Ergma, E|Thermonuclear flashes in the accreting envelopes of hot neutron stars.II. M=10 dexp(16), 10 dexp(18) g/sec.|0
+1983ApJ...264..563M|Murakami, T;Inoue, H;Kawai, N;Koyama, K;Makishima, K;Matsuoka, M;Oda, M;Ogawara, Y;Ohashi, T;Shibazaki, N;Tanaka, Y;Hayakawa, S;Kunieda, H;Makino, F;Masai, K;Nagase, F;Tawara, Y;Miyamoto, S;Tsunemi, H;Yamashita, K;Kondo, I|Observation of Centaurus X-3 by HAKUCHO.|15
+1983ApJ...267..310M|Makishima, K;Mitsuda, K;Inoue, H;Koyama, K;Matsuoka, M;Murakami, T;Oda, M;Ogawara, Y;Ohashi, T;Shibazaki, N;Tanaka, Y;Marshall, F;Hayakawa, S;Kunieda, H;Makino, F;Nagase, F;Tawara, Y;Miyamoto, S;Tsunemi, H;Tsuno, K;Yamashita, K;Kondo, I|Discovery of X-ray bursts from GX 3+1 (4U 1744-26).|38
+1983NewSc..97..896H|Henbest, N|Astronomy - the next space race.|0
+1983PASJ...35...47N|Nagase, F;Hayakawa, S;Makino, F;Sato, N;Makishima, K|Light curve and pulse profile of the X-ray pulsar VELA X-1.|29
+1983PASJ...35..531M|Murakami, T;Inoue, H;Koyama, K;Makishima, K;Matsuoka, M;Oda, M;Ogawara, Y;Ohashi, T;Makino, F;Shibazaki, N;Tanaka, Y;Hayakawa, S;Kunieda, H;Nagase, F;Masai, K;Tawara, Y;Miyamoto, S;Tsunemi, H;Yamashita, K;Kondo, I|Discovery of two new X-ray burst sources XB 1812-12 in Serpens and XB1940-04 in Aquila.|19
+1982AdSpR...2d.285M|Miyamoto, S|Japanese satellite programs in x-ray astronomy|0
+1982ApJ...255L..49M|Makishima, K;Inoue, H;Koyama, K;Matsuoka, M;Murakami, T;Oda, M;Ogawara, Y;Ohashi, T;Shibazaki, N;Tanaka, Y;Hayakawa, S;Kunieda, H;Makino, F;Masai, K;Nagase, F;Tawara, Y;Miyamoto, S;Tsunemi, H;Yamashita, K;Kondo, I|Hakucho observations of X-ray bursts from 4U 1702-42.|10
+1982ApJ...258..254O|Ohashi, T;Inoue, H;Koyama, K;Makishima, K;Matsuoka, M;Murakami, T;Oda, M;Ogawara, Y;Shibazaki, N;Tanaka, T;Kondo, I;Hayakawa, S;Kunieda, H;Makino, F;Masai, K;Nagase, F;Tawara, Y;Miyamoto, S;Tsunemi, H;Yamashita, K|Properties of X-ray bursts from MXB 1636-53.|40
+1982ApJ...263..814N|Nagase, F;Hayakawa, S;Kunieda, H;Makino, F;Masai, K;Tawara, Y;Inoue, H;Kawai, N;Koyama, K;Makishima, K;Matsuoka, M;Murakami, T;Oda, M;Ogawara, Y;Ohashi, T;Shibazaki, N;Tanaka, Y;Miyamoto, S;Tsunemi, H;Yamashita, K;Kondo, I|Observations of an outburst of the transient X-ray pulsar A 0535+26 in 1980.|87
+1982Natur.295..675O|Ogawara, Y;Mitsuda, K;Masai, K;Vallerga, J;Cominsky, L;Grunsfeld, J;Kruper, J;Ricker, G|X-ray observations of the 1980 Cygnus X-1 `high state'|47
+1982NewSc..93..720H|Henbest, N|The Universe in X-rays.|0
+1981AdSpR...1m.145H|Hayakawa, S|A model of the rapid burster|1
+1981ApJ...244L..73K|Kemp, J;Barbour, M;McBirney, R|The 1980 June X-ray high state of CYG X-1 : optical changes.|12
+1981ApJ...244L..79M|Makishima, K;Inoue, H;Koyama, K;Matsuoka, M;Murakami, T;Oda, M;Ogawara, Y;Ohashi, T;Shibazaki, N;Tanaka, Y;Hayakawa, S;Kunieda, H;Makino, F;Masai, K;Nagase, F;Tawara, Y;Miyamoto, S;Tsunemi, H;Yamashita, K;Kondo, I|Discovery of an X-ray burst source XB 1715-321.-32|17
+1981ApJ...247..628H|Hoshi, R|Masses of X-ray bursters and super-Eddington luminosities|22
+1981ApJ...247L..23M|Makishima, K;Ohashi, T;Inoue, H;Koyama, K;Matsuoka, M;Murakami, T;Oda, M;Ogawara, Y;Shibazaki, N;Tanaka, Y;Kondo, I;Hayakawa, S;Kunieda, H;Makino, F;Masai, K;Nagase, F;Tawara, Y;Miyamoto, S;Tsunemi, H;da Yamashita, K|Discovery of two new X-ray burst sources in the globular clusters Terzan 1 and Terzan 5.|57
+1981ApJ...250L..71I|Inoue, H;Koyama, K;Makishima, K;Matsuoka, M;Murakami, T;Oda, M;Ogawara, Y;Ohashi, T;Shibazaki, N;Tanaka, Y|X-ray burst sources near the galactic center and their burst peak luminosities.|52
+1981PASJ...33..205T|Tsunemi, H;Miyamoto, S;Yamashita, K;Inoue, H;Koyama, K;Makishima, K;Matsuoka, M;Murakami, T;Oda, M;Ogawara, Y;Ohashi, T;Shibazaki, N;Tanaka, Y;Kondo, I;Hayakawa, S;Kunieda, H;Makino, F;Masai, K;Nagase, F;Tawara, Y|A X-ray transient in the VELA X-1 region.|7
+1981SSI.....5..211K|Kondo, I;Inoue, H;Koyama, K;Makishima, K;Matsuoka, M;Murakami, T;Oda, M;Ogawara, Y;Ohashi, T;Shibazaki, N|Cosmic X-ray satellite 'Hakucho'|29
+1981SSRv...29..221H|Hayakawa, S|Galactic X-rays observed with X-ray astronomy satellite `Hakucho'|44
+1981SSRv...30..395N|Nagase, F|Time Variation of the Pulse Period of VELA-X-1|10
+1981SSRv...30..453H|Hayakawa, S|Highlights of results from HAKUCHO|5
+1980AcAau...7..957O|Oda, M|Cosmic X-ray satellite 'Hakucho'.|0
+1980ApJ...240L.137M|Matsuoka, M;Inoue, H;Koyama, K;Makishima, K;Murakami, T;Oda, M;Ogawara, Y;Ohashi, T;Shibazaki, N;Tanaka, Y;Kondo, I;Hayakawa, S;Kunieda, H;Makino, F;Masai, K;Nagase, F;Tawara, Y;Miyamoto, S;Tsunemi, H;Yamashita, K|Discovery of a large X-ray burst from an X-ray nova, Centaurus X-4.|62
+1980ApJ...240L.143M|Murakami, T;Inoue, H;Koyama, K;Makishima, K;Matsuoka, M;Oda, M;Ogawara, Y;Ohashi, T;Shibazaki, N;Tanaka, Y;Tawara, Y;Hayakawa, S;Kunieda, H;Makino, F;Masai, K;Nagase, F;Miyamoto, S;Tsunemi, H;Yamashita, K;Kondo, I|Properties of X-ray bursts from the X-ray transient 1608-522.|56
+1980ApJ...241..787B|Basinska, E;Lewin, W;Cominsky, L;van Paradijs, J;Marshall, F|The very long type II X-ray bursts from the rapid burster.|15
+1980Natur.283..358I|Inoue, H;Koyama, K;Makishima, K;Matsuoka, M;Murakami, T;Oda, M;Ogawara, Y;Ohashi, T;Shibazaki, N;Tanaka, Y|A new mode of X-ray bursts from MXB1730-335|34
+1980PASJ...32..543M|Murakami, T;Inoue, H;Koyama, K;Makishima, K;Matsuoka, M;Oda, M;Ogawara, Y;Ohashi, T;Shibazaki, N;Tanaka, Y;Hayakawa, S;Kunieda, H;Makino, F;Masai, K;Nagase, F;Tawara, Y;Miyamoto, S;Tsunemi, H;Yamashita, K;Kondo, I|Two successive X-ray bursts at ten-minute interval from 1608-522.|28

@@ -1,0 +1,31 @@
+{
+  "title": "The Mars 4 & 5 probes",
+  "name": "Mars 4 & 5",
+  "alttext": "photo of Mars 4 or 5 in the clean room",
+  "imagesize": 203,
+  "imageurl": "/Images/misc_missions/mars3_small.gif",
+    "descript": "<p><b><font size=\"+2\">M</font>ars 4</b> was launched by the USSR on 21 July 1973 and its twin, <b>Mars 5</b>, was launched 4 days later on 25 July. As Mars 4 approached the red planet on 10 February 1974, its retro-engine malfunctioned, placing it into a heliocentric orbit. However, in February 1974, the Mars 5 probe was put successfully into orbit around Mars, with apoapsis 32,560 km, periapsis 1760 km. The inclination of the orbit to the equator of the planet was 35 dgrees;. It took 24 hours 53 minutes to complete one orbit. Both probes contained identical sets of instruments intended to investigate the composition, structure, and properties of the Martian atmosphere and surface.</p>",
+      "decade": 1970,
+  "lifetime": "Jul 1973&ndash;early 1974",
+    "features": [
+	"Gamma-ray spectrometers for measuring geological composition of Martian surface"
+    ],
+    "instruments": [
+	{
+	    "name" : "Gamma-ray spectrometer",
+	    "energy" : "1&ndash;9 MeV",
+	    "descript" : "Mars 4 &amp; 5 both contained a 256-channel NaI scintillation gamma-ray spectrometer which was 63 &times; 63 mm, with charged particle rejection. The instrument was located on a boom away from the spacecraft body to reduce background noise. Its primary objective was to measure the spectral composition of Mars&rsquo; gamma-radiation. However, a series of measurements of the cosmic gamma-ray background were made during the flight from Earth to Mars."
+	}
+    ],
+    "highlights": [
+	"A series of measurements of the cosmic gamma-ray background were made during the flight from Earth to Mars. Six measurements sessions were performed at 61.2, 85.4, and 93.8 million miles from Earth. The Mars 4 & 5 gamma-ray spectrometers found an average cosmic gamma-radiation background flux density of 1.85 &times; 10<sup>-4</sup> quanta/m<sup>2</sup>/s",
+	"Mars 5 went on to be a great success in its primary studies of Mars, completing 22 orbits of the planet while collecting and transmitting data until 28 Feb 1974, when its transmitter failed."
+    ],
+  "archive": "",
+  "navigation": [
+    {
+      "url": "images/mars45_images.html",
+      "text": "Gallery"
+    }
+  ]
+}

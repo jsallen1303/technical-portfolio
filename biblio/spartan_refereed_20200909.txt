@@ -1,0 +1,6 @@
+1997ApJ...476..479C|Cruddace, R;Kowalski, M;Fritz, G;Snyder, W;Fenimore, E;Ulmer,;M. P.,|The Baryon Fraction in the Perseus Cluster: Results from Spartan 1|5
+1993ApJ...412..489K|Kowalski, M;Cruddace, R;Snyder, W;Fritz, G;Ulmer, M;Fenimore, E|SPARTAN 1 X-Ray Observations of the Perseus Cluster. III. The Distribution of Iron in the Intracluster Gas|25
+1990ApJ...365..460S|Snyder, W;Kowalski, M;Cruddace, R;Fritz, G;Middleditch, J;Fenimore, E;Ulmer, M;Majewski, S|SPARTAN 1 X-Ray Observations of the Perseus Cluster. II. The Distribution of Flux and Hardness Ratio Out to a Radius of 50 Arcminutes|16
+1988ApJ...330..130K|Kawai, N;Fenimore, E;Middleditch, J;Cruddace, R;Fritz, G;Snyder, W;Ulmer, M|X-Ray Observations of the Galactic Center by SPARTAN 1|78
+1987ApJ...319..118U|Ulmer, M;Cruddace, R;Fenimore, E;Fritz, G;Snyder, W|SPARTAN 1 X-Ray Observations of the Perseus Cluster: Comparison of the Iron Abundances and Temperatures in the Inner and Outer Regions of the Cluster|41
+1985PASAu...6..186G|Greenhill, J;Fenton, K;Sood, R;Tuohy, I|An australian broad-band satellite for X-ray astronomy.|1

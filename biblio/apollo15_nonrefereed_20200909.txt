@@ -1,0 +1,30 @@
+2005M&PSA..40.5281A|Arnold, J;Metzger, A;Trombka, J;Reedy, R|The Global View of Lunar Geochemistry from the Apollo Gamma Ray Spectrometer|0
+2001SPIE.4507..162L|Lawrence, D;Barraclough, B;Feldman, W;Prettyman, T;Wiens, R|Combined gamma-ray and neutron detector for measuring the chemical composition of airless planetary bodies|0
+2001iaop.work...49L|Lawrence, D;Barraclough, B;Feldman, W;Prettyman, T;Wiens, R|A Combined Gamma-Ray and Neutron Detector for Measuring the Chemical Composition of Comets and Other Planetary Bodies|0
+1999LPI....30.1824C|Clark, P;Evans, L|Determining Lunar Titanium Abundance on the Basis of Combined Remote Sensing Techniques|0
+1999nvm..conf....5B|Bussey, D;Spudis, P;Gillis, J|Lunar Global Petrologic Variations|0
+1999nvm..conf....7C|Clark, P;Evans, L|The Distribution of Titanium in Lunar Soils on the Basis of Sensor and In Situ Data Fusion|0
+1999nvm..conf...38L|Lawrence, D;Feldman, W;Barraclough, B;Elphic, R;Maurice, S;Binder, A;Lucey, P|Iron Abundances on the Moon as Seen by the Lunar Prospector Gamma-Ray Spectrometer|0
+1999nvm..conf...50R|Reedy, R;Vaniman, D|Lunar Elemental Abundances from Gamma-Ray and Neutron Measurements|0
+1999nvm..conf...62S|Staid, M;Pieters, C|The Mineralogy of the Youngest Lunar Basalts|0
+1998DPS....30.0702M|McFadden, L;Clark, P;Basu, A|Iron signatures in Planetary Regoliths: The Moon as Case Study|0
+1998DPS....30.0703C|Clark, P;Evans, L;Murphy, M|Determining Iron Distribution in the Regolith of 433 Eros|0
+1997LPI....28..237C|Clark, P;McFadden, L|Mapping Iron Distribution in the Lunar Crust, Part 1: Establishing the Relationship Between Chemical and Mineralogical Iron Abundances and Albedo|4
+1997LPI....28..519H|Haskin, L|The Distribution of Th on the Moon's Surface|4
+1997LPI....28..841L|Lucey, P;Blewett, D|Some Issues Related to Lunar FeO and TiO2 Multispectral Mapping|3
+1997herb.conf...47E|Evans, L;Trombka, J;Starr, R;Boynton, W;Bailey, S|Continuum background in space-borne gamma-ray detectors.|0
+1991sca..book...28K|Ko, H;Sture, S|Lunar regolith densification|0
+1989mtak.conf..100R|Reedy, R|Elemental Abundances Around Apollo 14 and Other Selected Lunar Regions from the Apollo Gamma-Ray Spectrometer Experiment|0
+1985ga15.conf...60S|Swann, G|Some observations on the geology of the Apollo 15 landing site|0
+1978grsa.rept...98R|Reedy, R|Planetary gamma-ray spectroscopy|1
+1978grsa.rept..190G|Gilman, D;Metzger, A;Parker, R;Trombka, J|The galactic gamma-ray flux in the 0.06 to 5 MeV range|6
+1977NASSP.370..153T|Trombka, J;Arnold, J;Adler, I;Metzger, A;Reedy, R|Lunar elemental analysis obtained from the Apollo gamma-ray and X-ray remote sensing experiment.|1
+1977spmf.conf.....A|Arnold, J|Lunar resource surveys from orbit|8
+1976cuni.rept.....G|Greisen, K|Studies in support of the analysis of astronomical data from Apollo 16|0
+1975ICRC....1....2D|Dyer, C;Trombka, J;Metzger, A;Seltzer, S;Bielefeld, M;Evans, L|Interpretation of Various Radiation Background Observed in the Gamma-Ray Spectrometer Experiments Carried on the Apollo Missions and Implications for Diffuse Gamma-Ray Measurements|3
+1975LPI.....6..818T|Trombka, J;Reedy, R;Bielefeld, M;Metzger, A;Arnold, J;Dyer, C;Seltzer, S|Analytic Methods in Determining Elemental Composition From the Apollo Gamma-Ray Spectrometer Data|0
+1975gsfc.rept.....D|Dyer, C;Trombka, J|Apollo 17 mission Report. Supplement 6: Calibration results for gamma ray spectrometer sodium iodide crystal|0
+1974leao.book.....M|Metzger, A;Arnold, J;Adler, I;Trombka, J;Reedy, R|Lunar elementar analysis obtained from the Apollo gamma-ray and X-ray remote sending experiment.|0
+1974map..confS...4T|Trombka, J;Arnold, J;Adler, I;Metzger, A;Reedy, R|Lunar elemental analysis obtained from the Apollo gamma-ray and X-ray remote sensing experiment|0
+1974plug.nasa..429A|Allen, J|Summary of scientific results: Apollo 15|0
+1973LPI.....4..517M|Metzger, A;Trombka, J;Arnold, J;Reedy, R;Peterson, L|Some Correlations Between Measurements by the Apollo Gamma Ray Spectrometer and Other Lunar Observations|0

@@ -1,0 +1,36 @@
+{
+    "title": "The Salyut 4 Space Station",
+    "name": "The Salyut 4 Space Station",
+    "alttext": "Line drawing of Salyut 4",
+    "imagesize": 300,
+    "imageurl": "/Images/misc_missions/salyut-4_2_small.gif",
+    "descript": "<p><b><font size=\"+2\">T</font>he Salyut 4</b> space station was launched on 26 December 1974. It was in an orbit with an apogee of 355 km and a perigee of 343 km. The orbital period was 91.3 minutes. It was at an inclination of 51.6 degrees. The X-ray telescope was switched on on 15 January 1975. Salyut-4 reentered the Earth&rsquo;s atmosphere on 2 February 1977.",
+    "decade": 1970,
+    "lifetime": "Jan 1975&ndash;Feb 1977",
+    "features": [
+	"Space station launched and operated by the Soviet Union, which included an X-ray telescope"
+    ],
+    "instruments": [
+	{
+	    "name" : "Salyut 4 X-ray instrument (Filin telescope)",
+	    "energy" : "0.2&ndash;10 keV",
+	    "area" : " 37 cm<sup>2</sup>&emsp;0.2&ndash;2 keV<br>450 cm<sup>2</sup>&emsp;2&ndash;10 keV",
+	    "fov" :  " 3&deg; &times 10&deg; (FWHM) collimator",
+	    "descript" : "The Salyut-4 X-ray instrument, often called the Filin telescope, consisted of four gas flow proportional counters, three of which have a total detection surface of 450 cm<sup>2</sup> in the energy range 2&ndash;10 keV, and one of which has an effective surface of 37 cm<sup>2</sup> for the range 0.2&ndash;2 keV. The field of view was limited by a slit collimator. The instrumentation also included optical sensors which were mounted on the outside of the station together with the X-ray detectors, and power supply and measurement units which were inside the station. Ground based calibration of the detectors is considered along with in-flight operation in three modes: inertial orientation, orbital orientation, and survey. Data could be collected in 4 energy channels: 2&ndash;3.1 keV, 3.1&ndash;5.9 keV, 5.9&ndash;9.6 keV, and 2&ndash;9.6 keV in the larger detectors. The smaller detector had discriminator levels set at 0.2 keV, 0.55 keV, and 0.95 keV."
+	}
+    ],
+    "highlights": [
+	"Among others, observations of Sco X-1, Cir X-1, Cyg X-1, and A0620-00 were published from the Filin data. A highly variable low energy (0.6&ndash;0.9 keV) flux was detected in Sco X-1. Cir X-1 was not detected at all during a 5 July 1975 observation, providing an upper limit on the emission of 3.5 &times; 10<sup>-11</sup> erg/cm<sup>2</sup>/s in the 0.2&ndash;2.0 keV range. Cyg X-1 was observed on several occasions. Highly variable flux, in both the time and energy domains, was observed."
+    ],
+    "archive": "",
+    "navigation": [
+      {
+	  "url": "images/salyut4_images.html",
+	  "text": "Gallery"
+      },
+	{
+	    "url": "biblio/salyut4_biblio.html",
+	    "text": "Publications"
+	}
+    ]
+}
